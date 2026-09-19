@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kuldeep Plywood Industries",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier",
+    "pincode": "271855",
+    "phone_number": "+91 98892 01010",
+    "website": "http://www.kuldeepplywoodindustries.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "3401, Nadarganj Industrial Area Rd, Amausi, Lucknow, Uttar Pradesh 226008",
+    "area": "Amausi",
+    "latitude": 26.7776873,
+    "longitude": 80.860986,
+    "place_id": "ChIJOfXCHjz5mzkRdE5rTNY5DyA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOfXCHjz5mzkRdE5rTNY5DyA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:20:08"
+  },
+  {
+    "business_name": "Ikram Saw Mills",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Wood supplier",
+    "all_categories": "Wood supplier",
+    "pincode": "271855",
+    "phone_number": "N/A",
+    "website": "http://www.woodmillers.com/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "250, Ikram Saw Mills, Mohalla Qila -271865, Nanpara, Uttar Pradesh 271865",
+    "area": "271855",
+    "latitude": 27.866725499999998,
+    "longitude": 81.5020529,
+    "place_id": "ChIJozOkk8r3mDkRViOPoedtP8o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJozOkk8r3mDkRViOPoedtP8o",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:20:11"
+  }
+]

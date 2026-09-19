@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Homely Solutions",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Cleaning service",
+    "pincode": "271861",
+    "phone_number": "+91 90368 53501",
+    "website": "https://www.homelysolutions.in/",
+    "rating": 4.8,
+    "reviews_count": 661,
+    "address": "#182, 2, Koorgally, Karnataka 570018",
+    "area": "271861",
+    "latitude": 12.350410199999999,
+    "longitude": 76.5762755,
+    "place_id": "ChIJPX_NghN7rzsRk9vaKRtGSg4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPX_NghN7rzsRk9vaKRtGSg4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:22:35"
+  },
+  {
+    "business_name": "Smart Seve - Online Home Services (Formerly known as Smart Tumakuru Service)",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Air conditioning repair service, Appliance repair service, Cleaning Services, Real Estate Builders & Construction Company, Repair service, Internet marketing service, Kitchen remodeler, Painter, Washer & dryer repair service",
+    "pincode": "271861",
+    "phone_number": "+91 80071 80072",
+    "website": "https://smartseve.com/",
+    "rating": 4.8,
+    "reviews_count": 1117,
+    "address": "S.S, temple road, Vinobha Nagar, P H Rich Colony, Tumakur, Karnataka 572101",
+    "area": "Vinobha Nagar, P H Rich Colony",
+    "latitude": 13.3395608,
+    "longitude": 77.0941162,
+    "place_id": "ChIJeWzXo9cvsDsR3GhF5jJLEDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeWzXo9cvsDsR3GhF5jJLEDA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:22:35"
+  }
+]

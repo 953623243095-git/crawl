@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nirmal Mobile Shop",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store",
+    "pincode": "271841",
+    "phone_number": "+91 94157 73327",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Semari Ghatahi, Uttar Pradesh 271855",
+    "area": "271841",
+    "latitude": 28.1233048,
+    "longitude": 81.2148263,
+    "place_id": "ChIJn-PsarmXmDkREWqcn6j_kxY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn-PsarmXmDkREWqcn6j_kxY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:15:23"
+  },
+  {
+    "business_name": "Ram mobile shop",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store",
+    "pincode": "271841",
+    "phone_number": "+91 91202 09121",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Imamganj Rd, bazar, Nanpara, Uttar Pradesh 271865",
+    "area": "bazar",
+    "latitude": 27.8598194,
+    "longitude": 81.49878009999999,
+    "place_id": "ChIJv8ylLJ33mDkR3eYiKCJQSvI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv8ylLJ33mDkR3eYiKCJQSvI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:15:23"
+  }
+]

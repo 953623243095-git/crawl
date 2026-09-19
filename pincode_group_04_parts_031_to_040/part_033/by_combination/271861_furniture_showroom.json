@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Carpenter",
+    "all_categories": "Carpenter",
+    "pincode": "271861",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khalwa, Balrampur, Uttar Pradesh 271201",
+    "area": "271861",
+    "latitude": 27.4268848,
+    "longitude": 82.1980827,
+    "place_id": "ChIJAybtDdDZmTkRbOcl2CCkTZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAybtDdDZmTkRbOcl2CCkTZY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:22:01"
+  },
+  {
+    "business_name": "Gayatri Bartan bhandar",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Kitchen supply store",
+    "all_categories": "Kitchen supply store",
+    "pincode": "271861",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Bazar, Chowk Road, bartan market, Balrampur, Uttar Pradesh 271201",
+    "area": "bartan market",
+    "latitude": 27.4278302,
+    "longitude": 82.1876032,
+    "place_id": "ChIJP9S-eMzYmTkRuhh13EDXrZg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP9S-eMzYmTkRuhh13EDXrZg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:22:03"
+  }
+]

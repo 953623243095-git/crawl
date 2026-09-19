@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Janakiram Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "271845",
+    "phone_number": "+91 63042 20260",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 659,
+    "address": "Sapthagiri nagar, Chinnamushidiwada, Pendurthi, Chinnamusidivada, Andhra Pradesh 530051",
+    "area": "Sapthagiri nagar, Chinnamushidiwada, Pendurthi",
+    "latitude": 17.8032163,
+    "longitude": 83.2097009,
+    "place_id": "ChIJlS5Rt2RnOToR6XegDfu32Ng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlS5Rt2RnOToR6XegDfu32Ng",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:16:10"
+  },
+  {
+    "business_name": "Mahesh jewelers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "271845",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Agra, Kundol, Uttar Pradesh 283111",
+    "area": "271845",
+    "latitude": 27.1162837,
+    "longitude": 78.1299816,
+    "place_id": "ChIJj2yPc5VtdDkRb_bPgCD87-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj2yPc5VtdDkRb_bPgCD87-M",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:16:12"
+  }
+]

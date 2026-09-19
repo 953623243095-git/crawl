@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Furniture Mall",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store, Bedroom furniture store, Carpet store, Children's furniture store, Garden Furniture Store, Gift shop, Kitchen furniture store, Mattress store, Office furniture store, Sofa store",
+    "pincode": "271840",
+    "phone_number": "+91 6115 234 933",
+    "website": "http://furnituremallpatna.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Near, Bailey Rd, beside IOC Petrol Pump, RPS More, Kaliket Nagar, Patna, Bihar 801503",
+    "area": "RPS More, Kaliket Nagar",
+    "latitude": 25.6157064,
+    "longitude": 85.0506266,
+    "place_id": "ChIJVQh3OFtW7TkRZpnGmzabvKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVQh3OFtW7TkRZpnGmzabvKE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:13:13"
+  },
+  {
+    "business_name": "VISHWAKARMA HARDWARE FURNITURE",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Carpenter",
+    "all_categories": "Carpenter",
+    "pincode": "271840",
+    "phone_number": "+91 83038 80518",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Chailahi, Jurpaniya, Uttar Pradesh 271840",
+    "area": "271840",
+    "latitude": 27.7856046,
+    "longitude": 82.0211885,
+    "place_id": "ChIJlXaXo4QzmDkRlWcQvNiSufU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlXaXo4QzmDkRlWcQvNiSufU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:13:14"
+  }
+]

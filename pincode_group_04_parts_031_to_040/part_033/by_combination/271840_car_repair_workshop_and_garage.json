@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "San's Autozone",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "271840",
+    "phone_number": "+91 95051 55222",
+    "website": "https://sansautozone.com/",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "Ramalayam St, rd, Vishalakshi Nagar, Visakhapatnam, Andhra Pradesh 530043",
+    "area": "rd, Vishalakshi Nagar",
+    "latitude": 17.7568591,
+    "longitude": 83.3365378,
+    "place_id": "ChIJkYpQEABbOToRKFmQY1n0V6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkYpQEABbOToRKFmQY1n0V6Y",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:12:55"
+  },
+  {
+    "business_name": "Him Automobiles - Authorised Hyundai Service Centre",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, Car dealer, Mechanic",
+    "pincode": "271840",
+    "phone_number": "+91 97364 99006",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 757,
+    "address": "NH-70,Near Shukrala Bridge,Vill Panchwati,P.o Jalari, Nadaun, Himachal Pradesh 177042",
+    "area": "271840",
+    "latitude": 31.741125699999998,
+    "longitude": 76.3792485,
+    "place_id": "ChIJZy_auzssGzkR_FzW-g5euSw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZy_auzssGzkR_FzW-g5euSw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:12:55"
+  }
+]

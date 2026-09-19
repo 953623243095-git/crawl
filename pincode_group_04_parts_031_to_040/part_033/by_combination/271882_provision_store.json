@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Asjad Raza Kirana Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "271882",
+    "phone_number": "+91 95552 41773",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "0, Balbhaddarpur, Uttar Pradesh 271875",
+    "area": "271882",
+    "latitude": 27.701510499999998,
+    "longitude": 81.5831195,
+    "place_id": "ChIJyYXI_z1VmDkRVPx8AW30s4Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyYXI_z1VmDkRVPx8AW30s4Q",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:33:37"
+  },
+  {
+    "business_name": "Mohd Anas General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "271882",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jolahan Purwa Intha, Intaha, Uttar Pradesh 271882",
+    "area": "271882",
+    "latitude": 27.7427361,
+    "longitude": 81.45507479999999,
+    "place_id": "ChIJYwBv6db_mDkRHrr7lCVnJWY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYwBv6db_mDkRHrr7lCVnJWY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:33:37"
+  }
+]

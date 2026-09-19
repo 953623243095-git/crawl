@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goswami Computers",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "271882",
+    "phone_number": "+91 77558 63405",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2, Matera Chauraha, Padari Tara, Uttar Pradesh 271882",
+    "area": "271882",
+    "latitude": 27.7470572,
+    "longitude": 81.5730495,
+    "place_id": "ChIJe9OvWw1VmDkR5GBHedkvulg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe9OvWw1VmDkR5GBHedkvulg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:34:56"
+  },
+  {
+    "business_name": "Tepraha",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "271882",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MG7C+VFC, Kurwari Mafi, Uttar Pradesh 271875",
+    "area": "271882",
+    "latitude": 27.664642299999997,
+    "longitude": 81.5210803,
+    "place_id": "ChIJmR2LEACrmTkRCxC-AOUayxg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmR2LEACrmTkRCxC-AOUayxg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:34:56"
+  }
+]

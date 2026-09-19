@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Men's mart",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "271901",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "gulam.hotel.ke.samne, Batasa wali gali, Bahraich, Jarwal, Uttar Pradesh 271904",
+    "area": "271901",
+    "latitude": 27.1653845,
+    "longitude": 81.5388571,
+    "place_id": "ChIJqQ7VE9-dmTkR60SNKPrVDg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqQ7VE9-dmTkR60SNKPrVDg8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:35:38"
+  },
+  {
+    "business_name": "Mahesh Fusion Shop",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "271901",
+    "phone_number": "+91 89606 94156",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jarwal Rd, Bambhaura, Jarwal Road, Uttar Pradesh 271901",
+    "area": "271901",
+    "latitude": 27.121128499999998,
+    "longitude": 81.5443416,
+    "place_id": "ChIJaV89H1idmTkRls-EkVEbK1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaV89H1idmTkRls-EkVEbK1A",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:35:38"
+  }
+]

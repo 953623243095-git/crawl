@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "imam Ali",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "271845",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "FWHJ+XM3, Ikauna, Balapur, Uttar Pradesh 271845",
+    "area": "271845",
+    "latitude": 27.4798798,
+    "longitude": 81.931657,
+    "place_id": "ChIJU-8xKADHmTkR4IH9F9FAG24",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU-8xKADHmTkR4IH9F9FAG24",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:16:04"
+  },
+  {
+    "business_name": "Desi sharan ki dukan",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "271845",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C2P2+P5M, वीरपुर चौराहा, Paras Rampur, Uttar Pradesh 271845",
+    "area": "271845",
+    "latitude": 27.436837999999998,
+    "longitude": 82.0004072,
+    "place_id": "ChIJ7zM-6MvFmTkRcmTVsKOGws0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7zM-6MvFmTkRcmTVsKOGws0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:16:04"
+  }
+]

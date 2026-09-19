@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Makeup salon acadmy",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "271865",
+    "phone_number": "+91 82998 43165",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chakiya road, Rupaidiha, Uttar Pradesh 271881",
+    "area": "271865",
+    "latitude": 28.0126691,
+    "longitude": 81.59812269999999,
+    "place_id": "ChIJ9bsral9fmDkR0NhDlCI2GhU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9bsral9fmDkR0NhDlCI2GhU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:23:54"
+  },
+  {
+    "business_name": "Makeup byDeepika",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "271865",
+    "phone_number": "+91 78959 60400",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 129,
+    "address": "H.No-23, Vijay Apartment Gate No.1, Ramghat Rd, Vikram Colony, Aligarh, Uttar Pradesh 202001",
+    "area": "Vikram Colony, Begpur",
+    "latitude": 27.8997624,
+    "longitude": 78.0934271,
+    "place_id": "ChIJpaWma0OjdDkRpBeyZEWhRzQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpaWma0OjdDkRpBeyZEWhRzQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:23:56"
+  }
+]

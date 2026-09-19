@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anmol's Indian Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "271855",
+    "phone_number": "N/A",
+    "website": "http://anmolskitchen.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bypass road, Nepalgunj, Lumbini Province 21900, Nepal",
+    "area": "271855",
+    "latitude": 28.0706715,
+    "longitude": 81.6391148,
+    "place_id": "ChIJe5Dd8ZVnmDkRUojVjlE7LaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe5Dd8ZVnmDkRUojVjlE7LaU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:19:33"
+  },
+  {
+    "business_name": "ASHOK GUPTA BARTAN STORE",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "271855",
+    "phone_number": "+91 5253 240 845",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "2H7X+434, Rupaidiha, Uttar Pradesh 271881",
+    "area": "271855",
+    "latitude": 28.012757399999998,
+    "longitude": 81.5977174,
+    "place_id": "ChIJWyYaVHFemDkR0Mx3UiXvWJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWyYaVHFemDkR0Mx3UiXvWJA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:19:35"
+  }
+]

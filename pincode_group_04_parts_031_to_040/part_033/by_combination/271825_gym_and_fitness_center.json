@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gym Unisex",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "271825",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "56G8+92F, Tehsil Fateh Pur, Chakkajipur, Uttar Pradesh 225305",
+    "area": "271825",
+    "latitude": 27.175937599999997,
+    "longitude": 81.2150611,
+    "place_id": "ChIJFZHnqN9pmTkRQxtphIABD6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZHnqN9pmTkRQxtphIABD6o",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:05:41"
+  },
+  {
+    "business_name": "Body&Soul Fitness Center",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "271825",
+    "phone_number": "+91 72670 80107",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rajput Conplex, Ramleela Rd, Harraiya, Uttar Pradesh 272155",
+    "area": "271825",
+    "latitude": 26.7964122,
+    "longitude": 82.46531809999999,
+    "place_id": "ChIJpRx_9DKxkDkRDEzrmxU9ISo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpRx_9DKxkDkRDEzrmxU9ISo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:05:41"
+  }
+]

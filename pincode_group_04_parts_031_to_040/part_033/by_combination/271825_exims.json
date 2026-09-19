@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivansh Traders",
+    "search_category": "EXIMS",
+    "primary_category": "Building materials market",
+    "all_categories": "Building materials market",
+    "pincode": "271825",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shri Ram Janki Tower, Digiha, Brahmnipura, Bahraich, Uttar Pradesh 271801",
+    "area": "Digiha, Brahmnipura",
+    "latitude": 27.5705152,
+    "longitude": 81.59766719999999,
+    "place_id": "ChIJXdPrLRipmTkRqAaBK9pTSUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXdPrLRipmTkRqAaBK9pTSUI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:06:46"
+  },
+  {
+    "business_name": "Shiva HP Gas",
+    "search_category": "EXIMS",
+    "primary_category": "Gas shop",
+    "all_categories": "Gas shop",
+    "pincode": "271825",
+    "phone_number": "+91 72329 34083",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "GHPC+765, Tikora, Hemariya, Uttar Pradesh 271825",
+    "area": "271825",
+    "latitude": 27.535630599999998,
+    "longitude": 81.5706246,
+    "place_id": "ChIJwyletQSpmTkROkb4fOhVHjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwyletQSpmTkROkb4fOhVHjI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:06:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "YASODHA HOSPITAL",
+    "search_category": "Doctors",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "271861",
+    "phone_number": "+91 74589 69715",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "sekhui kala, R. R. Palace chhitauni road, Balrampur - Bahraich Rd, Balrampur, Uttar Pradesh 271201",
+    "area": "271861",
+    "latitude": 27.447074699999998,
+    "longitude": 82.1651059,
+    "place_id": "ChIJPetwXADZmTkR0E0UY-13zt8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPetwXADZmTkR0E0UY-13zt8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:21:35"
+  },
+  {
+    "business_name": "Dr. Sunil kumar",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "271861",
+    "phone_number": "+91 70077 30654",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sekhuikalan, Balrampur - Bahraich Rd, Balrampur, Uttar Pradesh 271201",
+    "area": "271861",
+    "latitude": 27.447325,
+    "longitude": 82.1581228,
+    "place_id": "ChIJsWfKXxvZmTkRcmDZ22p1XPU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsWfKXxvZmTkRcmDZ22p1XPU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:21:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Asmina Gift Shop",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "271871",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5X29+3JV, Payagpur Bazar, Veer Pur, Bahraich, Gonda, Uttar Pradesh 271870",
+    "area": "Veer Pur",
+    "latitude": 27.150242799999997,
+    "longitude": 81.9690397,
+    "place_id": "ChIJudV7Z0bvmTkRjHozdkQOI0w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJudV7Z0bvmTkRjHozdkQOI0w",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:27:37"
+  },
+  {
+    "business_name": "Kamta Gift Shop",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "271871",
+    "phone_number": "+91 75104 64932",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Payagpur, Bahraich, Uttar Pradesh 271871",
+    "area": "271871",
+    "latitude": 27.400102999999998,
+    "longitude": 81.77593929999999,
+    "place_id": "ChIJAdFBISe9mTkRuRmDXBETYf0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAdFBISe9mTkRuRmDXBETYf0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:27:39"
+  }
+]

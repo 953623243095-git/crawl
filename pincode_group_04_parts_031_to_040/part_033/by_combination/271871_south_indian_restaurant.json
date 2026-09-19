@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New South Indian Cafe (Dosa Wala)",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Fast food restaurant, Food court",
+    "pincode": "271871",
+    "phone_number": "+91 98101 39173",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "A-5, Block C, Shivshankar Market, Madangir, New Delhi, Delhi 110062",
+    "area": "Block C, Shivshankar Market, Madangir",
+    "latitude": 28.521799599999998,
+    "longitude": 77.23193169999999,
+    "place_id": "ChIJE_2YS_bhDDkRVy2GJzwo3x8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE_2YS_bhDDkRVy2GJzwo3x8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:26:43"
+  },
+  {
+    "business_name": "Hotel Dasaprakash/ Udupi Brindavan",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, South Indian restaurant",
+    "pincode": "271871",
+    "phone_number": "+91 90689 99818",
+    "website": "http://www.dasaprakashrudrakshagra.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "18/163A/ 6, Shamshabad Road, near Amit Jaggi Hospital, Vibhav Nagar, Tajganj, Agra, Uttar Pradesh 282001",
+    "area": "Vibhav Nagar, Tajganj",
+    "latitude": 27.1584561,
+    "longitude": 78.0343394,
+    "place_id": "ChIJDVpe0JZxdDkR9TMVDikdGEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDVpe0JZxdDkR9TMVDikdGEE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:26:43"
+  }
+]

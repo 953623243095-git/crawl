@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ishwar Prasad Yadav",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "271825",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HHCX+632, Brahmnipura, Bahraich, Uttar Pradesh 271801",
+    "area": "Brahmnipura",
+    "latitude": 27.5705232,
+    "longitude": 81.5976486,
+    "place_id": "ChIJgSDSQsypmTkRa_Vziovl4lA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgSDSQsypmTkRa_Vziovl4lA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:05:22"
+  },
+  {
+    "business_name": "JOJI Bar, Restaurant & Game Zone",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar, Restaurant, Bar & grill, Fish spa, Game store, Massage spa, Non Vegetarian Restaurant, Outdoor movie theater",
+    "pincode": "271825",
+    "phone_number": "+91 94601 54488",
+    "website": "https://www.abutimes.com/joji-mountabu",
+    "rating": 4.8,
+    "reviews_count": 3900,
+    "address": "JOJI BEER & FOOD, opp. Honest restaurant, Nakki Lake, Aburaj, Rajasthan 307501",
+    "area": "Nakki Lake",
+    "latitude": 24.5922914,
+    "longitude": 72.70779139999999,
+    "place_id": "ChIJsUrG-6zVXDkRtvmMhsPtB_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsUrG-6zVXDkRtvmMhsPtB_c",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:05:24"
+  }
+]

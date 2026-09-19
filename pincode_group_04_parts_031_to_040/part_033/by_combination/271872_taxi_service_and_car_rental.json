@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rakesh Murgi Farm",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service",
+    "pincode": "271872",
+    "phone_number": "+91 92363 13656",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8M52 44, Road, Huzoorpur, Bahraich, Uttar Pradesh 271872",
+    "area": "271872",
+    "latitude": 27.307859999999998,
+    "longitude": 81.65031499999999,
+    "place_id": "ChIJ4ab5wQOjmTkRNPZr_U6Vmho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4ab5wQOjmTkRNPZr_U6Vmho",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:28:55"
+  },
+  {
+    "business_name": "Taj Tour & Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Car rental agency, Minibus taxi service, Taxi service",
+    "pincode": "271872",
+    "phone_number": "+91 70076 56485",
+    "website": "https://tajtourtravels.blogspot.com/",
+    "rating": 4,
+    "reviews_count": 128,
+    "address": "14 Church Campound Tikoniya Park, Uttar Pradesh 228001",
+    "area": "Civil Line",
+    "latitude": 26.2637266,
+    "longitude": 82.0753107,
+    "place_id": "ChIJhYmVvPF8mjkRUCn0SBocljs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhYmVvPF8mjkRUCn0SBocljs",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:28:56"
+  }
+]

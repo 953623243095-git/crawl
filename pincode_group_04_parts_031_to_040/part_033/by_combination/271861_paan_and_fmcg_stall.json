@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lavlesh Paan Shop",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Tobacco shop",
+    "all_categories": "Tobacco shop",
+    "pincode": "271861",
+    "phone_number": "+91 84249 89260",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "PP97+P5P, Street Vendors, Phase 3, Industrial Area, Sector 58, Sahibzada Ajit Singh Nagar, Punjab 160059",
+    "area": "Phase 3, Industrial Area, Sector 58",
+    "latitude": 30.7193465,
+    "longitude": 76.7129472,
+    "place_id": "ChIJycG6qWfuDzkRAAAA0Kv36yw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJycG6qWfuDzkRAAAA0Kv36yw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:21:13"
+  },
+  {
+    "business_name": "Paan Shop",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Tobacco shop",
+    "all_categories": "Tobacco shop",
+    "pincode": "271861",
+    "phone_number": "+91 75810 70351",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Atal Nagar-Nava Raipur, Mana, Raipur, Chhattisgarh 492016",
+    "area": "271861",
+    "latitude": 21.1686771,
+    "longitude": 81.72591059999999,
+    "place_id": "ChIJr0XBtJnFKDoR06oEAhIYbno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr0XBtJnFKDoR06oEAhIYbno",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:21:13"
+  }
+]

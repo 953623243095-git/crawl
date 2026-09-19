@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Atul Holidays & Taxi Services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Car rental agency, Sightseeing Tour Operator, Tour agency, Tour operator, Transportation service, Travel agency",
+    "pincode": "271841",
+    "phone_number": "+91 70601 12552",
+    "website": "https://www.agrataxi.net/",
+    "rating": 4.9,
+    "reviews_count": 799,
+    "address": "HIG/B36, Tin Ka Nagla Rd, Taj Nagari, Telipara, Tajganj, Agra, Dhandhupura, Uttar Pradesh 282001",
+    "area": "Taj Nagari, Telipara, Tajganj",
+    "latitude": 27.162114499999998,
+    "longitude": 78.0537921,
+    "place_id": "ChIJiQ-cQcpxdDkRVziNpbYTlTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiQ-cQcpxdDkRVziNpbYTlTU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:14:46"
+  },
+  {
+    "business_name": "Gupta Auto Wale",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "271841",
+    "phone_number": "+91 63930 37810",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gupta Market Sohariya Sohariya Sakran Laharpur, Uttar Pradesh 261208",
+    "area": "271841",
+    "latitude": 27.6512973,
+    "longitude": 81.0699515,
+    "place_id": "ChIJ2RJS7rDZmDkR0Q-bm5gWYJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2RJS7rDZmDkR0Q-bm5gWYJA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:14:47"
+  }
+]

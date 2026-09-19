@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TWO BROTHERS RESTAURANT",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Non Vegetarian Restaurant",
+    "pincode": "271825",
+    "phone_number": "+91 91406 00373",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Silauta, Sisai Haidar, Bahraich, Uttar Pradesh 271801",
+    "area": "Silauta",
+    "latitude": 27.540336699999997,
+    "longitude": 81.563919,
+    "place_id": "ChIJ3ZAKCgCpmTkRQ0ckruUAOY0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3ZAKCgCpmTkRQ0ckruUAOY0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:05:23"
+  },
+  {
+    "business_name": "FAUJI DHABA (Family RESTAURANT)",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "271825",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "9th KM, Bahraich - Lucknow Rd, Bahraich, Uttar Pradesh 271825",
+    "area": "271825",
+    "latitude": 27.4967653,
+    "longitude": 81.5535962,
+    "place_id": "ChIJE8WwB6ipmTkRJd3e8o2y_M4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE8WwB6ipmTkRJd3e8o2y_M4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:05:25"
+  }
+]

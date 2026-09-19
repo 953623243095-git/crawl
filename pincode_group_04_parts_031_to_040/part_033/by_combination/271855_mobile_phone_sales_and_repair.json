@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saurabh Telecom",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "271855",
+    "phone_number": "+91 94525 70001",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "near Good Good Dairy, Babaganj, Uttar Pradesh 271881",
+    "area": "271855",
+    "latitude": 27.9659375,
+    "longitude": 81.5650625,
+    "place_id": "ChIJS3TbhQBfmDkRRZcpnyZDSDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS3TbhQBfmDkRRZcpnyZDSDU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:20:40"
+  },
+  {
+    "business_name": "Amlani Agencies",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "271855",
+    "phone_number": "+91 94507 49106",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 33,
+    "address": "Azaad Rd, Rupaidiha, Uttar Pradesh 271881",
+    "area": "271855",
+    "latitude": 28.013386999999998,
+    "longitude": 81.5978974,
+    "place_id": "ChIJ0-uAB3RemDkR1TDLLWRWV-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0-uAB3RemDkR1TDLLWRWV-s",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:20:42"
+  }
+]

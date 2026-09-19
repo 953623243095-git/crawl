@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mumkins Kids Wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store, Baby clothing store, Childrens Store, Clothing store",
+    "pincode": "271861",
+    "phone_number": "+91 72300 34438",
+    "website": "https://mumkins.in/",
+    "rating": 4.9,
+    "reviews_count": 129,
+    "address": "Plot No. 9, Kakaguda Rd, New Vasavi Nagar, Secundarabad, Hyderabad, Secunderabad, Telangana 500015",
+    "area": "New Vasavi Nagar, Secundarabad",
+    "latitude": 17.463755799999998,
+    "longitude": 78.5025713,
+    "place_id": "ChIJJ3bd1H6byzsRGG5hqCBquDQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ3bd1H6byzsRGG5hqCBquDQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:21:26"
+  },
+  {
+    "business_name": "Firstcry.com Store Balrampur Sarai Phatak",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "271861",
+    "phone_number": "+91 98386 32236",
+    "website": "http://www.firstcry.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Gulati Vastralaya, Sarai Fatak, Balrampur, Uttar Pradesh 271201",
+    "area": "271861",
+    "latitude": 27.4288256,
+    "longitude": 82.1835596,
+    "place_id": "ChIJ54UN8K7ZmTkR_7D-ssx5Dfw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ54UN8K7ZmTkR_7D-ssx5Dfw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:21:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucky Garments",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Store",
+    "pincode": "271901",
+    "phone_number": "+91 91296 76018",
+    "website": "https://www.luckygroup.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Jarwal, Uttar Pradesh 271904",
+    "area": "271901",
+    "latitude": 27.16433,
+    "longitude": 81.5394204,
+    "place_id": "ChIJM5iQfwCdmTkRXpyDLuqdU90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM5iQfwCdmTkRXpyDLuqdU90",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:35:38"
+  },
+  {
+    "business_name": "Maksood Traders",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "271901",
+    "phone_number": "+91 75659 29856",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "0, Kasba, Jarwal, Uttar Pradesh 271904",
+    "area": "271901",
+    "latitude": 27.166341199999998,
+    "longitude": 81.53967,
+    "place_id": "ChIJn8W0AqidmTkRcBf-F4mvZG8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn8W0AqidmTkRcBf-F4mvZG8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:35:38"
+  }
+]

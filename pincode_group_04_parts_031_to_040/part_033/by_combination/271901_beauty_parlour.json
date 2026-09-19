@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jyoti Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Health and beauty shop",
+    "all_categories": "Health and beauty shop",
+    "pincode": "271901",
+    "phone_number": "+91 91184 26566",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Men Market, Chauraha, Kasba Road, Budan Pur, Uttar Pradesh 271904",
+    "area": "271901",
+    "latitude": 27.1790091,
+    "longitude": 81.5632014,
+    "place_id": "ChIJY3KVvVudmTkRilgMO-e7hYM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY3KVvVudmTkRilgMO-e7hYM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:36:13"
+  },
+  {
+    "business_name": "Danyal Shringar house",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty supply store",
+    "all_categories": "Beauty supply store",
+    "pincode": "271901",
+    "phone_number": "+91 91255 26804",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Lucknow to gonda marg, Jarwal Road, Uttar Pradesh 271901",
+    "area": "271901",
+    "latitude": 27.1189617,
+    "longitude": 81.5439578,
+    "place_id": "ChIJP8cYRgydmTkRe_LQg4ITXJ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP8cYRgydmTkRe_LQg4ITXJ4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:36:15"
+  }
+]

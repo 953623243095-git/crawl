@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Real Estate Consultant",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Real estate agency",
+    "pincode": "271841",
+    "phone_number": "+91 98250 22883",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "GF-5, Madhuvan Complex, SBI Building, Railway Overbridge, Lalbaug, Manjalpur, Vadodara, Gujarat 390011",
+    "area": "Lalbaug, Manjalpur",
+    "latitude": 22.2811757,
+    "longitude": 73.1969569,
+    "place_id": "ChIJRRhd3-nFXzkRDDaJ1ej8sFM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRRhd3-nFXzkRDDaJ1ej8sFM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:15:34"
+  },
+  {
+    "business_name": "Prime Property Solutions",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Commercial real estate agency",
+    "all_categories": "Commercial real estate agency, Industrial real estate agency, Real estate consultant, Retail space rental agency",
+    "pincode": "271841",
+    "phone_number": "+91 98111 81518",
+    "website": "https://www.primepropertysolutions.co.in/",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "8/6, Block 8, Kirti Nagar Industrial Area, Ramesh Nagar, New Delhi, Delhi 110015",
+    "area": "Kirti Nagar Industrial Area, Ramesh Nagar",
+    "latitude": 28.64848,
+    "longitude": 77.138798,
+    "place_id": "ChIJYTCrQJYDDTkRzq5qIhVNL3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYTCrQJYDDTkRzq5qIhVNL3g",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:15:35"
+  }
+]

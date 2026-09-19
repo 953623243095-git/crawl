@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fitness Zone Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "271861",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Jangali Nath Mandir Rd, Naurangabad, Lakhimpur, Uttar Pradesh 262701",
+    "area": "Naurangabad",
+    "latitude": 27.951871099999998,
+    "longitude": 80.78984539999999,
+    "place_id": "ChIJKwfiWiI1nzkRet9z2y4L-Ww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKwfiWiI1nzkRet9z2y4L-Ww",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:21:42"
+  },
+  {
+    "business_name": "Sanjeevan Fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "271861",
+    "phone_number": "+91 99814 49921",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "3rd Floor, Gur Mehar Tower, near Pathak Petrol Pump, Before Dmart, Bilhari, Jabalpur, Madhya Pradesh 482020",
+    "area": "Before Dmart, Bilhari",
+    "latitude": 23.1284852,
+    "longitude": 79.9653281,
+    "place_id": "ChIJHTcSPmCtgTkRfyWWaANPzc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHTcSPmCtgTkRfyWWaANPzc4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:21:44"
+  }
+]

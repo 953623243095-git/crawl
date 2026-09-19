@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PHARMACIST CHAIWALA",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "271901",
+    "phone_number": "N/A",
+    "website": "http://www.pharmacistchaiwala.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "SHOP NO. 1, Ashok Stambh, Gole Colony, Nashik, Maharashtra 422002",
+    "area": "Ashok Stambh, Gole Colony",
+    "latitude": 20.0067201,
+    "longitude": 73.7838022,
+    "place_id": "ChIJ5TUrrz7r3TsRrKvSE_VgOXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5TUrrz7r3TsRrKvSE_VgOXU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:35:32"
+  },
+  {
+    "business_name": "Chai Ketali, College Road, Nashik",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "271901",
+    "phone_number": "+91 98909 78676",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Madhu Vijay Colony Rd, Madhu Vijay Colony, D'souza Colony, Nashik, Maharashtra 422005",
+    "area": "Madhu Vijay Colony, D'souza Colony",
+    "latitude": 20.0088986,
+    "longitude": 73.75754599999999,
+    "place_id": "ChIJAwIXxTvr3TsRCVb_hGRL9OI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAwIXxTvr3TsRCVb_hGRL9OI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:35:32"
+  }
+]

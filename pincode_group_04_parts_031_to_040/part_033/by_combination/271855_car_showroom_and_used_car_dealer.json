@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arman Khan",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "271855",
+    "phone_number": "+91 78602 66076",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nanpara Rd, Ganv, Ray Bojha, Uttar Pradesh 271865",
+    "area": "Ganv",
+    "latitude": 27.9803508,
+    "longitude": 81.4515945,
+    "place_id": "ChIJrS-PIez1mDkR8XlAZ2jXJbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrS-PIez1mDkR8XlAZ2jXJbw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:19:58"
+  },
+  {
+    "business_name": "Ghidia Auto Sale",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer, Auto parts store",
+    "pincode": "271855",
+    "phone_number": "+91 63882 54895",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Katania Road, opp. Indianbank, Gopiya, Mihinpurwa, Uttar Pradesh 271855",
+    "area": "271855",
+    "latitude": 28.0291177,
+    "longitude": 81.3820238,
+    "place_id": "ChIJNZ18ziqNmDkR1ZAH1-cU_B4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNZ18ziqNmDkR1ZAH1-cU_B4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:19:58"
+  }
+]

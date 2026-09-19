@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Seivastav medical store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier",
+    "pincode": "271835",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GWJG+RF8, Tendwa Mahant, Uttar Pradesh 271845",
+    "area": "271835",
+    "latitude": 27.5320423,
+    "longitude": 81.9261999,
+    "place_id": "ChIJ5UPPPQDJmTkRUTYNTY7PrxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5UPPPQDJmTkRUTYNTY7PrxI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:11:02"
+  },
+  {
+    "business_name": "Odisha Health Care",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Oxygen equipment supplier",
+    "all_categories": "Oxygen equipment supplier, Medical supply store",
+    "pincode": "271835",
+    "phone_number": "+91 73815 86575",
+    "website": "http://www.odishahealthcare.in/",
+    "rating": 4.9,
+    "reviews_count": 395,
+    "address": "Plot No 331 A, Saheed Nagar, Bhubaneswar, Odisha 751007",
+    "area": "Saheed Nagar",
+    "latitude": 20.2880872,
+    "longitude": 85.854192,
+    "place_id": "ChIJNT7GeE-nGToRlFeDhpBg7lI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNT7GeE-nGToRlFeDhpBg7lI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:11:03"
+  }
+]

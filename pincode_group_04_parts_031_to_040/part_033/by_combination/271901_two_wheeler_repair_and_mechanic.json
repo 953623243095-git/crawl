@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Auto Parts Service Centre",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "271901",
+    "phone_number": "+91 84169 90978",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "1, Jarwal Road, Uttar Pradesh 271901",
+    "area": "271901",
+    "latitude": 27.117918999999997,
+    "longitude": 81.5478882,
+    "place_id": "ChIJ0zcNvFCdmTkRn0Mv1QKkMfY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0zcNvFCdmTkRn0Mv1QKkMfY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:35:58"
+  },
+  {
+    "business_name": "Shaharyar Auto Repair",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "271901",
+    "phone_number": "+91 78002 89974",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5G9R+945, Bahraich - Lucknow Rd, Jarwal, Uttar Pradesh 271904",
+    "area": "271901",
+    "latitude": 27.168381,
+    "longitude": 81.5403458,
+    "place_id": "ChIJk5XrrL2dmTkR9OqkIF3r5Y0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk5XrrL2dmTkR9OqkIF3r5Y0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:35:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shukla Optical",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "271902",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "FFVV+C58, Chandanpur Sikaria, Uttar Pradesh 271902",
+    "area": "271902",
+    "latitude": 27.4935314,
+    "longitude": 81.4929669,
+    "place_id": "ChIJm2efEcIHmTkRs2XZNAxDDN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm2efEcIHmTkRs2XZNAxDDN0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:37:26"
+  },
+  {
+    "business_name": "श्री उमेश चश्माघर",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "271902",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chetara, Uttar Pradesh 271825",
+    "area": "271902",
+    "latitude": 27.528904999999998,
+    "longitude": 81.4959801,
+    "place_id": "ChIJRxKPj3QHmTkRoK_VhhBE8N0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRxKPj3QHmTkRoK_VhhBE8N0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:37:30"
+  }
+]

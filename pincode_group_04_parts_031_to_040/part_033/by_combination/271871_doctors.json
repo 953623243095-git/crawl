@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chc Payagpur",
+    "search_category": "Doctors",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "271871",
+    "phone_number": "+91 97216 80953",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "9QQF+W3R, Payagpur, Uttar Pradesh 271871",
+    "area": "271871",
+    "latitude": 27.389865,
+    "longitude": 81.7726443,
+    "place_id": "ChIJJ8-yeAe9mTkRS0ApsAZSp88",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ8-yeAe9mTkRS0ApsAZSp88",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:26:57"
+  },
+  {
+    "business_name": "Clinic",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "271871",
+    "phone_number": "+91 88878 07240",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Payagpur Rd, Kot Bazar, Talab Baghel, Uttar Pradesh 271871",
+    "area": "Kot Bazar",
+    "latitude": 27.380879399999998,
+    "longitude": 81.76163439999999,
+    "place_id": "ChIJSUsjWey9mTkRb_AfD1XJGR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSUsjWey9mTkRb_AfD1XJGR0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:27:00"
+  }
+]

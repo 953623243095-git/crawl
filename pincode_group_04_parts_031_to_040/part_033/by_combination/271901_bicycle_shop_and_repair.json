@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suraj service centre chetavni Chauraha",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "271901",
+    "phone_number": "+91 84238 15095",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Khanehta Village Ambedkar Chauraha, Uttar Pradesh 271901",
+    "area": "271901",
+    "latitude": 27.1491854,
+    "longitude": 81.60083279999999,
+    "place_id": "ChIJIXuUpMWdmTkRM5IbtU8wpBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIXuUpMWdmTkRM5IbtU8wpBo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:36:04"
+  },
+  {
+    "business_name": "Bombay bike service centre and scrap",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Motorcycle parts store",
+    "all_categories": "Motorcycle parts store",
+    "pincode": "271901",
+    "phone_number": "+91 63863 13243",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jarwal Road, Uttar Pradesh 271901",
+    "area": "271901",
+    "latitude": 27.1186287,
+    "longitude": 81.5424914,
+    "place_id": "ChIJr5eFhDedmTkRRm46CHB_QuI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr5eFhDedmTkRRm46CHB_QuI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:36:04"
+  }
+]

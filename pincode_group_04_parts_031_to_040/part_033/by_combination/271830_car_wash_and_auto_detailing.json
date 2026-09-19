@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Farhan Tyre service",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "271830",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9G2H+544, Paresendi, Uttar Pradesh 271902",
+    "area": "271830",
+    "latitude": 27.350395,
+    "longitude": 81.52782169999999,
+    "place_id": "ChIJHTYobgChmTkR-Yv-4PEsGko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHTYobgChmTkR-Yv-4PEsGko",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:07:32"
+  },
+  {
+    "business_name": "Amit washing center",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "271830",
+    "phone_number": "+91 87360 01243",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "near Galla Mandi, Mihinpurwa, Kundwa, Uttar Pradesh 271855",
+    "area": "271830",
+    "latitude": 28.0243085,
+    "longitude": 81.39767599999999,
+    "place_id": "ChIJRVubUwfzmDkRKH0NlfwBNx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRVubUwfzmDkRKH0NlfwBNx4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:07:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PANDEY SHOPPING COMPLEX",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "271861",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "State Highway, 1A, Ararpakar, Rachaurah, Uttar Pradesh 271201",
+    "area": "1A",
+    "latitude": 27.48781,
+    "longitude": 82.09213419999999,
+    "place_id": "ChIJB7roDI7bmTkR7WMbFK8OBg0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB7roDI7bmTkR7WMbFK8OBg0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:22:53"
+  },
+  {
+    "business_name": "Complex",
+    "search_category": "Commercial Complex",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "271861",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C5JH+2W6, Mohalla Chikni, Alijanpurva, Balrampur, Uttar Pradesh 271201",
+    "area": "Mohalla Chikni, Alijanpurva",
+    "latitude": 27.430045999999997,
+    "longitude": 82.1797692,
+    "place_id": "ChIJd1zggNHYmTkRJXcNxkWF9yY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd1zggNHYmTkRJXcNxkWF9yY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:22:55"
+  }
+]

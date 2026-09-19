@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A 2 Z CAR WORKSHOP & CAR DECOR",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "271871",
+    "phone_number": "+91 93022 25324",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "M44J+59M के पास, उज्जैन बाय पास, बेगम पूरा, Jaora, Madhya Pradesh 457226",
+    "area": "बेगम पूरा",
+    "latitude": 23.655558799999998,
+    "longitude": 75.13003049999999,
+    "place_id": "ChIJ1ypnvS4bZDkR8cljbER24oo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1ypnvS4bZDkR8cljbER24oo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:27:05"
+  },
+  {
+    "business_name": "Tilak Automobile",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "271871",
+    "phone_number": "+91 79050 00090",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "NH 28C, Fakharpur, Uttar Pradesh 271902",
+    "area": "271871",
+    "latitude": 27.4229019,
+    "longitude": 81.5246825,
+    "place_id": "ChIJlRKxxXCnmTkRerhy14ZbEdc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlRKxxXCnmTkRerhy14ZbEdc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:27:06"
+  }
+]

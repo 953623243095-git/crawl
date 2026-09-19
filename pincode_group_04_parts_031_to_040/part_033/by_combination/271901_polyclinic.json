@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raju Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "271901",
+    "phone_number": "+91 91611 52755",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jarwal, Uttar Pradesh 271904",
+    "area": "271901",
+    "latitude": 27.1675877,
+    "longitude": 81.5376711,
+    "place_id": "ChIJmYYeFgCdmTkReigj8KJpYnI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmYYeFgCdmTkReigj8KJpYnI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:35:51"
+  },
+  {
+    "business_name": "Srivastava Medical Store",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "271901",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5G8R+V3F, Jarwal, Uttar Pradesh 271904",
+    "area": "271901",
+    "latitude": 27.1671984,
+    "longitude": 81.5401686,
+    "place_id": "ChIJb8Dj8jqdmTkROdhACcJ-vpA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb8Dj8jqdmTkROdhACcJ-vpA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:35:53"
+  }
+]

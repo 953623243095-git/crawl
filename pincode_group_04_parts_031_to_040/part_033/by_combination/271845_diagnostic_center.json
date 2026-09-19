@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naimi Pharmacy",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical diagnostic imaging center",
+    "all_categories": "Medical diagnostic imaging center",
+    "pincode": "271845",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GXG7+XW2, Hospital Rd, Ikauna, Uttar Pradesh 271845",
+    "area": "271845",
+    "latitude": 27.527395799999997,
+    "longitude": 81.9647609,
+    "place_id": "ChIJS381E8HPmTkRBdVBvnLUMGA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS381E8HPmTkRBdVBvnLUMGA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:16:20"
+  },
+  {
+    "business_name": "Eklavy Diagnostics(pathalogy)",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Pathologist",
+    "all_categories": "Pathologist",
+    "pincode": "271845",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GXJ8+HR9, in front of C.H.C, Ikauna, Uttar Pradesh 271845",
+    "area": "271845",
+    "latitude": 27.5314147,
+    "longitude": 81.9671125,
+    "place_id": "ChIJuwbeUQDPmTkRVp9fcu58yEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuwbeUQDPmTkRVp9fcu58yEM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:16:22"
+  }
+]

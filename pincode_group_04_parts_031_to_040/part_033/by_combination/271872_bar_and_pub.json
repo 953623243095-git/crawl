@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Katka",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "271872",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "7J5V+5G, Lakhawapur Bahraucha, Uttar Pradesh 271903",
+    "area": "271872",
+    "latitude": 27.2579785,
+    "longitude": 81.64375319999999,
+    "place_id": "ChIJRSaDeECZmTkRNIJGCviB78s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRSaDeECZmTkRNIJGCviB78s",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:28:29"
+  },
+  {
+    "business_name": "Pathy Kunda",
+    "search_category": "Bar and Pub",
+    "primary_category": "Pub",
+    "all_categories": "Pub",
+    "pincode": "271872",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8MX9+6CH, Huzoorpur, Uttar Pradesh 271872",
+    "area": "271872",
+    "latitude": 27.348073099999997,
+    "longitude": 81.66861109999999,
+    "place_id": "ChIJi75mZgCjmTkRvn0kdTdSVTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi75mZgCjmTkRvn0kdTdSVTc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:28:29"
+  }
+]

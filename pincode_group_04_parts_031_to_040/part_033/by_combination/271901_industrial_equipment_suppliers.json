@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fareed Indian Traders",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Construction equipment supplier",
+    "all_categories": "Construction equipment supplier",
+    "pincode": "271901",
+    "phone_number": "+91 99353 47756",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chini Mill Road, Kasba, Jarwal, Uttar Pradesh 271904",
+    "area": "Kasba",
+    "latitude": 27.164137099999998,
+    "longitude": 81.53669909999999,
+    "place_id": "ChIJq6MyI_CdmTkRghaR7qEWN1o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6MyI_CdmTkRghaR7qEWN1o",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:36:54"
+  },
+  {
+    "business_name": "Harsh Construction",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Construction equipment supplier",
+    "all_categories": "Construction equipment supplier",
+    "pincode": "271901",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "5J27+W7V, Rasulabad, Uttar Pradesh 271901",
+    "area": "271901",
+    "latitude": 27.152360899999998,
+    "longitude": 81.6131867,
+    "place_id": "ChIJb_v93uObmTkRAWBmM7mQ_Yc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb_v93uObmTkRAWBmM7mQ_Yc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:36:54"
+  }
+]

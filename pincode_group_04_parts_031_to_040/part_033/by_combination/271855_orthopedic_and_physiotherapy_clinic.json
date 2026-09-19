@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "National Multicare Hospital Pvt. Ltd.",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "271855",
+    "phone_number": "081-531386",
+    "website": "https://nmhnepalgunj.com/en/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "3J28+87R, 10 Adarsha Road, Nepalgunj, Lumbini Province 21900, Nepal",
+    "area": "Adrash Nagar",
+    "latitude": 28.0505261,
+    "longitude": 81.6155789,
+    "place_id": "ChIJ8zfyGgBnmDkRI2XTH0meyBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8zfyGgBnmDkRI2XTH0meyBA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:19:51"
+  },
+  {
+    "business_name": "The Health Centre",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center, Alternative medicine practitioner, Occupational therapist, Hospital",
+    "pincode": "271855",
+    "phone_number": "081-534230",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Eidgah road Ward no. 11, Nepalgunj 21900, Nepal",
+    "area": "Tribhuvan Chowk",
+    "latitude": 28.059727199999998,
+    "longitude": 81.6203735,
+    "place_id": "ChIJpcHTmAVnmDkRUL8VFhxzVYU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpcHTmAVnmDkRUL8VFhxzVYU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:19:54"
+  }
+]

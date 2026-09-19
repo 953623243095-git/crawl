@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AMJ Agencies",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier, Construction equipment supplier",
+    "pincode": "271835",
+    "phone_number": "+91 80156 77636",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 42,
+    "address": "2/1, No. 3A, Ariyamangalam, Ganapathy Nagar, Tiruchirappalli, Tamil Nadu 620010",
+    "area": "Ariyamangalam",
+    "latitude": 10.8123902,
+    "longitude": 78.7284256,
+    "place_id": "ChIJN7A6RSf1qjsRxaCD8-0oSY4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN7A6RSf1qjsRxaCD8-0oSY4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:11:17"
+  },
+  {
+    "business_name": "N C Enterprise",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "271835",
+    "phone_number": "+91 98311 25274",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "22B, Tollygunge Circular Rd, near Shani Mandir, Tollygunge, Kolkata, West Bengal 700033",
+    "area": "Tollygunge",
+    "latitude": 22.5038612,
+    "longitude": 88.3424501,
+    "place_id": "ChIJ9w_yK7hwAjoRsWkozQUy7TU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9w_yK7hwAjoRsWkozQUy7TU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:11:18"
+  }
+]

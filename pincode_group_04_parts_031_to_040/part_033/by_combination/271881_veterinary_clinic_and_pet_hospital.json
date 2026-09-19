@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Animal Health Training and Consultancy Service (AHTCS), Nepalgunj",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Emergency veterinarian service",
+    "all_categories": "Emergency veterinarian service",
+    "pincode": "271881",
+    "phone_number": "N/A",
+    "website": "http://www.ahtcs.org.np/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3J2G+GCJ, Ram Leela Rd, Nepalgunj, Lumbini Province 21900, Nepal",
+    "area": "Adrash Nagar",
+    "latitude": 28.051439,
+    "longitude": 81.6259855,
+    "place_id": "ChIJ6Qz3JABnmDkRhDNhWFiRS1c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Qz3JABnmDkRhDNhWFiRS1c",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:32:19"
+  },
+  {
+    "business_name": "District Livestock Service Centre",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "271881",
+    "phone_number": "081-520254",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "21900, Nepalgunj, Nepal",
+    "area": "Adrash Nagar",
+    "latitude": 28.05241,
+    "longitude": 81.6257797,
+    "place_id": "ChIJeTvbeGdnmDkRDujtAD0n0Oc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeTvbeGdnmDkRDujtAD0n0Oc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:32:21"
+  }
+]

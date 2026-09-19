@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Pathalogy Bhinga Sravasti",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Community health center",
+    "all_categories": "Community health center",
+    "pincode": "271831",
+    "phone_number": "+91 94507 51123",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "CHC, Bhinga, Uttar Pradesh 271831",
+    "area": "271831",
+    "latitude": 27.7003398,
+    "longitude": 81.93720929999999,
+    "place_id": "ChIJzTY7tbA0mDkRc1xewYyfTCU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzTY7tbA0mDkRc1xewYyfTCU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:09:11"
+  },
+  {
+    "business_name": "Advance Diagnostic Center",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "271831",
+    "phone_number": "+91 93008 88178",
+    "website": "https://adcpathlabs.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "C-1,C-2/17A, near Niharika Talkies, M P Nagar Phase 1, Korba, Chhattisgarh 495677",
+    "area": "M P Nagar Phase 1",
+    "latitude": 22.3605207,
+    "longitude": 82.72460749999999,
+    "place_id": "ChIJi15RsFKPJzoR7peBMyD3mHk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi15RsFKPJzoR7peBMyD3mHk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:09:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yash Raj Traders",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler, Wholesaler",
+    "pincode": "271872",
+    "phone_number": "+91 788 076 2592",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "SH30B, Bahraich, Ganga Purwa, Uttar Pradesh 271825",
+    "area": "SH30B",
+    "latitude": 27.5405999,
+    "longitude": 81.3680385,
+    "place_id": "ChIJYYCVfhcFmTkRIsseMy4WzqQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYYCVfhcFmTkRIsseMy4WzqQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:28:18"
+  },
+  {
+    "business_name": "RAMNATH OIL MILL",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Grocery delivery service, Store",
+    "pincode": "271872",
+    "phone_number": "+91 84393 66732",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Front of bhatnagar medical store, lenganj, Mainpuri, Uttar Pradesh 205001",
+    "area": "Bhongoan",
+    "latitude": 27.22934,
+    "longitude": 79.02812,
+    "place_id": "ChIJK-J_gxmWdTkRqvJt-81Q9aQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK-J_gxmWdTkRqvJt-81Q9aQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:28:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Vaishno Polyclinic and Medical Store",
+    "search_category": "Polyclinic",
+    "primary_category": "Children Policlinic",
+    "all_categories": "Children Policlinic",
+    "pincode": "271851",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "MFV2+X28, Kishunpur Mitha, Uttar Pradesh 271851",
+    "area": "271851",
+    "latitude": 27.6948819,
+    "longitude": 81.4499998,
+    "place_id": "ChIJZ8F4rVT_mDkRJnVPRX2Pknc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ8F4rVT_mDkRJnVPRX2Pknc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:18:05"
+  },
+  {
+    "business_name": "हिफ़्ज़ा क्लिनिक/ Hifza clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "271851",
+    "phone_number": "+91 99194 32793",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ram Batti, Uttar Pradesh 271882",
+    "area": "271851",
+    "latitude": 27.830482999999997,
+    "longitude": 81.58348529999999,
+    "place_id": "ChIJM00FHwBXmDkRwF7SW2YtwRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM00FHwBXmDkRwF7SW2YtwRw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:18:07"
+  }
+]

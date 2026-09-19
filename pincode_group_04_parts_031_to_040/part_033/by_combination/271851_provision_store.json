@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RK Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "271851",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 5,
+    "address": "PCGR+75F, Deodattpur, Uttar Pradesh 271882",
+    "area": "271851",
+    "latitude": 27.7256805,
+    "longitude": 81.4404204,
+    "place_id": "ChIJt3aUdAD_mDkR2AP1wRwsoFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt3aUdAD_mDkR2AP1wRwsoFQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:17:36"
+  },
+  {
+    "business_name": "Ali General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "271851",
+    "phone_number": "+91 63881 99288",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 9,
+    "address": "0, Mahtonpurwa, Uttar Pradesh 271851",
+    "area": "271851",
+    "latitude": 27.636978499999998,
+    "longitude": 81.4977444,
+    "place_id": "ChIJL0b2_oABmTkR0eMBtBx4_4E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL0b2_oABmTkR0eMBtBx4_4E",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:17:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zomsa Kalath",
+    "search_category": "Guesthouse",
+    "primary_category": "Bed & breakfast",
+    "all_categories": "Bed & breakfast",
+    "pincode": "271845",
+    "phone_number": "+91 98160 58453",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 55,
+    "address": "55QQ+8VG, Shallin, Himachal Pradesh 175131",
+    "area": "271845",
+    "latitude": 32.189051,
+    "longitude": 77.18908929999999,
+    "place_id": "ChIJh2K4KYCJBDkRygIUJFFhLeY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh2K4KYCJBDkRygIUJFFhLeY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:16:56"
+  },
+  {
+    "business_name": "Poondi Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "271845",
+    "phone_number": "N/A",
+    "website": "http://poondicottages.bookingmania.in/",
+    "rating": 4.2,
+    "reviews_count": 131,
+    "address": "58VP+XFG, Mannavanur, Poondi, Tamil Nadu 624103",
+    "area": "271845",
+    "latitude": 10.1949478,
+    "longitude": 77.33621269999999,
+    "place_id": "ChIJbyzDFoF6BzsR3RxwaJQQKiA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbyzDFoF6BzsR3RxwaJQQKiA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:16:56"
+  }
+]

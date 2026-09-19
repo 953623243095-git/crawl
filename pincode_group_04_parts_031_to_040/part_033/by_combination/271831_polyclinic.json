@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunrise polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "271831",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GXG7+QM3, Hospital Rd, Ikauna, Uttar Pradesh 271845",
+    "area": "271831",
+    "latitude": 27.526891199999998,
+    "longitude": 81.9641719,
+    "place_id": "ChIJN_SeHgDPmTkRfNSGgLuypeE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN_SeHgDPmTkRfNSGgLuypeE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:09:12"
+  },
+  {
+    "business_name": "Adarsh Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "271831",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Balrampur Rd, Ikauna, Uttar Pradesh 271845",
+    "area": "271831",
+    "latitude": 27.5280818,
+    "longitude": 81.9736891,
+    "place_id": "ChIJoTjrrcnPmTkRQwjRsk7jbyM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoTjrrcnPmTkRQwjRsk7jbyM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:09:12"
+  }
+]

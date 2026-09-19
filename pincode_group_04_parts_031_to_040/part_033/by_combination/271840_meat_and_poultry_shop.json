@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fresh Greens n Reds",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Food manufacturing supply",
+    "pincode": "271840",
+    "phone_number": "+91 63742 42838",
+    "website": "http://www.freshgreensnreds.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "2/28, Reddipatti Main Road, opposite to Anna statue, Avvai Nagar, Salem, Tamil Nadu 636302",
+    "area": "Avvai Nagar",
+    "latitude": 11.681725,
+    "longitude": 78.11306929999999,
+    "place_id": "ChIJdSiijhHxqzsRPRln-VL0KCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdSiijhHxqzsRPRln-VL0KCA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:12:26"
+  },
+  {
+    "business_name": "AM FRESH FARM MEATS",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Meat wholesaler",
+    "pincode": "271840",
+    "phone_number": "+91 99408 44408",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Rajiv Gandhi Nagar, MADUKKARAI Block, Coimbatore, Malumichampatti, Tamil Nadu 641050",
+    "area": "Rajiv Gandhi Nagar, MADUKKARAI Block",
+    "latitude": 10.9082005,
+    "longitude": 77.00922249999999,
+    "place_id": "ChIJsS1-R_RbqDsRK5TE6xmzSkE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsS1-R_RbqDsRK5TE6xmzSkE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:12:26"
+  }
+]

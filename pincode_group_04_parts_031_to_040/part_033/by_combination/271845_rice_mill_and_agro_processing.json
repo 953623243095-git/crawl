@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alok Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill, Supplier, Manufacturer",
+    "pincode": "271845",
+    "phone_number": "+91 94251 38548",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 12,
+    "address": "Koste Road, Waraseoni, Madhya Pradesh 481331",
+    "area": "271845",
+    "latitude": 21.7488205,
+    "longitude": 80.0676957,
+    "place_id": "ChIJMz160on3KjoRV6qQmaZnmoU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMz160on3KjoRV6qQmaZnmoU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:17:25"
+  },
+  {
+    "business_name": "Kashi Mini Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "271845",
+    "phone_number": "+91 91629 04528",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 10,
+    "address": "3Q6R+QV7, Kudra - Parsautha Rd, Kudra, Bihar 821114",
+    "area": "271845",
+    "latitude": 25.0619183,
+    "longitude": 83.7921676,
+    "place_id": "ChIJN18P-2LDjTkR22vSIdk9yXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN18P-2LDjTkR22vSIdk9yXw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:17:25"
+  }
+]

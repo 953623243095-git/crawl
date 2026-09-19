@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Geeta Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "271901",
+    "phone_number": "+91 98342 50536",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kasba Kaisarganj Road, Jarwal, Gonda, Uttar Pradesh 271904",
+    "area": "271901",
+    "latitude": 27.1796223,
+    "longitude": 81.5619602,
+    "place_id": "ChIJDUQ_aHudmTkRuKezUNllt8s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDUQ_aHudmTkRuKezUNllt8s",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:35:48"
+  },
+  {
+    "business_name": "Children Hospital And Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "271901",
+    "phone_number": "+91 85709 74128",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "New Market, Gonda Lucknow Road, Gonda, Budan Pur, Uttar Pradesh 271904",
+    "area": "271901",
+    "latitude": 27.1797883,
+    "longitude": 81.5621099,
+    "place_id": "ChIJTf6VE9OdmTkRA21AXlKahBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTf6VE9OdmTkRA21AXlKahBU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:35:48"
+  }
+]

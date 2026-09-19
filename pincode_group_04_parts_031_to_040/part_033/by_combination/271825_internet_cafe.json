@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akram Online Services",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet shop",
+    "all_categories": "Internet shop",
+    "pincode": "271825",
+    "phone_number": "+91 93055 92562",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "SH 28C Bypass Rd, Nazir Pura, Nanpara, Bahraich, Uttar Pradesh 271801",
+    "area": "Nazir Pura",
+    "latitude": 27.5728223,
+    "longitude": 81.5799449,
+    "place_id": "ChIJLQzgXmCpmTkRhU6e9BGeN1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLQzgXmCpmTkRhU6e9BGeN1U",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:06:24"
+  },
+  {
+    "business_name": "CSC And Nishad Lokvani Kendra Bednapur",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "271825",
+    "phone_number": "+91 91182 63800",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "TEZWAPUR BADNAPUR, Bahraich - Sitapur Rd, Uttar Pradesh 271825",
+    "area": "271825",
+    "latitude": 27.5298183,
+    "longitude": 81.4912695,
+    "place_id": "ChIJXTXIr_EHmTkRU7xrDd_bIqM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXTXIr_EHmTkRU7xrDd_bIqM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:06:25"
+  }
+]

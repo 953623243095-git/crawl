@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Puraina Bazar",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "271845",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 35,
+    "address": "FW25+WJG, Ikauna-Bisheshwarganj Rd, Tendua Kabir, Uttar Pradesh 271845",
+    "area": "271845",
+    "latitude": 27.4523133,
+    "longitude": 81.9090897,
+    "place_id": "ChIJq_9MzQHHmTkRZY4hhm3Qctw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq_9MzQHHmTkRZY4hhm3Qctw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:17:33"
+  },
+  {
+    "business_name": "PDR Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Indian restaurant, Movie theater, Pizza restaurant",
+    "pincode": "271845",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 23492,
+    "address": "D 48/142, Luxa Rd, near Sri Basdev Baba Mandir, Sidhgiribagh, Varanasi, Uttar Pradesh 221001",
+    "area": "Sidhgiribagh",
+    "latitude": 25.309833899999997,
+    "longitude": 83.0028403,
+    "place_id": "ChIJ07iA3AIujjkRDzgC4G14jdQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ07iA3AIujjkRDzgC4G14jdQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:17:34"
+  }
+]

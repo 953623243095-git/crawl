@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Cloud Kitchen Creations co",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "271881",
+    "phone_number": "+91 72559 73056",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "q-001, PARAMOUNT EMOTIONS, west, Sector 1, Bisrakh Jalalpur, Greater Noida, Bisrakh Jalalpur, Uttar Pradesh 201318",
+    "area": "Sector 1, Bisrakh Jalalpur",
+    "latitude": 28.570070899999997,
+    "longitude": 77.4460841,
+    "place_id": "ChIJn-7wiKvvDDkRTnwZ9gLa3Pk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn-7wiKvvDDkRTnwZ9gLa3Pk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:32:00"
+  },
+  {
+    "business_name": "Mr. Brown",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Breakfast restaurant",
+    "pincode": "271881",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Sakha, Bahraich, Uttar Pradesh 271801",
+    "area": "Sakha",
+    "latitude": 27.565260499999997,
+    "longitude": 81.60342949999999,
+    "place_id": "ChIJq2UkVU2pmTkRSs8qeYAzdbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq2UkVU2pmTkRSs8qeYAzdbg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:32:00"
+  }
+]

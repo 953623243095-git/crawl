@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pooja Traders",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Beauty product supplier",
+    "pincode": "271831",
+    "phone_number": "+91 93191 13371",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Shop No. 24/10,Emporiem Block Bagirati Road Near Shaheed Smarak Park, Main Gate, Sanjay Place, Civil Lines, Agra, Uttar Pradesh 282002",
+    "area": "Sanjay Palace, Sanjay Place, Civil Lines",
+    "latitude": 27.1988114,
+    "longitude": 78.00413089999999,
+    "place_id": "ChIJKWlIGUd3dDkRPf_D-r_t7-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKWlIGUd3dDkRPf_D-r_t7-4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:09:39"
+  },
+  {
+    "business_name": "Chandra's Chandraboti",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Beauty product supplier, Beauty Products Wholesaler, Herbal medicine store, Health and beauty shop",
+    "pincode": "271831",
+    "phone_number": "+91 98311 06977",
+    "website": "https://chandraboti.com/",
+    "rating": 4.9,
+    "reviews_count": 37,
+    "address": "35/4, Hem Chandra Mukherjee Rd, Barisha, Kolkata, West Bengal 700008",
+    "area": "Barisha",
+    "latitude": 22.4816845,
+    "longitude": 88.3200265,
+    "place_id": "ChIJka06P3d6AjoRR6y3XDT12gg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJka06P3d6AjoRR6y3XDT12gg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:09:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Similipal Tour Operator",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "271845",
+    "phone_number": "+91 70080 63898",
+    "website": "http://www.simlipaltours.com/",
+    "rating": 4.7,
+    "reviews_count": 181,
+    "address": "Sub . KARANJIA, Jashipur, Odisha 757047",
+    "area": "271845",
+    "latitude": 21.9680792,
+    "longitude": 86.07790539999999,
+    "place_id": "ChIJdYvKwdllHjoRuNevylmRPdc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdYvKwdllHjoRuNevylmRPdc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:16:34"
+  },
+  {
+    "business_name": "Gurukshethra Holidays Private Limited",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "271845",
+    "phone_number": "+91 95000 23230",
+    "website": "https://gurukshethraholidays.com/",
+    "rating": 4.9,
+    "reviews_count": 931,
+    "address": "Second floor, SRS Arcade, 460, PN Rd, Ram Nagar, Tiruppur, Tamil Nadu 641602",
+    "area": "Ram Nagar",
+    "latitude": 11.1127142,
+    "longitude": 77.33909009999999,
+    "place_id": "ChIJcXT3cpgHqTsRS9bb2nY2tqI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcXT3cpgHqTsRS9bb2nY2tqI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:16:34"
+  }
+]

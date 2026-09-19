@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shyam Dhaba and restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "271855",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "W4VX+JPG, Nanpara Rd, Kaluapur, Uttar Pradesh 262723",
+    "area": "271855",
+    "latitude": 27.9431898,
+    "longitude": 81.14854249999999,
+    "place_id": "ChIJ71zJ9dbBmDkRiAeyWLg2Zlg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ71zJ9dbBmDkRiAeyWLg2Zlg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:19:36"
+  },
+  {
+    "business_name": "Siddhartha Cottage Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "271855",
+    "phone_number": "081-415048",
+    "website": "http://www.siddharthabiz.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Ratna Rajmarg, Nepalgunj, Lumbini Province 21900, Nepal",
+    "area": "B.P. Chowk",
+    "latitude": 28.065460299999998,
+    "longitude": 81.62352899999999,
+    "place_id": "ChIJ3fx9QkBnmDkROamJnztydcs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3fx9QkBnmDkROamJnztydcs",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:19:36"
+  }
+]

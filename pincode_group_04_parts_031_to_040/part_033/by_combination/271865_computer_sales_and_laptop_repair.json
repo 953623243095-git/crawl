@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saifi Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "271865",
+    "phone_number": "+91 98896 66483",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "94RF+W69, Hardoi, Uttar Pradesh 241001",
+    "area": "271865",
+    "latitude": 27.3920952,
+    "longitude": 80.1232246,
+    "place_id": "ChIJvU0ugCH4njkRV9fSyVcEJsQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvU0ugCH4njkRV9fSyVcEJsQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:24:17"
+  },
+  {
+    "business_name": "Verma Computer Csc Nari Behar",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "271865",
+    "phone_number": "+91 97217 20087",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 14,
+    "address": "Nari Behar, Uttar Pradesh 261502",
+    "area": "271865",
+    "latitude": 27.8451548,
+    "longitude": 81.2290223,
+    "place_id": "ChIJAQAAAL3omDkRV4W339loJ0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAL3omDkRV4W339loJ0g",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:24:18"
+  }
+]

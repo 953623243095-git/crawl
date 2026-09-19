@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lifeline General Hospital and Dialysis Center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "271855",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 9,
+    "address": "Sadarline Rd, Nepalgunj, Lumbini Province 21900, Nepal",
+    "area": "Adrash Nagar",
+    "latitude": 28.0550972,
+    "longitude": 81.6220735,
+    "place_id": "ChIJMeL6o9hnmDkRGAlU_XZoGSQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMeL6o9hnmDkRGAlU_XZoGSQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:19:52"
+  },
+  {
+    "business_name": "Babu kasyap",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "271855",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X4FW+6VV, Sisya Kalan, Uttar Pradesh 262723",
+    "area": "271855",
+    "latitude": 27.9731018,
+    "longitude": 81.14718359999999,
+    "place_id": "ChIJzbZHRQDBmDkRU3Xk9y9wlPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzbZHRQDBmDkRU3Xk9y9wlPY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:19:52"
+  }
+]

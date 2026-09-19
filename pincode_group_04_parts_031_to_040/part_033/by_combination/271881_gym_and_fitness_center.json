@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "nature club gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "271881",
+    "phone_number": "+91 91181 80742",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Haidargarh, Uttar Pradesh 225124",
+    "area": "271881",
+    "latitude": 26.605387399999998,
+    "longitude": 81.3684578,
+    "place_id": "ChIJSXjwAwPJmzkRlpXuWxNV97w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSXjwAwPJmzkRlpXuWxNV97w",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:32:22"
+  },
+  {
+    "business_name": "Gold Gym & Fitness Center",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "271881",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 46,
+    "address": "3J7H+HH8, New Rd, Nepalgunj, Lumbini Province 21900, Nepal",
+    "area": "Dhambojhi",
+    "latitude": 28.0639219,
+    "longitude": 81.62895689999999,
+    "place_id": "ChIJbfJEqWtnmDkRfvgLfXT-lBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbfJEqWtnmDkRfvgLfXT-lBk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:32:23"
+  }
+]

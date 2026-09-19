@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Singh poultry farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "271871",
+    "phone_number": "+91 95805 00769",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sach9QJP+6F, Sachauli, Payagpur, Uttar Pradesh 271871",
+    "area": "Sach9QJP+6F",
+    "latitude": 27.3806819,
+    "longitude": 81.78541539999999,
+    "place_id": "ChIJ9bOF4K-_mTkRv7bWUNpYabo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9bOF4K-_mTkRv7bWUNpYabo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:26:35"
+  },
+  {
+    "business_name": "Sabir Ali Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Dessert shop",
+    "all_categories": "Dessert shop",
+    "pincode": "271871",
+    "phone_number": "+91 99186 89097",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1234, Road, Kundasar, Lalpur, Uttar Pradesh 271903",
+    "area": "271871",
+    "latitude": 27.338234099999998,
+    "longitude": 81.5200406,
+    "place_id": "ChIJE6wCNdGhmTkRRlOESiJChyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE6wCNdGhmTkRRlOESiJChyQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:26:35"
+  }
+]

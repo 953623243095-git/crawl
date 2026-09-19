@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Oree Cafe",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "271845",
+    "phone_number": "+91 80188 75453",
+    "website": "http://www.oreecafe.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Dakhinakali Rd, near Reliance Trends, Dhenkanal, Odisha 759001",
+    "area": "271845",
+    "latitude": 20.6563241,
+    "longitude": 85.5902732,
+    "place_id": "ChIJBX5Zy4HfGDoRjjjLSgGv1RU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBX5Zy4HfGDoRjjjLSgGv1RU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:15:59"
+  },
+  {
+    "business_name": "Cakehouse Trichy",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "271845",
+    "phone_number": "+91 96295 55883",
+    "website": "http://www.trichycakehouse.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "A - 15 , Santhanams Tower Thillai nagar, 1st Cross E St, beside Vasan Medical Centre, Tiruchirappalli, Tamil Nadu 620018",
+    "area": "Tennur",
+    "latitude": 10.8264248,
+    "longitude": 78.6836637,
+    "place_id": "ChIJX7M0xVP1qjsR8Z54wsBsZjg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX7M0xVP1qjsR8Z54wsBsZjg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:16:01"
+  }
+]

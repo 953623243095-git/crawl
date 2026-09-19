@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubham Traders",
+    "search_category": "Tradeshows",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "271825",
+    "phone_number": "+91 95542 63091",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Dighiya Chauraha, Bahraich - Lucknow Rd, Lucknow, Uttar Pradesh 226010",
+    "area": "Ghasiyaripura, Friganj",
+    "latitude": 27.5764951,
+    "longitude": 81.6054328,
+    "place_id": "ChIJRUo0FwCvmTkRhI9-VumIvQU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRUo0FwCvmTkRhI9-VumIvQU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:06:46"
+  },
+  {
+    "business_name": "S.f Traders",
+    "search_category": "Tradeshows",
+    "primary_category": "Motorcycle parts store",
+    "all_categories": "Motorcycle parts store, Electronics store",
+    "pincode": "271825",
+    "phone_number": "+91 91618 26260",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "teenmuhani road Teekoni baag police station trune right, Uttar Pradesh 271801",
+    "area": "Nazipurwa",
+    "latitude": 27.5642356,
+    "longitude": 81.58393939999999,
+    "place_id": "ChIJcWdJy8ypmTkRaAQqrjhJ_mg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcWdJy8ypmTkRaAQqrjhJ_mg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:06:46"
+  }
+]

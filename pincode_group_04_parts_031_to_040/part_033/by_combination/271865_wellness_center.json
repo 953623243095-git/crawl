@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Health and Wellness Center Parsa Agaiyya",
+    "search_category": "Wellness Center",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "271865",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WG7J+9H3, Parsa Agaiya, Tulsipur, Uttar Pradesh 271865",
+    "area": "271865",
+    "latitude": 27.9133776,
+    "longitude": 81.5314294,
+    "place_id": "ChIJbVBod5FYmDkRcKMuJh0Af0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbVBod5FYmDkRcKMuJh0Af0I",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:23:56"
+  },
+  {
+    "business_name": "Primary Health Center Amwa Husainpur",
+    "search_category": "Wellness Center",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "271865",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "WFJC+8GG, Ghurghutta, Nanpara, Uttar Pradesh 271865",
+    "area": "271865",
+    "latitude": 27.930811,
+    "longitude": 81.47134199999999,
+    "place_id": "ChIJTQjU84f2mDkRWgm_fQ-L5TI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTQjU84f2mDkRWgm_fQ-L5TI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:23:56"
+  }
+]

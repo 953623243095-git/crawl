@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chill point",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto air conditioning service",
+    "all_categories": "Auto air conditioning service, Air conditioning store, Car repair and maintenance service",
+    "pincode": "271870",
+    "phone_number": "+91 81300 94091",
+    "website": "http://www.chillpoint.co.in/",
+    "rating": 3.8,
+    "reviews_count": 49,
+    "address": "Shop no.7 Building No.5, near Bobby tikki wala, near metro pillar no 19, Rishabh Vihar, Karkardooma, Anand Vihar, Delhi, 110092",
+    "area": "Rishabh Vihar, Karkardooma, Anand Vihar",
+    "latitude": 28.6535829,
+    "longitude": 77.3026379,
+    "place_id": "ChIJJxEZLa38DDkRK-iGGQ79pK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJxEZLa38DDkRK-iGGQ79pK0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:25:23"
+  },
+  {
+    "business_name": "Noida Engineering Power",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "271870",
+    "phone_number": "+91 84760 63309",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No 1, Main Road, Avnika Automobile Car Deals Second Shop No-4, Sector 121, Noida, Meerut Division Delhi, Sector 121, Uttar Pradesh 201316",
+    "area": "Sector 121",
+    "latitude": 28.6015771,
+    "longitude": 77.4016884,
+    "place_id": "ChIJAQAsCaLvDDkRjtigca7LSjA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAsCaLvDDkRjtigca7LSjA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:25:25"
+  }
+]

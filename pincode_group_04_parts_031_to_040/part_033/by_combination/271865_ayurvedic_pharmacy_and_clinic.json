@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fine Medical Store",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "271865",
+    "phone_number": "+91 99195 24137",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "A-8, Aliganj Mahabirji Mandir Marg, opposite Vivekanad Polyclinic, Nirala Nagar, Lucknow, Uttar Pradesh 226020",
+    "area": "Officers Colony, Nirala Nagar",
+    "latitude": 26.8763017,
+    "longitude": 80.9421709,
+    "place_id": "ChIJy4WqHIL9mzkRuOqd2Pkpo70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy4WqHIL9mzkRuOqd2Pkpo70",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:23:21"
+  },
+  {
+    "business_name": "Bhavani Ayurveda Clinic & Pharmacy",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "271865",
+    "phone_number": "+91 73564 86556",
+    "website": "https://www.facebook.com/bhavaniayurvedic",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "of, Erattakulangara Temple, Komana, near Sree Meena Tours and Travel, Ambalapuzha, Keralam 688561",
+    "area": "271865",
+    "latitude": 9.387695899999999,
+    "longitude": 76.35481779999999,
+    "place_id": "ChIJlVMwH7ObCDsR8DTGMARuHBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlVMwH7ObCDsR8DTGMARuHBQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:23:23"
+  }
+]

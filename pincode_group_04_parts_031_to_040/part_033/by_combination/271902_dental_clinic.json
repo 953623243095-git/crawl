@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navya's Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "271902",
+    "phone_number": "+91 88085 02328",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Wajeerganj, Wajeergan, Uttar Pradesh 271902",
+    "area": "271902",
+    "latitude": 27.377056099999997,
+    "longitude": 81.491485,
+    "place_id": "ChIJtemEDRgLmTkRzGgOyjZUhxY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtemEDRgLmTkRzGgOyjZUhxY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:37:31"
+  },
+  {
+    "business_name": "Shivpura",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "271902",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FHH9+F4H, Shivpura, Uttar Pradesh 271902",
+    "area": "271902",
+    "latitude": 27.4786875,
+    "longitude": 81.5678594,
+    "place_id": "ChIJOfv_CQCnmTkRBnVjNqPJsIU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOfv_CQCnmTkRBnVjNqPJsIU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:37:31"
+  }
+]

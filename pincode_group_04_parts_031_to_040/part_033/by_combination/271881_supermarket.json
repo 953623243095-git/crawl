@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahees Rupaidiha Market",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "271881",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "2H7Q+PXX, Rupaidiha, Pach Pakari, Uttar Pradesh 271881",
+    "area": "271881",
+    "latitude": 28.0143554,
+    "longitude": 81.58998299999999,
+    "place_id": "ChIJ8ReHtG1emDkRso5AjR_TL4w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8ReHtG1emDkRso5AjR_TL4w",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:31:48"
+  },
+  {
+    "business_name": "Verma Agrovet Service",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "271881",
+    "phone_number": "+91 94520 00451",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "2H6X+P7V, Rupaidiha, Uttar Pradesh 271881",
+    "area": "271881",
+    "latitude": 28.0118688,
+    "longitude": 81.5981741,
+    "place_id": "ChIJ5SzxtHZemDkRoWwiATSQ2ZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5SzxtHZemDkRoWwiATSQ2ZE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:31:50"
+  }
+]

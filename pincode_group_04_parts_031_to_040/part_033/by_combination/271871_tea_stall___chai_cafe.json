@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BABERWAL TEA STALL",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "271871",
+    "phone_number": "+91 97824 46642",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "3/10, Pushkar Rd, Regional Institute of Education, Ajmer, Rajasthan 305004",
+    "area": "Regional Institute of Education",
+    "latitude": 26.479753799999997,
+    "longitude": 74.609972,
+    "place_id": "ChIJj5wfLprnazkR-RfADQXSbc0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj5wfLprnazkR-RfADQXSbc0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:26:40"
+  },
+  {
+    "business_name": "Chai Sutta Bar Ajmer",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "271871",
+    "phone_number": "+91 62623 00031",
+    "website": "https://chaisuttabarindia.com/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Amar plaza, Bajrangarh Cir, near shitla mata temple, Kala Bagh, Ajmer, Rajasthan 305001",
+    "area": "Kala Bagh",
+    "latitude": 26.468975999999998,
+    "longitude": 74.63329259999999,
+    "place_id": "ChIJleQZD-3nazkROCTng9z5u10",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJleQZD-3nazkROCTng9z5u10",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:26:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Unkown",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "271882",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near ALLAHABAD BANK, Matera, Bhaukhara, Uttar Pradesh 271882",
+    "area": "Matera",
+    "latitude": 27.7808426,
+    "longitude": 81.5557496,
+    "place_id": "ChIJb46_3mBWmDkR1eHGUQ0RvvE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb46_3mBWmDkR1eHGUQ0RvvE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:34:20"
+  },
+  {
+    "business_name": "Bhagauti video grafhi",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "271882",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "PJF7+24J, Adharipurwa, Husenpur Mirdangi, Uttar Pradesh 271875",
+    "area": "271882",
+    "latitude": 27.722588599999998,
+    "longitude": 81.6127606,
+    "place_id": "ChIJkTQShe9TmDkR_6laVQcVSw0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkTQShe9TmDkR_6laVQcVSw0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:34:20"
+  }
+]

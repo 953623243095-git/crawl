@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Salmaan General Store",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "271830",
+    "phone_number": "+91 89319 78044",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Road, Chauraha, Raipur, Mahsi, Uttar Pradesh 271851",
+    "area": "Chauraha",
+    "latitude": 27.7071887,
+    "longitude": 81.3743349,
+    "place_id": "ChIJqacZGgj9mDkRhoElkHvhOfM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqacZGgj9mDkRhoElkHvhOfM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:08:08"
+  },
+  {
+    "business_name": "Manish dua book depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "271830",
+    "phone_number": "+91 93520 14013",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "66C4+67F, Nadbai - Janoothar Rd, near Hariyana Marriage Garden, Nadbai, Rajasthan 321602",
+    "area": "271830",
+    "latitude": 27.220879399999998,
+    "longitude": 77.2056897,
+    "place_id": "ChIJU9Gt-mitczkRxVsneB9uCAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU9Gt-mitczkRxVsneB9uCAk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:08:08"
+  }
+]

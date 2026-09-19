@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samaydeen",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "271872",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Baira Qazi, road, Gandara, Uttar Pradesh 271903",
+    "area": "271872",
+    "latitude": 27.255734,
+    "longitude": 81.5705895,
+    "place_id": "ChIJa-i5WrGfmTkRQEnV2btq4ZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa-i5WrGfmTkRQEnV2btq4ZQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:28:33"
+  },
+  {
+    "business_name": "Kids apparel",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "271872",
+    "phone_number": "+91 98715 45396",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no. L -7, Trident shoperio, Trident Embassy, near yatharth hospital, Sector 1, Bisrakh Jalalpur, Greater Noida, Bisrakh Jalalpur, Uttar Pradesh 201318",
+    "area": "Sector 1, Bisrakh Jalalpur",
+    "latitude": 28.5708108,
+    "longitude": 77.44567289999999,
+    "place_id": "ChIJU5xO5snvDDkRase_HCLjsgc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU5xO5snvDDkRase_HCLjsgc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:28:34"
+  }
+]

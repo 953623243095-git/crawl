@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ahmad plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "271840",
+    "phone_number": "+91 93265 45803",
+    "website": "http://plumber.com/",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "1717/184 chatrapti shivaji jan kalyan rahi vasi seva sang, Airoli, Maharashtra 400708",
+    "area": "Sector-19, Airoli",
+    "latitude": 19.1626199,
+    "longitude": 72.9945949,
+    "place_id": "ChIJzwlKOHa_5zsRceR028aIw9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzwlKOHa_5zsRceR028aIw9A",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:13:10"
+  },
+  {
+    "business_name": "Sadik plumber electrican painting & civilwork",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "271840",
+    "phone_number": "+91 98929 19870",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "shop-5, Astha plaza, opp. sai pearls, Sector 35D, Kharghar, Panvel, Maharashtra 410210",
+    "area": "Sector 35D, Kharghar",
+    "latitude": 19.072079199999997,
+    "longitude": 73.07908909999999,
+    "place_id": "ChIJ69QRss3B5zsRYxh_wYr6vs4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ69QRss3B5zsRYxh_wYr6vs4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:13:10"
+  }
+]

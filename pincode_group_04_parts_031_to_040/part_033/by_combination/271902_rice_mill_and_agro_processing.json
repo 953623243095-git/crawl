@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Buddha Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "271902",
+    "phone_number": "+91 63860 15133",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jaitapur Rd, Kodahi, Fakharpur, Uttar Pradesh 271902",
+    "area": "271902",
+    "latitude": 27.4304317,
+    "longitude": 81.4714035,
+    "place_id": "ChIJF1-3hqcJmTkRkkloKo0yLFc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF1-3hqcJmTkRkkloKo0yLFc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:38:34"
+  },
+  {
+    "business_name": "Anwar Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "271902",
+    "phone_number": "+91 95544 51245",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CGCG+8QR, Fakharpur, Ghasipur, Uttar Pradesh 271902",
+    "area": "271902",
+    "latitude": 27.4208654,
+    "longitude": 81.5268759,
+    "place_id": "ChIJo4y4AXCnmTkRGg1zwohTWjA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo4y4AXCnmTkRGg1zwohTWjA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:38:34"
+  }
+]

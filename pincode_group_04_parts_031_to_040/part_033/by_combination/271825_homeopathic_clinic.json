@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandra Homoeo Pharmacy",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "271825",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HHFX+C79, Chitrashala Rd, Brahmnipura, Bahraich, Uttar Pradesh 271801",
+    "area": "Brahmnipura",
+    "latitude": 27.573527499999997,
+    "longitude": 81.5982279,
+    "place_id": "ChIJiReIWEapmTkR_yzhkBUUQRg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiReIWEapmTkR_yzhkBUUQRg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:05:35"
+  },
+  {
+    "business_name": "Baiswar Homoeopathic store",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopathic pharmacy",
+    "all_categories": "Homeopathic pharmacy, Pharmacy",
+    "pincode": "271825",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Main road, Tahsil, Tehsil Fateh Pur, Uttar Pradesh 225305",
+    "area": "Tahsil",
+    "latitude": 27.174114099999997,
+    "longitude": 81.2099113,
+    "place_id": "ChIJd7EHwM9pmTkRV3wMGE_u39Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd7EHwM9pmTkRV3wMGE_u39Q",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:05:35"
+  }
+]

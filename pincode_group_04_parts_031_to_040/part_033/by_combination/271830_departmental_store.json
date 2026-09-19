@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "good mart",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "271830",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 74,
+    "address": "Near, Imamganj Chauraha, Nanpara, Uttar Pradesh 271865",
+    "area": "271830",
+    "latitude": 27.8637771,
+    "longitude": 81.5034076,
+    "place_id": "ChIJSSjzle_3mDkRSI5VtzEE-2M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSSjzle_3mDkRSI5VtzEE-2M",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:06:55"
+  },
+  {
+    "business_name": "PRIME HUB (Grocery • Daily Needs •Household)Owned Fool Mohammad",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "271830",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RC4F+45J, Alinagar Kalan, Nakha, Uttar Pradesh 271830",
+    "area": "271830",
+    "latitude": 27.8053447,
+    "longitude": 81.42290229999999,
+    "place_id": "ChIJGzl5AgD7mDkR0VmKT4Y4_RE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGzl5AgD7mDkR0VmKT4Y4_RE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:06:56"
+  }
+]

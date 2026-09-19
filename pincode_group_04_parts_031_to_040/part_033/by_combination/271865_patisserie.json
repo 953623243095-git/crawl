@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amit Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Hotel",
+    "pincode": "271865",
+    "phone_number": "+91 94540 72700",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Amit Bakery Prakash Cinema, Mihinpurwa, Uttar Pradesh 271855",
+    "area": "271865",
+    "latitude": 28.030640599999998,
+    "longitude": 81.3790594,
+    "place_id": "ChIJq0NgZ-SOmDkR9bmq0xPOOvc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq0NgZ-SOmDkR9bmq0xPOOvc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:23:04"
+  },
+  {
+    "business_name": "Madeshiya Sweets & Bakers",
+    "search_category": "Patisserie",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "271865",
+    "phone_number": "+91 94558 08929",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rupaidiha Bus Stop, Road, Nanpara, Hara Basehari, Uttar Pradesh 271865",
+    "area": "271865",
+    "latitude": 27.902130699999997,
+    "longitude": 81.52276239999999,
+    "place_id": "ChIJs5HOURdZmDkRPhlED_YKz0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs5HOURdZmDkRPhlED_YKz0g",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:23:04"
+  }
+]

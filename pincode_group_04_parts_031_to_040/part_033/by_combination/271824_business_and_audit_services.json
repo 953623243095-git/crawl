@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Accounting Works",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Accountant, Accounting firm, Legal services, Tax collector's office, Tax consultant",
+    "pincode": "271824",
+    "phone_number": "+91 89240 36489",
+    "website": "https://www.facebook.com/accountingworks01",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Mandi Samiti, 206122, Auraiya, Uttar Pradesh 206121",
+    "area": "Barmupur",
+    "latitude": 26.4723622,
+    "longitude": 79.49484029999999,
+    "place_id": "ChIJw8-kaLzznTkRBTZvSEmdLTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw8-kaLzznTkRBTZvSEmdLTY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:04:49"
+  },
+  {
+    "business_name": "YOUR ACCOUNTING ASSOCIATES",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm",
+    "pincode": "271824",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HHCX+632, NAZIRPURA NAI BASTI NEAR TIKONI BAG POLICE CHOWKI ON TRIMOHANI ROAD, Uttar Pradesh 271801",
+    "area": "Brahmnipura",
+    "latitude": 27.5705232,
+    "longitude": 81.5976486,
+    "place_id": "ChIJVw-zUQupmTkRxyWxYnNW0Qg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVw-zUQupmTkRxyWxYnNW0Qg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:04:50"
+  }
+]

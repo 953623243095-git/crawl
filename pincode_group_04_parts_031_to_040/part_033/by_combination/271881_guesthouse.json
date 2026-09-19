@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel NG Lodge",
+    "search_category": "Guesthouse",
+    "primary_category": "Motel",
+    "all_categories": "Motel",
+    "pincode": "271881",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "2H7W+PG5, Rupaidiha, Uttar Pradesh 271881",
+    "area": "271881",
+    "latitude": 28.0144283,
+    "longitude": 81.59600999999999,
+    "place_id": "ChIJezr2nIRfmDkRI7c2CSciuyE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJezr2nIRfmDkRI7c2CSciuyE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:32:52"
+  },
+  {
+    "business_name": "Hotel Muskan Lodge",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "271881",
+    "phone_number": "+91 94517 77799",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "2H7X+369, Near Private Bus Stand, Nepalganj, Road, Rupaidiha, Uttar Pradesh 271881",
+    "area": "271881",
+    "latitude": 28.010231299999997,
+    "longitude": 81.5945802,
+    "place_id": "ChIJ42MxFnBemDkR8TcrLY9N1nU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ42MxFnBemDkR8TcrLY9N1nU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:32:52"
+  }
+]

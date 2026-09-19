@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maanya Designer Boutique",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "271861",
+    "phone_number": "+91 98101 18021",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SCO 91, BASEMENT, CLOCKTOWN MARKET, OMAXE PHASE 1, New Chandigarh, Punjab 140901",
+    "area": "271861",
+    "latitude": 30.8087649,
+    "longitude": 76.7264373,
+    "place_id": "ChIJMfY4gqLxDzkR-ntKK0aCw3A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMfY4gqLxDzkR-ntKK0aCw3A",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:21:28"
+  },
+  {
+    "business_name": "Mian tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "271861",
+    "phone_number": "+91 96756 93635",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Bazar, nasrullah khan, near bidi phool taj, near Masjid Masoomi, Mohalla Chipiyan, Rampur, Uttar Pradesh 244901",
+    "area": "Mohalla Chipiyan",
+    "latitude": 28.807153,
+    "longitude": 79.0262594,
+    "place_id": "ChIJC_X8puCNCjkReLn6OSyEc8Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC_X8puCNCjkReLn6OSyEc8Q",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:21:28"
+  }
+]

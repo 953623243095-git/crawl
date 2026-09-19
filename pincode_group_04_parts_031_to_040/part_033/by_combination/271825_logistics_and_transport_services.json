@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat Transport Company",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "271825",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 15,
+    "address": "6, Faizabad Rd, Barabanki, Palhari, Uttar Pradesh 225001",
+    "area": "271825",
+    "latitude": 26.9280507,
+    "longitude": 81.2273922,
+    "place_id": "ChIJj1qQXr5hmTkR0ZD76J5Vpy0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj1qQXr5hmTkR0ZD76J5Vpy0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:05:50"
+  },
+  {
+    "business_name": "Aloka Transport Company Private Limited",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service, Business administration service, Economic Consultant",
+    "pincode": "271825",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "PATTI RAMGARHI BAHRAICH-271902 UTTAR PARDESH, Uttar Pradesh 271902",
+    "area": "271825",
+    "latitude": 27.466492,
+    "longitude": 81.4656983,
+    "place_id": "ChIJXyolqnQJmTkRsrIeBPESZ1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXyolqnQJmTkRsrIeBPESZ1Y",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:05:50"
+  }
+]
