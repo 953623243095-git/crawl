@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aastha Marketing",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Supplier, Manufacturer, Religious Book Store, Religious goods store, Store",
+    "pincode": "306021",
+    "phone_number": "+91 99504 60981",
+    "website": "http://www.aasthavedic.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Aastha Marketing, Koliwara, Falna Road, Sumerpur, Rajasthan 306902",
+    "area": "306021",
+    "latitude": 25.152961599999998,
+    "longitude": 73.1317468,
+    "place_id": "ChIJ9bGGAVWTQjkR54n4Qs87wlo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9bGGAVWTQjkR54n4Qs87wlo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:25:26"
+  },
+  {
+    "business_name": "Shubham Distributors",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Electronics wholesaler",
+    "all_categories": "Electronics wholesaler, Electronics store",
+    "pincode": "306021",
+    "phone_number": "+91 99501 50276",
+    "website": "https://www.facebook.com/share/Ptaa2arpAYiwnJWV/",
+    "rating": 4.6,
+    "reviews_count": 28,
+    "address": "Ganesh Marg, opp. SBI BANK, Saket Colony, Sumerpur, Rajasthan 306902",
+    "area": "Saket Colony",
+    "latitude": 25.155156899999998,
+    "longitude": 73.0806413,
+    "place_id": "ChIJezQgocPtQjkRIlnhEVQLLWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJezQgocPtQjkRIlnhEVQLLWg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:25:26"
+  }
+]

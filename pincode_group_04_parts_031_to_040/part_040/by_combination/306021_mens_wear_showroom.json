@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Super Stop",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "306021",
+    "phone_number": "+91 94608 41000",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 14,
+    "address": "Ganesh Talkies Rd, opp. MEGDOOT COMPLEX, Kalapura, Sumerpur, Rajasthan 306902",
+    "area": "Kalapura",
+    "latitude": 25.151948899999997,
+    "longitude": 73.07560409999999,
+    "place_id": "ChIJxZCVXtbtQjkRl4uCnXGqjVM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxZCVXtbtQjkRl4uCnXGqjVM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:24:00"
+  },
+  {
+    "business_name": "MHTESWARI F",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "306021",
+    "phone_number": "+91 77425 43889",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ranjeet Singh Guda, Ranwash Marg, Kesar Singh Ka Gurha, Rajasthan 306021",
+    "area": "306021",
+    "latitude": 25.612113299999997,
+    "longitude": 73.6744531,
+    "place_id": "ChIJi-a5IGnPaTkRO9uu8kTUD6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi-a5IGnPaTkRO9uu8kTUD6U",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:24:01"
+  }
+]

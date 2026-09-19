@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ambuja Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "306023",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 173,
+    "address": "843F+G6C, Pali, Rabariyawas, Rajasthan 306709",
+    "area": "306023",
+    "latitude": 26.303822999999998,
+    "longitude": 74.1230155,
+    "place_id": "ChIJsxx5eVApajkRGlu7QgrO280",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsxx5eVApajkRGlu7QgrO280",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:28:31"
+  },
+  {
+    "business_name": "Gitaa Apartments",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Apartment building",
+    "pincode": "306023",
+    "phone_number": "+91 94141 20181",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 8,
+    "address": "Plot no 56, 57, Kheteshwar nagar, near Mewara samaj Bhavan, near Bangur college, Pali, Rajasthan 306401",
+    "area": "Indira Colony Vistar",
+    "latitude": 25.7738171,
+    "longitude": 73.347777,
+    "place_id": "ChIJfcMf9jJzQjkRQK7sKlpAdUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfcMf9jJzQjkRQK7sKlpAdUE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:28:31"
+  }
+]

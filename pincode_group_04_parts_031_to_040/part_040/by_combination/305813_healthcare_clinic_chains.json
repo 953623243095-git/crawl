@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajmer Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "305813",
+    "phone_number": "+91 70620 00002",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 33,
+    "address": "2, Major District Road 85, Shastri Nagar, Civil Lines, Ajmer, Rajasthan 305001",
+    "area": "Civil Lines",
+    "latitude": 26.474781999999998,
+    "longitude": 74.6378778,
+    "place_id": "ChIJpUTukarnazkRu0P0Z1u3mo0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpUTukarnazkRu0P0Z1u3mo0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 05:55:03"
+  },
+  {
+    "business_name": "SOURABH HEALTH CARE🏥",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "305813",
+    "phone_number": "+91 92564 58203",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ajmer Rd, Raghu Colony, Kekri, Rajasthan 305404",
+    "area": "Raghu Colony",
+    "latitude": 25.975148299999997,
+    "longitude": 75.14589459999999,
+    "place_id": "ChIJAftJ8LrJbjkRVzq1lA8tdkk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAftJ8LrJbjkRVzq1lA8tdkk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 05:55:04"
+  }
+]

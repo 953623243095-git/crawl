@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Mahaveer Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "305923",
+    "phone_number": "+91 98294 00991",
+    "website": "http://www.shrimahaveertravels.com/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Parvatpura by pass beawar road. Ajmer Service road, side by pass, Jaipur - Jodhpur National Hwy, Rajasthan 305002",
+    "area": "305923",
+    "latitude": 26.405430499999998,
+    "longitude": 74.6578296,
+    "place_id": "ChIJLaQv7BXhazkRKJRgGUr5V5Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLaQv7BXhazkRKJRgGUr5V5Q",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:13:12"
+  },
+  {
+    "business_name": "Sodha Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "305923",
+    "phone_number": "+91 98281 67644",
+    "website": "https://www.sodhabus.in/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Chohtan chauraha, Vishnu Colony, Barmer, Rajasthan 344001",
+    "area": "Vishnu Colony",
+    "latitude": 25.7307563,
+    "longitude": 71.3932033,
+    "place_id": "ChIJsSecbpo6RDkRdF3qqEIfeiI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsSecbpo6RDkRdF3qqEIfeiI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:13:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aryan Public School",
+    "search_category": "Play School and Daycare",
+    "primary_category": "General education school",
+    "all_categories": "General education school",
+    "pincode": "305815",
+    "phone_number": "+91 96494 82222",
+    "website": "http://aryanschool.org/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GMC6+F8P, near Janana Hospital, Lohagal, Rajasthan 305004",
+    "area": "305815",
+    "latitude": 26.519306399999998,
+    "longitude": 74.6592117,
+    "place_id": "ChIJ4ZcG3SDmazkRJa4GVwLtAYY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4ZcG3SDmazkRJa4GVwLtAYY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:00:14"
+  },
+  {
+    "business_name": "Little Champ School",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "305815",
+    "phone_number": "+91 98290 47920",
+    "website": "https://littlechampschool.in/",
+    "rating": 4.5,
+    "reviews_count": 14,
+    "address": "Masuda Rd, Paras Colony, Beawar, Rajasthan 305901",
+    "area": "Paras Colony",
+    "latitude": 26.103426499999998,
+    "longitude": 74.3300971,
+    "place_id": "ChIJywK_cmZxaTkRYuVATqyIFWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJywK_cmZxaTkRYuVATqyIFWQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:00:15"
+  }
+]

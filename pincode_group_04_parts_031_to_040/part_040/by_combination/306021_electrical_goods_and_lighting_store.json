@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hitesh electrical",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "306021",
+    "phone_number": "+91 89499 62618",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 10,
+    "address": "Shop no.2, jalore chauraha, Rajavadi Colony, Sumerpur, Rajasthan 306902",
+    "area": "Rajavadi Colony",
+    "latitude": 25.158922699999998,
+    "longitude": 73.08127859999999,
+    "place_id": "ChIJaWmWWuvtQjkR_ffpKAxmVLM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaWmWWuvtQjkR_ffpKAxmVLM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:24:28"
+  },
+  {
+    "business_name": "PH Electricals Chandigarh",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store, Wholesaler household appliances",
+    "pincode": "306021",
+    "phone_number": "+91 90414 78817",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Plot no.397, Phase2, Industrial Area Phase II, Chandigarh, 160002",
+    "area": "Industrial Area Phase II",
+    "latitude": 30.697612,
+    "longitude": 76.7834843,
+    "place_id": "ChIJ7QaOozDtDzkRuFxuEM4IBBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7QaOozDtDzkRuFxuEM4IBBU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:24:29"
+  }
+]

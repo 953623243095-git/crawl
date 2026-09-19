@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dialysis",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "305814",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "232, Tehsil Rd, Tura Mandi, Najafgarh Extension, Najafgarh, Delhi, 110043",
+    "area": "Tura Mandi, Najafgarh Extension, Najafgarh",
+    "latitude": 28.6136672,
+    "longitude": 76.9909895,
+    "place_id": "ChIJSbdkS58PDTkRg-HvFqlurUw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSbdkS58PDTkRg-HvFqlurUw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 05:57:14"
+  },
+  {
+    "business_name": "Kidney Care Center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "305814",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 16,
+    "address": "137, Sector 14, HSMB Colony, BEL Colony, Sector 14, Panchkula, Haryana 134113",
+    "area": "HSMB Colony, BEL Colony, Sector 14",
+    "latitude": 30.6815696,
+    "longitude": 76.8485838,
+    "place_id": "ChIJEyYtuuKVDzkRLdCxpN_RWNQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEyYtuuKVDzkRLdCxpN_RWNQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 05:57:14"
+  }
+]

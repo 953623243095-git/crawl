@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NBP Interiors & Construction",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Interior architect office, Interior construction contractor, Interior Decorator, Kitchen remodeler",
+    "pincode": "305816",
+    "phone_number": "+91 96363 91707",
+    "website": "https://nbpinteriors.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "5th Floor Office no.-D 514 R-Tech Capital Galleria Plot No. 3 (A) RIICO INDL. Area, Sirsi Rd, Vaishali Nagar, Kanakpura, Jaipur, Rajasthan 302034",
+    "area": "Vaishali Nagar, Kanakpura",
+    "latitude": 26.924879999999998,
+    "longitude": 75.7044258,
+    "place_id": "ChIJNwVkfFC1bTkR6EXGNTuPEvA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNwVkfFC1bTkR6EXGNTuPEvA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:01:53"
+  },
+  {
+    "business_name": "Shape Interiors",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Architecture firm",
+    "pincode": "305816",
+    "phone_number": "+91 82903 10808",
+    "website": "http://www.shapeinteriors.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "117, Crown Square, Gandhi Path Rd, Vaishali Nagar, Jaipur, Rajasthan 302021",
+    "area": "Girnar Colony, Scheme Number 8, Girnar Colony South, Vaishali Nagar",
+    "latitude": 26.904914299999998,
+    "longitude": 75.7448922,
+    "place_id": "ChIJoU_zQJ-0bTkRq-gogLvcpJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoU_zQJ-0bTkRq-gogLvcpJ8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:01:53"
+  }
+]

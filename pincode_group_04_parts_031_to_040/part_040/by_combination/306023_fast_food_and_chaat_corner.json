@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandan Dining & Fast Food",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "306023",
+    "phone_number": "+91 98901 51130",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 128,
+    "address": "RJ SH 16, near Ankur Medical, Shripal Nagar, Main Bazar, Falna, Rajasthan 306116",
+    "area": "Shripal Nagar, Main Bazar",
+    "latitude": 25.235769599999998,
+    "longitude": 73.2383372,
+    "place_id": "ChIJdR7QqPqRQjkRCVEIYZhmCGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdR7QqPqRQjkRCVEIYZhmCGo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:27:34"
+  },
+  {
+    "business_name": "Pali Street Food",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "306023",
+    "phone_number": "+91 99837 19286",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bijli Ghar, 4, Road, Housing Board, Pali, Jodhpur, Rajasthan 342008",
+    "area": "Housing Board",
+    "latitude": 25.7957723,
+    "longitude": 73.306204,
+    "place_id": "ChIJnbef69hzQjkRHpZ7wwAw72A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnbef69hzQjkRHpZ7wwAw72A",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:27:34"
+  }
+]

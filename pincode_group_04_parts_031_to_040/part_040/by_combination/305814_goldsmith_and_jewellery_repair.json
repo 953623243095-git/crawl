@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dadamashai Jewellery",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry repair service",
+    "all_categories": "Jewelry repair service, Jewelry store, Gemstone Jeweler",
+    "pincode": "305814",
+    "phone_number": "+91 89188 43226",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Lakshman Jhula, opp. Punyah Residency, Tapovan, Rishikesh, Uttarakhand 249192",
+    "area": "Tapovan",
+    "latitude": 30.1292451,
+    "longitude": 78.3277432,
+    "place_id": "ChIJWxtP1UQWCTkRAAAAsOqcnzU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWxtP1UQWCTkRAAAAsOqcnzU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 05:57:00"
+  },
+  {
+    "business_name": "Laxmi Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "305814",
+    "phone_number": "+91 96495 85555",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 20,
+    "address": "Opp. GPO.. P.R. Marg, 54, Prithivi Raj Marg, Near BOB, Hathi Bhata, Ajmer, Rajasthan 305001",
+    "area": "Hathi Bhata",
+    "latitude": 26.4593726,
+    "longitude": 74.63587489999999,
+    "place_id": "ChIJrQtb9BznazkR3Gs6xqey2qs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrQtb9BznazkR3Gs6xqey2qs",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 05:57:02"
+  }
+]

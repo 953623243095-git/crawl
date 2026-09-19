@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tarlok auto repair",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "305923",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "XGXC+42G, Rupnagar, Garh Bagga, Punjab 140119",
+    "area": "305923",
+    "latitude": 30.9978207,
+    "longitude": 76.5200655,
+    "place_id": "ChIJO5rUQzJVBTkROLZp548a8sw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO5rUQzJVBTkROLZp548a8sw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:13:07"
+  },
+  {
+    "business_name": "M.S. MOTOR GARAGE",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "305923",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Dhuri, Punjab 148024",
+    "area": "305923",
+    "latitude": 30.3694259,
+    "longitude": 75.8541257,
+    "place_id": "ChIJnTvVZApbEDkRsgtmsBmSqFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnTvVZApbEDkRsgtmsBmSqFg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:13:08"
+  }
+]

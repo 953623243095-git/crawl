@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Flour Mills",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Mill",
+    "all_categories": "Mill",
+    "pincode": "306102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6JF3+3XG, Aabadi Rd, 24 Gb, 4 Rm, Rajasthan 335704",
+    "area": "306102",
+    "latitude": 29.222693999999997,
+    "longitude": 73.6049582,
+    "place_id": "ChIJ25fPz5QHFjkRXCCDCGYdJv0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ25fPz5QHFjkRXCCDCGYdJv0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:32:40"
+  },
+  {
+    "business_name": "1313 Flour Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "306102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kehar Singh Colony, Khanna, Punjab 141401",
+    "area": "Kehar Singh Colony",
+    "latitude": 30.7089803,
+    "longitude": 76.2298047,
+    "place_id": "ChIJ89ZKxdUPEDkRFyGv4p4TrnA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ89ZKxdUPEDkRFyGv4p4TrnA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:32:40"
+  }
+]

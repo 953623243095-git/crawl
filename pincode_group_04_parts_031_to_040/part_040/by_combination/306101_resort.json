@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nature Jawai Retreat",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "306101",
+    "phone_number": "+91 96490 77771",
+    "website": "https://naturejawairetreat.com/",
+    "rating": 4.7,
+    "reviews_count": 216,
+    "address": "Village sena Jod, Bijapur , Tehsil - Bali, District- Pali, Jawai, Rajasthan 306707",
+    "area": "306101",
+    "latitude": 25.0456011,
+    "longitude": 73.2076191,
+    "place_id": "ChIJD88CFdK9QjkRbf3DSMH3maw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD88CFdK9QjkRbf3DSMH3maw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:30:20"
+  },
+  {
+    "business_name": "StayVista Villa",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Chalet, Cottage, Holiday home, Hotel, Inn, Lodge, Home Stay, Villa",
+    "pincode": "306101",
+    "phone_number": "+91 81049 54254",
+    "website": "http://www.stayvista.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Stay Village Hajiwas Teshil Raipur, Dist. Pali, Rajasthan 306105",
+    "area": "306101",
+    "latitude": 26.0986166,
+    "longitude": 74.0832683,
+    "place_id": "ChIJywZHBwCFaTkRVV52e_WruFE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJywZHBwCFaTkRVV52e_WruFE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:30:23"
+  }
+]

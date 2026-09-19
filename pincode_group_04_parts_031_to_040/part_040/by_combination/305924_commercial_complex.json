@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Grand Business Park",
+    "search_category": "Commercial Complex",
+    "primary_category": "Property management company",
+    "all_categories": "Property management company",
+    "pincode": "305924",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "The Grand Business Park, Landran Road, adjoining Meshi Da Dhaba, Chandigarh, Chunni Kalan, Punjab 140408",
+    "area": "305924",
+    "latitude": 30.651978699999997,
+    "longitude": 76.5491062,
+    "place_id": "ChIJuU-azQLlDzkRix9hXmcS7d0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuU-azQLlDzkRix9hXmcS7d0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:16:17"
+  },
+  {
+    "business_name": "commercial complex",
+    "search_category": "Commercial Complex",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "305924",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "london square, Landran Rd, opposite Fauji Colony, Sante Majra, Banur, Sahibzada Ajit Singh Nagar, Punjab 140307",
+    "area": "Sante Majra",
+    "latitude": 30.7207577,
+    "longitude": 76.6527907,
+    "place_id": "ChIJsUt06-PvDzkRXYCoZIc5BXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsUt06-PvDzkRXYCoZIc5BXY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:16:17"
+  }
+]

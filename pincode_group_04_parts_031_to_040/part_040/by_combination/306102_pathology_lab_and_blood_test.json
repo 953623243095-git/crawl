@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa lab",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Laboratory",
+    "all_categories": "Laboratory, Blood testing service, Diagnostic center, Medical laboratory",
+    "pincode": "306102",
+    "phone_number": "+91 77372 01022",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2R3W+WCF, Chandawal Rd, opposite to govt hospital, Chandawal, Rajasthan 306306",
+    "area": "306102",
+    "latitude": 26.004861899999998,
+    "longitude": 73.8461287,
+    "place_id": "ChIJR8MhR7GTaTkRVmElicTlIZ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR8MhR7GTaTkRVmElicTlIZ8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:31:34"
+  },
+  {
+    "business_name": "𝐖𝐞𝐂𝐚𝐫𝐞 𝐏𝐚𝐭𝐡 𝐋𝐚𝐛 | Best Pathology & Diagnostic Blood Testing Centre in Chandigarh | Dr Amitoj (NABL Accredited Lab)",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory, Blood testing service, Diagnostic center, Laboratory, Pathologist",
+    "pincode": "306102",
+    "phone_number": "+91 85448 70700",
+    "website": "https://wecarepathlab.in/",
+    "rating": 4.9,
+    "reviews_count": 223,
+    "address": "SCO 12 (Backside, 10D, Chandigarh, 160011",
+    "area": "10D, Sector 10",
+    "latitude": 30.75432,
+    "longitude": 76.78755749999999,
+    "place_id": "ChIJV463EWztDzkR2uGfDMD4ZbE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV463EWztDzkR2uGfDMD4ZbE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:31:35"
+  }
+]

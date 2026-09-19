@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajmer Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "305813",
+    "phone_number": "+91 94626 78380",
+    "website": "https://ajmerdairy.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Parbatpura By Pass, Adarsh Nagar, Ajmer, Rajasthan 305001",
+    "area": "Adarsh Nagar",
+    "latitude": 26.4105557,
+    "longitude": 74.65540709999999,
+    "place_id": "ChIJQXQbD27hazkRnSlNun5Wr34",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQXQbD27hazkRnSlNun5Wr34",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 05:54:21"
+  },
+  {
+    "business_name": "Rajpurohit dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "305813",
+    "phone_number": "N/A",
+    "website": "https://www.rajpurohitdairy.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ladpura Rd, ghoogra, Ajmer, Ghooghra, Rajasthan 305001",
+    "area": "ghoogra",
+    "latitude": 26.5030306,
+    "longitude": 74.6952692,
+    "place_id": "ChIJ9-g-zZnlazkRTS4QQr0rK1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9-g-zZnlazkRTS4QQr0rK1U",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 05:54:22"
+  }
+]

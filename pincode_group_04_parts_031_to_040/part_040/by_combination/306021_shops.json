@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "suman fancy store auwa",
+    "search_category": "Shops",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "306021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "JJGP+9JW, Auwa, Rajasthan 306021",
+    "area": "306021",
+    "latitude": 25.625982399999998,
+    "longitude": 73.6366209,
+    "place_id": "ChIJLeLEOJzRaTkRIPSPfEyZYMc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLeLEOJzRaTkRIPSPfEyZYMc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:25:29"
+  },
+  {
+    "business_name": "Sri Rajaram Garment Store",
+    "search_category": "Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "306021",
+    "phone_number": "+91 70235 01671",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Auwa Road Singhvi Complex, Rajasthan 306001",
+    "area": "306021",
+    "latitude": 25.629676399999997,
+    "longitude": 73.63743199999999,
+    "place_id": "ChIJGbZ2Fv7RaTkRxBxbTFCXbbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGbZ2Fv7RaTkRxBxbTFCXbbU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:25:32"
+  }
+]

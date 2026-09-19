@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Sanvariya seth cafe & juice corner",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "306102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "42W6+527, Nimaj Main Rd, Samokhi, Nimaj, Rajasthan 306303",
+    "area": "306102",
+    "latitude": 26.1454116,
+    "longitude": 74.0100418,
+    "place_id": "ChIJ0WFacACPaTkR2m5ETlNuts4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0WFacACPaTkR2m5ETlNuts4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:31:11"
+  },
+  {
+    "business_name": "Parmeshwar Bakery House",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop, Bakery and Cake Shop",
+    "pincode": "306102",
+    "phone_number": "+91 97843 30568",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hospital Ke Samne Bus, Pali, Nimaj, Rajasthan 306303",
+    "area": "306102",
+    "latitude": 26.1482644,
+    "longitude": 74.0040461,
+    "place_id": "ChIJqfWGPgCPaTkRcHM-4UPrjf8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqfWGPgCPaTkRcHM-4UPrjf8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:31:14"
+  }
+]

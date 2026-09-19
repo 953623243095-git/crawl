@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Heath & Wellness Center",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "305926",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhim, Bhm, Rajasthan 305921",
+    "area": "305926",
+    "latitude": 25.7388385,
+    "longitude": 74.0800807,
+    "place_id": "ChIJ3xNagJ6laTkR2VqfOr-z8LI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3xNagJ6laTkR2VqfOr-z8LI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:18:42"
+  },
+  {
+    "business_name": "Dips and Dumbells",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "305926",
+    "phone_number": "+91 98295 49135",
+    "website": "https://wa.me/919829543633",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "1st & 2nd floor, C-80, 81, BK Kaul Nagar, Dayanand Colony, Ajmer, Boraj Kazipura, Rajasthan 305001",
+    "area": "BK Kaul Nagar, Dayanand Colony",
+    "latitude": 26.461784299999998,
+    "longitude": 74.6028559,
+    "place_id": "ChIJeT_PBgDnazkR2SlCec6QRJU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeT_PBgDnazkR2SlCec6QRJU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:18:42"
+  }
+]

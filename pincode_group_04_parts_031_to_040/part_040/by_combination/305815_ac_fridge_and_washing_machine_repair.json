@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Flow Appliance Repair",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Service establishment",
+    "pincode": "305815",
+    "phone_number": "N/A",
+    "website": "https://flowappliancerepair.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Flow Appliance Repair, 305815, India",
+    "area": "305815",
+    "latitude": 35.5526255,
+    "longitude": -82.4857309,
+    "place_id": "ChIJN7rR20mYgaoRK0Phg8q_kCU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN7rR20mYgaoRK0Phg8q_kCU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 05:59:53"
+  },
+  {
+    "business_name": "Northeast GA Appliance Repair",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Refrigerator repair service, Washer & dryer repair service",
+    "pincode": "305815",
+    "phone_number": "N/A",
+    "website": "https://negaappliancerepair.net/",
+    "rating": 4.9,
+    "reviews_count": 36,
+    "address": "Glenn Carrie Rd, Hull, GA 30646, United States",
+    "area": "305815",
+    "latitude": 34.024732199999995,
+    "longitude": -83.30251299999999,
+    "place_id": "ChIJ53Ox2rcV9ogRedCdKv6IzoM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ53Ox2rcV9ogRedCdKv6IzoM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 05:59:54"
+  }
+]

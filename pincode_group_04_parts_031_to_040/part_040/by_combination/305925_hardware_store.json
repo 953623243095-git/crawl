@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri dev sanik enterprises",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "305925",
+    "phone_number": "+91 90572 12698",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "27PM+JW4, Beawar Rd, Narbad Khera, Gohana, Rajasthan 305925",
+    "area": "305925",
+    "latitude": 26.036514999999998,
+    "longitude": 74.2848226,
+    "place_id": "ChIJiTh6QJ93aTkRt7U7WjLTJMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiTh6QJ93aTkRt7U7WjLTJMA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:17:05"
+  },
+  {
+    "business_name": "VISHVKARMA ENTERPRISES",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "305925",
+    "phone_number": "+91 81077 74394",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhambipura, Rajasthan 305922",
+    "area": "305925",
+    "latitude": 25.9665923,
+    "longitude": 74.23177129999999,
+    "place_id": "ChIJU5pfund1aTkRJx9-VSptD1I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU5pfund1aTkRJx9-VSptD1I",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:17:05"
+  }
+]

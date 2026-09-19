@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhagya Collection",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store",
+    "pincode": "306023",
+    "phone_number": "+91 82098 70488",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhagya collection, near gram panchayat, Raipur, Rajasthan 306304",
+    "area": "306023",
+    "latitude": 26.039327099999998,
+    "longitude": 74.02234039999999,
+    "place_id": "ChIJPb3O_pSRaTkRsg6fmKGd1cM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPb3O_pSRaTkRsg6fmKGd1cM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:27:38"
+  },
+  {
+    "business_name": "Rajendra Ram",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "306023",
+    "phone_number": "+91 73002 74101",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Raju Ram, Pali, Lawacha, Rajasthan 306304",
+    "area": "306023",
+    "latitude": 26.0246222,
+    "longitude": 74.0467197,
+    "place_id": "ChIJtxl8CxmbaTkRIMemWAeCEGk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtxl8CxmbaTkRIMemWAeCEGk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:27:38"
+  }
+]

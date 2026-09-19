@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAMY eCommerce",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "E-commerce service",
+    "all_categories": "E-commerce service, E - Commerce Agency",
+    "pincode": "306021",
+    "phone_number": "+91 62835 88829",
+    "website": "https://samyecommerce.com/",
+    "rating": 4.6,
+    "reviews_count": 13,
+    "address": "2nd Floor, Orbit Signature Walk, Office S-214, VIP Rd, Zirakpur, Punjab 140603",
+    "area": "306021",
+    "latitude": 30.6384561,
+    "longitude": 76.8210359,
+    "place_id": "ChIJoez_V4TrDzkRfBWBt52Upxg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoez_V4TrDzkRfBWBt52Upxg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:25:26"
+  },
+  {
+    "business_name": "Snowmicro",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "306021",
+    "phone_number": "N/A",
+    "website": "https://snowmicro.com/",
+    "rating": 4,
+    "reviews_count": 5,
+    "address": "Snowmicro, 306021, India",
+    "area": "306021",
+    "latitude": -32.205414999999995,
+    "longitude": 136.1073692,
+    "place_id": "ChIJfa1TFNnsDzkRvHRaSUkNxoU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfa1TFNnsDzkRvHRaSUkNxoU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:25:27"
+  }
+]

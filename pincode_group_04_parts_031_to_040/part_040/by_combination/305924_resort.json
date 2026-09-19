@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ishwar Nain Hotel",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "305924",
+    "phone_number": "+91 98195 58853",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "NH8, Kamlighat Choraha, Deogarh kamlighat Choraha, Deogarh, Rajasthan 313331",
+    "area": "305924",
+    "latitude": 25.546363,
+    "longitude": 73.8736194,
+    "place_id": "ChIJP5j7shG1aTkRjSVzupO-Abo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP5j7shG1aTkRjSVzupO-Abo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:15:29"
+  },
+  {
+    "business_name": "Deogarh Khayyam Hotel",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "305924",
+    "phone_number": "+91 93144 20016",
+    "website": "https://www.deogarhmahal.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "GXG7+93V, Tehsil Deogarh Madarira Devgarh, Anjna, Rajasthan 411001",
+    "area": "305924",
+    "latitude": 25.5259887,
+    "longitude": 73.9626814,
+    "place_id": "ChIJd0VRAkqzaTkR-wNzQNHoEO4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd0VRAkqzaTkR-wNzQNHoEO4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:15:29"
+  }
+]

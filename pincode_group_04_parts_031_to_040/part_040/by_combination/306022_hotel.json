@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahadev hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "306022",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pali bhilwada road Kamlighat, Pali - Bhilwara Rd, Devgarh, Devgar, Rajasthan 313331",
+    "area": "306022",
+    "latitude": 25.5591017,
+    "longitude": 73.843355,
+    "place_id": "ChIJzelU-061aTkRTtIQ7_gKb0Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzelU-061aTkRTtIQ7_gKb0Q",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:26:36"
+  },
+  {
+    "business_name": "Hotel ASHOKS & Rooms",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "306022",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": 13,
+    "address": "8QWG+Q52, Khara Asan, Choondawaton Ka Khera, Rajasthan 313333",
+    "area": "306022",
+    "latitude": 25.3469005,
+    "longitude": 73.7754346,
+    "place_id": "ChIJCYM8x783aDkRsPhCpGZjRuM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCYM8x783aDkRsPhCpGZjRuM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:26:39"
+  }
+]

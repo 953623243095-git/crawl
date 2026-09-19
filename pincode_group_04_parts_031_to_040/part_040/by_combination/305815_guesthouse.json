@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LIC Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Holiday apartment rental",
+    "all_categories": "Holiday apartment rental",
+    "pincode": "305815",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "At LIC Building, Jaipur Rd, Hathi Bhata, Ajmer, Rajasthan 305001",
+    "area": "Hathi Bhata",
+    "latitude": 26.462009199999997,
+    "longitude": 74.6374256,
+    "place_id": "ChIJBSIox53nazkRgb6Qn5PlUew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBSIox53nazkRgb6Qn5PlUew",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:00:09"
+  },
+  {
+    "business_name": "Hotel Relief Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "305815",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 312,
+    "address": "6FXM+4CJ, Daulat Khera, Lamana, Rajasthan 305203",
+    "area": "305815",
+    "latitude": 26.247829,
+    "longitude": 74.4835274,
+    "place_id": "ChIJs_X1uuljaTkRCXHqdKKtfP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs_X1uuljaTkRCXHqdKKtfP8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:00:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TOP CARS",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "305813",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Hanal Nagar, Panchsheel Nagar, Ajmer, Rajasthan 305004",
+    "area": "Hanal Nagar, Panchsheel Nagar",
+    "latitude": 26.5017398,
+    "longitude": 74.6306992,
+    "place_id": "ChIJB4ooLc_nazkRa7isUKD2yfI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB4ooLc_nazkRa7isUKD2yfI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 05:55:15"
+  },
+  {
+    "business_name": "Jai Engineering",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Trailer supply store",
+    "all_categories": "Trailer supply store",
+    "pincode": "305813",
+    "phone_number": "+91 70009 41743",
+    "website": "http://www.jaiengineering.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "630/43, R K Puram, Bhajan Ganj, Ajmer, Rajasthan 305001",
+    "area": "R K Puram, Bhajan Ganj",
+    "latitude": 26.432210299999998,
+    "longitude": 74.65259569999999,
+    "place_id": "ChIJx-CualbnazkRQtgFCTBCeiI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx-CualbnazkRQtgFCTBCeiI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 05:55:17"
+  }
+]

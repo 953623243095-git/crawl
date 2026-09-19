@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Arjun Pradhan (Physiotherapist)",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "305815",
+    "phone_number": "+91 97845 35251",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Pradhan physiotherapy clinic, near D Mart, Panchsheel Nagar, Ajmer, Rajasthan 305004",
+    "area": "Panchsheel Nagar",
+    "latitude": 26.5165656,
+    "longitude": 74.6391423,
+    "place_id": "ChIJwV7VwtTnazkReBWwnuZvtoE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwV7VwtTnazkReBWwnuZvtoE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 05:59:27"
+  },
+  {
+    "business_name": "RD Orthocare",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Hospital equipment and supplies",
+    "all_categories": "Hospital equipment and supplies",
+    "pincode": "305815",
+    "phone_number": "+91 93512 04610",
+    "website": "https://www.rdorthocare.com/",
+    "rating": 4.5,
+    "reviews_count": 115,
+    "address": "20, Kailashpuri, Tonk Rd, opp. Khandaka Hospital, Jaipur, Rajasthan 302018",
+    "area": "Kailash Puri Colony",
+    "latitude": 26.8567093,
+    "longitude": 75.7963688,
+    "place_id": "ChIJqZU2M921bTkRsRXo-SpEPNg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqZU2M921bTkRsRXo-SpEPNg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 05:59:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jangid & Associate",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant, Consultant",
+    "pincode": "306022",
+    "phone_number": "+91 78914 14372",
+    "website": "https://www.jangidandassociate.com/",
+    "rating": 5,
+    "reviews_count": 60,
+    "address": "G-28, Saraswati Tower, Sector 2, Central Spine, Vidyadhar Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302012",
+    "area": "Sector 2, Central Spine, Vidyadhar Nagar",
+    "latitude": 26.966717799999998,
+    "longitude": 75.7833351,
+    "place_id": "ChIJ3Rv9dRqzbTkRsUfWowrm4B0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Rv9dRqzbTkRsUfWowrm4B0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:27:01"
+  },
+  {
+    "business_name": "AJA & Co. Chartered Accountants",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Certified public accountant",
+    "all_categories": "Certified public accountant",
+    "pincode": "306022",
+    "phone_number": "+91 98884 55846",
+    "website": "https://ajaco.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SCF 109, First Floor Green Lotus Avenue, Chowk, Chandigarh-Ambala Hwy, Market, Singhpura, Zirakpur, Punjab 140603",
+    "area": "Market",
+    "latitude": 30.630024,
+    "longitude": 76.8225478,
+    "place_id": "ChIJL7uS0gfrDzkRyfLN1Hkt-08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL7uS0gfrDzkRyfLN1Hkt-08",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:27:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jain Flour Mills",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "306022",
+    "phone_number": "+91 98150 64054",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 5,
+    "address": "PPJG+5Q5, Adjoining Punjab National Bank, Old National Highway, Village Palsora, Sector 55, Chandigarh, 160055",
+    "area": "Village Palsora, Sector 55",
+    "latitude": 30.730381899999998,
+    "longitude": 76.7269766,
+    "place_id": "ChIJFeFkZXHuDzkRW_64tS7hI-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFeFkZXHuDzkRW_64tS7hI-8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:27:08"
+  },
+  {
+    "business_name": "Samay Expeller Company",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "306022",
+    "phone_number": "+91 88088 91691",
+    "website": "https://samayexpeller.com/",
+    "rating": 4.8,
+    "reviews_count": 474,
+    "address": "Plot no. 67, Oscar industrial area Sopan industrial zone -2 gate, Behind purthvi pump Ribda, Ta. Gondal, Dist, Rajkot, Gujarat 360311",
+    "area": "306022",
+    "latitude": 22.1039691,
+    "longitude": 70.77076009999999,
+    "place_id": "ChIJKWdGYJVLWDkR8PsP0EnC1qE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKWdGYJVLWDkR8PsP0EnC1qE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:27:10"
+  }
+]

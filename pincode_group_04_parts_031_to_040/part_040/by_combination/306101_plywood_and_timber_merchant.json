@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat Timber Traders",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier, Molding supplier, Lumber store, Saw mill, Wood supplier",
+    "pincode": "306101",
+    "phone_number": "+91 78883 47751",
+    "website": "https://www.bharattimbertraders.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Plot No. 189, Industrial Area Phase 2, Panchkula, Haryana 134113",
+    "area": "Industrial Area Phase 2",
+    "latitude": 30.6790615,
+    "longitude": 76.8328954,
+    "place_id": "ChIJI1qA6amUDzkRuyQFD6mBM2g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI1qA6amUDzkRuyQFD6mBM2g",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:29:59"
+  },
+  {
+    "business_name": "Amar Timber Trading Co",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier, Hardware store, Wood supplier",
+    "pincode": "306101",
+    "phone_number": "+91 94179 41248",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "New Timber Market, Nabha Gate, Patiala, Punjab 147001",
+    "area": "Nabha Gate",
+    "latitude": 30.3293359,
+    "longitude": 76.3938691,
+    "place_id": "ChIJK2cpX-8oEDkRmRJIbFeW7ic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK2cpX-8oEDkRmRJIbFeW7ic",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:29:59"
+  }
+]

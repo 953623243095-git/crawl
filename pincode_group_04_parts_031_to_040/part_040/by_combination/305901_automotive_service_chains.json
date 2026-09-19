@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sheetal Workshop",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Wheel alignment service",
+    "all_categories": "Wheel alignment service",
+    "pincode": "305901",
+    "phone_number": "+91 94608 01917",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 60,
+    "address": "CM44+6Q2, Parbatpura, Ajmer, Rajasthan 305002",
+    "area": "Parbatpura",
+    "latitude": 26.4055039,
+    "longitude": 74.6568894,
+    "place_id": "ChIJSyGdEhbhazkRo_o_D-auVA8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSyGdEhbhazkRo_o_D-auVA8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:07:40"
+  },
+  {
+    "business_name": "Maruti Suzuki Authorised Service (Ashok Auto)",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, RV repair shop",
+    "pincode": "305901",
+    "phone_number": "+91 98290 87166",
+    "website": "http://ruchit17131.wixsite.com/website",
+    "rating": 3.8,
+    "reviews_count": 50,
+    "address": "Bypass, Nasirabad Rd, Parbatpura, Ajmer, Rajasthan 305001",
+    "area": "Parbatpura",
+    "latitude": 26.406687899999998,
+    "longitude": 74.6584688,
+    "place_id": "ChIJAQAAMBbhazkRYHlDmg7lMfg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAMBbhazkRYHlDmg7lMfg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:07:40"
+  }
+]

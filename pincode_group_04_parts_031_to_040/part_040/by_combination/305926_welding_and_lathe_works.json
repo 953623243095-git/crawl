@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Welding work",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Welder",
+    "all_categories": "Welder",
+    "pincode": "305926",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "83CJ+GJW, Ps garden, Mata Ka Than, Jodhpur, Rajasthan 342001",
+    "area": "Shikshak Nagar, Mata Ka Than, Rawat Nagar",
+    "latitude": 26.321374499999997,
+    "longitude": 73.0815746,
+    "place_id": "ChIJfePiYEmNQTkRpj8o16MlnUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfePiYEmNQTkRpj8o16MlnUs",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:19:40"
+  },
+  {
+    "business_name": "Harminder Welding Works",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Welder",
+    "all_categories": "Welder",
+    "pincode": "305926",
+    "phone_number": "+91 98150 90045",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Gurdev Nagar, Utrathiya, Zirakpur, Bhabat, Punjab 140603",
+    "area": "Gurdev Nagar, Utrathiya",
+    "latitude": 30.6562061,
+    "longitude": 76.81091909999999,
+    "place_id": "ChIJyziVcUfrDzkREqOjomE5R84",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyziVcUfrDzkREqOjomE5R84",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:19:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHAIN SINGH",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "305921",
+    "phone_number": "+91 79906 33944",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jay Bhawani Fast Food, NH58, Taragarh, Taragad, Rajasthan 305923",
+    "area": "305921",
+    "latitude": 25.8753784,
+    "longitude": 74.14803189999999,
+    "place_id": "ChIJPwEHSaahaTkRjidNbWS7_hM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPwEHSaahaTkRjidNbWS7_hM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:09:00"
+  },
+  {
+    "business_name": "Vishal Fresh",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Breakfast restaurant, Fast food restaurant, Vegetarian restaurant",
+    "pincode": "305921",
+    "phone_number": "+91 90010 35009",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 323,
+    "address": "SH 12, Mahadev Colony, Kankroli, Rajsamand, Rajasthan 313324",
+    "area": "Mahadev Colony, Kankroli",
+    "latitude": 25.0566849,
+    "longitude": 73.8914707,
+    "place_id": "ChIJ7W1pQ4BraDkRFoUnUGBk9pk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7W1pQ4BraDkRFoUnUGBk9pk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:09:00"
+  }
+]

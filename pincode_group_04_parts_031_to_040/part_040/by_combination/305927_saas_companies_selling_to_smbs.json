@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Simsoft Solutions",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "305927",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "House No - 763 , First Floor, Kishangarh, Chandigarh, 160101",
+    "area": "Kishangarh",
+    "latitude": 30.732313299999998,
+    "longitude": 76.82973179999999,
+    "place_id": "ChIJUy5N42yTDzkR5AVDPpTYNYQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUy5N42yTDzkR5AVDPpTYNYQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:21:44"
+  },
+  {
+    "business_name": "Saraswati Technologies",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "305927",
+    "phone_number": "+91 83849 01718",
+    "website": "http://www.saraswatitechnologies.in/",
+    "rating": 4.9,
+    "reviews_count": 48,
+    "address": "RV6, Phase1, behind Ridhi Sidhi Mall, Ridhi Sidhi Enclave, Sri Ganganagar, Rajasthan 335001",
+    "area": "Ridhi Sidhi Enclave",
+    "latitude": 29.893331099999997,
+    "longitude": 73.896575,
+    "place_id": "ChIJkyAUPoFVFjkRObVbujwMqxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkyAUPoFVFjkRObVbujwMqxc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:21:47"
+  }
+]

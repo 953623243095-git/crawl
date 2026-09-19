@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gulab Provision Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "305815",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "near Hasi bai dharamshala, Asha Ganj, Ajmer, Rajasthan 305001",
+    "area": "Asha Ganj",
+    "latitude": 26.4456143,
+    "longitude": 74.6339126,
+    "place_id": "ChIJDZVY4SPnazkRTb7EDkf3pXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDZVY4SPnazkRTb7EDkf3pXw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 05:58:51"
+  },
+  {
+    "business_name": "Jagannath Surajmal Khandelwal Kirana Merchant",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "305815",
+    "phone_number": "+91 145 243 1936",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "FJ6H+J25, Delhi Gate Rd, Lakhan Kothri, Ajmer, Rajasthan 305001",
+    "area": "Lakhan Kothri",
+    "latitude": 26.4615238,
+    "longitude": 74.6275979,
+    "place_id": "ChIJS6m05A_nazkRHWc8J42lPdg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS6m05A_nazkRHWc8J42lPdg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 05:58:52"
+  }
+]

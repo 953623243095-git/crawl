@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Inbox",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Continental restaurant",
+    "all_categories": "Continental restaurant",
+    "pincode": "305815",
+    "phone_number": "+91 96365 16102",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 717,
+    "address": "Tation, Jammu Road, behind Bus Stand, Railway Colony, Ajmer, Rajasthan 305001",
+    "area": "Railway Colony",
+    "latitude": 26.467267399999997,
+    "longitude": 74.64790909999999,
+    "place_id": "ChIJ22timeDnazkRM_FoycnVEsE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ22timeDnazkRM_FoycnVEsE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 05:59:07"
+  },
+  {
+    "business_name": "Ajmer pizza",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Pizza delivery, Pizza takeaway, Restaurant",
+    "pincode": "305815",
+    "phone_number": "+91 88248 71999",
+    "website": "https://link.zomato.com/xqzv/rshare?id=129962669d2b9a58",
+    "rating": 5,
+    "reviews_count": 76,
+    "address": "C block, Panchsheel Nagar, Ajmer, Rajasthan 305001",
+    "area": "C block, Panchsheel Nagar",
+    "latitude": 26.501604699999998,
+    "longitude": 74.6351105,
+    "place_id": "ChIJqVeyqTfnazkRiWx5nibOQHI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqVeyqTfnazkRiWx5nibOQHI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 05:59:09"
+  }
+]

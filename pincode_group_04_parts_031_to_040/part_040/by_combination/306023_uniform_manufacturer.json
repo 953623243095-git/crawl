@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PNAKINDIA",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Uniform store",
+    "all_categories": "Uniform store, Clothing manufacturer, Clothing store",
+    "pincode": "306023",
+    "phone_number": "+91 98251 57843",
+    "website": "https://www.pnakindia.in/",
+    "rating": 5,
+    "reviews_count": 70,
+    "address": "A 326, Lilamani Trade center, DELHI DARWAJA, Ahmedabad, Gujarat 380004",
+    "area": "DELHI DARWAJA",
+    "latitude": 23.0398487,
+    "longitude": 72.5852676,
+    "place_id": "ChIJwYy8kuyFXjkRbTUqL-uRWKM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwYy8kuyFXjkRbTUqL-uRWKM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:27:44"
+  },
+  {
+    "business_name": "Unique Uniform",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Uniform store",
+    "all_categories": "Uniform store",
+    "pincode": "306023",
+    "phone_number": "+91 90114 46256",
+    "website": "https://www.uniqueuniform.co.in/",
+    "rating": 3.3,
+    "reviews_count": 30,
+    "address": "15, Station​ Rd, near Punjab National Bank, Tejmandi, Alwar, Rajasthan 301001",
+    "area": "Tejmandi",
+    "latitude": 27.5636594,
+    "longitude": 76.6192743,
+    "place_id": "ChIJt36h3PKZcjkRhJcsHqtxa1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt36h3PKZcjkRhJcsHqtxa1E",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:27:44"
+  }
+]

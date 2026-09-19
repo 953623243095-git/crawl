@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kureshi Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "306101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "NH58, near bus stund, Lamana, Rajasthan 305202",
+    "area": "306101",
+    "latitude": 26.2379383,
+    "longitude": 74.4772133,
+    "place_id": "ChIJ9Q5BXO1jaTkRwMH1IlxdN1c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Q5BXO1jaTkRwMH1IlxdN1c",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:29:15"
+  },
+  {
+    "business_name": "Ras, Rajasthan 306101",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "306101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ras, Rajasthan",
+    "area": "306101",
+    "latitude": 26.309486999999997,
+    "longitude": 74.1944529,
+    "place_id": "ChIJRWnayW3VazkRIj9DrgBBVoE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRWnayW3VazkRIj9DrgBBVoE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:29:16"
+  }
+]

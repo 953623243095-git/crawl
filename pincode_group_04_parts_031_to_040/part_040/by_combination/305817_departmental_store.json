@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apna Super Market",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "305817",
+    "phone_number": "+91 75689 25204",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop Number 1, Mundoti Rd, Bandarsndari, Rajasthan 305817",
+    "area": "305817",
+    "latitude": 26.6286296,
+    "longitude": 75.0373865,
+    "place_id": "ChIJhV8OQs4JbDkRVM9mUFwmr00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhV8OQs4JbDkRVM9mUFwmr00",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:02:56"
+  },
+  {
+    "business_name": "Top Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Department store, Ice cream shop",
+    "pincode": "305817",
+    "phone_number": "+91 98724 33677",
+    "website": "https://www.justdial.com/Panchkula/Top-Departmental-Store-Sector-16/0172PX172-X172-100905184827-S6H5_BZDET",
+    "rating": 4.3,
+    "reviews_count": 284,
+    "address": "SCO 253, Sector 16 Opp. Canara Bank, Panchkula, Haryana 134113",
+    "area": "Sector 16",
+    "latitude": 30.6944432,
+    "longitude": 76.83916099999999,
+    "place_id": "ChIJeWGFDEWTDzkRMc8yRCzP2zY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeWGFDEWTDzkRMc8yRCzP2zY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:02:57"
+  }
+]

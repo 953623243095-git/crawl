@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kishan Store",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "306023",
+    "phone_number": "+91 97387 32531",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "MRF5+478, Siriyari, Rajasthan 306023",
+    "area": "306023",
+    "latitude": 25.672783,
+    "longitude": 73.80820829999999,
+    "place_id": "ChIJG9ffeOTJaTkRysUMIpnh_zw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG9ffeOTJaTkRysUMIpnh_zw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:29:10"
+  },
+  {
+    "business_name": "Pavta Chouk Ranawas",
+    "search_category": "Shops",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "306023",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 13,
+    "address": "Pavta, Chouk, Ranawas, Rajasthan 306023",
+    "area": "306023",
+    "latitude": 25.662546499999998,
+    "longitude": 73.7254398,
+    "place_id": "ChIJ8T12WZ7PaTkRbiMmTalKEbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8T12WZ7PaTkRbiMmTalKEbk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:29:13"
+  }
+]

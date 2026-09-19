@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. R.K Parjapat",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "305925",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X7RP+Q6C, Unnamed Road, Kabra, Shahpura, Rajasthan 305925",
+    "area": "305925",
+    "latitude": 25.991945599999998,
+    "longitude": 74.2855127,
+    "place_id": "ChIJ5-U4Gkh1aTkRNVeyPjyfqfQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5-U4Gkh1aTkRNVeyPjyfqfQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:16:45"
+  },
+  {
+    "business_name": "Hinglaj clinic atitmand",
+    "search_category": "Doctors",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "305925",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "28CC+J6Q, Ateetmand, Atitmand, Rajasthan 305925",
+    "area": "305925",
+    "latitude": 26.0215908,
+    "longitude": 74.3206208,
+    "place_id": "ChIJYcaiKgBzaTkRm25ggLT4nQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYcaiKgBzaTkRm25ggLT4nQg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:16:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Misty Events",
+    "search_category": "Media and Event",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "305927",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Azad Nagar, Kotra, Ajmer, Rajasthan 305001",
+    "area": "Azad Nagar, Kotra",
+    "latitude": 26.4732959,
+    "longitude": 74.59465639999999,
+    "place_id": "ChIJeSiAr2HnazkRe1-v5y-1j9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeSiAr2HnazkRe1-v5y-1j9M",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:21:08"
+  },
+  {
+    "business_name": "Brothers Sfx Events",
+    "search_category": "Media and Event",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "305927",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhagwaan Gurjar Ke Paas, Ambey Shri Colony, Adarsh Nagar, Ajmer, Rajasthan 305001",
+    "area": "Adarsh Nagar",
+    "latitude": 26.415943799999997,
+    "longitude": 74.64903249999999,
+    "place_id": "ChIJQy0vCyXhazkRnjR7RoJk4YQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQy0vCyXhazkRnjR7RoJk4YQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:21:08"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Sadbhavna Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Psychiatrist",
+    "all_categories": "Psychiatrist, Doctor, Medical clinic, Surgeon",
+    "pincode": "305922",
+    "phone_number": "+91 96104 55950",
+    "website": "http://www.shreesadbhavnahospital.com/",
+    "rating": 4.8,
+    "reviews_count": 227,
+    "address": "D-Building, in front of Krishna Computer, Nehru Nagar, Barmer, Rajasthan 344001",
+    "area": "Nehru Nagar",
+    "latitude": 25.749627,
+    "longitude": 71.3995913,
+    "place_id": "ChIJKZBoq7k7RDkRLCiTGNK_LvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKZBoq7k7RDkRLCiTGNK_LvY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:11:06"
+  },
+  {
+    "business_name": "Kamlesh Memorial Hospital Ajmer",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "305922",
+    "phone_number": "+91 98290 73484",
+    "website": "https://kamleshmemorialhospital.com/",
+    "rating": 3.6,
+    "reviews_count": 17,
+    "address": "CJXV+VJV, Kamlesh Memorial Hospital, Shrinagar Rd, near MRIDANG CINEMA, Ajmer, Rajasthan 305007",
+    "area": "Arya Nagar",
+    "latitude": 26.4498492,
+    "longitude": 74.6440667,
+    "place_id": "ChIJxxZez93mazkRFDikotqC3WI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxxZez93mazkRFDikotqC3WI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:11:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BE STRONG FITNESS",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "306023",
+    "phone_number": "+91 95888 93362",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "12, near Vivek Public School, Mahaveer Nagar, Bali, Rajasthan 306701",
+    "area": "Mahaveer Nagar",
+    "latitude": 25.1943579,
+    "longitude": 73.27789779999999,
+    "place_id": "ChIJ8QyRcoqbQjkR5ugCuaCnUbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8QyRcoqbQjkR5ugCuaCnUbk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:27:58"
+  },
+  {
+    "business_name": "The Baller's Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "306023",
+    "phone_number": "+91 77424 43225",
+    "website": "https://www.instagram.com/invites/contact/?i=3f81g7q7ib3t&utm_content=m9brh8p",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "SH 12, Shahpura, Rajasthan 311404",
+    "area": "306023",
+    "latitude": 25.6265271,
+    "longitude": 74.93055009999999,
+    "place_id": "ChIJdVHzvoLVaDkRjAGHgVSAHsg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdVHzvoLVaDkRjAGHgVSAHsg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:27:58"
+  }
+]

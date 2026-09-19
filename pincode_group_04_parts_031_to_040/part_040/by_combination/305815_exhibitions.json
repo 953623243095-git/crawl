@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Asian Granite Expo",
+    "search_category": "Exhibitions",
+    "primary_category": "Granite supplier",
+    "all_categories": "Granite supplier",
+    "pincode": "305815",
+    "phone_number": "+91 77260 55904",
+    "website": "http://www.asiangraniteexpo.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Rahimpura, Road, Kali Dungri, Rajasthan 305801",
+    "area": "305815",
+    "latitude": 26.6379539,
+    "longitude": 74.8450912,
+    "place_id": "ChIJZX6DoUnzazkRfzC25rOyLjw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZX6DoUnzazkRfzC25rOyLjw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:00:48"
+  },
+  {
+    "business_name": "Kiran Nadar Museum of Art",
+    "search_category": "Exhibitions",
+    "primary_category": "Art museum",
+    "all_categories": "Art museum",
+    "pincode": "305815",
+    "phone_number": "+91 11 4916 0000",
+    "website": "http://www.knma.org/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "No. 145, DLF South Court Mall, near Select Citywalk Mall, Saket District Centre, District Centre, Sector 6, Saket, New Delhi, Delhi 110017",
+    "area": "Saket District Centre, District Centre, Sector 6, Saket",
+    "latitude": 28.5285667,
+    "longitude": 77.2204946,
+    "place_id": "ChIJgzKsmJDhDDkRrdcE3CHflIQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgzKsmJDhDDkRrdcE3CHflIQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:00:48"
+  }
+]

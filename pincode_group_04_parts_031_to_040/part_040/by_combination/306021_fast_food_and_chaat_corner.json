@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal fast food and restaurants",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "306021",
+    "phone_number": "+91 95210 67348",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "20 ashok nagar jalor road, Dis, Rohat, Rajasthan 306421",
+    "area": "306021",
+    "latitude": 25.951601099999998,
+    "longitude": 73.1397831,
+    "place_id": "ChIJiV3h2DEXQjkRJmhl5vK36Os",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiV3h2DEXQjkRJmhl5vK36Os",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:23:56"
+  },
+  {
+    "business_name": "Mamaji fast food sadri",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "306021",
+    "phone_number": "+91 96604 73676",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Ranakpur Rd, Rajput Colony, Sadri, Rajasthan 306705",
+    "area": "Rajput Colony",
+    "latitude": 25.182755,
+    "longitude": 73.45272,
+    "place_id": "ChIJFdI35LafQjkRfQI430Ke5ZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFdI35LafQjkRfQI430Ke5ZM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:23:56"
+  }
+]

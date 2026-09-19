@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yatika Poultry Farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store, Poultry farm",
+    "pincode": "305814",
+    "phone_number": "+91 91667 71397",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MRPF+PQ6 Farm house, Tityari, Kishangarh, Rajasthan 305801",
+    "area": "305814",
+    "latitude": 26.6867776,
+    "longitude": 74.8243968,
+    "place_id": "ChIJCQgAAP3yazkRAAAAcJtXxx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCQgAAP3yazkRAAAAcJtXxx8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 05:56:40"
+  },
+  {
+    "business_name": "Jai Bhawani Jhatka Meet Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "305814",
+    "phone_number": "+91 81079 80644",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 46,
+    "address": "73X3+7H8, Gandhipura St, Opp. BJS School, Near Railway Crossing, BJS Colony, Jodhpur, Rajasthan 342006",
+    "area": "Opp. BJS School, Near Railway Crossing, BJS Colony",
+    "latitude": 26.298163,
+    "longitude": 73.053967,
+    "place_id": "ChIJbxbcahuNQTkRW1cEWI26b1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbxbcahuNQTkRW1cEWI26b1s",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 05:56:42"
+  }
+]

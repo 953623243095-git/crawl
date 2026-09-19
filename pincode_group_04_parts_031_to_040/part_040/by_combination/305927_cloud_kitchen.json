@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mittal's Home Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food producer",
+    "all_categories": "Food producer",
+    "pincode": "305927",
+    "phone_number": "+91 85299 79119",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 31,
+    "address": "S51, opp. lane of JMD general Store, Pragati Nagar, Kotra, Ajmer, Rajasthan 305004",
+    "area": "Pragati Nagar, Kotra",
+    "latitude": 26.4738367,
+    "longitude": 74.5952073,
+    "place_id": "ChIJ12kxxL_nazkRQVvgSm9fUns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ12kxxL_nazkRQVvgSm9fUns",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:20:10"
+  },
+  {
+    "business_name": "Aditi Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "305927",
+    "phone_number": "+91 85807 69524",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chaugan - Sansal Rd, Bir, Chaugan, Himachal Pradesh 176077",
+    "area": "305927",
+    "latitude": 32.0369489,
+    "longitude": 76.7192699,
+    "place_id": "ChIJF_lYBO65BDkRgPfiikcpeYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF_lYBO65BDkRgPfiikcpeYs",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:20:12"
+  }
+]

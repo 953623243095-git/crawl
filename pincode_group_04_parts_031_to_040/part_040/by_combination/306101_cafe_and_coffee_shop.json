@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Benny’s Bistro (Vegetarian Café)",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe, Dog cafe, Fast food restaurant, Hotel, Restaurant, Vegetarian restaurant",
+    "pincode": "306101",
+    "phone_number": "+91 77094 97920",
+    "website": "http://www.bennysbistro.in/",
+    "rating": 4.8,
+    "reviews_count": 215,
+    "address": "S T Stand Road, Rodas Nagar, Kumbhar ali, Kumbharali, Pali, Maharashtra 410205",
+    "area": "Rodas Nagar, Kumbhar ali, Kumbharali",
+    "latitude": 18.5406296,
+    "longitude": 73.2194494,
+    "place_id": "ChIJv7Jt31AR6DsRmtSDJd9T8cc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv7Jt31AR6DsRmtSDJd9T8cc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:29:27"
+  },
+  {
+    "business_name": "Jagdish Coffe House",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "306101",
+    "phone_number": "+91 90014 37177",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "55GQ JCW Kk, Pali, Nanana, Rajasthan 306102",
+    "area": "306101",
+    "latitude": 26.1766044,
+    "longitude": 74.1885825,
+    "place_id": "ChIJvw1G4T2DaTkRF7kIT5EOd_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvw1G4T2DaTkRF7kIT5EOd_o",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:29:28"
+  }
+]

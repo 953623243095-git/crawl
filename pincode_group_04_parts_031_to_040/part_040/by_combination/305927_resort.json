@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agarwal's resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "305927",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "36WM+MX2, NH25, Saradhana, Lalpura, Rajasthan 306102",
+    "area": "305927",
+    "latitude": 26.0966436,
+    "longitude": 74.23488379999999,
+    "place_id": "ChIJiUyHN953aTkRL_jmB90B3uk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiUyHN953aTkRL_jmB90B3uk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:21:07"
+  },
+  {
+    "business_name": "The Welcome Garden Valley resort",
+    "search_category": "Resort",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "305927",
+    "phone_number": "+91 88906 84780",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 64,
+    "address": "Beawar Khas, Bariya Shyama, Rajasthan 305901",
+    "area": "305927",
+    "latitude": 26.0971293,
+    "longitude": 74.2636386,
+    "place_id": "ChIJ90hQap13aTkRxwfFDOBJnds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ90hQap13aTkRxwfFDOBJnds",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:21:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Extron Battery",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Battery Manufacturer",
+    "all_categories": "Battery Manufacturer",
+    "pincode": "305901",
+    "phone_number": "N/A",
+    "website": "http://www.extronbattery.in/",
+    "rating": 4.2,
+    "reviews_count": 11,
+    "address": "Akash Power House, Riico Industrial area, Piplaj, Beawar, Rajasthan 305901",
+    "area": "Riico Industrial area, Piplaj",
+    "latitude": 26.095159199999998,
+    "longitude": 74.3352858,
+    "place_id": "ChIJwZD13NpxaTkR9A5E9bviu5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwZD13NpxaTkR9A5E9bviu5A",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:07:32"
+  },
+  {
+    "business_name": "Tiger Battery Beawar",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Battery Store",
+    "all_categories": "Battery Store",
+    "pincode": "305901",
+    "phone_number": "+91 78778 44444",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 20,
+    "address": "4837+25J Ravi tea company, Shahpura Mohalla, Beawar, Rajasthan 305901",
+    "area": "Shahpura Mohalla",
+    "latitude": 26.102591,
+    "longitude": 74.3129031,
+    "place_id": "ChIJKz6mQ2BxaTkRV5mIp5X26Ms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKz6mQ2BxaTkRV5mIp5X26Ms",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:07:32"
+  }
+]

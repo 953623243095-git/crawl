@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ridhi Hair Zone",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "305925",
+    "phone_number": "+91 86906 95671",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NH 14 Bypass Rd, Beawar, Atitmand, Rajasthan 305901",
+    "area": "305925",
+    "latitude": 26.030515899999997,
+    "longitude": 74.32569939999999,
+    "place_id": "ChIJ-djTfG5xaTkRM5gU1ZE1hEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-djTfG5xaTkRM5gU1ZE1hEE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:17:12"
+  },
+  {
+    "business_name": "New Perfect Salon & Spa & Hotel",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "305925",
+    "phone_number": "+91 85628 46838",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Dev preet hotal, udaipur road, chunginaka, Kesarpura, Rajasthan 305901",
+    "area": "305925",
+    "latitude": 26.063464699999997,
+    "longitude": 74.29913239999999,
+    "place_id": "ChIJdZVwDJZ3aTkR58VckBtiLKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdZVwDJZ3aTkR58VckBtiLKE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:17:13"
+  }
+]

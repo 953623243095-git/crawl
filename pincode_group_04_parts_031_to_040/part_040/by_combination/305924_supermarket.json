@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arihant Trading Company",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "305924",
+    "phone_number": "+91 94143 13264",
+    "website": "http://arihantcapital.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MXRC+5MR, Bhim Road, Tadgarh, Rajasthan 305924",
+    "area": "305924",
+    "latitude": 25.690497,
+    "longitude": 73.9716419,
+    "place_id": "ChIJP7Fii42waTkRBNlDMF7M7lc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP7Fii42waTkRBNlDMF7M7lc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:14:21"
+  },
+  {
+    "business_name": "Tadgarh, Rajasthan 305924",
+    "search_category": "Supermarket",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "305924",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tadgarh, Rajasthan",
+    "area": "305924",
+    "latitude": 25.7181022,
+    "longitude": 73.94773839999999,
+    "place_id": "ChIJ02wCqHK6aTkRKOtijFkDumo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ02wCqHK6aTkRKOtijFkDumo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:14:23"
+  }
+]

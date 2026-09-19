@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RS Tiffin Service",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin center",
+    "all_categories": "Tiffin center",
+    "pincode": "306101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ward no 13, near kali mata mandir, Bajoral Khurd, Solan, Himachal Pradesh 173212",
+    "area": "Bajoral Khurd",
+    "latitude": 30.907127799999998,
+    "longitude": 77.0961741,
+    "place_id": "ChIJZ8inYrSBDzkRb41MggxO33o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ8inYrSBDzkRb41MggxO33o",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:29:23"
+  },
+  {
+    "business_name": "Anil Mess & Tiffin Centre",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "306101",
+    "phone_number": "+91 96604 92329",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 344,
+    "address": "Police Choki, House No 37 New Vinoba Bhave Nagar, Rangbari, Rajasthan 324005",
+    "area": "Rangbari",
+    "latitude": 25.1178101,
+    "longitude": 75.8369924,
+    "place_id": "ChIJE5NnNf2FbzkR-_e1Hu_gihs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE5NnNf2FbzkR-_e1Hu_gihs",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:29:25"
+  }
+]

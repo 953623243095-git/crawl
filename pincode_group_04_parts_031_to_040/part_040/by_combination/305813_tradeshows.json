@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mega Trade Fair",
+    "search_category": "Tradeshows",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "305813",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "8JRQ+93P, Bhopal Ganj, Bhilwara, Rajasthan 311001",
+    "area": "Bhopal Ganj",
+    "latitude": 25.340961,
+    "longitude": 74.637705,
+    "place_id": "ChIJqb18_TTCaDkRAAYIeEYY2GY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqb18_TTCaDkRAAYIeEYY2GY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 05:56:22"
+  },
+  {
+    "business_name": "Mahaveer Traders",
+    "search_category": "Tradeshows",
+    "primary_category": "Building materials market",
+    "all_categories": "Building materials market, Store",
+    "pincode": "305813",
+    "phone_number": "+91 1800 209 5504",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shrinagar Rd, Naka Madar Colony, Gandhi Nagar, Ajmer, Rajasthan 305007",
+    "area": "Naka Madar Colony, Gandhi Nagar",
+    "latitude": 26.4487915,
+    "longitude": 74.6632901,
+    "place_id": "ChIJv68bocDmazkRnuSzczEiaok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv68bocDmazkRnuSzczEiaok",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 05:56:24"
+  }
+]

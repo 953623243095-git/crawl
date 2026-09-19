@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gift house",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop, Toy store",
+    "pincode": "305923",
+    "phone_number": "+91 94141 13815",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1st floor, Mahadev market, Sathana Bazar Rd, Sathana Bazaar, Bijainagar, Rajasthan 305624",
+    "area": "Sathana Bazaar",
+    "latitude": 25.9304113,
+    "longitude": 74.64977379999999,
+    "place_id": "ChIJnVARGc4_aTkRNJHAnDWJ-vk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnVARGc4_aTkRNJHAnDWJ-vk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:13:40"
+  },
+  {
+    "business_name": "Geeta Art & Lifestyle",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "305923",
+    "phone_number": "N/A",
+    "website": "http://www.geetaartlifestyle.shop/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Molkiya, Aamli, Molkiya, Amali, Rajasthan 305408",
+    "area": "Aamli",
+    "latitude": 25.931442999999998,
+    "longitude": 75.241096,
+    "place_id": "ChIJJfSBuNzFbjkRxgdJFxIc6wc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJfSBuNzFbjkRxgdJFxIc6wc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:13:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MG chamicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "305927",
+    "phone_number": "+91 83878 12697",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "Vidya Nagar, Beawar, Ganeshpura, Rajasthan 305901",
+    "area": "Vidya Nagar",
+    "latitude": 26.0872593,
+    "longitude": 74.301226,
+    "place_id": "ChIJ-SpaDbp3aTkR0YE4_BJ3t-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-SpaDbp3aTkR0YE4_BJ3t-c",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:21:33"
+  },
+  {
+    "business_name": "Bhavesh special chem",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler",
+    "pincode": "305927",
+    "phone_number": "N/A",
+    "website": "https://bhaveshspecialchem.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khoda Ganesh Rd, ji, Kishangarh, Rajasthan 305801",
+    "area": "ji",
+    "latitude": 26.558602,
+    "longitude": 74.8294248,
+    "place_id": "ChIJh9B4BWLxazkRatbjOgrg5a8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh9B4BWLxazkRatbjOgrg5a8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:21:35"
+  }
+]

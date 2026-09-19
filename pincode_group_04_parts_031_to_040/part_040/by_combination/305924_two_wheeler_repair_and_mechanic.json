@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Auto's",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop, Battery Store, Motorcycle parts store, Scooter repair shop, Tire shop",
+    "pincode": "305924",
+    "phone_number": "+91 93165 16878",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 40,
+    "address": "Sco 15, Ms Enclave, Dhakoli, Punjab 160104",
+    "area": "Ms Enclave, Dhakoli",
+    "latitude": 30.6583723,
+    "longitude": 76.8449266,
+    "place_id": "ChIJY4zsnLuVDzkRVndIclYn-i4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY4zsnLuVDzkRVndIclYn-i4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:15:00"
+  },
+  {
+    "business_name": "Ajay bike Spears and repair",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Motorcycle parts store",
+    "all_categories": "Motorcycle parts store",
+    "pincode": "305924",
+    "phone_number": "+91 76967 04940",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "SHOP NO 2, Teja Singh market, nada rode, D Block, Dashmesh Nagar, Nayagaon, Punjab 160103",
+    "area": "D Block, Dashmesh Nagar",
+    "latitude": 30.7779346,
+    "longitude": 76.7943667,
+    "place_id": "ChIJAbJJdQ_zDzkRBJd6DT-yU38",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAbJJdQ_zDzkRBJd6DT-yU38",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:15:00"
+  }
+]

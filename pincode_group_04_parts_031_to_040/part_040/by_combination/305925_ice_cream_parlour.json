@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Sanvariya Seth fast food",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "305925",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W8MF+3PG, Bariya Heera, Rajasthan 311302",
+    "area": "305925",
+    "latitude": 25.9326641,
+    "longitude": 74.3243269,
+    "place_id": "ChIJzXneIgANaTkRObqjpxQnFHI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzXneIgANaTkRObqjpxQnFHI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:16:30"
+  },
+  {
+    "business_name": "अजित खान",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "305925",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "28VR+JJ, Ramgarh Jhoontha, Rajasthan 305901",
+    "area": "305925",
+    "latitude": 26.043993,
+    "longitude": 74.341503,
+    "place_id": "ChIJ7yh_TgBxaTkRGNgBbtDapbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7yh_TgBxaTkRGNgBbtDapbo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:16:30"
+  }
+]

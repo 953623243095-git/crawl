@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaupal - Dhaba and Restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Cafe, Dhaba",
+    "pincode": "306023",
+    "phone_number": "+91 97998 85522",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 2250,
+    "address": "NH 48, Kishangarh Bhilwara Highway, Sareri, Sanodiya, Rajasthan 311022",
+    "area": "306023",
+    "latitude": 25.710138099999998,
+    "longitude": 74.61736429999999,
+    "place_id": "ChIJ_bgUX34jaTkRpnRA-rOITcw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_bgUX34jaTkRpnRA-rOITcw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:27:32"
+  },
+  {
+    "business_name": "Hotel Highway Resort",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "306023",
+    "phone_number": "+91 81144 73581",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "NH-69, Rajiaser, Rajiyasar, Pinpasar, Rajasthan 335804",
+    "area": "Rajiaser",
+    "latitude": 29.067069399999998,
+    "longitude": 73.84059479999999,
+    "place_id": "ChIJ13xkNFbnFTkRhdm8EN0eq7g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ13xkNFbnFTkRhdm8EN0eq7g",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:27:34"
+  }
+]

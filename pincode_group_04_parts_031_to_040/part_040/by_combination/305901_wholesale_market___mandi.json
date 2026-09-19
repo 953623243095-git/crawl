@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganesh Agro Traders",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "305901",
+    "phone_number": "+91 94133 04487",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sbi Bank Ke Pass, Ajmeri Gate, Paras Colony, Beawar, Rajasthan 305001",
+    "area": "Paras Colony",
+    "latitude": 26.104488099999998,
+    "longitude": 74.32110159999999,
+    "place_id": "ChIJZ6ONMaBxaTkRgjlfXKmoxSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ6ONMaBxaTkRgjlfXKmoxSs",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:08:45"
+  },
+  {
+    "business_name": "Beawar Mandi",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Farm",
+    "all_categories": "Farm",
+    "pincode": "305901",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "38R9+P7M, Ram Krishna Colony, Kundan Nagar, Beawar, Rajasthan 305901",
+    "area": "Ram Krishna Colony, Kundan Nagar",
+    "latitude": 26.091815,
+    "longitude": 74.31837329999999,
+    "place_id": "ChIJxWmURddxaTkRP2dcdrtz0Og",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxWmURddxaTkRP2dcdrtz0Og",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:08:46"
+  }
+]

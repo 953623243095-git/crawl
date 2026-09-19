@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "C-square North Campus",
+    "search_category": "Commerce and CA Coaching",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "305927",
+    "phone_number": "+91 145 262 5292",
+    "website": "http://www.csquareajmer.in/",
+    "rating": 4.5,
+    "reviews_count": 115,
+    "address": "near Ajmer hospital, Civil Lines, Ajmer, Rajasthan 305001",
+    "area": "Civil Lines",
+    "latitude": 26.4794597,
+    "longitude": 74.6428538,
+    "place_id": "ChIJi5PYhlTmazkRc639mIdq1IY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi5PYhlTmazkRc639mIdq1IY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:21:11"
+  },
+  {
+    "business_name": "Royal coaching classes",
+    "search_category": "Commerce and CA Coaching",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "305927",
+    "phone_number": "+91 88245 21994",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Tandon gali, near sanskar school, Hathi Bhata, Ajmer, Rajasthan 305001",
+    "area": "Hathi Bhata",
+    "latitude": 26.4625983,
+    "longitude": 74.6367059,
+    "place_id": "ChIJWSKBzynnazkR68wVmbjAIZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWSKBzynnazkR68wVmbjAIZM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:21:13"
+  }
+]

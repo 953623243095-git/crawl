@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Chetak Palace",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Bed & breakfast, Cafe, Restaurant",
+    "pincode": "305924",
+    "phone_number": "+91 94686 70005",
+    "website": "https://chetakpalacedeogarh.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Ward no 3, Deogarh, Devgarh, Rajasthan 313331",
+    "area": "305924",
+    "latitude": 25.5345427,
+    "longitude": 73.89368759999999,
+    "place_id": "ChIJz3z4l8a1aTkRg1J7NxBQZC4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz3z4l8a1aTkRg1J7NxBQZC4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:15:29"
+  },
+  {
+    "business_name": "Hotel kundan palace",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "305924",
+    "phone_number": "+91 63770 42510",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "GWC3+4WV, RJ SH 56, Deogarh, Devgarh, Rajasthan 313331",
+    "area": "305924",
+    "latitude": 25.519312,
+    "longitude": 73.90468729999999,
+    "place_id": "ChIJ8fvPOQC1aTkRRgd3f3Fi-Ng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8fvPOQC1aTkRRgd3f3Fi-Ng",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:15:29"
+  }
+]

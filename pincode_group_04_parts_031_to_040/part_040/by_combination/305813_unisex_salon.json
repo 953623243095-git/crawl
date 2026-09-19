@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Beera's unisex salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Barber shop, Hairdresser",
+    "pincode": "305813",
+    "phone_number": "+91 75003 23813",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 19,
+    "address": "C B Block, B137, B Block, Chorasiawas, Ajmer, Rajasthan 305004",
+    "area": "B Block, Chorasiawas",
+    "latitude": 26.509360899999997,
+    "longitude": 74.6311143,
+    "place_id": "ChIJmdRyYADnazkRo0VC4GNn7JQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmdRyYADnazkRo0VC4GNn7JQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 05:55:30"
+  },
+  {
+    "business_name": "PERFECT SHINE UNISEX SALON",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hairdresser",
+    "pincode": "305813",
+    "phone_number": "+91 70149 93920",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 306,
+    "address": "S-16, B K Kaul Rd, Hbu Nagar, Gyan Vihar Colony, Ajmer, Rajasthan 305001",
+    "area": "Hbu Nagar, Gyan Vihar Colony",
+    "latitude": 26.471633399999998,
+    "longitude": 74.6072154,
+    "place_id": "ChIJ55RnJ0DnazkRyquu6DRNud4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ55RnJ0DnazkRyquu6DRNud4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 05:55:30"
+  }
+]

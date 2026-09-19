@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BAWREE BOUTIQUE",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "305815",
+    "phone_number": "+91 96803 16506",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Subrata Rd, Sector - 2, Vaishali Nagar, Ajmer, Rajasthan 305004",
+    "area": "Sector - 2, Vaishali Nagar",
+    "latitude": 26.4888248,
+    "longitude": 74.6263251,
+    "place_id": "ChIJieiSJADnazkRePILFch5VwE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJieiSJADnazkRePILFch5VwE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 05:59:19"
+  },
+  {
+    "business_name": "𝗕𝗼𝘂𝘁𝗶𝗾𝘂𝗲 𝗗𝗲𝗹 𝗠𝗮𝗿𝗺𝗼 -Statuario White Marble |Imported Marble |Italian Marble in Kishangarh",
+    "search_category": "Boutiques",
+    "primary_category": "Stone supplier",
+    "all_categories": "Stone supplier, Marble supplier",
+    "pincode": "305815",
+    "phone_number": "+91 97838 55555",
+    "website": "http://www.boutiquedelmarmo.com/",
+    "rating": 5,
+    "reviews_count": 22,
+    "address": "Makrana Road, RICCO Industrial Area, Kali Dungri, Kishangarh, Rajasthan 305801",
+    "area": "RICCO Industrial Area",
+    "latitude": 26.6394819,
+    "longitude": 74.85253949999999,
+    "place_id": "ChIJgULRVwDzazkRclRn0CZ5sA8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgULRVwDzazkRclRn0CZ5sA8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 05:59:21"
+  }
+]

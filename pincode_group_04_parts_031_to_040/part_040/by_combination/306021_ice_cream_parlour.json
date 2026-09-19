@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAWARIYA ice cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "306021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "HMPC+CFP, Gura Mokan Singh, Isali, Rajasthan 306021",
+    "area": "306021",
+    "latitude": 25.58651,
+    "longitude": 73.6717683,
+    "place_id": "ChIJK7dlCwDPaTkRZztQ_vnLwMY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK7dlCwDPaTkRZztQ_vnLwMY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:23:57"
+  },
+  {
+    "business_name": "Mahalaxmi Ice Cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "306021",
+    "phone_number": "+91 90793 39290",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dil Circle, Koliwara Road, Friends Colony, Chaudhary Colony, Sumerpur, Rajasthan 306902",
+    "area": "Friends Colony, Chaudhary Colony",
+    "latitude": 25.1539568,
+    "longitude": 73.09146369999999,
+    "place_id": "ChIJNSK3F06TQjkRJYSkic4f6o0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNSK3F06TQjkRJYSkic4f6o0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:23:59"
+  }
+]

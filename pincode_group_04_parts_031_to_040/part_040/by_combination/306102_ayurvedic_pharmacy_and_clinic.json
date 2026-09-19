@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tejasvi Ayurveda",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic, Alternative Medicine Clinic, Alternative medicine practitioner",
+    "pincode": "306102",
+    "phone_number": "+91 95017 66530",
+    "website": "https://tejasviayurveda.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "first floor, Sco 324, 40D, Sector 40D, Chandigarh, 160036",
+    "area": "40D, Sector 40D",
+    "latitude": 30.739128599999997,
+    "longitude": 76.73179809999999,
+    "place_id": "ChIJheqrBbLtDzkRhEJZ0fftlIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJheqrBbLtDzkRhEJZ0fftlIY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:31:29"
+  },
+  {
+    "business_name": "Madan Mohan Malviya Government Ayurvedic College And Hospital",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "306102",
+    "phone_number": "+91 294 243 1900",
+    "website": "https://department.rajasthan.gov.in/home/dptHome/226",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Ambamata Scheme - A Rd, Radaji circle, Udaipur, Rajasthan 313004",
+    "area": "Radaji circle",
+    "latitude": 24.5882616,
+    "longitude": 73.67909809999999,
+    "place_id": "ChIJTdL6qG_lZzkRtKODgUvIWO8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTdL6qG_lZzkRtKODgUvIWO8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:31:31"
+  }
+]

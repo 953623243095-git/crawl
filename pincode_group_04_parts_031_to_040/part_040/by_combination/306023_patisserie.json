@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K.G.N. Bakery, The Cake Shop",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "306023",
+    "phone_number": "+91 98295 54790",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Subhash Marg, Sojat Road, Rajasthan 306103",
+    "area": "306023",
+    "latitude": 25.863650999999997,
+    "longitude": 73.7490842,
+    "place_id": "ChIJQY4CQf_BaTkRYmQE7HQOeIQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQY4CQf_BaTkRYmQE7HQOeIQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:27:28"
+  },
+  {
+    "business_name": "Balaji Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "306023",
+    "phone_number": "+91 96802 53431",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Market Chandawal Nagar, Teh, Sojat, Rajasthan 306306",
+    "area": "306023",
+    "latitude": 26.002866899999997,
+    "longitude": 73.84246949999999,
+    "place_id": "ChIJI43HjlmTaTkRLaIDOMIBz-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI43HjlmTaTkRLaIDOMIBz-Q",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:27:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "J K Tailor",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "305927",
+    "phone_number": "+91 97851 20047",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MDR 84, Udaipur Rd, Jawaja, Beawar, Nundri Maldev, Rajasthan 305901",
+    "area": "Jawaja",
+    "latitude": 26.068218899999998,
+    "longitude": 74.303365,
+    "place_id": "ChIJqep0LNZ2aTkRGV7cqyed5no",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqep0LNZ2aTkRGV7cqyed5no",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:20:14"
+  },
+  {
+    "business_name": "Ganpat Singh",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "305927",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Theekrana Medratan, Moti Nagar, Beawar, Thikarana Mendratan, Rajasthan 305901",
+    "area": "Theekrana Medratan, Moti Nagar",
+    "latitude": 26.0974135,
+    "longitude": 74.28530649999999,
+    "place_id": "ChIJqX1kKLt3aTkRU_y1guXmM-E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqX1kKLt3aTkRU_y1guXmM-E",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:20:15"
+  }
+]

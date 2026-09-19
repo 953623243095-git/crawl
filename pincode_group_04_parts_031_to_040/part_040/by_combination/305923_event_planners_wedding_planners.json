@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Monty photography and event",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Photography service",
+    "pincode": "305923",
+    "phone_number": "+91 82905 78978",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 94,
+    "address": "108, 21, near manoj medical gali, shanti nagar, Asha Ganj, Ajmer, Rajasthan 305001",
+    "area": "shanti nagar, Asha Ganj",
+    "latitude": 26.4487193,
+    "longitude": 74.63254169999999,
+    "place_id": "ChIJDwgrgOHnazkRv4SHvIUMFbQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDwgrgOHnazkRv4SHvIUMFbQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:13:33"
+  },
+  {
+    "business_name": "Golden Moments - Event Planning Services",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event planner",
+    "pincode": "305923",
+    "phone_number": "+91 62809 34517",
+    "website": "http://mygoldenmoments.co.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop Number 45, Krishna Towers, opposite Sabzi Mandi, Una, Himachal Pradesh 174303",
+    "area": "305923",
+    "latitude": 31.468315599999997,
+    "longitude": 76.2599127,
+    "place_id": "ChIJ23Dr9ebRGjkRuCnspoHiBh4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ23Dr9ebRGjkRuCnspoHiBh4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:13:34"
+  }
+]

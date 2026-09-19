@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aanchal Best Hostel in Ajmer",
+    "search_category": "Hostels",
+    "primary_category": "Girls' hostel",
+    "all_categories": "Girls' hostel, Working women's hostel",
+    "pincode": "305922",
+    "phone_number": "+91 94140 02309",
+    "website": "http://www.aanchalhostel.com/",
+    "rating": 4.4,
+    "reviews_count": 88,
+    "address": "786/2, Jaipur Rd, near Sofia College, Meershali, Police Lines, Ajmer, Rajasthan 305001",
+    "area": "Police Lines",
+    "latitude": 26.4798075,
+    "longitude": 74.6598211,
+    "place_id": "ChIJqYsOlVjmazkRuicFncsZKEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqYsOlVjmazkRuicFncsZKEw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:11:45"
+  },
+  {
+    "business_name": "New STC hostel",
+    "search_category": "Hostels",
+    "primary_category": "Student housing center",
+    "all_categories": "Student housing center",
+    "pincode": "305922",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "FJ5W+CWC, Frazor Road Railway Colony, Vinay Nagar, Pal Bhichala, Ajmer, Rajasthan 305007",
+    "area": "Frazor Road Railway Colony, Vinay Nagar, Pal Bhichala",
+    "latitude": 26.458574199999997,
+    "longitude": 74.6472599,
+    "place_id": "ChIJdUFOqNLnazkRVDzhgo_LmW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdUFOqNLnazkRVDzhgo_LmW0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:11:46"
+  }
+]

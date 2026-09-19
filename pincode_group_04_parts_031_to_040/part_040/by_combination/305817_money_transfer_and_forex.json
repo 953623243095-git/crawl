@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GlobalPay by WSFx (Head Office)",
+    "search_category": "Money Transfer and Forex",
+    "primary_category": "Money transfer service",
+    "all_categories": "Money transfer service, Money order service, Currency exchange service",
+    "pincode": "305817",
+    "phone_number": "+91 89767 07222",
+    "website": "https://www.wsfxglobalpay.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Unit No. 603. 6th Floor, Wing C, Corporate Avenue, New, AK Link Road, opp. Solitaire Corporate Park, Chakala, Andheri East, Mumbai, Maharashtra 400093",
+    "area": "Chakala, Andheri East",
+    "latitude": 19.110782699999998,
+    "longitude": 72.8596558,
+    "place_id": "ChIJ3xceONbJ5zsRKhvB_uo9plM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3xceONbJ5zsRKhvB_uo9plM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:04:28"
+  },
+  {
+    "business_name": "Nirvana Forex-Money Exchange Services",
+    "search_category": "Money Transfer and Forex",
+    "primary_category": "Currency exchange service",
+    "all_categories": "Currency exchange service, Mobile money agent, Money transfer service",
+    "pincode": "305817",
+    "phone_number": "+91 99116 93253",
+    "website": "http://nirvanaforex.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1st floor, Nirvana Courtyard, A-115, Nirvana Country, Sector 50, Gurugram, Haryana 122018",
+    "area": "Nirvana Country, Sector 50",
+    "latitude": 28.413957699999997,
+    "longitude": 77.0656206,
+    "place_id": "ChIJC5jhEiAjDTkRm0WEfrpYXVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC5jhEiAjDTkRm0WEfrpYXVU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:04:30"
+  }
+]

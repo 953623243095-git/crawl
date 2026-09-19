@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhavya gest house &resto rent",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "305922",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kesar bag, Post Office Wali Gali, Badhor, Rajasthan 311302",
+    "area": "305922",
+    "latitude": 25.837473499999998,
+    "longitude": 74.2841025,
+    "place_id": "ChIJ-V7f1jQLaTkRUCPMf0IQwgA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-V7f1jQLaTkRUCPMf0IQwgA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:11:44"
+  },
+  {
+    "business_name": "Shubh Laxmi Residence",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "305922",
+    "phone_number": "+91 97859 51115",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "near Laxmi Garden, Dhola Bhata Colony, Ajmer, Rajasthan 305007",
+    "area": "Dhola Bhata Colony",
+    "latitude": 26.4386101,
+    "longitude": 74.65969419999999,
+    "place_id": "ChIJ7-gdG8nmazkRA4NuiokUkgo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7-gdG8nmazkRA4NuiokUkgo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:11:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Bakers",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "305925",
+    "phone_number": "+91 96361 11096",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 145,
+    "address": "B17,Glitz circle, Ramnagar Road, Ajmer, Rajasthan 305001",
+    "area": "Haribhau Upadhyay Nagar",
+    "latitude": 26.471104999999998,
+    "longitude": 74.608249,
+    "place_id": "ChIJo__tQ43nazkRmmmXvIRd7rQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo__tQ43nazkRmmmXvIRd7rQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:16:25"
+  },
+  {
+    "business_name": "Rawat Cake",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "305925",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "276R+982, Rajiyawas, Rajasthan 305901",
+    "area": "305925",
+    "latitude": 26.0108616,
+    "longitude": 74.2907725,
+    "place_id": "ChIJ-ZmbNwB1aTkRDYXyCn1SAVI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-ZmbNwB1aTkRDYXyCn1SAVI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:16:25"
+  }
+]

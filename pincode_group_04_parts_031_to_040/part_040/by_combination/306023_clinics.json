@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DEVNARAYAN CLINIC & MEDICAL",
+    "search_category": "Clinics",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "306023",
+    "phone_number": "+91 90018 86420",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PALI ROAD, MAIN MARKET, opposite HANUMAN TEMPLE GATE, Kamalighat, Rajasthan 313331",
+    "area": "306023",
+    "latitude": 25.547999299999997,
+    "longitude": 73.8744,
+    "place_id": "ChIJaTB5SKK1aTkRXrSnNPypiWM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaTB5SKK1aTkRXrSnNPypiWM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:27:48"
+  },
+  {
+    "business_name": "Bhawani Laboratory",
+    "search_category": "Clinics",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "306023",
+    "phone_number": "+91 74128 41004",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opposite Government Hospital, Bagri, Rajasthan 306114",
+    "area": "306023",
+    "latitude": 25.8980629,
+    "longitude": 73.8019094,
+    "place_id": "ChIJw1fpTm_raTkRU6_A5h2RLXg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw1fpTm_raTkRU6_A5h2RLXg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:27:48"
+  }
+]

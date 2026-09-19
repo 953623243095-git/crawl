@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BAG SHOPPE",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop",
+    "pincode": "305926",
+    "phone_number": "+91 93526 23729",
+    "website": "https://www.amazon.in/Skybags-Acrylonitrile-Butadiene-Resettable-Combination/dp/B0D9P1LQ13/ref=sr_1_23?sr=8-23",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shiv Jyoti School, B-423, Road, Indra Vihar, Talwandi, Kota, Kota Municipal Area, Rajasthan 324005",
+    "area": "Indra Vihar, Talwandi",
+    "latitude": 25.1439935,
+    "longitude": 75.8452375,
+    "place_id": "ChIJNVQLI-qFbzkR-tB_x5Yl-1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNVQLI-qFbzkR-tB_x5Yl-1E",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:18:27"
+  },
+  {
+    "business_name": "NIKHIL BAGS ZONE",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Luggage store",
+    "all_categories": "Luggage store",
+    "pincode": "305926",
+    "phone_number": "+91 76118 71159",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Paras blood bank ke samne, Mahaveer complex, Main, 1st C Rd, near Thar lifestyle, Sardarpura, Jodhpur, Rajasthan 342003",
+    "area": "Sardarpura",
+    "latitude": 26.2782035,
+    "longitude": 73.01509,
+    "place_id": "ChIJ2SvxerKNQTkRw-VpmQFYbTo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2SvxerKNQTkRw-VpmQFYbTo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:18:27"
+  }
+]

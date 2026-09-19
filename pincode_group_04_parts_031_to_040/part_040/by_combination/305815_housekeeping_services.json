@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajmer Home Cleaners",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "305815",
+    "phone_number": "N/A",
+    "website": "https://jsdl.in/RSL-EEV1785396551",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ajmer tower, kacheri road, near railway station, Hathi Bhata, Ajmer, Rajasthan 305001",
+    "area": "Hathi Bhata",
+    "latitude": 26.4600285,
+    "longitude": 74.6366863,
+    "place_id": "ChIJbQ-UIQDnazkRo23X5tRcfuk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbQ-UIQDnazkRo23X5tRcfuk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:00:32"
+  },
+  {
+    "business_name": "Alexandra's Home Cleaning Service",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services, Service establishment",
+    "pincode": "305815",
+    "phone_number": "N/A",
+    "website": "https://www.alexandrashomecleaning.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Alexandra's Home Cleaning Service, 305815, India",
+    "area": "305815",
+    "latitude": 34.710578999999996,
+    "longitude": -92.3761215,
+    "place_id": "ChIJRYuIg18QE4gRBFkl2S6e7HY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRYuIg18QE4gRBFkl2S6e7HY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:00:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anmol Frozen Snacks Store",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, Bakery and Cake Shop",
+    "pincode": "306021",
+    "phone_number": "+91 94786 59004",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Shop No 1, Division Number 3, Naulakha Garden Colony, Ludhiana, Punjab 141008",
+    "area": "Naulakha Garden Colony",
+    "latitude": 30.915168299999998,
+    "longitude": 75.8626283,
+    "place_id": "ChIJP0VvLnODGjkRwILZI_3x3ws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP0VvLnODGjkRwILZI_3x3ws",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:23:52"
+  },
+  {
+    "business_name": "Tanvi Frozen foods.",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen dessert supplier",
+    "all_categories": "Frozen dessert supplier, Caterer",
+    "pincode": "306021",
+    "phone_number": "+91 99152 24006",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Backside jain medical Anaj mandi, gurudwara sahib, Mohan Nagar, Dera Bassi, Punjab 140507",
+    "area": "Mohan Nagar",
+    "latitude": 30.588605599999998,
+    "longitude": 76.84185409999999,
+    "place_id": "ChIJ3W44htC_DzkRUK7XO91awtc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3W44htC_DzkRUK7XO91awtc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:23:52"
+  }
+]

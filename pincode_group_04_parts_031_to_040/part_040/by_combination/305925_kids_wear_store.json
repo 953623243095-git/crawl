@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jitendra",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "305925",
+    "phone_number": "+91 74259 44489",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop 2, NH58, Ajmer, Narbad Khera, Rajasthan 305925",
+    "area": "305925",
+    "latitude": 26.0457249,
+    "longitude": 74.291581,
+    "place_id": "ChIJp_CuSAN3aTkR986Fly6ULiI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp_CuSAN3aTkR986Fly6ULiI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:16:34"
+  },
+  {
+    "business_name": "FirstCry",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "305925",
+    "phone_number": "+91 94138 41982",
+    "website": "https://www.firstcry.com/",
+    "rating": 4.9,
+    "reviews_count": 288,
+    "address": "292/A, Agrasen Cir, opposite Suchna Kendra Road, Muslim Mochi Mohalla, Ajmer, Rajasthan 305001",
+    "area": "Muslim Mochi Mohalla",
+    "latitude": 26.4663735,
+    "longitude": 74.6380532,
+    "place_id": "ChIJ69u3ULbnazkR3dqtnj-xAZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ69u3ULbnazkR3dqtnj-xAZs",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:16:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Leader tour and travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Travel lounge",
+    "pincode": "306023",
+    "phone_number": "+91 94138 77786",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "Season court k samne, SP Office Rd, Veer Durga Das Nagar, Pali, Rajasthan 306401",
+    "area": "Veer Durga Das Nagar",
+    "latitude": 25.769633499999998,
+    "longitude": 73.3279261,
+    "place_id": "ChIJWUVRw5FzQjkR69Y9rzpso0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWUVRw5FzQjkR69Y9rzpso0E",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:28:03"
+  },
+  {
+    "business_name": "Rajpurohit rakshita tour and travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "306023",
+    "phone_number": "+91 85548 86374",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 20,
+    "address": "Dhani Rd, Khudala, Falna, Rajasthan 306116",
+    "area": "Khudala",
+    "latitude": 25.233566999999997,
+    "longitude": 73.2485947,
+    "place_id": "ChIJYWms-2CRQjkRQYCrFgWvNuM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYWms-2CRQjkRQYCrFgWvNuM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:28:04"
+  }
+]
