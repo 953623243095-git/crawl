@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna beauty parlor",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "284304",
+    "phone_number": "+91 63930 99188",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Agga bazar bhai ji ke ghar ke saamne, Samthar, Uttar Pradesh 284304",
+    "area": "284304",
+    "latitude": 25.842158599999998,
+    "longitude": 78.9033627,
+    "place_id": "ChIJ843tda6xdzkR0tna1_7R008",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ843tda6xdzkR0tna1_7R008",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:25:02"
+  },
+  {
+    "business_name": "Rupali Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beautician",
+    "all_categories": "Beautician",
+    "pincode": "284304",
+    "phone_number": "+91 88582 08899",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "near Post Office, Nai Basti, Samthar, Uttar Pradesh 284304",
+    "area": "Nai Basti",
+    "latitude": 25.846793299999998,
+    "longitude": 78.90658979999999,
+    "place_id": "ChIJV1UhsoOxdzkRVNmVN5oG1v8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV1UhsoOxdzkRVNmVN5oG1v8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:25:05"
+  }
+]

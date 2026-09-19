@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashok taxi service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "285121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 186,
+    "address": "E-14, Mohan Nagar, Hindaun City, Rajasthan 322230",
+    "area": "Mohan Nagar",
+    "latitude": 26.742045299999997,
+    "longitude": 77.0314993,
+    "place_id": "ChIJaR1sBQAvcjkRpVyKPRbiCu8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaR1sBQAvcjkRpVyKPRbiCu8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:45:28"
+  },
+  {
+    "business_name": "Eagle Cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Travel agency",
+    "pincode": "285121",
+    "phone_number": "+91 88810 59997",
+    "website": "https://www.eaglecabs.co.in/",
+    "rating": 5,
+    "reviews_count": 297,
+    "address": "Sector-D, 2, Shopping Square Rd, Golf City, Bagiamau, Lucknow, Uttar Pradesh 226030",
+    "area": "Golf City, Bagiamau",
+    "latitude": 26.793476599999998,
+    "longitude": 81.0057195,
+    "place_id": "ChIJN8NK5TDjmzkRuBLohZvirig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN8NK5TDjmzkRuBLohZvirig",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:45:28"
+  }
+]

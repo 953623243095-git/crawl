@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pariksha doctor",
+    "search_category": "Doctors",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "284301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "184, Kanpur - Jhansi Hwy, Jhansi, Parichha, Uttar Pradesh 284305",
+    "area": "284301",
+    "latitude": 25.5092042,
+    "longitude": 78.7441223,
+    "place_id": "ChIJDWTZWgCddzkRaKVIIx40Z7w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDWTZWgCddzkRaKVIIx40Z7w",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:19:23"
+  },
+  {
+    "business_name": "Shri NarayanDas Ayurveda And Yoga Hospital (Dr. Raman Dixit)",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "284301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "HRG6+782, Station Road, Chirgaon, Uttar Pradesh 284301",
+    "area": "284301",
+    "latitude": 25.5756284,
+    "longitude": 78.81076279999999,
+    "place_id": "ChIJv3oOG0aYdzkRGgbXiaMHNHc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv3oOG0aYdzkRGgbXiaMHNHc",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:19:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kridha hotel and restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Hotel, Wedding venue",
+    "pincode": "284402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VILLAGE AND POST, KUNDESHWAR, Sujanpura, Madhya Pradesh 472005",
+    "area": "KUNDESHWAR",
+    "latitude": 24.6957688,
+    "longitude": 78.7988096,
+    "place_id": "ChIJ44XDQyRPeDkRYyRg_UrkZZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ44XDQyRPeDkRYyRg_UrkZZw",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:31:22"
+  },
+  {
+    "business_name": "Anubhav city restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "284402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Nagar Bhawan, near by union bank, Katra Bazar, Tikamgarh, Madhya Pradesh 472001",
+    "area": "Katra Bazar",
+    "latitude": 24.7405977,
+    "longitude": 78.8293276,
+    "place_id": "ChIJMyKAQ4FPeDkRuIcBU_su2fo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMyKAQ4FPeDkRuIcBU_su2fo",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:31:22"
+  }
+]

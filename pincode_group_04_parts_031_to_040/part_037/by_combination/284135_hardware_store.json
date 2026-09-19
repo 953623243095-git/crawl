@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Palak Hardware",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "284135",
+    "phone_number": "+91 83032 66478",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "01, Main Road Main Road, Hasari, Hansari, Jhansi, Uttar Pradesh 284135",
+    "area": "Hasari, Hansari",
+    "latitude": 25.4101695,
+    "longitude": 78.5636394,
+    "place_id": "ChIJKxTKnaxwdzkRYaUeSaPm56o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKxTKnaxwdzkRYaUeSaPm56o",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:05:45"
+  },
+  {
+    "business_name": "Sahu Hardware",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Paint store",
+    "pincode": "284135",
+    "phone_number": "+91 99351 56922",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Main Road, Hansari, Baragaon, Jhansi, Uttar Pradesh 284135",
+    "area": "Hansari",
+    "latitude": 25.4143895,
+    "longitude": 78.56616129999999,
+    "place_id": "ChIJyaHCylJ3dzkRSUQKZn3ikEc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyaHCylJ3dzkRSUQKZn3ikEc",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:05:45"
+  }
+]

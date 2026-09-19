@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ravi Paan Shop",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop",
+    "pincode": "284302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 47,
+    "address": "Nagaram, Telangana 506371",
+    "area": "284302",
+    "latitude": 18.0923612,
+    "longitude": 79.56724489999999,
+    "place_id": "ChIJPZqxaSxGMzoRDIlHMKAlhgo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPZqxaSxGMzoRDIlHMKAlhgo",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:20:47"
+  },
+  {
+    "business_name": "Dokan",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "284302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "129, Road, Bada Bazar, Area, Jhansi, Uttar Pradesh 284002",
+    "area": "Bada Bazar, Area",
+    "latitude": 25.4637511,
+    "longitude": 78.5800029,
+    "place_id": "ChIJw4ML11p3dzkRJY-SYT8XwKY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw4ML11p3dzkRJY-SYT8XwKY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:20:49"
+  }
+]

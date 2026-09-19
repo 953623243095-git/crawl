@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Rajdhani Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "284127",
+    "phone_number": "+91 70076 95790",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No. 15, New Market, Bus Stand, Cantt, Jhansi, Uttar Pradesh 284001",
+    "area": "Cantt",
+    "latitude": 25.4457046,
+    "longitude": 78.5908814,
+    "place_id": "ChIJb8cRHgN3dzkROlwfYWKVE8k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb8cRHgN3dzkROlwfYWKVE8k",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:02:06"
+  },
+  {
+    "business_name": "Radha Swami Bus Service",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "284127",
+    "phone_number": "+91 94500 90000",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Shop # 29, New Bus Stand, Kanpur Road, Talpura, Jhansi, Uttar Pradesh 284001",
+    "area": "Talpura",
+    "latitude": 25.4460248,
+    "longitude": 78.5897662,
+    "place_id": "ChIJ_____0t3dzkRfIfpXoei3kM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_____0t3dzkRfIfpXoei3kM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:02:09"
+  }
+]

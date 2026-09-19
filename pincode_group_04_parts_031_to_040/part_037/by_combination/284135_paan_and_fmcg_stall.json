@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sahu Paan Shop",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop, Store, Tobacco shop",
+    "pincode": "284135",
+    "phone_number": "+91 94155 88123",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 32,
+    "address": "8GFG+37C, St Xavier's College Rd, BHEL Area, BHEL Jhansi Factory, Khailar, Uttar Pradesh 284120",
+    "area": "BHEL Area",
+    "latitude": 25.3226843,
+    "longitude": 78.525646,
+    "place_id": "ChIJUWVwe5x7dzkRa011shJ54EQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUWVwe5x7dzkRa011shJ54EQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:05:08"
+  },
+  {
+    "business_name": "Anna Pan Shop",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "284135",
+    "phone_number": "+91 79059 96019",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "00, Sadar Bazar, Sadar, Jhansi, Uttar Pradesh 284001",
+    "area": "Sadar Bazar, Sadar",
+    "latitude": 25.4392046,
+    "longitude": 78.5820354,
+    "place_id": "ChIJBVihY_x3dzkRCVLOMjFRRJc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBVihY_x3dzkRCVLOMjFRRJc",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:05:08"
+  }
+]

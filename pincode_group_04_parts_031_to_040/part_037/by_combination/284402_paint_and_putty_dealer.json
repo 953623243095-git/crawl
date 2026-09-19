@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samridhi Enterprises",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "284402",
+    "phone_number": "+91 94258 94654",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 12,
+    "address": "Infront of S.P. bungalow, South Civil Lines, Tikamgarh, Madhya Pradesh 472001",
+    "area": "Police Quarters, South Civil Lines",
+    "latitude": 24.7550335,
+    "longitude": 78.8329117,
+    "place_id": "ChIJL9ioQTBPeDkR19xlb_9tr8Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL9ioQTBPeDkR19xlb_9tr8Q",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:31:50"
+  },
+  {
+    "business_name": "Nerolac Dealer - Sanjeev Hardware Store",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "284402",
+    "phone_number": "+91 98935 50232",
+    "website": "https://www.nerolac.com/store-locator/madhya-pradesh/tikamgarh/sanjeev-hardware-store?utm_source=google_maps&utm_medium=organic",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Unnamed Road, Civil Line, Tikamgarh, Madhya Pradesh 472001",
+    "area": "Civil Line",
+    "latitude": 24.7463747,
+    "longitude": 78.8321252,
+    "place_id": "ChIJmXqk0NFPeDkRVDfY9M7f8Mc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmXqk0NFPeDkRVDfY9M7f8Mc",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:31:50"
+  }
+]

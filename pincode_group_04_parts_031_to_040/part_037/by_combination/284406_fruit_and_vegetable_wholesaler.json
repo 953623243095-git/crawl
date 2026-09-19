@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sahdev singh kirana store",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Produce market",
+    "all_categories": "Produce market",
+    "pincode": "284406",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "चौधरी गाड़ी, Lalitpur, Sagoriya, Uttar Pradesh 284403",
+    "area": "284406",
+    "latitude": 24.5223694,
+    "longitude": 78.3351213,
+    "place_id": "ChIJ5drD3_aheTkRD6Zd_9_tctE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5drD3_aheTkRD6Zd_9_tctE",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:37:50"
+  },
+  {
+    "business_name": "ONLINE SABZI MANDI - OSM",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Vegetable wholesale market",
+    "all_categories": "Vegetable wholesale market, Grocery store",
+    "pincode": "284406",
+    "phone_number": "+91 93682 62362",
+    "website": "http://www.onlinesabzimandi.in/",
+    "rating": 4.3,
+    "reviews_count": 824,
+    "address": "Rampur, National Highway 73, Rampur, Roorkee, Uttarakhand 247667",
+    "area": "Rampur",
+    "latitude": 29.885327999999998,
+    "longitude": 77.87689499999999,
+    "place_id": "ChIJf5hTqHy0DjkRHKDo1VzovR4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf5hTqHy0DjkRHKDo1VzovR4",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:37:52"
+  }
+]

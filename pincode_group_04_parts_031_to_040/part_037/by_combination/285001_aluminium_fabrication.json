@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MB Jindal Steel",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Steel fabricator",
+    "all_categories": "Steel fabricator",
+    "pincode": "285001",
+    "phone_number": "+91 78977 21895",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jail Rd, Bajaria, Orai, Uttar Pradesh 285001",
+    "area": "Bajaria",
+    "latitude": 25.9937704,
+    "longitude": 79.4457588,
+    "place_id": "ChIJyQgws2Z_nTkRMDYdlfbzGuc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyQgws2Z_nTkRMDYdlfbzGuc",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:44:34"
+  },
+  {
+    "business_name": "Junaid aluminium centre",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Aluminium Supplier",
+    "all_categories": "Aluminium Supplier",
+    "pincode": "285001",
+    "phone_number": "+91 78396 73691",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 6,
+    "address": "suhag mahal, 337, Pathak Pura St, near bus stand, Umarar Khera, Orai, Uttar Pradesh 285001",
+    "area": "Umarar Khera",
+    "latitude": 25.9882003,
+    "longitude": 79.44383739999999,
+    "place_id": "ChIJp_BoCm1_nTkRlm9Wj8rq8O0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp_BoCm1_nTkRlm9Wj8rq8O0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:44:36"
+  }
+]

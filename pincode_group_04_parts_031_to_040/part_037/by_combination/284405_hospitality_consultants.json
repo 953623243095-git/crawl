@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hospitality Way",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant, Service establishment",
+    "pincode": "284405",
+    "phone_number": "N/A",
+    "website": "https://www.hospitality-way.com/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Hospitality Way, 284405, India",
+    "area": "284405",
+    "latitude": 28.397454999999997,
+    "longitude": 84.1301506,
+    "place_id": "ChIJ7xp5tNBt00URd6WjIr3x_Ck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7xp5tNBt00URd6WjIr3x_Ck",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:37:13"
+  },
+  {
+    "business_name": "Uprety Global Business Consulting and Services",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant",
+    "pincode": "284405",
+    "phone_number": "N/A",
+    "website": "https://upretyglobal.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Jawalakhel Lalitpur Metropolitan City - 05, 44700, Nepal",
+    "area": "Lagankhel",
+    "latitude": 27.665737999999997,
+    "longitude": 85.3174767,
+    "place_id": "ChIJQdQeytIZ6zkRvzAmhwHN__M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQdQeytIZ6zkRvzAmhwHN__M",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:37:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "See fit fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "285126",
+    "phone_number": "+91 79060 49106",
+    "website": "https://seefit-website.vercel.app/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2nd floor, Vohra tower, Chakrata Rd, Sudhowala, Dehradun, Uttarakhand 248015",
+    "area": "285126",
+    "latitude": 30.3448672,
+    "longitude": 77.9442186,
+    "place_id": "ChIJsSRlAwDVCDkRIsCfaqXPtsY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsSRlAwDVCDkRIsCfaqXPtsY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:54:11"
+  },
+  {
+    "business_name": "I2 FITNESS ClUB",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center, Gym",
+    "pincode": "285126",
+    "phone_number": "+91 81188 36225",
+    "website": "https://www.instagram.com/i2fitnessclub22",
+    "rating": 5,
+    "reviews_count": 90,
+    "address": "I2 Fitness Club, JSK Tower, near VR petrol pump, near Maharana Pratap Circel, Madanganj, Kishangarh, Rajasthan 305801",
+    "area": "Madanganj",
+    "latitude": 26.5746927,
+    "longitude": 74.85121389999999,
+    "place_id": "ChIJKx0LLlHxazkRkAF5KMatHVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKx0LLlHxazkRkAF5KMatHVY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:54:12"
+  }
+]

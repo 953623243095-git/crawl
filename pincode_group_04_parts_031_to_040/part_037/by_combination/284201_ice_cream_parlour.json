@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Narendra Kushwaha",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Cell phone accessory store",
+    "pincode": "284201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9PHH+C3X, Barethi, Barua Sagar, Uttar Pradesh 284201",
+    "area": "284201",
+    "latitude": 25.378559,
+    "longitude": 78.7277443,
+    "place_id": "ChIJ4SAkGwCDdzkRTc3TfZOjE9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4SAkGwCDdzkRTc3TfZOjE9I",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:08:50"
+  },
+  {
+    "business_name": "tendul dera",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "284201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9PFJ+WRM, Barua Sagar, Talarmanna, Uttar Pradesh 284201",
+    "area": "284201",
+    "latitude": 25.374831399999998,
+    "longitude": 78.732033,
+    "place_id": "ChIJFUv7bACDdzkRQ_HIevMxV-E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFUv7bACDdzkRQ_HIevMxV-E",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:08:50"
+  }
+]

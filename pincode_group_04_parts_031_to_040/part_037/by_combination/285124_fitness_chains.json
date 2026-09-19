@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Muscle Mania",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "285124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "24FQ+538, Dam Rd, Shastri Nagar, Budaun, Uttar Pradesh 243601",
+    "area": "Shastri Nagar",
+    "latitude": 28.0229049,
+    "longitude": 79.1377069,
+    "place_id": "ChIJ_SuwLgBFdTkRucmloBb9tLE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_SuwLgBFdTkRucmloBb9tLE",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:50:38"
+  },
+  {
+    "business_name": "Minakshi Fitness Club",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center, Gym",
+    "pincode": "285124",
+    "phone_number": "+91 77049 97006",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Rath, Uttar Pradesh 210431",
+    "area": "285124",
+    "latitude": 25.6058697,
+    "longitude": 79.56710729999999,
+    "place_id": "ChIJNez3K1lDnTkRi8sJCsbSc6g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNez3K1lDnTkRi8sJCsbSc6g",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:50:40"
+  }
+]

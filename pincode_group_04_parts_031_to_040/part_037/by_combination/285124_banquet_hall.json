@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Trivedi Guest House",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall, Guest house, Event venue, Wedding venue",
+    "pincode": "285124",
+    "phone_number": "+91 99975 71755",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "H8FF+MJ9, Tiraha, Babarpur, Uttar Pradesh 206121",
+    "area": "285124",
+    "latitude": 26.574153199999998,
+    "longitude": 79.3241054,
+    "place_id": "ChIJK75q1dEcdjkRVjk4McuNPvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK75q1dEcdjkRVjk4McuNPvk",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:51:05"
+  },
+  {
+    "business_name": "Shanti Vatika Function Hall (Banquet Hall)",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "285124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "FG46+VMM, Brahm Nagar, Auraiya, Uttar Pradesh 206122",
+    "area": "Brahm Nagar",
+    "latitude": 26.4572087,
+    "longitude": 79.51166119999999,
+    "place_id": "ChIJe7Uwd6rznTkRl1hdssIACj8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe7Uwd6rznTkRl1hdssIACj8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:51:05"
+  }
+]

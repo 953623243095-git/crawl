@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SCISSOR & STYLE UNISEX SALON",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Barber shop, Bridal shop, Make-up artist",
+    "pincode": "285126",
+    "phone_number": "+91 93156 42672",
+    "website": "https://www.scissorandstyleunisexsalon.in/",
+    "rating": 4.8,
+    "reviews_count": 1707,
+    "address": "1st Floor, F-637/638, Ramphal Chowk Rd, near IGNOU Centre, Block H, Palam Extension, Sector 7 Dwarka, Dwarka, Delhi, 110077",
+    "area": "Block H, Palam Extension, Sector 7 Dwarka, Dwarka",
+    "latitude": 28.5862354,
+    "longitude": 77.07158199999999,
+    "place_id": "ChIJrRuJeJsbDTkRqkmbhNYh5DQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrRuJeJsbDTkRqkmbhNYh5DQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:54:35"
+  },
+  {
+    "business_name": "Looks Salon Aligarh",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "285126",
+    "phone_number": "+91 84454 45030",
+    "website": "http://lookssalon.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "CITI CENTRE MALL, Marris Rd, Aligarh, Uttar Pradesh 202001",
+    "area": "Centre Point, Gulzar Nagar, Hem Chand Compound",
+    "latitude": 27.892657,
+    "longitude": 78.080034,
+    "place_id": "ChIJ31ku0LqldDkRj-gaAj4tZlY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ31ku0LqldDkRj-gaAj4tZlY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:54:35"
+  }
+]

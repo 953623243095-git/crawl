@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Netbrill IT Services & Training Center",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service, Computer networking service, Computer Rental Agency, Computer repair service, Computer security service, Engineer, Training center",
+    "pincode": "284003",
+    "phone_number": "+91 90447 34282",
+    "website": "http://www.netbrill.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "774/1, 774, near ATTRI GARDEN, behind SHIVAM CLINIC, Prem Ganj, Sipri Bazar, Jhansi, Uttar Pradesh 284003",
+    "area": "Prem Ganj, Sipri Bazar",
+    "latitude": 25.4634857,
+    "longitude": 78.5420249,
+    "place_id": "ChIJuwNqdxlxdzkRCrEruyc68xM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuwNqdxlxdzkRCrEruyc68xM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:48:52"
+  },
+  {
+    "business_name": "Achiever Computer Future Development Institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer consultant",
+    "all_categories": "Computer consultant",
+    "pincode": "284003",
+    "phone_number": "+91 76170 30599",
+    "website": "https://achievercomputerfdi.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ballampur Rd, Jhansi, Uttar Pradesh 284135",
+    "area": "284003",
+    "latitude": 25.390743699999998,
+    "longitude": 78.5490928,
+    "place_id": "ChIJ72QKRQB7dzkRJvc20ZFZk8k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ72QKRQB7dzkRJvc20ZFZk8k",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:48:52"
+  }
+]

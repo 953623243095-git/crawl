@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anjali genral store",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "284501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": null,
+    "address": "5, Sankarwar Khurd, Uttar Pradesh 284501",
+    "area": "284501",
+    "latitude": 24.7960826,
+    "longitude": 78.267305,
+    "place_id": "ChIJjWxaXtuVeTkRXNwu9k2MpR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjWxaXtuVeTkRXNwu9k2MpR0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:42:59"
+  },
+  {
+    "business_name": "Avani Riverside Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "284501",
+    "phone_number": "+91 90739 79799",
+    "website": "http://avaniriversidemall.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "32, Jagat Banerjee Ghat Rd, Choura Bustee, Shibpur, Howrah, West Bengal 711102",
+    "area": "Choura Bustee, Shibpur",
+    "latitude": 22.5632174,
+    "longitude": 88.3237031,
+    "place_id": "ChIJayOFSyt4AjoRQ_43-wtnMPk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJayOFSyt4AjoRQ_43-wtnMPk",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:43:00"
+  }
+]

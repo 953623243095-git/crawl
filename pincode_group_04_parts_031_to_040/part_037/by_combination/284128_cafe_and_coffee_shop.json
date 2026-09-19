@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BLUE HEAVEN",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "284128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "722, Shivaji Nagar, Jhansi, Uttar Pradesh 284002",
+    "area": "Shivaji Nagar",
+    "latitude": 25.4513383,
+    "longitude": 78.59753789999999,
+    "place_id": "ChIJhT8JCnF3dzkRZLrKSi9XqkY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhT8JCnF3dzkRZLrKSi9XqkY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:03:24"
+  },
+  {
+    "business_name": "Mumbai Masala Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "284128",
+    "phone_number": "+91 99752 54289",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "FH8J+769, Mumbai Masala Cafe, in front of Mahalakshmi Enterprises, Itwari Ganj, Jhansi, Uttar Pradesh 284002",
+    "area": "Itwari Ganj",
+    "latitude": 25.4656569,
+    "longitude": 78.5805957,
+    "place_id": "ChIJkUYb0eZ3dzkRys9lRML_TW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkUYb0eZ3dzkRys9lRML_TW0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:03:26"
+  }
+]

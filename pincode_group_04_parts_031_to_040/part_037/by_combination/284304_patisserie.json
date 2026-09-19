@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kalicharan Vishwakarma",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "284304",
+    "phone_number": "+91 96697 16511",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "242, rod, Sadka, Samthar, Madhya Pradesh 475335",
+    "area": "284304",
+    "latitude": 25.8584645,
+    "longitude": 78.84298079999999,
+    "place_id": "ChIJvQyexUexdzkRPnQqWl4rmiE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvQyexUexdzkRPnQqWl4rmiE",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:24:18"
+  },
+  {
+    "business_name": "Chaurasiya Confectionery",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "284304",
+    "phone_number": "+91 89349 88621",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sadar Bazar Nadigaon, Kailia, Uttar Pradesh 285205",
+    "area": "284304",
+    "latitude": 25.9568126,
+    "longitude": 78.9856173,
+    "place_id": "ChIJs0yD2o-1dzkRHDDPMMQBVRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs0yD2o-1dzkRHDDPMMQBVRw",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:24:20"
+  }
+]

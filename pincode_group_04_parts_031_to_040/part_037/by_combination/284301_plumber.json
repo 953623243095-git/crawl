@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "laber",
+    "search_category": "Plumber",
+    "primary_category": "Classified ads newspaper publisher",
+    "all_categories": "Classified ads newspaper publisher, Service establishment",
+    "pincode": "284301",
+    "phone_number": "+91 88822 83046",
+    "website": "https://www.laber.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "laber, 284301, India",
+    "area": "284301",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJkUkZBuOFjY8Rq-A-GOf6ZkQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkUkZBuOFjY8Rq-A-GOf6ZkQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:19:44"
+  },
+  {
+    "business_name": "Eco-Green Engineers",
+    "search_category": "Plumber",
+    "primary_category": "HVAC contractor",
+    "all_categories": "HVAC contractor, Service establishment",
+    "pincode": "284301",
+    "phone_number": "N/A",
+    "website": "https://www.eco-greenengineers.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Eco-Green Engineers, 284301, India",
+    "area": "284301",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJS7b4CIR8QI4RHzZhvo38Eig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS7b4CIR8QI4RHzZhvo38Eig",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:19:44"
+  }
+]

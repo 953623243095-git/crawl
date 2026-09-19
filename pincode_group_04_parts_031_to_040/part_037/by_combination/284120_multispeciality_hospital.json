@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mangal Maitri Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "284120",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 55,
+    "address": "FJ8P+25R, Jhansi, Uttar Pradesh 284128",
+    "area": "284120",
+    "latitude": 25.465100999999997,
+    "longitude": 78.63539,
+    "place_id": "ChIJyWlxPTZ3dzkRAAk9sSFAUJU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyWlxPTZ3dzkRAAk9sSFAUJU",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:49:53"
+  },
+  {
+    "business_name": "Sunshine Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "284120",
+    "phone_number": "+91 81879 54500",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 27,
+    "address": "Sunshine Hospital, Kanpur - Jhansi Hwy, Bundelkhand University, Jhansi, Uttar Pradesh 284128",
+    "area": "Bundelkhand University",
+    "latitude": 25.4644601,
+    "longitude": 78.62371689999999,
+    "place_id": "ChIJxUtl6wt3dzkRX-xIaRG50sI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxUtl6wt3dzkRX-xIaRG50sI",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:49:53"
+  }
+]

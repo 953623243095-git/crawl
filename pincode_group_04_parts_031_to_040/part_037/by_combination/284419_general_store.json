@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat General Store",
+    "search_category": "General Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "284419",
+    "phone_number": "+91 88811 22519",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Raksa, Jhansi, Uttar Pradesh 284419",
+    "area": "Raksa",
+    "latitude": 25.4589315,
+    "longitude": 78.4982982,
+    "place_id": "ChIJH5vfw05xdzkRD53QDRnE98s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH5vfw05xdzkRD53QDRnE98s",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:39:31"
+  },
+  {
+    "business_name": "Kshama Tripathi General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "284419",
+    "phone_number": "+91 80094 68336",
+    "website": "N/A",
+    "rating": 1.7,
+    "reviews_count": 3,
+    "address": "Grass Land, Jhansi, Uttar Pradesh 284002",
+    "area": "284419",
+    "latitude": 25.514644099999998,
+    "longitude": 78.5449201,
+    "place_id": "ChIJfwtS7gBzdzkRR46VuXcsL_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfwtS7gBzdzkRR46VuXcsL_g",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:39:33"
+  }
+]

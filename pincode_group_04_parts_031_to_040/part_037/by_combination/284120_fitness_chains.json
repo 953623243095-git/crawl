@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "284120",
+    "phone_number": "+91 63068 43519",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Govind Chauraha Rd, Devarghat, Jhokan Bagh, Jhansi, Uttar Pradesh 284001",
+    "area": "Devarghat, Jhokan Bagh",
+    "latitude": 25.4504342,
+    "longitude": 78.57924229999999,
+    "place_id": "ChIJ64r_9513dzkR-cK7zv-mI2g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ64r_9513dzkR-cK7zv-mI2g",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:50:03"
+  },
+  {
+    "business_name": "Dev Body Temple",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "284120",
+    "phone_number": "+91 76518 96953",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 68,
+    "address": "Gyan sthaly public school, Shivaji Nagar, Jhansi, Uttar Pradesh 284001",
+    "area": "Shivaji Nagar",
+    "latitude": 25.453408699999997,
+    "longitude": 78.602289,
+    "place_id": "ChIJI3obJNh3dzkRUR8kBKKt3FI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI3obJNh3dzkRUR8kBKKt3FI",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:50:04"
+  }
+]

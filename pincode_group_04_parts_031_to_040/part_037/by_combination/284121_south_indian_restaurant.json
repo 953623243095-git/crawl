@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "South Indian Upahar",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "284121",
+    "phone_number": "+91 81972 73685",
+    "website": "https://gomysite.com/southindianupahar",
+    "rating": 4.9,
+    "reviews_count": 822,
+    "address": "Gali No 5, Naval Kishore Ashram, 336, Vishwavidyalaya Rd, near Birla Farm, Haripur Kalan, Haridwar, Motichur Range, Uttarakhand 249205",
+    "area": "Haripur Kalan",
+    "latitude": 29.993082599999997,
+    "longitude": 78.1960579,
+    "place_id": "ChIJcRfl6fxHCTkR17sPudYE1qw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcRfl6fxHCTkR17sPudYE1qw",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:51:28"
+  },
+  {
+    "business_name": "UDUPI STYLE RESTAURANT",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "284121",
+    "phone_number": "+91 76190 33355",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Manik Chowk, Jhansi, Uttar Pradesh 284002",
+    "area": "Manik Chowk",
+    "latitude": 25.460102199999998,
+    "longitude": 78.5795698,
+    "place_id": "ChIJsXGsTxx3dzkReXZPvBKd4x4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsXGsTxx3dzkReXZPvBKd4x4",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:51:28"
+  }
+]

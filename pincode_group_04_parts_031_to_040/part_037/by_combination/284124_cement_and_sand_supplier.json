@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Builders",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store, Hardware store",
+    "pincode": "284124",
+    "phone_number": "+91 94331 62163",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No, 194E, Maniktala Main Rd, opposite Axis Bank, Scheme VI-M, Manicktala, Phoolbagan, Kankurgachi, Kolkata, West Bengal 700054",
+    "area": "Scheme VI-M, Manicktala, Phoolbagan, Kankurgachi",
+    "latitude": 22.5800828,
+    "longitude": 88.3892104,
+    "place_id": "ChIJaaYDQA12AjoRQnagvIfrnN8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaaYDQA12AjoRQnagvIfrnN8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:57:09"
+  },
+  {
+    "business_name": "JK Stones",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Natural Stone Wholesaler",
+    "all_categories": "Natural Stone Wholesaler, Granite supplier, Natural Stone Exporter, Natural stone supplier, Paving materials supplier, Stone supplier",
+    "pincode": "284124",
+    "phone_number": "+91 62320 08824",
+    "website": "https://jkstones.in/",
+    "rating": 4.6,
+    "reviews_count": 46,
+    "address": "Near, 24 Jain Temple, Bhanpur, Bhopal, Madhya Pradesh 462037",
+    "area": "Bhanpur",
+    "latitude": 23.2965105,
+    "longitude": 77.4306311,
+    "place_id": "ChIJP0BQeEJpfDkR5d9eooXJm5Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP0BQeEJpfDkR5d9eooXJm5Y",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:57:09"
+  }
+]

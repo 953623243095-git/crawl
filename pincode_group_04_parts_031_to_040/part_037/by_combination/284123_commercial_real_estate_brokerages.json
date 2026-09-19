@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Properties",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "284123",
+    "phone_number": "+91 78975 00605",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "117/H-1/379 Asthana bazar Pandu nagar, Kakadeo, Kanpur, Uttar Pradesh 208016",
+    "area": "Model Town, Kakadeo",
+    "latitude": 26.4758793,
+    "longitude": 80.2953799,
+    "place_id": "ChIJ01PyCcxJnDkRxsQY5NFyRSY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ01PyCcxJnDkRxsQY5NFyRSY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:56:06"
+  },
+  {
+    "business_name": "Bhadoria Properties",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Finance broker, Loan agency, Mortgage broker",
+    "pincode": "284123",
+    "phone_number": "+91 98739 05212",
+    "website": "https://bhadoriaproperties.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Radhey Shyam Park, G-1/M-33, Sector 5, Rajendra Nagar, Sahibabad, Ghaziabad, Uttar Pradesh 201005",
+    "area": "Sector 5, Rajendra Nagar, Sahibabad",
+    "latitude": 28.6801994,
+    "longitude": 77.3543469,
+    "place_id": "ChIJ0YMgbon6DDkR87M_5RNWjA4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0YMgbon6DDkR87M_5RNWjA4",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:56:06"
+  }
+]

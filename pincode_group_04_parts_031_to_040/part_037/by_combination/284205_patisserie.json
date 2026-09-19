@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cake Rush",
+    "search_category": "Patisserie",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "284205",
+    "phone_number": "+91 91310 03716",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "SBI bank road, Niwari, Madhya Pradesh 472442",
+    "area": "284205",
+    "latitude": 25.346982399999998,
+    "longitude": 78.8026088,
+    "place_id": "ChIJVSpn4A-FdzkRPNNUBygik3Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVSpn4A-FdzkRPNNUBygik3Y",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:15:37"
+  },
+  {
+    "business_name": "Vikram Ahirwar",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "284205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Royal Gardan, Naibasti, Mauranipur, Uttar Pradesh 284204",
+    "area": "Naibasti",
+    "latitude": 25.254173899999998,
+    "longitude": 79.13447,
+    "place_id": "ChIJh027iTsdeDkReP3vRcuG6s0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh027iTsdeDkReP3vRcuG6s0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:15:39"
+  }
+]

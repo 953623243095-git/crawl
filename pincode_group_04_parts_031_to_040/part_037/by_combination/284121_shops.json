@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Diksha Traders",
+    "search_category": "Shops",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "284121",
+    "phone_number": "+91 75258 41129",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bus Station, Shop No 00 Baragaon Baragaon, Jhansi, Uttar Pradesh 284121",
+    "area": "284121",
+    "latitude": 25.4782586,
+    "longitude": 78.71152049999999,
+    "place_id": "ChIJhXKKrHqddzkRZ1fGT50ReHc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhXKKrHqddzkRZ1fGT50ReHc",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:53:03"
+  },
+  {
+    "business_name": "Shree Ramraja enterprises",
+    "search_category": "Shops",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "284121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kanpur - Jhansi Hwy, badagaon, Jhansi, Baragaon, Uttar Pradesh 284121",
+    "area": "badagaon",
+    "latitude": 25.4808587,
+    "longitude": 78.71315609999999,
+    "place_id": "ChIJEdJC85WddzkR0ZYX7PRh-6I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEdJC85WddzkR0ZYX7PRh-6I",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:53:06"
+  }
+]

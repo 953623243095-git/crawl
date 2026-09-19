@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zubaan Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "284135",
+    "phone_number": "+91 98890 06479",
+    "website": "https://www.zubaankitchen.com/",
+    "rating": 3.9,
+    "reviews_count": 185,
+    "address": "67/1A, Civil Lines, Jhansi, Uttar Pradesh 284001",
+    "area": "Civil Lines",
+    "latitude": 25.443158099999998,
+    "longitude": 78.56728609999999,
+    "place_id": "ChIJe1Wixhp3dzkRmJkSkEQHxQ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe1Wixhp3dzkRmJkSkEQHxQ8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:05:13"
+  },
+  {
+    "business_name": "Pizza Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Business to business service, Fast food restaurant",
+    "pincode": "284135",
+    "phone_number": "+91 87073 50046",
+    "website": "https://www.pizzakitchen.in/",
+    "rating": 4.4,
+    "reviews_count": 263,
+    "address": "467, Masihaganj Rd, Adarsh Nagar, Sipri Bazar, Jhansi, Uttar Pradesh 284003",
+    "area": "Adarsh Nagar, Sipri Bazar",
+    "latitude": 25.4578776,
+    "longitude": 78.54873839999999,
+    "place_id": "ChIJGfvkFaFxdzkRkZHEnyxlxpY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGfvkFaFxdzkRkZHEnyxlxpY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:05:13"
+  }
+]

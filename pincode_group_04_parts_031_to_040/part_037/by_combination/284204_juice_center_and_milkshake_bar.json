@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Cool Point Juice Corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "284204",
+    "phone_number": "+91 87588 01497",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 1061,
+    "address": "Shop No.2, Soham Complex, Gurudwara Rd, Patrakar Colony, Jamnagar, Gujarat 361006",
+    "area": "Patrakar Colony",
+    "latitude": 22.4723498,
+    "longitude": 70.06555469999999,
+    "place_id": "ChIJ7YR0HKVqVzkRN_esSe7uVmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7YR0HKVqVzkRN_esSe7uVmg",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:13:55"
+  },
+  {
+    "business_name": "King juice machines",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "284204",
+    "phone_number": "+91 99718 22802",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "4493, Lambi Gali, Old Delhi, Kaccha Pandit Main Bazar, Lal Kuan Bazar, Chandni Chowk, New Delhi, Delhi, 110006",
+    "area": "Old Delhi, Kaccha Pandit Main Bazar, Lal Kuan Bazar, Chandni Chowk",
+    "latitude": 28.649093399999998,
+    "longitude": 77.22438249999999,
+    "place_id": "ChIJt6ovWuL9DDkRu0YoUskN5_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt6ovWuL9DDkRu0YoUskN5_s",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:13:57"
+  }
+]

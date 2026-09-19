@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SZ FITNESS HEALTH CLUB",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "284203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 35,
+    "address": "CGQQ+P9J, Khati Baba, Jhansi, Uttar Pradesh 284003",
+    "area": "Khati Baba",
+    "latitude": 25.4393362,
+    "longitude": 78.53839909999999,
+    "place_id": "ChIJ4WKneuZwdzkR2deqZRqS9e0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4WKneuZwdzkR2deqZRqS9e0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:12:35"
+  },
+  {
+    "business_name": "The Ultimate Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "284203",
+    "phone_number": "+91 96966 86336",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Hansari, Jhansi, Uttar Pradesh 284135",
+    "area": "Hansari",
+    "latitude": 25.412479299999998,
+    "longitude": 78.5657208,
+    "place_id": "ChIJFzPYPOpxdzkRaevIe8jdbNo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFzPYPOpxdzkRaevIe8jdbNo",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:12:36"
+  }
+]

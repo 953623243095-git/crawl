@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Simraha jhansi",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Pressure washing service",
+    "all_categories": "Pressure washing service",
+    "pincode": "284127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 9,
+    "address": "CH5W+HQM, Sadar Bazar, Simraha, Jhansi, Uttar Pradesh 284127",
+    "area": "Sadar Bazar",
+    "latitude": 25.4067004,
+    "longitude": 78.5988538,
+    "place_id": "ChIJa2W1DQB3dzkRWKfjkXihCnk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa2W1DQB3dzkRWKfjkXihCnk",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:02:53"
+  },
+  {
+    "business_name": "DoSpeedo",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "284127",
+    "phone_number": "+91 99904 11177",
+    "website": "https://dospeedo.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "2 floor, Rohini Sec 7, C9/23, opposite metro pillar no 400, Pocket 9, Sector 7C, Rohini, Delhi, 110085",
+    "area": "Pocket 9, Sector 7C, Rohini",
+    "latitude": 28.7094332,
+    "longitude": 77.1229508,
+    "place_id": "ChIJiYC_58okla8Rhg8idxgLiQM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiYC_58okla8Rhg8idxgLiQM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:02:54"
+  }
+]

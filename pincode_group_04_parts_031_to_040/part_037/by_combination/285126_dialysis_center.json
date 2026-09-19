@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DCDC Kidney Care",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "285126",
+    "phone_number": "+91 11 4558 1006",
+    "website": "https://dcdc.co.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "3rd Floor, Dialysis Unit, Lokpriya Hospital, near Amber Cinema, Modinagar, Uttar Pradesh 201201",
+    "area": "285126",
+    "latitude": 28.8424281,
+    "longitude": 77.5820504,
+    "place_id": "ChIJDWdiVtlhDDkRyTUZjF7QIys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDWdiVtlhDDkRyTUZjF7QIys",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:54:07"
+  },
+  {
+    "business_name": "Reno Care Dialysis & Diagnostic Centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center, Diagnostic center",
+    "pincode": "285126",
+    "phone_number": "+91 75570 35000",
+    "website": "https://renocaredialysis.com/",
+    "rating": 4.9,
+    "reviews_count": 77,
+    "address": "Indira Bypass Rd, near District Court, Upper Sichey, Gangtok, Sikkim 737101",
+    "area": "Upper Sichey",
+    "latitude": 27.3442862,
+    "longitude": 88.6059332,
+    "place_id": "ChIJt9JCLESl5jkRK8RKlesXOGk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt9JCLESl5jkRK8RKlesXOGk",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:54:10"
+  }
+]

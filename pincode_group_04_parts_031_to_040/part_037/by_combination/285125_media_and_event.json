@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Matrix Entertainment",
+    "search_category": "Media and Event",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Advertising agency, Event planner, Exhibition planner, Wedding planner",
+    "pincode": "285125",
+    "phone_number": "+91 98912 19121",
+    "website": "https://www.matrixentertainment.in/",
+    "rating": 4.9,
+    "reviews_count": 37,
+    "address": "1608, 16th Floor, Iconic Corenthum Tower, near Electronic City Metro Station Road, Block A, Industrial Area, Sector 62, Noida, Uttar Pradesh 201309",
+    "area": "Block A, Industrial Area, Sector 62",
+    "latitude": 28.6275965,
+    "longitude": 77.3735566,
+    "place_id": "ChIJ04RnujbT6QoRqchxdmHFNkU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ04RnujbT6QoRqchxdmHFNkU",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:52:59"
+  },
+  {
+    "business_name": "Anshika studio",
+    "search_category": "Media and Event",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio, Movie studio",
+    "pincode": "285125",
+    "phone_number": "+91 97606 05958",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 51,
+    "address": "infront of electricity office, Dibiyapur Rd, Mahaveer Ganj, Homeganj, Bidhuli, Auraiya, Uttar Pradesh 206122",
+    "area": "Mahaveer Ganj, Homeganj, Bidhuli",
+    "latitude": 26.4661071,
+    "longitude": 79.51579439999999,
+    "place_id": "ChIJqX94JXfznTkRNX9-vl7K-uQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqX94JXfznTkRNX9-vl7K-uQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:53:00"
+  }
+]

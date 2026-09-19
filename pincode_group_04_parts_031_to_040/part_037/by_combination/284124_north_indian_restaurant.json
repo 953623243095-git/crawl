@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Ji Family Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "284124",
+    "phone_number": "+91 72475 57993",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 13,
+    "address": "Bamore Kalan, Madhya Pradesh 473585",
+    "area": "284124",
+    "latitude": 24.8762871,
+    "longitude": 78.1506936,
+    "place_id": "ChIJjWd4CwDteTkRhndneNH9FyE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjWd4CwDteTkRhndneNH9FyE",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:56:33"
+  },
+  {
+    "business_name": "Chahat Fast Food",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Awadhi Restaurant",
+    "all_categories": "Awadhi Restaurant",
+    "pincode": "284124",
+    "phone_number": "+91 76519 50075",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rajghat road, near Suhani beauty parlour, Jakhora, Uttar Pradesh 284124",
+    "area": "284124",
+    "latitude": 24.899154199999998,
+    "longitude": 78.3384986,
+    "place_id": "ChIJvQwylJTBeTkRd65oQihQR18",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvQwylJTBeTkRd65oQihQR18",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:56:35"
+  }
+]

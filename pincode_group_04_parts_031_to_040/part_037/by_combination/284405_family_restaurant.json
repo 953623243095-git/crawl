@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Annapurna food plaza",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "284405",
+    "phone_number": "+91 94517 48059",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Lalitpur Rd, Mahrauni, Kisarda, Uttar Pradesh 284405",
+    "area": "284405",
+    "latitude": 24.581776599999998,
+    "longitude": 78.7239013,
+    "place_id": "ChIJ7ajUT6pTeDkRGgLBMLxT0Qs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7ajUT6pTeDkRGgLBMLxT0Qs",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:36:20"
+  },
+  {
+    "business_name": "Keevs Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "284405",
+    "phone_number": "+91 94150 08855",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "MCQ2+F7C, Civil Lines, Lalitpur, Uttar Pradesh 284403",
+    "area": "Civil Lines",
+    "latitude": 24.6886922,
+    "longitude": 78.40065129999999,
+    "place_id": "ChIJ896uFDK7eTkRwLcwYx-zHXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ896uFDK7eTkRwLcwYx-zHXw",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:36:22"
+  }
+]

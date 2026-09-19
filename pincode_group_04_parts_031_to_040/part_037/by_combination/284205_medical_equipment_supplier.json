@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHARDA MEDICAL STORE",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "284205",
+    "phone_number": "+91 93351 88730",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "125 No, Khisni Buzurg, Uttar Pradesh 284205",
+    "area": "284205",
+    "latitude": 25.269840499999997,
+    "longitude": 78.8241955,
+    "place_id": "ChIJayzJAMWHdzkRKsI3qbBTs0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJayzJAMWHdzkRKsI3qbBTs0Y",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:16:01"
+  },
+  {
+    "business_name": "Jan Aushadhi Kendra",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "284205",
+    "phone_number": "+91 95653 33454",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "BSNL Exchange, Near, Uldan Rd, Bangra, Sewara, Uttar Pradesh 284205",
+    "area": "Bangra",
+    "latitude": 25.3134676,
+    "longitude": 79.0044003,
+    "place_id": "ChIJ16HxiaaLdzkRX4M01Zub2Rs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ16HxiaaLdzkRX4M01Zub2Rs",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:16:01"
+  }
+]

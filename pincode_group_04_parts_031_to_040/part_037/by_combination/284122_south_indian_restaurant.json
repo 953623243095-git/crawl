@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "South Indian Dosa",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "284122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "M9QX+53V, 368, Civil Line Rd, Civil Lines, Lalitpur, Uttar Pradesh 284403",
+    "area": "Civil Lines",
+    "latitude": 24.6877149,
+    "longitude": 78.3977938,
+    "place_id": "ChIJe27LrrK7eTkRFggTCpXaRuk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe27LrrK7eTkRFggTCpXaRuk",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:53:14"
+  },
+  {
+    "business_name": "Coffee House",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Breakfast restaurant, Sweet shop, Coffee shop, Fast food restaurant",
+    "pincode": "284122",
+    "phone_number": "+91 79850 17676",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "MCQ3+J3Q, Civil Lines, Lalitpur, Uttar Pradesh 284403",
+    "area": "Civil Lines",
+    "latitude": 24.6890955,
+    "longitude": 78.4027286,
+    "place_id": "ChIJq88M7XW7eTkRLk9mlpVynIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq88M7XW7eTkRLk9mlpVynIM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:53:14"
+  }
+]

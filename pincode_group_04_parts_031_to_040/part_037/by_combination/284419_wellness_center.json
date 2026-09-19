@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Beyond Gen retail Pvt Ltd.",
+    "search_category": "Wellness Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center",
+    "pincode": "284419",
+    "phone_number": "+91 95605 03629",
+    "website": "https://www.beyondgenretail.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Awas vikas, 641, Shivpuri Rd, Sangam Vihar, Jhansi, Uttar Pradesh 204003",
+    "area": "Sangam Vihar",
+    "latitude": 25.4515727,
+    "longitude": 78.52919969999999,
+    "place_id": "ChIJiz3u5lxxdzkRGAOqwrfG9sQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiz3u5lxxdzkRGAOqwrfG9sQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:40:29"
+  },
+  {
+    "business_name": "URBAN HEALTH AND WELNESS CENTRE(GOVT.HOSPITAL)",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "284419",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Sayyed Nagar, Sangam Vihar, Jhansi, Uttar Pradesh 284003",
+    "area": "Sayyed Nagar, Sangam Vihar",
+    "latitude": 25.4531042,
+    "longitude": 78.5268334,
+    "place_id": "ChIJ2z5UELBxdzkRAdV6HWICLdQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2z5UELBxdzkRAdV6HWICLdQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:40:31"
+  }
+]

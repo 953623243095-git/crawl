@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHUBHA POLY CLINIC (शुभा पोली क्लीनिक)",
+    "search_category": "Polyclinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "284003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9GCW+RXW, Bijauli Industrial Area, Bijoli, Jhansi, Uttar Pradesh 284135",
+    "area": "Bijauli Industrial Area",
+    "latitude": 25.3721224,
+    "longitude": 78.54746039999999,
+    "place_id": "ChIJV8zmWwB7dzkRzNNR0Q8djqU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV8zmWwB7dzkRzNNR0Q8djqU",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:48:06"
+  },
+  {
+    "business_name": "Prince Dwivedi",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "284003",
+    "phone_number": "+91 63864 67433",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mauranipur Station Parking Bharat Petroliyam, Erach Road, Jhansi, Uttar Pradesh 284003",
+    "area": "Azad Ganj, Sipri Bazar",
+    "latitude": 25.453429999999997,
+    "longitude": 78.5479069,
+    "place_id": "ChIJmTmUaK9xdzkRg2glVhFEuKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmTmUaK9xdzkRg2glVhFEuKU",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:48:06"
+  }
+]

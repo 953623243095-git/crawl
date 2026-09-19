@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rural modern fitness club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "285123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "7CPQ+2C, Sirsakalar, Uttar Pradesh 285130",
+    "area": "285123",
+    "latitude": 26.2850836,
+    "longitude": 79.4385633,
+    "place_id": "ChIJPUD-JiqJnTkRyiDeZtJMztg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPUD-JiqJnTkRyiDeZtJMztg",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:48:53"
+  },
+  {
+    "business_name": "GAB FITNESS GYM",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "285123",
+    "phone_number": "+91 82871 13945",
+    "website": "https://gab-fitness-gym.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": 116,
+    "address": "R&R COLONY GATE NO 2 TAPPAL, ROAD, Jewar, Uttar Pradesh 203135",
+    "area": "285123",
+    "latitude": 28.105454899999998,
+    "longitude": 77.55756939999999,
+    "place_id": "ChIJS9CsHI3LDDkR-XgFvddtzIQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS9CsHI3LDDkR-XgFvddtzIQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:48:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Katera Market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "284201",
+    "phone_number": "+91 98890 86117",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 190,
+    "address": "6WRF+7C7, Katera, Uttar Pradesh 284205",
+    "area": "284201",
+    "latitude": 25.240660199999997,
+    "longitude": 78.9235577,
+    "place_id": "ChIJex_AI1QneDkR1fT3UG4Ycvo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJex_AI1QneDkR1fT3UG4Ycvo",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:10:19"
+  },
+  {
+    "business_name": "Jhansi Mart",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Grocery delivery service",
+    "all_categories": "Grocery delivery service, Door supplier, Indian grocery store, News service, Wholesale grocer",
+    "pincode": "284201",
+    "phone_number": "+91 99367 60067",
+    "website": "http://jhansimart.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Masiha Ganj, Sipri Bazar, Jhansi, Uttar Pradesh 284003",
+    "area": "Masiha Ganj, Sipri Bazar",
+    "latitude": 25.4553512,
+    "longitude": 78.54173329999999,
+    "place_id": "ChIJ8YiLhGpxdzkRhDU-ZuDRUgo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8YiLhGpxdzkRhDU-ZuDRUgo",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:10:21"
+  }
+]

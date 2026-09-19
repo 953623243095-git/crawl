@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SWAAD",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, North Indian restaurant",
+    "pincode": "284406",
+    "phone_number": "+91 88276 87935",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "house no. 10/55, Bina, Bina Railway Colony, Madhya Pradesh 470113",
+    "area": "284406",
+    "latitude": 24.183573499999998,
+    "longitude": 78.20017179999999,
+    "place_id": "ChIJJaPw-wJveTkRn1fgSkjo7Jg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJaPw-wJveTkRn1fgSkjo7Jg",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:37:58"
+  },
+  {
+    "business_name": "Bansiwala Dairy & Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "284406",
+    "phone_number": "+91 99581 09717",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "Bansiwala Dairy & Restaurant, NH 934, Khurai Road, Village Kurua, Bina, Madhya Pradesh 470113",
+    "area": "284406",
+    "latitude": 24.1587046,
+    "longitude": 78.2278386,
+    "place_id": "ChIJAWzMOptreTkR3_KpISjvHDw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAWzMOptreTkR3_KpISjvHDw",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:37:59"
+  }
+]

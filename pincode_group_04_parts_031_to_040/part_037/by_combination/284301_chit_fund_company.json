@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Convenient Chits Pvt. Ltd",
+    "search_category": "Chit Fund Company",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant",
+    "pincode": "284301",
+    "phone_number": "+91 11 4056 6276",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shivalik Colony, Malviya Nagar, New Delhi, Delhi 110017",
+    "area": "Shivalik Colony, Malviya Nagar",
+    "latitude": 28.540218,
+    "longitude": 77.212589,
+    "place_id": "ChIJJ08WmxniDDkRBcRfdlH_rPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ08WmxniDDkRBcRfdlH_rPA",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:20:18"
+  },
+  {
+    "business_name": "Southern Star Chit Fund Pvt. Ltd",
+    "search_category": "Chit Fund Company",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service",
+    "pincode": "284301",
+    "phone_number": "+91 99995 36638",
+    "website": "http://sschit.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "2220, Housing Board Colony, Sector- 3, Faridabad, Haryana 121004",
+    "area": "Sector 3",
+    "latitude": 28.349646999999997,
+    "longitude": 77.333829,
+    "place_id": "ChIJdxmSZ3jbDDkRjgsyjBaHLfo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdxmSZ3jbDDkRjgsyjBaHLfo",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:20:20"
+  }
+]

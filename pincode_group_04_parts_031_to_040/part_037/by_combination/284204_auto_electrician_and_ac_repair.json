@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AC repairing sarvice centre",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service",
+    "pincode": "284204",
+    "phone_number": "N/A",
+    "website": "https://mdazrudeen-services.vercel.app/",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "Ghata Gao, Ghatta Kanarpur, Sector 58, Gurugram, Ghata, Haryana 122011",
+    "area": "Ghata Gao, Ghatta Kanarpur, Sector 58",
+    "latitude": 28.4203026,
+    "longitude": 77.1104052,
+    "place_id": "ChIJ1aoOQAAhDTkRGWuoJ9lj0rM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1aoOQAAhDTkRGWuoJ9lj0rM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:14:25"
+  },
+  {
+    "business_name": "PALSHAB RAVI",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "284204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "74W2+M84, Unnamed Road, Rupa Dhamana, Uttar Pradesh 284205",
+    "area": "284204",
+    "latitude": 25.2966405,
+    "longitude": 79.1008402,
+    "place_id": "ChIJm6OQe3D1dzkRrEbEWM_y9JA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm6OQe3D1dzkRrEbEWM_y9JA",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:14:27"
+  }
+]

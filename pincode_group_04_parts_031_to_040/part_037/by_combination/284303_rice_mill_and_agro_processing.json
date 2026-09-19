@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rice mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "284303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "100 Gram amkhera, Moth Rural, Uttar Pradesh 284303",
+    "area": "284303",
+    "latitude": 25.726459499999997,
+    "longitude": 78.993862,
+    "place_id": "ChIJ4Ut6jPu5dzkRjpLasH30e0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Ut6jPu5dzkRjpLasH30e0g",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:23:58"
+  },
+  {
+    "business_name": "Azad rice mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "284303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "road, in front of Qadri Masjid, Jahanabad, Richha, Uttar Pradesh 243201",
+    "area": "284303",
+    "latitude": 28.693089399999998,
+    "longitude": 79.53043319999999,
+    "place_id": "ChIJq6qqqrZzoDkR60XaLh2BmQ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqrZzoDkR60XaLh2BmQ4",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:23:59"
+  }
+]

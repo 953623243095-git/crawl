@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lovya Design Studio",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect",
+    "pincode": "284121",
+    "phone_number": "+91 96435 08373",
+    "website": "https://lovyadesignstudio.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ajay Enclave, Plot No.1, New Galla Mandi Rd, Nakta Chopra, Jhansi, Uttar Pradesh 284001",
+    "area": "Nakta Chopra",
+    "latitude": 25.4542,
+    "longitude": 78.58624979999999,
+    "place_id": "ChIJYx2bvT93dzkRguUuvbuq96w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYx2bvT93dzkRguUuvbuq96w",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:52:09"
+  },
+  {
+    "business_name": "Space Solutions",
+    "search_category": "Architects",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "284121",
+    "phone_number": "+91 73098 51066",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "cic campus, behind sky tower, Civil Lines, Jhokan Bagh, Jhansi, Uttar Pradesh 284001",
+    "area": "Civil Lines, Jhokan Bagh",
+    "latitude": 25.447436099999997,
+    "longitude": 78.5739755,
+    "place_id": "ChIJ_TWwsU93dzkRQQMDYsDFzT0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_TWwsU93dzkRQQMDYsDFzT0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:52:10"
+  }
+]

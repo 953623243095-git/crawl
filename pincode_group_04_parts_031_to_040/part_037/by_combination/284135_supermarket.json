@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonam Grocery Store",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "284135",
+    "phone_number": "+91 91963 30686",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "32, Rajgarh, Bijoli, Jhansi, Uttar Pradesh 284135",
+    "area": "284135",
+    "latitude": 25.3950718,
+    "longitude": 78.5552895,
+    "place_id": "ChIJRbliZOt7dzkR7tIkCOyjtjY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRbliZOt7dzkR7tIkCOyjtjY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:05:00"
+  },
+  {
+    "business_name": "Touch Wood Fair Shop",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "284135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Awas Vikas Colony, Jhansi, Uttar Pradesh 284003",
+    "area": "Awas Vikas Colony",
+    "latitude": 25.4540477,
+    "longitude": 78.5338096,
+    "place_id": "ChIJtdEYnBxxdzkRtAdl9aor4X4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtdEYnBxxdzkRtAdl9aor4X4",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:05:03"
+  }
+]

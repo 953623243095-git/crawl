@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Devendra painter",
+    "search_category": "Interior Designers",
+    "primary_category": "Painter",
+    "all_categories": "Painter",
+    "pincode": "284301",
+    "phone_number": "+91 97218 46631",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Chirgaon, Uttar Pradesh 284301",
+    "area": "284301",
+    "latitude": 25.572173,
+    "longitude": 78.81192209999999,
+    "place_id": "ChIJfWJ4IACZdzkRk697_jZKXkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfWJ4IACZdzkRk697_jZKXkA",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:19:46"
+  },
+  {
+    "business_name": "Housing World",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "284301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bkd, to, Gwalior Rd, Housing World, Shivaji Nagar, Jhansi, Uttar Pradesh 284001",
+    "area": "Housing World, Shivaji Nagar",
+    "latitude": 25.451203399999997,
+    "longitude": 78.589322,
+    "place_id": "ChIJyW1OjB93dzkRgZGk41a2Nsc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyW1OjB93dzkRgZGk41a2Nsc",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:19:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jhansi Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Bus tour agency, Car leasing service, Car rental agency, Minibus taxi service, Taxi service",
+    "pincode": "284003",
+    "phone_number": "+91 94150 31173",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 9,
+    "address": "905, SEWARAM OIL MILL, Road, near Chitra- Elite, Civil Lines, Gwal Toli, Jhansi, Uttar Pradesh 284003",
+    "area": "Civil Lines, Gwal Toli",
+    "latitude": 25.4516512,
+    "longitude": 78.5567691,
+    "place_id": "ChIJCdGgEyhxdzkR13HFo4nAAms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCdGgEyhxdzkR13HFo4nAAms",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:48:17"
+  },
+  {
+    "business_name": "Eastman Dealer - Lucky Battery",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Battery Store",
+    "all_categories": "Battery Store, Battery Wholesaler, Solar energy system service, Solar energy equipment supplier, Solar panel maintenance service",
+    "pincode": "284003",
+    "phone_number": "+91 79 6624 6167",
+    "website": "https://eastmanbattery.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bus Stand, Jhansi Khas, Jhansi, Uttar Pradesh 284002",
+    "area": "284003",
+    "latitude": 25.4837259,
+    "longitude": 78.575187,
+    "place_id": "ChIJqd5EmxF3dzkRJFeuPAsbKik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqd5EmxF3dzkRJFeuPAsbKik",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:48:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Malik Fitness Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "285125",
+    "phone_number": "+91 81263 88393",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "J3C5+VQF, opposite Ambedkar Park, Siyana, Uttar Pradesh 203412",
+    "area": "285125",
+    "latitude": 28.622183399999997,
+    "longitude": 78.0594188,
+    "place_id": "ChIJlb-rjQplCzkRghv8Nl8p4Xw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlb-rjQplCzkRghv8Nl8p4Xw",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:52:25"
+  },
+  {
+    "business_name": "Power House Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "285125",
+    "phone_number": "+91 94110 09196",
+    "website": "https://www.facebook.com/Powerhousegym.civillines/",
+    "rating": 4.5,
+    "reviews_count": 110,
+    "address": "Civil Lines, near MY MART, Budaun, Uttar Pradesh 243601",
+    "area": "285125",
+    "latitude": 28.0320613,
+    "longitude": 79.1316603,
+    "place_id": "ChIJU2gQ5OpFdTkR4ovbEi509tg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU2gQ5OpFdTkR4ovbEi509tg",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:52:25"
+  }
+]

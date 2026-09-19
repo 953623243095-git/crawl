@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Shree Hardware",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "284419",
+    "phone_number": "+91 98890 72451",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Dr, Ashok Saxena Wali Gali, opp. Mahajan Handloom, Jhokan Bagh, Jhansi, Uttar Pradesh 284001",
+    "area": "Jhokan Bagh",
+    "latitude": 25.4496526,
+    "longitude": 78.57546889999999,
+    "place_id": "ChIJG5ZR7up3dzkRjfAkdA4dlTE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG5ZR7up3dzkRjfAkdA4dlTE",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:40:13"
+  },
+  {
+    "business_name": "sanjay hardware (संजय हार्डवेयर)",
+    "search_category": "Hardware Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "284419",
+    "phone_number": "+91 87370 48347",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shivpuri - Jhansi Rd, Raksa, Jhansi, Uttar Pradesh 284419",
+    "area": "Raksa",
+    "latitude": 25.457258799999998,
+    "longitude": 78.5067734,
+    "place_id": "ChIJJbiN9vNxdzkRYh0HuobiG98",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJbiN9vNxdzkRYh0HuobiG98",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:40:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pushpanjali Clinic",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "285125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Infront of Deepu dhanmeel, near khanpur chauraha, Tilak Nagar, Auraiya, Uttar Pradesh 206122",
+    "area": "Tilak Nagar",
+    "latitude": 26.4597928,
+    "longitude": 79.50160819999999,
+    "place_id": "ChIJC59SV6bznTkREYn3u9IDYrg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC59SV6bznTkREYn3u9IDYrg",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:52:17"
+  },
+  {
+    "business_name": "Prabha multi-speciality hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "285125",
+    "phone_number": "+91 92783 09080",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Birhana Chauraha, Sikandra, Uttar Pradesh 209125",
+    "area": "285125",
+    "latitude": 26.3741575,
+    "longitude": 79.63657529999999,
+    "place_id": "ChIJpUv0WWqTnTkRT4XONgD2YgM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpUv0WWqTnTkRT4XONgD2YgM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:52:19"
+  }
+]

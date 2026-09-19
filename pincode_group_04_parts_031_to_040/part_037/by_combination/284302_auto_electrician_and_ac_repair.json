@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Electric vehicle repair",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Electrical repair shop",
+    "all_categories": "Electrical repair shop",
+    "pincode": "284302",
+    "phone_number": "+91 92891 98013",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near government school, Kadipur, Sector 10, Gurugram, Haryana 122001",
+    "area": "Kadipur, Sector 10",
+    "latitude": 28.450244899999998,
+    "longitude": 77.00396549999999,
+    "place_id": "ChIJAVhR9oYXDTkRRPxkRIM00U0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAVhR9oYXDTkRRPxkRIM00U0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:21:21"
+  },
+  {
+    "business_name": "Car electrician",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Car battery store",
+    "all_categories": "Car battery store",
+    "pincode": "284302",
+    "phone_number": "+91 87072 86903",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "M3M Broadway sector 71, Badshahpur Sohna Rd Hwy, Badshahpur, Sector 66, Gurugram, Haryana 122101",
+    "area": "Badshahpur, Sector 66",
+    "latitude": 28.4013574,
+    "longitude": 77.01992609999999,
+    "place_id": "ChIJbROPegIjDTkRD7g-4_8exZg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbROPegIjDTkRD7g-4_8exZg",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:21:21"
+  }
+]

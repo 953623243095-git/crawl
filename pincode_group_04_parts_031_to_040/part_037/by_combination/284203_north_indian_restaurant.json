@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baba Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "284203",
+    "phone_number": "+91 88407 69401",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4 Khamba, Thana Road, Heerapura, Nagra, Jhansi, Uttar Pradesh 284003",
+    "area": "Heerapura, Nagra",
+    "latitude": 25.4294832,
+    "longitude": 78.53682309999999,
+    "place_id": "ChIJw8yUdt5xdzkRKE538LvzOaA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw8yUdt5xdzkRKE538LvzOaA",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:12:14"
+  },
+  {
+    "business_name": "Arvindra kushwaha",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Awadhi Restaurant",
+    "all_categories": "Awadhi Restaurant",
+    "pincode": "284203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bihat, Uttar Pradesh 210429",
+    "area": "284203",
+    "latitude": 25.4226504,
+    "longitude": 79.3520382,
+    "place_id": "ChIJ3XL0TnH9dzkRmzjMuBLJrbc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3XL0TnH9dzkRmzjMuBLJrbc",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:12:15"
+  }
+]

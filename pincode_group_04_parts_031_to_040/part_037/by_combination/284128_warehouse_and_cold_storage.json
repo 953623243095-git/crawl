@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lozy Warehousing Company",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse, Cold storage facility, Customs warehouse, Luggage storage facility, Records storage facility, RV storage facility, Self-storage facility, Storage facility, Wine storage facility",
+    "pincode": "284128",
+    "phone_number": "+91 93547 12345",
+    "website": "http://lozy.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vardhman Crown Mall, G-41, Sector 19B, Nanda Enclave, Dwarka, Delhi, 110077",
+    "area": "Sector 19B, Nanda Enclave, Dwarka",
+    "latitude": 28.5751028,
+    "longitude": 77.0510513,
+    "place_id": "ChIJobMKtaQbDTkR8PeG34ggIAQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJobMKtaQbDTkR8PeG34ggIAQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:04:48"
+  },
+  {
+    "business_name": "Sengar Colddrink Store",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "284128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "69CG+8CH, Mohanpur Kudari, Uttar Pradesh 285128",
+    "area": "284128",
+    "latitude": 26.2208139,
+    "longitude": 79.37612179999999,
+    "place_id": "ChIJD-ljxI4ndjkR6jgfeeriVi8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD-ljxI4ndjkR6jgfeeriVi8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:04:50"
+  }
+]

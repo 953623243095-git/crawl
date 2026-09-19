@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Balaji dhaba and family restarant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "284303",
+    "phone_number": "+91 99562 14422",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near petrol pump, Bahadur Pur, Samthar, Uttar Pradesh 284304",
+    "area": "284303",
+    "latitude": 25.848054899999998,
+    "longitude": 78.8729841,
+    "place_id": "ChIJ4yx--vCxdzkRdYAu4s-8MdA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4yx--vCxdzkRdYAu4s-8MdA",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:22:38"
+  },
+  {
+    "business_name": "नमन रिसोर्ट & फैमिली रेस्टरो",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "284303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "NH 27, Moth Rural, Uttar Pradesh 284303",
+    "area": "284303",
+    "latitude": 25.7375679,
+    "longitude": 78.9689652,
+    "place_id": "ChIJR9AmoA25dzkR0wrrzX5RTP4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR9AmoA25dzkR0wrrzX5RTP4",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:22:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "myTVS Car Service - SS Enterprises",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto body shop, Car repair and maintenance service, Mechanic, Oil change service, Garage",
+    "pincode": "284419",
+    "phone_number": "+91 92442 06980",
+    "website": "https://mytvs.in/Service",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ss Enterprises, Gwalior - Jhansi Rd, near Nexa Showroom, near BJP Office, Datia, Madhya Pradesh 475661",
+    "area": "284419",
+    "latitude": 25.651628,
+    "longitude": 78.45276299999999,
+    "place_id": "ChIJg7uq9PETdzkRKfngPXqUvsg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg7uq9PETdzkRKfngPXqUvsg",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:40:03"
+  },
+  {
+    "business_name": "Massey Ferguson - Laxminarayan Automobile",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer, Agricultural machinery manufacturer, Farm equipment supplier, Machinery parts manufacturer, Tractor parts store, Tractor repair shop",
+    "pincode": "284419",
+    "phone_number": "+91 80 4492 4246",
+    "website": "https://dealers.masseyfergusonindia.com/tractors-in-datia-datia-madhya-pradesh-475661/home",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Infront of Brajrani Marriage Garden, Unao Rd, Datia, Madhya Pradesh 475661",
+    "area": "284419",
+    "latitude": 25.661216,
+    "longitude": 78.470771,
+    "place_id": "ChIJ32GOo9cTdzkRo8B4oORrYVE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ32GOo9cTdzkRo8B4oORrYVE",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:40:05"
+  }
+]

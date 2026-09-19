@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "284127",
+    "phone_number": "+91 87650 15166",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "nigam, 2/10, Simraha, Jhansi, Uttar Pradesh 284127",
+    "area": "284127",
+    "latitude": 25.444681,
+    "longitude": 78.579392,
+    "place_id": "ChIJL96nHX53dzkRkCllAhCY7TM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL96nHX53dzkRkCllAhCY7TM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:02:52"
+  },
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "284127",
+    "phone_number": "+91 87650 20147",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward No 3, Azad Nagar, Bhatta Gaon, Simraha, Jhansi, Uttar Pradesh 284127",
+    "area": "Azad Nagar, Bhatta Gaon",
+    "latitude": 25.4260919,
+    "longitude": 78.60049889999999,
+    "place_id": "ChIJUxUIkDJ3dzkReQnkTORaJN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUxUIkDJ3dzkReQnkTORaJN0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:02:52"
+  }
+]

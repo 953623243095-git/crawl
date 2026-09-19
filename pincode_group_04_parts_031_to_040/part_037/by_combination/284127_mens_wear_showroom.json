@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nawab Garments",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "284127",
+    "phone_number": "+91 83188 22642",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "00, Bhatta Gaon, Jhansi, Uttar Pradesh 284127",
+    "area": "Bhatta Gaon",
+    "latitude": 25.4201956,
+    "longitude": 78.6000464,
+    "place_id": "ChIJoViYvGV3dzkRjMZbHQbmbbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoViYvGV3dzkRjMZbHQbmbbg",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:01:42"
+  },
+  {
+    "business_name": "Ointegriti",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "284127",
+    "phone_number": "+91 94151 86574",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "416, Sadar Bazar - Jhansi Rd, Sadar Bazar, Cantt, Jhansi, Uttar Pradesh 284001",
+    "area": "Sadar Bazar, Cantt",
+    "latitude": 25.4388409,
+    "longitude": 78.5829151,
+    "place_id": "ChIJXzB8YTt3dzkRPumTmShzH0U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXzB8YTt3dzkRPumTmShzH0U",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:01:42"
+  }
+]

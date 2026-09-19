@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spark lights",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store",
+    "pincode": "284135",
+    "phone_number": "+91 88877 58748",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "near Rama Book Depot Chauraha, Prem Ganj, Sipri Bazar, Jhansi, Uttar Pradesh 284003",
+    "area": "Prem Ganj, Sipri Bazar",
+    "latitude": 25.455445299999997,
+    "longitude": 78.5511635,
+    "place_id": "ChIJ56T8GQ1xdzkRbIew-LYbuDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ56T8GQ1xdzkRbIew-LYbuDA",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:05:47"
+  },
+  {
+    "business_name": "Voltas Brand Shop - SB Electronics, Jhansi",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Air conditioning store, Air conditioning system supplier, Appliance Rental Agency, Appliance store, Electrical appliance wholesaler",
+    "pincode": "284135",
+    "phone_number": "+91 94150 30805",
+    "website": "https://www.voltas.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "57D, Sundar Vihar Colony, near Gehna Showroom, Civil Lines, Jhansi, Uttar Pradesh 284001",
+    "area": "Civil Lines",
+    "latitude": 25.443825,
+    "longitude": 78.565625,
+    "place_id": "ChIJc0GvsyNxdzkRwUwB0G47Goc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc0GvsyNxdzkRwUwB0G47Goc",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:05:48"
+  }
+]

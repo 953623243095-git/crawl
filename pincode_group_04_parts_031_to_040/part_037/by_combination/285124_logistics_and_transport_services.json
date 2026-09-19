@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pawan Carrying Corporation",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "285124",
+    "phone_number": "+91 512 260 8917",
+    "website": "http://pawancarrying.com/",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Transport Nagar, Mai, Uttar Pradesh 285124",
+    "area": "Transport Nagar",
+    "latitude": 26.386573,
+    "longitude": 79.19048,
+    "place_id": "ChIJrcoBZP0XdjkRI3lQESn5qaY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrcoBZP0XdjkRI3lQESn5qaY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:50:47"
+  },
+  {
+    "business_name": "BAREILLY CHANDAUSI TRANSPORT CORPORATION",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "285124",
+    "phone_number": "+91 94562 07024",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "24WJ+PMC, Budaun, Uttar Pradesh 243601",
+    "area": "285124",
+    "latitude": 28.0468141,
+    "longitude": 79.13164619999999,
+    "place_id": "ChIJw0TdTvNFdTkRPvJRuD_becE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw0TdTvNFdTkRPvJRuD_becE",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:50:48"
+  }
+]

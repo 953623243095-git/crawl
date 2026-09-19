@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Siddheshwar Bus Service",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "284304",
+    "phone_number": "+91 72230 00507",
+    "website": "http://sbsbus.in/",
+    "rating": 2.8,
+    "reviews_count": 12,
+    "address": "Highway Flyover, Siddheshwar Bus Service, Gwalior - Jhansi Rd, Datia, Gora, Madhya Pradesh 475685",
+    "area": "284304",
+    "latitude": 25.812628099999998,
+    "longitude": 78.3851547,
+    "place_id": "ChIJhf4tcdUbdzkRjKENLt_6_uA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhf4tcdUbdzkRjKENLt_6_uA",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:24:50"
+  },
+  {
+    "business_name": "Abhay Kalpana Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "284304",
+    "phone_number": "+91 88878 11568",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "01, near Janaks Hotel Elite, Jhansi, Uttar Pradesh 284001",
+    "area": "Prathvipur, Civil Lines",
+    "latitude": 25.4487465,
+    "longitude": 78.5678944,
+    "place_id": "ChIJZcSFyq13dzkRKMPfo1q6q44",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZcSFyq13dzkRKMPfo1q6q44",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:24:51"
+  }
+]

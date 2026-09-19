@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Nursing home and ultrasound center",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "285124",
+    "phone_number": "+91 94572 63300",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Major District Road, 155W, Dhaulana, Uttar Pradesh 245301",
+    "area": "155W",
+    "latitude": 28.630187499999998,
+    "longitude": 77.6486875,
+    "place_id": "ChIJTTNBECaSDDkRn4diPikQ2sU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTTNBECaSDDkRn4diPikQ2sU",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:50:35"
+  },
+  {
+    "business_name": "Public nursing home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "285124",
+    "phone_number": "+91 99278 73310",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "00, Mirganj, Uttar Pradesh 243504",
+    "area": "285124",
+    "latitude": 28.5372451,
+    "longitude": 79.2099344,
+    "place_id": "ChIJxcUwAACjCjkR8_kIkWINFO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxcUwAACjCjkR8_kIkWINFO0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:50:35"
+  }
+]

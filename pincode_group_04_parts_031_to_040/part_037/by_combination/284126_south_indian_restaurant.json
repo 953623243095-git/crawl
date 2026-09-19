@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Siyaram Cafe",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "284126",
+    "phone_number": "+91 93992 78934",
+    "website": "https://siyaramcafe64.myfoodiv.com/",
+    "rating": 4.7,
+    "reviews_count": 226,
+    "address": "behind ramraja temple, near rimjhim dhaba, Orchha, Madhya Pradesh 472246",
+    "area": "284126",
+    "latitude": 25.350043799999998,
+    "longitude": 78.64124869999999,
+    "place_id": "ChIJ6RMytI55dzkRL-4xK5gSGDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6RMytI55dzkRL-4xK5gSGDM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:59:54"
+  },
+  {
+    "business_name": "Ramraja Restaurant & Café",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Cafe, Restaurant",
+    "pincode": "284126",
+    "phone_number": "+91 97130 31031",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 291,
+    "address": "Ramraja Restaurant Orchha Palace Road Near The Bridge under the monkey biscuit tree, Orchha, Madhya Pradesh 472246",
+    "area": "284126",
+    "latitude": 25.3507468,
+    "longitude": 78.64141579999999,
+    "place_id": "ChIJHTduwpF4dzkR-hfqBuVXjqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHTduwpF4dzkR-hfqBuVXjqA",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:59:54"
+  }
+]

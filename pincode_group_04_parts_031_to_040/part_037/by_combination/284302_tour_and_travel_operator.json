@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yadav travel's",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "284302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Krishna nagar, Erach, Uttar Pradesh 284302",
+    "area": "Krishna nagar",
+    "latitude": 25.7873095,
+    "longitude": 79.09148359999999,
+    "place_id": "ChIJ_-MKbmXHdzkRoWNL1UrjSCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_-MKbmXHdzkRoWNL1UrjSCY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:21:20"
+  },
+  {
+    "business_name": "Golu verma",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "284302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "R3WH+WPM, Sesa, Uttar Pradesh 284306",
+    "area": "284302",
+    "latitude": 25.8476,
+    "longitude": 79.07903329999999,
+    "place_id": "ChIJg7iEsWnJdzkRSrGxDIkSMiI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg7iEsWnJdzkRSrGxDIkSMiI",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:21:23"
+  }
+]

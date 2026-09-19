@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kishan Anand Real Estate",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "284126",
+    "phone_number": "+91 74085 86970",
+    "website": "http://kishananandrealestate.in/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Good Luck Tower, Elite Chauraha, Jhansi - Lalitpur Rd, Lalitpur, Kadesra Kalan, Uttar Pradesh 284126",
+    "area": "284126",
+    "latitude": 25.0811396,
+    "longitude": 78.4480042,
+    "place_id": "ChIJI3CfXqe7eTkRyew1ffFoxtk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI3CfXqe7eTkRyew1ffFoxtk",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:01:09"
+  },
+  {
+    "business_name": "M/S. Neekhra Agency",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "284126",
+    "phone_number": "+91 94542 13415",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Talbahat, Uttar Pradesh 284126",
+    "area": "284126",
+    "latitude": 25.0470011,
+    "longitude": 78.4369521,
+    "place_id": "ChIJPfQI5-baeTkRXocpI41ZJ5U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPfQI5-baeTkRXocpI41ZJ5U",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:01:11"
+  }
+]

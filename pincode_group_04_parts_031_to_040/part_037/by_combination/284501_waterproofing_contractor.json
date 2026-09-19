@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Waterproofers",
+    "search_category": "Waterproofing Contractor",
+    "primary_category": "Waterproofing service",
+    "all_categories": "Waterproofing service, Swimming pool repair service",
+    "pincode": "284501",
+    "phone_number": "+91 98733 05008",
+    "website": "http://www.waterproofers.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "First Floor, B-78, Pocket B, Okhla Phase I, Okhla Industrial Estate, New Delhi, Delhi 110020",
+    "area": "Pocket B, Okhla Phase I, Okhla Industrial Estate",
+    "latitude": 28.5317999,
+    "longitude": 77.2819379,
+    "place_id": "ChIJPe4KclLhDDkRny6hXozB0mM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPe4KclLhDDkRny6hXozB0mM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:42:10"
+  },
+  {
+    "business_name": "Bengal Waterproofing Co.",
+    "search_category": "Waterproofing Contractor",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "284501",
+    "phone_number": "+91 98310 76952",
+    "website": "http://bengalwaterproofing.com/",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "1st & 2nd, 17, bal mukund macker, Sankar Ghosh Ln, College Street, Kolkata, West Bengal 700007",
+    "area": "College Street",
+    "latitude": 22.581542799999998,
+    "longitude": 88.36735449999999,
+    "place_id": "ChIJwYuElrR3AjoRggjBBoNkxPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwYuElrR3AjoRggjBBoNkxPY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:42:13"
+  }
+]

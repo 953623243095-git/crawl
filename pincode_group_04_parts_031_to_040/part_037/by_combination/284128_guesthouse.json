@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal cottage@Homestay",
+    "search_category": "Guesthouse",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "284128",
+    "phone_number": "+91 76788 85678",
+    "website": "https://sites.google.com/view/royal-cottage-homestay/home",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9J3M+54M Laxmi Colony, near Power House, Orchha, Madhya Pradesh 472246",
+    "area": "284128",
+    "latitude": 25.35331,
+    "longitude": 78.632328,
+    "place_id": "ChIJocIqYgB5dzkRrtJ9D3ergv8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJocIqYgB5dzkRrtJ9D3ergv8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:04:19"
+  },
+  {
+    "business_name": "Comfort and Cozy Villa",
+    "search_category": "Guesthouse",
+    "primary_category": "Bed & breakfast",
+    "all_categories": "Bed & breakfast",
+    "pincode": "284128",
+    "phone_number": "+91 96855 48077",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Laxmi Colony, near Power House, Orchha, Madhya Pradesh 472246",
+    "area": "284128",
+    "latitude": 25.352981,
+    "longitude": 78.63281429999999,
+    "place_id": "ChIJRSr98w95dzkRAwi_1b5BARQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRSr98w95dzkRAwi_1b5BARQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:04:19"
+  }
+]

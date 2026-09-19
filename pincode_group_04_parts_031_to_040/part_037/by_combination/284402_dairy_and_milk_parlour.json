@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanchi Milk Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "284402",
+    "phone_number": "+91 99188 50717",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tikamgarh Rd, Main Bazar, Mahrauni, Uttar Pradesh 284405",
+    "area": "Main Bazar",
+    "latitude": 24.5850922,
+    "longitude": 78.72838589999999,
+    "place_id": "ChIJKQ1KLnRTeDkRXov3DmJbPjY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKQ1KLnRTeDkRXov3DmJbPjY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:31:10"
+  },
+  {
+    "business_name": "Piku's Farm",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy farm",
+    "all_categories": "Dairy farm",
+    "pincode": "284402",
+    "phone_number": "+91 73101 22133",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 14,
+    "address": "Z1, Infront of Madhurkunj, 271, Hemat Vihar, Kanpur, Uttar Pradesh 208020",
+    "area": "Hemat Vihar, Barra World Bank, Barra",
+    "latitude": 26.4325811,
+    "longitude": 80.3071877,
+    "place_id": "ChIJ_boAVwBHnDkRfLVQ-XCXfb8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_boAVwBHnDkRfLVQ-XCXfb8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:31:11"
+  }
+]

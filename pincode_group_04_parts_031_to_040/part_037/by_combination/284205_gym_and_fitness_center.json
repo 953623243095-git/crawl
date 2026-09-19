@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "(Nikki) महेश ठेकेदार",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "284205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kachaneo, Uttar Pradesh 284205",
+    "area": "284205",
+    "latitude": 25.2653742,
+    "longitude": 78.9727434,
+    "place_id": "ChIJK4jg0WuLdzkRBPpNYVcX4sQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK4jg0WuLdzkRBPpNYVcX4sQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:16:02"
+  },
+  {
+    "business_name": "S.R.CLUB",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "284205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "District-Jhansi, near Bus stop, Katera, Uttar Pradesh 284205",
+    "area": "284205",
+    "latitude": 25.2426823,
+    "longitude": 78.9259506,
+    "place_id": "ChIJ2QYQqFUneDkRUi3h6iU26n0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2QYQqFUneDkRUi3h6iU26n0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:16:04"
+  }
+]

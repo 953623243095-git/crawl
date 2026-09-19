@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Avneesh Saloon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "285124",
+    "phone_number": "+91 70520 35430",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 3, Jalaun, Uttar Pradesh 285124",
+    "area": "285124",
+    "latitude": 26.408799799999997,
+    "longitude": 79.2223379,
+    "place_id": "ChIJ4xbx0VUZdjkROAov-uWkqJU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4xbx0VUZdjkROAov-uWkqJU",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:51:00"
+  },
+  {
+    "business_name": "Avneesh Saloon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "285124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 3, Jalaun, Uttar Pradesh 285124",
+    "area": "285124",
+    "latitude": 26.408799799999997,
+    "longitude": 79.2223379,
+    "place_id": "ChIJr8SVroMZdjkR8AorYq8KvI0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr8SVroMZdjkR8AorYq8KvI0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:51:00"
+  }
+]

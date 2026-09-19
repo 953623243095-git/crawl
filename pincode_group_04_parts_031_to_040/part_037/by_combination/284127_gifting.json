@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A to Z Mart",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop, Cosmetics store, General store, Toy store",
+    "pincode": "284127",
+    "phone_number": "+91 96013 69309",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Front of Punjab National Bank, near Gyansthali Public School, Shivaji Nagar, Jhansi, Uttar Pradesh 284002",
+    "area": "Shivaji Nagar",
+    "latitude": 25.453520299999997,
+    "longitude": 78.6024023,
+    "place_id": "ChIJC0fSp-t3dzkRvsZVFsyRP2k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC0fSp-t3dzkRvsZVFsyRP2k",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:02:32"
+  },
+  {
+    "business_name": "Amit Staionary And Gift Shop",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "284127",
+    "phone_number": "+91 99193 53474",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "00, Sadar Bazar, Manik Chowk, Jhansi, Uttar Pradesh 284001",
+    "area": "Sadar Bazar, Manik Chowk",
+    "latitude": 25.4390221,
+    "longitude": 78.58298289999999,
+    "place_id": "ChIJI9kXItN3dzkR_estDEmsUkY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI9kXItN3dzkR_estDEmsUkY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:02:32"
+  }
+]

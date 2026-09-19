@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nand Book Stall",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "284128",
+    "phone_number": "+91 97114 77524",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 1282,
+    "address": "225/12, New Railway Rd, Sector 12A, Adarsh Nagar, Sector 12, Gurugram, Haryana 122001",
+    "area": "Sector 12A, Adarsh Nagar, Sector 12",
+    "latitude": 28.462605999999997,
+    "longitude": 77.0319067,
+    "place_id": "ChIJOY99lzYYDTkRtFWQ9F-V-Ik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOY99lzYYDTkRtFWQ9F-V-Ik",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:04:28"
+  },
+  {
+    "business_name": "Vivek Stationery",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "284128",
+    "phone_number": "+91 85059 65173",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 10,
+    "address": "936J+CHF, Bhondsi, Maruti Kunj, Haryana 122102",
+    "area": "Bhondsi",
+    "latitude": 28.361051999999997,
+    "longitude": 77.08142289999999,
+    "place_id": "ChIJKzD9-MAjDTkRWMYWHZXuV2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKzD9-MAjDTkRWMYWHZXuV2I",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:04:28"
+  }
+]

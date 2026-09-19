@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Moon Resort Jhansi",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "284127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CJWF+2FX, Jhansi, Uttar Pradesh 284128",
+    "area": "284127",
+    "latitude": 25.4451131,
+    "longitude": 78.623724,
+    "place_id": "ChIJQ9VGTwB3dzkRMrIk_cpPWro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ9VGTwB3dzkRMrIk_cpPWro",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:02:29"
+  },
+  {
+    "business_name": "SHIVOM HOTEL AND RESORT",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "284127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "beside Karguan ji Jain Mandir, Karguan Gaon, Jhansi, Uttar Pradesh 284003",
+    "area": "Karguan Gaon",
+    "latitude": 25.4536779,
+    "longitude": 78.62009189999999,
+    "place_id": "ChIJJXNhw_t3dzkRKdpoyrLdoes",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJXNhw_t3dzkRKdpoyrLdoes",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:02:29"
+  }
+]

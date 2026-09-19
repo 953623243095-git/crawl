@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yash Kirana Store",
+    "search_category": "Organic Food Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "285123",
+    "phone_number": "+91 63885 78096",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near by Jhanda Chauraha, Baithganj, Jalaun, Uttar Pradesh 285123",
+    "area": "Baithganj",
+    "latitude": 26.1440473,
+    "longitude": 79.33472379999999,
+    "place_id": "ChIJtxgFUsApdjkR2TbriGlHR2k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtxgFUsApdjkR2TbriGlHR2k",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:48:21"
+  },
+  {
+    "business_name": "GREEN INDIA ORGANIC AND BIO PLANTATION SOCIETY",
+    "search_category": "Organic Food Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "285123",
+    "phone_number": "+91 94154 59918",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "48PP+W6F, Bus Stand Rd, Dev Nagar Chauraha, Churkhibal, Jalaun, Uttar Pradesh 285123",
+    "area": "Dev Nagar Chauraha, Churkhibal",
+    "latitude": 26.1373143,
+    "longitude": 79.3355624,
+    "place_id": "ChIJO6jIK54pdjkRzNzVsEkC0_U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO6jIK54pdjkRzNzVsEkC0_U",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:48:21"
+  }
+]

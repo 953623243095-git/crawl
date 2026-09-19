@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rakhi Cosmetic & Gift Gallery",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "284401",
+    "phone_number": "+91 97110 62921",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "00, Rajgarh, Bijoli, Jhansi, Uttar Pradesh 284135",
+    "area": "284401",
+    "latitude": 25.392815799999997,
+    "longitude": 78.5556227,
+    "place_id": "ChIJN6V9-bl7dzkRoGZWO4GPQtw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN6V9-bl7dzkRoGZWO4GPQtw",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:30:29"
+  },
+  {
+    "business_name": "Kalpana Gift Shop",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "284401",
+    "phone_number": "+91 96521 64267",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Satish Nagar, Bus Stop, Adarsh Nagar, Rajghat Colony, Jhansi, Uttar Pradesh 284003",
+    "area": "Adarsh Nagar, Rajghat Colony",
+    "latitude": 25.461917999999997,
+    "longitude": 78.53267509999999,
+    "place_id": "ChIJu-wk3etxdzkRznbchZArOsI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu-wk3etxdzkRznbchZArOsI",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:30:29"
+  }
+]

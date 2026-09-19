@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kerry Indev Express (velex Logistics)",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "284135",
+    "phone_number": "N/A",
+    "website": "http://www.kerryindevexpress.com/",
+    "rating": 2.7,
+    "reviews_count": null,
+    "address": "B1,1076 Civic Center, Station Rd, Civil Lines, Jhansi, Uttar Pradesh 284003",
+    "area": "Civil Lines, Railway Officers Colony",
+    "latitude": 25.4350496,
+    "longitude": 78.5542759,
+    "place_id": "ChIJrc3Yb7xxdzkRdqIpCXmRrZg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrc3Yb7xxdzkRdqIpCXmRrZg",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:06:27"
+  },
+  {
+    "business_name": "Quickpick",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Delivery service",
+    "all_categories": "Delivery service, Grocery delivery service, Home help, Home Stay",
+    "pincode": "284135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Hansari, Jhansi, Uttar Pradesh 284135",
+    "area": "Hansari",
+    "latitude": 25.4168698,
+    "longitude": 78.5595405,
+    "place_id": "ChIJz-GuWQBxdzkRjE2120bf5Cw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz-GuWQBxdzkRjE2120bf5Cw",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:06:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Iron Warriors Gym",
+    "search_category": "Yoga Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "284406",
+    "phone_number": "+91 87563 57179",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "02, Pandey Nagar Hardoi Chungi, Munshigunj, Sitapur, Uttar Pradesh 261001",
+    "area": "Munshigunj",
+    "latitude": 27.5748717,
+    "longitude": 80.66341419999999,
+    "place_id": "ChIJ9aKAnmPXnjkR5hdhDt-B0SY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9aKAnmPXnjkR5hdhDt-B0SY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:38:20"
+  },
+  {
+    "business_name": "GOOD SHAPE (Health & Fitness Studio)",
+    "search_category": "Yoga Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center, Gym",
+    "pincode": "284406",
+    "phone_number": "+91 88875 97428",
+    "website": "https://instagram.com/goodshape.hfs?utm_medium=copy_link",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Kheri Rd, near Vikas Bhawan and Style Bazaar, Maharaj Nagar, Lakhimpur, Uttar Pradesh 262701",
+    "area": "Maharaj Nagar",
+    "latitude": 27.9400367,
+    "longitude": 80.78540939999999,
+    "place_id": "ChIJHdA93-s1nzkRe3URzYlGuJ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHdA93-s1nzkRe3URzYlGuJ4",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:38:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wedding dor",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "284401",
+    "phone_number": "+91 63934 15297",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rajgrah, Jhansi, Balaura, Uttar Pradesh 284135",
+    "area": "Rajgrah",
+    "latitude": 25.387183099999998,
+    "longitude": 78.5449051,
+    "place_id": "ChIJPRONBlt7dzkRY4YJxQCFoA4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPRONBlt7dzkRY4YJxQCFoA4",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:30:30"
+  },
+  {
+    "business_name": "MONGNA EVENTS",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "284401",
+    "phone_number": "+91 89622 36430",
+    "website": "https://mongna-events.grexa.site/",
+    "rating": 5,
+    "reviews_count": 40,
+    "address": "Mast baba majar ke pass, Indra Colony, gon baba gali, Civil Line, Tikamgarh, Madhya Pradesh 472001",
+    "area": "Civil Line",
+    "latitude": 24.7515531,
+    "longitude": 78.8300898,
+    "place_id": "ChIJYZZ98llPeDkR2ysgzuFo-qk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYZZ98llPeDkR2ysgzuFo-qk",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:30:30"
+  }
+]

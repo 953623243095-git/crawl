@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Natural Juice Center",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "285123",
+    "phone_number": "+91 98796 25143",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Main Rd, Patlara, Daman, Dadra and Nagar Haveli and Daman and Diu 396220",
+    "area": "Patlara",
+    "latitude": 20.4052276,
+    "longitude": 72.8372644,
+    "place_id": "ChIJeWp0a3LR4DsRItnj_lWayx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeWp0a3LR4DsRItnj_lWayx4",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:48:28"
+  },
+  {
+    "business_name": "Pakeeza Juice Center",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "285123",
+    "phone_number": "+91 94547 12262",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "20, Rana Pratap Marg, Picup Colony, Butler Colony, Lucknow, Uttar Pradesh 226001",
+    "area": "Picup Colony, Butler Colony",
+    "latitude": 26.851312399999998,
+    "longitude": 80.95538739999999,
+    "place_id": "ChIJyZ8mzBH9mzkRk4FBjLQGiK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyZ8mzBH9mzkRk4FBjLQGiK8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:48:28"
+  }
+]

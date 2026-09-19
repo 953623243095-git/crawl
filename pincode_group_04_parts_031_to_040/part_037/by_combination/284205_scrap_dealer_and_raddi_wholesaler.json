@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dashing Motors",
+    "search_category": "Scrap Dealer and Raddi Wholesaler",
+    "primary_category": "Scrap metal dealer",
+    "all_categories": "Scrap metal dealer",
+    "pincode": "284205",
+    "phone_number": "+91 98102 24188",
+    "website": "https://dashing-motors.grexa.site/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ram Mandir, Building No Bs-200, near Shri, Shalimar Bagh, Delhi, 110088",
+    "area": "Block AG, Poorbi Shalimar Bag, Shalimar Bagh",
+    "latitude": 28.702388799999998,
+    "longitude": 77.1641741,
+    "place_id": "ChIJNUjbyAADDTkRT_gxPW7jW1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNUjbyAADDTkRT_gxPW7jW1k",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:16:54"
+  },
+  {
+    "business_name": "CarBasket Vehicle Scraping Platform",
+    "search_category": "Scrap Dealer and Raddi Wholesaler",
+    "primary_category": "Junk dealer",
+    "all_categories": "Junk dealer, Auto parts store, Car dealer, Recycling center, Kabadiwala & Scrap Merchant",
+    "pincode": "284205",
+    "phone_number": "+91 89033 31448",
+    "website": "https://www.carbasket.in/",
+    "rating": 4.9,
+    "reviews_count": 90,
+    "address": "97/2A, Bannerghatta Rd, opp. to D-Mart, Bohra Layout, Gottigere, Bengaluru, Karnataka 560083",
+    "area": "Bohra Layout, Gottigere",
+    "latitude": 12.8538128,
+    "longitude": 77.58873109999999,
+    "place_id": "ChIJkdK6_K_D-6IR0WmrIaWDwLQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkdK6_K_D-6IR0WmrIaWDwLQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:16:54"
+  }
+]

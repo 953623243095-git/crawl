@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Balaji Jewellers",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "284124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "W84P+WHJ, Jakhora, Uttar Pradesh 284124",
+    "area": "284124",
+    "latitude": 24.9073276,
+    "longitude": 78.3363947,
+    "place_id": "ChIJKVxvPpnBeTkRp-6T84qitLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKVxvPpnBeTkRp-6T84qitLs",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:57:58"
+  },
+  {
+    "business_name": "A to z stationery and sports",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "284124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chhota bazar, Jakhora, Uttar Pradesh 284124",
+    "area": "Chhota bazar",
+    "latitude": 24.9009018,
+    "longitude": 78.33301569999999,
+    "place_id": "ChIJ2YoMwKTBeTkRiVaKyw3mLQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2YoMwKTBeTkRiVaKyw3mLQg",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:58:01"
+  }
+]

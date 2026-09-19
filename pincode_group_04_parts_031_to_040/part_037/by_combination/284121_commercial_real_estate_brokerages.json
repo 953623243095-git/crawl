@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rightway Realtors",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Consultant",
+    "pincode": "284121",
+    "phone_number": "+91 99998 40062",
+    "website": "http://www.rightwayrealtors.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "JMD Megapolis, Badshahpur Sohna Rd, Sector 48, Gurugram, Haryana 122018",
+    "area": "Sector 48",
+    "latitude": 28.4198041,
+    "longitude": 77.0385953,
+    "place_id": "ChIJKSERWJoiDTkRgp2ipwt0_Ok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKSERWJoiDTkRgp2ipwt0_Ok",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:52:46"
+  },
+  {
+    "business_name": "Professional Real Estate Pvt. Ltd.",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Property management company",
+    "pincode": "284121",
+    "phone_number": "+91 92897 01700",
+    "website": "http://www.prorealestate.in/",
+    "rating": 4.9,
+    "reviews_count": 10,
+    "address": "DLF Galleria Tower, 1009-1011, Galleria Market, Sector 28, DLF City, Phase - IV, Gurugram, Haryana 122009",
+    "area": "Galleria Market, Sector 28, DLF City, Phase - IV",
+    "latitude": 28.467165899999998,
+    "longitude": 77.0814039,
+    "place_id": "ChIJVVVVVVUWDTkRYDg90MAtJC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVVUWDTkRYDg90MAtJC0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:52:47"
+  }
+]

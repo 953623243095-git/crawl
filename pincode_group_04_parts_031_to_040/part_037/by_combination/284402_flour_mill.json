@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BIR",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "284402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bir, Uttar Pradesh 284402",
+    "area": "284402",
+    "latitude": 24.685764,
+    "longitude": 78.751098,
+    "place_id": "ChIJnyinVgBPeDkRotZHCvK4Oho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnyinVgBPeDkRotZHCvK4Oho",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:31:11"
+  },
+  {
+    "business_name": "OM SOLAR AATA CHAKKI",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "284402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "HPWG+VH5, Banpur Rd, Mahrauni, Uttar Pradesh 284405",
+    "area": "284402",
+    "latitude": 24.5970412,
+    "longitude": 78.7265032,
+    "place_id": "ChIJY57toKxTeDkRtS5XkVFCxkc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY57toKxTeDkRtS5XkVFCxkc",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:31:11"
+  }
+]

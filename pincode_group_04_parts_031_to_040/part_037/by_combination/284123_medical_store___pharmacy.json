@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahi Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "284123",
+    "phone_number": "+91 91613 18777",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5, Bar, Uttar Pradesh 284123",
+    "area": "284123",
+    "latitude": 24.869257299999997,
+    "longitude": 78.58116629999999,
+    "place_id": "ChIJWbwAcJrLeTkRTs-C6iud_kw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWbwAcJrLeTkRTs-C6iud_kw",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:55:06"
+  },
+  {
+    "business_name": "पूँजा मेडीकल स्टोर",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "284123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VH8J+MMV, Bansi - Banpur Rd, Bar, Uttar Pradesh 284123",
+    "area": "284123",
+    "latitude": 24.8667317,
+    "longitude": 78.5816578,
+    "place_id": "ChIJaQOCPRbKeTkR0dZbo2OkhJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaQOCPRbKeTkR0dZbo2OkhJI",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:55:06"
+  }
+]

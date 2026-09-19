@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Protein O' Clock",
+    "search_category": "Organic Food Store",
+    "primary_category": "Sports nutrition store",
+    "all_categories": "Sports nutrition store",
+    "pincode": "284405",
+    "phone_number": "+91 90748 06044",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Eidgah Market, Subhash Puram, Civil Line, Tikamgarh, Madhya Pradesh 472001",
+    "area": "Subhash Puram, Civil Line",
+    "latitude": 24.7511926,
+    "longitude": 78.8332095,
+    "place_id": "ChIJBeLpWZ1PeDkRD-4qdil88eQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBeLpWZ1PeDkRD-4qdil88eQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:36:07"
+  },
+  {
+    "business_name": "Sajnam Dam",
+    "search_category": "Organic Food Store",
+    "primary_category": "Tofu shop",
+    "all_categories": "Tofu shop",
+    "pincode": "284405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "GHGV+443, Sindwaha, Uttar Pradesh 284405",
+    "area": "284405",
+    "latitude": 24.525272599999997,
+    "longitude": 78.5927816,
+    "place_id": "ChIJDXO96LareTkRsc8dtVBAAzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDXO96LareTkRsc8dtVBAAzc",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:36:08"
+  }
+]

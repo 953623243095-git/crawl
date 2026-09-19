@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THE BIKER'S GARAGE",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "284127",
+    "phone_number": "+91 91980 58117",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No, 22, Bic Market, Mohini Baba, Jhansi, Uttar Pradesh 284001",
+    "area": "Mohini Baba",
+    "latitude": 25.4497687,
+    "longitude": 78.5796877,
+    "place_id": "ChIJ17u7ryd3dzkR78dd9GEPnas",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ17u7ryd3dzkR78dd9GEPnas",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:02:00"
+  },
+  {
+    "business_name": "Car Repairing Gurgaon",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Car repair and maintenance service, Honda dealer, Hyundai dealer, Mechanic, Garage, Skoda dealer, Toyota dealer, Volkswagen dealer",
+    "pincode": "284127",
+    "phone_number": "+91 87086 59882",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 6,
+    "address": "Gate 1 Sector 17, Old Delhi Gurgaon Rd, near Atul Katsria Chowk, Gurugram, Haryana 122015",
+    "area": "Om Vihar, Palam Vihar Extension",
+    "latitude": 28.492507699999997,
+    "longitude": 77.0584551,
+    "place_id": "ChIJySNrxAoZDTkRS9EmHQzQFeQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJySNrxAoZDTkRS9EmHQzQFeQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:02:02"
+  }
+]

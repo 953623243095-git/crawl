@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Garg Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "284127",
+    "phone_number": "+91 94555 14264",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "120, sadar bazar jhansi, Jhansi, Uttar Pradesh 284001",
+    "area": "Sadar Bazar, Cantt",
+    "latitude": 25.439446999999998,
+    "longitude": 78.5844649,
+    "place_id": "ChIJKaQgwTx3dzkRjoIVQMdNOxY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKaQgwTx3dzkRjoIVQMdNOxY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:02:11"
+  },
+  {
+    "business_name": "K.D. Traders",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical appliance wholesaler",
+    "all_categories": "Electrical appliance wholesaler, Light bulb supplier",
+    "pincode": "284127",
+    "phone_number": "+91 94505 02977",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 4,
+    "address": "FH5J+C4V, Gusaipura, near to Agarwal Market, Jhansi, Uttar Pradesh 284002",
+    "area": "Manik Chowk",
+    "latitude": 25.4586246,
+    "longitude": 78.58030529999999,
+    "place_id": "ChIJI7EnLdp2dzkRcvQH1vf_168",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI7EnLdp2dzkRcvQH1vf_168",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:02:11"
+  }
+]

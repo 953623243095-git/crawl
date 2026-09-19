@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dencespot Clinic",
+    "search_category": "Hair Transplant Clinic",
+    "primary_category": "Hair transplantation clinic",
+    "all_categories": "Hair transplantation clinic, Dermatologist, Hair removal service, Hair replacement service, Laser hair removal service",
+    "pincode": "284201",
+    "phone_number": "+91 81783 30800",
+    "website": "https://dencespot.com/",
+    "rating": 4.9,
+    "reviews_count": 120,
+    "address": "Plot no -1123P, Janak Puri C Block, Jharsa, Sector 39, Gurugram, Haryana 122003",
+    "area": "Janak Puri C Block, Jharsa, Sector 39",
+    "latitude": 28.4396807,
+    "longitude": 77.0438613,
+    "place_id": "ChIJkVT09uTlDDkR5nRqIWUxxJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkVT09uTlDDkR5nRqIWUxxJ0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:09:33"
+  },
+  {
+    "business_name": "KHT Clinic Gurgaon",
+    "search_category": "Hair Transplant Clinic",
+    "primary_category": "Hair transplantation clinic",
+    "all_categories": "Hair transplantation clinic, Cosmetic surgeon, Electrolysis hair removal service, Laser hair removal service, Sexologist",
+    "pincode": "284201",
+    "phone_number": "+91 98994 46407",
+    "website": "http://khtclinic.com/",
+    "rating": 4.9,
+    "reviews_count": 60,
+    "address": "Sri Govind hospital, Pataudi chock, Madanpuri Rd, Gurugram, Haryana 122004",
+    "area": "Manohar Nagar, Sector 11",
+    "latitude": 28.4579806,
+    "longitude": 77.0163997,
+    "place_id": "ChIJ02tQSdY9DTkRJaDyNTl-26g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ02tQSdY9DTkRJaDyNTl-26g",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:09:33"
+  }
+]

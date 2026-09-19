@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "National Tools Stores",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Store, Tool store",
+    "pincode": "284203",
+    "phone_number": "+91 98892 57912",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No.10 Kasturi Trade center Near Old Bus Stand, J, Jhansi, Uttar Pradesh 284001",
+    "area": "Chhaniya Pura, Khushipura",
+    "latitude": 25.454549999999998,
+    "longitude": 78.57791929999999,
+    "place_id": "ChIJp_6bLth2dzkRFVICF2IsPlE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp_6bLth2dzkRFVICF2IsPlE",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:13:32"
+  },
+  {
+    "business_name": "Ajay Hardware Industries Pvt. Ltd.",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Manufacturer",
+    "pincode": "284203",
+    "phone_number": "+91 98110 08148",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 12,
+    "address": "Khandsa Rd, Block B, Sector 37, Gurugram, Haryana 122004",
+    "area": "Block B, Sector 37",
+    "latitude": 28.4361176,
+    "longitude": 77.0043561,
+    "place_id": "ChIJsZM2V_EXDTkRa00lvR0Z1DI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsZM2V_EXDTkRa00lvR0Z1DI",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:13:33"
+  }
+]

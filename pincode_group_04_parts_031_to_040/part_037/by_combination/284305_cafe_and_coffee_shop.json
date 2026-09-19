@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nandkishor Shop",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "284305",
+    "phone_number": "+91 81154 25238",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pahadi Bujurg, Chirgaon, Uttar Pradesh 284301",
+    "area": "284305",
+    "latitude": 25.552774,
+    "longitude": 78.7983206,
+    "place_id": "ChIJow98RB2ZdzkRo0mhGcrZm7A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJow98RB2ZdzkRo0mhGcrZm7A",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:26:08"
+  },
+  {
+    "business_name": "Indian Coffee House",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, South Indian restaurant",
+    "pincode": "284305",
+    "phone_number": "+91 487 233 5275",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "A148, Gudagudi Ka Naka Rd, Ektapuri Colony, Kirar Colony, Lashkar, Gwalior, Madhya Pradesh 474001",
+    "area": "Ektapuri Colony, Kirar Colony, Lashkar",
+    "latitude": 26.1828261,
+    "longitude": 78.151285,
+    "place_id": "ChIJoTVbYf_FdjkR4ppzlNluEMQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoTVbYf_FdjkR4ppzlNluEMQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:26:08"
+  }
+]

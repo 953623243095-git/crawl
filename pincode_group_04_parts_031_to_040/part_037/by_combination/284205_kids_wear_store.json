@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TRADERS KRISHNA",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "284205",
+    "phone_number": "+91 82998 63318",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "01, Khishni Khurd, Uttar Pradesh 284205",
+    "area": "284205",
+    "latitude": 25.2710419,
+    "longitude": 78.82428999999999,
+    "place_id": "ChIJtUTbxPWHdzkR9E2WbMMcIMw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtUTbxPWHdzkR9E2WbMMcIMw",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:15:46"
+  },
+  {
+    "business_name": "SURAJ Garment Bangra",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "284205",
+    "phone_number": "+91 88403 21517",
+    "website": "N/A",
+    "rating": 2.4,
+    "reviews_count": 11,
+    "address": "Bangra, Sewara, Uttar Pradesh 284205",
+    "area": "Bangra",
+    "latitude": 25.3125698,
+    "longitude": 79.0038756,
+    "place_id": "ChIJcyBgnzuLdzkRUhosxMvGABw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcyBgnzuLdzkRUhosxMvGABw",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:15:47"
+  }
+]

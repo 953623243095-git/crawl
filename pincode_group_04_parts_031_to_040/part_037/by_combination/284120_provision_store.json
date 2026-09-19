@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "284120",
+    "phone_number": "+91 70072 21305",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Aramashine, Jhansi Rd, F-1 P-29, Tilak Nagar, Uttar Pradesh 284120",
+    "area": "284120",
+    "latitude": 25.3113346,
+    "longitude": 78.5220442,
+    "place_id": "ChIJVUY-7vh7dzkRxzqioRG23Ww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVUY-7vh7dzkRxzqioRG23Ww",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:49:27"
+  },
+  {
+    "business_name": "SATENDRA PROVISION STORE",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "284120",
+    "phone_number": "+91 91964 37763",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Prem Nagar, Pratap Pura Nagra, Nagra, Jhansi, Uttar Pradesh 284003",
+    "area": "Prem Nagar, Pratap Pura Nagra, Nagra",
+    "latitude": 25.4262844,
+    "longitude": 78.54116119999999,
+    "place_id": "ChIJ_cbcBJxxdzkRN9TqL_IiyrM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_cbcBJxxdzkRN9TqL_IiyrM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:49:28"
+  }
+]

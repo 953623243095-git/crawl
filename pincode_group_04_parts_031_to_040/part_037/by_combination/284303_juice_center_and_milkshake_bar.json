@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zust Juice",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Beverages",
+    "pincode": "284303",
+    "phone_number": "+91 120 454 7468",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "10/33, Shivaji Marg, Block 10, Sector 10, Raj Nagar, Ghaziabad, Uttar Pradesh 201002",
+    "area": "Block 10, Sector 10, Raj Nagar",
+    "latitude": 28.682312999999997,
+    "longitude": 77.4465357,
+    "place_id": "ChIJObxMfaLxDDkR0dQwpIVtukY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJObxMfaLxDDkR0dQwpIVtukY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:22:34"
+  },
+  {
+    "business_name": "Meerut Juice Corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "284303",
+    "phone_number": "+91 98974 51577",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "12, Old, Hapur Cir, Gandhi Nagar, Meerut, Uttar Pradesh 250002",
+    "area": "Gandhi Nagar",
+    "latitude": 28.973116899999997,
+    "longitude": 77.71314919999999,
+    "place_id": "ChIJDTGcM5llDDkRhSsg_R817LY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDTGcM5llDDkRhSsg_R817LY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:22:34"
+  }
+]

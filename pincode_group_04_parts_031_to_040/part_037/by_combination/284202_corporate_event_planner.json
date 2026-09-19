@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eventalist and Decor Pvt.Ltd.",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Event management company, Party planner, Wedding planner",
+    "pincode": "284202",
+    "phone_number": "+91 82873 72992",
+    "website": "https://www.eventalistanddecor.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "8th floor, Tower-B4, Spaze I-Tech Park, Unit no.801-802, Sector 49, Gurugram, Haryana 122018",
+    "area": "Sector 49",
+    "latitude": 28.4125098,
+    "longitude": 77.0439802,
+    "place_id": "ChIJAaLC29MjDTkRZI8HRitv-RY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAaLC29MjDTkRZI8HRitv-RY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:11:28"
+  },
+  {
+    "business_name": "Apna decoration",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "284202",
+    "phone_number": "+91 99359 46188",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "k samne, Royal marriage garden, road, Shahjahanpur, Kumhrar, Moth Rural, Uttar Pradesh 284303",
+    "area": "Shahjahanpur",
+    "latitude": 25.7208236,
+    "longitude": 78.9477043,
+    "place_id": "ChIJMXfql3y5dzkRJrGJVBynODw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMXfql3y5dzkRJrGJVBynODw",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:11:29"
+  }
+]

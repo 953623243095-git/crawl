@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Madhuvan Resort and restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Asian restaurant",
+    "all_categories": "Asian restaurant",
+    "pincode": "284120",
+    "phone_number": "+91 88109 89858",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 131,
+    "address": "NH 44, Jhansi - Lalitpur Rd, opposite to Babina Toll Plaza, Babina, Uttar Pradesh 284401",
+    "area": "284120",
+    "latitude": 25.2143005,
+    "longitude": 78.4633872,
+    "place_id": "ChIJf5jsOgBjdzkR7wdt1UZ_2w0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf5jsOgBjdzkR7wdt1UZ_2w0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:49:37"
+  },
+  {
+    "business_name": "Yadgar anna masala dosa",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "284120",
+    "phone_number": "+91 99101 29323",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "Orchha, Madhya Pradesh 472246",
+    "area": "284120",
+    "latitude": 25.3440288,
+    "longitude": 78.638521,
+    "place_id": "ChIJhYsmkQN5dzkRtvRa7n3FfbE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhYsmkQN5dzkRtvRa7n3FfbE",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:49:38"
+  }
+]

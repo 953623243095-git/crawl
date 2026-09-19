@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ultimo Travellers",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Event management company, Tour agency, Tour operator",
+    "pincode": "284128",
+    "phone_number": "+91 79853 07612",
+    "website": "http://www.ultimotravelers.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "CP palace, Shivaji Nagar, Jhansi, Uttar Pradesh 284001",
+    "area": "Shivaji Nagar",
+    "latitude": 25.450644999999998,
+    "longitude": 78.595607,
+    "place_id": "ChIJBUKez8LjDDkRbjZpQtVPfmQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBUKez8LjDDkRbjZpQtVPfmQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:03:54"
+  },
+  {
+    "business_name": "Parul travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator",
+    "pincode": "284128",
+    "phone_number": "+91 92842 70171",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 34,
+    "address": "A 14, Awas Vikas, tiraha, Jhansi, Uttar Pradesh 284135",
+    "area": "Awas Vikas, tiraha",
+    "latitude": 25.4221976,
+    "longitude": 78.57006419999999,
+    "place_id": "ChIJj2kCsFx3dzkRC2bmvwYEsfY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj2kCsFx3dzkRC2bmvwYEsfY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:03:55"
+  }
+]

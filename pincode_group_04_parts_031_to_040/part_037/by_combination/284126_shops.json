@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pradeep Store",
+    "search_category": "Shops",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "284126",
+    "phone_number": "+91 73079 77850",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Shop No. 11, HP Patrol Pump Ke Pass, Bus Stand, Tikamgarh Talbehat Road, Tikamgarh, Khandi, Madhya Pradesh 284126",
+    "area": "284126",
+    "latitude": 25.048665699999997,
+    "longitude": 78.4356049,
+    "place_id": "ChIJ24iN9KrbeTkRc_1In7biSIk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ24iN9KrbeTkRc_1In7biSIk",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:01:27"
+  },
+  {
+    "business_name": "Chotu Mistri Service Center",
+    "search_category": "Shops",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "284126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "3C4Q+86X, Jhansi - Lalitpur Rd, Talbehat, Khandi, Uttar Pradesh 284126",
+    "area": "284126",
+    "latitude": 25.0558563,
+    "longitude": 78.438105,
+    "place_id": "ChIJpf9rYQDbeTkRM2ypyDeESgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpf9rYQDbeTkRM2ypyDeESgw",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:01:28"
+  }
+]

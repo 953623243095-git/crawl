@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Associates",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Commercial real estate agency, Industrial real estate agency, Property investment company, Real estate consultant",
+    "pincode": "284201",
+    "phone_number": "+91 80 6507 4310",
+    "website": "http://shreeassociatesgurgaon.in/",
+    "rating": 4.9,
+    "reviews_count": 120,
+    "address": "32c, Homes Ave Rd, Sector 83, Gurugram, Haryana 122004",
+    "area": "Sector 83",
+    "latitude": 28.3940912,
+    "longitude": 76.9696512,
+    "place_id": "ChIJTX683Lo9DTkRcpIPh63XfTQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTX683Lo9DTkRcpIPh63XfTQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:10:04"
+  },
+  {
+    "business_name": "16 REALTY",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "284201",
+    "phone_number": "+91 80531 07940",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 330,
+    "address": "VATIKA INDIA NEXT, Sector 82, Gurugram, Haryana 122012",
+    "area": "Sector 82",
+    "latitude": 28.3912676,
+    "longitude": 76.962133,
+    "place_id": "ChIJBRDqfQA9DTkRHoEuljEYdds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBRDqfQA9DTkRHoEuljEYdds",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:10:04"
+  }
+]

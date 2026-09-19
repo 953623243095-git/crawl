@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "48PP+X2W Jalaun, Uttar Pradesh",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Shipping and mailing service",
+    "all_categories": "Shipping and mailing service",
+    "pincode": "285123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "48PM+XW5, Mohalla Rawtan, Jalaun, Uttar Pradesh 285123",
+    "area": "Mohalla Rawtan",
+    "latitude": 26.1374353,
+    "longitude": 79.3349844,
+    "place_id": "ChIJB3P7RAApdjkRHufrSiYmXZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB3P7RAApdjkRHufrSiYmXZU",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:49:44"
+  },
+  {
+    "business_name": "DTDC courier Jalaun",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "285123",
+    "phone_number": "+91 99567 03011",
+    "website": "http://dtdc.in/",
+    "rating": 3.8,
+    "reviews_count": 19,
+    "address": "in front of tahshel, Sengar Colony, Jalaun, Uttar Pradesh 285123",
+    "area": "Sengar Colony",
+    "latitude": 26.1458649,
+    "longitude": 79.3296565,
+    "place_id": "ChIJY1VVVQkpdjkRsCODtI9hvdo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY1VVVQkpdjkRsCODtI9hvdo",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:49:45"
+  }
+]

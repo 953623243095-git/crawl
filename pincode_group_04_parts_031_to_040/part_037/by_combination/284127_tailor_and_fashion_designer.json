@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sher Shop",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "284127",
+    "phone_number": "+91 96957 02750",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sher Khan Tailor, Bhatta Gaon, Jhansi, Uttar Pradesh 284127",
+    "area": "Bhatta Gaon",
+    "latitude": 25.426529799999997,
+    "longitude": 78.5986514,
+    "place_id": "ChIJ6_ucgmt3dzkRb-TPZgyfOjQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6_ucgmt3dzkRb-TPZgyfOjQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:01:43"
+  },
+  {
+    "business_name": "SUNITA BOUTIQUE AND FASHION DESIGNER",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "284127",
+    "phone_number": "+91 79822 01901",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Samaspur Main Rd, Samaspur Village, Sector 51, Gurugram, Samaspur, Haryana 122018",
+    "area": "Samaspur Village, Sector 51",
+    "latitude": 28.428802599999997,
+    "longitude": 77.0640026,
+    "place_id": "ChIJ9RKQd4EZDTkRxwGcUVIowNQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9RKQd4EZDTkRxwGcUVIowNQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:01:45"
+  }
+]

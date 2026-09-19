@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dattatray Consultancy",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "285124",
+    "phone_number": "+91 77993 05958",
+    "website": "http://www.dattatrayconsultancy.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Oyster Complex, Greenlands Road Somajiguda, Begumpet, Hyderabad, Telangana 500016",
+    "area": "Nishat Bagh Colony, Begumpet",
+    "latitude": 17.430217,
+    "longitude": 78.45623739999999,
+    "place_id": "ChIJF__MD0mbyzsReC6HPXHgMBE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF__MD0mbyzsReC6HPXHgMBE",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:51:14"
+  },
+  {
+    "business_name": "HospitalityInterns.com",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter",
+    "pincode": "285124",
+    "phone_number": "+91 89784 69444",
+    "website": "http://www.hospitalityinterns.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2-2-1118/1, 8/m, Shivam Rd, beside IQ chess academy, beside Aira Diagonostics, Prashanti Nagar, New Nallakunta, Hyderabad, Telangana 500044",
+    "area": "Prashanti Nagar, New Nallakunta",
+    "latitude": 17.397439,
+    "longitude": 78.51185199999999,
+    "place_id": "ChIJBZ2-SwSZyzsRhmDoEJ9KDg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBZ2-SwSZyzsRhmDoEJ9KDg8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:51:14"
+  }
+]

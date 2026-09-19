@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanju baba",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "284306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W4R3+6G4, Mangra, Konch, Magra, Uttar Pradesh 285205",
+    "area": "284306",
+    "latitude": 25.9413174,
+    "longitude": 79.103903,
+    "place_id": "ChIJebq5kXHLdzkRsMrXJ4OwmFM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJebq5kXHLdzkRsMrXJ4OwmFM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:28:02"
+  },
+  {
+    "business_name": "Singh Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "284306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shakti Nagar, Chandausi, Maulagarh, Uttar Pradesh 244412",
+    "area": "Shakti Nagar",
+    "latitude": 28.4602047,
+    "longitude": 78.7734699,
+    "place_id": "ChIJA2LL_r7bCjkRAmA9gFwlkao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA2LL_r7bCjkRAmA9gFwlkao",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:28:02"
+  }
+]

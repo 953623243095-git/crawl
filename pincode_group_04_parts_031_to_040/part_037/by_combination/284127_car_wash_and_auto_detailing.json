@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khoohoo Car Wash and Spa",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "284127",
+    "phone_number": "+91 93356 97963",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kanpur Road, Shivaji Nagar, Jhansi, Uttar Pradesh 284001",
+    "area": "Shivaji Nagar",
+    "latitude": 25.45179,
+    "longitude": 78.6023223,
+    "place_id": "ChIJKSzgNEl3dzkRbahNh6r5yF0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKSzgNEl3dzkRbahNh6r5yF0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:02:02"
+  },
+  {
+    "business_name": "Ashok car washing centre",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "284127",
+    "phone_number": "+91 95592 13988",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near nand palace, Shivaji Nagar, Jhansi, Uttar Pradesh 284002",
+    "area": "Shivaji Nagar",
+    "latitude": 25.4558786,
+    "longitude": 78.5961351,
+    "place_id": "ChIJ62o49jd3dzkRIFZqFdbtWgo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ62o49jd3dzkRIFZqFdbtWgo",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:02:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Monarch Dresses",
+    "search_category": "Shops",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store, Dress store",
+    "pincode": "284002",
+    "phone_number": "+91 70075 32976",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop No. 715, In Side Khanderao Gate, Panchkuiyan, Indrapuri, Jhansi, Uttar Pradesh 284002",
+    "area": "Panchkuiyan, Indrapuri",
+    "latitude": 25.459891499999998,
+    "longitude": 78.5742212,
+    "place_id": "ChIJFdx_BNF2dzkR-oESIqLeG9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFdx_BNF2dzkR-oESIqLeG9M",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:47:34"
+  },
+  {
+    "business_name": "Mangal Glass And Crockery House",
+    "search_category": "Shops",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Cutlery store, Kitchen supply store",
+    "pincode": "284002",
+    "phone_number": "+91 82993 77169",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 34,
+    "address": "Sarafa Bazar, besides Chote Lal Sarees, Manik Chowk, Jhansi, Uttar Pradesh 284002",
+    "area": "Manik Chowk",
+    "latitude": 25.461917699999997,
+    "longitude": 78.5797838,
+    "place_id": "ChIJ8etL7tp2dzkRrYnQyd_BgNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8etL7tp2dzkRrYnQyd_BgNc",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:47:35"
+  }
+]

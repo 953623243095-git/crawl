@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alam super Bakery Auraiya",
+    "search_category": "Patisserie",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "285125",
+    "phone_number": "+91 82679 11178",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "63, Kanpur Nagar, Satteshwar, Tilak Nagar, Kanpur, Auraiya, Uttar Pradesh 206122",
+    "area": "Satteshwar, Tilak Nagar",
+    "latitude": 26.458815599999998,
+    "longitude": 79.50275859999999,
+    "place_id": "ChIJuV-qOG3znTkRYe8lmXM_GwY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuV-qOG3znTkRYe8lmXM_GwY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:51:58"
+  },
+  {
+    "business_name": "Aryan Bhai Pani Puri Center",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "285125",
+    "phone_number": "+91 91125 10588",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mihauna, Uttar Pradesh 285125",
+    "area": "285125",
+    "latitude": 26.3892898,
+    "longitude": 79.408317,
+    "place_id": "ChIJ9yX3paCLnTkRvvGP1a-QTGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9yX3paCLnTkRvvGP1a-QTGg",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:52:01"
+  }
+]

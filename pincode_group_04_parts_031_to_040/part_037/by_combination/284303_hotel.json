@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prem Sadan",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "284303",
+    "phone_number": "+91 89239 93445",
+    "website": "http://premsadan.in/",
+    "rating": 4.9,
+    "reviews_count": 31,
+    "address": "Tehsil Bhander, Sarkar Dham, near Shri Hanuman Panchyodhya Akhara, Shri, Pandokhar, Madhya Pradesh 475335",
+    "area": "Shri",
+    "latitude": 25.8880078,
+    "longitude": 78.7938836,
+    "place_id": "ChIJCTWYcACvdzkRewL91nUUBcQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCTWYcACvdzkRewL91nUUBcQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:23:28"
+  },
+  {
+    "business_name": "Hotel Guru Prasad",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "284303",
+    "phone_number": "+91 80502 25474",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 64,
+    "address": "Tarun Yadav City, Pandokhar, Madhya Pradesh 475336",
+    "area": "284303",
+    "latitude": 25.8832736,
+    "longitude": 78.7914928,
+    "place_id": "ChIJhd-Fsl6vdzkRh_9qstaJ3eM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhd-Fsl6vdzkRh_9qstaJ3eM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:23:28"
+  }
+]

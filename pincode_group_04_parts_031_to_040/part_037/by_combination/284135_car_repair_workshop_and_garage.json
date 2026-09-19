@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A to Z Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Chauffeur service",
+    "all_categories": "Chauffeur service",
+    "pincode": "284135",
+    "phone_number": "+91 91255 04421",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 7,
+    "address": "power house, Hasari, Hansari, Jhansi, Uttar Pradesh 284135",
+    "area": "Hasari, Hansari",
+    "latitude": 25.4080908,
+    "longitude": 78.56283239999999,
+    "place_id": "ChIJLcXxo6twdzkRDAewjNF3g9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLcXxo6twdzkRDAewjNF3g9w",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:05:37"
+  },
+  {
+    "business_name": "AK Auto Repairing Center",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Two Wheeler Repair Shop",
+    "pincode": "284135",
+    "phone_number": "+91 63922 36819",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Shop No, 00, Main Road, Hasari, Hansari, Jhansi, Uttar Pradesh 284135",
+    "area": "Hasari, Hansari",
+    "latitude": 25.4107293,
+    "longitude": 78.5641235,
+    "place_id": "ChIJI433gaxwdzkRSuDhqiXO9jM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI433gaxwdzkRSuDhqiXO9jM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:05:37"
+  }
+]

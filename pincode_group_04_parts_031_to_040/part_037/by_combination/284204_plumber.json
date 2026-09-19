@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Karan Electrical Solutions",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Home builder",
+    "pincode": "284204",
+    "phone_number": "+91 76781 50330",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "64PG+H3, Mauranipur, Roni, Uttar Pradesh 284204",
+    "area": "284204",
+    "latitude": 25.236437499999997,
+    "longitude": 79.1251875,
+    "place_id": "ChIJZQ_PkiMdeDkRHIdMcOkVrks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZQ_PkiMdeDkRHIdMcOkVrks",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:14:34"
+  },
+  {
+    "business_name": "Lalita bhavan",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "284204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ice factory bhagvatipurm, Gursarai Rd, Mauranipur, Mau Rural, Uttar Pradesh 284204",
+    "area": "284204",
+    "latitude": 25.2674648,
+    "longitude": 79.13483289999999,
+    "place_id": "ChIJHxTnQgD3dzkRAgSpxM6Jgdo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHxTnQgD3dzkRAgSpxM6Jgdo",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:14:34"
+  }
+]

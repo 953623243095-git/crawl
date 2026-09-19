@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji bouncer group",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security service",
+    "all_categories": "Security service",
+    "pincode": "284135",
+    "phone_number": "+91 62608 65629",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Shivpuri - Nagra Rd, Masiha Ganj, Sipri Bazar, Jhansi, Uttar Pradesh 284003",
+    "area": "Masiha Ganj, Sipri Bazar",
+    "latitude": 25.454151,
+    "longitude": 78.5445958,
+    "place_id": "ChIJqQP1M9NxdzkRNK2OedZwsE0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqQP1M9NxdzkRNK2OedZwsE0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:06:29"
+  },
+  {
+    "business_name": "Krishna Security Agency",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "284135",
+    "phone_number": "+91 94501 13420",
+    "website": "http://www.krishnaasecurityservice.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "498/B, Shivaji Nagar, Jhansi, Uttar Pradesh 284001",
+    "area": "Shivaji Nagar",
+    "latitude": 25.455926899999998,
+    "longitude": 78.5916566,
+    "place_id": "ChIJAQAAAOF2dzkRs-YfDCHGu0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAOF2dzkRs-YfDCHGu0g",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:06:29"
+  }
+]

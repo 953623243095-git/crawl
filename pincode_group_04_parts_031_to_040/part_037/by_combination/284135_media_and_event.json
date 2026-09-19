@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yes it's Friday",
+    "search_category": "Media and Event",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "284135",
+    "phone_number": "+91 99569 31099",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 148,
+    "address": "ATAL CHAOK, Gwalior Rd, in front of Ansal Colony, Ansal Colony, Jhansi, Uttar Pradesh 284003",
+    "area": "Ansal Colony",
+    "latitude": 25.4804942,
+    "longitude": 78.5617753,
+    "place_id": "ChIJmVepSQBxdzkReyT87p_mtcU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmVepSQBxdzkReyT87p_mtcU",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:06:09"
+  },
+  {
+    "business_name": "events_by_ankit",
+    "search_category": "Media and Event",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "284135",
+    "phone_number": "+91 63939 15613",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Outside, Bara Gaon Gate, bahar ka pura, Jhansi, Uttar Pradesh 284002",
+    "area": "bahar ka pura, Master Colony",
+    "latitude": 25.466426799999997,
+    "longitude": 78.58627,
+    "place_id": "ChIJT6itHsl3dzkRFWS7ZM0JhLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT6itHsl3dzkRFWS7ZM0JhLs",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:06:10"
+  }
+]

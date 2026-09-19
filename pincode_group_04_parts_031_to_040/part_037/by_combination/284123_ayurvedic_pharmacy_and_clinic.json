@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thakur Medicals",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store",
+    "pincode": "284123",
+    "phone_number": "+91 96343 10906",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Ranipur More, city hospital, Model Colony, Haridwar, Jwalapur, Uttarakhand 249407",
+    "area": "Model Colony",
+    "latitude": 29.9335834,
+    "longitude": 78.1340859,
+    "place_id": "ChIJg1FerFpHCTkRXRfFZHCkomU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg1FerFpHCTkRXRfFZHCkomU",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:55:09"
+  },
+  {
+    "business_name": "OjasVeda",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Herbal medicine store",
+    "all_categories": "Herbal medicine store",
+    "pincode": "284123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mihir bhoj murti, Road, near Balawali, Laksar, Uttarakhand 247663",
+    "area": "284123",
+    "latitude": 29.7462579,
+    "longitude": 78.0198076,
+    "place_id": "ChIJP6iOGDtRCTkRrUu3oedTRU8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP6iOGDtRCTkRrUu3oedTRU8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:55:09"
+  }
+]

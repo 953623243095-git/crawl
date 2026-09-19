@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Competition Book House",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Books Wholesaler, Children's Book Store, Law Book Store",
+    "pincode": "285124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Civil Lines, Bareilly, Uttar Pradesh 243001",
+    "area": "Civil Lines",
+    "latitude": 28.356581199999997,
+    "longitude": 79.4211531,
+    "place_id": "ChIJJ6SydCsHoDkRMVf-o1PM-FY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ6SydCsHoDkRMVf-o1PM-FY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:51:20"
+  },
+  {
+    "business_name": "Neelam Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "285124",
+    "phone_number": "+91 99273 05987",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Main Bazar Rd, Kashipur, Uttarakhand 244713",
+    "area": "285124",
+    "latitude": 29.2135479,
+    "longitude": 78.95622379999999,
+    "place_id": "ChIJwz0BR79DCjkRUaj18VZyXbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwz0BR79DCjkRUaj18VZyXbY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:51:21"
+  }
+]

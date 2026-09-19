@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Clef Cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "284302",
+    "phone_number": "+91 99563 56824",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "FG4X+GG7, Azad Ganj, Sipri Bazar, Jhansi, Uttar Pradesh 284003",
+    "area": "Azad Ganj, Sipri Bazar",
+    "latitude": 25.4562866,
+    "longitude": 78.5487959,
+    "place_id": "ChIJE_Owe2lxdzkRIldjeHs-Vnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE_Owe2lxdzkRIldjeHs-Vnc",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:20:50"
+  },
+  {
+    "business_name": "Chai adda Jhansi",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "284302",
+    "phone_number": "N/A",
+    "website": "https://instagram.com/the_chai_adda_jhansi?utm_medium=copy_link",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "FG4M+R9P, Rajghat Colony, Jhansi, Uttar Pradesh 284003",
+    "area": "Rajghat Colony",
+    "latitude": 25.4569327,
+    "longitude": 78.5332268,
+    "place_id": "ChIJE4xrYC5xdzkR6Idz73bihIo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE4xrYC5xdzkR6Idz73bihIo",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:20:52"
+  }
+]

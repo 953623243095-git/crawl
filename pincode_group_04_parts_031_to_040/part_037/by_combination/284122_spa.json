@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Gold Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "284122",
+    "phone_number": "+91 92358 74715",
+    "website": "https://thegoldspa.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Dam Rd, Azadpura, Lalitpur, Uttar Pradesh 284403",
+    "area": "Azadpura",
+    "latitude": 24.684625399999998,
+    "longitude": 78.4104361,
+    "place_id": "ChIJgd99YEW7eTkRnqJBkQK05nc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgd99YEW7eTkRnqJBkQK05nc",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:53:56"
+  },
+  {
+    "business_name": "Niramaya Spa",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa, Foot massage parlor, Spa, Thai massage therapist",
+    "pincode": "284122",
+    "phone_number": "+91 88406 64867",
+    "website": "N/A",
+    "rating": 1.8,
+    "reviews_count": null,
+    "address": "Appu Tower Hardeela, Elite chauraha, Rajghat Rd, Civil Lines, Lalitpur, Uttar Pradesh 284403",
+    "area": "Civil Lines",
+    "latitude": 24.7009834,
+    "longitude": 78.4196013,
+    "place_id": "ChIJ1UkP_H-7eTkRXKuUiP2qdak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1UkP_H-7eTkRXKuUiP2qdak",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:53:56"
+  }
+]

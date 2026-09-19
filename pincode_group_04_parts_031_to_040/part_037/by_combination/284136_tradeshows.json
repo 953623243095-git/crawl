@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Haryana Traders",
+    "search_category": "Tradeshows",
+    "primary_category": "Industrial equipment supplier",
+    "all_categories": "Industrial equipment supplier, Service establishment, Store",
+    "pincode": "284136",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Haryana Traders, 284136, India",
+    "area": "284136",
+    "latitude": 28.370205499999997,
+    "longitude": 76.9460778,
+    "place_id": "ChIJTwGgV-E4DTkRNOYAGGigNEI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTwGgV-E4DTkRNOYAGGigNEI",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:08:30"
+  },
+  {
+    "business_name": "India Trade Expo",
+    "search_category": "Tradeshows",
+    "primary_category": "Exhibition and trade center",
+    "all_categories": "Exhibition and trade center",
+    "pincode": "284136",
+    "phone_number": "+91 88269 19882",
+    "website": "https://www.indiatradeexpo.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "House 1631, F6XH+32H block L1ST, 5/284, Block L 2, Devli, Sangam Vihar, New Delhi, Delhi 110080",
+    "area": "Block L 2, Devli, Sangam Vihar",
+    "latitude": 28.497690799999997,
+    "longitude": 77.22763789999999,
+    "place_id": "ChIJl4ke8fHhDDkR_ZnRH7hyVs0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl4ke8fHhDDkR_ZnRH7hyVs0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:08:30"
+  }
+]

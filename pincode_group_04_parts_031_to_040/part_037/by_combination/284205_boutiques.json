@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saroj Tailor",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "284205",
+    "phone_number": "+91 98017 81516",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bangara Dhawa, Sewara, Uttar Pradesh 284205",
+    "area": "284205",
+    "latitude": 25.3204425,
+    "longitude": 78.9966888,
+    "place_id": "ChIJlQf3nOOLdzkRXR8oUHoDBo8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlQf3nOOLdzkRXR8oUHoDBo8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:15:53"
+  },
+  {
+    "business_name": "Salisbury Fashion Shop",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "284205",
+    "phone_number": "+91 93877 79066",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bangara Dhawa, Uttar Pradesh 284205",
+    "area": "284205",
+    "latitude": 25.3312584,
+    "longitude": 78.9956646,
+    "place_id": "ChIJya1uhWqLdzkRaials6cRARg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJya1uhWqLdzkRaials6cRARg",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:15:53"
+  }
+]

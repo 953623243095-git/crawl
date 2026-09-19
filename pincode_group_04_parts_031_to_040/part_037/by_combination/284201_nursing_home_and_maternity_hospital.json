@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Metro Hospital Hansari",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "284201",
+    "phone_number": "+91 94151 12955",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 15,
+    "address": "CH67+3F2, Hansari, Jhansi, Uttar Pradesh 284135",
+    "area": "Hansari",
+    "latitude": 25.4101441,
+    "longitude": 78.5636296,
+    "place_id": "ChIJyYmQvBJxdzkR9ezdUdQmTAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyYmQvBJxdzkR9ezdUdQmTAk",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:09:05"
+  },
+  {
+    "business_name": "Jeevan nursing Home care service",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Home health care service",
+    "all_categories": "Home health care service",
+    "pincode": "284201",
+    "phone_number": "+91 77340 85572",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "New Shivaji Nagar, Vijay Nagar, Amkhoh, Gwalior, Madhya Pradesh 474001",
+    "area": "New Shivaji Nagar, Vijay Nagar, Amkhoh",
+    "latitude": 26.1869618,
+    "longitude": 78.1592943,
+    "place_id": "ChIJRw8jHkjFdjkRKHCzDVcL44g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRw8jHkjFdjkRKHCzDVcL44g",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:09:06"
+  }
+]

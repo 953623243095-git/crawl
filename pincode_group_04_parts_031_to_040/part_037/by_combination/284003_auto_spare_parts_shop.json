@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Atul Spare Parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "284003",
+    "phone_number": "+91 72398 78465",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 33, Datia Road, Ayurveda Nagar, Ansal Colony, Jhansi, Uttar Pradesh 284003",
+    "area": "Ayurveda Nagar, Ansal Colony",
+    "latitude": 25.4783023,
+    "longitude": 78.5560002,
+    "place_id": "ChIJR5s0l75xdzkRNBRijPUtsJk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR5s0l75xdzkRNBRijPUtsJk",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:48:13"
+  },
+  {
+    "business_name": "Jai Balaji Auto Parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Store",
+    "pincode": "284003",
+    "phone_number": "+91 96164 41519",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "FG4Q+4W9, Shivpuri Road, Nandanpura, near Shankar Ji Mandir, Jhansi, Uttar Pradesh 284003",
+    "area": "GAIL Colony, Rash Bihar Colony, Sipri Bazar",
+    "latitude": 25.4552771,
+    "longitude": 78.5398632,
+    "place_id": "ChIJje8iLhlxdzkRuW0u6Y8xHeA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJje8iLhlxdzkRuW0u6Y8xHeA",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:48:15"
+  }
+]

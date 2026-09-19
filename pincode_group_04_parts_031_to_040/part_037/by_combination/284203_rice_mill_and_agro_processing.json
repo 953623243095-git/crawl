@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M.P. RICE INDUSTRIES",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "284203",
+    "phone_number": "+91 94070 77314",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Unnamed Road, Madhya Pradesh 485113",
+    "area": "284203",
+    "latitude": 24.5849627,
+    "longitude": 80.9198961,
+    "place_id": "ChIJe6R5ytp9hDkRG16bafJwGiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe6R5ytp9hDkRG16bafJwGiQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:13:34"
+  },
+  {
+    "business_name": "Aadhar Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "284203",
+    "phone_number": "N/A",
+    "website": "https://aadhar-rice-mill-pvt-ltd.vercel.app/",
+    "rating": 3.3,
+    "reviews_count": 12,
+    "address": "XW8V+6X9, Tata Rd, Dirlang, Chauka, Jharkhand 832404",
+    "area": "284203",
+    "latitude": 22.965538,
+    "longitude": 85.94499479999999,
+    "place_id": "ChIJQ_TsYhjB9TkRs5f3vsZEo1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ_TsYhjB9TkRs5f3vsZEo1s",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:13:35"
+  }
+]

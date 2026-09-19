@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CleanAp",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Household chemicals supplier",
+    "all_categories": "Household chemicals supplier, Home health care service",
+    "pincode": "284003",
+    "phone_number": "+91 94736 37030",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "State bank colony, Uttar Pradesh 284003",
+    "area": "Rajghat Colony",
+    "latitude": 25.4614506,
+    "longitude": 78.52684719999999,
+    "place_id": "ChIJCYeQl3pxdzkR5NYerna9VaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCYeQl3pxdzkR5NYerna9VaM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:49:10"
+  },
+  {
+    "business_name": "Pentiar Pools",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Swimming pool supply store",
+    "all_categories": "Swimming pool supply store, Indoor swimming pool, Swimming instructor, Swimming pool repair service",
+    "pincode": "284003",
+    "phone_number": "+91 81030 06020",
+    "website": "https://www.pentiarpools.com/",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Shop No. 44, Kishan Bazar, near Bus Stand, Talpura, Jhansi, Uttar Pradesh 284001",
+    "area": "Talpura",
+    "latitude": 25.449156199999997,
+    "longitude": 78.5911708,
+    "place_id": "ChIJlZ0ZSPF3dzkRRJ_5jgGyR_Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlZ0ZSPF3dzkRRJ_5jgGyR_Q",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:49:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alok Associates",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Aluminum window",
+    "all_categories": "Aluminum window",
+    "pincode": "284404",
+    "phone_number": "+91 99776 83455",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No, Amrit Enclave, 03, Balaji marg, near Balaji Sweets, ISRO Colony, Ayodhya Nagar, Bhopal, Madhya Pradesh 462041",
+    "area": "ISRO Colony, Ayodhya Nagar",
+    "latitude": 23.274301299999998,
+    "longitude": 77.4659914,
+    "place_id": "ChIJr1c5g_VpfDkRM8IchAb1NR8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr1c5g_VpfDkRM8IchAb1NR8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:35:53"
+  },
+  {
+    "business_name": "Kaler Aluminium",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Metal fabricator",
+    "all_categories": "Metal fabricator, Aluminum window, Ceiling supplier, Door shop, Glass & mirror shop, Kitchen furniture store, Model train store, Modular home dealer, Optical Products Manufacturer",
+    "pincode": "284404",
+    "phone_number": "+91 95929 05824",
+    "website": "http://kaleraluminiun.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "hayat market, Shop No 631,Shop No, Sec - 125, Jhungian Rd, near Eco Floor 2, Sunny Enclave, Kharar, Punjab 140301",
+    "area": "Sunny Enclave",
+    "latitude": 30.756432399999998,
+    "longitude": 76.65519599999999,
+    "place_id": "ChIJbQhILFP_DzkRSIhFeFCIK7o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbQhILFP_DzkRSIhFeFCIK7o",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:35:53"
+  }
+]

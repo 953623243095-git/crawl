@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rudra Crane Breakdown Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane service",
+    "all_categories": "Crane service",
+    "pincode": "284301",
+    "phone_number": "+91 98399 47353",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 9,
+    "address": "NH 27, Marawatiya, Sanjay Colony, Basti, Uttar Pradesh 272002",
+    "area": "Marawatiya, Sanjay Colony",
+    "latitude": 26.8284909,
+    "longitude": 82.7640119,
+    "place_id": "ChIJM3sdQkTRkDkRSo4kEquqNyU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM3sdQkTRkDkRSo4kEquqNyU",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:19:40"
+  },
+  {
+    "business_name": "JCDJ Transport Inc",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "284301",
+    "phone_number": "N/A",
+    "website": "https://www.jcdjtransport.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "16910 SW 42 Ave, Ocala, FL 34473, United States",
+    "area": "284301",
+    "latitude": 29.0211747,
+    "longitude": -82.1922116,
+    "place_id": "ChIJHW_KZJtsQ0ERu23J1xsRnFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHW_KZJtsQ0ERu23J1xsRnFo",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:19:41"
+  }
+]

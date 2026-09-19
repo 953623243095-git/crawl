@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "National Printing Press",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Commercial printer",
+    "all_categories": "Commercial printer",
+    "pincode": "285123",
+    "phone_number": "+91 95068 17503",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "48WP+57G, Haripura, Jalaun, Uttar Pradesh 285123",
+    "area": "Haripura",
+    "latitude": 26.1454311,
+    "longitude": 79.3357053,
+    "place_id": "ChIJYbfOpaApdjkRejlQzPi1xqU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYbfOpaApdjkRejlQzPi1xqU",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:49:34"
+  },
+  {
+    "business_name": "Urvashi Printers",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Commercial printer",
+    "all_categories": "Commercial printer",
+    "pincode": "285123",
+    "phone_number": "+91 90452 76668",
+    "website": "http://urvashiprinters.com/",
+    "rating": 4.9,
+    "reviews_count": 186,
+    "address": "110, Nauchandi, Meerut, Uttar Pradesh 250002",
+    "area": "Nauchandi",
+    "latitude": 28.9674107,
+    "longitude": 77.7189475,
+    "place_id": "ChIJV_eW25RkDDkRUsKIgwahpTE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV_eW25RkDDkRUsKIgwahpTE",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:49:35"
+  }
+]

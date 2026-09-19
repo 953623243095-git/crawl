@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FROZEN BEANS CAFE",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Ice cream shop, Restaurant",
+    "pincode": "284419",
+    "phone_number": "+91 92038 36555",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Kila chowk, Darugar Ki Pulia, Datia, Madhya Pradesh 475661",
+    "area": "Darugar Ki Pulia",
+    "latitude": 25.6734157,
+    "longitude": 78.4562832,
+    "place_id": "ChIJ9dOdK8kTdzkREY4sOJhdtk8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9dOdK8kTdzkREY4sOJhdtk8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:39:32"
+  },
+  {
+    "business_name": "Mor Mukut Petha Store (EXCLUSIVE STORE)",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food manufacturing supply",
+    "all_categories": "Food manufacturing supply",
+    "pincode": "284419",
+    "phone_number": "+91 70528 88990",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Allahabad bank chauraha, 38, Station Rd, Civil Lines, Jhansi, Uttar Pradesh 284001",
+    "area": "Civil Lines",
+    "latitude": 25.443143799999998,
+    "longitude": 78.56729709999999,
+    "place_id": "ChIJZU9igCZ3dzkRPq11WVe16cc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZU9igCZ3dzkRPq11WVe16cc",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:39:33"
+  }
+]

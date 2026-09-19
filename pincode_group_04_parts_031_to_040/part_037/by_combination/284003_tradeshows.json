@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AMB TRADERS",
+    "search_category": "Tradeshows",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "284003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "120 hajaryana saiyad vali gali, Uttar Pradesh 284002",
+    "area": "Purana Sahar",
+    "latitude": 25.460962499999997,
+    "longitude": 78.584617,
+    "place_id": "ChIJHwXPWJx3dzkRUPQPWneiV00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHwXPWJx3dzkRUPQPWneiV00",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:49:17"
+  },
+  {
+    "business_name": "Vadhukyam",
+    "search_category": "Tradeshows",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "284003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "S-30/10, Suryapuram Colony, Awas Vikas, Sipri Bazar, Jhansi, Uttar Pradesh 284003",
+    "area": "Awas Vikas, Sipri Bazar",
+    "latitude": 25.4518022,
+    "longitude": 78.5355411,
+    "place_id": "ChIJQ_p69cpxdzkR1YZWWdEPDb0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ_p69cpxdzkR1YZWWdEPDb0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:49:18"
+  }
+]

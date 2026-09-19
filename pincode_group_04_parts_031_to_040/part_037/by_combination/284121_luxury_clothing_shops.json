@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lydia fashion boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Fashion designer",
+    "pincode": "284121",
+    "phone_number": "+91 93901 12228",
+    "website": "http://www.lydiafashionboutique.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "4-10-124, Tailors St, Hanamkonda Chowrastha, Gandhi Nagar, Reddy Colony, Hanamkonda, Telangana 506011",
+    "area": "Hanamkonda Chowrastha, Gandhi Nagar, Reddy Colony",
+    "latitude": 18.007645,
+    "longitude": 79.5709481,
+    "place_id": "ChIJ4w36RYNFMzoRjKKTufRKn8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4w36RYNFMzoRjKKTufRKn8c",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:51:42"
+  },
+  {
+    "business_name": "Ethnix By Raymond",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Designer Clothing Store, Dress store, Fabric store, Clothing Accessories Store, Formal Clothing Store, Men's clothing store, Tuxedo shop, Wedding store",
+    "pincode": "284121",
+    "phone_number": "+91 84006 43166",
+    "website": "https://elitechaurahasipriroad-civil-lines.myraymond.com/ethnix/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1st Floor, Elite Chauraha, Sipri Rd, opp. IndianOil, Civil Lines, Jhansi, Uttar Pradesh 284001",
+    "area": "Civil Lines",
+    "latitude": 25.4491405,
+    "longitude": 78.5661959,
+    "place_id": "ChIJISg93V5xdzkRWaY2YKrSI64",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJISg93V5xdzkRWaY2YKrSI64",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:51:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PANKAJ",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect",
+    "pincode": "284202",
+    "phone_number": "+91 63864 71577",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gurai Bajar, Gursarai, Uttar Pradesh 284202",
+    "area": "284202",
+    "latitude": 25.6156872,
+    "longitude": 79.18166699999999,
+    "place_id": "ChIJx3APJ8TpdzkRIOslN3njBsw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx3APJ8TpdzkRIOslN3njBsw",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:11:10"
+  },
+  {
+    "business_name": "Skyline Architectural Consultant Ltd.",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "284202",
+    "phone_number": "+91 96530 47683",
+    "website": "http://www.skylinearchitect.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "3rd Floor, Laxmi Vardan Complex, Patrakarpuram Crossing Rd, Vikas Khand 1, Vikas Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vikas Khand 1, Vikas Khand, Gomti Nagar",
+    "latitude": 26.852297099999998,
+    "longitude": 80.9995777,
+    "place_id": "ChIJL9mDQMXimzkRq2gzHTKtpJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL9mDQMXimzkRq2gzHTKtpJw",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:11:11"
+  }
+]

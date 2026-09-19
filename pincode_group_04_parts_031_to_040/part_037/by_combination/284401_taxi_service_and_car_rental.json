@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Orchha Taxi Services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Car rental agency, Minibus taxi service, Transportation service, Travel agency",
+    "pincode": "284401",
+    "phone_number": "+91 75830 08152",
+    "website": "https://orchhataxiservies.com/",
+    "rating": 4.9,
+    "reviews_count": 28,
+    "address": "Tikamgarh - Jhansi Rd, near Paryatak Hotel, Orchha, Tikamgarh, Madhya Pradesh 472246",
+    "area": "284401",
+    "latitude": 24.743443799999998,
+    "longitude": 78.8299857,
+    "place_id": "ChIJn3Q2GUXI3WYRS31S7o4F5VU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn3Q2GUXI3WYRS31S7o4F5VU",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:30:03"
+  },
+  {
+    "business_name": "Cab (Taxi car ) service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "284401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jhansi Railway Station Rd, Railway Officers Colony, Jhansi, Uttar Pradesh 284003",
+    "area": "Railway Officers Colony",
+    "latitude": 25.4392019,
+    "longitude": 78.554284,
+    "place_id": "ChIJN9JUac9xdzkRfzYJeoDpueE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN9JUac9xdzkRfzYJeoDpueE",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:30:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Misha Groceries & Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "284135",
+    "phone_number": "+91 91204 50747",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Heater Factory K Pass, New Rail Gunju, Puliya No 9 Under Bridge, Jhalkari Bai Nagar, Jhansi, Uttar Pradesh 284135",
+    "area": "Jhalkari Bai Nagar",
+    "latitude": 25.427693899999998,
+    "longitude": 78.55649679999999,
+    "place_id": "ChIJc4yXNrFxdzkRpC6fdQFM2ns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc4yXNrFxdzkRpC6fdQFM2ns",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:05:01"
+  },
+  {
+    "business_name": "Ajay Department Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "284135",
+    "phone_number": "+91 92091 48332",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.80, Shivpuri Rd, near School, Nandanpura, Awas Vikas Nagar, Jhansi, Uttar Pradesh 284003",
+    "area": "Nandanpura, Awas Vikas Nagar",
+    "latitude": 25.4550982,
+    "longitude": 78.5374965,
+    "place_id": "ChIJG8WczR5xdzkR8vzL4EjqLLI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG8WczR5xdzkR8vzL4EjqLLI",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:05:04"
+  }
+]

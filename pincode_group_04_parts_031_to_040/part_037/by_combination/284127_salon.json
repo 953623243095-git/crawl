@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Badshah Maxx Saloon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hairdresser",
+    "pincode": "284127",
+    "phone_number": "+91 97957 93862",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 61,
+    "address": "Punjab National ATM, near Panna Lal Hatha, Sadar Bazar, Cantt, Jhansi, Uttar Pradesh 284001",
+    "area": "Sadar Bazar, Cantt",
+    "latitude": 25.440066299999998,
+    "longitude": 78.58461729999999,
+    "place_id": "ChIJ3XHJPlJ3dzkRdZ1SNWBsCgQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3XHJPlJ3dzkRdZ1SNWBsCgQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:02:20"
+  },
+  {
+    "business_name": "Badshah 2 Mens Salon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "284127",
+    "phone_number": "+91 98890 05329",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Shop No. 00, Baadshah 2saloon, near Mata Mandir, Bhatta Gaon, Jhansi, Uttar Pradesh 284127",
+    "area": "Bhatta Gaon",
+    "latitude": 25.4250182,
+    "longitude": 78.6018333,
+    "place_id": "ChIJ_alXXuN3dzkR5-hXJe_0JdA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_alXXuN3dzkR5-hXJe_0JdA",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:02:20"
+  }
+]

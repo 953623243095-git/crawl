@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ravishankar Mukhraiya",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician",
+    "pincode": "284403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MCW2+6G3, Civil Lines, Lalitpur, Uttar Pradesh 284403",
+    "area": "Civil Lines",
+    "latitude": 24.6955135,
+    "longitude": 78.4013056,
+    "place_id": "ChIJ9wI2dhG7eTkRsHpBgJ9Uct8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9wI2dhG7eTkRsHpBgJ9Uct8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:33:15"
+  },
+  {
+    "business_name": "Naza Child Hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "284403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "Unnamed Road, Nadipura, Lalitpur, Uttar Pradesh 284403",
+    "area": "Nadipura",
+    "latitude": 24.690202499999998,
+    "longitude": 78.4234455,
+    "place_id": "ChIJxaoCune7eTkR3jQuBrqNUNI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxaoCune7eTkR3jQuBrqNUNI",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:33:16"
+  }
+]

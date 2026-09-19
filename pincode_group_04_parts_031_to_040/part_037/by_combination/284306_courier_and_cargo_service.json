@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jitendra Singh House",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "284306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V454+PCC, Inguikalan, Uttar Pradesh 284306",
+    "area": "284306",
+    "latitude": 25.858779499999997,
+    "longitude": 79.1056205,
+    "place_id": "ChIJ-1qwiMLJdzkR3eiEAoIUJKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-1qwiMLJdzkR3eiEAoIUJKU",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:29:03"
+  },
+  {
+    "business_name": "Branch Post Office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office, Post office",
+    "pincode": "284306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V5R7+7FP, near hospital, Pindari, Uttar Pradesh 285201",
+    "area": "284306",
+    "latitude": 25.8907225,
+    "longitude": 79.1637143,
+    "place_id": "ChIJP0KfEbvPdzkR59iSg9kWtRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP0KfEbvPdzkR59iSg9kWtRw",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:29:06"
+  }
+]

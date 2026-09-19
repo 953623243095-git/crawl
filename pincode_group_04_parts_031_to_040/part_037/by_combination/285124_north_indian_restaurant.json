@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jagram Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Fast food restaurant",
+    "pincode": "285124",
+    "phone_number": "+91 70609 16482",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 123,
+    "address": "Nanda Ki Chowki, Dehradun, Kandhauli, Uttarakhand 248007",
+    "area": "Nanda Ki Chowki",
+    "latitude": 30.345826799999998,
+    "longitude": 77.9540327,
+    "place_id": "ChIJEQ3pzCTVCDkRJ59DogJpuPQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEQ3pzCTVCDkRJ59DogJpuPQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:50:16"
+  },
+  {
+    "business_name": "Alpha Diners",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Restaurant",
+    "pincode": "285124",
+    "phone_number": "+91 74578 42243",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Gate no.2, Towards, Subharti Road, behind Alpine College, Nanda Ki Chowki, Prem Nagar, Dehradun, Kolhupani, Uttarakhand 248007",
+    "area": "Nanda Ki Chowki, Prem Nagar",
+    "latitude": 30.343864999999997,
+    "longitude": 77.95616869999999,
+    "place_id": "ChIJWTn4JRzVCDkRuKK_97h2Wu0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWTn4JRzVCDkRuKK_97h2Wu0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:50:17"
+  }
+]

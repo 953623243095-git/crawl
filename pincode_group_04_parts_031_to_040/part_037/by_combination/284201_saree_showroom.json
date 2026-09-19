@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAREE SANSAR NX",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop, Clothing store",
+    "pincode": "284201",
+    "phone_number": "+91 86868 66292",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "04 Jain Market, Barua Sagar, Uttar Pradesh 284201",
+    "area": "284201",
+    "latitude": 25.373774299999997,
+    "longitude": 78.7318015,
+    "place_id": "ChIJVVVVlXaDdzkROIbV7_SUVFc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVlXaDdzkROIbV7_SUVFc",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:08:51"
+  },
+  {
+    "business_name": "Fashion Point",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "284201",
+    "phone_number": "+91 94150 57435",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 27,
+    "address": "Town Shortcut, Barua Sagar, Talarmanna, Uttar Pradesh 284201",
+    "area": "284201",
+    "latitude": 25.3729749,
+    "longitude": 78.7310385,
+    "place_id": "ChIJqabAfnaDdzkRbQApXyMPmh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqabAfnaDdzkRbQApXyMPmh8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:08:53"
+  }
+]

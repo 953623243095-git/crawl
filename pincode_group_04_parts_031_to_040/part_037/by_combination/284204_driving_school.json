@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Software Academy",
+    "search_category": "Driving School",
+    "primary_category": "Computer training school",
+    "all_categories": "Computer training school, School",
+    "pincode": "284204",
+    "phone_number": "+91 94527 43064",
+    "website": "http://softwareacademyindia.org/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Purani Bailai Marg, near Chaumukhi Mata Mandir, Mauranipur, Roni, Uttar Pradesh 284204",
+    "area": "284204",
+    "latitude": 25.2418268,
+    "longitude": 79.1387721,
+    "place_id": "ChIJffvXK5UdeDkRg0Mtwsq7Dp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJffvXK5UdeDkRg0Mtwsq7Dp4",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:14:29"
+  },
+  {
+    "business_name": "RAJA SINGH",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "284204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "64WP+FJQ, Mauranipur, Roni, Uttar Pradesh 284204",
+    "area": "284204",
+    "latitude": 25.246219699999997,
+    "longitude": 79.1365959,
+    "place_id": "ChIJKV8UXWAdeDkR_6BNsuz37TI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKV8UXWAdeDkR_6BNsuz37TI",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:14:30"
+  }
+]

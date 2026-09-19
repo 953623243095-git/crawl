@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HDFC Bank",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance company",
+    "all_categories": "Insurance company, ATM, Business banking service, Car finance and loan company, Financial institution, Bank, Investment service, Loan agency, Private Sector Bank, Savings bank",
+    "pincode": "284205",
+    "phone_number": "+91 1800 1601",
+    "website": "https://www.hdfc.bank.in/branch-locator/uttarpradesh/jhansi/hdfcbank-branch-ranipurjhansi",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Ward No 9, Mauranipur Rd, Ganj, Ranipur, Uttar Pradesh 284205",
+    "area": "Ganj",
+    "latitude": 25.2541536,
+    "longitude": 79.06187589999999,
+    "place_id": "ChIJwYLDdtUfeDkR3AaV-1BNVP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwYLDdtUfeDkR3AaV-1BNVP8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:16:50"
+  },
+  {
+    "business_name": "Pinshu sahu",
+    "search_category": "Insurance Agent",
+    "primary_category": "Home insurance agency",
+    "all_categories": "Home insurance agency",
+    "pincode": "284205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "32XQ+8JP, Pahadi Buzurg, Madhya Pradesh 472331",
+    "area": "284205",
+    "latitude": 25.0983378,
+    "longitude": 79.03907989999999,
+    "place_id": "ChIJSUzAXwAZeDkRZcVTQUUkoL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSUzAXwAZeDkRZcVTQUUkoL4",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:16:52"
+  }
+]

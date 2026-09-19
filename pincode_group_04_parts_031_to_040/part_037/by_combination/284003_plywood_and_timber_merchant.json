@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PK timber mart",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "284003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "208, Jhokhanbagh Rd, Civil Lines, Khushipura, Jhansi, Uttar Pradesh 284001",
+    "area": "Civil Lines, Khushipura",
+    "latitude": 25.4481792,
+    "longitude": 78.5772408,
+    "place_id": "ChIJT3LqCgB3dzkRAmYFw4qChoM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT3LqCgB3dzkRAmYFw4qChoM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:48:25"
+  },
+  {
+    "business_name": "VIDHYA TRADERS",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier",
+    "pincode": "284003",
+    "phone_number": "+91 90053 63823",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "CH88+5PX, Main Rd, near HDFC ATM, kushwaha market, Hansari, Jhansi, Uttar Pradesh 284135",
+    "area": "kushwaha market, Hansari",
+    "latitude": 25.4154931,
+    "longitude": 78.5668705,
+    "place_id": "ChIJgX4KnEx3dzkRCn0H60oSfb8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgX4KnEx3dzkRCn0H60oSfb8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:48:26"
+  }
+]

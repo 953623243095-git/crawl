@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mr Kamal Razpoot",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "284404",
+    "phone_number": "+91 84233 94890",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Dongra Khurd Gaon, Dongra Khurd, Uttar Pradesh 284404",
+    "area": "284404",
+    "latitude": 24.4253584,
+    "longitude": 78.8543268,
+    "place_id": "ChIJ09vNmTT3eDkR1SVvWU9rYVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ09vNmTT3eDkR1SVvWU9rYVk",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:35:06"
+  },
+  {
+    "business_name": "Taxi Cab Travels Katni",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "284404",
+    "phone_number": "+91 90098 96149",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 126,
+    "address": "near South station, Lakhera, Katni, Madhya Pradesh 484501",
+    "area": "Lakhera",
+    "latitude": 23.8180095,
+    "longitude": 80.3966428,
+    "place_id": "ChIJFXRFhtBhgTkRrtzTzvz7NzE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFXRFhtBhgTkRrtzTzvz7NzE",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:35:07"
+  }
+]

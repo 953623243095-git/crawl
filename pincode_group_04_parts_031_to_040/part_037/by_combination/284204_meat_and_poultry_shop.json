@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MEAT SHOP",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat wholesaler",
+    "all_categories": "Meat wholesaler",
+    "pincode": "284204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CGRR+QCV, Khati Baba, Jhansi, Uttar Pradesh 284003",
+    "area": "Khati Baba",
+    "latitude": 25.4419938,
+    "longitude": 78.5410406,
+    "place_id": "ChIJVUu7I-dwdzkRZb19uuxYXQE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVUu7I-dwdzkRZb19uuxYXQE",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:13:51"
+  },
+  {
+    "business_name": "Parihar Poultry Farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "284204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Nil, Mauranipur, Bukhara, Uttar Pradesh 284204",
+    "area": "284204",
+    "latitude": 25.280763,
+    "longitude": 79.1921156,
+    "place_id": "ChIJI-r5UCX3dzkRdB22SYjOJ_Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI-r5UCX3dzkRdB22SYjOJ_Q",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:13:51"
+  }
+]

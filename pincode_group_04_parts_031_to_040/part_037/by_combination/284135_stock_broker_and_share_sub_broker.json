@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Stock Brokers",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Service establishment",
+    "pincode": "284135",
+    "phone_number": "N/A",
+    "website": "https://zerodha.com/open-account?c=ZMPIJI",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Stock Brokers, 284135, India",
+    "area": "284135",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJDciHDVkzEjkREx3wRc-qgN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDciHDVkzEjkREx3wRc-qgN4",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:06:28"
+  },
+  {
+    "business_name": "HDFC Securities - Sipri Bazar",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "284135",
+    "phone_number": "+91 92402 37953",
+    "website": "https://www.hdfcsec.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1st Floor, No 392, Shivpuri - Jhansi Rd, above Parking, Masiha Ganj, Sipri Bazar, Jhansi, Uttar Pradesh 284003",
+    "area": "Masiha Ganj, Sipri Bazar",
+    "latitude": 25.454692299999998,
+    "longitude": 78.5434397,
+    "place_id": "ChIJDRf-jjtxdzkR_qwf3C8TAYQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDRf-jjtxdzkR_qwf3C8TAYQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:06:28"
+  }
+]

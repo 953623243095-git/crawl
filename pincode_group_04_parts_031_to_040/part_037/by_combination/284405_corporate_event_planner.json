@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ravi Event",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "284405",
+    "phone_number": "+91 88176 65454",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shahnai Garden, Near, Tikamgarh, Madhya Pradesh 472001",
+    "area": "Subhash Puram, Civil Line",
+    "latitude": 24.7518982,
+    "longitude": 78.8331287,
+    "place_id": "ChIJLb5H29FPeDkRsFBgqGAfsmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLb5H29FPeDkRsFBgqGAfsmY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:37:14"
+  },
+  {
+    "business_name": "Events Company",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Service establishment",
+    "pincode": "284405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Events Company, 284405, India",
+    "area": "284405",
+    "latitude": 27.7089604,
+    "longitude": 85.3261328,
+    "place_id": "ChIJo2NhtnzOVKcR4YzvLt9APTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo2NhtnzOVKcR4YzvLt9APTs",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:37:14"
+  }
+]

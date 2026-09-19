@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Digital Savvy",
+    "search_category": "Digital Marketing Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Marketing consultant",
+    "pincode": "284136",
+    "phone_number": "+91 81491 05083",
+    "website": "https://indore.mydigitalsavvy.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "61, Bhawarkua Main Rd, behind ICICI Bank Ltd, Ashok Nagar, Indore, Madhya Pradesh 452001",
+    "area": "Ashok Nagar",
+    "latitude": 22.6963252,
+    "longitude": 75.8666557,
+    "place_id": "ChIJM_NRnaj9YjkREXx4LjP9b9Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM_NRnaj9YjkREXx4LjP9b9Y",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:08:29"
+  },
+  {
+    "business_name": "Digital Marketing Company",
+    "search_category": "Digital Marketing Agencies",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service",
+    "pincode": "284136",
+    "phone_number": "+91 99994 31329",
+    "website": "https://www.expertwebtechnology.com/digital-marketing.html",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Cosmos Golden Heights, D 701, Crossings Republik, Ghaziabad, Uttar Pradesh 201016",
+    "area": "Crossings Republik",
+    "latitude": 28.6250817,
+    "longitude": 77.43545449999999,
+    "place_id": "ChIJiZB_pjXvDDkRfJdecVK8xsI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiZB_pjXvDDkRfJdecVK8xsI",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:08:31"
+  }
+]

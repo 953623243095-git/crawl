@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Som Garden",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Wedding service",
+    "all_categories": "Wedding service",
+    "pincode": "285001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 20,
+    "address": "chak jagadevpur, Orai, Uttar Pradesh 285123",
+    "area": "285001",
+    "latitude": 26.031613,
+    "longitude": 79.46082349999999,
+    "place_id": "ChIJszqH8Gx_nTkRo_wU4Oq8aCE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJszqH8Gx_nTkRo_wU4Oq8aCE",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:44:05"
+  },
+  {
+    "business_name": "Sarkar Garden",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Wedding service",
+    "all_categories": "Wedding service",
+    "pincode": "285001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 31,
+    "address": "Bajaria, Orai, Uttar Pradesh 285001",
+    "area": "Bajaria",
+    "latitude": 25.9951525,
+    "longitude": 79.4484432,
+    "place_id": "ChIJP9MrmiJ_nTkR23-0sB_A8f4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP9MrmiJ_nTkR23-0sB_A8f4",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:44:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meva Chaudhary Memorial Hospital",
+    "search_category": "Clinics",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "284128",
+    "phone_number": "+91 80049 11890",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "medical area, Jhansi, Uttar Pradesh 284128",
+    "area": "Bundelkhand University",
+    "latitude": 25.4587863,
+    "longitude": 78.6158825,
+    "place_id": "ChIJT4L3hs52dzkRFt60M5x33qA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT4L3hs52dzkRFt60M5x33qA",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:03:41"
+  },
+  {
+    "business_name": "Sai Aastha Hospital, Jhansi",
+    "search_category": "Clinics",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "284128",
+    "phone_number": "+91 87378 20179",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Veerangna Nagar, Jhansi, Uttar Pradesh 284128",
+    "area": "Veerangna Nagar",
+    "latitude": 25.4602462,
+    "longitude": 78.6114073,
+    "place_id": "ChIJyRyZVf92dzkRGTDPtk8PKnY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyRyZVf92dzkRGTDPtk8PKnY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:03:41"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ambedkar Hostel",
+    "search_category": "Hostels",
+    "primary_category": "Student housing center",
+    "all_categories": "Student housing center",
+    "pincode": "285124",
+    "phone_number": "+91 82185 18826",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 29,
+    "address": "H8C4+F97, Ambedkar Rd, Sarai Ajitmal, Uttar Pradesh 206121",
+    "area": "285124",
+    "latitude": 26.5711735,
+    "longitude": 79.30591869999999,
+    "place_id": "ChIJ8flwv7AcdjkRuWn1dyWlltY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8flwv7AcdjkRuWn1dyWlltY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:51:10"
+  },
+  {
+    "business_name": "Government Girls hostel",
+    "search_category": "Hostels",
+    "primary_category": "Girls' hostel",
+    "all_categories": "Girls' hostel",
+    "pincode": "285124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "9647+6P5, Tihar, Rampura, Uttar Pradesh 285127",
+    "area": "285124",
+    "latitude": 26.3555101,
+    "longitude": 79.2143689,
+    "place_id": "ChIJ7xOQWuQjdjkRj6dOiu3j5tU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7xOQWuQjdjkRj6dOiu3j5tU",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:51:10"
+  }
+]

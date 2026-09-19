@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fight For Fitness Gym",
+    "search_category": "Yoga Center",
+    "primary_category": "Physical fitness program",
+    "all_categories": "Physical fitness program",
+    "pincode": "284201",
+    "phone_number": "+91 97555 02136",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "the SBI Bank, Tehsil, Civil Lines, Road, Madhya Pradesh 472442",
+    "area": "284201",
+    "latitude": 25.341890499999998,
+    "longitude": 78.8045403,
+    "place_id": "ChIJASBsRkaFdzkR5LTuFM0gfM0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJASBsRkaFdzkR5LTuFM0gfM0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:09:11"
+  },
+  {
+    "business_name": "Yog Jyoti",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "284201",
+    "phone_number": "+91 94531 05625",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Manu Vihar Colony, 97 / 5-1, Civil Lines, Jhansi, Uttar Pradesh 284001",
+    "area": "Civil Lines",
+    "latitude": 25.4467449,
+    "longitude": 78.5675047,
+    "place_id": "ChIJq6qqait3dzkR9vFNdZk-a9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqait3dzkR9vFNdZk-a9c",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:09:11"
+  }
+]

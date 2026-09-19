@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RD travells",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "284301",
+    "phone_number": "+91 94552 54361",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mishra market, ram nagar chauraha, Chirgaon, Uttar Pradesh 284801",
+    "area": "284301",
+    "latitude": 25.5732228,
+    "longitude": 78.81732769999999,
+    "place_id": "ChIJ-QGdVHyZdzkRFLPcmYfIHdg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-QGdVHyZdzkRFLPcmYfIHdg",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:19:36"
+  },
+  {
+    "business_name": "Sheetla Computer",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Passport Agent, Professional association, Tax consultant, Railway Ticket Agent",
+    "pincode": "284301",
+    "phone_number": "N/A",
+    "website": "https://sheetla-computer-service-u39hm5n.gamma.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bank of India Vashishth Market, Near, Chirgaon, Uttar Pradesh 284301",
+    "area": "284301",
+    "latitude": 25.5744288,
+    "longitude": 78.8176716,
+    "place_id": "ChIJXQ2ZotqZdzkRMzCJGx1ylSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXQ2ZotqZdzkRMzCJGx1ylSg",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:19:36"
+  }
+]

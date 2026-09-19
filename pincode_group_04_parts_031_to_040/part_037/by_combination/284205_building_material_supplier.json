@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Katera",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "284205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "6WXG+V5F, Kagar, Uttar Pradesh 284205",
+    "area": "284205",
+    "latitude": 25.2496859,
+    "longitude": 78.9254085,
+    "place_id": "ChIJjddLPQCJdzkRu5WTfuD4-O8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjddLPQCJdzkRu5WTfuD4-O8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:16:17"
+  },
+  {
+    "business_name": "Prism Cement - Khushi Traders",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier, Cement Supplier",
+    "pincode": "284205",
+    "phone_number": "+91 93403 02525",
+    "website": "https://www.prismcement.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chakra-Dabli Syawani, Madhya Pradesh 472331",
+    "area": "284205",
+    "latitude": 25.148648899999998,
+    "longitude": 78.9881857,
+    "place_id": "ChIJaSlTn-MjeDkRZUXXg-kQncA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaSlTn-MjeDkRZUXXg-kQncA",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:16:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tillu chai wala",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "284204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "SH 42, Madha, Mauranipur, Uttar Pradesh 284204",
+    "area": "284204",
+    "latitude": 25.245504099999998,
+    "longitude": 79.16690609999999,
+    "place_id": "ChIJMV66NAAdeDkRY8lQrtRhg1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMV66NAAdeDkRY8lQrtRhg1E",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:13:54"
+  },
+  {
+    "business_name": "Chai mahal",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "284204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "64XP+XCG, Mauranipur, Roni, Uttar Pradesh 284204",
+    "area": "284204",
+    "latitude": 25.2499315,
+    "longitude": 79.13607619999999,
+    "place_id": "ChIJyUCVEwAdeDkRHNBLlBFsaKs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyUCVEwAdeDkRHNBLlBFsaKs",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:13:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Sai Property Consultant",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "284203",
+    "phone_number": "+91 94533 40633",
+    "website": "https://jhansiproperty.com/",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "FG3M+6WF, Prathun Tal, Jatariya Market, Near Shiv Temple A Blok, Aabas Vikas Colony, Nandanpura, Jhansi, Uttar Pradesh 284003",
+    "area": "Nandanpura, Awas Vikas Nagar",
+    "latitude": 25.453071599999998,
+    "longitude": 78.5348095,
+    "place_id": "ChIJb07TYRxxdzkRIjq9clNfLC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb07TYRxxdzkRIjq9clNfLC0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:13:30"
+  },
+  {
+    "business_name": "Kkg Real Estate",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Real Estate Builders & Construction Company",
+    "pincode": "284203",
+    "phone_number": "+91 94150 20196",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": 4,
+    "address": "FH48+F4R, BKD Road, Jeevan Shah Tiraha, Jhansi, Uttar Pradesh 284001",
+    "area": "Chandra Vihar Colony, Loha Mandi",
+    "latitude": 25.4562298,
+    "longitude": 78.5652672,
+    "place_id": "ChIJ9y30WitxdzkRNt7GEPg1vmk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9y30WitxdzkRNt7GEPg1vmk",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:13:30"
+  }
+]

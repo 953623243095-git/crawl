@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shahi Medical",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "284135",
+    "phone_number": "+91 92360 94550",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Arya Samaj Mandir, Bali Gali, Heerapura, Magra, Jhansi, Uttar Pradesh 284003",
+    "area": "Heerapura, Magra",
+    "latitude": 25.429591799999997,
+    "longitude": 78.53915219999999,
+    "place_id": "ChIJ-WcFvutwdzkRqgDuRDaSFGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-WcFvutwdzkRqgDuRDaSFGE",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:05:27"
+  },
+  {
+    "business_name": "S.K. Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "284135",
+    "phone_number": "+91 77838 55833",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chouraha, Khati Baba, Jhansi, Uttar Pradesh 284003",
+    "area": "Khati Baba",
+    "latitude": 25.4416937,
+    "longitude": 78.5408281,
+    "place_id": "ChIJfxKrGOdwdzkRNDTh-sPsvxE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfxKrGOdwdzkRNDTh-sPsvxE",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:05:27"
+  }
+]

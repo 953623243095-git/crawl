@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fresh Juice & Shakes",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "284205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G-069, Sapphire 83 Mall, Sector 83, Gurugram, Haryana 122012",
+    "area": "Sector 83",
+    "latitude": 28.392529,
+    "longitude": 76.967596,
+    "place_id": "ChIJTSQMQVY9DTkREJZymmVzr-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTSQMQVY9DTkREJZymmVzr-Y",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:15:38"
+  },
+  {
+    "business_name": "Punjab Juice Corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "284205",
+    "phone_number": "+91 99199 11555",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Book Market, Aminabad Rd, Khayali Ganj, Aminabad, Lucknow, Uttar Pradesh 226018",
+    "area": "Mohan Market, Khayali Ganj, Aminabad",
+    "latitude": 26.847825699999998,
+    "longitude": 80.926824,
+    "place_id": "ChIJ78nTGbr9mzkRZLZkj2QUSwg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ78nTGbr9mzkRZLZkj2QUSwg",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:15:39"
+  }
+]

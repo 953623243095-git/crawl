@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kadir Chicken Biryani",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "284306",
+    "phone_number": "+91 79052 34703",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Khera Chauraha, Bhagat Singh Nagar, Bhadari, Uttar Pradesh 285205",
+    "area": "Tilak Nagar",
+    "latitude": 25.9949366,
+    "longitude": 79.14386669999999,
+    "place_id": "ChIJ8zGWYSHNdzkRYZVMMpE9P4c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8zGWYSHNdzkRYZVMMpE9P4c",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:27:48"
+  },
+  {
+    "business_name": "The Arabian Cuisine Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "284306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jawahar Nagar, Konch, Uttar Pradesh 285205",
+    "area": "Jawahar Nagar",
+    "latitude": 25.9991438,
+    "longitude": 79.1612598,
+    "place_id": "ChIJWZUfIgDNdzkRMkBdflb7VI0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWZUfIgDNdzkRMkBdflb7VI0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:27:52"
+  }
+]

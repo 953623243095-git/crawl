@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhandari Enterprises",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, FMCG Goods Wholesaler, General store, Tea Wholesaler, Underwear store",
+    "pincode": "284121",
+    "phone_number": "+91 94511 69062",
+    "website": "https://bhandari-enterprises-web.vercel.app/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bus stand road, near PNB bank Infront of Jio office, Barua Sagar, Uttar Pradesh 284201",
+    "area": "284121",
+    "latitude": 25.3774335,
+    "longitude": 78.7292897,
+    "place_id": "ChIJGxVgMwCDdzkRR-0QLI8iFJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGxVgMwCDdzkRR-0QLI8iFJA",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:51:23"
+  },
+  {
+    "business_name": "Batra agency",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "284121",
+    "phone_number": "+91 94070 12003",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 14,
+    "address": "chhota talab, Chhindwara, Madhya Pradesh 480001",
+    "area": "Triloki Nagar",
+    "latitude": 22.0567812,
+    "longitude": 78.9465791,
+    "place_id": "ChIJida1jx5m1TsRLhIg8d6bvSU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJida1jx5m1TsRLhIg8d6bvSU",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:51:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amaze Realtors",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Commercial real estate agency",
+    "all_categories": "Commercial real estate agency, Condominium complex, Consultant, Industrial real estate agency, Office space rental agency, Real estate agent, Retail space rental agency, Warehouse",
+    "pincode": "284305",
+    "phone_number": "+91 84860 00010",
+    "website": "http://www.amazerealtors.com/",
+    "rating": 4.6,
+    "reviews_count": 129,
+    "address": "3rd Floor, ArunPrakash Mansion, HUB Complex, GS Rd, Bhangagarh, Guwahati, Assam 781005",
+    "area": "Bhangagarh",
+    "latitude": 26.1671712,
+    "longitude": 91.767026,
+    "place_id": "ChIJX0QeLnhZWjcRKDFyt5dTUd8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX0QeLnhZWjcRKDFyt5dTUd8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:27:22"
+  },
+  {
+    "business_name": "Mega Realty",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "284305",
+    "phone_number": "+91 98992 12121",
+    "website": "http://www.megarealty.co.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "7th floor, Tower A, Pioneer Urban Square, Golf Course Ext Rd, Sector 62, Gurugram, Ghata, Haryana 122018",
+    "area": "Sector 62",
+    "latitude": 28.415313599999998,
+    "longitude": 77.08835069999999,
+    "place_id": "ChIJb6pPnroYDTkRO4892b9Dq6k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb6pPnroYDTkRO4892b9Dq6k",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:27:22"
+  }
+]

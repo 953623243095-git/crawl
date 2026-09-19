@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manoj meat shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat products store",
+    "all_categories": "Meat products store",
+    "pincode": "284127",
+    "phone_number": "+91 98711 30961",
+    "website": "https://manoj-meat-shop.grexa.site/",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Vivekanand camp 110021, American embassy, Chanakyapuri, New Delhi, Delhi 110021",
+    "area": "Chanakyapuri",
+    "latitude": 28.5966089,
+    "longitude": 77.1822086,
+    "place_id": "ChIJxXGSKy4dDTkRm4MxP-fjMYY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxXGSKy4dDTkRm4MxP-fjMYY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:01:32"
+  },
+  {
+    "business_name": "Meat Shops",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "284127",
+    "phone_number": "+91 88008 96186",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 29,
+    "address": "Unnamed Road, Nand Vihar, Sector 16A, Dwarka, New Delhi, Delhi 110078",
+    "area": "Nand Vihar, Sector 16A, Dwarka",
+    "latitude": 28.6117009,
+    "longitude": 77.0200998,
+    "place_id": "ChIJHTLovVEFDTkRBhtwb9NcA48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHTLovVEFDTkRBhtwb9NcA48",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:01:32"
+  }
+]

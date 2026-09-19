@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HOTEL O by OYO RK INN",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "285123",
+    "phone_number": "+91 124 620 1516",
+    "website": "https://www.oyorooms.com/297631/",
+    "rating": 2.9,
+    "reviews_count": 10,
+    "address": "Plot No - 2Jalaun, Bangra Rd, Sengar Colony, kanpur, Jalaun, Uttar Pradesh 285123",
+    "area": "Sengar Colony",
+    "latitude": 26.139861099999997,
+    "longitude": 79.3291667,
+    "place_id": "ChIJzQ7hC9EpdjkRlqxdVP5MUyI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzQ7hC9EpdjkRlqxdVP5MUyI",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:49:23"
+  },
+  {
+    "business_name": "Krishna Hotel Manvendra Singh yadav(Dinesh singh)",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "285123",
+    "phone_number": "+91 70072 02826",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "33 Kva Power House, SH 21, Dev nagar chauraha, Orai Road, Jalaun, Uttar Pradesh 285123",
+    "area": "Naya Khande Rao",
+    "latitude": 26.1357966,
+    "longitude": 79.3361635,
+    "place_id": "ChIJVVVVtp0pdjkRl5jum9ePdy4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVtp0pdjkRl5jum9ePdy4",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:49:26"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Max Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "284135",
+    "phone_number": "+91 94151 79595",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Jhansi - Lalitpur Rd, Hansari, Jhansi, Uttar Pradesh 284135",
+    "area": "Hansari",
+    "latitude": 25.4089138,
+    "longitude": 78.5629306,
+    "place_id": "ChIJs4YWnKtwdzkRLYuimEcaP8w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs4YWnKtwdzkRLYuimEcaP8w",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:05:27"
+  },
+  {
+    "business_name": "Dr. Vinod Sahu Multispeciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "284135",
+    "phone_number": "+91 94514 41824",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "In front of medical college gate no 1 Beside yadav medical store lane 150 metre, inside it on your right, Jhansi, Uttar Pradesh 284128",
+    "area": "Bundelkhand University",
+    "latitude": 25.4569466,
+    "longitude": 78.6149339,
+    "place_id": "ChIJV4EL5VR2dzkRWV9NVI7b_D0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV4EL5VR2dzkRWV9NVI7b_D0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:05:28"
+  }
+]

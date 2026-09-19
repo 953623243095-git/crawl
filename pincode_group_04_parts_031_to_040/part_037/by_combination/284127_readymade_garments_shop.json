@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pallavi Dresses",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Uniform store",
+    "pincode": "284127",
+    "phone_number": "+91 94519 35466",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "269-B, Sadar Bazar, Cantt, Jhansi, Uttar Pradesh 284001",
+    "area": "Sadar Bazar, Cantt",
+    "latitude": 25.439896899999997,
+    "longitude": 78.5841216,
+    "place_id": "ChIJqT6JgR13dzkRhYQ8iW45SdM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqT6JgR13dzkRhYQ8iW45SdM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:01:43"
+  },
+  {
+    "business_name": "Top Readymades",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "284127",
+    "phone_number": "+91 460 220 6970",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "29Q5+2J6, Taliparamba, Keralam 670141",
+    "area": "284127",
+    "latitude": 12.0375459,
+    "longitude": 75.359023,
+    "place_id": "ChIJQ8YSy_M_pDsRkFyRLnx8Wi4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ8YSy_M_pDsRkFyRLnx8Wi4",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:01:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "siyavar palace",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "284201",
+    "phone_number": "+91 92505 15559",
+    "website": "http://siyavarpalace.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "9J3R+QHQ infornt of hdfc bank, main road, Orchha, Madhya Pradesh 472246",
+    "area": "284201",
+    "latitude": 25.3546054,
+    "longitude": 78.6414702,
+    "place_id": "ChIJ7XBWYAB5dzkR-_3cDS7uomw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7XBWYAB5dzkR-_3cDS7uomw",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:09:40"
+  },
+  {
+    "business_name": "Narwar Lakefront Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "284201",
+    "phone_number": "+91 94259 90970",
+    "website": "https://www.narwarlakefront.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Madikheda Dam, Road, Shivpuri, Madhya Pradesh 473880",
+    "area": "284201",
+    "latitude": 25.557625899999998,
+    "longitude": 77.839872,
+    "place_id": "ChIJa10CPufLcDkRNSx0xXqnixI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa10CPufLcDkRNSx0xXqnixI",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:09:40"
+  }
+]

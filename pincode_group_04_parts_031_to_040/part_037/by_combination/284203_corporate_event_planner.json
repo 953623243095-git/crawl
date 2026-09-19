@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HK EVENTS PLANNER",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "284203",
+    "phone_number": "+91 84488 66301",
+    "website": "https://hk-events-planner.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": 25,
+    "address": "Feroz Gandhi Colony No 1, Sector 9, Gurugram, Haryana 122001",
+    "area": "Feroz Gandhi Colony No 1, Sector 9",
+    "latitude": 28.4589264,
+    "longitude": 77.007182,
+    "place_id": "ChIJgePubqQXDTkR2kP5efHNrBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgePubqQXDTkR2kP5efHNrBQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:13:10"
+  },
+  {
+    "business_name": "Mahakal tant house Garautha",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "284203",
+    "phone_number": "+91 87268 03723",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "bus stand, Mau, Garautha, Uttar Pradesh 284203",
+    "area": "284203",
+    "latitude": 25.570787799999998,
+    "longitude": 79.2971367,
+    "place_id": "ChIJbVcDpP3hdzkRzjjiRh9Cfhg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbVcDpP3hdzkRzjjiRh9Cfhg",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:13:10"
+  }
+]

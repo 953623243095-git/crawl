@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S R general stor",
+    "search_category": "General Store",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "284305",
+    "phone_number": "+91 89534 42631",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GP7X 2H, Station Rod, Parichha, Uttar Pradesh 284305",
+    "area": "Parichha Colony",
+    "latitude": 25.5213935,
+    "longitude": 78.74921479999999,
+    "place_id": "ChIJb5PgH5SZdzkRR9leau9j48E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb5PgH5SZdzkRR9leau9j48E",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:25:57"
+  },
+  {
+    "business_name": "Mahima Confectionery",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "284305",
+    "phone_number": "+91 99362 39585",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No. 10, Main Station Road, Abhinash, Market, Parichha, Jhansi, Uttar Pradesh 284305",
+    "area": "Abhinash, Market",
+    "latitude": 25.512123499999998,
+    "longitude": 78.7433922,
+    "place_id": "ChIJ41W3P4-fdzkRWADl7NHVpvU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ41W3P4-fdzkRWADl7NHVpvU",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:25:57"
+  }
+]

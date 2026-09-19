@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Juice & Shakes",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice Center and Milkshake Bar",
+    "all_categories": "Juice Center and Milkshake Bar",
+    "pincode": "284202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Farukh Nagar, Haryana 122506",
+    "area": "284202",
+    "latitude": 28.446713799999998,
+    "longitude": 76.83070699999999,
+    "place_id": "ChIJmzIyPCoVDTkR4lw9GCA3Zao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmzIyPCoVDTkR4lw9GCA3Zao",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:10:29"
+  },
+  {
+    "business_name": "Fresqo Cafe & Restaurant",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Chinese restaurant, Fast food restaurant, South Indian restaurant",
+    "pincode": "284202",
+    "phone_number": "+91 98267 03346",
+    "website": "http://www.fresqo.in/",
+    "rating": 3.9,
+    "reviews_count": 177,
+    "address": "8 -A, Samarth parisar, Bawadiya Kalan, Bhopal, Madhya Pradesh 462039, Bhopal, Madhya Pradesh 462039",
+    "area": "Rohit Nagar, Bawadiya Kalan, Gulmohar Colony",
+    "latitude": 23.1762777,
+    "longitude": 77.4336659,
+    "place_id": "ChIJuVvaQOdDfDkRVDFB7WpaZMw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuVvaQOdDfDkRVDFB7WpaZMw",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:10:30"
+  }
+]

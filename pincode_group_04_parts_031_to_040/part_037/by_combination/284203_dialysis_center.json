@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yashita hospital and dialysis center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "284203",
+    "phone_number": "+91 90455 95060",
+    "website": "http://www.yashitahospital.in/",
+    "rating": 4.9,
+    "reviews_count": 41,
+    "address": "Ram ram colony, Kachora Rd, Etawah, Alampur Hauz, Uttar Pradesh 206002",
+    "area": "284203",
+    "latitude": 26.795955,
+    "longitude": 78.97652029999999,
+    "place_id": "ChIJQ8RSBO7fdTkR8RVFUl3Lk8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ8RSBO7fdTkR8RVFUl3Lk8U",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:12:33"
+  },
+  {
+    "business_name": "DCDC Kidney Care, Mahoba",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "284203",
+    "phone_number": "+91 11 4558 1006",
+    "website": "https://dcdc.co.in/",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "District Hospital, near roadways bus stand, Makaniya Purva, Mahoba, Uttar Pradesh 210427",
+    "area": "Makaniya Purva",
+    "latitude": 25.2928119,
+    "longitude": 79.8848917,
+    "place_id": "ChIJeQ4zSQPNgjkRjonFinmDruc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeQ4zSQPNgjkRjonFinmDruc",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:12:34"
+  }
+]

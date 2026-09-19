@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KATIYAR EYE HOSPITAL",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "284406",
+    "phone_number": "+91 94500 06070",
+    "website": "http://katiyareyehospital.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Just front of, Power House, 5/360 Madhuvan House, Lakula Road, Awas Vikas Colony, Farrukhabad, Uttar Pradesh 209601",
+    "area": "Awas Vikas Colony",
+    "latitude": 27.383907699999998,
+    "longitude": 79.6064983,
+    "place_id": "ChIJ3zu939VTVUARSYsCiHgm9Xw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3zu939VTVUARSYsCiHgm9Xw",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:38:14"
+  },
+  {
+    "business_name": "Sanjivani Eye Hospital and Phaco Centre",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Doctor, Lasik surgeon, Ophthalmologist",
+    "pincode": "284406",
+    "phone_number": "+91 98240 24764",
+    "website": "https://sanjivanieyehospital.com/",
+    "rating": 4.8,
+    "reviews_count": 789,
+    "address": "Rudra Complex, opposite Maniben Eye Hospital, near Shardaben General Hospital, Kadiawad, Saraspur, Ahmedabad, Gujarat 380018",
+    "area": "Kadiawad, Saraspur",
+    "latitude": 23.032894799999998,
+    "longitude": 72.6104969,
+    "place_id": "ChIJmUM37SiEXjkRg6G5MIeUjsk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmUM37SiEXjkRg6G5MIeUjsk",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:38:15"
+  }
+]

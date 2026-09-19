@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rimjhim Raj Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "284401",
+    "phone_number": "+91 97554 92116",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Orchha, Madhya Pradesh 472246",
+    "area": "284401",
+    "latitude": 25.350286099999998,
+    "longitude": 78.6413402,
+    "place_id": "ChIJFeLR9414dzkRWXg9zxQTWlg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFeLR9414dzkRWXg9zxQTWlg",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:29:35"
+  },
+  {
+    "business_name": "Mahachai jhansi pump kmt",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "284401",
+    "phone_number": "+91 70301 77000",
+    "website": "https://www.mahachai.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "3km from Toll Plaza, Anand Motors,Vill. Dagarwaha,Post, Shivpuri - Jhansi Rd, Towards, Raksa, Jhansi, Uttar Pradesh 284419",
+    "area": "Towards",
+    "latitude": 25.4662738,
+    "longitude": 78.4250515,
+    "place_id": "ChIJ6Tr2unNvdzkRsE084_ZRdUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Tr2unNvdzkRsE084_ZRdUE",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 07:29:35"
+  }
+]

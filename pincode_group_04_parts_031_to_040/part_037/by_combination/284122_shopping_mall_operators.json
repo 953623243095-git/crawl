@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Capital Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "284122",
+    "phone_number": "+91 755 668 0021",
+    "website": "http://www.capitalmalls.co.in/",
+    "rating": 3.8,
+    "reviews_count": 13086,
+    "address": "5F79+PCG, Narmadapuram Rd, Misrod, Bhopal, Madhya Pradesh 462047",
+    "area": "Misrod",
+    "latitude": 23.1643231,
+    "longitude": 77.46857349999999,
+    "place_id": "ChIJgR01iv9DfDkRgFyYYABcoz4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgR01iv9DfDkRgFyYYABcoz4",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:54:42"
+  },
+  {
+    "business_name": "V Mart",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "284122",
+    "phone_number": "+91 78724 78724",
+    "website": "https://www.vmart.co.in/",
+    "rating": 3.5,
+    "reviews_count": 6,
+    "address": "MCQ6+4RJ, Unnamed Road, Azadpura, Lalitpur, Uttar Pradesh 284403",
+    "area": "Azadpura",
+    "latitude": 24.6878313,
+    "longitude": 78.41200979999999,
+    "place_id": "ChIJN8ZrLQq7eTkRvNocZ6H97ak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN8ZrLQq7eTkRvNocZ6H97ak",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:54:42"
+  }
+]
