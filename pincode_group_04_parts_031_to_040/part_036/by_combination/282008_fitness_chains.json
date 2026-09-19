@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PFC Fitness Club",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "282008",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "A-26, Kedar Nagar, Shahganj, Agra, Uttar Pradesh 282010",
+    "area": "Kedar Nagar, Shahganj",
+    "latitude": 27.176223,
+    "longitude": 77.976282,
+    "place_id": "ChIJFyButsp3dDkRuAHDQvwPO2k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFyButsp3dDkRuAHDQvwPO2k",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:30:02"
+  },
+  {
+    "business_name": "Aditya Fitness Club",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "282008",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "5/210, Alwatiya Rd, New Ram Nagar, Manas Nagar, Badla Ki Sarai, Shahganj, Agra, Uttar Pradesh 282010",
+    "area": "New Ram Nagar, Manas Nagar, Badla Ki Sarai, Shahganj",
+    "latitude": 27.1792615,
+    "longitude": 77.9725077,
+    "place_id": "ChIJ7Rt43IR3dDkRp7QiaKLvZaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Rt43IR3dDkRp7QiaKLvZaQ",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:30:02"
+  }
+]

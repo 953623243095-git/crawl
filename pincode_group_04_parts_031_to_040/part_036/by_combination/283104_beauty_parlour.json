@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nisha beauty parlour JARAR",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "283104",
+    "phone_number": "+91 82187 14199",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "nearby Canara Bank, Bah, Jarar, Uttar Pradesh 283104",
+    "area": "283104",
+    "latitude": 26.873067199999998,
+    "longitude": 78.5706649,
+    "place_id": "ChIJm5tZoeAtdDkRmto3zpyqkJc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm5tZoeAtdDkRmto3zpyqkJc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:41:21"
+  },
+  {
+    "business_name": "PUNAM COSMETICS",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "283104",
+    "phone_number": "+91 85349 06195",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 03, Agra Road, Sohaipura, Bah, Sutahari, Uttar Pradesh 283113",
+    "area": "Sohaipura",
+    "latitude": 26.916234799999998,
+    "longitude": 78.4355817,
+    "place_id": "ChIJOZ40Cro7dDkRVd2e9h6ccX8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOZ40Cro7dDkRVd2e9h6ccX8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:41:24"
+  }
+]

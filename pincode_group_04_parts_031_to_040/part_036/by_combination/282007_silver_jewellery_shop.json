@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "V.S. Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Jeweler, Jewelry buyer",
+    "pincode": "282007",
+    "phone_number": "+91 75003 19918",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dayal Market, Sikandra-Bodla Rd, opposite Kargil petrol pump, Kargil Petrol Pump, Suruchipuram Colony, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Kargil Petrol Pump, Suruchipuram Colony, Sikandra",
+    "latitude": 27.2033013,
+    "longitude": 77.95320439999999,
+    "place_id": "ChIJV-1QzXl3dDkRC0IAs5CPzT8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV-1QzXl3dDkRC0IAs5CPzT8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:27:55"
+  },
+  {
+    "business_name": "Swarn Abhushan",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "282007",
+    "phone_number": "+91 89799 62317",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Amba Prasad Rd, near Jeevan Jyoti Hospital, Avas Vikas Colony, Kushwaha Market, Sector 1, Bodla, Lohamandi, Agra, Nirala, Uttar Pradesh 282007",
+    "area": "Avas Vikas Colony, Kushwaha Market, Sector 1, Bodla, Lohamandi",
+    "latitude": 27.1914114,
+    "longitude": 77.9648763,
+    "place_id": "ChIJc45Wubp3dDkRVas81L-S2jE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc45Wubp3dDkRVas81L-S2jE",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:27:57"
+  }
+]

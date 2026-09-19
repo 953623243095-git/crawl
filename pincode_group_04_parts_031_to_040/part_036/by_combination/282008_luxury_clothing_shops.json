@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tanshu Clothing Store",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "282008",
+    "phone_number": "+91 84332 79542",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "24-B, Rampuri Colony, Kedar Nagar, Shahganj, Agra, Uttar Pradesh 282010",
+    "area": "Kedar Nagar, Shahganj",
+    "latitude": 27.1759992,
+    "longitude": 77.9699217,
+    "place_id": "ChIJw6wYLeF3dDkRoZC4vF3ULUo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw6wYLeF3dDkRoZC4vF3ULUo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:29:52"
+  },
+  {
+    "business_name": "Divya trailer fashion designer",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "282008",
+    "phone_number": "+91 81919 25919",
+    "website": "https://divya-trailer-fashion.grexa.site/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Siroli Rd, Dhanoli, Dhanauli, Agra, Uttar Pradesh 282001",
+    "area": "Dhanoli, Dhanauli",
+    "latitude": 27.1399793,
+    "longitude": 77.9694379,
+    "place_id": "ChIJ0TkoY593dDkRtBF9vzls_MU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0TkoY593dDkRtBF9vzls_MU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:29:52"
+  }
+]

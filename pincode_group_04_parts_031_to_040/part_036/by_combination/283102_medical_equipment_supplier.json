@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ram medical store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center, Medical supply store",
+    "pincode": "283102",
+    "phone_number": "+91 70885 72827",
+    "website": "https://mybillbook.in/store/rmstore",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "b plot number 200, Life Care Centre, Karkunj Rd, nearby kar Kunj, Sector 11, Avas Vikas Colony, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Sector 11, Avas Vikas Colony, Sikandra",
+    "latitude": 27.203554099999998,
+    "longitude": 77.964062,
+    "place_id": "ChIJ142soWR3dDkRaV7oUnuBgmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ142soWR3dDkRaV7oUnuBgmw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:37:19"
+  },
+  {
+    "business_name": "Man Mohan Medical Store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "283102",
+    "phone_number": "+91 89095 22617",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2VF2+G29, opp- State Bank Of India Kagaroll,, Agra, Uttar Pradesh 283119",
+    "area": "283102",
+    "latitude": 27.023775,
+    "longitude": 77.850113,
+    "place_id": "ChIJawkLp02LczkRMW1MHl_VqF0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJawkLp02LczkRMW1MHl_VqF0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:37:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sandeep cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "283104",
+    "phone_number": "+91 63986 45112",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Syahipura, Syahipura tivriya, 1/1, Agra - Bah Rd, above Transport, Agra, Bhari Nagla, Uttar Pradesh 283113",
+    "area": "283104",
+    "latitude": 26.9171575,
+    "longitude": 78.4333584,
+    "place_id": "ChIJ4xFtFwA7dDkRG7mtF672_5Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4xFtFwA7dDkRG7mtF672_5Y",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:40:39"
+  },
+  {
+    "business_name": "Shree Ji Restaurant and Coffee Shop",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "283104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "WF38+M2V, Agra - Bah Rd, Gopal Pura, Uttar Pradesh 283113",
+    "area": "283104",
+    "latitude": 26.9042407,
+    "longitude": 78.4643672,
+    "place_id": "ChIJeWhuEgA7dDkR3DDpYVilRbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeWhuEgA7dDkR3DDpYVilRbo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:40:39"
+  }
+]

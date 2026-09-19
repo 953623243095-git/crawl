@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arpan Nutrition",
+    "search_category": "Organic Food Store",
+    "primary_category": "Sports nutrition store",
+    "all_categories": "Sports nutrition store",
+    "pincode": "282007",
+    "phone_number": "+91 88591 13477",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C1, Shop no 9 Dwarika Street Near Parkshi Police Chowki, Shastripuram, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "C 1, Shastripuram, Sikandra",
+    "latitude": 27.1964819,
+    "longitude": 77.9347884,
+    "place_id": "ChIJEyx632h3dDkRfg-BaWBhGxo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEyx632h3dDkRfg-BaWBhGxo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:27:38"
+  },
+  {
+    "business_name": "Neil Organics",
+    "search_category": "Organic Food Store",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "282007",
+    "phone_number": "+91 98733 50445",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "89, K. K. Nagar, Bain Bazar, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "K. K. Nagar, Bain Bazar, Sikandra",
+    "latitude": 27.2145194,
+    "longitude": 77.9565427,
+    "place_id": "ChIJFzMKuoV3dDkR4BNnlQ7JXQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFzMKuoV3dDkR4BNnlQ7JXQQ",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:27:38"
+  }
+]

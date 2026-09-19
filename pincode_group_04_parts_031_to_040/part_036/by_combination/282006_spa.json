@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Honey body spa",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "282006",
+    "phone_number": "+91 73020 63564",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop no. 33M, infront of Kohinoor jwellers, Fatehabad Rd, near Phase -1, Basai Khurd, Agra, Dhandhupura, Uttar Pradesh 282006",
+    "area": "Basai Khurd",
+    "latitude": 27.1596181,
+    "longitude": 78.0578759,
+    "place_id": "ChIJ6eXRpVNxdDkRmFSZBue5u9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6eXRpVNxdDkRmFSZBue5u9A",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:26:40"
+  },
+  {
+    "business_name": "Shivani body spa",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "282006",
+    "phone_number": "+91 98378 84705",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "TDI Mall, Fatehabad Rd, Basai Khurd, Agra, Dhandhupura, Uttar Pradesh 282006",
+    "area": "Basai Khurd",
+    "latitude": 27.1586249,
+    "longitude": 78.0576361,
+    "place_id": "ChIJl_AuKflxdDkRUaGioTe2wFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl_AuKflxdDkRUaGioTe2wFs",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:26:40"
+  }
+]

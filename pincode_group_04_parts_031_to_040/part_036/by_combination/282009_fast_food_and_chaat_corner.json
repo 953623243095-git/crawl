@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Angel Fast Food Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "282009",
+    "phone_number": "+91 89797 11326",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Deem Ka Nagla Dhandhupura Road Tajgung, Agra, Uttar Pradesh 282006",
+    "area": "282009",
+    "latitude": 27.1671922,
+    "longitude": 78.0572601,
+    "place_id": "ChIJrUwbmgVxdDkR75GRLdIjmZo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrUwbmgVxdDkR75GRLdIjmZo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:31:31"
+  },
+  {
+    "business_name": "Chota Mama Chicken",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Chicken restaurant",
+    "pincode": "282009",
+    "phone_number": "+91 90274 49666",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Karkunj Rd, beside Kargil Petrol Pump, Super Bazar, sector 9, Avas Vikas Colony, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Super Bazar, sector 9, Avas Vikas Colony, Sikandra",
+    "latitude": 27.204080299999998,
+    "longitude": 77.95424589999999,
+    "place_id": "ChIJFyD6g413dDkRRXimJgTaYWw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFyD6g413dDkRRXimJgTaYWw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:31:31"
+  }
+]

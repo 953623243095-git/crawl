@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "La Aromaz",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "283105",
+    "phone_number": "+91 88990 68223",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 31,
+    "address": "H.No. 5A/1A/7-B, Maruti Estate, Bodla Rd, Beedha Nagar, Agra, Uttar Pradesh 282010",
+    "area": "Beedha Nagar, Vinay Nagar",
+    "latitude": 27.183392899999998,
+    "longitude": 77.9699789,
+    "place_id": "ChIJtfn8smd3dDkR35KFbnGyCi0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtfn8smd3dDkR35KFbnGyCi0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:42:31"
+  },
+  {
+    "business_name": "La'chef Sastripuram Agra",
+    "search_category": "Restaurant Chains",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "283105",
+    "phone_number": "+91 99970 12237",
+    "website": "http://lachef.co.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Plot no 9, Rama Enclave, chauraha, Shastri Puram Rd, Kargil Petrol Pump, Sulabh Puram colony, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Kargil Petrol Pump, Sulabh Puram colony, Sikandra",
+    "latitude": 27.202821999999998,
+    "longitude": 77.9518327,
+    "place_id": "ChIJWXJ9IxiJczkRMS9Cbb3qkI4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWXJ9IxiJczkRMS9Cbb3qkI4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:42:34"
+  }
+]

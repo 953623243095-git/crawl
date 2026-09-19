@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Rainbow Lady",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Clothing alteration service",
+    "pincode": "282009",
+    "phone_number": "+91 99270 56784",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Merchant Chamber, U-6, Fatehpur Sikri Rd, Sadar Bazar, Agra Cantt, Idgah Colony, Agra, Uttar Pradesh 282001",
+    "area": "Sadar Bazar, Agra Cantt, Idgah Colony",
+    "latitude": 27.1577642,
+    "longitude": 78.011088,
+    "place_id": "ChIJA2_z3c52dDkRYkInU0QSKCc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA2_z3c52dDkRYkInU0QSKCc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:31:35"
+  },
+  {
+    "business_name": "Lebile Boutique",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "282009",
+    "phone_number": "+91 82732 13725",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4, Bhaskar Complex, Devri Rd, Nagla Bhawani Singh, Agra, Uttar Pradesh 282001",
+    "area": "Nagla Bhawani Singh",
+    "latitude": 27.143167299999998,
+    "longitude": 78.0143137,
+    "place_id": "ChIJQQi927N2dDkRAAAAMOmMjjg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQQi927N2dDkRAAAAMOmMjjg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:31:35"
+  }
+]

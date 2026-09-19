@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taj Tourist Hostel - Best Hostel in Agra near Taj Mahal",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel, Dharamshala, Student dormitory",
+    "pincode": "282004",
+    "phone_number": "+91 97588 55557",
+    "website": "https://tajtouristhostel.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "C-94, TDI City, Agra, Budhera, Uttar Pradesh 282006",
+    "area": "TDI City",
+    "latitude": 27.1372724,
+    "longitude": 78.0802363,
+    "place_id": "ChIJ_VqOcApxdDkRM8cliXLhI7Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_VqOcApxdDkRM8cliXLhI7Q",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:23:04"
+  },
+  {
+    "business_name": "Yogam Homestay Agra",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel, Hotel",
+    "pincode": "282004",
+    "phone_number": "+91 97603 55567",
+    "website": "http://wa.me//+919760355567",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "KPS Town, Jaipuria Greens, A 78, Shamshabad Road, Baroli Ahir, Agra, Jaipuria, Uttar Pradesh 282004",
+    "area": "Baroli Ahir",
+    "latitude": 27.1166785,
+    "longitude": 78.0692691,
+    "place_id": "ChIJLRJBrrZzdDkR5HiDNOTHQ6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLRJBrrZzdDkR5HiDNOTHQ6Y",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:23:04"
+  }
+]

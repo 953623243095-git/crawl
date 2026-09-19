@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manish Family Plaza",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "283101",
+    "phone_number": "+91 90121 00221",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 15,
+    "address": "4QPJ+GMP, Kiraoli, Uttar Pradesh 283122",
+    "area": "283101",
+    "latitude": 27.1363329,
+    "longitude": 77.78169849999999,
+    "place_id": "ChIJ7WG0glyOczkRE6g9CE4GF0U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7WG0glyOczkRE6g9CE4GF0U",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:35:15"
+  },
+  {
+    "business_name": "Saraswat Store Chiksana",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "283101",
+    "phone_number": "+91 90790 80599",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Saraswat Market Chiksana, near PNB Bank, Chiksana, Rajasthan 321001",
+    "area": "283101",
+    "latitude": 27.1936531,
+    "longitude": 77.6580717,
+    "place_id": "ChIJdaImKACbczkRHcqNgaHZz9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdaImKACbczkRHcqNgaHZz9A",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:35:15"
+  }
+]

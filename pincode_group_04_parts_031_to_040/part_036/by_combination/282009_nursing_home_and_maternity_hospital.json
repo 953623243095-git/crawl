@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arora Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Nursing home",
+    "all_categories": "Nursing home, Gastroenterologist, Gastrointestinal surgeon, Obstetrician-gynecologist, Hospital, Orthopedic surgeon, Plastic surgeon, Surgical center",
+    "pincode": "282009",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "65, Phase 1, Defence Estate, Bundu Katra, Madhu Nagar, Agra, Uttar Pradesh 282001",
+    "area": "Bundu Katra, Lakhori, Madhu Nagar",
+    "latitude": 27.1440719,
+    "longitude": 78.0102769,
+    "place_id": "ChIJIyYc0LB2dDkRvTo_71UkZNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIyYc0LB2dDkRvTo_71UkZNM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:31:44"
+  },
+  {
+    "business_name": "Kailash Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "282009",
+    "phone_number": "+91 90121 52020",
+    "website": "https://www.kailashhealthcare.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Khera pachigain, Devri Rd, Agra, Pachgain Khera, Uttar Pradesh 282001",
+    "area": "282009",
+    "latitude": 27.106464499999998,
+    "longitude": 78.02747169999999,
+    "place_id": "ChIJXecLff9zdDkRHLIng3jDZVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXecLff9zdDkRHLIng3jDZVg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:31:45"
+  }
+]

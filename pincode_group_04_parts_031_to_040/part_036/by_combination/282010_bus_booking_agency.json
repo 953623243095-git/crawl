@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agra Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "282010",
+    "phone_number": "+91 84100 02006",
+    "website": "http://www.agratourtravels.com/",
+    "rating": 3.1,
+    "reviews_count": 34,
+    "address": "5294+6HW, Hotel Aditya Palace Namner Crossing, near S R Hospital, Uttar Pradesh 282001",
+    "area": "Katlupur, Rakabganj",
+    "latitude": 27.168117499999997,
+    "longitude": 78.0064642,
+    "place_id": "ChIJ7WDh29l2dDkRiJcD51BHyRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7WDh29l2dDkRiJcD51BHyRw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:33:46"
+  },
+  {
+    "business_name": "Shilpa Shrinath Tourist Agency",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Tour agency",
+    "pincode": "282010",
+    "phone_number": "+91 91527 87454",
+    "website": "http://www.neelambus.com/",
+    "rating": 3.5,
+    "reviews_count": 227,
+    "address": "33, Namner, Rakabganj, Agra, Uttar Pradesh 282001",
+    "area": "Namner, Rakabganj",
+    "latitude": 27.1678373,
+    "longitude": 78.0063081,
+    "place_id": "ChIJ2-1aidl2dDkRmTFmzSiXlKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2-1aidl2dDkRmTFmzSiXlKE",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:33:46"
+  }
+]

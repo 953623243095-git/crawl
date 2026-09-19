@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gauri Shankar Tyres",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "282010",
+    "phone_number": "+91 98087 88134",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop 1-D, Entrance Cut, near Dayal Motors, Transport Colony, Transport Nagar, Agra, Uttar Pradesh 282002",
+    "area": "Transport Colony, Transport Nagar",
+    "latitude": 27.2089566,
+    "longitude": 77.9821267,
+    "place_id": "ChIJlSHyMBp3dDkRYdPZqHL-37g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlSHyMBp3dDkRYdPZqHL-37g",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:33:42"
+  },
+  {
+    "business_name": "P&G TYRE POINT",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "282010",
+    "phone_number": "+91 90844 01844",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "LG-3, Vijeta Complex, Ajmer Rd, Pratap Pura, Rakabganj, Agra, Uttar Pradesh 282001",
+    "area": "Pratap Pura, Rakabganj",
+    "latitude": 27.1668731,
+    "longitude": 78.007442,
+    "place_id": "ChIJBalJxpR3dDkRaWJ3yf-ojFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBalJxpR3dDkRaWJ3yf-ojFo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:33:43"
+  }
+]

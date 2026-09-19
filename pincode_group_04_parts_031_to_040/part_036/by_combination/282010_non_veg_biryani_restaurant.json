@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pape Ka Dhaba",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Non Vegetarian Restaurant",
+    "all_categories": "Non Vegetarian Restaurant, Dhaba",
+    "pincode": "282010",
+    "phone_number": "+91 86507 51216",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 20,
+    "address": "lado gali, Opposite Hotel Shree,Opposite J & K Bank Ltd, Hing ki Mandi, Mantola, Agra, Uttar Pradesh 282003",
+    "area": "Opposite Hotel Shree,Opposite J & K Bank Ltd, Hing ki Mandi, Mantola",
+    "latitude": 27.185621599999997,
+    "longitude": 78.0130666,
+    "place_id": "ChIJH7egvp53dDkRlvmL8oUzjCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH7egvp53dDkRlvmL8oUzjCk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:33:12"
+  },
+  {
+    "business_name": "Labbaik Chicken Corner",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Non Vegetarian Restaurant",
+    "all_categories": "Non Vegetarian Restaurant, Chicken restaurant",
+    "pincode": "282010",
+    "phone_number": "+91 96345 59181",
+    "website": "https://www.swiggy.com/restaurants/labbaik-chicken-corner-nai-ki-mandi-mantola-agra-102884",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Panchkuian, Shahganj, Agra, Uttar Pradesh 282003",
+    "area": "Panchkuian, Shahganj",
+    "latitude": 27.1828333,
+    "longitude": 78.00146,
+    "place_id": "ChIJ8fpPaCN3dDkRghqlblId5jM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8fpPaCN3dDkRghqlblId5jM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:33:14"
+  }
+]

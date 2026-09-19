@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anavi ladies boutique shop",
+    "search_category": "Boutiques",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "282009",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Gaon, Garhi, Rohta, Agra, Uttar Pradesh 282009",
+    "area": "Garhi",
+    "latitude": 27.0884979,
+    "longitude": 78.0149453,
+    "place_id": "ChIJaXizQwB1dDkRvbR79VR1MgM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaXizQwB1dDkRvbR79VR1MgM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:31:40"
+  },
+  {
+    "business_name": "Vastra villa boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer",
+    "pincode": "282009",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bad kakua Agra Uttar Pradesh NH3, Agra, Uttar Pradesh 282009",
+    "area": "282009",
+    "latitude": 27.0618239,
+    "longitude": 77.98027119999999,
+    "place_id": "ChIJW7-s3lh1dDkRIhH-sETLNZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW7-s3lh1dDkRIhH-sETLNZw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:31:42"
+  }
+]

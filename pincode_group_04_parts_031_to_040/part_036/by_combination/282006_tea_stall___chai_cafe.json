@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chanu chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "282006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "33/2/178/CN, Nagla Balchand, Agra, Uttar Pradesh 282006",
+    "area": "Nagla Balchand",
+    "latitude": 27.2009747,
+    "longitude": 78.0488639,
+    "place_id": "ChIJDVypu9lxdDkR81mNWw1zXbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDVypu9lxdDkR81mNWw1zXbo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:25:50"
+  },
+  {
+    "business_name": "पनौती चाय वाला",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "282006",
+    "phone_number": "+91 63963 70736",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 32,
+    "address": "1, Sri Nagar Colony, Trans Yamuna Colony, Agra, Uttar Pradesh 282006",
+    "area": "Sri Nagar Colony, Trans Yamuna Colony",
+    "latitude": 27.2078232,
+    "longitude": 78.0511169,
+    "place_id": "ChIJ9XWHQTBxdDkR2iuWK00OTYI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9XWHQTBxdDkR2iuWK00OTYI",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:25:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajat Pro Store",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "282004",
+    "phone_number": "+91 89238 91842",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 10,
+    "address": "A.484, Trans Yamuna Colony, Agra, Uttar Pradesh 282006",
+    "area": "Trans Yamuna Colony",
+    "latitude": 27.2056164,
+    "longitude": 78.0441036,
+    "place_id": "ChIJeZHvdZZwdDkRPFjfrx0L7l0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeZHvdZZwdDkRPFjfrx0L7l0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:23:49"
+  },
+  {
+    "business_name": "E-commerce service hub",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "E-commerce service",
+    "all_categories": "E-commerce service",
+    "pincode": "282004",
+    "phone_number": "+91 98087 71776",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Block no.6 shop no. 3 kapda market, near avadh hotel, Sanjay Place, Agra, Uttar Pradesh 282002",
+    "area": "Sanjay Palace, Sanjay Place, Civil Lines",
+    "latitude": 27.200632,
+    "longitude": 78.0070697,
+    "place_id": "ChIJQxegF1x3dDkRG6wU8dXOvp8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQxegF1x3dDkRG6wU8dXOvp8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:23:49"
+  }
+]

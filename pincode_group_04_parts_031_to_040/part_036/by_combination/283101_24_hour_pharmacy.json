@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma distributors",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "283101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nath Complex, Mahatma Gandhi Rd, Dhakran Crossing, Panchkuian, Rakabganj, Chanderi, Agra, Uttar Pradesh 282001",
+    "area": "Dhakran Crossing, Panchkuian, Rakabganj",
+    "latitude": 27.1776956,
+    "longitude": 78.0065618,
+    "place_id": "ChIJw_UlMAB3dDkRjdUgggtZTN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw_UlMAB3dDkRjdUgggtZTN0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:35:23"
+  },
+  {
+    "business_name": "Shanjeevani Helpline Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Medical supply store",
+    "pincode": "283101",
+    "phone_number": "+91 97190 10786",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 8,
+    "address": "Shop No.2 M.S Plaza Dehtora, Shastripuram Gol Chakar Agra Dehtora, Shastripuram, Agra, Uttar Pradesh 282007",
+    "area": "Shastripuram",
+    "latitude": 27.2017347,
+    "longitude": 77.9386926,
+    "place_id": "ChIJVWyuNpp3dDkRO4V5JEgZdss",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVWyuNpp3dDkRO4V5JEgZdss",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:35:23"
+  }
+]

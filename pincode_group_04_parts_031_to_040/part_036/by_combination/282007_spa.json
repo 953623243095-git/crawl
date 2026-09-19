@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SPARSH LUXURY SPA",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "282007",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Near Kargil Petrol Pump, Suruchipuram Colony, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Near Kargil Petrol Pump, Suruchipuram Colony, Sikandra",
+    "latitude": 27.2032119,
+    "longitude": 77.9535124,
+    "place_id": "ChIJxb80SO13dDkRwa4TR3FVzEY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxb80SO13dDkRwa4TR3FVzEY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:28:36"
+  },
+  {
+    "business_name": "ashu spa centre",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "282007",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "eat ki mandi road, near by hotel s.r, Kargil Petrol Pump, Dahtaura, Sikandra, Agra, Uttar Pradesh 282004",
+    "area": "Kargil Petrol Pump, Dahtaura, Sikandra",
+    "latitude": 27.1972141,
+    "longitude": 77.95348729999999,
+    "place_id": "ChIJC2h0VJ53dDkRh1NEaDyNwJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC2h0VJ53dDkRh1NEaDyNwJ0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:28:36"
+  }
+]

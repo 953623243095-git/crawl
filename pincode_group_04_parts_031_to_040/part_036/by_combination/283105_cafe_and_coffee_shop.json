@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tropigana Cafe and Juice Bar",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "283105",
+    "phone_number": "+91 91164 62838",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opposite Tyagi Market, Near Kargil Petrol Pump, Paschim Puri, Suruchipuram Colony, Sikandra, Agra, Bainpur Mustkil, Uttar Pradesh 282007",
+    "area": "Near Kargil Petrol Pump, Paschim Puri, Suruchipuram Colony, Sikandra",
+    "latitude": 27.202578499999998,
+    "longitude": 77.94596829999999,
+    "place_id": "ChIJR4fSp-J3dDkRVYiPYNamqr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR4fSp-J3dDkRVYiPYNamqr4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:42:29"
+  },
+  {
+    "business_name": "Unique cafe & restaurant",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "283105",
+    "phone_number": "+91 89797 68890",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Central Park Road, Sector 5, Avas Vikas Colony, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Sector 5, Avas Vikas Colony, Sikandra",
+    "latitude": 27.196156799999997,
+    "longitude": 77.9564666,
+    "place_id": "ChIJxaKbU9V3dDkRw-26rx8i2q4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxaKbU9V3dDkRw-26rx8i2q4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:42:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "282006",
+    "phone_number": "+91 90587 48747",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "F 13/3 Trance yamuna colony Opp Royal Public school Face 2 Rambagh, Agra, Uttar Pradesh 282006",
+    "area": "Valdev Nagar, Trans Yamuna Colony Phase 2",
+    "latitude": 27.2066758,
+    "longitude": 78.0529184,
+    "place_id": "ChIJ3Xg18ZFwdDkRKIH8GaDk3PA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Xg18ZFwdDkRKIH8GaDk3PA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:25:43"
+  },
+  {
+    "business_name": "Shri Bankebihari Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Marriage Consultant",
+    "pincode": "282006",
+    "phone_number": "+91 99176 22077",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G-2, Firozabad Rd, Valdev Nagar, T.Y.C. Phase-II, Agra, Uttar Pradesh 282006",
+    "area": "Valdev Nagar, Trans Yamuna Colony Phase 2",
+    "latitude": 27.2066719,
+    "longitude": 78.05282679999999,
+    "place_id": "ChIJO7zM9pFwdDkRHEv7x-Tbsyc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO7zM9pFwdDkRHEv7x-Tbsyc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:25:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Ram Book Store \"श्री राम बुक स्टोर\"",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Store",
+    "pincode": "283105",
+    "phone_number": "+91 93896 13287",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop N 4, near Railway Crossing, Bichpuri, Agra, Uttar Pradesh 283105",
+    "area": "283105",
+    "latitude": 27.1760749,
+    "longitude": 77.91764189999999,
+    "place_id": "ChIJyTMhGO2JczkR9hig18uyyps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyTMhGO2JczkR9hig18uyyps",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:43:36"
+  },
+  {
+    "business_name": "Shree Shyam Stationery and School Uniform",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "283105",
+    "phone_number": "+91 82180 22307",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "695, Tajganj, Agra, Uttar Pradesh 282006",
+    "area": "Tajganj",
+    "latitude": 27.147124599999998,
+    "longitude": 78.0387506,
+    "place_id": "ChIJ-XvakhRxdDkRZ5mIsxp0e5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-XvakhRxdDkRZ5mIsxp0e5E",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:43:37"
+  }
+]

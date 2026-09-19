@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lala bike repair",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "282005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "62GJ+525, Balkeshwar Rd, Kamla Nagar, Agra, Uttar Pradesh 282005",
+    "area": "Kamla Nagar",
+    "latitude": 27.225412499999997,
+    "longitude": 78.0301205,
+    "place_id": "ChIJmWBhKQB7dDkRNB6T_uBOkDk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmWBhKQB7dDkRNB6T_uBOkDk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:24:25"
+  },
+  {
+    "business_name": "Hind Auto Service Centre",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "282005",
+    "phone_number": "+91 92191 63457",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "6268+4GH, Maharaja Agrasen Marg, Barr Ka Nagra, Sultan Ganj, Ghatwasan, Kamla Nagar, Agra, Uttar Pradesh 282005",
+    "area": "Barr Ka Nagra, Sultan Ganj, Ghatwasan, Kamla Nagar",
+    "latitude": 27.2103145,
+    "longitude": 78.0163608,
+    "place_id": "ChIJx0IqiVJ3dDkR_G0N9quYlro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx0IqiVJ3dDkR_G0N9quYlro",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:24:28"
+  }
+]

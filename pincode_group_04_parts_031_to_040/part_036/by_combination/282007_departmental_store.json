@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nemi Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "282007",
+    "phone_number": "+91 96903 96033",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 5,
+    "address": "6W2R+PH8, Shastri Puram Rd, Near Hanuman mandir, Gorakhpuri Colony, Pashchimpuri, Lohamandi, Agra, Uttar Pradesh 282007",
+    "area": "Gorakhpuri Colony, Pashchimpuri, Lohamandi",
+    "latitude": 27.201784399999998,
+    "longitude": 77.9414489,
+    "place_id": "ChIJB2de2-93dDkRgAqn_9flSRo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB2de2-93dDkRgAqn_9flSRo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:27:36"
+  },
+  {
+    "business_name": "JAIN CREATIONS AND DEPARTMENTAL STORE",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "282007",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "B-32, near Ekta Mall tower vali building, C 1, Shastripuram, Dehtora, Agra, Uttar Pradesh 282007",
+    "area": "C 1, Shastripuram",
+    "latitude": 27.197131199999998,
+    "longitude": 77.934179,
+    "place_id": "ChIJGeMfRQB3dDkRSuglV1xS7hM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGeMfRQB3dDkRSuglV1xS7hM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:27:36"
+  }
+]

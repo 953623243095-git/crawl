@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amarpreet Neuropsychiatry Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Psychiatrist",
+    "all_categories": "Psychiatrist",
+    "pincode": "282005",
+    "phone_number": "+91 94509 02605",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 86,
+    "address": "Phase 1, B 44, opposite Gramin bank, Rambagh, Trans Yamuna Colony, Agra, Uttar Pradesh 282006",
+    "area": "Rambagh, Trans Yamuna Colony",
+    "latitude": 27.205133999999997,
+    "longitude": 78.046054,
+    "place_id": "ChIJN6QRJZRwdDkRg060THPjHtM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN6QRJZRwdDkRg060THPjHtM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:24:21"
+  },
+  {
+    "business_name": "Ayushman clinic ( Gynaec and Dental )",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Dentist, Gynecologist",
+    "pincode": "282005",
+    "phone_number": "+91 89541 60666",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 18,
+    "address": "Sheetla Rd, Khandari Crossing, Khandar, Agra, Uttar Pradesh 282005",
+    "area": "Khandari Crossing, Khandar",
+    "latitude": 27.211178399999998,
+    "longitude": 77.9896213,
+    "place_id": "ChIJPcNHDmR3dDkRUgfTM_0bVvo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPcNHDmR3dDkRUgfTM_0bVvo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:24:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shilpa Masale",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "283105",
+    "phone_number": "+91 96279 94784",
+    "website": "http://shilpamasale.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "E-94, Site C, UPSIDC, Sikandra, Lakhanpur, Agra, Uttar Pradesh 282007",
+    "area": "Site C, UPSIDC, Sikandra",
+    "latitude": 27.215127199999998,
+    "longitude": 77.9226383,
+    "place_id": "ChIJf8wF5dB3dDkR93PJCkK1HSQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf8wF5dB3dDkR93PJCkK1HSQ",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:42:30"
+  },
+  {
+    "business_name": "Chulha India Kitchen",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "283105",
+    "phone_number": "+91 70609 78764",
+    "website": "https://www.instagram.com/chulhaindia?igsh=ajAxOXAydDNxYXph&utm_source=qr",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "kaveri tower 2, ganpati smart city, 601, Agra, Uttar Pradesh 282007",
+    "area": "Sikandra",
+    "latitude": 27.2320103,
+    "longitude": 77.95260449999999,
+    "place_id": "ChIJwbZFo-V5dDkRfUxrrDvaHhE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwbZFo-V5dDkRfUxrrDvaHhE",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:42:31"
+  }
+]

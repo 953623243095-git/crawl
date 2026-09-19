@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MARGADARSI CHITS KARNATAKA PVT LTD",
+    "search_category": "Chit Fund Company",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution",
+    "pincode": "282005",
+    "phone_number": "N/A",
+    "website": "https://www.margadarsi.com/",
+    "rating": 2.5,
+    "reviews_count": null,
+    "address": "AVR HEIGHTS L372 3RD FLOOR HSR LAYOUT 6TH SECTOR, 5th Main Rd, Bengaluru, Karnataka 560102",
+    "area": "Sector 6, HSR Layout",
+    "latitude": 12.9151245,
+    "longitude": 77.6324313,
+    "place_id": "ChIJlY34jQIVrjsRleGR6_pl6_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlY34jQIVrjsRleGR6_pl6_E",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:25:18"
+  },
+  {
+    "business_name": "HDFC Bank",
+    "search_category": "Chit Fund Company",
+    "primary_category": "Bank",
+    "all_categories": "Bank",
+    "pincode": "282005",
+    "phone_number": "+91 1800 1601",
+    "website": "https://www.hdfc.bank.in/branch-locator/uttarpradesh/agra/hdfcbank-branch-kamalanagar",
+    "rating": 1.9,
+    "reviews_count": null,
+    "address": "No C2/50, Professors Colony, Ghatwasan, Kamla Nagar, Agra, Uttar Pradesh 282005",
+    "area": "Professors Colony, Ghatwasan, Kamla Nagar",
+    "latitude": 27.208884899999997,
+    "longitude": 78.0194582,
+    "place_id": "ChIJmZaIT013dDkREPdgWaPgh4A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmZaIT013dDkREPdgWaPgh4A",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:25:18"
+  }
+]

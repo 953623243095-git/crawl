@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vastra Vatika ( A Garden Of Fashion )",
+    "search_category": "Boutiques",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "282007",
+    "phone_number": "+91 94100 00284",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "8/361, 8/361, Krishna Puram Rd, Bain Bazar, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Bain Bazar, Sikandra",
+    "latitude": 27.215530899999997,
+    "longitude": 77.9573504,
+    "place_id": "ChIJky72KgB5dDkR-hDrP9SKhZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJky72KgB5dDkR-hDrP9SKhZM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:28:01"
+  },
+  {
+    "business_name": "The secret shop",
+    "search_category": "Boutiques",
+    "primary_category": "Lingerie store",
+    "all_categories": "Lingerie store",
+    "pincode": "282007",
+    "phone_number": "+91 99112 33647",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 31,
+    "address": "Shop no -11 upper ground vijay business world, Sikandra-Bodla Rd, Kargil Petrol Pump, Agra, Uttar Pradesh 282007",
+    "area": "Kargil Petrol Pump, Sulabh Puram colony, Sikandra",
+    "latitude": 27.2028866,
+    "longitude": 77.9536282,
+    "place_id": "ChIJjeKLYhF3dDkRHdo0KS1SalU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjeKLYhF3dDkRHdo0KS1SalU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:28:04"
+  }
+]

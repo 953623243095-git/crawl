@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fitness forever",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "283101",
+    "phone_number": "+91 95687 23308",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 69,
+    "address": "Uttar Pradesh, Bhawna Estate, Bain Bazar, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Bain Bazar, Sikandra",
+    "latitude": 27.2145685,
+    "longitude": 77.95841,
+    "place_id": "ChIJn5BoTGF3dDkRxtu61n-n5ik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn5BoTGF3dDkRxtu61n-n5ik",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:35:33"
+  },
+  {
+    "business_name": "Being FYT",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "283101",
+    "phone_number": "+91 92596 79302",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Basement, Eent Ki Mandi Rd, below Hotel JS Plaza, Pushpdeep Enclave, Bodla, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Pushpdeep Enclave, Bodla, Sikandra",
+    "latitude": 27.1962111,
+    "longitude": 77.9545309,
+    "place_id": "ChIJzefFfgJ3dDkR60Xv9aW3tsA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzefFfgJ3dDkR60Xv9aW3tsA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:35:33"
+  }
+]

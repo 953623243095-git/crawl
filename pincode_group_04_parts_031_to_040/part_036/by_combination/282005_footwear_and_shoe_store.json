@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harish Shoe",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Footwear wholesaler",
+    "pincode": "282005",
+    "phone_number": "+91 562 320 0629",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Main Market,, Kamla Nagar, Agra, Uttar Pradesh 282005",
+    "area": "Ghatwasan, Kamla Nagar",
+    "latitude": 27.2144816,
+    "longitude": 78.0188429,
+    "place_id": "ChIJCcmo9FJ3dDkRlX2GgIPqvhE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCcmo9FJ3dDkRlX2GgIPqvhE",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:24:10"
+  },
+  {
+    "business_name": "Satsangi Boot House",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Boot store",
+    "all_categories": "Boot store, Shoe store",
+    "pincode": "282005",
+    "phone_number": "+91 97205 07614",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "37/240, Nagla Padi, Swamibagh, DayalBagh, Agra, Uttar Pradesh 282005",
+    "area": "Nagla Padi, Swamibagh, DayalBagh",
+    "latitude": 27.215292299999998,
+    "longitude": 78.00639679999999,
+    "place_id": "ChIJreeklVl3dDkRc4IOuGSbgHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJreeklVl3dDkRc4IOuGSbgHA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:24:11"
+  }
+]

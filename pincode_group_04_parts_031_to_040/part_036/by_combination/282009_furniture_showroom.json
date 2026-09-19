@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganesh Furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store, Office furniture store",
+    "pincode": "282009",
+    "phone_number": "+91 95360 33373",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 25,
+    "address": "Shop No. 1 Near Rukmani Vihar Colony Jakhoda Itora, Road, Agra, Uttar Pradesh 282009",
+    "area": "282009",
+    "latitude": 27.1013567,
+    "longitude": 77.9839009,
+    "place_id": "ChIJo8Ivn7N1dDkR5BPdHzZDx0o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo8Ivn7N1dDkR5BPdHzZDx0o",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:32:11"
+  },
+  {
+    "business_name": "R.K.Foams & Furnishings",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Mattress store",
+    "all_categories": "Mattress store, Window treatment store",
+    "pincode": "282009",
+    "phone_number": "+91 70177 37193",
+    "website": "https://rkfoams-and-furnishings-agra.grexa.site/",
+    "rating": 5,
+    "reviews_count": 63,
+    "address": "61/32, Naulakha, Sadar Bazar, Agra Cantt, Idgah Colony, Agra, Uttar Pradesh 282001",
+    "area": "Naulakha, Sadar Bazar, Agra Cantt, Idgah Colony",
+    "latitude": 27.157563099999997,
+    "longitude": 78.0130468,
+    "place_id": "ChIJh4_l7hp3dDkR7zk7jtJ4Tc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh4_l7hp3dDkR7zk7jtJ4Tc4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:32:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LG Agra Service Center (LG Owned Center)",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Repair service, Television repair service, Washer & dryer repair service",
+    "pincode": "283105",
+    "phone_number": "N/A",
+    "website": "https://www.lg.com/in/support/contact-us/locate-repair-center/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rajendra Space Plot No 6, Ground Floor Sector: 16-B Awas Vikas, Yojna, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Yojna, Sikandra",
+    "latitude": 27.2103681,
+    "longitude": 77.9546318,
+    "place_id": "ChIJw2gsI2t3dDkRgg0461e-vh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw2gsI2t3dDkRgg0461e-vh0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:43:11"
+  },
+  {
+    "business_name": "Authorised Samsung CE Service Center - Hi Tech Air Conditioner",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop",
+    "pincode": "283105",
+    "phone_number": "+91 99274 44477",
+    "website": "http://www.samsung.com/in/support/servicelocation/",
+    "rating": 3.6,
+    "reviews_count": 7,
+    "address": "House No 222-B, Sector 13, Kar Kunj Chauraha, Avas Vikas Colony, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Sector 13, Kar Kunj Chauraha, Avas Vikas Colony, Sikandra",
+    "latitude": 27.207211299999997,
+    "longitude": 77.95535249999999,
+    "place_id": "ChIJK2fDE0J3dDkRP40i14WVLQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK2fDE0J3dDkRP40i14WVLQc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:43:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Singhal Transport Company",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "283101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "175ft road, Shastripuram, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Shastripuram, Sikandra",
+    "latitude": 27.206511799999998,
+    "longitude": 77.9183687,
+    "place_id": "ChIJuQ1zXVyJczkRZAy4JLA4Vq8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuQ1zXVyJczkRZAy4JLA4Vq8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:35:38"
+  },
+  {
+    "business_name": "doctor transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "283101",
+    "phone_number": "+91 93582 79797",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Yamuna Kinara Rd, Jeoni Mandi, Mantola, Agra, Uttar Pradesh 282003",
+    "area": "Jeoni Mandi, Mantola",
+    "latitude": 27.196134299999997,
+    "longitude": 78.02556849999999,
+    "place_id": "ChIJJ8rPiMlwdDkRRvGg0tpNgpY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ8rPiMlwdDkRRvGg0tpNgpY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:35:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SPL Techno Soft",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Service establishment",
+    "pincode": "283101",
+    "phone_number": "N/A",
+    "website": "https://spltechnosoft.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SPL Techno Soft, 283101, India",
+    "area": "283101",
+    "latitude": 14.157641199999999,
+    "longitude": 150.06225,
+    "place_id": "ChIJLdMELPrCcCoRQKrojv-ovGM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLdMELPrCcCoRQKrojv-ovGM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:36:37"
+  },
+  {
+    "business_name": "Classic Advertising Agency",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "283101",
+    "phone_number": "+91 79 4931 2044",
+    "website": "https://www.classicadvertising.in/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Shop no. 197 , block no. 40B , sky tower, Sanjay Place, Agra, Uttar Pradesh 282002",
+    "area": "Sanjay Palace, Sanjay Place, Civil Lines",
+    "latitude": 27.200367999999997,
+    "longitude": 78.0055558,
+    "place_id": "ChIJ5yM9MeN3dDkR5PQRJU_KPoc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5yM9MeN3dDkR5PQRJU_KPoc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:36:37"
+  }
+]

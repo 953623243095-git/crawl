@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Laxmi Daily Needs",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "282009",
+    "phone_number": "+91 94110 84130",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 8,
+    "address": "19, Bundu Katra, Agra Cantt, Defence Estate, Agra, Uttar Pradesh 282001",
+    "area": "Bundu Katra, Agra Cantt, Defence Estate",
+    "latitude": 27.1449116,
+    "longitude": 78.00957319999999,
+    "place_id": "ChIJFRrpajN3dDkRiB63RynCJlo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFRrpajN3dDkRiB63RynCJlo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:31:23"
+  },
+  {
+    "business_name": "Krishna Big Mart",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "282009",
+    "phone_number": "+91 94583 42528",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "1, near Sabji Mandi, Defence Colony, Agra, Uttar Pradesh 282001",
+    "area": "Defence Colony",
+    "latitude": 27.141324299999997,
+    "longitude": 77.99599049999999,
+    "place_id": "ChIJE2JwTXV3dDkR54xnuQ0LRKw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE2JwTXV3dDkR54xnuQ0LRKw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:31:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Famous car care",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "282008",
+    "phone_number": "+91 99587 64071",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 208,
+    "address": "E- 523/2, Ramphal Chowk Rd, Harijan Basti, Palam Extension, Sector 7 Dwarka, Palam, new Delhi, Delhi, 110077",
+    "area": "Harijan Basti, Palam Extension, Sector 7 Dwarka, Palam",
+    "latitude": 28.5893587,
+    "longitude": 77.0718663,
+    "place_id": "ChIJv0oSpWEbDTkRF0bAxD3PaL0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv0oSpWEbDTkRF0bAxD3PaL0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:30:06"
+  },
+  {
+    "business_name": "HP Automotives",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto bodywork mechanic",
+    "all_categories": "Auto bodywork mechanic, Auto body shop",
+    "pincode": "282008",
+    "phone_number": "+91 74540 57016",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "H. No. 280, Shop, 2, Albatiya-Doretha Road, Avadhpuri Colony, Shahganj, Agra, Albatia, Uttar Pradesh 282001",
+    "area": "Avadhpuri Colony, Shahganj",
+    "latitude": 27.1781313,
+    "longitude": 77.9545899,
+    "place_id": "ChIJuYzL5WJ3dDkR9s8e93IyM0Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuYzL5WJ3dDkR9s8e93IyM0Q",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:30:06"
+  }
+]

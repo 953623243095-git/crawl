@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vittal Eye Care And Optical",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "283105",
+    "phone_number": "+91 81918 42205",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Bichpuri Rd, Manghatai, Agra, Uttar Pradesh 282007",
+    "area": "Manghatai",
+    "latitude": 27.181170599999998,
+    "longitude": 77.93505069999999,
+    "place_id": "ChIJGxvxlXd3dDkRbuXDUub-CjE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGxvxlXd3dDkRbuXDUub-CjE",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:42:45"
+  },
+  {
+    "business_name": "Aravind Eye Hospital Free Section",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "283105",
+    "phone_number": "+91 452 435 6100",
+    "website": "https://aravind.org/hospitals/madurai/",
+    "rating": 3.5,
+    "reviews_count": 30,
+    "address": "W4CR+F2X, Kuruvikaran Salai, Anna Nagar, Shenoy Nagar, Madurai, Tamil Nadu 625020",
+    "area": "Kuruvikaran Salai, Anna Nagar, Shenoy Nagar",
+    "latitude": 9.9212473,
+    "longitude": 78.140104,
+    "place_id": "ChIJHyJmj5DFADsRoXIp-vGoP_Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHyJmj5DFADsRoXIp-vGoP_Q",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:42:48"
+  }
+]

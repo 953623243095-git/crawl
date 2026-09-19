@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SN Medical College & Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "282010",
+    "phone_number": "+91 562 226 0353",
+    "website": "http://www.snmcagra.ac.in/",
+    "rating": 3.3,
+    "reviews_count": 164,
+    "address": "Mahatma Gandhi Rd, Raja Mandi, Raja ki Mandi, Mantola, Agra, Uttar Pradesh 282002",
+    "area": "Raja Mandi, Raja ki Mandi, Mantola",
+    "latitude": 27.1882721,
+    "longitude": 78.0014332,
+    "place_id": "ChIJSxBGbzx3dDkRg-g_ysOuvSY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSxBGbzx3dDkRg-g_ysOuvSY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:33:34"
+  },
+  {
+    "business_name": "Dimag Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Psychiatrist",
+    "all_categories": "Psychiatrist, Hospital, Psychiatric hospital",
+    "pincode": "282010",
+    "phone_number": "+91 98370 36136",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 32,
+    "address": "Petrol Pump, 42/4 B, near Madiya Katra, Billochpura, Lohamandi, Agra, Uttar Pradesh 282002",
+    "area": "Billochpura, Lohamandi",
+    "latitude": 27.1991244,
+    "longitude": 77.9901328,
+    "place_id": "ChIJ7xNGlCh3dDkRxVIR0ZoOdTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7xNGlCh3dDkRxVIR0ZoOdTc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:33:35"
+  }
+]

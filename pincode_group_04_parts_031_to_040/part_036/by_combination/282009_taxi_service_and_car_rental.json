@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jain Cab Agra",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "282009",
+    "phone_number": "+91 99274 07311",
+    "website": "https://www.jaincabagra.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near 509 Army base workshop, Bundu Katra, Lakhori, Defence Estate, Agra, Uttar Pradesh 282001",
+    "area": "Bundu Katra, Lakhori, Defence Estate",
+    "latitude": 27.142555599999998,
+    "longitude": 78.01026279999999,
+    "place_id": "ChIJAQAA8LB2dDkR0AoeNBWuAvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAA8LB2dDkR0AoeNBWuAvY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:31:57"
+  },
+  {
+    "business_name": "Royal Agra Cab Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "282009",
+    "phone_number": "+91 63994 16212",
+    "website": "https://sites.google.com/view/royalagracabservice/home",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Valmiki Chopal, Nayi Abadi, Sewla Sarai, Sewla Jat, Nagla Parsoti, Agra, Uttar Pradesh 282009",
+    "area": "Sewla Sarai, Sewla Jat, Nagla Parsoti",
+    "latitude": 27.1242713,
+    "longitude": 78.01078679999999,
+    "place_id": "ChIJqV8xx6Z1dDkRuBku3gxFY2A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqV8xx6Z1dDkRuBku3gxFY2A",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:31:59"
+  }
+]

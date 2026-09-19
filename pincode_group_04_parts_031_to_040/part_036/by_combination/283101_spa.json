@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Oranz Body Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Massage spa, Spa and health club",
+    "pincode": "283101",
+    "phone_number": "+91 88900 08376",
+    "website": "http://oranzbodyspa.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "scheme no.16, Royal reduman, First floor, Plot no.193, Gandhi Path Rd, Girnar Colony, Vaishali Nagar, Jaipur, Rajasthan 302021",
+    "area": "Girnar Colony, Girnar Colony South, Vaishali Nagar",
+    "latitude": 26.9055434,
+    "longitude": 75.741884,
+    "place_id": "ChIJC1fuSQC1bTkRPXRNgSgzeuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC1fuSQC1bTkRPXRNgSgzeuU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:35:52"
+  },
+  {
+    "business_name": "Agarwal Cosmetics",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa, Cosmetics store",
+    "pincode": "283101",
+    "phone_number": "+91 97202 21222",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Runkata, Agra, Uttar Pradesh 282007",
+    "area": "283101",
+    "latitude": 27.2358306,
+    "longitude": 77.8738982,
+    "place_id": "ChIJiSJi3c93dDkRjTW4ikCRc_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiSJi3c93dDkRjTW4ikCRc_s",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:35:53"
+  }
+]

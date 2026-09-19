@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ichchha Veg Biryani & Fast Food",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "283105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bodla Chauraha, Bodla Crossing, Gular Ka Nagla, Agra, Uttar Pradesh 282010",
+    "area": "Bodla Chauraha, Bodla Crossing, Gular Ka Nagla",
+    "latitude": 27.1882153,
+    "longitude": 77.9607815,
+    "place_id": "ChIJrbQr67x3dDkR7gMOTYHoaPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrbQr67x3dDkR7gMOTYHoaPY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:42:26"
+  },
+  {
+    "business_name": "Zam Zam chicken corner",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant",
+    "pincode": "283105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 32,
+    "address": "Shop No. 8 & 9 , UGF, Bhawna Multiplex Bodla Road, Sector 13, Kargil Petrol Pump, Avas Vikas Colony, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Kargil Petrol Pump, Kar Kunj Chauraha, Avas Vikas Colony, Sikandra",
+    "latitude": 27.2045581,
+    "longitude": 77.95364239999999,
+    "place_id": "ChIJa49P6pV3dDkRgsto4Ri3GEk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa49P6pV3dDkRgsto4Ri3GEk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:42:30"
+  }
+]

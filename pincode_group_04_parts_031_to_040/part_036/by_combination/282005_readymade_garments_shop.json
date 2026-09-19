@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neetu Ladies Wear",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "282005",
+    "phone_number": "+91 562 430 6070",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 18,
+    "address": "Dayal Bagh Rd, Tamanna Market, New Agra, Swamibagh, Nagla Padi, Agra, Uttar Pradesh 282005",
+    "area": "Tamanna Market, New Agra, Swamibagh, Nagla Padi",
+    "latitude": 27.2159825,
+    "longitude": 78.00548619999999,
+    "place_id": "ChIJszSdqFl3dDkReauk-vFX_f4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJszSdqFl3dDkReauk-vFX_f4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:24:04"
+  },
+  {
+    "business_name": "Raja Garments",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "282005",
+    "phone_number": "+91 94121 69833",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "51/6, Balkeshwar Colony, Kamla Nagar, Agra, Uttar Pradesh 282004",
+    "area": "Balkeshwar Colony, Kamla Nagar",
+    "latitude": 27.211444699999998,
+    "longitude": 78.02843109999999,
+    "place_id": "ChIJMaX1ya9wdDkRuY8t4MFoDDg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMaX1ya9wdDkRuY8t4MFoDDg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:24:07"
+  }
+]

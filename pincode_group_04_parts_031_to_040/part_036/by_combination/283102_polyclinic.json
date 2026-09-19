@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yogendra Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "283102",
+    "phone_number": "+91 96349 90700",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": null,
+    "address": "Ukhara Rd, near Himachal collony, Gopal Pura, Agra, Uttar Pradesh 282001",
+    "area": "Gopal Pura",
+    "latitude": 27.1415293,
+    "longitude": 78.017932,
+    "place_id": "ChIJa-QXF7J2dDkRO7rzZjW4ftk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa-QXF7J2dDkRO7rzZjW4ftk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:37:15"
+  },
+  {
+    "business_name": "Govind Health Care Center",
+    "search_category": "Polyclinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "283102",
+    "phone_number": "+91 92192 72289",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Taal Semri - Devri Rd, Sewla Jat, Nagla Parsoti, Agra, Uttar Pradesh 282001",
+    "area": "Sewla Jat, Nagla Parsoti",
+    "latitude": 27.121965399999997,
+    "longitude": 78.012517,
+    "place_id": "ChIJ40_09AN0dDkROEwHxD09QPM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ40_09AN0dDkROEwHxD09QPM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:37:17"
+  }
+]

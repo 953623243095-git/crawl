@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Car Zone",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "282005",
+    "phone_number": "+91 99276 33779",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "43/500/25, Bypass Rd, opposite Synergy Plus Hospital, Delhi, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Sikandra",
+    "latitude": 27.209982,
+    "longitude": 77.9639595,
+    "place_id": "ChIJYYE43oV3dDkRsEqoPNJ36_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYYE43oV3dDkRsEqoPNJ36_s",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:24:30"
+  },
+  {
+    "business_name": "HINDUSTAN TYRE",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "282005",
+    "phone_number": "+91 79065 20360",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "2/295, Transport Nagar Rd, Transport Colony, Transport Nagar, Agra, Uttar Pradesh 282002",
+    "area": "Transport Colony, Transport Nagar",
+    "latitude": 27.2068162,
+    "longitude": 77.98118939999999,
+    "place_id": "ChIJb_HZC6ENdDkR8LhLpuhF0XI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb_HZC6ENdDkR8LhLpuhF0XI",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:24:30"
+  }
+]

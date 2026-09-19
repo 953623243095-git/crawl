@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jeevan Shree Chemist",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Drug store",
+    "all_categories": "Drug store",
+    "pincode": "282010",
+    "phone_number": "+91 98371 56440",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Satyam Multiplex, opposite Padam Plaza, Sector 12, Avas Vikas Colony, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Sector 12, Avas Vikas Colony, Sikandra",
+    "latitude": 27.206118,
+    "longitude": 77.97142,
+    "place_id": "ChIJfdXx24J3dDkR5IpSTJ-QeDk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfdXx24J3dDkR5IpSTJ-QeDk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:33:29"
+  },
+  {
+    "business_name": "Om sai help pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "282010",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nai ki Mandi Rd, Chanderi, Panchkuian, Rakabganj, Agra, Uttar Pradesh 282003",
+    "area": "Chanderi, Panchkuian, Rakabganj",
+    "latitude": 27.1800584,
+    "longitude": 78.005563,
+    "place_id": "ChIJfTtXUYV3dDkR4rpDlpYKQt8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfTtXUYV3dDkR4rpDlpYKQt8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:33:29"
+  }
+]

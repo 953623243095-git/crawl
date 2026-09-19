@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gemini Hospitality Consultants",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "282008",
+    "phone_number": "+91 99100 06395",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "136/7, Begumpur, Shivalik Road, Malviya Nagar, New Delhi, Delhi 110017",
+    "area": "Block E, Malviya Nagar",
+    "latitude": 28.534951399999997,
+    "longitude": 77.2080896,
+    "place_id": "ChIJVTc37RziDDkRIOGR1i5Ng4k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVTc37RziDDkRIOGR1i5Ng4k",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:30:36"
+  },
+  {
+    "business_name": "Hindustan Consulting Services India Private Limited",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Service establishment",
+    "pincode": "282008",
+    "phone_number": "+91 90324 23333",
+    "website": "http://www.hcsipl.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Hindustan Consulting Services India Private Limited, 282008, India",
+    "area": "282008",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJK1ZMId6TyzsRG8EP5BslzW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK1ZMId6TyzsRG8EP5BslzW0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:30:36"
+  }
+]

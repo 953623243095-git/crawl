@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Autonation Car Service Center",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "283104",
+    "phone_number": "+91 93156 55027",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 614,
+    "address": "PLOT NO -3, GALI NO-1, 2, MAIN GOYLA DAIRY ROAD, Shyam Vihar Phase-1, Delhi, 110043",
+    "area": "Deenpur, Shyam Vihar Phase-1, Najafgarh",
+    "latitude": 28.5902267,
+    "longitude": 76.99809259999999,
+    "place_id": "ChIJ3-jvOZ4RDTkRCbgPDVt4lKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3-jvOZ4RDTkRCbgPDVt4lKo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:41:04"
+  },
+  {
+    "business_name": "Colonel's Petrol Pump",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Petrol Pump",
+    "all_categories": "Petrol Pump, Diesel fuel supplier, Petroleum Products Company",
+    "pincode": "283104",
+    "phone_number": "+91 86508 86508",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 18,
+    "address": "Bhaupura, Agra - Bah Rd, Agra, Uttar Pradesh 283104",
+    "area": "283104",
+    "latitude": 26.881698099999998,
+    "longitude": 78.53699189999999,
+    "place_id": "ChIJ_brIQvwvdDkRQ0vw_ITLH2g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_brIQvwvdDkRQ0vw_ITLH2g",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:41:05"
+  }
+]

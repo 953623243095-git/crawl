@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raja Computer & Jan Seva Kendra",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Internet cafe",
+    "pincode": "283105",
+    "phone_number": "+91 79069 27748",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop N 1, Goswami Market, Church Rd, Radha Nagar, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Radha Nagar, Sikandra",
+    "latitude": 27.216787,
+    "longitude": 77.9464105,
+    "place_id": "ChIJIxet9th5dDkRCVdXIo_xFTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIxet9th5dDkRCVdXIo_xFTU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:43:38"
+  },
+  {
+    "business_name": "NRD Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Sweet shop",
+    "pincode": "283105",
+    "phone_number": "+91 98371 71803",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "4 Nihal Complex Sector-5 Bodia Sikandra Main Road, Agra, Uttar Pradesh 282007",
+    "area": "Sector 5, Avas Vikas Colony, Lohamandi",
+    "latitude": 27.196163499999997,
+    "longitude": 77.95556069999999,
+    "place_id": "ChIJrYDOHiZ3dDkRzhFRVyLVF4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrYDOHiZ3dDkRzhFRVyLVF4o",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:43:38"
+  }
+]

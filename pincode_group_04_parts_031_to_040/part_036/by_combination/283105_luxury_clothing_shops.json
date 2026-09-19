@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vilip The Designer Store",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "283105",
+    "phone_number": "+91 75359 69969",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop no 6, Upper Floor, Royal Rohini Complex, near Vaishno Devi Mandir, Paschim Puri, Kargil, Sikandra, Agra, Bainpur Mustkil, Uttar Pradesh 282007",
+    "area": "Paschim Puri, Kargil, Sikandra",
+    "latitude": 27.202860299999998,
+    "longitude": 77.94874209999999,
+    "place_id": "ChIJU08NDdp3dDkR1iVScWFcHcs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU08NDdp3dDkR1iVScWFcHcs",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:42:41"
+  },
+  {
+    "business_name": "Guruji Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "283105",
+    "phone_number": "+91 97567 76736",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 9,
+    "address": "Shop No 134, Pink City, Colony 283105, near Tulsi budget villa, Pathauli Village, Patholi, Agra, Uttar Pradesh 283105",
+    "area": "Pathauli Village",
+    "latitude": 27.166589,
+    "longitude": 77.931186,
+    "place_id": "ChIJ939LYf13dDkRb4qfzOfDFRs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ939LYf13dDkRb4qfzOfDFRs",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:42:43"
+  }
+]

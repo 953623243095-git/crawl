@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Velora brew cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "282009",
+    "phone_number": "+91 78306 95568",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "On, inner ring road, near Shamshabad Road, Agra, Jaipuria, Uttar Pradesh 283125",
+    "area": "282009",
+    "latitude": 27.1150356,
+    "longitude": 78.0699035,
+    "place_id": "ChIJSV21NgBzdDkRG9YCsxPpYC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSV21NgBzdDkRG9YCsxPpYC0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:31:29"
+  },
+  {
+    "business_name": "The Hangout Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Restaurant",
+    "pincode": "282009",
+    "phone_number": "+91 87552 08360",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Plot No 4, Anupam Shaurya Vihar, Bamrauli Rd, opp. W Resort, Nainana Jat, Rohta, Uttar Pradesh 282009",
+    "area": "Nainana Jat",
+    "latitude": 27.109484199999997,
+    "longitude": 77.99184439999999,
+    "place_id": "ChIJAc_pwyJ1dDkRY24ALNhakaI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAc_pwyJ1dDkRY24ALNhakaI",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:31:29"
+  }
+]

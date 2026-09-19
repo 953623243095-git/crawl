@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M-Tech Solutions Agra",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "282008",
+    "phone_number": "+91 84455 77249",
+    "website": "https://mtechsolution.in/",
+    "rating": 4.5,
+    "reviews_count": 13,
+    "address": "Jagner Rd, Nagla Buddha, Dhanoli, Uda Ka Nagla, Agra, Uttar Pradesh 282001",
+    "area": "Nagla Buddha, Dhanoli, Uda Ka Nagla",
+    "latitude": 27.147229,
+    "longitude": 77.9758208,
+    "place_id": "ChIJidGCXoZ3dDkR52PRwN84JMY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJidGCXoZ3dDkR52PRwN84JMY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:31:02"
+  },
+  {
+    "business_name": "M/s Gargi Refrigeration & Air Conditioning Eng",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "282008",
+    "phone_number": "+91 80 4897 7608",
+    "website": "http://gargirefrigeration.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop no. 3, Mahni Marke, New Siddarth Apartment, Sanjay Nagar, Pashupati Colony, Khandari, Agra, Uttar Pradesh 282002",
+    "area": "Sanjay Nagar, Pashupati Colony, Khandari",
+    "latitude": 27.2104039,
+    "longitude": 78.0009288,
+    "place_id": "ChIJb6479Vx3dDkRhJocc4SMcEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb6479Vx3dDkRhJocc4SMcEQ",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:31:04"
+  }
+]

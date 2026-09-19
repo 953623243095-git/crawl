@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vivek Kumar",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "283101",
+    "phone_number": "+91 70606 55038",
+    "website": "N/A",
+    "rating": 1.5,
+    "reviews_count": null,
+    "address": "Achhnera Sandhan Road Sandhan Aga Sandhan Achhnera, Agra, Uttar Pradesh 283101",
+    "area": "283101",
+    "latitude": 27.2289618,
+    "longitude": 77.70439549999999,
+    "place_id": "ChIJQaNLrRCbczkRz3HeoDkx58I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQaNLrRCbczkRz3HeoDkx58I",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:36:06"
+  },
+  {
+    "business_name": "Balvatika Play School",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "283101",
+    "phone_number": "+91 82648 67849",
+    "website": "https://www.bragnam.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "C-2, B -386, Shastripuram, Agra, Uttar Pradesh 282007",
+    "area": "Shastripuram",
+    "latitude": 27.195096799999998,
+    "longitude": 77.9280422,
+    "place_id": "ChIJw7Io-n2JczkRg-PmcEokiFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw7Io-n2JczkRg-PmcEokiFI",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:36:06"
+  }
+]

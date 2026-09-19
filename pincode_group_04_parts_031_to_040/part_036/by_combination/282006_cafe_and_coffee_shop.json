@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "D Cafe & Kitchen",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "282006",
+    "phone_number": "+91 85959 55905",
+    "website": "https://dcafekitchen.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ground Floor, No. 618, The Hosteller, 619, Dhandhupura Rd, Tajganj, Basai, Agra, Uttar Pradesh 282001",
+    "area": "Tajganj",
+    "latitude": 27.1670433,
+    "longitude": 78.0557007,
+    "place_id": "ChIJYTVKf4hxdDkRsSTg__vcF3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYTVKf4hxdDkRsSTg__vcF3g",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:25:55"
+  },
+  {
+    "business_name": "Indian coffee",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "282006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shop no 2 situated, at Asad gali, Dharmapuri, Paktola, Tajganj, Dharmapuri, Agra, Uttar Pradesh 282001",
+    "area": "Dharmapuri, Paktola, Tajganj",
+    "latitude": 27.170648999999997,
+    "longitude": 78.0441428,
+    "place_id": "ChIJT5pYef9xdDkRAVn55RWKT08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT5pYef9xdDkRAVn55RWKT08",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:25:58"
+  }
+]

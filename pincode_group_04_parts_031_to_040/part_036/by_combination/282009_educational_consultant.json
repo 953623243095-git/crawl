@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chahar Institute",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "282009",
+    "phone_number": "N/A",
+    "website": "https://chaharinstitute.online/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Crystal City Rd, Agra, Uttar Pradesh 282009",
+    "area": "282009",
+    "latitude": 27.082904499999998,
+    "longitude": 77.9835734,
+    "place_id": "ChIJycNsW-51dDkRXZdO9GLmp-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJycNsW-51dDkRXZdO9GLmp-M",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:32:30"
+  },
+  {
+    "business_name": "Nios Agra ( Distance educational center) Agra",
+    "search_category": "Educational Consultant",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "282009",
+    "phone_number": "+91 88996 69100",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 23,
+    "address": "near Smart point, Phase 2, Agra Cantt, Defence Estate, Agra, Uttar Pradesh 282001",
+    "area": "Phase 2, Agra Cantt, Defence Estate",
+    "latitude": 27.145003499999998,
+    "longitude": 78.0110352,
+    "place_id": "ChIJN1lmvyR3dDkRBOFlgs3vAUU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN1lmvyR3dDkRBOFlgs3vAUU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:32:31"
+  }
+]

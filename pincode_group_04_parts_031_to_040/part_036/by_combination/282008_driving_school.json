@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manoop Khan",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "282008",
+    "phone_number": "+91 84458 68089",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tata Gate 07860786, Airport Station, Airport Area, Idgah Colony, Agra, Uttar Pradesh 282008",
+    "area": "Airport Area, Idgah Colony",
+    "latitude": 27.1587155,
+    "longitude": 77.9728612,
+    "place_id": "ChIJoxk5buJxdDkRl4MidhnXR_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoxk5buJxdDkRl4MidhnXR_c",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:30:12"
+  },
+  {
+    "business_name": "Water Plant",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "282008",
+    "phone_number": "+91 97607 44653",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "5B/16, Krishna Nagar, Manas Nagar, Badla Ki Sarai, Shahganj, Agra, Uttar Pradesh 282010",
+    "area": "Krishna Nagar, Manas Nagar, Badla Ki Sarai, Shahganj",
+    "latitude": 27.1813552,
+    "longitude": 77.97407679999999,
+    "place_id": "ChIJJ-tcGzV3dDkRiP1Lx_jT8Gk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ-tcGzV3dDkRiP1Lx_jT8Gk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:30:12"
+  }
+]

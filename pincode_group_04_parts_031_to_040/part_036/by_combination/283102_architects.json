@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ARCHADIUM",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm, Architectural designer",
+    "pincode": "283102",
+    "phone_number": "+91 88811 18811",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "First Floor, Pushpanjali Commercial Complex, 9, Shastri Puram Rd, Near Kargil Petrol Pump, Suruchipuram Colony, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Near Kargil Petrol Pump, Suruchipuram Colony, Sikandra",
+    "latitude": 27.203214,
+    "longitude": 77.9528188,
+    "place_id": "ChIJV_msNf13dDkRrmwwD0nPPbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV_msNf13dDkRrmwwD0nPPbY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:37:37"
+  },
+  {
+    "business_name": "Creative Corner",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect",
+    "pincode": "283102",
+    "phone_number": "+91 89797 84233",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Shop No.10, Kalyani Complex, Road, Paschim Puri, Sulabh Puram colony, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Paschim Puri, Sulabh Puram colony, Sikandra",
+    "latitude": 27.2026029,
+    "longitude": 77.9496449,
+    "place_id": "ChIJrcav4iJ3dDkRwtwdpStxJj0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrcav4iJ3dDkRwtwdpStxJj0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:37:38"
+  }
+]

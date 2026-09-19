@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kalwari Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "General hospital",
+    "all_categories": "General hospital",
+    "pincode": "283105",
+    "phone_number": "+91 63977 81387",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bichpuri Rd, near Om factory, Bodla, Manghatai, Agra, Uttar Pradesh 283105",
+    "area": "Bodla, Manghatai",
+    "latitude": 27.1824521,
+    "longitude": 77.9354829,
+    "place_id": "ChIJ3-_-EwB3dDkRFYWeslDp8bU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3-_-EwB3dDkRFYWeslDp8bU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:42:45"
+  },
+  {
+    "business_name": "OM Multispeciality Clinic",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic, Dentist, Esthetics service, Hair transplantation clinic, Orthopedic clinic, Orthopedic surgeon, Orthotics & Prosthetics Centre, Pediatric orthopedic surgeon, Physiotherapy Center, Rheumatologist",
+    "pincode": "283105",
+    "phone_number": "+91 97603 56054",
+    "website": "https://drmayurgupta.wordpress.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "312, A, 312, A, near Canara Bank, Sector 12, Avas Vikas Colony, Sikandra, Agra, Uttar Pradesh 282002",
+    "area": "Sector 12, Avas Vikas Colony, Sikandra",
+    "latitude": 27.2044914,
+    "longitude": 77.97067249999999,
+    "place_id": "ChIJR-KtNoB3dDkR0cKoAnSAgYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR-KtNoB3dDkR0cKoAnSAgYE",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:42:46"
+  }
+]

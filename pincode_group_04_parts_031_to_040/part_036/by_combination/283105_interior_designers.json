@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vaarya Interiors",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "283105",
+    "phone_number": "+91 92587 67358",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop no. 31, Ground Floor, Ekta mall, C 1, Dahtaura, Shastripuram, Agra, Uttar Pradesh 282007",
+    "area": "C 1, Dahtaura, Shastripuram",
+    "latitude": 27.1966544,
+    "longitude": 77.9333523,
+    "place_id": "ChIJBVbJs2l3dDkR3AULGUcBpXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBVbJs2l3dDkR3AULGUcBpXY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:43:09"
+  },
+  {
+    "business_name": "Agarwal Design Studio | ADS",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Architect",
+    "pincode": "283105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No.-2, A-33, near Karkunj Road, Sector 11, Avas Vikas Colony, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Sector 11, Avas Vikas Colony, Sikandra",
+    "latitude": 27.202013899999997,
+    "longitude": 77.9614953,
+    "place_id": "ChIJGYBkO6t3dDkRRb6IujT52YM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGYBkO6t3dDkRRb6IujT52YM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:43:11"
+  }
+]

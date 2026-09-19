@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Infinity Fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "283105",
+    "phone_number": "+91 89794 05523",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 13,
+    "address": "6W3V+C7C, Radhika Vihar Rd, Harish Nagar, Narain Vihar, Suruchipuram Colony, Lohamandi, Bainpur Mustkil, Uttar Pradesh 282007",
+    "area": "Harish Nagar, Narain Vihar, Suruchipuram Colony, Lohamandi",
+    "latitude": 27.203573199999997,
+    "longitude": 77.9431251,
+    "place_id": "ChIJzwwzN0B3dDkRTJpm7QiLNsg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzwwzN0B3dDkRTJpm7QiLNsg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:42:52"
+  },
+  {
+    "business_name": "K.S. Fitness World",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Fitness center, Yoga studio",
+    "pincode": "283105",
+    "phone_number": "+91 91491 01356",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 98,
+    "address": "B260, HIG, Dahtaura, Shastripuram, Agra, Uttar Pradesh 282007",
+    "area": "Dahtaura, Shastripuram",
+    "latitude": 27.1996748,
+    "longitude": 77.9374775,
+    "place_id": "ChIJZ87YoNZ3dDkR4QHtQzEhGbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ87YoNZ3dDkR4QHtQzEhGbU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:42:52"
+  }
+]

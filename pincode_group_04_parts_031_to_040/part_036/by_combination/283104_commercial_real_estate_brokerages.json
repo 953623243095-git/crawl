@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BM Properties",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "283104",
+    "phone_number": "+91 98370 29310",
+    "website": "https://www.bmpropertiesagra.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Block No-25, Sanjay Palace, Sanjay Place, Civil Lines, Agra, Uttar Pradesh 282002",
+    "area": "Sanjay Palace, Sanjay Place, Civil Lines",
+    "latitude": 27.1991831,
+    "longitude": 78.0045196,
+    "place_id": "ChIJY-HtVUZ3dDkRmraxLLI4Vd0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY-HtVUZ3dDkRmraxLLI4Vd0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:41:58"
+  },
+  {
+    "business_name": "Save Max Real Estate",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "283104",
+    "phone_number": "+91 97111 06106",
+    "website": "https://savemax.in/",
+    "rating": 4.9,
+    "reviews_count": 130,
+    "address": "11th Floor, M3M Urbana Premium, Golf Course Ext Rd, Sector 67, Sector 66, Gurugram, Haryana 122101",
+    "area": "Sector 67, Sector 66",
+    "latitude": 28.401933999999997,
+    "longitude": 77.0597153,
+    "place_id": "ChIJedo-hWwB4mcRfyYQzLn2QXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJedo-hWwB4mcRfyYQzLn2QXY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:41:58"
+  }
+]

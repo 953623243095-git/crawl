@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paridhan",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "283102",
+    "phone_number": "+91 98978 78859",
+    "website": "https://www.patanjaliparidhan.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "45, Shastri Puram Rd, Opp. Bharat Petroleum Corporation Limited, Pushpanjali Vihar Colony, Bodla, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Pushpanjali Vihar Colony, Bodla, Sikandra",
+    "latitude": 27.2028622,
+    "longitude": 77.9527425,
+    "place_id": "ChIJ6aBzmZJ3dDkRIxqqylbTh6g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6aBzmZJ3dDkRIxqqylbTh6g",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:37:00"
+  },
+  {
+    "business_name": "Bhoomi Saree and Suits",
+    "search_category": "Saree Showroom",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "283102",
+    "phone_number": "+91 95286 63285",
+    "website": "http://bhoomisarees.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop no 6, Vaishno vihar, opposite janki vatika honey complex, shadtripuram, Shastripuram, Agra, Bainpur Mustkil, Uttar Pradesh 282007",
+    "area": "shadtripuram, Shastripuram",
+    "latitude": 27.209540399999998,
+    "longitude": 77.93256029999999,
+    "place_id": "ChIJIZD449l3dDkRzXc3FvSTg0M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIZD449l3dDkRzXc3FvSTg0M",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:37:01"
+  }
+]

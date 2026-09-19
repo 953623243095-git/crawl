@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gautam Events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "282006",
+    "phone_number": "+91 95286 88455",
+    "website": "https://gautam-events.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": 18,
+    "address": "80 Feet Rd, Nagla Rambal, Kalindi Vihar, Agra, Uttar Pradesh 282006",
+    "area": "Nagla Rambal, Kalindi Vihar",
+    "latitude": 27.217696699999998,
+    "longitude": 78.0570978,
+    "place_id": "ChIJBUSlfwO5XEwRvp3JcaDaXNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBUSlfwO5XEwRvp3JcaDaXNw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:26:54"
+  },
+  {
+    "business_name": "S2S Events & Promotions",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "282006",
+    "phone_number": "+91 89235 33000",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "Durga nagar, Nunhai Rd, Peelakhar, Industrial Estate, Agra, Uttar Pradesh 282006",
+    "area": "Peelakhar, Industrial Estate",
+    "latitude": 27.2036151,
+    "longitude": 78.058632,
+    "place_id": "ChIJW3WhQ29xdDkRO7KOTuxPbRA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW3WhQ29xdDkRO7KOTuxPbRA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:26:54"
+  }
+]

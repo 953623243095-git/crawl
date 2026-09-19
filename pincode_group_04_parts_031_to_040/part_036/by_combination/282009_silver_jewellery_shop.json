@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vidhi Chandra Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "282009",
+    "phone_number": "+91 98707 55807",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No.5, Sukharam Ji Market, Sewla Rd, nearby Lakhan Oil Mil, Tal, Saimari, Agra, Uttar Pradesh 282009",
+    "area": "Tal, Saimari",
+    "latitude": 27.1189379,
+    "longitude": 78.02128739999999,
+    "place_id": "ChIJu3IoOohzdDkRQwFFIF5P_Gk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu3IoOohzdDkRQwFFIF5P_Gk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:31:35"
+  },
+  {
+    "business_name": "Maheshwari Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "282009",
+    "phone_number": "+91 83939 22916",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 23,
+    "address": "Bundu Katra, Lakhori, Madhu Nagar, Agra, Uttar Pradesh 282001",
+    "area": "Bundu Katra, Lakhori, Madhu Nagar",
+    "latitude": 27.142443,
+    "longitude": 78.008904,
+    "place_id": "ChIJlcVM9a92dDkRREEzShJRVdw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlcVM9a92dDkRREEzShJRVdw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:31:38"
+  }
+]

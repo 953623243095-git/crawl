@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Best Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "282007",
+    "phone_number": "+91 93686 27727",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 7,
+    "address": "623R+5XJ, Trans Yamuna Colony, Agra, Uttar Pradesh 282006",
+    "area": "Trans Yamuna Colony",
+    "latitude": 27.202952699999997,
+    "longitude": 78.042403,
+    "place_id": "ChIJqSJdh5VwdDkRk2017EYszQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqSJdh5VwdDkRk2017EYszQc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:27:41"
+  },
+  {
+    "business_name": "Salman chicken corner",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat wholesaler",
+    "all_categories": "Meat wholesaler",
+    "pincode": "282007",
+    "phone_number": "+91 63972 03335",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Pashchimpuri Rd, Dahtaura, Lohamandi, Agra, Uttar Pradesh 282007",
+    "area": "Dahtaura, Lohamandi",
+    "latitude": 27.2013505,
+    "longitude": 77.94643719999999,
+    "place_id": "ChIJIeu4Ybp3dDkRU-6Q0bWdcMM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIeu4Ybp3dDkRU-6Q0bWdcMM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:27:42"
+  }
+]

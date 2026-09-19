@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajasthani Hotel",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Rajasthani Restaurant",
+    "all_categories": "Rajasthani Restaurant, Indian restaurant",
+    "pincode": "283104",
+    "phone_number": "+91 94600 39399",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "रोड, Sirsaganj, Dhatri, Uttar Pradesh 283151",
+    "area": "283104",
+    "latitude": 27.075539199999998,
+    "longitude": 78.64644109999999,
+    "place_id": "ChIJlSYMtzI1dDkRQ26UrnoJKVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlSYMtzI1dDkRQ26UrnoJKVU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:40:38"
+  },
+  {
+    "business_name": "Shankar Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "283104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "VFXM+2HM, Uttar Pradesh 283113",
+    "area": "283104",
+    "latitude": 26.897589999999997,
+    "longitude": 78.4839245,
+    "place_id": "ChIJI3rUAQUwdDkRwCRgAW9xuC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI3rUAQUwdDkRwCRgAW9xuC0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:40:38"
+  }
+]

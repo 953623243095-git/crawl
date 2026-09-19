@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai Sutta Bar",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "283105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6X65+WFJ, Shastripuram, Bajrang Nagar, Agra, Uttar Pradesh 282007",
+    "area": "Shastripuram, Bajrang Nagar",
+    "latitude": 27.212339699999998,
+    "longitude": 77.9586446,
+    "place_id": "ChIJgdXpbwB3dDkRrFexPwcg7d0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgdXpbwB3dDkRrFexPwcg7d0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:42:25"
+  },
+  {
+    "business_name": "The Foodie Panda",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "283105",
+    "phone_number": "+91 74650 36096",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop no. 1, Ground floor, BBC Agora, 15/15, Sector 15-B, Kar Kunj Chauraha, Avas Vikas Colony, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Sector 15-B, Kar Kunj Chauraha, Avas Vikas Colony, Sikandra",
+    "latitude": 27.203682399999998,
+    "longitude": 77.9658358,
+    "place_id": "ChIJy3YKcpB3dDkRh9rzTj6FHH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy3YKcpB3dDkRh9rzTj6FHH8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:42:25"
+  }
+]

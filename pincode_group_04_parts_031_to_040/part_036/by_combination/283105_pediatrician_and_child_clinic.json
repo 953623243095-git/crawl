@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Rahul Deo Sharma",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatric surgeon",
+    "all_categories": "Pediatric surgeon",
+    "pincode": "283105",
+    "phone_number": "N/A",
+    "website": "https://www.drrahuldeosharma.com/",
+    "rating": 4.9,
+    "reviews_count": 95,
+    "address": "6X42+FWX Dev Diabetes & Child Care Clinic, Rishipuram Colony, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Rishipuram Colony, Sikandra",
+    "latitude": 27.2062343,
+    "longitude": 77.9523586,
+    "place_id": "ChIJ6eaMtPl3dDkRuecVKwalhPg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6eaMtPl3dDkRuecVKwalhPg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:42:48"
+  },
+  {
+    "business_name": "Agra child development center, Best Autism therapy & Diagnosis",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatric neurologist",
+    "all_categories": "Pediatric neurologist",
+    "pincode": "283105",
+    "phone_number": "+91 20 4559 9995",
+    "website": "https://geniuslane.co.in/geniuslaneagra-child-development-center",
+    "rating": 4.8,
+    "reviews_count": 144,
+    "address": "Geniuslane Agra, 122, Neerav Nikunj, 122, opposite Holy Public School, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Sikandra",
+    "latitude": 27.214156199999998,
+    "longitude": 77.96072819999999,
+    "place_id": "ChIJGbRrBDV5dDkRoIqQFWiQK8E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGbRrBDV5dDkRoIqQFWiQK8E",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:42:48"
+  }
+]

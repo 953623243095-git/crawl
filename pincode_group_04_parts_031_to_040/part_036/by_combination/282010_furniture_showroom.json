@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bushra Furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "282010",
+    "phone_number": "+91 97191 11528",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Qabristan Market, Shop No. 2 MG Road, 2, Panchkuiyan Rd, Panchkuian, Agra, Uttar Pradesh 282010",
+    "area": "Panchkuian, Rakabganj",
+    "latitude": 27.180840999999997,
+    "longitude": 77.9992962,
+    "place_id": "ChIJdQ86UyJ3dDkR4mg4Xj9DAzs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdQ86UyJ3dDkR4mg4Xj9DAzs",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:33:58"
+  },
+  {
+    "business_name": "Eagle Furnishers &decorator",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "282010",
+    "phone_number": "+91 93585 13326",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 5,
+    "address": "31, 5, Mahatma Gandhi Rd, Chhipitola, Rakabganj, Agra, Uttar Pradesh 282001",
+    "area": "Chhipitola, Rakabganj",
+    "latitude": 27.175811699999997,
+    "longitude": 78.00877109999999,
+    "place_id": "ChIJrYDOHiZ3dDkRrCdyqtv4KL8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrYDOHiZ3dDkRrCdyqtv4KL8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:34:01"
+  }
+]

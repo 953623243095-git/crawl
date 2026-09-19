@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PNA tour and travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "283105",
+    "phone_number": "+91 80775 69405",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Sikandra, Agra, Bainpur Mustkil, Uttar Pradesh 282007",
+    "area": "Sikandra",
+    "latitude": 27.2068004,
+    "longitude": 77.93453699999999,
+    "place_id": "ChIJBaUTpgx3dDkRAnCwc5QpNow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBaUTpgx3dDkRAnCwc5QpNow",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:42:59"
+  },
+  {
+    "business_name": "Dev Tour & Travels Agra",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "283105",
+    "phone_number": "+91 84454 56376",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 8,
+    "address": "Flat No. 614, Kedarnath Tower ADA Heights, Shastripuram, Agra, Uttar Pradesh 282007",
+    "area": "Shastripuram",
+    "latitude": 27.202642299999997,
+    "longitude": 77.9286163,
+    "place_id": "ChIJCWwWjCx3dDkRe867i_-9YUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCWwWjCx3dDkRe867i_-9YUk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:42:59"
+  }
+]

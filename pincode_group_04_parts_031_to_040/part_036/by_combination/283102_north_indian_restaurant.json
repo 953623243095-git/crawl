@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gramin Swad",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Rajasthani Restaurant",
+    "all_categories": "Rajasthani Restaurant, Dhaba, Indian restaurant",
+    "pincode": "283102",
+    "phone_number": "+91 98117 75315",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Karkunj Rd, near mama franky and kulhar chai, near Aryan college, sector 9, Avas Vikas Colony, Sikandra, kargil, Agra, Uttar Pradesh 282007",
+    "area": "sector 9, Avas Vikas Colony, Sikandra",
+    "latitude": 27.204234,
+    "longitude": 77.9561808,
+    "place_id": "ChIJZRVQeQB3dDkRSWXxnQzlUus",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZRVQeQB3dDkRSWXxnQzlUus",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:36:57"
+  },
+  {
+    "business_name": "Annapurna Restaurant & cafe",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "283102",
+    "phone_number": "+91 90847 38119",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop no 11,12, crossroad mall, Sikandra-Bodla Rd, Sector 13, Kar Kunj Chauraha, Avas Vikas Colony, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Sector 13, Kar Kunj Chauraha, Avas Vikas Colony, Sikandra",
+    "latitude": 27.2053345,
+    "longitude": 77.9537366,
+    "place_id": "ChIJ7cx6_0Z3dDkRD9eucHKcbFY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7cx6_0Z3dDkRD9eucHKcbFY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:36:57"
+  }
+]

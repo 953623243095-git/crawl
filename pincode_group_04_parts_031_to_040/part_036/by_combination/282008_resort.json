@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lauries Hotel",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "282008",
+    "phone_number": "+91 562 242 1447",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "33, 100, Mahatma Gandhi Rd, Pratap Pura, Rakabganj, Agra, Uttar Pradesh 282001",
+    "area": "Pratap Pura, Rakabganj",
+    "latitude": 27.1683301,
+    "longitude": 78.0088665,
+    "place_id": "ChIJbzX9ctd2dDkRYS-1WlMzsxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbzX9ctd2dDkRYS-1WlMzsxc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:30:33"
+  },
+  {
+    "business_name": "R.B. RAWAT RESORT",
+    "search_category": "Resort",
+    "primary_category": "Holiday apartment rental",
+    "all_categories": "Holiday apartment rental",
+    "pincode": "282008",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "2VH3+CC3 Infront of Sanyam Building Material, Kagarol, Uttar Pradesh 283119",
+    "area": "282008",
+    "latitude": 27.0285096,
+    "longitude": 77.8535562,
+    "place_id": "ChIJLRg26V6LczkRDfD-2XS7usU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLRg26V6LczkRDfD-2XS7usU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:30:35"
+  }
+]

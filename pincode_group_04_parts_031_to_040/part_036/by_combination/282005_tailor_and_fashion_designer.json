@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "P Apparel (Fashion Boutique)",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "282005",
+    "phone_number": "+91 63973 87078",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Moti Bagh, opposite of SBI Bank, near Gokul Guest House, Heera Bagh, DayalBagh, Agra, Uttar Pradesh 282005",
+    "area": "Heera Bagh, DayalBagh",
+    "latitude": 27.220578699999997,
+    "longitude": 78.0058288,
+    "place_id": "ChIJo6i7kwJ5dDkRIONTQTUEJCw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo6i7kwJ5dDkRIONTQTUEJCw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:24:07"
+  },
+  {
+    "business_name": "Shubh Boutique",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor, Clothing store, Boutique, Women's clothing store",
+    "pincode": "282005",
+    "phone_number": "+91 93585 25561",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "E-146/2, Pani Ki Tanki Rd, Pani Ki Tanki Chauraha, Ghatwasan, Kamla Nagar, Agra, Uttar Pradesh 282005",
+    "area": "Pani Ki Tanki Chauraha, Ghatwasan, Kamla Nagar",
+    "latitude": 27.2138912,
+    "longitude": 78.02305779999999,
+    "place_id": "ChIJbXNJZKxwdDkR-nvamqrXyY4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbXNJZKxwdDkR-nvamqrXyY4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:24:10"
+  }
+]

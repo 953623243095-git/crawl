@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anand shoe company",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "282010",
+    "phone_number": "+91 79069 92969",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mahatma Gandhi Rd, opposite Subhash Park, opp. Water Tank, Dhakran Crossing, Panchkuian, Rakabganj, Agra, Uttar Pradesh 282010",
+    "area": "Dhakran Crossing, Panchkuian, Rakabganj",
+    "latitude": 27.1798877,
+    "longitude": 78.0048379,
+    "place_id": "ChIJ5T7WMEJ3dDkR6uKy6F1nfyg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5T7WMEJ3dDkR6uKy6F1nfyg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:33:23"
+  },
+  {
+    "business_name": "Liberty Exclusive Showroom",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Showroom",
+    "pincode": "282010",
+    "phone_number": "+91 81910 03570",
+    "website": "https://www.libertyshoesonline.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "SHOP NO-9, LIC, PROGRESSIVE INC, Mahatma Gandhi Rd, Dholpur House, Agra, Uttar Pradesh 282001",
+    "area": "Mohanpura, Dholpur House",
+    "latitude": 27.1752708,
+    "longitude": 78.0085304,
+    "place_id": "ChIJJcvvcyh3dDkRPZbP5ZQWv3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJcvvcyh3dDkRPZbP5ZQWv3I",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:33:25"
+  }
+]

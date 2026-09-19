@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "J J Hospital and Research Centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Urologist",
+    "all_categories": "Urologist",
+    "pincode": "282010",
+    "phone_number": "+91 93897 85324",
+    "website": "https://jjhospitalagra.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "144, Sector 12C, Sector 12, Avas Vikas Colony, Lohamandi, Agra, Uttar Pradesh 282007",
+    "area": "Sector 12C, Sector 12, Avas Vikas Colony, Lohamandi",
+    "latitude": 27.203896,
+    "longitude": 77.970738,
+    "place_id": "ChIJtcWh25x3dDkRzRAJuMOTdn0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtcWh25x3dDkRzRAJuMOTdn0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:33:34"
+  },
+  {
+    "business_name": "NUC",
+    "search_category": "Dialysis Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "282010",
+    "phone_number": "+91 70789 11911",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Noori Gate Rd, Raja ki Mandi, crossing, Agra, Uttar Pradesh 282002",
+    "area": "Raja ki Mandi, crossing",
+    "latitude": 27.189413199999997,
+    "longitude": 78.00139829999999,
+    "place_id": "ChIJrQ-jtit3dDkRfGelZjfGZdg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrQ-jtit3dDkRfGelZjfGZdg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:33:34"
+  }
+]

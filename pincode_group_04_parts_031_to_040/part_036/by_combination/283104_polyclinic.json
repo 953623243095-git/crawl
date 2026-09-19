@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohniya poly clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "283104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "VHCV+PHJ, Bah, Uttar Pradesh 283104",
+    "area": "283104",
+    "latitude": 26.871825899999997,
+    "longitude": 78.593904,
+    "place_id": "ChIJZwkscG0tdDkR7VEDxJCXvDw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZwkscG0tdDkR7VEDxJCXvDw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:40:57"
+  },
+  {
+    "business_name": "NEW LIFE HOSPITAL",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "283104",
+    "phone_number": "+91 90275 08732",
+    "website": "https://newlifehospitalagra.com/",
+    "rating": 4.4,
+    "reviews_count": 30,
+    "address": "48krishna enclave, Gulab Nagar, Kalindi Vihar, Agra, Uttar Pradesh 282006",
+    "area": "Gulab Nagar, Kalindi Vihar",
+    "latitude": 27.223553199999998,
+    "longitude": 78.06242979999999,
+    "place_id": "ChIJ4fkrp-F3dDkR96DCn3YUXvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4fkrp-F3dDkR96DCn3YUXvg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:40:58"
+  }
+]
