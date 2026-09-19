@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Intex Smart World",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Appliance store, Electronics Company, Computer store",
+    "pincode": "275302",
+    "phone_number": "+91 98730 03062",
+    "website": "http://www.intex.in/",
+    "rating": 3.9,
+    "reviews_count": 23,
+    "address": "Shop Opp Main, Mau-Gorakhpur Rd, Ghosi, Uttar Pradesh 275304",
+    "area": "275302",
+    "latitude": 26.1100559,
+    "longitude": 83.5458055,
+    "place_id": "ChIJZQAAdUqGkTkRzeGoysJdWMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZQAAdUqGkTkRzeGoysJdWMA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:07:16"
+  },
+  {
+    "business_name": "Avinash mibile sales & service",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile home dealer",
+    "all_categories": "Mobile home dealer",
+    "pincode": "275302",
+    "phone_number": "+91 80095 15605",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhikharipur, Siyabasti, Uttar Pradesh 275302",
+    "area": "275302",
+    "latitude": 26.085252,
+    "longitude": 83.47609969999999,
+    "place_id": "ChIJZSvBVDeFkTkR1hJsUVnTDy8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZSvBVDeFkTkR1hJsUVnTDy8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:07:16"
+  }
+]

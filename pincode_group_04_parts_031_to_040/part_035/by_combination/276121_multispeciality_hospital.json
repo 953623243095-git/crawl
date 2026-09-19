@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahman Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "276121",
+    "phone_number": "+91 99196 02050",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 44,
+    "address": "35JR+CC8, SH 66, Rahmat Nagar, Purai Ghulami, Azamgarh, Uttar Pradesh 276001",
+    "area": "Rahmat Nagar, Purai Ghulami",
+    "latitude": 26.0810426,
+    "longitude": 83.19108489999999,
+    "place_id": "ChIJPdBZRTejkTkRG9P3gfY_Cck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPdBZRTejkTkRG9P3gfY_Cck",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:19:23"
+  },
+  {
+    "business_name": "Shyam Medical Hall Jiyanpur",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "276121",
+    "phone_number": "+91 83548 91808",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Azamgarh - Dohrighat - Gorakhpur Rd, Jiyanpur, Uttar Pradesh 276138",
+    "area": "276121",
+    "latitude": 26.1508632,
+    "longitude": 83.32845499999999,
+    "place_id": "ChIJQ8PPhrejkTkRzBc3k1Kt0u4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ8PPhrejkTkRzBc3k1Kt0u4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:19:25"
+  }
+]

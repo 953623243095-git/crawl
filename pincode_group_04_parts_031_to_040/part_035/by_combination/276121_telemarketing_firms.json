@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star Marketing",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "276121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Shodhanpur, Sahpur Maulani, Uttar Pradesh 276135",
+    "area": "276121",
+    "latitude": 26.139628,
+    "longitude": 83.1402085,
+    "place_id": "ChIJExJvXAClkTkRYgBwShhubpw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJExJvXAClkTkRYgBwShhubpw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:20:45"
+  },
+  {
+    "business_name": "VNR Groups LLC",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "E - Commerce Agency",
+    "all_categories": "E - Commerce Agency",
+    "pincode": "276121",
+    "phone_number": "+91 92143 13133",
+    "website": "https://vnrgroupsllc.my.canva.site/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Main Market, Jiyanpur, Uttar Pradesh 276140",
+    "area": "276121",
+    "latitude": 26.1552302,
+    "longitude": 83.33134369999999,
+    "place_id": "ChIJl3Unv5yZkTkRWvqSJfx70LA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl3Unv5yZkTkRWvqSJfx70LA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:20:45"
+  }
+]

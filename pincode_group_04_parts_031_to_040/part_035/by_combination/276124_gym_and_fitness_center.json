@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubham fitness club azamatgarh",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "276124",
+    "phone_number": "+91 75180 47877",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Up Azamgarh jiyanpur, road, Azmatgarh, Uttar Pradesh 276124",
+    "area": "276124",
+    "latitude": 26.1541395,
+    "longitude": 83.3600451,
+    "place_id": "ChIJZWnMxaabkTkRa3PjCMo4VxA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZWnMxaabkTkRa3PjCMo4VxA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:25:01"
+  },
+  {
+    "business_name": "RHINO GYM",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "276124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "near BANK OF MAHARASHTRA, Sidhari, Azamgarh, Uttar Pradesh 276001",
+    "area": "Sidhari",
+    "latitude": 26.0461755,
+    "longitude": 83.1889788,
+    "place_id": "ChIJDShPG2y9kTkRkxl4WjChxS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDShPG2y9kTkRkxl4WjChxS4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:25:04"
+  }
+]

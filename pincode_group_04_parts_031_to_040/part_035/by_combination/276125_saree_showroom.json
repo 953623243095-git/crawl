@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHREE MAHESHWARI SAREE",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "276125",
+    "phone_number": "+91 95326 88521",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kali chaura, Matbarganj, Azamgarh, Uttar Pradesh 276001",
+    "area": "Matbarganj",
+    "latitude": 26.0619297,
+    "longitude": 83.18623889999999,
+    "place_id": "ChIJP64UQbe9kTkRATLff_lRiac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP64UQbe9kTkRATLff_lRiac",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:26:31"
+  },
+  {
+    "business_name": "Radha Rani Saree Collection",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "276125",
+    "phone_number": "+91 91209 63729",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Roadways, Mubarakpur, Uttar Pradesh 276404",
+    "area": "276125",
+    "latitude": 26.0798767,
+    "longitude": 83.2914637,
+    "place_id": "ChIJz3rIr5CZkTkRKC2T5jUHSM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz3rIr5CZkTkRKC2T5jUHSM8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:26:32"
+  }
+]

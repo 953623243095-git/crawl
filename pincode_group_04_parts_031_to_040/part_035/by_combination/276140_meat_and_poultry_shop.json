@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shahabuddin Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "276140",
+    "phone_number": "+91 80096 10024",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhuwana Chatti, Baghpur, Uttar Pradesh 276140",
+    "area": "276140",
+    "latitude": 26.153169499999997,
+    "longitude": 83.3325364,
+    "place_id": "ChIJk5oQu6mZkTkRuXpeJYkH_dw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk5oQu6mZkTkRuXpeJYkH_dw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:46:43"
+  },
+  {
+    "business_name": "Patti, Uttar Pradesh 276140",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "276140",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Patti, Uttar Pradesh",
+    "area": "276140",
+    "latitude": 26.1995388,
+    "longitude": 83.320149,
+    "place_id": "ChIJMRfwXsuekTkR_40W7-esMoc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMRfwXsuekTkR_40W7-esMoc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:46:43"
+  }
+]

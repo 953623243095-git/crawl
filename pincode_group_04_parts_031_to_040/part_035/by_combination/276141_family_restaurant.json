@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Golden Family Restaurant and Fast Food",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "276141",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "43FM+78F, Tahbarpur-Manduri Rd, Mahuwar, Tahbarpur, Uttar Pradesh 276208",
+    "area": "276141",
+    "latitude": 26.123180599999998,
+    "longitude": 83.08328449999999,
+    "place_id": "ChIJn9riZwClkTkRHL2BQ4qtlWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn9riZwClkTkRHL2BQ4qtlWA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:48:42"
+  },
+  {
+    "business_name": "Shri Sai Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "276141",
+    "phone_number": "+91 95987 04345",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 32,
+    "address": "KishundasPur, Kisundaspur No.1 Or Kishund, Uttar Pradesh 276208",
+    "area": "276141",
+    "latitude": 26.0967746,
+    "longitude": 83.1195917,
+    "place_id": "ChIJ-wkW0vmlkTkR1kMJO_JYStY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-wkW0vmlkTkR1kMJO_JYStY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:48:42"
+  }
+]

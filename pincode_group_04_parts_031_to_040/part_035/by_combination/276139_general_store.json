@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MADHAV GENERAL STORE",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "276139",
+    "phone_number": "+91 99855 88301",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Unnamed Road, Mahuvi Sherpur, Uttar Pradesh 276139",
+    "area": "276139",
+    "latitude": 26.2546029,
+    "longitude": 83.21952859999999,
+    "place_id": "ChIJjRmxRcShkTkRgKNuER46pNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjRmxRcShkTkRgKNuER46pNY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:44:56"
+  },
+  {
+    "business_name": "Neha Cosmetic and General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "276139",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Parshurampur Bazar, Uttar Pradesh 276139",
+    "area": "276139",
+    "latitude": 26.230709599999997,
+    "longitude": 83.1668728,
+    "place_id": "ChIJW7JvIAChkTkRiHL0j_YwTWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW7JvIAChkTkRiHL0j_YwTWs",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:44:56"
+  }
+]

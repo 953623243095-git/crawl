@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K2N HOSPITAL",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "276137",
+    "phone_number": "+91 82995 62922",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 13,
+    "address": "Chhitauni bypass, Atraulia, Uttar Pradesh 223223",
+    "area": "276137",
+    "latitude": 26.3339866,
+    "longitude": 82.9327672,
+    "place_id": "ChIJTzy5MgABkTkRRuakV_SaG_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTzy5MgABkTkRRuakV_SaG_c",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:41:31"
+  },
+  {
+    "business_name": "Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "276137",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Raam leela maidan, Raj Vihar, Sidhari, Azamgarh, Uttar Pradesh 276001",
+    "area": "Raj Vihar, Sidhari",
+    "latitude": 26.0439309,
+    "longitude": 83.18978109999999,
+    "place_id": "ChIJaQIC5_K9kTkREELC7R1EErE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaQIC5_K9kTkREELC7R1EErE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:41:32"
+  }
+]

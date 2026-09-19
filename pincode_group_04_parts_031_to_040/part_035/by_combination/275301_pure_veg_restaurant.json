@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramu dada hotel",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "275301",
+    "phone_number": "+91 90051 38775",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 168,
+    "address": "Post, Manikpur, Hadhua, Zamin Kailwar, Uttar Pradesh 275304",
+    "area": "Manikpur",
+    "latitude": 26.1534259,
+    "longitude": 83.5329435,
+    "place_id": "ChIJKVcvM-qGkTkRACFiYWEcRGQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKVcvM-qGkTkRACFiYWEcRGQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:04:10"
+  },
+  {
+    "business_name": "Sree Krishnas - Pure vegetarian restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "275301",
+    "phone_number": "+91 88910 01020",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "SM Rd, Kannur, Keralam 670001",
+    "area": "275301",
+    "latitude": 11.8725043,
+    "longitude": 75.3635384,
+    "place_id": "ChIJBVUvf0M9pDsR0lvSMCPG3pw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBVUvf0M9pDsR0lvSMCPG3pw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:04:11"
+  }
+]

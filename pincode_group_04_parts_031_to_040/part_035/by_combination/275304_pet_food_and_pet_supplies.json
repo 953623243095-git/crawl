@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pet store and medical",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "275304",
+    "phone_number": "+91 80068 45003",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "LR shah buliding, Mall Rd, Paltan Bazar, Dharanaula, Almora, Uttarakhand 263601",
+    "area": "Paltan Bazar, Dharanaula",
+    "latitude": 29.596003399999997,
+    "longitude": 79.6551621,
+    "place_id": "ChIJVa8hvFW3oDkROGIoE7ocHEc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVa8hvFW3oDkROGIoE7ocHEc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:09:43"
+  },
+  {
+    "business_name": "All pets solutions",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Pet boarding service, Pet groomer, Pet store, Pet trainer, Veterinarian",
+    "pincode": "275304",
+    "phone_number": "+91 74174 86132",
+    "website": "https://www.justdial.com/Moradabad/All-Pet-Solutions-Near-Dr-Sanjeev-Lal-Moradabad-City/9999PX591-X591-220905174207-G1H4_BZDET",
+    "rating": 4.9,
+    "reviews_count": 49,
+    "address": "Shanker Vihar Colony, Civil Lines, Moradabad, Uttar Pradesh 244001",
+    "area": "Shanker Vihar Colony, Civil Lines",
+    "latitude": 28.849952199999997,
+    "longitude": 78.77208689999999,
+    "place_id": "ChIJj8gKY_v7CjkRjFH3j890sXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj8gKY_v7CjkRjFH3j890sXU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:09:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Family collection",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "276121",
+    "phone_number": "+91 82995 73512",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Puranikotwali, Takia, Azamgarh, Uttar Pradesh 276001",
+    "area": "Puranikotwali, Takia",
+    "latitude": 26.0709618,
+    "longitude": 83.1855245,
+    "place_id": "ChIJLesHoNijkTkR3vlA1IfYjvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLesHoNijkTkR3vlA1IfYjvk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:19:14"
+  },
+  {
+    "business_name": "New Fashion Hub",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "276121",
+    "phone_number": "+91 96250 75920",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Azamatpur Kodur, Azamgarh, Uttar Pradesh 276001",
+    "area": "Azamatpur Kodur",
+    "latitude": 26.0763785,
+    "longitude": 83.1724005,
+    "place_id": "ChIJGc8KWYyjkTkRj1t9ML9j4J8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGc8KWYyjkTkRj1t9ML9j4J8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:19:15"
+  }
+]

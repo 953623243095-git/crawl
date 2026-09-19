@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubh Fish Aquarium",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "276137",
+    "phone_number": "+91 92367 15837",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "92, Ahiyapur, Sadar, Uttar Pradesh 222001",
+    "area": "Khasanpur",
+    "latitude": 25.7580968,
+    "longitude": 82.6974027,
+    "place_id": "ChIJP0jZUyk6kDkRgI31hnisleE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP0jZUyk6kDkRgI31hnisleE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:41:10"
+  },
+  {
+    "business_name": "PET PLANET",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "276137",
+    "phone_number": "+91 96820 09001",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 19,
+    "address": "RADHIKHA PUBLIC SCHOOL KE SAMNE, MAIN ROAD, near Hero AGENCY, Kheta Sarai, Sondhi, Uttar Pradesh 222003",
+    "area": "276137",
+    "latitude": 25.961524299999997,
+    "longitude": 82.6823259,
+    "place_id": "ChIJRV7waKJHkDkRV1yR4o0netQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRV7waKJHkDkRV1yR4o0netQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:41:12"
+  }
+]

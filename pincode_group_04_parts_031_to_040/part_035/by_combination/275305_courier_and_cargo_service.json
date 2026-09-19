@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Delivery junction",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Delivery service",
+    "all_categories": "Delivery service",
+    "pincode": "275305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Munshi Pura, Mau, Uttar Pradesh 275101",
+    "area": "Munshi Pura",
+    "latitude": 25.931116799999998,
+    "longitude": 83.56297459999999,
+    "place_id": "ChIJ_0OPEsiLkTkRTuNHdCb3Nhg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_0OPEsiLkTkRTuNHdCb3Nhg",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:12:56"
+  },
+  {
+    "business_name": "POST OFFICE INDARA",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Shipping and mailing service",
+    "all_categories": "Shipping and mailing service",
+    "pincode": "275305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "XJP9+35M, Indara, Uttar Pradesh 275102",
+    "area": "275305",
+    "latitude": 25.985202599999997,
+    "longitude": 83.6179202,
+    "place_id": "ChIJ0ZpgQIshkjkRTXeVaGwiyTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0ZpgQIshkjkRTXeVaGwiyTk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:12:56"
+  }
+]

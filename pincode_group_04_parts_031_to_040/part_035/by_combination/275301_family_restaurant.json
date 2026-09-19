@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The kitchan family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "275301",
+    "phone_number": "+91 81729 19719",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Banpokhara, Bizpura, Uttar Pradesh 275302",
+    "area": "275301",
+    "latitude": 26.0955916,
+    "longitude": 83.50587379999999,
+    "place_id": "ChIJafdfPCmFkTkRRrq0g09cjOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJafdfPCmFkTkRRrq0g09cjOs",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:04:15"
+  },
+  {
+    "business_name": "Diksha chinese & Family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant",
+    "pincode": "275301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4G4V+MCW, Ghosi, Uttar Pradesh 275105",
+    "area": "275301",
+    "latitude": 26.1067461,
+    "longitude": 83.543471,
+    "place_id": "ChIJNUfSDQCHkTkReyDDGrVKQig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNUfSDQCHkTkReyDDGrVKQig",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:04:15"
+  }
+]

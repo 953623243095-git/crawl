@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mini mart luggage shop azamgarh",
+    "search_category": "Shops",
+    "primary_category": "Luggage store",
+    "all_categories": "Luggage store",
+    "pincode": "276001",
+    "phone_number": "+91 72757 27548",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Chowk, Kaliganj, Azamgarh, Uttar Pradesh 276001",
+    "area": "Kaliganj",
+    "latitude": 26.0669053,
+    "longitude": 83.1836488,
+    "place_id": "ChIJEUpSJKC9kTkRDyF85Jc9wYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEUpSJKC9kTkRDyF85Jc9wYo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:18:52"
+  },
+  {
+    "business_name": "Value Plus - Trusted Electronics Store - Azamgarh",
+    "search_category": "Shops",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "276001",
+    "phone_number": "+91 63876 38282",
+    "website": "http://www.valueplusretail.com/",
+    "rating": 4.4,
+    "reviews_count": 114,
+    "address": "Shop No-17, Karuna Nidhan Tower, Thandi Sarak, Marhaya, Azamgarh, Uttar Pradesh 276001",
+    "area": "Thandi Sarak, Marhaya",
+    "latitude": 26.0487906,
+    "longitude": 83.1814022,
+    "place_id": "ChIJRYOijHm9kTkRYYIo3ssg6YU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRYOijHm9kTkRYYIo3ssg6YU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:18:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om enterprises",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "276126",
+    "phone_number": "+91 99183 64500",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "24MX+4XQ, Chack Bangali, Uttar Pradesh 276128",
+    "area": "276126",
+    "latitude": 26.0328427,
+    "longitude": 83.1499889,
+    "place_id": "ChIJI-kWAS-7kTkRwjFO4eue81g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI-kWAS-7kTkRwjFO4eue81g",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:28:13"
+  },
+  {
+    "business_name": "Rk Oil Products",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "276126",
+    "phone_number": "+91 81152 82528",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop.77, PN Bhavan, near Pani Ki Tanki, Vishunpur, Azamgarh, Uttar Pradesh 276128",
+    "area": "276126",
+    "latitude": 25.9164274,
+    "longitude": 83.2177746,
+    "place_id": "ChIJL2FZx92_kTkRxDiForDUAPE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL2FZx92_kTkRxDiForDUAPE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:28:14"
+  }
+]

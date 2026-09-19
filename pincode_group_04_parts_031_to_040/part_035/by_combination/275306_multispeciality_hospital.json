@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Community Health Center Muhammadabad Gohna, Mau",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Community health center",
+    "all_categories": "Community health center, Hospital",
+    "pincode": "275306",
+    "phone_number": "+91 78397 28600",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "29GR+WFH, Muhammadabad, Uttar Pradesh 276403",
+    "area": "275306",
+    "latitude": 26.0273169,
+    "longitude": 83.39122619999999,
+    "place_id": "ChIJN4n0PLKRkTkRKuMTJVHm-nE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN4n0PLKRkTkRKuMTJVHm-nE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:13:44"
+  },
+  {
+    "business_name": "Swastika Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "275306",
+    "phone_number": "+91 99562 39488",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 30,
+    "address": "WHG7+3MP, Munshi Pura, Mau, Uttar Pradesh 275101",
+    "area": "Munshi Pura",
+    "latitude": 25.9252181,
+    "longitude": 83.5642002,
+    "place_id": "ChIJbTsECumKkTkRDmczmfMqI4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbTsECumKkTkRDmczmfMqI4Y",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:13:46"
+  }
+]

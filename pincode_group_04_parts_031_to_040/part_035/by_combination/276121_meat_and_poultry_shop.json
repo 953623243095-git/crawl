@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Serajuddin poultry farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "276121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "68M3+HR2, Bankata Urf Bazargosain, Uttar Pradesh 276127",
+    "area": "276121",
+    "latitude": 26.2338143,
+    "longitude": 83.30447389999999,
+    "place_id": "ChIJK_AZcACfkTkRlKMAWOw3JEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK_AZcACfkTkRlKMAWOw3JEM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:18:57"
+  },
+  {
+    "business_name": "Kabeer Feeds",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry store",
+    "all_categories": "Poultry store, Poultry farm",
+    "pincode": "276121",
+    "phone_number": "+91 94158 40892",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Kandhrapur, Sahpur Maulani, Uttar Pradesh 276135",
+    "area": "276121",
+    "latitude": 26.1423758,
+    "longitude": 83.14287689999999,
+    "place_id": "ChIJjw7MenWlkTkRAG737MtnX7M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjw7MenWlkTkRAG737MtnX7M",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:18:58"
+  }
+]

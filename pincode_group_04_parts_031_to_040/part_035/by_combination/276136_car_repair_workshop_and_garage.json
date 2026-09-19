@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mulayam Auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "276136",
+    "phone_number": "+91 70712 33956",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop N.245, Latghat, Jiyanpur, Uttar Pradesh 276140",
+    "area": "276136",
+    "latitude": 26.152593399999997,
+    "longitude": 83.3324355,
+    "place_id": "ChIJcXVsdF6ZkTkRLb4fSFhcglI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcXVsdF6ZkTkRLb4fSFhcglI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:39:47"
+  },
+  {
+    "business_name": "Hindustan motar garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "276136",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "48X9+42, Sanduki Patti, Uttar Pradesh 276138",
+    "area": "276136",
+    "latitude": 26.147793999999998,
+    "longitude": 83.3175937,
+    "place_id": "ChIJP8cGLACZkTkRZQoIxP41yxU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP8cGLACZkTkRZQoIxP41yxU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:39:47"
+  }
+]

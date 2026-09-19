@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NICE TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "276123",
+    "phone_number": "+91 98899 89858",
+    "website": "http://www.nicetravels.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "CHHATWARA MORE NEAR PETROLPUMP, GAURDIH AIMA, Ghazipur - Azamgarh Rd, Gaurdih Ayeema, Uttar Pradesh 276128",
+    "area": "276123",
+    "latitude": 26.02281,
+    "longitude": 83.1827715,
+    "place_id": "ChIJmT7wdoq8kTkRzOrIEfUic9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmT7wdoq8kTkRzOrIEfUic9s",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:23:21"
+  },
+  {
+    "business_name": "Vinay Tours And Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "276123",
+    "phone_number": "+91 98385 52073",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 151,
+    "address": "Indu market, Bahadurpur, Ballia, Uttar Pradesh 277001",
+    "area": "Bahadurpur",
+    "latitude": 25.7583012,
+    "longitude": 84.150363,
+    "place_id": "ChIJb9IZBn5lkjkRAPCP_ith24U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb9IZBn5lkjkRAPCP_ith24U",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:23:22"
+  }
+]

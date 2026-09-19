@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubham Ranjan house",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house, Buddhist temple",
+    "pincode": "275301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ushri khurd Amila Bhatmila, Ghoshi, Doharighat, Amila, Uttar Pradesh 275303",
+    "area": "275301",
+    "latitude": 26.2008413,
+    "longitude": 83.46666599999999,
+    "place_id": "ChIJd4CQS32DkTkRaC9ZIRlGzOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd4CQS32DkTkRaC9ZIRlGzOA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:05:11"
+  },
+  {
+    "business_name": "Hemai AKATAHIYA",
+    "search_category": "Guesthouse",
+    "primary_category": "Cottage village",
+    "all_categories": "Cottage village",
+    "pincode": "275301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "5GRF+RGC, NH 24, Tikari Buzurg, Hemay, Uttar Pradesh 275301",
+    "area": "275301",
+    "latitude": 26.192059999999998,
+    "longitude": 83.5237645,
+    "place_id": "ChIJfct_oeuBkTkRnvrkN4WyRbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfct_oeuBkTkRnvrkN4WyRbw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:05:13"
+  }
+]

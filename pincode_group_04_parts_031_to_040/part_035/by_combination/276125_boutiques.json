@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tanveer fashion",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "276125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 37,
+    "address": "nagarpalika Road, Mubarakpur, Uttar Pradesh 276404",
+    "area": "276125",
+    "latitude": 26.0879203,
+    "longitude": 83.2901981,
+    "place_id": "ChIJCSnLZjKYkTkRhcO5RU2dQOk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCSnLZjKYkTkRhcO5RU2dQOk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:26:40"
+  },
+  {
+    "business_name": "Shikha vastralay a castmetik janaral store",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "276125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Manchobha, Uttar Pradesh 276125",
+    "area": "276125",
+    "latitude": 26.095349199999998,
+    "longitude": 83.2308384,
+    "place_id": "ChIJFbtzOCCjkTkRP0K_mZGgITI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFbtzOCCjkTkRP0K_mZGgITI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:26:40"
+  }
+]

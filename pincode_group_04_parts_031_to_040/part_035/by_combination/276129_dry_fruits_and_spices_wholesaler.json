@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cheap Kirana Store",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store",
+    "pincode": "276129",
+    "phone_number": "+91 80814 65148",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 90,
+    "address": "Shop no 15, 16, Fruit Ln, near Prakash Kulfi, Mohan Market, Khayali Ganj, Aminabad, Lucknow, Uttar Pradesh 226018",
+    "area": "Mohan Market, Khayali Ganj, Aminabad",
+    "latitude": 26.8477534,
+    "longitude": 80.9271632,
+    "place_id": "ChIJi8CSbLr9mzkRRmVI3tqrwaA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi8CSbLr9mzkRRmVI3tqrwaA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:33:44"
+  },
+  {
+    "business_name": "Kottayam Spices & Dry Fruits",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "276129",
+    "phone_number": "+91 99615 27622",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 22,
+    "address": "JN, Kurishupally, Kaipuzha, Keralam 686602",
+    "area": "Kurishupally",
+    "latitude": 9.661121399999999,
+    "longitude": 76.50683269999999,
+    "place_id": "ChIJd6VuM2nVBzsROifpH_riUWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd6VuM2nVBzsROifpH_riUWs",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:33:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Disha Beauty parlour",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "275304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Rasulpur, Bairampur, Uttar Pradesh 276306",
+    "area": "Rasulpur",
+    "latitude": 26.2247122,
+    "longitude": 83.590633,
+    "place_id": "ChIJm31Z0nArkjkRxZdlN02yLU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm31Z0nArkjkRxZdlN02yLU4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:10:32"
+  },
+  {
+    "business_name": "Metro Unisex Salon, Hair & Beauty",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "275304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Vijay Cinema Hall, near Yahya Market, Ghosi, Uttar Pradesh 275304",
+    "area": "275304",
+    "latitude": 26.1090256,
+    "longitude": 83.54440389999999,
+    "place_id": "ChIJR2GfCKSHkTkRMBSozLoQqHc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR2GfCKSHkTkRMBSozLoQqHc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:10:35"
+  }
+]

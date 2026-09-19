@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Beat Dance Studio",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school, Aero dance class, Aerobics Class",
+    "pincode": "276131",
+    "phone_number": "+91 95720 55253",
+    "website": "https://beatdancestudio.com/",
+    "rating": 4.9,
+    "reviews_count": 285,
+    "address": "Upendra Nagar, Beat Dance Studio, 1st Floor, Kabir Nagar Road, Colony, near CMO Office, Durgakund, Varanasi, Uttar Pradesh 221005",
+    "area": "Durgakund, Tulsi Manas Mandir Colony, Naria",
+    "latitude": 25.286749699999998,
+    "longitude": 82.99763,
+    "place_id": "ChIJF8WFJwwxjjkRpNiL8ksz65M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF8WFJwwxjjkRpNiL8ksz65M",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:36:41"
+  },
+  {
+    "business_name": "S R Dance Academy",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school",
+    "pincode": "276131",
+    "phone_number": "N/A",
+    "website": "https://m.youtube.com/watch?v=A9pJ_WwwW1M&feature=youtu.be",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Gokul Nagar, Shanti Nagar, Kolaghat, Azamgarh, Uttar Pradesh 276001",
+    "area": "Gokul Nagar, Shanti Nagar",
+    "latitude": 26.0594298,
+    "longitude": 83.18130289999999,
+    "place_id": "ChIJZb_DpNy9kTkRf5CtNLXngfw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZb_DpNy9kTkRf5CtNLXngfw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:36:44"
+  }
+]

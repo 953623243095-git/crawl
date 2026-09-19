@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Good vibes family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Family restaurant",
+    "pincode": "276137",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Samdhipur morh koilsa Azamgarh, Uttar Pradesh 276142",
+    "area": "276137",
+    "latitude": 26.2625158,
+    "longitude": 83.000528,
+    "place_id": "ChIJC1a3HQAHkTkRu8grd1Bce1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC1a3HQAHkTkRu8grd1Bce1M",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:41:17"
+  },
+  {
+    "business_name": "Good vibes family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "276137",
+    "phone_number": "+91 80901 61539",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Bharauli Rd, morh, Koilsa, Ekdangi, Uttar Pradesh 276142",
+    "area": "morh",
+    "latitude": 26.2626559,
+    "longitude": 83.00048819999999,
+    "place_id": "ChIJ2XG0AgAHkTkRXup_mxDs6vA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2XG0AgAHkTkRXup_mxDs6vA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:41:17"
+  }
+]

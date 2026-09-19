@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Radhe Restaurant & Dhabba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Breakfast restaurant, Fast food restaurant, Indian restaurant, Non Vegetarian Restaurant, Vegetarian restaurant",
+    "pincode": "275306",
+    "phone_number": "+91 96283 15234",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Maniha, Uttar Pradesh 276126",
+    "area": "275306",
+    "latitude": 25.876680099999998,
+    "longitude": 83.2062284,
+    "place_id": "ChIJWSGm2ODBkTkRw3rfq0DWEc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWSGm2ODBkTkRw3rfq0DWEc4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:13:29"
+  },
+  {
+    "business_name": "Murli Dhaba &Resto",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "275306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 705,
+    "address": "Q9R5+X7, Katni, Madhya Pradesh 483501",
+    "area": "275306",
+    "latitude": 23.7959461,
+    "longitude": 80.3603011,
+    "place_id": "ChIJG136G9ljgTkRv5mQd4Djlc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG136G9ljgTkRv5mQd4Djlc4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:13:29"
+  }
+]

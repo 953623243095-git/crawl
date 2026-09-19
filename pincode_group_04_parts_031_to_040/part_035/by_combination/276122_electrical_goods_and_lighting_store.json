@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Global Guru",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical & Electronics Stores",
+    "all_categories": "Electrical & Electronics Stores",
+    "pincode": "276122",
+    "phone_number": "+91 95989 88866",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "359M+PXX, dalalghat road, Puranikotwali, asifganj, Azamgarh, Uttar Pradesh 276001",
+    "area": "Puranikotwali, asifganj",
+    "latitude": 26.0693721,
+    "longitude": 83.1849898,
+    "place_id": "ChIJxXFrSbW8kTkRtbs61FNF43c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxXFrSbW8kTkRtbs61FNF43c",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:21:34"
+  },
+  {
+    "business_name": "Sri Ram light & decor",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store",
+    "pincode": "276122",
+    "phone_number": "+91 91982 60009",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "65/56, Piyari Rd, Badi Piyari, Benia Bagh, Varanasi, Uttar Pradesh 221001",
+    "area": "Badi Piyari, Benia Bagh",
+    "latitude": 25.318016999999998,
+    "longitude": 83.0063804,
+    "place_id": "ChIJJ2DMJoUvjjkRbnwWbvcmaDg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ2DMJoUvjjkRbnwWbvcmaDg",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:21:35"
+  }
+]

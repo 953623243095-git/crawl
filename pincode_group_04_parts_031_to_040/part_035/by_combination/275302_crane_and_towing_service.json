@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji crane services",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "275302",
+    "phone_number": "+91 91375 83118",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sr no 133/1, Balaji Nivas, Gurudwara Rd, Walhekarwadi, Gurudwara Colony, Nigdi, Pimpri-Chinchwad, Maharashtra 411033",
+    "area": "Walhekarwadi, Gurudwara Colony, Nigdi",
+    "latitude": 18.6457077,
+    "longitude": 73.7650568,
+    "place_id": "ChIJxyzRvKm5wjsRCaLUv27IQMw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxyzRvKm5wjsRCaLUv27IQMw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:06:38"
+  },
+  {
+    "business_name": "Shiv Crane Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "275302",
+    "phone_number": "+91 98872 80385",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6F6H+3F5 Rigved hospital & Blood Bank, Hiradas Cir, Indra Nagar, Bharatpur, Bharatpur Chak 2, Rajasthan 321001",
+    "area": "Indra Nagar",
+    "latitude": 27.2107524,
+    "longitude": 77.4794139,
+    "place_id": "ChIJz5PeV3qjczkRzEla6Y5vmIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz5PeV3qjczkRzEla6Y5vmIM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:06:38"
+  }
+]

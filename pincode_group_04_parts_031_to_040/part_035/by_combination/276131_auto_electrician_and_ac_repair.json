@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat automobile",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "276131",
+    "phone_number": "+91 72670 00666",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "376P+C4, Mubarakpur road gajahara Sathiaon, road, Mubarakpur, Gajahara, Uttar Pradesh 276406",
+    "area": "276131",
+    "latitude": 26.0609586,
+    "longitude": 83.2852462,
+    "place_id": "ChIJv9OaFgCXkTkRJMfiAqEh3Bk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv9OaFgCXkTkRJMfiAqEh3Bk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:36:06"
+  },
+  {
+    "business_name": "Punjab electronic",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "276131",
+    "phone_number": "+91 81123 04008",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Martinganj, Uttar Pradesh 276301",
+    "area": "276131",
+    "latitude": 25.9011875,
+    "longitude": 82.8095625,
+    "place_id": "ChIJhwdZeOFJkDkRu4G4MJ_BVIc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhwdZeOFJkDkRu4G4MJ_BVIc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:36:07"
+  }
+]

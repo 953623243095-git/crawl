@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanyam yoga classes",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga instructor",
+    "all_categories": "Yoga instructor",
+    "pincode": "276122",
+    "phone_number": "+91 94567 11407",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 15,
+    "address": "Ward no. 5, new, Friends Colony, Vikasnagar, Uttarakhand 248198",
+    "area": "Friends Colony, Kalyanpur",
+    "latitude": 30.461246,
+    "longitude": 77.7633823,
+    "place_id": "ChIJHwTzSgkvDzkRvpr7QdFbbeI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHwTzSgkvDzkRvpr7QdFbbeI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:21:23"
+  },
+  {
+    "business_name": "Satyaver Sport Shop",
+    "search_category": "Yoga Center",
+    "primary_category": "Sporting goods store",
+    "all_categories": "Sporting goods store",
+    "pincode": "276122",
+    "phone_number": "+91 93363 10758",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kolwa, near Primary School, Arazi Dewara Karkhiya, Uttar Pradesh 276122",
+    "area": "276122",
+    "latitude": 26.302099,
+    "longitude": 83.2547824,
+    "place_id": "ChIJy3aMZTJ1kTkRdI27l9U2TVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy3aMZTJ1kTkRdI27l9U2TVU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:21:24"
+  }
+]

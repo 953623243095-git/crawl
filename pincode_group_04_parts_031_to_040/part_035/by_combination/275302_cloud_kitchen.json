@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Pizza delivery",
+    "all_categories": "Pizza delivery, Delivery service",
+    "pincode": "275302",
+    "phone_number": "N/A",
+    "website": "http://onelink.to/bhojmandu",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kathmandu, Bagmati Province 44600, Nepal",
+    "area": "Chabahil",
+    "latitude": 27.712852299999998,
+    "longitude": 85.3519762,
+    "place_id": "ChIJk37B4UQZ6zkRVA7zfwrPh4Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk37B4UQZ6zkRVA7zfwrPh4Q",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:06:08"
+  },
+  {
+    "business_name": "Cookhouse",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food producer",
+    "all_categories": "Food producer, Service establishment",
+    "pincode": "275302",
+    "phone_number": "+91 81712 64730",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "Cookhouse, 275302, India",
+    "area": "275302",
+    "latitude": 29.861369399999997,
+    "longitude": 77.89482579999999,
+    "place_id": "ChIJ23ZmctSzDjkRpMgHW8gHbcQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ23ZmctSzDjkRpMgHW8gHbcQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:06:08"
+  }
+]

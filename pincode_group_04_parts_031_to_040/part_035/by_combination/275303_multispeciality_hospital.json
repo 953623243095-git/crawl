@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa shakti hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "General hospital",
+    "all_categories": "General hospital",
+    "pincode": "275303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "7GF4+GG7, Doharighat, Uttar Pradesh 275303",
+    "area": "275303",
+    "latitude": 26.273775999999998,
+    "longitude": 83.5063053,
+    "place_id": "ChIJqZuePgB5kTkRRoCKjc_DYCw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqZuePgB5kTkRRoCKjc_DYCw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:08:10"
+  },
+  {
+    "business_name": "Trimurti Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "275303",
+    "phone_number": "+91 81728 34949",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 14,
+    "address": "near SP office, Naribandh, Mau, Uttar Pradesh 275101",
+    "area": "Naribandh",
+    "latitude": 25.913785999999998,
+    "longitude": 83.5643146,
+    "place_id": "ChIJGRTLeHyLkTkR61iKl9zdRv0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGRTLeHyLkTkR61iKl9zdRv0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:08:10"
+  }
+]

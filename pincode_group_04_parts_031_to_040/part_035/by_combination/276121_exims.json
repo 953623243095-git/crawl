@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DXN Stock Point",
+    "search_category": "EXIMS",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "276121",
+    "phone_number": "+91 93363 12996",
+    "website": "http://www.dxnindia.in/",
+    "rating": 4.6,
+    "reviews_count": 18,
+    "address": "Harbanspur, Azamgarh, Uttar Pradesh 276001",
+    "area": "Harbanspur",
+    "latitude": 26.052028399999998,
+    "longitude": 83.1674937,
+    "place_id": "ChIJuUbpJ6e8kTkR2Ok4auosFp8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuUbpJ6e8kTkR2Ok4auosFp8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:20:39"
+  },
+  {
+    "business_name": "SN SALES",
+    "search_category": "EXIMS",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop, Battery Store, Battery Wholesaler, Bicycle Shop, Solar energy equipment supplier",
+    "pincode": "276121",
+    "phone_number": "+91 98394 64555",
+    "website": "https://snsales.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CHECK-POST, Kotila, Uttar Pradesh 276207",
+    "area": "276121",
+    "latitude": 25.9917044,
+    "longitude": 83.0855709,
+    "place_id": "ChIJ1yEADAC7kTkR16mhY8i8uSU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1yEADAC7kTkR16mhY8i8uSU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:20:39"
+  }
+]

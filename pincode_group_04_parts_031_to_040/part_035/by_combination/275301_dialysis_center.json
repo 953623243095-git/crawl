@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THANAL DIALYSIS CENTRE",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "275301",
+    "phone_number": "+91 497 270 8118",
+    "website": "https://thanalkannur.org/",
+    "rating": 4.8,
+    "reviews_count": 13,
+    "address": "Koodali, Keralam 670592",
+    "area": "275301",
+    "latitude": 11.9290185,
+    "longitude": 75.4640223,
+    "place_id": "ChIJI4xz6Eg7pDsR132XPoMab2o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI4xz6Eg7pDsR132XPoMab2o",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:04:34"
+  },
+  {
+    "business_name": "SMART Dialysis Centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center, Physiotherapy Center",
+    "pincode": "275301",
+    "phone_number": "+91 95679 97766",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 16,
+    "address": "Padinhattummuri, Keralam 676506",
+    "area": "275301",
+    "latitude": 11.0571101,
+    "longitude": 76.10787859999999,
+    "place_id": "ChIJ1fSBQ3M1pjsRGrcEiF7v5T8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1fSBQ3M1pjsRGrcEiF7v5T8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:04:35"
+  }
+]

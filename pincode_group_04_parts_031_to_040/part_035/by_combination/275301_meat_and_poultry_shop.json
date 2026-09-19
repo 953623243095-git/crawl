@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Poultry farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "275301",
+    "phone_number": "+91 88531 88352",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "5CF9+C98, Katihari Buzurg, Uttar Pradesh 276124",
+    "area": "275301",
+    "latitude": 26.173542899999998,
+    "longitude": 83.4184475,
+    "place_id": "ChIJf10t6eObkTkRZV7INbau5dw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf10t6eObkTkRZV7INbau5dw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:04:04"
+  },
+  {
+    "business_name": "Amila, Uttar Pradesh 275301",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "275301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Amila, Uttar Pradesh",
+    "area": "275301",
+    "latitude": 26.165477499999998,
+    "longitude": 83.4750241,
+    "place_id": "ChIJtRL88XmEkTkRCxB4kEKK9kU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtRL88XmEkTkRCxB4kEKK9kU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:04:05"
+  }
+]

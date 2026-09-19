@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AK INTERIOR",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "276138",
+    "phone_number": "+91 97958 17129",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Jama Masjid, Hyderabad, Mubarakpur, Uttar Pradesh 276404",
+    "area": "276138",
+    "latitude": 26.088852499999998,
+    "longitude": 83.2858384,
+    "place_id": "ChIJZZSFQaiZkTkRGp2idCMmsJs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZZSFQaiZkTkRGp2idCMmsJs",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:43:50"
+  },
+  {
+    "business_name": "Limitless Interior",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Wallpaper store",
+    "pincode": "276138",
+    "phone_number": "+91 96501 43654",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shanthi chowk, Katra Rd, Mubarakpur, Uttar Pradesh 276404",
+    "area": "276138",
+    "latitude": 26.089464099999997,
+    "longitude": 83.2995682,
+    "place_id": "ChIJgZMzI7uZkTkRRkX3yWZ_lQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgZMzI7uZkTkRRkX3yWZ_lQc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:43:50"
+  }
+]

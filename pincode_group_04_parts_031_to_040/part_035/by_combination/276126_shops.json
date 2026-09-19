@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bongariya bazar",
+    "search_category": "Shops",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "276126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 27,
+    "address": "R7P8+47F, Bongariya, Uttar Pradesh 276126",
+    "area": "276126",
+    "latitude": 25.8353055,
+    "longitude": 83.2656865,
+    "place_id": "ChIJL6P_MQDrkTkRLI_-fA6Fckw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL6P_MQDrkTkRLI_-fA6Fckw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:29:59"
+  },
+  {
+    "business_name": "Aman Modanwal",
+    "search_category": "Shops",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "276126",
+    "phone_number": "+91 91404 99483",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "Azamgarh 276126, Haraura, Uttar Pradesh 275203",
+    "area": "276126",
+    "latitude": 25.778773899999997,
+    "longitude": 83.2871693,
+    "place_id": "ChIJMRURm8DpkTkRT6VVxttaXOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMRURm8DpkTkRT6VVxttaXOo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:30:01"
+  }
+]

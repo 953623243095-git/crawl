@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "H N POULTRY",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "276131",
+    "phone_number": "+91 87552 68604",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Vajaha, Uttar Pradesh 276131",
+    "area": "276131",
+    "latitude": 25.986562499999998,
+    "longitude": 83.2775625,
+    "place_id": "ChIJUzxEz3aXkTkRwoyY0G6SokY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUzxEz3aXkTkRwoyY0G6SokY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:35:29"
+  },
+  {
+    "business_name": "Chinese fast food",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "276131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "bhujhahi mod, krha, roda, Surhurpur, Muhammadabad Gohna, Uttar Pradesh 276403",
+    "area": "krha, roda",
+    "latitude": 26.001460899999998,
+    "longitude": 83.37018239999999,
+    "place_id": "ChIJ99omawCRkTkRyQ9KHNI0Z18",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ99omawCRkTkRyQ9KHNI0Z18",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:35:29"
+  }
+]

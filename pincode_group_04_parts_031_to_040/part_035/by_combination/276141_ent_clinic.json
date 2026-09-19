@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SARIKA ENT CENTER",
+    "search_category": "ENT Clinic",
+    "primary_category": "Otolaryngology clinic",
+    "all_categories": "Otolaryngology clinic",
+    "pincode": "276141",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Power House se, 500meter, Pashchim Faizabad-Lucknow Road, Balwarganj, Terhi Jamin Terhi, Bharauli, Uttar Pradesh 276141",
+    "area": "Balwarganj",
+    "latitude": 26.2114746,
+    "longitude": 83.082645,
+    "place_id": "ChIJ9dVbYwCnkTkRJZBvcXhfXE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9dVbYwCnkTkRJZBvcXhfXE8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:49:00"
+  },
+  {
+    "business_name": "AVYANSH ENT CENTER",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "276141",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Power House se 500meter, Pashchim Faizabad-Lucknow Road, Balwarganj Terahi, Azamgarh, Uttar Pradesh 276141",
+    "area": "Balwarganj Terahi",
+    "latitude": 26.2114746,
+    "longitude": 83.082645,
+    "place_id": "ChIJyaUk0-WnkTkREu9s7HdKfhk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyaUk0-WnkTkREu9s7HdKfhk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:49:00"
+  }
+]

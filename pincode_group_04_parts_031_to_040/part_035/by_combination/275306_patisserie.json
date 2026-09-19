@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THE CAKE SHOP",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "275306",
+    "phone_number": "+91 78604 30802",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Uttar Pradesh 276405",
+    "area": "275306",
+    "latitude": 26.0557064,
+    "longitude": 83.42000879999999,
+    "place_id": "ChIJz-xLPyCQkTkRDfxHrCsI64M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz-xLPyCQkTkRDfxHrCsI64M",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:13:25"
+  },
+  {
+    "business_name": "Cake Parlour",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "275306",
+    "phone_number": "+91 78609 22240",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Azamgarh Road Azamgarh Road, Mau, Kasari, Uttar Pradesh 276403",
+    "area": "275306",
+    "latitude": 25.9960234,
+    "longitude": 83.46855579999999,
+    "place_id": "ChIJA2pzrk6PkTkRS9RQHGnFQOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA2pzrk6PkTkRS9RQHGnFQOI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:13:28"
+  }
+]

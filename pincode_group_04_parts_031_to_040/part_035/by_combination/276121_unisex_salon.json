@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Usmani Traders",
+    "search_category": "Unisex Salon",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "276121",
+    "phone_number": "+91 89573 26070",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jama Masjid, Takia, Azamgarh, Uttar Pradesh 276001",
+    "area": "Takia",
+    "latitude": 26.070460399999998,
+    "longitude": 83.1830129,
+    "place_id": "ChIJqU0tAlCjkTkRV0o_GK2UaDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqU0tAlCjkTkRV0o_GK2UaDc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:19:57"
+  },
+  {
+    "business_name": "vs mens professionals salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser",
+    "pincode": "276121",
+    "phone_number": "+91 81760 50808",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Anjansaheed Nurudinpur raod, Uttar Pradesh 276125",
+    "area": "276121",
+    "latitude": 26.148982099999998,
+    "longitude": 83.2760213,
+    "place_id": "ChIJ_ZIXFeCZkTkRv-_pdEw3Egw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_ZIXFeCZkTkRv-_pdEw3Egw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:19:57"
+  }
+]

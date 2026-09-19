@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NS Computer Institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "276129",
+    "phone_number": "+91 81142 14123",
+    "website": "https://www.nsci.org.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ausatpur, Chiraiyakot, Jamin Kmaluddinpur, Uttar Pradesh 276129",
+    "area": "Ausatpur",
+    "latitude": 25.894129,
+    "longitude": 83.322203,
+    "place_id": "ChIJM_qZchGVkTkRRE8Bka4_Ua0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM_qZchGVkTkRRE8Bka4_Ua0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:34:49"
+  },
+  {
+    "business_name": "OM SAI COMPUTER COLLEGE OF INFORMATION & MANAGEMENT TECNOLOGY KANCHANPUR AZAMGARH",
+    "search_category": "Computer Training Institute",
+    "primary_category": "College",
+    "all_categories": "College",
+    "pincode": "276129",
+    "phone_number": "+91 72389 88088",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Saidpur Chiraiyyakot Marg, Bhagwanpur, Uttar Pradesh 276126",
+    "area": "276129",
+    "latitude": 25.813906199999998,
+    "longitude": 83.31295469999999,
+    "place_id": "ChIJGZJco63rkTkR5Fjb2pBKyu4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGZJco63rkTkR5Fjb2pBKyu4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:34:51"
+  }
+]

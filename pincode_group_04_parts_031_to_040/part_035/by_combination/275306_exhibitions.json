@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CIMA Gallery",
+    "search_category": "Exhibitions",
+    "primary_category": "Tourist attraction",
+    "all_categories": "Tourist attraction, Art gallery",
+    "pincode": "275306",
+    "phone_number": "+91 33 2485 8717",
+    "website": "http://www.cimaartindia.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "2ND FLOOR, SUNNY TOWERS, 43, Ashutosh Chowdhury Ave, Ballygunge, Kolkata, West Bengal 700019",
+    "area": "Ballygunge",
+    "latitude": 22.531633,
+    "longitude": 88.36468889999999,
+    "place_id": "ChIJ-S7YuCZ3AjoRgVjfj3AaaKc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-S7YuCZ3AjoRgVjfj3AaaKc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:14:58"
+  },
+  {
+    "business_name": "Nature Morte Gallery",
+    "search_category": "Exhibitions",
+    "primary_category": "Art gallery",
+    "all_categories": "Art gallery",
+    "pincode": "275306",
+    "phone_number": "+91 11 4068 7117",
+    "website": "http://www.naturemorte.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "G53M+JX7 The Dhan Mill, D-Block, Pocket D, Dr Ambedkar Colony, Chhatarpur, New Delhi, Delhi 110074",
+    "area": "D-Block, Pocket D, Dr Ambedkar Colony, Chhatarpur",
+    "latitude": 28.504041599999997,
+    "longitude": 77.1849323,
+    "place_id": "ChIJSfK--SIfDTkR761qb5hQWGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSfK--SIfDTkR761qb5hQWGE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:14:58"
+  }
+]

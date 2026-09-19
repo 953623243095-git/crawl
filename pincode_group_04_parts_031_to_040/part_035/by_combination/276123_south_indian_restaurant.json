@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GSCafe",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "276123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mohamdabad bus stand, Chiraiyakot, Sultanpur Nager, Uttar Pradesh 276129",
+    "area": "276123",
+    "latitude": 25.883870299999998,
+    "longitude": 83.3315307,
+    "place_id": "ChIJ74YuVNTrkTkRGdZB97faT5U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ74YuVNTrkTkRGdZB97faT5U",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:22:50"
+  },
+  {
+    "business_name": "Blue Salt Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Chinese noodle restaurant, Family restaurant, Indian restaurant, South Indian restaurant",
+    "pincode": "276123",
+    "phone_number": "+91 98712 42372",
+    "website": "http://bluesaltvns.co.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "S-P, Pushkar Talab, Blue Salt Restaurant, B 1/46, Assi, Varanasi, Uttar Pradesh 221005",
+    "area": "Assi, Dumraon Colony",
+    "latitude": 25.2854575,
+    "longitude": 83.0049994,
+    "place_id": "ChIJ34__K_8tjjkRlINFrblLJFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ34__K_8tjjkRlINFrblLJFs",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:22:53"
+  }
+]

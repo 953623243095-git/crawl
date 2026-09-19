@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahul crane services",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Crane service",
+    "pincode": "276126",
+    "phone_number": "+91 63984 92815",
+    "website": "https://www.facebook.com/rahulcraneservices/",
+    "rating": 4.9,
+    "reviews_count": 79,
+    "address": "Aligarh, Etah Bypass road, Boner, Uttar Pradesh 202002",
+    "area": "276126",
+    "latitude": 27.8625032,
+    "longitude": 78.1298973,
+    "place_id": "ChIJ-VtxkUKldDkRp9vLdYYbFtE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-VtxkUKldDkRp9vLdYYbFtE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:28:52"
+  },
+  {
+    "business_name": "Chitra Crane Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane service",
+    "all_categories": "Crane service, Crane Dealer and Manufacturer, Crane rental agency",
+    "pincode": "276126",
+    "phone_number": "+91 97203 31901",
+    "website": "https://www.chitracrneservices.in/",
+    "rating": 4.8,
+    "reviews_count": 54,
+    "address": "Khair - Aligarh Rd, Wajidpur Nada, Aligarh, Uttar Pradesh 202140",
+    "area": "Wajidpur Nada",
+    "latitude": 27.8904021,
+    "longitude": 78.0282222,
+    "place_id": "ChIJi4MgRPildDkRdv4_A3gswVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi4MgRPildDkRdv4_A3gswVg",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:28:52"
+  }
+]

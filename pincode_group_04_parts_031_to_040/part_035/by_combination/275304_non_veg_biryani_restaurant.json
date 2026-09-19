@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anil Restaurent",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "275304",
+    "phone_number": "+91 70842 59124",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "4JV5+HHW, Belbhadrapur, Uttar Pradesh 276306",
+    "area": "275304",
+    "latitude": 26.1439886,
+    "longitude": 83.6089641,
+    "place_id": "ChIJKflcOskpkjkRN0yIi6TGzHk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKflcOskpkjkRN0yIi6TGzHk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:09:46"
+  },
+  {
+    "business_name": "GFC Resturant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant, Breakfast restaurant",
+    "pincode": "275304",
+    "phone_number": "+91 99569 85622",
+    "website": "http://gfcrestaurant.in/",
+    "rating": 4.1,
+    "reviews_count": 270,
+    "address": "indian bank, GFC Resturant, Sipah Ibrahimabad, Uttar Pradesh 221603",
+    "area": "275304",
+    "latitude": 26.14587,
+    "longitude": 83.63294739999999,
+    "place_id": "ChIJz3hGaa8pkjkRlhp6BAsIoPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz3hGaa8pkjkRlhp6BAsIoPY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:09:47"
+  }
+]

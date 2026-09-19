@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rohit Electricals",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "276123",
+    "phone_number": "+91 79050 85824",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "120, Bongariya, Khajura, Uttar Pradesh 276126",
+    "area": "276123",
+    "latitude": 25.828595399999998,
+    "longitude": 83.2694997,
+    "place_id": "ChIJZcp-8w_rkTkRDHIJwyfS9ZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZcp-8w_rkTkRDHIJwyfS9ZY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:23:54"
+  },
+  {
+    "business_name": "ADVOCATE AKASH GUPTA",
+    "search_category": "Educational Consultant",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services",
+    "pincode": "276123",
+    "phone_number": "+91 96824 92576",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 19,
+    "address": "Niranjan Market, Mehnagar, Uttar Pradesh 276204",
+    "area": "276123",
+    "latitude": 25.876912899999997,
+    "longitude": 83.1139084,
+    "place_id": "ChIJVVrr7k3HkTkRD3eI4s9JR6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVrr7k3HkTkRD3eI4s9JR6U",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:23:55"
+  }
+]

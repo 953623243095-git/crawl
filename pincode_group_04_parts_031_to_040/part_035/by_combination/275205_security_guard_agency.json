@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S4s Security Services",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service",
+    "pincode": "275205",
+    "phone_number": "+91 70270 00696",
+    "website": "https://s4ssecurityservices.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No - 9B, First Floor, Nirmal Market, Railway Rd, near SD Model School, New Janta Market, Sadar Bazar, Karnal, Haryana 132001",
+    "area": "New Janta Market, Sadar Bazar",
+    "latitude": 29.6903437,
+    "longitude": 76.9826377,
+    "place_id": "ChIJEXBXm5xxDjkRtwOzGA9-DHw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEXBXm5xxDjkRtwOzGA9-DHw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:03:40"
+  },
+  {
+    "business_name": "Penta Four Security Services Pvt. Ltd.",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security service",
+    "all_categories": "Security service, Cleaning Services",
+    "pincode": "275205",
+    "phone_number": "+91 97115 34071",
+    "website": "http://www.pentafoursecurity.com/",
+    "rating": 4.5,
+    "reviews_count": 81,
+    "address": "FF-116, Ansal, Satyam Building, Rajnagar, RDC, Block 1, P & T Colony, Raj Nagar, Ghaziabad, Uttar Pradesh 201001",
+    "area": "RDC, Block 1, P & T Colony, Raj Nagar",
+    "latitude": 28.6762794,
+    "longitude": 77.4385168,
+    "place_id": "ChIJLXJ-JXjxDDkRLVDu953rUJs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLXJ-JXjxDDkRLVDu953rUJs",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:03:40"
+  }
+]

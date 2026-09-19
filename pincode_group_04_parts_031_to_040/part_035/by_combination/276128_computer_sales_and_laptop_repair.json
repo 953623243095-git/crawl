@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GLOBAL COMPUTER",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "276128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SH 66A, Uttar Pradesh 276207",
+    "area": "276128",
+    "latitude": 25.994818199999997,
+    "longitude": 83.0927438,
+    "place_id": "ChIJ323eMJq7kTkREiDglbW2Wv0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ323eMJq7kTkREiDglbW2Wv0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:33:08"
+  },
+  {
+    "business_name": "A-1 COMPUTERS",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "276128",
+    "phone_number": "+91 80092 74966",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 34,
+    "address": "SH 66A, Rani Ki Sarai, Ghati Patti, Uttar Pradesh 276207",
+    "area": "276128",
+    "latitude": 25.996896099999997,
+    "longitude": 83.09690359999999,
+    "place_id": "ChIJ0ab4_Gq6kTkRokZxRbBm6BA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0ab4_Gq6kTkRokZxRbBm6BA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:33:09"
+  }
+]

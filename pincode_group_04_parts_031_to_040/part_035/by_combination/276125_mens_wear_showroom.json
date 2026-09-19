@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A2 Men’s wear",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "276125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "AL Aqsa, SH-34, near Masjid, Jamuri, Uttar Pradesh 276406",
+    "area": "276125",
+    "latitude": 26.0453287,
+    "longitude": 83.2345106,
+    "place_id": "ChIJNcV8fmm9kTkRTa14DC7hSPM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNcV8fmm9kTkRTa14DC7hSPM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:26:32"
+  },
+  {
+    "business_name": "LAWMAN",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "276125",
+    "phone_number": "+91 80 4595 3314",
+    "website": "https://stores.lawmanpg3.com/lawman-men-s-clothes-shop-alwal-azamgarh-477602/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Shop No 72, Ground Floor, Alwal, near Mahila Hospital, Sadar, Matbarganj, Azamgarh, Uttar Pradesh 276001",
+    "area": "Sadar, Matbarganj",
+    "latitude": 26.063252199999997,
+    "longitude": 83.1846266,
+    "place_id": "ChIJbxytdQC9kTkRVYPE-YB0mRk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbxytdQC9kTkRVYPE-YB0mRk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:26:35"
+  }
+]

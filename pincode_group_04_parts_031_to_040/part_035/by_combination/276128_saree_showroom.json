@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ankit Saree Center",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop, Shopping mall",
+    "pincode": "276128",
+    "phone_number": "+91 73098 52482",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Chhatwara, more, Chandeshwar, Azamgarh, Uttar Pradesh 276128",
+    "area": "Chandeshwar",
+    "latitude": 26.0138802,
+    "longitude": 83.1837683,
+    "place_id": "ChIJx--jT2G8kTkRxKD_lmp3abM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx--jT2G8kTkRxKD_lmp3abM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:32:01"
+  },
+  {
+    "business_name": "Rishi Saree Centre",
+    "search_category": "Saree Showroom",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store, Clothing store",
+    "pincode": "276128",
+    "phone_number": "+91 97946 43440",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "25WQ+5MW, Near Ram Lila Maidan, Sidhari, Azamgarh, Uttar Pradesh 276001",
+    "area": "Sidhari",
+    "latitude": 26.0454883,
+    "longitude": 83.18921379999999,
+    "place_id": "ChIJV0uoY-q8kTkRzIyGzadhGfk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV0uoY-q8kTkRzIyGzadhGfk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:32:03"
+  }
+]

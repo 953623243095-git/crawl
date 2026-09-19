@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.C.I.T Computer Institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "275304",
+    "phone_number": "+91 88811 57655",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Road, Mankapur, Peher, Husainabad, Uttar Pradesh 271604",
+    "area": "Mankapur",
+    "latitude": 27.251686,
+    "longitude": 82.3392547,
+    "place_id": "ChIJsdfqaw1dlzkRDHzLt1zh9dk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsdfqaw1dlzkRDHzLt1zh9dk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:10:50"
+  },
+  {
+    "business_name": "Jailendra Institute of Information Technology",
+    "search_category": "Computer Training Institute",
+    "primary_category": "College",
+    "all_categories": "College",
+    "pincode": "275304",
+    "phone_number": "+91 96506 08195",
+    "website": "http://jiitinstitute.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhairopur Rd, Madhuban, Bakhariya, Uttar Pradesh 221601",
+    "area": "275304",
+    "latitude": 26.214264399999998,
+    "longitude": 83.67839649999999,
+    "place_id": "ChIJw9tV63UskjkRTP0XUdBezAw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw9tV63UskjkRTP0XUdBezAw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:10:51"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A.K. Chat corner & fastfood",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "276138",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "37PR+VMG, Mohalla- Purarani, Mubarakpur, Uttar Pradesh 276404",
+    "area": "Puranibasti",
+    "latitude": 26.0871884,
+    "longitude": 83.29170189999999,
+    "place_id": "ChIJr3FuHcuZkTkRCaZbRBpE-A8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr3FuHcuZkTkRCaZbRBpE-A8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:43:10"
+  },
+  {
+    "business_name": "Maddheshiya Chaat Corner & Cake House",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "276138",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chhoti Arjenti, near Durga mandir, Mubarakpur, Uttar Pradesh 276404",
+    "area": "Puranibasti",
+    "latitude": 26.086867899999998,
+    "longitude": 83.291945,
+    "place_id": "ChIJ3aijF0-ZkTkRgmQHFzNdlAU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3aijF0-ZkTkRgmQHFzNdlAU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:43:10"
+  }
+]

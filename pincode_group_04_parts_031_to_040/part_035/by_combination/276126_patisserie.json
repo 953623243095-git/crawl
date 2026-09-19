@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suraj mishtan bhandar",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "276126",
+    "phone_number": "+91 99276 38692",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Gorakhpur Road, near by Durga Mandir, Azamgarh, Manajit, Uttar Pradesh 276129",
+    "area": "276126",
+    "latitude": 25.8934946,
+    "longitude": 83.3340303,
+    "place_id": "ChIJNwd7EreVkTkRJKDcTERsnco",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNwd7EreVkTkRJKDcTERsnco",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:28:17"
+  },
+  {
+    "business_name": "Ishu faat food Raipur",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "276126",
+    "phone_number": "+91 96162 84146",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Raipur, Paliaya, Uttar Pradesh 276129",
+    "area": "276126",
+    "latitude": 25.850414999999998,
+    "longitude": 83.3664733,
+    "place_id": "ChIJlYD6RpHtkTkRaMbEsFYVL6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlYD6RpHtkTkRaMbEsFYVL6s",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:28:17"
+  }
+]

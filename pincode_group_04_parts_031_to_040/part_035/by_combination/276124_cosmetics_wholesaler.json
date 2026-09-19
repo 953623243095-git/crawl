@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saimeen Beauty Traders",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Beauty Products Wholesaler",
+    "all_categories": "Beauty Products Wholesaler",
+    "pincode": "276124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "582R+F4X, Ram Nagar - Jiyanpur Rd, Chunugpar, Uttar Pradesh 276140",
+    "area": "276124",
+    "latitude": 26.151229999999998,
+    "longitude": 83.3403725,
+    "place_id": "ChIJv-oaiyGbkTkRQJRzJFtMSBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv-oaiyGbkTkRQJRzJFtMSBo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:25:24"
+  },
+  {
+    "business_name": "Beauty Bar",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Gift shop",
+    "pincode": "276124",
+    "phone_number": "+91 91287 61111",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 32,
+    "address": "Bypass Road, near TATA MOTORS, Prabhunath Nagar, Chapra, Bihar 841301",
+    "area": "Prabhunath Nagar",
+    "latitude": 25.7889643,
+    "longitude": 84.7396139,
+    "place_id": "ChIJGxmeGve7kjkR82xb5d3mkgs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGxmeGve7kjkR82xb5d3mkgs",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:25:25"
+  }
+]

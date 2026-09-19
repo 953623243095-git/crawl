@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M R Food & Catering service",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company",
+    "pincode": "275307",
+    "phone_number": "+91 95360 00411",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Purdil Nagar, Uttar Pradesh 204214",
+    "area": "275307",
+    "latitude": 27.6579071,
+    "longitude": 78.3692524,
+    "place_id": "ChIJVZVF6r3tdDkRp5SlPkfONxU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVZVF6r3tdDkRp5SlPkfONxU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:15:17"
+  },
+  {
+    "business_name": "J.R. Agritech Private Limited (Frozen Cold Storage), Jagner",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "275307",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 20,
+    "address": "Gate Number 985, Khet Number 183, Khair Rd, Tehsil, Jagner, Iglas, Uttar Pradesh 202124",
+    "area": "Tehsil",
+    "latitude": 27.7697954,
+    "longitude": 77.9106929,
+    "place_id": "ChIJuzCXe-FfczkRVzK3yJp1zos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuzCXe-FfczkRVzK3yJp1zos",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:15:17"
+  }
+]

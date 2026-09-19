@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivam Collection",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop, Clothing store",
+    "pincode": "276127",
+    "phone_number": "+91 96487 28490",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No, 1Shivam Collection, Azamgarh, Bilariyaganj, Uttar Pradesh 276121",
+    "area": "276127",
+    "latitude": 26.1940238,
+    "longitude": 83.227778,
+    "place_id": "ChIJx5C7B86hkTkRYTQFILXdNGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx5C7B86hkTkRYTQFILXdNGE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:30:14"
+  },
+  {
+    "business_name": "Tripti Vastralaya",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "276127",
+    "phone_number": "+91 81081 68817",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Vill Bankata Post Bazar Gosain Pin Code 276127, Uttar Pradesh 276138",
+    "area": "276127",
+    "latitude": 26.235272499999997,
+    "longitude": 83.3032355,
+    "place_id": "ChIJP2m6mDqfkTkRIf4papEacyk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP2m6mDqfkTkRIf4papEacyk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:30:15"
+  }
+]

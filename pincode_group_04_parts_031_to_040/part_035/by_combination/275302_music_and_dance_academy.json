@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ikigai Schools",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school, Music school, Performing arts theater, School center, Theater production",
+    "pincode": "275302",
+    "phone_number": "+91 92203 39929",
+    "website": "https://www.ikigaischools.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Lower Ground Floor, 6/12, Balraj Khanna Marg, opp. W for Women, Block 6, East Patel Nagar, Patel Nagar, New Delhi, Delhi, 110008",
+    "area": "Block 6, East Patel Nagar, Patel Nagar",
+    "latitude": 28.647683599999997,
+    "longitude": 77.1666559,
+    "place_id": "ChIJUc2EtioDDTkRQlclpiudat4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUc2EtioDDTkRQlclpiudat4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:07:09"
+  },
+  {
+    "business_name": "RAAS Performing Arts",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school, Art school, Music school",
+    "pincode": "275302",
+    "phone_number": "+91 85270 09911",
+    "website": "https://raasperformingarts.com/",
+    "rating": 4.9,
+    "reviews_count": 50,
+    "address": "Basement Plot No. 278, Dayal Darbar Building, B2, near Bank of Baroda, Pocket A2, Pocket B, Sector 17 Dwarka, Dwarka, Delhi, 110075",
+    "area": "Pocket A2, Pocket B, Sector 17 Dwarka, Dwarka",
+    "latitude": 28.588464499999997,
+    "longitude": 77.0298873,
+    "place_id": "ChIJd24RCAUbDTkR2i1IG9Y01-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd24RCAUbDTkR2i1IG9Y01-g",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:07:12"
+  }
+]

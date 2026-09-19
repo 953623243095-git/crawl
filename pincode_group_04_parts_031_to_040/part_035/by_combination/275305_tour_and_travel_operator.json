@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AL S.N. TRAVEL AGENCY",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "275305",
+    "phone_number": "+91 74600 65798",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hunsapura, Kopaganj, Uttar Pradesh 275305",
+    "area": "Hunsapura",
+    "latitude": 26.0194096,
+    "longitude": 83.5629434,
+    "place_id": "ChIJEQXKUc-JkTkRU3S9aqiqhqg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEQXKUc-JkTkRU3S9aqiqhqg",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:12:07"
+  },
+  {
+    "business_name": "Deepu yadav travels Bhelabaandh",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "275305",
+    "phone_number": "+91 91986 64347",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bhelabandh, Uttar Pradesh 275305",
+    "area": "275305",
+    "latitude": 26.0487006,
+    "longitude": 83.597098,
+    "place_id": "ChIJTUuRFcAnkjkRQc8-cPTVOtw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTUuRFcAnkjkRQc8-cPTVOtw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:12:11"
+  }
+]

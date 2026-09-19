@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ForTax Solutions",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant, Rubber stamp store, Seal shop",
+    "pincode": "275304",
+    "phone_number": "+91 81292 95199",
+    "website": "https://fortaxsolutions.in/",
+    "rating": 5,
+    "reviews_count": 148,
+    "address": "Second floor, Prasanthi Building, Banerji Rd, near JLN Stadium Metro, Kaloor, Kochi, Ernakulam, Keralam 682017",
+    "area": "Kaloor",
+    "latitude": 10.0000264,
+    "longitude": 76.29819499999999,
+    "place_id": "ChIJQR62FcoNCDsRLce4LynQwmo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQR62FcoNCDsRLce4LynQwmo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:10:59"
+  },
+  {
+    "business_name": "Dubey Associat GST, Income tax",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "275304",
+    "phone_number": "+91 94562 38005",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "in front of new tahsil, Aliganj, Uttar Pradesh 207247",
+    "area": "275304",
+    "latitude": 27.4994716,
+    "longitude": 79.1621977,
+    "place_id": "ChIJFypUdIeddTkR2VSPbdOHYnA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFypUdIeddTkR2VSPbdOHYnA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:11:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Data Solutions",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant, Service establishment",
+    "pincode": "275205",
+    "phone_number": "+91 93543 88834",
+    "website": "https://dataanaylsis.solutions/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Data Solutions, 275205, India",
+    "area": "275205",
+    "latitude": 28.5273522,
+    "longitude": 77.20898509999999,
+    "place_id": "ChIJAQ9jKF2HD20RYF-F1ZvT4Ac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQ9jKF2HD20RYF-F1ZvT4Ac",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:03:58"
+  },
+  {
+    "business_name": "Data entry",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Data Entry Service Provider",
+    "all_categories": "Data Entry Service Provider, Service establishment",
+    "pincode": "275205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Data entry, 275205, India",
+    "area": "275205",
+    "latitude": 28.748711999999998,
+    "longitude": 77.20246949999999,
+    "place_id": "ChIJu9ONzqD_DDkRSWvP8UMRr4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu9ONzqD_DDkRSWvP8UMRr4Y",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:03:58"
+  }
+]

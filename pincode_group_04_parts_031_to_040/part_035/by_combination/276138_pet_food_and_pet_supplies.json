@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pet Shoap",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "276138",
+    "phone_number": "+91 83039 98293",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rajnish Village, 222, Kokilpar, Uttar Pradesh 276121",
+    "area": "276138",
+    "latitude": 26.167195,
+    "longitude": 83.2592165,
+    "place_id": "ChIJ2WHrASKZkTkR2gCP0VuqRx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2WHrASKZkTkR2gCP0VuqRx4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:43:04"
+  },
+  {
+    "business_name": "Pet world",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store",
+    "pincode": "276138",
+    "phone_number": "+91 91613 94099",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "pani tanki road, beside indian overseas bank, Sakha, Bahraich, Uttar Pradesh 271801",
+    "area": "Sakha",
+    "latitude": 27.567541199999997,
+    "longitude": 81.5997943,
+    "place_id": "ChIJ_9BZXk2pmTkRYN2gkdrmT-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_9BZXk2pmTkRYN2gkdrmT-o",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:43:06"
+  }
+]

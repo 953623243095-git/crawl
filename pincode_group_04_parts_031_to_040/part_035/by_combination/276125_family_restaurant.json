@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Skyline Dhaba and Family Resturant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "276125",
+    "phone_number": "+91 70802 98436",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sathiaon, Surai, Uttar Pradesh 276406",
+    "area": "276125",
+    "latitude": 26.040788499999998,
+    "longitude": 83.296841,
+    "place_id": "ChIJI8rmB-CXkTkR-HQ30GVf3lM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI8rmB-CXkTkR-HQ30GVf3lM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:26:30"
+  },
+  {
+    "business_name": "Food please family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "276125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "35HP+CH7, Pura Jodhi, Azamgarh, Uttar Pradesh 276001",
+    "area": "Pura Jodhi",
+    "latitude": 26.0784891,
+    "longitude": 83.1863331,
+    "place_id": "ChIJz0q8NwCjkTkRYLq2sQRi1-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz0q8NwCjkTkRYLq2sQRi1-g",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:26:32"
+  }
+]

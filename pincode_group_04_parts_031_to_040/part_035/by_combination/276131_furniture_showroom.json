@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akash Industries",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "276131",
+    "phone_number": "+91 83170 46687",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1, Azamgarh, Sathiaon, Uttar Pradesh 276406",
+    "area": "276131",
+    "latitude": 26.0420585,
+    "longitude": 83.2769325,
+    "place_id": "ChIJ3d2VwbyXkTkR27R8LQUQYvM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3d2VwbyXkTkR27R8LQUQYvM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:36:20"
+  },
+  {
+    "business_name": "KANHAIYA FURNITURE WORK SHOP",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "276131",
+    "phone_number": "+91 88878 08869",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Tulshipur, Uttar Pradesh 276131",
+    "area": "276131",
+    "latitude": 25.953203799999997,
+    "longitude": 83.2695464,
+    "place_id": "ChIJL0ftAJWVkTkRdoJ_eXkGk9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL0ftAJWVkTkRdoJ_eXkGk9U",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:36:20"
+  }
+]

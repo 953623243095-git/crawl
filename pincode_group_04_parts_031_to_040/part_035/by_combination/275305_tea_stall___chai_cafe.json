@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai Parlour",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "275305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Kidz Zone School, NH 29, Sahadatpura, Mau, Maunath Bhanjan, Uttar Pradesh 275101",
+    "area": "Sahadatpura",
+    "latitude": 25.9235307,
+    "longitude": 83.56722239999999,
+    "place_id": "ChIJ6aDtSp2LkTkRdTgtr8fZC4k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6aDtSp2LkTkRdTgtr8fZC4k",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:11:34"
+  },
+  {
+    "business_name": "Raju’s Tea Stop",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "275305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "RH84+6M3, Varanasi - Gorakhpur Hwy, Mardah, Raipur Waghpur, Uttar Pradesh 233226",
+    "area": "275305",
+    "latitude": 25.815561,
+    "longitude": 83.5564632,
+    "place_id": "ChIJA7k3LQD1kTkR2LMXWaVuR60",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA7k3LQD1kTkR2LMXWaVuR60",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:11:36"
+  }
+]

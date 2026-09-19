@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Welding Machine",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "276122",
+    "phone_number": "+91 95888 02019",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "PJGG+CJ7 Welding Machine, Gatgala Road, Alwar, Ghatla, Rajasthan 301001",
+    "area": "276122",
+    "latitude": 27.7260347,
+    "longitude": 76.62656249999999,
+    "place_id": "ChIJyakJAUWjcjkRym17ZNbrm-E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyakJAUWjcjkRym17ZNbrm-E",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:22:22"
+  },
+  {
+    "business_name": "Dinesh Welding Shop",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "276122",
+    "phone_number": "+91 98489 27798",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "67JQ+GGM, Kursauli Yadav, Uttar Pradesh 276127",
+    "area": "276122",
+    "latitude": 26.2313393,
+    "longitude": 83.28879959999999,
+    "place_id": "ChIJ26TrowyfkTkRSyfgMKjfWmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ26TrowyfkTkRSyfgMKjfWmY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:22:23"
+  }
+]

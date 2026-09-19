@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GFC Restaurant and bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Discount supermarket",
+    "all_categories": "Discount supermarket",
+    "pincode": "275304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 11,
+    "address": "121, Surajpur Ghosi Rd, Sultanpur, Katai Chawar, Uttar Pradesh 275304",
+    "area": "275304",
+    "latitude": 26.1689285,
+    "longitude": 83.5755429,
+    "place_id": "ChIJ23gCZgaHkTkRZNlWYHst6F8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ23gCZgaHkTkRZNlWYHst6F8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:09:44"
+  },
+  {
+    "business_name": "SHREE PANNALAL SWEETS",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "275304",
+    "phone_number": "+91 94157 74311",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ajorpur, Maryadpur, Marufpur, Uttar Pradesh 275304",
+    "area": "Ajorpur",
+    "latitude": 26.1217015,
+    "longitude": 83.5435274,
+    "place_id": "ChIJFe6hyTCHkTkRvpjAmOGAACM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFe6hyTCHkTkRvpjAmOGAACM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:09:46"
+  }
+]

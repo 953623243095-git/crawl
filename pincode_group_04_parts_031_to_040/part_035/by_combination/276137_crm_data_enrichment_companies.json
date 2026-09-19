@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Online work",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Data Entry Service Provider",
+    "all_categories": "Data Entry Service Provider, Service establishment",
+    "pincode": "276137",
+    "phone_number": "+91 76075 73332",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Online work, 276137, India",
+    "area": "276137",
+    "latitude": 26.7637152,
+    "longitude": 83.4039116,
+    "place_id": "ChIJ34zfRTfu0Y4R9IHIvTeMZFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ34zfRTfu0Y4R9IHIvTeMZFo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:42:53"
+  },
+  {
+    "business_name": "Kumaar IT Experts & Services",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Computer support and services",
+    "pincode": "276137",
+    "phone_number": "+91 81157 52545",
+    "website": "https://www.kites.org.in/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Kachehari Road, Civil Line Rd, Robertsganj, Uttar Pradesh 231216",
+    "area": "Tagore Nagar",
+    "latitude": 24.6855723,
+    "longitude": 83.0707351,
+    "place_id": "ChIJmdM6B3H5jjkRHVFQt8hQx4M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmdM6B3H5jjkRHVFQt8hQx4M",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:42:55"
+  }
+]

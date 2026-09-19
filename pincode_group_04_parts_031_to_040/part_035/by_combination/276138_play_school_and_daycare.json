@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Primary school",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "276138",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "482C+QC, Mubarakpur, Pahi Jamin Patti, Uttar Pradesh 276404",
+    "area": "276138",
+    "latitude": 26.1019631,
+    "longitude": 83.3210955,
+    "place_id": "ChIJpd2Et_CZkTkR3uCOK75VVhY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpd2Et_CZkTkR3uCOK75VVhY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:44:10"
+  },
+  {
+    "business_name": "Gyaana International Play School",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "276138",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "37QR+28M, Noorpur Butat, Mubarakpur, Uttar Pradesh 276404",
+    "area": "276138",
+    "latitude": 26.0875973,
+    "longitude": 83.2907908,
+    "place_id": "ChIJuRfnTGiZkTkRBNqqlkzGdtU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuRfnTGiZkTkRBNqqlkzGdtU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:44:10"
+  }
+]

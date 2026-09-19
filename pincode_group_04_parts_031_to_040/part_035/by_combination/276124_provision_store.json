@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yadav Ji Kirana Store",
+    "search_category": "Provision Store",
+    "primary_category": "Greengrocer",
+    "all_categories": "Greengrocer",
+    "pincode": "276124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "5934+FF8, Azamgarh, Masona, Uttar Pradesh 276124",
+    "area": "276124",
+    "latitude": 26.153663899999998,
+    "longitude": 83.3561922,
+    "place_id": "ChIJoX8Gt4-bkTkRuvKk_8dStpw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoX8Gt4-bkTkRuvKk_8dStpw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:24:28"
+  },
+  {
+    "business_name": "Priyanka Cosmatics & General Store",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "276124",
+    "phone_number": "+91 99566 31146",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": null,
+    "address": "Bhuwana, Bujurg, Bhuwana Buzurg, Uttar Pradesh 276405",
+    "area": "Bhuwana",
+    "latitude": 26.0944652,
+    "longitude": 83.3649666,
+    "place_id": "ChIJL9eG2qKbkTkRkhTy__tbnhg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL9eG2qKbkTkRkhTy__tbnhg",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:24:30"
+  }
+]

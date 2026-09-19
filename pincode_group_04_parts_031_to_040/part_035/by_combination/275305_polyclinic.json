@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.K. Poly Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "275305",
+    "phone_number": "+91 93354 92080",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Matehu, Uttar Pradesh 233226",
+    "area": "275305",
+    "latitude": 25.865973399999998,
+    "longitude": 83.5584803,
+    "place_id": "ChIJVTf7Z5P1kTkREciig0yvVD0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVTf7Z5P1kTkREciig0yvVD0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:11:56"
+  },
+  {
+    "business_name": "RAHMAN POLY CLINIC",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "275305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bunkar Colony, Imiliya, Mau, Uttar Pradesh 221705",
+    "area": "Bunkar Colony, Imiliya",
+    "latitude": 25.9164432,
+    "longitude": 83.56993489999999,
+    "place_id": "ChIJn1WMS8eKkTkR0hKjAr7DGx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn1WMS8eKkTkR0hKjAr7DGx4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:11:56"
+  }
+]

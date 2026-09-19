@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.SAKHICHAND",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital, Housing society",
+    "pincode": "275301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Narhan Khash, Dheluwa Basantpur, Uttar Pradesh 276124",
+    "area": "275301",
+    "latitude": 26.152200999999998,
+    "longitude": 83.3837787,
+    "place_id": "ChIJwTlD27SbkTkRyHJWxx5z3DU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwTlD27SbkTkRyHJWxx5z3DU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:04:35"
+  },
+  {
+    "business_name": "Pet Vet Go Pet Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Emergency veterinarian service",
+    "all_categories": "Emergency veterinarian service, Animal hospital, Pet boarding service, Pet groomer, Pet store, Pet supply store, Veterinarian, Veterinary pharmacy",
+    "pincode": "275301",
+    "phone_number": "+91 97839 11111",
+    "website": "http://www.petvetgo.in/",
+    "rating": 4.1,
+    "reviews_count": 243,
+    "address": "51/50, Mahavir Marg, near Marthoma Church, opposite NEERJA MODI SCHOOL, Ward 27, Shipra Path, Mansarovar Sector 5, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Ward 27, Shipra Path, Mansarovar Sector 5, Mansarovar",
+    "latitude": 26.8669171,
+    "longitude": 75.7650901,
+    "place_id": "ChIJX5jb3rG1bTkR42EJzFDjwV8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX5jb3rG1bTkR42EJzFDjwV8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:04:36"
+  }
+]

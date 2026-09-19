@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Juicy corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "275301",
+    "phone_number": "+91 99283 94858",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "7 TA 20, JJJ Rd, Sector 7, Jawahar Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302004",
+    "area": "Sector 7, Jawahar Nagar",
+    "latitude": 26.892062499999998,
+    "longitude": 75.8335445,
+    "place_id": "ChIJw42kEGa3bTkROSTRuerxZpM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw42kEGa3bTkROSTRuerxZpM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:04:10"
+  },
+  {
+    "business_name": "FRUITBAE",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "275301",
+    "phone_number": "+91 75102 33051",
+    "website": "http://www.fruitbae.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "KJ Tower, Bypass Road, near Tharayil Stand, Padippura, Perinthalmanna, Keralam 679322",
+    "area": "Padippura",
+    "latitude": 10.9839434,
+    "longitude": 76.2208775,
+    "place_id": "ChIJuV1Ho5fNpzsR4ZmV_tf6Y6g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuV1Ho5fNpzsR4ZmV_tf6Y6g",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:04:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ananya Architects & Associates",
+    "search_category": "Interior Designers",
+    "primary_category": "Home builder",
+    "all_categories": "Home builder",
+    "pincode": "276123",
+    "phone_number": "+91 96951 00123",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ward No 8, near Old Union Bank of India, Jawahr Nagar, Mehnagar, Uttar Pradesh 276204",
+    "area": "Jawahr Nagar",
+    "latitude": 25.876055299999997,
+    "longitude": 83.11225569999999,
+    "place_id": "ChIJWyElO7HHkTkR33YvYw8C97c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWyElO7HHkTkR33YvYw8C97c",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:23:31"
+  },
+  {
+    "business_name": "Om Prakash sharma",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "276123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "goraya roads, Parem nagar, Gangaval, Uttar Pradesh 272192",
+    "area": "Parem nagar",
+    "latitude": 25.715253099999998,
+    "longitude": 83.09250229999999,
+    "place_id": "ChIJBbRKMsLFkTkRSYhhZFuEJdw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBbRKMsLFkTkRSYhhZFuEJdw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:23:31"
+  }
+]

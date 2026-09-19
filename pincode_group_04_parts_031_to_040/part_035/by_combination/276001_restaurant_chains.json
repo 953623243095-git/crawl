@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "La Pino'z Pizza",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "276001",
+    "phone_number": "+91 75675 54424",
+    "website": "https://lapinozpizza.in/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Nagar Palika Chauraha,Roadways Bandha Road 290, Civil Lines, Azamgarh, Uttar Pradesh 276001",
+    "area": "Civil Lines",
+    "latitude": 26.055925199999997,
+    "longitude": 83.1820582,
+    "place_id": "ChIJz0KajZS9kTkR17HKHNSS0Ws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz0KajZS9kTkR17HKHNSS0Ws",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:17:15"
+  },
+  {
+    "business_name": "Go69 Pizza",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Fast food restaurant",
+    "pincode": "276001",
+    "phone_number": "+91 70713 06969",
+    "website": "http://www.go69pizza.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "SHANTI COMPLEX, 5, near Durga Mandir Raidopur, Civil Lines, Azamgarh, Uttar Pradesh 276001",
+    "area": "Civil Lines",
+    "latitude": 26.055480499999998,
+    "longitude": 83.1870201,
+    "place_id": "ChIJL-jPKf-9kTkR96BwiSI6gV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL-jPKf-9kTkR96BwiSI6gV4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:17:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "UGM STORE",
+    "search_category": "Supermarket",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "276124",
+    "phone_number": "+91 91255 14793",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Baghpur, Uttar Pradesh 276405",
+    "area": "276124",
+    "latitude": 26.080384799999997,
+    "longitude": 83.3743635,
+    "place_id": "ChIJM2kw3iSbkTkRS0HSGEX9gvQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM2kw3iSbkTkRS0HSGEX9gvQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:24:28"
+  },
+  {
+    "business_name": "Krishana Prasad",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "276124",
+    "phone_number": "+91 95061 69078",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No3 Azamtagarh Azamtagarh, Uttar Pradesh 276140",
+    "area": "276124",
+    "latitude": 26.154267899999997,
+    "longitude": 83.33197729999999,
+    "place_id": "ChIJZYBQoz6ZkTkRr5PeNpQBScw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZYBQoz6ZkTkRr5PeNpQBScw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:24:28"
+  }
+]

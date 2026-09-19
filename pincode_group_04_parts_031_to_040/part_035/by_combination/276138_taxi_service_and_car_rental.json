@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Shyam Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "276138",
+    "phone_number": "+91 95594 16503",
+    "website": "https://shri-shyam-458052.grexa.site/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PAHI MORH, Amilo, Mubarakpur, Uttar Pradesh 276404",
+    "area": "276138",
+    "latitude": 26.084503599999998,
+    "longitude": 83.3121281,
+    "place_id": "ChIJJwnnV--ZkTkR7xqVjegN2DM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJwnnV--ZkTkR7xqVjegN2DM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:43:39"
+  },
+  {
+    "business_name": "Solu tours travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service",
+    "pincode": "276138",
+    "phone_number": "+91 79056 41084",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dighwaniya, Azmatgarh, Uttar Pradesh 276124",
+    "area": "276138",
+    "latitude": 26.167958799999997,
+    "longitude": 83.3975707,
+    "place_id": "ChIJyfm5VaWbkTkR--j3k3fEuZo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyfm5VaWbkTkR--j3k3fEuZo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:43:42"
+  }
+]

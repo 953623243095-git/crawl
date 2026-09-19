@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laptop point",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "276129",
+    "phone_number": "+91 82888 48597",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ghazipur - Azamgarh Rd, Sidhari, Azamgarh, Uttar Pradesh 276129",
+    "area": "Sidhari",
+    "latitude": 25.828068899999998,
+    "longitude": 83.3971031,
+    "place_id": "ChIJ16PF8pbtkTkRzRQ3B60IAzU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ16PF8pbtkTkRzRQ3B60IAzU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:34:56"
+  },
+  {
+    "business_name": "JP computer & Accessories",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service",
+    "pincode": "276129",
+    "phone_number": "+91 80906 15682",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "near Taxi Stand, Nai Sarak, Nizamabad, Masjidiya, Uttar Pradesh 276206",
+    "area": "Nai Sarak",
+    "latitude": 26.0547252,
+    "longitude": 83.0549312,
+    "place_id": "ChIJDXb3UGCxkTkRnPxvOTLZLBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDXb3UGCxkTkRnPxvOTLZLBk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:34:56"
+  }
+]

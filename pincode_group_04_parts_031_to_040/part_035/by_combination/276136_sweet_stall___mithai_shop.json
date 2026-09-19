@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govind Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Fast food restaurant",
+    "pincode": "276136",
+    "phone_number": "+91 88964 74788",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 18,
+    "address": "Shop N.64, Jiyanpur, Ram Nagar - Jiyanpur Rd, Uttar Pradesh 276140",
+    "area": "276136",
+    "latitude": 26.1551123,
+    "longitude": 83.33149259999999,
+    "place_id": "ChIJ3yiKb1mZkTkR-fSSM0XFvcA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3yiKb1mZkTkR-fSSM0XFvcA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:39:22"
+  },
+  {
+    "business_name": "Susil sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "276136",
+    "phone_number": "+91 83297 02810",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lucknow Road, near by Durga Mandir, Dheluwa Basantpur, Uttar Pradesh 276124",
+    "area": "276136",
+    "latitude": 26.152279999999998,
+    "longitude": 83.3840288,
+    "place_id": "ChIJo1zusE6bkTkRzwctJ4yJ3Tg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo1zusE6bkTkRzwctJ4yJ3Tg",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:39:22"
+  }
+]

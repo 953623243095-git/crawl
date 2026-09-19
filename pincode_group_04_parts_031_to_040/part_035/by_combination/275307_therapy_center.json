@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S D Pharma Clinic",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "275307",
+    "phone_number": "+91 87261 39548",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Saundih, Belthara, Uttar Pradesh 275307",
+    "area": "275307",
+    "latitude": 26.101305099999998,
+    "longitude": 83.6476443,
+    "place_id": "ChIJsQ61HZApkjkRhIPbzyIXlQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsQ61HZApkjkRhIPbzyIXlQA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:16:11"
+  },
+  {
+    "business_name": "Vishram Physiotherapy Centre",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "275307",
+    "phone_number": "+91 91613 38202",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 53,
+    "address": "Main road Atraulia, mode, near Madiyapar, Atraulia, Uttar Pradesh 223223",
+    "area": "275307",
+    "latitude": 26.3240955,
+    "longitude": 82.95262249999999,
+    "place_id": "ChIJR2BcXnYBkTkRZvyUHPeFtJo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR2BcXnYBkTkRZvyUHPeFtJo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:16:11"
+  }
+]

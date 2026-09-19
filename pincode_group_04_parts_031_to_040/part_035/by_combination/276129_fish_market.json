@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tomar fish farm",
+    "search_category": "Fish Market",
+    "primary_category": "Fishery",
+    "all_categories": "Fishery",
+    "pincode": "276129",
+    "phone_number": "+91 95984 51234",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "bhigha pokhra, 5, near by guradri mandri, Chakjafri, Karhan, Uttar Pradesh 276402",
+    "area": "276129",
+    "latitude": 25.9727075,
+    "longitude": 83.3598234,
+    "place_id": "ChIJOe60p1iTkTkRucCO9zb2N8A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOe60p1iTkTkRucCO9zb2N8A",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:33:46"
+  },
+  {
+    "business_name": "Masala Store",
+    "search_category": "Fish Market",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "276129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Fish Market, Chiraiyakot, Uttar Pradesh 276129",
+    "area": "276129",
+    "latitude": 25.8805469,
+    "longitude": 83.3346334,
+    "place_id": "ChIJi8dDRlbrkTkRUpiCAPb3TPo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi8dDRlbrkTkRUpiCAPb3TPo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:33:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JOHNY'S CAR RENTAL SERVICE DHANBAD",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service",
+    "pincode": "275303",
+    "phone_number": "+91 88771 00335",
+    "website": "https://carrentaldhanbad.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Near, Pampu Talab Rd, Railway Colony, Pandey Muhalla, Dhanbad, Jharkhand 826001",
+    "area": "Railway Colony, Pandey Muhalla",
+    "latitude": 23.790250399999998,
+    "longitude": 86.436955,
+    "place_id": "ChIJcZfAZQ-99jkRuwS6CBWlivU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcZfAZQ-99jkRuwS6CBWlivU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:08:28"
+  },
+  {
+    "business_name": "Car On Rentals",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "275303",
+    "phone_number": "+91 88888 07783",
+    "website": "http://www.caronrentals.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot No 6/454, SFS Colony, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "SFS Colony, Mansarovar",
+    "latitude": 26.8503461,
+    "longitude": 75.75846349999999,
+    "place_id": "ChIJ_Ss3hfu1bTkR6bgXx4mmre8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_Ss3hfu1bTkR6bgXx4mmre8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:08:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Al_Madni Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "276131",
+    "phone_number": "+91 97940 33188",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 244,
+    "address": "AL Madni Polyclinic, Muhammadabad Gohna, Uttar Pradesh 276403",
+    "area": "276131",
+    "latitude": 26.029756,
+    "longitude": 83.3787177,
+    "place_id": "ChIJZ8Y0cQCRkTkRgPl210XjTmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ8Y0cQCRkTkRgPl210XjTmM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:35:55"
+  },
+  {
+    "business_name": "Prime eye care & poly clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "276131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X75C+3XJ, Jahanaganj - Karhan Rd, Jahanaganj, Rampur, Chak Shah Dariya Or Shah Da, Uttar Pradesh 276131",
+    "area": "Jahanaganj",
+    "latitude": 25.957710199999998,
+    "longitude": 83.27239399999999,
+    "place_id": "ChIJmUDSJQCVkTkRU3Yq-XRlvZk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmUDSJQCVkTkRU3Yq-XRlvZk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:35:55"
+  }
+]

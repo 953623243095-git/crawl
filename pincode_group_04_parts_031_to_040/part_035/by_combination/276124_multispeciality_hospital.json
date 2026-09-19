@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashadeep Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "276124",
+    "phone_number": "+91 76077 00654",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 14,
+    "address": "Jiyanpur Azamatgarh Bojhi Amila Road, Jamin Narhan, Chak Madhopur, Uttar Pradesh 276124",
+    "area": "276124",
+    "latitude": 26.153834099999997,
+    "longitude": 83.36435709999999,
+    "place_id": "ChIJG2KzF3ObkTkRj8zGYAOqcfI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG2KzF3ObkTkRj8zGYAOqcfI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:24:54"
+  },
+  {
+    "business_name": "Sharada Multispeciality Hospital & Trauma Center( Dr Vinod Kumar Verma)",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Dental clinic, Orthopedic surgeon, Pediatrician, Surgeon",
+    "pincode": "276124",
+    "phone_number": "+91 70072 78952",
+    "website": "https://www.facebook.com/Sharada-Multispeciality-Hospital-Trauma-Center-109861001417575/",
+    "rating": 3.5,
+    "reviews_count": 15,
+    "address": "Mau Rd, near Akashdeep Hotel, Sidhari, Azamgarh, Jamin Sidhari, Uttar Pradesh 276128",
+    "area": "Sidhari",
+    "latitude": 26.0467026,
+    "longitude": 83.1970901,
+    "place_id": "ChIJA4tZUH69kTkRRhe23sQb3U0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA4tZUH69kTkRRhe23sQb3U0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:24:54"
+  }
+]

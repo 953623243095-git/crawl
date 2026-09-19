@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "shalvo hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "276126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Chakrapanpur, Azamgarh, Uttar Pradesh 276128",
+    "area": "276126",
+    "latitude": 25.897142199999998,
+    "longitude": 83.20508629999999,
+    "place_id": "ChIJOU94VO6_kTkRGJjVqEacqQs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOU94VO6_kTkRGJjVqEacqQs",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:29:13"
+  },
+  {
+    "business_name": "चंपारण मीट होटल",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "276126",
+    "phone_number": "+91 96516 33775",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "CHANDESAR, Jalalpur, Uttar Pradesh 276128",
+    "area": "CHANDESAR",
+    "latitude": 25.907878999999998,
+    "longitude": 83.2144596,
+    "place_id": "ChIJQ12HR5-_kTkRZWPb1VJyzHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ12HR5-_kTkRZWPb1VJyzHE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:29:13"
+  }
+]

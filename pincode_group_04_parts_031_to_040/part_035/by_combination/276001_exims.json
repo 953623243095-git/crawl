@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naya pul shidhari",
+    "search_category": "EXIMS",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "276001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Naya Pull, Sidhari, Azamgarh, Uttar Pradesh 276001",
+    "area": "Sidhari",
+    "latitude": 26.0461736,
+    "longitude": 83.18849159999999,
+    "place_id": "ChIJHTZnIwC9kTkRYdV50nvqM3E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHTZnIwC9kTkRYdV50nvqM3E",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:18:43"
+  },
+  {
+    "business_name": "M.K.Y. Agency",
+    "search_category": "EXIMS",
+    "primary_category": "Appliance store",
+    "all_categories": "Appliance store, Battery Store",
+    "pincode": "276001",
+    "phone_number": "+91 97921 91915",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "35CM+65W, Near Jama Masjid, Asifganj, Dal Singar, Azamgarh, Uttar Pradesh 276001",
+    "area": "Dal Singar",
+    "latitude": 26.0706091,
+    "longitude": 83.1829468,
+    "place_id": "ChIJiwMwO0ujkTkR1U4EIXIyUP4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiwMwO0ujkTkR1U4EIXIyUP4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:18:44"
+  }
+]

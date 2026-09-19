@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunil studio",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "276139",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "55JH+3P8, Jaigahan-Bindawal Rd, Uchhwaa, Jairajpur, Uttar Pradesh 276121",
+    "area": "Uchhwaa",
+    "latitude": 26.1801605,
+    "longitude": 83.1793328,
+    "place_id": "ChIJm6UtWgChkTkRdkrzCfCG76Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm6UtWgChkTkRdkrzCfCG76Q",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:45:55"
+  },
+  {
+    "business_name": "AK. Photography",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio, Computer service, Mobile phone repair shop",
+    "pincode": "276139",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Thekma - Lalganj Link Rd, Sarai Mohan, Uttar Pradesh 276202",
+    "area": "276139",
+    "latitude": 25.8646395,
+    "longitude": 82.930162,
+    "place_id": "ChIJreqaAnnLkTkRFWvwvGwGg50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJreqaAnnLkTkRFWvwvGwGg50",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:45:57"
+  }
+]

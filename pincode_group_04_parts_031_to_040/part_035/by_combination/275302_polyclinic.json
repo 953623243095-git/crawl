@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nidan poly clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "275302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "399P+G5F, Patti, Uttar Pradesh 276405",
+    "area": "275302",
+    "latitude": 26.0688125,
+    "longitude": 83.3854219,
+    "place_id": "ChIJ1YX1UQCRkTkR0Alim3Nq3vo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1YX1UQCRkTkR0Alim3Nq3vo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:06:24"
+  },
+  {
+    "business_name": "Zia polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "275302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "29MJ+5WF Zia polyclinic, Muhammadabad Gohna, Muhammadabad, Uttar Pradesh 276403",
+    "area": "275302",
+    "latitude": 26.0329455,
+    "longitude": 83.38229729999999,
+    "place_id": "ChIJzYgDFQCRkTkRCazWtSlRvKk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzYgDFQCRkTkRCazWtSlRvKk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:06:24"
+  }
+]

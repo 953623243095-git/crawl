@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harshit Marbles",
+    "search_category": "Tile and Marble Showroom",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store, Bathroom supply store, Marble supplier",
+    "pincode": "276141",
+    "phone_number": "+91 98382 03802",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Near Dist. Hospital, Harra Ki Chungi, Uttar Pradesh 276001",
+    "area": "276141",
+    "latitude": 26.083587299999998,
+    "longitude": 83.19248069999999,
+    "place_id": "ChIJ9ajtPDqjkTkRFvtBN8kLwbc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ajtPDqjkTkRFvtBN8kLwbc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:49:18"
+  },
+  {
+    "business_name": "Avon Marbles",
+    "search_category": "Tile and Marble Showroom",
+    "primary_category": "Marble supplier",
+    "all_categories": "Marble supplier, Tile store",
+    "pincode": "276141",
+    "phone_number": "+91 99365 25188",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "12, Dalsingar, Jama Masjid, Azamgarh, Uttar Pradesh 276001",
+    "area": "Dal Singar",
+    "latitude": 26.0707558,
+    "longitude": 83.1827527,
+    "place_id": "ChIJLRJ0PEujkTkRs817NfofkK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLRJ0PEujkTkRs817NfofkK0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:49:18"
+  }
+]

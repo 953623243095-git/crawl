@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Battery Point",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Battery Store",
+    "all_categories": "Battery Store, Solar energy equipment supplier",
+    "pincode": "276139",
+    "phone_number": "+91 97933 88666",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "25WF+RCC, New Market Naruli, Banaras Road, Azamgarh, Uttar Pradesh 276001",
+    "area": "Narauli",
+    "latitude": 26.0470594,
+    "longitude": 83.17350069999999,
+    "place_id": "ChIJLcQ9jaK8kTkRNZkypeZzkG0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLcQ9jaK8kTkRNZkypeZzkG0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:45:29"
+  },
+  {
+    "business_name": "Chitrakar Battery and Solar Solutions",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Car battery store",
+    "all_categories": "Car battery store, Battery Wholesaler, Battery Store, Solar panel maintenance service",
+    "pincode": "276139",
+    "phone_number": "+91 96370 81321",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Faizabad Road, Burhanpur, Bhilampur Chhapara, Uttar Pradesh 276142",
+    "area": "276139",
+    "latitude": 26.2783478,
+    "longitude": 83.0043961,
+    "place_id": "ChIJ8yCMTTcHkTkRZXLQ5B5r6kE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8yCMTTcHkTkRZXLQ5B5r6kE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:45:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madina mansion Boys hostel",
+    "search_category": "Hostels",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel",
+    "pincode": "276128",
+    "phone_number": "+91 96490 06544",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ghazipur - Azamgarh Rd, Chandeshwar, Azamgarh, Uttar Pradesh 276128",
+    "area": "Chandeshwar",
+    "latitude": 26.0121197,
+    "longitude": 83.187079,
+    "place_id": "ChIJ4aVSvVC9kTkRd6G7KOHWLsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4aVSvVC9kTkRd6G7KOHWLsU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:32:53"
+  },
+  {
+    "business_name": "Yadav lodge",
+    "search_category": "Hostels",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "276128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "25RJ+3XW, Krishna Colony, Rampur Japti Mafi Or Rampur, Azamgarh, Uttar Pradesh 276128",
+    "area": "Krishna Colony",
+    "latitude": 26.0402389,
+    "longitude": 83.18244039999999,
+    "place_id": "ChIJIWWMRQC9kTkRdKkYAS8WQUg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIWWMRQC9kTkRdKkYAS8WQUg",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:32:56"
+  }
+]

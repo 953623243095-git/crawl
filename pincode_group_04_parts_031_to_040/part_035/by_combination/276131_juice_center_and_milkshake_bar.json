@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Juice Corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "276131",
+    "phone_number": "+91 83181 87772",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "polytechnic chhora, Azamgarh, Uttar Pradesh 276001",
+    "area": "Pura Jodhi",
+    "latitude": 26.078972,
+    "longitude": 83.188935,
+    "place_id": "ChIJs-5nqjejkTkRU95wKKASvxg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs-5nqjejkTkRU95wKKASvxg",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:35:36"
+  },
+  {
+    "business_name": "bell jush shop",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "276131",
+    "phone_number": "+91 72751 69645",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "0764, Azamgarh, Uttar Pradesh 276001",
+    "area": "276131",
+    "latitude": 26.055738899999998,
+    "longitude": 83.18366739999999,
+    "place_id": "ChIJA_e-aMO9kTkRFB3Zb5gM_GA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA_e-aMO9kTkRFB3Zb5gM_GA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:35:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashish Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "275307",
+    "phone_number": "+91 97934 63896",
+    "website": "https://ashishtransport.vercel.app/",
+    "rating": 4.7,
+    "reviews_count": 119,
+    "address": "near Prakash building Meterial, Belisa, Azamgarh, Uttar Pradesh 276001",
+    "area": "Belisa",
+    "latitude": 26.035188299999998,
+    "longitude": 83.1535695,
+    "place_id": "ChIJdSZMPgC7kTkRxFZD14L2BEk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdSZMPgC7kTkRxFZD14L2BEk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:15:53"
+  },
+  {
+    "business_name": "MEHTA INTERSTATE TRANSPORT CORPORATION AZAMGARH",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "275307",
+    "phone_number": "+91 91491 65513",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 38,
+    "address": "25H7+HW9, Husainganj, Makhdumpur, Uttar Pradesh 276128",
+    "area": "275307",
+    "latitude": 26.0289112,
+    "longitude": 83.1648731,
+    "place_id": "ChIJ3-95vKi7kTkRJ4joKPoMu2g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3-95vKi7kTkRJ4joKPoMu2g",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:15:53"
+  }
+]

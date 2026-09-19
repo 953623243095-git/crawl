@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Surprise Culture - Surprise Event Planner",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Event management company",
+    "pincode": "275304",
+    "phone_number": "+91 83021 25569",
+    "website": "https://www.surpriseculture.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "A1, Near Tempo Stand, Mahesh Nagar, Gopal Pura Mode, Jaipur, Rajasthan 302015",
+    "area": "Near Tempo Stand, Mahesh Nagar, Gopal Pura Mode",
+    "latitude": 26.8811787,
+    "longitude": 75.7829704,
+    "place_id": "ChIJg4DfwhO1bTkRqTvnMR161pY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg4DfwhO1bTkRqTvnMR161pY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:10:45"
+  },
+  {
+    "business_name": "Queens and Kings Events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Corporate gift supplier, Event management company, Music management and promotion, Wedding planner, Wedding service, Wedding venue",
+    "pincode": "275304",
+    "phone_number": "+91 86964 44446",
+    "website": "https://queensandkingsevents.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Dhuleshwar Gdn, Patel Colony, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302001",
+    "area": "Patel Colony",
+    "latitude": 26.914075,
+    "longitude": 75.7977968,
+    "place_id": "ChIJDbY3tUOxTyoRYeIkjJKWXNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDbY3tUOxTyoRYeIkjJKWXNM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:10:46"
+  }
+]

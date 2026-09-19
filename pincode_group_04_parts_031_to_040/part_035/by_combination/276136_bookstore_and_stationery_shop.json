@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "chandra book house",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "276136",
+    "phone_number": "+91 81818 15891",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "katra kundi garh, Dal Singar, Azamgarh, Kodar Ajamatpur, Uttar Pradesh 276001",
+    "area": "Dal Singar",
+    "latitude": 26.0695542,
+    "longitude": 83.1796597,
+    "place_id": "ChIJVfzuyhOjkTkRcS0yfLQiUj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVfzuyhOjkTkRcS0yfLQiUj4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:40:27"
+  },
+  {
+    "business_name": "New Falahi Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "276136",
+    "phone_number": "+91 91618 64143",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Beside Union Bank of India bilariyaganj, Azamgarh, Uttar Pradesh 276121",
+    "area": "276136",
+    "latitude": 26.1959588,
+    "longitude": 83.2274315,
+    "place_id": "ChIJJQG2FtShkTkRzZPf2s1xgVs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJQG2FtShkTkRzZPf2s1xgVs",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:40:28"
+  }
+]

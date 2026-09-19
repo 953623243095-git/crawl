@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ansari Mutton Shop And Chicken",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Butcher shop deli",
+    "all_categories": "Butcher shop deli",
+    "pincode": "276123",
+    "phone_number": "+91 77868 65661",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "187, Aryanagar, Katghar Lalganj, Lalganj, Uttar Pradesh 276202",
+    "area": "Aryanagar",
+    "latitude": 25.8140455,
+    "longitude": 83.001459,
+    "place_id": "ChIJnduJeQDJkTkRUOb2burCaic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnduJeQDJkTkRUOb2burCaic",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:22:45"
+  },
+  {
+    "business_name": "Amir Traders",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry store",
+    "all_categories": "Poultry store",
+    "pincode": "276123",
+    "phone_number": "N/A",
+    "website": "http://www.amirtraders.co.in/",
+    "rating": 4.6,
+    "reviews_count": 5,
+    "address": "Mohammadpur, Nagraiya, Uttar Pradesh 276205",
+    "area": "Mohammadpur",
+    "latitude": 25.9650788,
+    "longitude": 83.03063929999999,
+    "place_id": "ChIJYcljgNO2kTkRNtYFpuVg8cI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYcljgNO2kTkRNtYFpuVg8cI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:22:45"
+  }
+]

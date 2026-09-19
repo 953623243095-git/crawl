@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The House of Hospitality",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "276138",
+    "phone_number": "+91 99991 23729",
+    "website": "https://thehouseofhospitality.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3rd floor, Ss Omnia, 039, Sector 86, Gurugram, Haryana 122004",
+    "area": "Sector 86",
+    "latitude": 28.4014752,
+    "longitude": 76.9467964,
+    "place_id": "ChIJB9V10bo9DTkREqj6R3l3D4c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB9V10bo9DTkREqj6R3l3D4c",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:44:09"
+  },
+  {
+    "business_name": "Business consultant",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant",
+    "pincode": "276138",
+    "phone_number": "N/A",
+    "website": "https://www.badabusiness.com/dd/BISR014071/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X8W4+6VJ, Azamgarh, Avanv, Uttar Pradesh 276406",
+    "area": "276138",
+    "latitude": 25.9955824,
+    "longitude": 83.3071295,
+    "place_id": "ChIJfaridqGXkTkRVAzFomTaZ-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfaridqGXkTkRVAzFomTaZ-w",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:44:10"
+  }
+]

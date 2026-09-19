@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fino Payments Bank",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Bank, Money transfer service, Savings bank",
+    "pincode": "276127",
+    "phone_number": "+91 95068 44545",
+    "website": "https://www.finobank.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "gram majhauwa post maltari, Jiyanpur, Uttar Pradesh 276138",
+    "area": "276127",
+    "latitude": 26.191544699999998,
+    "longitude": 83.273201,
+    "place_id": "ChIJCXl5hgufkTkRaJekildql08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCXl5hgufkTkRaJekildql08",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:31:21"
+  },
+  {
+    "business_name": "Sharma Janseva Kendra",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "276127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "67GM+W35, Bagkhalis Bazar, Sagari, Jamuna Bhorau, Uttar Pradesh 276127",
+    "area": "Sagari",
+    "latitude": 26.227259399999998,
+    "longitude": 83.28274429999999,
+    "place_id": "ChIJnZHxBQCfkTkRp3mw-BlEBOM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnZHxBQCfkTkRp3mw-BlEBOM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:31:21"
+  }
+]

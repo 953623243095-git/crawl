@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parinay Caterers and Event Planner",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Event planner, Event venue",
+    "pincode": "276122",
+    "phone_number": "+91 78390 44044",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 20,
+    "address": "SH4/26-R-23 Saraswati nagar colony BGM public School Parmandpur, Shivpur, Varanasi, Uttar Pradesh 221002",
+    "area": "Holapur, Shivpur",
+    "latitude": 25.3707782,
+    "longitude": 82.9636008,
+    "place_id": "ChIJB2U8ZWgtjjkRi5EX1qApzXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB2U8ZWgtjjkRi5EX1qApzXY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:21:53"
+  },
+  {
+    "business_name": "Annapurna Caterers Alwar",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Catering equipment rental service, Wedding planner, Food and beverage consultant, Food court, Party planner, Wedding service",
+    "pincode": "276122",
+    "phone_number": "+91 63761 85910",
+    "website": "https://annapurna-caterers-alwar.grexa.site/",
+    "rating": 4.8,
+    "reviews_count": 45,
+    "address": "Choudhary Tower, 200 Ft Rd, Dayanand Nagar, Hanuman Circle, Alwar, Rajasthan 301001",
+    "area": "Dayanand Nagar, Hanuman Circle",
+    "latitude": 27.5568873,
+    "longitude": 76.6413201,
+    "place_id": "ChIJl1w-vImbcjkRAaXRUuzksbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl1w-vImbcjkRAaXRUuzksbk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:21:55"
+  }
+]

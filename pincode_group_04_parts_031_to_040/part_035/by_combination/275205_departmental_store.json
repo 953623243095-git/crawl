@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khan Khad Bhandar",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "275205",
+    "phone_number": "+91 94557 56150",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jakhanian-Ghazipur Rd, Ghazipur, Hansraj Pur, Uttar Pradesh 233310",
+    "area": "275205",
+    "latitude": 25.6717735,
+    "longitude": 83.44736859999999,
+    "place_id": "ChIJAzDwqyf7kTkRa8UOwk1eDUo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAzDwqyf7kTkRa8UOwk1eDUo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:02:14"
+  },
+  {
+    "business_name": "NEW RAJSHREE STORE",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store, Baby clothing store, Clothing store, Saree Shop, Gift shop",
+    "pincode": "275205",
+    "phone_number": "N/A",
+    "website": "http://newrajshreestore.com/",
+    "rating": 4.9,
+    "reviews_count": 10,
+    "address": "Nandganj - Shadiabad Rd, Shriganj Urf Nandganj, Uttar Pradesh 233302",
+    "area": "275205",
+    "latitude": 25.5431462,
+    "longitude": 83.4049306,
+    "place_id": "ChIJ76Wkbo7jkTkRpu8NJZgfr2c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ76Wkbo7jkTkRpu8NJZgfr2c",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:02:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bandhan Bank",
+    "search_category": "Money Transfer and Forex",
+    "primary_category": "Bank",
+    "all_categories": "Bank, ATM",
+    "pincode": "276123",
+    "phone_number": "+91 1800 258 8181",
+    "website": "https://bandhanbank.com/branch/azamgarh",
+    "rating": 3.8,
+    "reviews_count": 20,
+    "address": "312-2 Pandit Deen Dayal Chowk Civil lines, Kotwali, Azamgarh, Uttar Pradesh 276001",
+    "area": "Kotwali",
+    "latitude": 26.0531434,
+    "longitude": 83.1808464,
+    "place_id": "ChIJUwjv4bu8kTkRLMqvPpEEdYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUwjv4bu8kTkRLMqvPpEEdYo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:24:02"
+  },
+  {
+    "business_name": "SBI Branch Azamgarh",
+    "search_category": "Money Transfer and Forex",
+    "primary_category": "Bank",
+    "all_categories": "Bank",
+    "pincode": "276123",
+    "phone_number": "+91 1800 1234",
+    "website": "https://bank.sbi/",
+    "rating": 3.6,
+    "reviews_count": 59,
+    "address": "Civil Lines, Azamgarh, Uttar Pradesh 276001",
+    "area": "Civil Lines",
+    "latitude": 26.053955,
+    "longitude": 83.177628,
+    "place_id": "ChIJYQ4aZce8kTkRyhwPN95NgGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYQ4aZce8kTkRyhwPN95NgGo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:24:02"
+  }
+]

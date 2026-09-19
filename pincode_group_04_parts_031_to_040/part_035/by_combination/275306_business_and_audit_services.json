@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ADS & Co",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Certified public accountant",
+    "all_categories": "Certified public accountant",
+    "pincode": "275306",
+    "phone_number": "+91 93860 61445",
+    "website": "https://adsnco.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1st Floor, Yasin Heritage, behind Hotel Samrat, Bander Bagicha, Fraser Road Area, Patna, Bihar 800001",
+    "area": "Bander Bagicha, Fraser Road Area",
+    "latitude": 25.6092676,
+    "longitude": 85.13660929999999,
+    "place_id": "ChIJv5FzeVRZ7TkRu7lQHvZD9aw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv5FzeVRZ7TkRu7lQHvZD9aw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:14:51"
+  },
+  {
+    "business_name": "JEET & CO. (Chartered Accountants)",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant",
+    "pincode": "275306",
+    "phone_number": "+91 95010 05919",
+    "website": "http://www.jeet.com/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "D\" block, Chandigarh City Centre, shop no. 10, 2nd floor, CCC, VIP Rd, Zirakpur, Punjab 140603",
+    "area": "275306",
+    "latitude": 30.638455299999997,
+    "longitude": 76.8196189,
+    "place_id": "ChIJwR46MQTrDzkRSwFUc7D3QNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwR46MQTrDzkRSwFUc7D3QNk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:14:52"
+  }
+]

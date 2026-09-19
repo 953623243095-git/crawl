@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BOS Bharat Outlets Stores",
+    "search_category": "Shops",
+    "primary_category": "E-commerce service",
+    "all_categories": "E-commerce service",
+    "pincode": "276135",
+    "phone_number": "+91 94736 91159",
+    "website": "https://bosinstallnow.netlify.app/",
+    "rating": 4.7,
+    "reviews_count": 19,
+    "address": "Near Junedganj Baypass Laxirampur, Sadar, Hirapatti, Azamgarh, Uttar Pradesh 276135",
+    "area": "Sadar, Hirapatti",
+    "latitude": 26.0973904,
+    "longitude": 83.1851932,
+    "place_id": "ChIJb4upzo2jkTkRnDvd8o8q4aI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb4upzo2jkTkRnDvd8o8q4aI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:39:10"
+  },
+  {
+    "business_name": "Vishnu Store",
+    "search_category": "Shops",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "276135",
+    "phone_number": "+91 84179 19849",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Rajesultanpur - Azamgarh Rd, Mau, Kandhrapur, Uttar Pradesh 276135",
+    "area": "276135",
+    "latitude": 26.1370166,
+    "longitude": 83.13567119999999,
+    "place_id": "ChIJQ4Y_sAqlkTkRv_YPUGM-nho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ4Y_sAqlkTkRv_YPUGM-nho",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:39:12"
+  }
+]

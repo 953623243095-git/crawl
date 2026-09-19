@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sony Garments",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "275304",
+    "phone_number": "+91 89228 10932",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rasulpur Mod, Ghosi, Uttar Pradesh 275304",
+    "area": "Rasulpur Mod",
+    "latitude": 26.1231524,
+    "longitude": 83.5512031,
+    "place_id": "ChIJO8lgVcuHkTkRu2g4_9WyeVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO8lgVcuHkTkRu2g4_9WyeVw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:09:50"
+  },
+  {
+    "business_name": "Munna General Store and Saree Mahal",
+    "search_category": "Saree Showroom",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "275304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5F56+C63, Bojhi, Karanpur, Uttar Pradesh 275301",
+    "area": "275304",
+    "latitude": 26.158459999999998,
+    "longitude": 83.4608983,
+    "place_id": "ChIJKSEmTgCFkTkR-JmRlh8gyeE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKSEmTgCFkTkR-JmRlh8gyeE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:09:50"
+  }
+]

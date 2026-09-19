@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saarthi Travel India Pvt Ltd",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Transportation service",
+    "pincode": "276128",
+    "phone_number": "+91 91188 05555",
+    "website": "http://www.saar.saarthitravelsindia.com/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Saarthi Travels Bhawarnath Highway Cut, Azamgarh, Uttar Pradesh 276128",
+    "area": "276128",
+    "latitude": 26.0267809,
+    "longitude": 83.1826719,
+    "place_id": "ChIJ-05obwCjkTkRFc2J7NQk4EM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-05obwCjkTkRFc2J7NQk4EM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:32:28"
+  },
+  {
+    "business_name": "Abhyut Jan Seva Kendra Evam Tour And Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency, Public works department, Travel agency",
+    "pincode": "276128",
+    "phone_number": "+91 75710 89455",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "25WW+R7W, Shyam Katra, Sidhari, Azamgarh, Uttar Pradesh 276001",
+    "area": "Sidhari",
+    "latitude": 26.047100399999998,
+    "longitude": 83.1957017,
+    "place_id": "ChIJn1SqmMK8kTkRau52EQg_tBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn1SqmMK8kTkRau52EQg_tBU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:32:32"
+  }
+]

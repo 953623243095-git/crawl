@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sun Watch & Co.",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Jewelry store, Watch repair service",
+    "pincode": "275304",
+    "phone_number": "+91 97757 66066",
+    "website": "https://sunwatchco.in/",
+    "rating": 4.3,
+    "reviews_count": 549,
+    "address": "137, BC Rd, Shyamlal Colony, Barabazar, Khosbagan, Bardhaman, West Bengal 713101",
+    "area": "Shyamlal Colony, Barabazar, Khosbagan",
+    "latitude": 23.2402506,
+    "longitude": 87.8575815,
+    "place_id": "ChIJNQrhAdlJ-DkRqUb0J-Bg8CU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNQrhAdlJ-DkRqUb0J-Bg8CU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:09:58"
+  },
+  {
+    "business_name": "Rakhwani Watch & Bags",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch repair service",
+    "all_categories": "Watch repair service, Handbags shop",
+    "pincode": "275304",
+    "phone_number": "+91 98706 15893",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 47,
+    "address": "56/9, B, Madhyam Marg, Mansarover, Rajat Path, Mansarovar Sector 5, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Mansarover, Rajat Path, Mansarovar Sector 5, Mansarovar",
+    "latitude": 26.8636686,
+    "longitude": 75.759152,
+    "place_id": "ChIJ-5iHocq1bTkRCHuhMqJzcj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-5iHocq1bTkRCHuhMqJzcj4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:09:59"
+  }
+]

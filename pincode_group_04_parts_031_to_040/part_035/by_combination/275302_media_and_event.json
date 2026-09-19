@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Magnevents",
+    "search_category": "Media and Event",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Artist, Band, Event planner, Musical Band and Orchestra, Talent agency, Wedding planner, Wedding service",
+    "pincode": "275302",
+    "phone_number": "+91 80765 15257",
+    "website": "https://www.magnevents.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "SH 51, H Block, Shastri Nagar, Ghaziabad, Uttar Pradesh 201002",
+    "area": "H Block, Shastri Nagar",
+    "latitude": 28.668145,
+    "longitude": 77.4585075,
+    "place_id": "ChIJbVKWDubzDDkR4CmHs6p-4gc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbVKWDubzDDkR4CmHs6p-4gc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:07:03"
+  },
+  {
+    "business_name": "Sarkanda",
+    "search_category": "Media and Event",
+    "primary_category": "Village hall",
+    "all_categories": "Village hall",
+    "pincode": "275302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 4,
+    "address": "3CH8+25H, Sarkanda Rd, Bhadir, Uttar Pradesh 276405",
+    "area": "275302",
+    "latitude": 26.077566299999997,
+    "longitude": 83.41546919999999,
+    "place_id": "ChIJybR_WgCRkTkRYS5YAW91xfY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJybR_WgCRkTkRYS5YAW91xfY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:07:04"
+  }
+]

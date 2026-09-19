@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sant Saree Center",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "276129",
+    "phone_number": "+91 94507 91270",
+    "website": "http://www.vimlesh.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "V8MJ+53M, Sultanpur Nager, Uttar Pradesh 276129",
+    "area": "276129",
+    "latitude": 25.8829614,
+    "longitude": 83.3301764,
+    "place_id": "ChIJPfSl-lPrkTkR0l3kDNlFHrk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPfSl-lPrkTkR0l3kDNlFHrk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:33:55"
+  },
+  {
+    "business_name": "Shiv Shakti Saree Center",
+    "search_category": "Saree Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store",
+    "pincode": "276129",
+    "phone_number": "+91 90446 64117",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ismail Nager, Uttar Pradesh 276129",
+    "area": "276129",
+    "latitude": 25.8833251,
+    "longitude": 83.33253719999999,
+    "place_id": "ChIJa7HKHRnrkTkRcyjEfd74YkY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa7HKHRnrkTkRcyjEfd74YkY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:33:55"
+  }
+]

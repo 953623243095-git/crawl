@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Trukky",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service",
+    "pincode": "275306",
+    "phone_number": "+91 96435 75858",
+    "website": "https://www.trukky.com/",
+    "rating": 4.4,
+    "reviews_count": 27,
+    "address": "GF-001, Mauryansh Elanza, Shyamal Cross Rd, Shyamal, Ahmedabad, Gujarat 380015",
+    "area": "Shyamal",
+    "latitude": 23.0129387,
+    "longitude": 72.5298645,
+    "place_id": "ChIJUbmytKpToEoR0kWqAKoUX7U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUbmytKpToEoR0kWqAKoUX7U",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:14:01"
+  },
+  {
+    "business_name": "THA STAR LOGISTICS INDIA transport services",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "275306",
+    "phone_number": "+91 70376 97394",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 48,
+    "address": "100.feet road opp mahila jail, kalindi vihar [agra], Nagla Rambal, Agra, Uttar Pradesh 282006",
+    "area": "kalindi vihar [agra], Nagla Rambal",
+    "latitude": 27.21624,
+    "longitude": 78.06597649999999,
+    "place_id": "ChIJoTmVnH1wdDkRBUzZ_XHKhkU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoTmVnH1wdDkRBUzZ_XHKhkU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:14:01"
+  }
+]

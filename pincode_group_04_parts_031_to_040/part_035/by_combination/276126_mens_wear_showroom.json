@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bombay Faishon",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "276126",
+    "phone_number": "+91 81153 07571",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Azamgarh, Chakrapanpur, Uttar Pradesh 276128",
+    "area": "276126",
+    "latitude": 25.900659899999997,
+    "longitude": 83.20426239999999,
+    "place_id": "ChIJxd2tldS_kTkRhyJEALJ5Yyg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxd2tldS_kTkRhyJEALJ5Yyg",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:28:23"
+  },
+  {
+    "business_name": "Kanaila Bazar Azamgarh",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "276126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "V6X3+J3V, Chakrapanpur, Uttar Pradesh 276128",
+    "area": "276126",
+    "latitude": 25.8991011,
+    "longitude": 83.2026564,
+    "place_id": "ChIJH-m8ky6_kTkRy327-Ab7OaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH-m8ky6_kTkRy327-Ab7OaM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:28:23"
+  }
+]

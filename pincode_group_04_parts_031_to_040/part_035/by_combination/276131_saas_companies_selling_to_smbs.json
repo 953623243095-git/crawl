@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.D. Pharma Agencies",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Wholesale drugstore",
+    "pincode": "276131",
+    "phone_number": "+91 97851 03178",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "50, Rajesultanpur - Azamgarh Rd, Chakla, Azamgarh, Uttar Pradesh 276001",
+    "area": "Chakla",
+    "latitude": 26.072773299999998,
+    "longitude": 83.1859049,
+    "place_id": "ChIJqT12fUqjkTkRpQWhpin1ytc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqT12fUqjkTkRpQWhpin1ytc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:37:15"
+  },
+  {
+    "business_name": "SajhaSafar",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "276131",
+    "phone_number": "+91 87654 25723",
+    "website": "http://sajhasafar.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near RTO Office, Harbanspur, Azamgarh, Chak Gorgha, Uttar Pradesh 276001",
+    "area": "Harbanspur",
+    "latitude": 26.055667,
+    "longitude": 83.17467549999999,
+    "place_id": "ChIJtStdOaW8kTkRj8G7CX_4LLI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtStdOaW8kTkRj8G7CX_4LLI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:37:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ali Salon",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "275301",
+    "phone_number": "+91 72756 24287",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "01, Amila, Uttar Pradesh 275301",
+    "area": "275301",
+    "latitude": 26.1817496,
+    "longitude": 83.5096858,
+    "place_id": "ChIJYxx1HB-BkTkRVPye0oHKXfg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYxx1HB-BkTkRVPye0oHKXfg",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:05:01"
+  },
+  {
+    "business_name": "Sharma Men's Parlour",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "275301",
+    "phone_number": "+91 95983 42003",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "01, Bojhi, Uttar Pradesh 275301",
+    "area": "275301",
+    "latitude": 26.160052399999998,
+    "longitude": 83.4623228,
+    "place_id": "ChIJV9DXsQOFkTkR-B4y2thyrBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV9DXsQOFkTkR-B4y2thyrBw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:05:01"
+  }
+]

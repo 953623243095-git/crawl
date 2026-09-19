@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amul Ice Cream Parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "276128",
+    "phone_number": "+91 1800 258 3333",
+    "website": "https://amul.com/m/amul-scooping-parlours",
+    "rating": 3.9,
+    "reviews_count": 31,
+    "address": "Jawahr Nagar, Mehnagar, Uttar Pradesh 276204",
+    "area": "Jawahr Nagar",
+    "latitude": 25.8795133,
+    "longitude": 83.11776669999999,
+    "place_id": "ChIJA9MSQX-4kTkRJD58gNxrz2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA9MSQX-4kTkRJD58gNxrz2Q",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:32:03"
+  },
+  {
+    "business_name": "ILU ICE CREAM PARLOR & MOBILE SHOP",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Home goods store",
+    "pincode": "276128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2424+CJM mod, Nizamabad - Tahbarpur Rd, Rani Ki Sarai, Uttar Pradesh 276207",
+    "area": "276128",
+    "latitude": 26.001076599999998,
+    "longitude": 83.1065555,
+    "place_id": "ChIJYQGblTC7kTkRLRScbw2hHF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYQGblTC7kTkRLRScbw2hHF4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:32:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Born Care Centre",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Child health care center, Children's hospital, Immunologist, Neonatal physician, Pediatric clinic",
+    "pincode": "275301",
+    "phone_number": "+91 98242 46666",
+    "website": "https://www.newbornpatna.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Arya Kumar Rd, opp. Axis Bank, Rajendra Nagar, Patna, Bihar 800016",
+    "area": "Rajendra Nagar",
+    "latitude": 25.6088223,
+    "longitude": 85.1593288,
+    "place_id": "ChIJrbQ2be1Y7TkRw4QOcdLFXpk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrbQ2be1Y7TkRw4QOcdLFXpk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:04:35"
+  },
+  {
+    "business_name": "Nidan Bal Clinic (Nidan Child's Clinic)",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician",
+    "pincode": "275301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shanghai Plaza, Bharatpur 10, Chaubiskothi, Bharatpur, Nepal",
+    "area": "275301",
+    "latitude": 27.6819344,
+    "longitude": 84.43037629999999,
+    "place_id": "ChIJoTJ7QOH7lDkRRzUGgO8vqC4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoTJ7QOH7lDkRRzUGgO8vqC4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:04:35"
+  }
+]

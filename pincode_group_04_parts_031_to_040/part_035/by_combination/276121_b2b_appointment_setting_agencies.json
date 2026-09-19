@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saksham BPO",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Business to business service",
+    "all_categories": "Business to business service, Call center",
+    "pincode": "276121",
+    "phone_number": "+91 94517 51328",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 5,
+    "address": "35GP+JRJ, Mukeriganj, Azamgarh, Uttar Pradesh 276001",
+    "area": "Mukeriganj",
+    "latitude": 26.076577999999998,
+    "longitude": 83.187017,
+    "place_id": "ChIJFQF3EDajkTkR3ll2EfDmc3c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFQF3EDajkTkR3ll2EfDmc3c",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:20:45"
+  },
+  {
+    "business_name": "Web Travels",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "276121",
+    "phone_number": "+91 94152 60459",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Das Complex, Chowk, Civil Lines, Azamgarh, Uttar Pradesh 276001",
+    "area": "Civil Lines",
+    "latitude": 26.0527578,
+    "longitude": 83.1809803,
+    "place_id": "ChIJswh2WLm8kTkRrCAYD2-V5vc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJswh2WLm8kTkRrCAYD2-V5vc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:20:45"
+  }
+]

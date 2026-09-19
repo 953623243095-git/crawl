@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Trading Stock",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Service establishment",
+    "pincode": "276121",
+    "phone_number": "N/A",
+    "website": "https://shivahrx.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Trading Stock, 276121, India",
+    "area": "276121",
+    "latitude": 26.1426561,
+    "longitude": 82.9620724,
+    "place_id": "ChIJswZ6gEvssScRlXP21IVwKdE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJswZ6gEvssScRlXP21IVwKdE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:20:25"
+  },
+  {
+    "business_name": "CHAITANYA FINSERVE",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service",
+    "pincode": "276121",
+    "phone_number": "+91 98391 41456",
+    "website": "http://www.chaitanyafinserve.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "B36/10X-36A, KEWALYA DHAM COLONY EXTENSION, Uttar Pradesh 221005",
+    "area": "Tulsi Manas Mandir Colony, Naria",
+    "latitude": 25.2845805,
+    "longitude": 82.9986717,
+    "place_id": "ChIJgwKUKCIxjjkRFccWzuMxMc0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgwKUKCIxjjkRFccWzuMxMc0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:20:26"
+  }
+]

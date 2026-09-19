@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Your's Events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Wedding planner",
+    "pincode": "276121",
+    "phone_number": "+91 88401 11137",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 28,
+    "address": "HNo.365,Shashtri Nagar, Bandhwa, Uttar Pradesh 233001",
+    "area": "Kacheri",
+    "latitude": 25.572009899999998,
+    "longitude": 83.56497329999999,
+    "place_id": "ChIJO_k2dgn_kTkRSAyfn82r3Vk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_k2dgn_kTkRSAyfn82r3Vk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:20:09"
+  },
+  {
+    "business_name": "K.G.N Event Organizer",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "276121",
+    "phone_number": "+91 81879 21171",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Niswa school, Pakri Kala, Paharpur, Azamgarh, Uttar Pradesh 276001",
+    "area": "Pakri Kala, Paharpur",
+    "latitude": 26.0738876,
+    "longitude": 83.1860554,
+    "place_id": "ChIJV5R4XVijkTkRU87lPXaSe-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV5R4XVijkTkRU87lPXaSe-c",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:20:10"
+  }
+]

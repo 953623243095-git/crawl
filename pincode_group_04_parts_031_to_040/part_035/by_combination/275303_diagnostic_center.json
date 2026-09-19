@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Purvanchal DIAGNOSTIC CENTER",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "275303",
+    "phone_number": "+91 76072 87436",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chillupar, Barhalganj, Uttar Pradesh 273402",
+    "area": "275303",
+    "latitude": 26.2887192,
+    "longitude": 83.50466589999999,
+    "place_id": "ChIJNyxnC7N4kTkRaIqJYTF4Gl0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNyxnC7N4kTkRaIqJYTF4Gl0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:08:14"
+  },
+  {
+    "business_name": "Aarogya medical centre and pathology",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "275303",
+    "phone_number": "+91 95063 42593",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sohrabhar road, Dam Mahula, Latghat, Uttar Pradesh 275303",
+    "area": "275303",
+    "latitude": 26.2355983,
+    "longitude": 83.42742369999999,
+    "place_id": "ChIJ-RA4V5mDkTkRvw4pt0dGztc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-RA4V5mDkTkRvw4pt0dGztc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:08:18"
+  }
+]

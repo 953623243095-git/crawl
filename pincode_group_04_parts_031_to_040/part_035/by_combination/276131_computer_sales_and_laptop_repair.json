@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wizard Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "276131",
+    "phone_number": "+91 86878 57880",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 13,
+    "address": "Baramadpur crossing Mohammadabad Gohna Muhammadabad Gohana, Uttar Pradesh 276403",
+    "area": "276131",
+    "latitude": 26.0288422,
+    "longitude": 83.37317809999999,
+    "place_id": "ChIJWTiCJQKRkTkR45VKD2jcYv8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWTiCJQKRkTkR45VKD2jcYv8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:36:47"
+  },
+  {
+    "business_name": "Indisoft Computers.",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "276131",
+    "phone_number": "+91 99369 51212",
+    "website": "https://youtube.com/@Yaasinternational?si=hWS5ly5AcVAGgrw0",
+    "rating": 3.9,
+    "reviews_count": 45,
+    "address": "SH 34, Muhammadabad Gohna, Uttar Pradesh 276403",
+    "area": "276131",
+    "latitude": 26.029722699999997,
+    "longitude": 83.3708135,
+    "place_id": "ChIJ01jGigKRkTkRcUvgU0S2RrM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ01jGigKRkTkRcUvgU0S2RrM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:36:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DCDC Kidney Care, Chandauli",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "276121",
+    "phone_number": "+91 11 4558 1006",
+    "website": "https://dcdc.co.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "775F+F3V Dialysis unit, Pandit Kamla Pati District Hospital, Gautam Nagar, Chandauli, Uttar Pradesh 232104",
+    "area": "Gautam Nagar",
+    "latitude": 25.2586916,
+    "longitude": 83.27267119999999,
+    "place_id": "ChIJqVLVLKQXjjkR94Bl02WWajY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqVLVLKQXjjkR94Bl02WWajY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:19:29"
+  },
+  {
+    "business_name": "Eskag Sanjeevani Dialysis Center Balrampur",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "276121",
+    "phone_number": "+91 1800 102 2294",
+    "website": "https://www.eskagsanjeevanidialysis.com/",
+    "rating": 4.6,
+    "reviews_count": 72,
+    "address": "Combined District Hospital Behind RTO Office Utraula, Balrampur, Uttar Pradesh 271201",
+    "area": "276121",
+    "latitude": 27.4208218,
+    "longitude": 82.1690753,
+    "place_id": "ChIJx5DskRrfmTkR8yfJ-pRYIcM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx5DskRrfmTkR8yfJ-pRYIcM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:19:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivangi Automobiles",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "276136",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "586M+5HX, Jiyanpur, Khankah Bahrampur, Uttar Pradesh 276140",
+    "area": "276136",
+    "latitude": 26.160489199999997,
+    "longitude": 83.3339874,
+    "place_id": "ChIJP659UJyZkTkRDAGpbrdtJwA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP659UJyZkTkRDAGpbrdtJwA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:39:51"
+  },
+  {
+    "business_name": "Akanksha Mobile Centre",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Cell phone accessory store",
+    "pincode": "276136",
+    "phone_number": "+91 88407 67774",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "00, Varanasi, Uttar Pradesh 276140",
+    "area": "276136",
+    "latitude": 26.156643199999998,
+    "longitude": 83.33235859999999,
+    "place_id": "ChIJ7RQZr1mZkTkRWRRxJmSPbvo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7RQZr1mZkTkRWRRxJmSPbvo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:39:51"
+  }
+]

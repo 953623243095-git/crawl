@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pitambari Devi Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "275301",
+    "phone_number": "+91 73768 65868",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "23G5+W3G, Sikandarpur, Bagara, Uttar Pradesh 277303",
+    "area": "275301",
+    "latitude": 26.0273157,
+    "longitude": 84.05770799999999,
+    "place_id": "ChIJwWeBG2FEkjkR-IZayuz8a0U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwWeBG2FEkjkR-IZayuz8a0U",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:04:30"
+  },
+  {
+    "business_name": "Sunrise Eye Care Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Doctor",
+    "pincode": "275301",
+    "phone_number": "+91 90727 27019",
+    "website": "http://sunriseeyecarehospital.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Dr. Binu's Sunrise Eye Care Opp: Sreepuram English School, Chettipedika, Kannur, Keralam 670004",
+    "area": "Chettipedika",
+    "latitude": 11.8897009,
+    "longitude": 75.3696994,
+    "place_id": "ChIJGwrPeDM9pDsRuq0qHC75HVQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGwrPeDM9pDsRuq0qHC75HVQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:04:30"
+  }
+]

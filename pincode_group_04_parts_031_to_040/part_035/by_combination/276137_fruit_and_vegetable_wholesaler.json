@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjay fruit and vegetables Shop",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruits & Vegetable Wholesaler",
+    "all_categories": "Fruits & Vegetable Wholesaler",
+    "pincode": "276137",
+    "phone_number": "+91 90268 91833",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "8X9V+WR6, Nandana, Itauri, Uttar Pradesh 223223",
+    "area": "276137",
+    "latitude": 26.3197776,
+    "longitude": 82.9944672,
+    "place_id": "ChIJ06FwRQAHkTkRFqZgASY9z-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ06FwRQAHkTkRFqZgASY9z-o",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:41:06"
+  },
+  {
+    "business_name": "Atraith Market",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "276137",
+    "phone_number": "+91 93362 80794",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "MDR97, Amari, Uttar Pradesh 276142",
+    "area": "276137",
+    "latitude": 26.301487299999998,
+    "longitude": 83.02119619999999,
+    "place_id": "ChIJTcS3aBAHkTkRrUZwXFAruzo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTcS3aBAHkTkRrUZwXFAruzo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:41:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fino Payments Bank",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, ATM, Financial institution, Money transfer service",
+    "pincode": "276136",
+    "phone_number": "+91 74600 51200",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "7C25+R3C, Baramadpur, Jamin Jokahra, Parsiya, Uttar Pradesh 276136",
+    "area": "Baramadpur",
+    "latitude": 26.2520506,
+    "longitude": 83.40763079999999,
+    "place_id": "ChIJRxMLKE-dkTkR8T-ySmG62Eo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRxMLKE-dkTkR8T-ySmG62Eo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:40:35"
+  },
+  {
+    "business_name": "Fino Payments Bank",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Bank, Money transfer service, Savings bank",
+    "pincode": "276136",
+    "phone_number": "+91 70800 51437",
+    "website": "https://www.finobank.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "61, Paharapur, Gram Paharapur Post,Bardiha, Bardiha, Uttar Pradesh 276136",
+    "area": "276136",
+    "latitude": 26.2354101,
+    "longitude": 83.36846489999999,
+    "place_id": "ChIJSyb397adkTkRv3Svy9ZXwT0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSyb397adkTkRv3Svy9ZXwT0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:40:35"
+  }
+]

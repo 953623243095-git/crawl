@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubash Laundry",
+    "search_category": "Cleaning and Hotel Supplier shops/ wholesalers",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Laundry service",
+    "pincode": "276123",
+    "phone_number": "+91 78003 84284",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5, Azamgarh, Lalganj, Bavalpur, Uttar Pradesh 276202",
+    "area": "276123",
+    "latitude": 25.80278,
+    "longitude": 83.014656,
+    "place_id": "ChIJP-KcYceXkTkR5nFJwjN-AUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP-KcYceXkTkR5nFJwjN-AUk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:23:48"
+  },
+  {
+    "business_name": "Washmart Laundry & Dryclean",
+    "search_category": "Cleaning and Hotel Supplier shops/ wholesalers",
+    "primary_category": "Dry cleaner",
+    "all_categories": "Dry cleaner",
+    "pincode": "276123",
+    "phone_number": "+91 72177 97548",
+    "website": "https://washmart.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "AMS Park, E-12, Boring Rd, behind Hira Panna Jwellers, Anandpuri, Patna, Bihar 800001",
+    "area": "Anandpuri",
+    "latitude": 25.613577199999998,
+    "longitude": 85.11860639999999,
+    "place_id": "ChIJj-lmN7FZ7TkRs9V5huLzo98",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj-lmN7FZ7TkRs9V5huLzo98",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:23:48"
+  }
+]

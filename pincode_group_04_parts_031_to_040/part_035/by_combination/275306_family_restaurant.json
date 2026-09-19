@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star Family Resturant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "275306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2C95+5F2, NH 128B, Halimabad, Uttar Pradesh 276403",
+    "area": "275306",
+    "latitude": 26.017864,
+    "longitude": 83.4087785,
+    "place_id": "ChIJ10bgSwCRkTkRK0BeBV5h4eI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ10bgSwCRkTkRK0BeBV5h4eI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:13:31"
+  },
+  {
+    "business_name": "अनंत स्वाद रेस्टोरेंट",
+    "search_category": "Family Restaurant",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant",
+    "pincode": "275306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "3F32+VFR, Koiryapar, Kabirpur, Uttar Pradesh 275306",
+    "area": "275306",
+    "latitude": 26.0548745,
+    "longitude": 83.4511014,
+    "place_id": "ChIJwfDQAgCPkTkRR5Pkw6fpGp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwfDQAgCPkTkRR5Pkw6fpGp4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:13:32"
+  }
+]

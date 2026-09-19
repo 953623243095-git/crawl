@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kashi ENT Centre",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Endoscopist, Hearing aid store, Hospital, Otolaryngology clinic, Speech & Hearing Specialist",
+    "pincode": "275301",
+    "phone_number": "+91 70521 11139",
+    "website": "http://kashient.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "KASHI ENT CENTRE, Siddhaghri bagh, opposite Union Bank, Sigra, Varanasi, Uttar Pradesh 221002",
+    "area": "Maulvibagh, Sigra",
+    "latitude": 25.3122646,
+    "longitude": 82.9941406,
+    "place_id": "ChIJtz-XXnQyjjkRr5DosTuEm88",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtz-XXnQyjjkRr5DosTuEm88",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:04:35"
+  },
+  {
+    "business_name": "Vidya Shri ENT & Laser Center (Dr Vinay Prakash Singh)",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "275301",
+    "phone_number": "+91 63866 00389",
+    "website": "http://vidyashrienthospital.in/",
+    "rating": 4.6,
+    "reviews_count": 165,
+    "address": "Bilariya Ganj, Road, Mukeriganj, Azamgarh, Uttar Pradesh 276001",
+    "area": "Mukeriganj",
+    "latitude": 26.076952199999997,
+    "longitude": 83.1853143,
+    "place_id": "ChIJFRffnhujkTkRNsa8NbVT-QU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFRffnhujkTkRNsa8NbVT-QU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:04:35"
+  }
+]

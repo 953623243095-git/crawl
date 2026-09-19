@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lalchand genral store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "275303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6GM3+PRW, Unnamed Road, Kharkauli, Uttar Pradesh 275303",
+    "area": "275303",
+    "latitude": 26.2343731,
+    "longitude": 83.5045655,
+    "place_id": "ChIJw2_2KlyDkTkRwtLVgotSEmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw2_2KlyDkTkRwtLVgotSEmY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:07:44"
+  },
+  {
+    "business_name": "रामजन्म चौहान बर्तन स्टोर",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "275303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "6FQ9+J9Q, Arazi Deora Nawali, Uttar Pradesh 275303",
+    "area": "275303",
+    "latitude": 26.2390831,
+    "longitude": 83.46847079999999,
+    "place_id": "ChIJA6IKKQ6DkTkR8mNFVlaSttk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA6IKKQ6DkTkR8mNFVlaSttk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:07:44"
+  }
+]

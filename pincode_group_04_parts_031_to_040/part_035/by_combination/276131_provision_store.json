@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiv Shakti Provisional Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "276131",
+    "phone_number": "+91 94513 06645",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Opp. Masjid, Harbanshpur, Azamgarh, Karimuddinpur, Uttar Pradesh 276001",
+    "area": "Harbanshpur",
+    "latitude": 26.048971599999998,
+    "longitude": 83.1685863,
+    "place_id": "ChIJ-dvXDaG8kTkRqR3I4Bv-Q8A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-dvXDaG8kTkRqR3I4Bv-Q8A",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:35:27"
+  },
+  {
+    "business_name": "sapna genral store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "276131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 7,
+    "address": "Satiyava, Sathiaon, Uttar Pradesh 276406",
+    "area": "276131",
+    "latitude": 26.041505299999997,
+    "longitude": 83.2875629,
+    "place_id": "ChIJa-Hr2aWXkTkRCjzw6G5VYuc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa-Hr2aWXkTkRCjzw6G5VYuc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:35:28"
+  }
+]

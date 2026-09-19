@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHUBHAM HARDWARE",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "276128",
+    "phone_number": "+91 94152 76662",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Palhani Flyover, Railway Colony, Azamgarh, Uttar Pradesh 276128",
+    "area": "Railway Colony",
+    "latitude": 26.0376971,
+    "longitude": 83.15598299999999,
+    "place_id": "ChIJMVf3xmW7kTkRuc92iO_nlpM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMVf3xmW7kTkRuc92iO_nlpM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:32:32"
+  },
+  {
+    "business_name": "gajanan hardware and plywood store ghorath",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "276128",
+    "phone_number": "+91 73767 23145",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "rto office, ghorath, Azamgarh, Uttar Pradesh 276128",
+    "area": "Paranapur",
+    "latitude": 26.0521027,
+    "longitude": 83.1624066,
+    "place_id": "ChIJHyfdibK7kTkRQV28wGI1sBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHyfdibK7kTkRQV28wGI1sBs",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:32:35"
+  }
+]

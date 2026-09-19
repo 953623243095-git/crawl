@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rupa Shop",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "276123",
+    "phone_number": "+91 74007 83307",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tarwa, Uttar Pradesh 276123",
+    "area": "276123",
+    "latitude": 25.754035,
+    "longitude": 83.1697571,
+    "place_id": "ChIJY9jAoojDkTkRQhPJjxABvjM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY9jAoojDkTkRQhPJjxABvjM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:23:16"
+  },
+  {
+    "business_name": "Deep Automobiles",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car Showroom and Used Car Dealer",
+    "all_categories": "Car Showroom and Used Car Dealer",
+    "pincode": "276123",
+    "phone_number": "+91 85888 54890",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "3529+3CM, Paranapur, Azamgarh, Karimuddinpur, Uttar Pradesh 276001",
+    "area": "Paranapur",
+    "latitude": 26.0502064,
+    "longitude": 83.1685526,
+    "place_id": "ChIJLasHPKG8kTkRDejIOncNNVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLasHPKG8kTkRDejIOncNNVU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:23:20"
+  }
+]
