@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Roop palace",
+    "search_category": "Spa",
+    "primary_category": "Facial spa",
+    "all_categories": "Facial spa, Barber shop",
+    "pincode": "311024",
+    "phone_number": "+91 94145 72912",
+    "website": "https://roop-palace.ueniweb.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gandhi Market Rd, Asind, Rajasthan 311301",
+    "area": "311024",
+    "latitude": 25.733692299999998,
+    "longitude": 74.3326634,
+    "place_id": "ChIJ69x8kuwFaTkRBIbJQZCvEk4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ69x8kuwFaTkRBIbJQZCvEk4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:39:48"
+  },
+  {
+    "business_name": "Shree Beauti Parlour",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "311024",
+    "phone_number": "+91 86196 73765",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, near Charbhuja Temple, Brahmano Ki Sareri, Rajasthan 311026",
+    "area": "311024",
+    "latitude": 25.6263756,
+    "longitude": 74.4891454,
+    "place_id": "ChIJKZfFlNIdaTkRAAAAsLI7MkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKZfFlNIdaTkRAAAAsLI7MkA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:39:50"
+  }
+]

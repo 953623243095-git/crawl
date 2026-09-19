@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Freeze'O'Fresh",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food manufacturer",
+    "all_categories": "Frozen food manufacturer",
+    "pincode": "311011",
+    "phone_number": "+91 98933 62020",
+    "website": "https://freezeofresh.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "5, Kabir Khedi, nearby Dhannalal Chouksey Manglik Bhawan, Veena Nagar, Prime City, Sukhliya, Indore, Madhya Pradesh 452010",
+    "area": "Veena Nagar, Prime City, Sukhliya",
+    "latitude": 22.75533,
+    "longitude": 75.8716944,
+    "place_id": "ChIJzY6lRj4DYzkR95QpEt7f5m4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzY6lRj4DYzkR95QpEt7f5m4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:31:23"
+  },
+  {
+    "business_name": "Jumbo Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "311011",
+    "phone_number": "+91 82333 30940",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "near Reliance, Azad Nagar, MallBhilwara, Bhilwara, Rajasthan 311001",
+    "area": "Azad Nagar",
+    "latitude": 25.3365309,
+    "longitude": 74.6314074,
+    "place_id": "ChIJFZpSOATDaDkRvE4e7Oz5F1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZpSOATDaDkRvE4e7Oz5F1k",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:31:23"
+  }
+]

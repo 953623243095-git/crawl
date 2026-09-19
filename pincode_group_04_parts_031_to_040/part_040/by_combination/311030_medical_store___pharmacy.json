@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rathore Medical And General Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "311030",
+    "phone_number": "+91 96644 82229",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dabla, Rajasthan 311030",
+    "area": "311030",
+    "latitude": 25.72186,
+    "longitude": 74.7380258,
+    "place_id": "ChIJTfgJSMolaTkRiiWztuCwNwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTfgJSMolaTkRiiWztuCwNwo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:44:57"
+  },
+  {
+    "business_name": "Sun Medicose",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "311030",
+    "phone_number": "+91 1482 234 488",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "9J5V+CHV, Rajiv Gandhi Auditorium Rd, Sanjay Colony, Bhilwara, Rajasthan 311001",
+    "area": "Sanjay Colony",
+    "latitude": 25.3586116,
+    "longitude": 74.64392959999999,
+    "place_id": "ChIJoTM7tK3DaDkRPfR0ztwislM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoTM7tK3DaDkRPfR0ztwislM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:44:58"
+  }
+]

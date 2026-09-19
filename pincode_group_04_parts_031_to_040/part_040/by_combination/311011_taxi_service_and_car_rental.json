@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "YATAYAT Car Rental",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Airport Shuttle Service Provider, Car leasing service, Car rental agency, Chauffeur service, Transportation service",
+    "pincode": "311011",
+    "phone_number": "+91 93585 85858",
+    "website": "https://yatayat.in/",
+    "rating": 4.9,
+    "reviews_count": 344,
+    "address": "Nautillus Building, 206, Sayajiganj, Vadodara, Gujarat 390020",
+    "area": "Sarod, Sayajiganj",
+    "latitude": 22.309262699999998,
+    "longitude": 73.1826693,
+    "place_id": "ChIJ-5AdXvTPXzkRXW99j27pFQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-5AdXvTPXzkRXW99j27pFQA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:32:01"
+  },
+  {
+    "business_name": "Radix Company",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Chauffeur service",
+    "all_categories": "Chauffeur service",
+    "pincode": "311011",
+    "phone_number": "+91 70236 89070",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "9J88+P8G Panchal Chauraya, Bhilwara, Rajasthan 311001",
+    "area": "311011",
+    "latitude": 25.366808,
+    "longitude": 74.6158336,
+    "place_id": "ChIJ_cyy2orCaDkRAAAA0E37_ww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_cyy2orCaDkRAAAA0E37_ww",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:32:01"
+  }
+]

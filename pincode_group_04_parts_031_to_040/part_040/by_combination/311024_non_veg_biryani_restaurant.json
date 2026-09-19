@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jai maa jogniya nonveg hotel",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant",
+    "pincode": "311024",
+    "phone_number": "+91 78789 45474",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Dulahpur, Rajasthan 311026",
+    "area": "311024",
+    "latitude": 25.5283856,
+    "longitude": 74.5256189,
+    "place_id": "ChIJ43GUTwDhaDkRNfzMEY_P5R0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ43GUTwDhaDkRNfzMEY_P5R0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:38:59"
+  },
+  {
+    "business_name": "Bismillah non veg restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "311024",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 51,
+    "address": "FMF2+P29, Kamalpura, Rajasthan 311401",
+    "area": "311024",
+    "latitude": 25.4742917,
+    "longitude": 74.65009909999999,
+    "place_id": "ChIJoR6xGOXdaDkR1j9VsbpgsG8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoR6xGOXdaDkR1j9VsbpgsG8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:39:02"
+  }
+]

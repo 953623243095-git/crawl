@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Achhu Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "311202",
+    "phone_number": "+91 87696 85742",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Unnamed Road, Shahpura, Rajasthan 311404",
+    "area": "311202",
+    "latitude": 25.6194396,
+    "longitude": 74.9284435,
+    "place_id": "ChIJhx7daU7VaDkRp-uFLxVS3P4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhx7daU7VaDkRp-uFLxVS3P4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:48:28"
+  },
+  {
+    "business_name": "Shree dev pashu aahar",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "311202",
+    "phone_number": "+91 63750 26132",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "Ambika dharm Kanta Bai pass, Shahpura - Kachhola Rd, Kachhola, Rajasthan 311605",
+    "area": "311202",
+    "latitude": 25.3917817,
+    "longitude": 75.12910529999999,
+    "place_id": "ChIJy-NoAM0xbzkRIKYUXuX9ZPo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy-NoAM0xbzkRIKYUXuX9ZPo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:48:28"
+  }
+]

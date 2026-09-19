@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SONU PIZZA ™",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "311026",
+    "phone_number": "+91 89554 54253",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Ummed Sagar Rd, chauraya, Shahpura, Rajasthan 311404",
+    "area": "chauraya",
+    "latitude": 25.6120779,
+    "longitude": 74.9119884,
+    "place_id": "ChIJb3rfaKzVaDkRuMf4t0UPkAM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb3rfaKzVaDkRuMf4t0UPkAM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:42:51"
+  },
+  {
+    "business_name": "Pappu Kachori",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Breakfast restaurant",
+    "all_categories": "Breakfast restaurant",
+    "pincode": "311026",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "S Sector, Bapu Nagar, Bhilwara, Rajasthan 311001",
+    "area": "S Sector, Bapu Nagar",
+    "latitude": 25.3371759,
+    "longitude": 74.6068603,
+    "place_id": "ChIJ-0zQf4jDaDkRih9LsDoLEyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-0zQf4jDaDkRih9LsDoLEyQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:42:51"
+  }
+]

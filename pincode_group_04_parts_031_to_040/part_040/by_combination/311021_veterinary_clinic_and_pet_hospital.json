@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manju Enterprises",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Emergency veterinarian service",
+    "all_categories": "Emergency veterinarian service",
+    "pincode": "311021",
+    "phone_number": "+91 94609 85532",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Road, in front of BSNL Office, Gulabpura, Rajasthan 311021",
+    "area": "311021",
+    "latitude": 25.9029328,
+    "longitude": 74.65004309999999,
+    "place_id": "ChIJ_dzkP-k-aTkRbLyxDqjEnhg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_dzkP-k-aTkRbLyxDqjEnhg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:33:46"
+  },
+  {
+    "business_name": "Animal Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "311021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "WM25+WXJ, Unnamed Road, Gulabpura, Rajasthan 311021",
+    "area": "311021",
+    "latitude": 25.902347499999998,
+    "longitude": 74.6598889,
+    "place_id": "ChIJM-3JGus-aTkRDZa2RNnStI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM-3JGus-aTkRDZa2RNnStI8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:33:46"
+  }
+]

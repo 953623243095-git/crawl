@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sukhwal Auto Parts(Sunil Sukhwal)",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "311203",
+    "phone_number": "+91 99829 51536",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 4,
+    "address": "J5QQ+53F, MDR 56, Pander, Rajasthan 311202",
+    "area": "311203",
+    "latitude": 25.6379426,
+    "longitude": 75.1876757,
+    "place_id": "ChIJZ_NJOJcnbzkRW37NR7DojUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ_NJOJcnbzkRW37NR7DojUs",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:50:55"
+  },
+  {
+    "business_name": "SHREE GANESH AUTOMOBILES",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "311203",
+    "phone_number": "+91 98282 30335",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "BY PASS, CHOURAHA, Kachhola, Rajasthan 311605",
+    "area": "311203",
+    "latitude": 25.3947462,
+    "longitude": 75.1282451,
+    "place_id": "ChIJtQeX0KwxbzkRx4NUQzva598",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtQeX0KwxbzkRx4NUQzva598",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:50:57"
+  }
+]

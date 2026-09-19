@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aanapurna Footwear Piplund",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "311203",
+    "phone_number": "+91 80005 88271",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Annapurna Footwear, Bus Stand, Piplund, Rajasthan 311203",
+    "area": "311203",
+    "latitude": 25.5529785,
+    "longitude": 75.274076,
+    "place_id": "ChIJS2N-TwAjbzkR8LLw9l-ficQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS2N-TwAjbzkR8LLw9l-ficQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:50:37"
+  },
+  {
+    "business_name": "Hazi Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "311203",
+    "phone_number": "+91 96539 64305",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nowchok Jahazpur Jahazpur Bhilwada, Rajasthan 311201",
+    "area": "311203",
+    "latitude": 25.6181961,
+    "longitude": 75.2806884,
+    "place_id": "ChIJ7QhW1johbzkRfmNun6myAhU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7QhW1johbzkRfmNun6myAhU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:50:37"
+  }
+]

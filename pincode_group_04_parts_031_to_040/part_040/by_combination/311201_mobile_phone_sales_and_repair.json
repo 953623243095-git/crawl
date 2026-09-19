@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree shyam mobile",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "311201",
+    "phone_number": "+91 79767 61676",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Main market deoli, road, Pech Ki Baori, Rajasthan 323025",
+    "area": "311201",
+    "latitude": 25.639415699999997,
+    "longitude": 75.4612915,
+    "place_id": "ChIJR5IC7WMdbzkRQgovsmkH0lE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR5IC7WMdbzkRQgovsmkH0lE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:47:51"
+  },
+  {
+    "business_name": "Daksh mobiles",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Electronics store",
+    "pincode": "311201",
+    "phone_number": "+91 96368 69077",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Sadar Bazar, chhatri chouraha, Deoli, Rajasthan 304804",
+    "area": "chhatri chouraha",
+    "latitude": 25.761084999999998,
+    "longitude": 75.37388349999999,
+    "place_id": "ChIJP92_bWXhbjkRNseE316ca68",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP92_bWXhbjkRNseE316ca68",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:47:54"
+  }
+]

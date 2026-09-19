@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Devnarayan",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Nursery school",
+    "all_categories": "Nursery school",
+    "pincode": "311011",
+    "phone_number": "+91 86961 44320",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "वार्ड 4, Rajasthan 311603",
+    "area": "311011",
+    "latitude": 25.3756518,
+    "longitude": 74.665174,
+    "place_id": "ChIJU3fTYXPDaDkRGOy9vRa_yTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU3fTYXPDaDkRGOy9vRa_yTk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:32:31"
+  },
+  {
+    "business_name": "Laadoo ke LaaL",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Toy store",
+    "all_categories": "Toy store",
+    "pincode": "311011",
+    "phone_number": "+91 94622 40460",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "9J2R+225 Hrj plaja, Bhopal Ganj, Bhilwara, Rajasthan 311001",
+    "area": "Bhopal Ganj",
+    "latitude": 25.350000899999998,
+    "longitude": 74.6400975,
+    "place_id": "ChIJC_n1eOzDaDkRnRLlSXuqLd8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC_n1eOzDaDkRnRLlSXuqLd8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:32:34"
+  }
+]

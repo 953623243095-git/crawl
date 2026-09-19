@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Devnarayn Dayri",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "311023",
+    "phone_number": "+91 82394 75247",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "5, dewriya Ka Rasta, Panotiya, Rajasthan 305001",
+    "area": "311023",
+    "latitude": 25.8056871,
+    "longitude": 74.8514055,
+    "place_id": "ChIJqfs4ycwxaTkRnY7mGc85qjU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqfs4ycwxaTkRnY7mGc85qjU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:37:07"
+  },
+  {
+    "business_name": "Kumawat Kirana Store",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "311023",
+    "phone_number": "+91 93525 71255",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Panotiya, 108, Deoriya, Rajasthan 311407",
+    "area": "311023",
+    "latitude": 25.805284,
+    "longitude": 74.8468694,
+    "place_id": "ChIJixjcVGUxaTkRTnVOi6PYchg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJixjcVGUxaTkRTnVOi6PYchg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:37:08"
+  }
+]

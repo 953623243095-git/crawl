@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paras Consultants",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "311011",
+    "phone_number": "+91 98250 50246",
+    "website": "http://www.parasconsultants.co.in/",
+    "rating": 4.6,
+    "reviews_count": 12,
+    "address": "3rd Floor, Centaur Complex, Vijay Cross Rd, opp. Bank of Maharashtra, Sarvottam Nagar Society, Navrangpura, Ahmedabad, Gujarat 380009",
+    "area": "Sarvottam Nagar Society, Navrangpura",
+    "latitude": 23.0426309,
+    "longitude": 72.54979209999999,
+    "place_id": "ChIJydxBAZSEXjkROlZbuJFzwzk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJydxBAZSEXjkROlZbuJFzwzk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:32:31"
+  },
+  {
+    "business_name": "Resto'lution",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Food and beverage consultant",
+    "pincode": "311011",
+    "phone_number": "+91 91677 87783",
+    "website": "http://www.restolution.in/",
+    "rating": 4.7,
+    "reviews_count": 32,
+    "address": "Resto'lution, i-Hub, inside KCG Campus, opp. PRL Colony, Navrangpura, Ahmedabad, Gujarat 380015",
+    "area": "Navrangpura",
+    "latitude": 23.0319426,
+    "longitude": 72.5439914,
+    "place_id": "ChIJTTILlMo5WDkRy66l-n0uCaY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTTILlMo5WDkRy66l-n0uCaY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:32:31"
+  }
+]

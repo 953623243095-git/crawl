@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Urgent courier service",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "311026",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gangapur Rd, chorha, Bhilwara, Rajasthan 311001",
+    "area": "chorha",
+    "latitude": 25.3466688,
+    "longitude": 74.63293329999999,
+    "place_id": "ChIJny5PSOzDaDkRkPFcywFEb48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJny5PSOzDaDkRkPFcywFEb48",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:44:08"
+  },
+  {
+    "business_name": "Jet Courier & Cargo Services",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, Shipping service",
+    "pincode": "311026",
+    "phone_number": "+91 99290 41277",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "B 42, Nakoda Textile Market, Gandhi Nagar, Bhilwara, Rajasthan 311001",
+    "area": "Gandhi Nagar",
+    "latitude": 25.3456437,
+    "longitude": 74.6281813,
+    "place_id": "ChIJMfoY1UfCaDkRbVq1UK3L9Jk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMfoY1UfCaDkRbVq1UK3L9Jk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:44:08"
+  }
+]

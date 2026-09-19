@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shrinath Hospital Superspeciality & Cardiac Centre",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Cardiologist, Medical laboratory, Pharmacy",
+    "pincode": "311021",
+    "phone_number": "+91 1462 232 107",
+    "website": "https://shrinath-hospital.com/",
+    "rating": 4.3,
+    "reviews_count": 158,
+    "address": "Vardhman Vihar Colony, Beawar Road, 27, Mill Chauraha, Bijainagar, Rajasthan 305624",
+    "area": "311021",
+    "latitude": 25.9259098,
+    "longitude": 74.6332266,
+    "place_id": "ChIJ8W0kBqc_aTkRjScm3s-egsg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8W0kBqc_aTkRjScm3s-egsg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:33:40"
+  },
+  {
+    "business_name": "Shree PKV Multispeciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Children's hospital, Diagnostic center, General practitioner, Obstetrician-gynecologist, Gynecologist, Orthopedic clinic, Private hospital, Surgeon",
+    "pincode": "311021",
+    "phone_number": "+91 92570 32404",
+    "website": "https://shreepkvhospital.com/",
+    "rating": 3.9,
+    "reviews_count": 103,
+    "address": "Beawar Rd, Opp Sanmati decor, Bijainagar, Baral, Rajasthan 305624",
+    "area": "311021",
+    "latitude": 25.926640199999998,
+    "longitude": 74.63915349999999,
+    "place_id": "ChIJTVVVbKs_aTkRy7ozkThN95E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTVVVbKs_aTkRy7ozkThN95E",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:33:41"
+  }
+]

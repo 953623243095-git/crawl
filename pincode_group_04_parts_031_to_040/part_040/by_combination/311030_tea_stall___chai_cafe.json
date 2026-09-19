@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Tea Home",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "311030",
+    "phone_number": "+91 82905 75828",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "c-267 corner, in front of LIC office, Azad Nagar, Bhilwara, Rajasthan 311001",
+    "area": "Azad Nagar",
+    "latitude": 25.335748199999998,
+    "longitude": 74.616584,
+    "place_id": "ChIJDXF6_z3CaDkRaD3kniouma0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDXF6_z3CaDkRaD3kniouma0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:44:40"
+  },
+  {
+    "business_name": "Shri Vardhaman Tea Center",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "311030",
+    "phone_number": "+91 98293 47007",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "Bhopal Ganj, Bazar-3, Bhilwara, Rajasthan 311001",
+    "area": "Bhopal Ganj",
+    "latitude": 25.3449507,
+    "longitude": 74.63461389999999,
+    "place_id": "ChIJV85WH0rCaDkRh42C5LZE_i4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV85WH0rCaDkRh42C5LZE_i4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:44:43"
+  }
+]

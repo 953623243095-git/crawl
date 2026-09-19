@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kamla Enclave",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Gated community",
+    "all_categories": "Gated community",
+    "pincode": "311011",
+    "phone_number": "+91 1482 230 634",
+    "website": "http://kamlagroup.in/kamla_enclave.php",
+    "rating": 4.4,
+    "reviews_count": 82,
+    "address": "20, Chittorgarh Rd, Chandrashekar Azad Nagar, Bhilwara, Rajasthan 311001",
+    "area": "Chandrashekar Azad Nagar",
+    "latitude": 25.3118192,
+    "longitude": 74.6325015,
+    "place_id": "ChIJp9hBUITBaDkRPWigidbMvFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp9hBUITBaDkRPWigidbMvFg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:32:54"
+  },
+  {
+    "business_name": "KC PROPERTIES",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Property investment company",
+    "all_categories": "Property investment company",
+    "pincode": "311011",
+    "phone_number": "+91 82094 37419",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "KC TOWER, Bhopal Ganj, Bhilwara, Rajasthan 311001",
+    "area": "Bhopal Ganj",
+    "latitude": 25.3469274,
+    "longitude": 74.6353257,
+    "place_id": "ChIJnw7bix3DaDkRs2wRGWvwNmA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnw7bix3DaDkRs2wRGWvwNmA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:32:54"
+  }
+]

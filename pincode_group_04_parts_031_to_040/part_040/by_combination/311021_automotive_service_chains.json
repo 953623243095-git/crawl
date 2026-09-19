@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Badnor Auto Exchange Point",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "311021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "P8WJ+37X, Asind, Rajasthan 311301",
+    "area": "311021",
+    "latitude": 25.7452492,
+    "longitude": 74.330727,
+    "place_id": "ChIJhavOOPQFaTkRJUbSpwzENdc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhavOOPQFaTkRJUbSpwzENdc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:33:58"
+  },
+  {
+    "business_name": "Chohan Auto Sarvice",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Car repair and maintenance service",
+    "pincode": "311021",
+    "phone_number": "+91 88906 49772",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.15, Kota Rd, Sagaerigat, Gulzar Nagar, Bhilwara, Rajasthan 311001",
+    "area": "Sagaerigat, Gulzar Nagar",
+    "latitude": 25.3501969,
+    "longitude": 74.6520802,
+    "place_id": "ChIJw0GaBrrDaDkRVZ_U_B2DMqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw0GaBrrDaDkRVZ_U_B2DMqA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:34:00"
+  }
+]

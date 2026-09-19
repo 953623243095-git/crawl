@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Viva Executive Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Breakfast restaurant, Thai restaurant",
+    "pincode": "311022",
+    "phone_number": "+91 88900 98623",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 117,
+    "address": "VPJ2+GGR, 2 B type, Zinc Colony, Hurda Magra, Hurara Mugra, Rajasthan 311022",
+    "area": "Zinc Colony",
+    "latitude": 25.8813706,
+    "longitude": 74.70125639999999,
+    "place_id": "ChIJ____P-I7aTkRZPJf1j5CoVs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____P-I7aTkRZPJf1j5CoVs",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:35:22"
+  },
+  {
+    "business_name": "Cafe Choco Craze Bhilwara",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "311022",
+    "phone_number": "+91 94149 41453",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 23,
+    "address": "9J5W+PP9, Sector 8 & 9 & 10, R C Vyas Colony, Bhilwara, Rajasthan 311001",
+    "area": "Sector 8 & 9 & 10, R C Vyas Colony",
+    "latitude": 25.359275699999998,
+    "longitude": 74.6468445,
+    "place_id": "ChIJC98lHx_DaDkRIFdoo4l5Hn4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC98lHx_DaDkRIFdoo4l5Hn4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:35:22"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Panchal property dealer",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Housing development",
+    "all_categories": "Housing development",
+    "pincode": "311021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2-F-15, 16, Patel Nagar, Bhilwara, Rajasthan 311001",
+    "area": "Patel Nagar",
+    "latitude": 25.3291798,
+    "longitude": 74.59465639999999,
+    "place_id": "ChIJaWRZWwDDaDkRCELlIKUpsyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaWRZWwDDaDkRCELlIKUpsyQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:34:49"
+  },
+  {
+    "business_name": "Property king",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Housing society",
+    "all_categories": "Housing society",
+    "pincode": "311021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "plot no 96, Malan, Subhash Nagar, Bhilwara, Rajasthan 311001",
+    "area": "Malan, Subhash Nagar",
+    "latitude": 25.3656626,
+    "longitude": 74.6279984,
+    "place_id": "ChIJHSuOXhzDaDkRH3abSouT_Ws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHSuOXhzDaDkRH3abSouT_Ws",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:34:50"
+  }
+]

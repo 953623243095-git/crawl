@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajputana rasoi",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "311030",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 15,
+    "address": "7c, 74, near meera circle, Azad Nagar, Bhilwara, Rajasthan 311001",
+    "area": "Azad Nagar",
+    "latitude": 25.3220299,
+    "longitude": 74.6150759,
+    "place_id": "ChIJ_cfRf1bDaDkR-y-sYO2pZ00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_cfRf1bDaDkR-y-sYO2pZ00",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:44:46"
+  },
+  {
+    "business_name": "Shree Krishna Bhojnalay",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Rajasthani Restaurant",
+    "all_categories": "Rajasthani Restaurant",
+    "pincode": "311030",
+    "phone_number": "+91 96368 45031",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 8,
+    "address": "8JPF+M9F Maharana, Kumbha Cir Rd, Azad Nagar, Bhilwara, Rajasthan 311001",
+    "area": "Azad Nagar",
+    "latitude": 25.3366884,
+    "longitude": 74.6234247,
+    "place_id": "ChIJo3jxWDnCaDkRmhgJdb-PNOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo3jxWDnCaDkRmhgJdb-PNOA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:44:46"
+  }
+]

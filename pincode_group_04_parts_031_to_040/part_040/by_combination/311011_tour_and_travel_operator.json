@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harmeet Tours & Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "311011",
+    "phone_number": "+91 98870 81600",
+    "website": "https://gujraleducationrajasthan.com/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "office no. 101, near Dilip Dairy, Sindhu Nagar, Shastri Nagar, Bhilwara, Rajasthan 311001",
+    "area": "Sindhu Nagar, Shastri Nagar",
+    "latitude": 25.340756499999998,
+    "longitude": 74.6396391,
+    "place_id": "ChIJ5bJ7uQLDaDkRIVaVeyY7obA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5bJ7uQLDaDkRIVaVeyY7obA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:32:00"
+  },
+  {
+    "business_name": "Super Tours",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "311011",
+    "phone_number": "+91 94143 06118",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop no.2, Udai Tower, Nehru Rd, Bhimganj, Purana Bhilwara, Bhilwara, Rajasthan 311011",
+    "area": "Bhimganj, Purana Bhilwara",
+    "latitude": 25.3491461,
+    "longitude": 74.6463148,
+    "place_id": "ChIJ9cSJlNHDaDkR5mEc3xNzTls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9cSJlNHDaDkR5mEc3xNzTls",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:32:00"
+  }
+]

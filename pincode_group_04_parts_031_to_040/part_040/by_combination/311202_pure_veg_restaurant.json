@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAM DEV HOTEL",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "311202",
+    "phone_number": "+91 95871 87071",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 49,
+    "address": "Ramdev Hotel, 01, Shahpura - Kachhola Rd, Gulabpura, Teetori, Rajasthan 311202",
+    "area": "311202",
+    "latitude": 25.639557699999997,
+    "longitude": 75.12513919999999,
+    "place_id": "ChIJJ6WEeQApbzkRDW8pblXF9Ck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ6WEeQApbzkRDW8pblXF9Ck",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:48:30"
+  },
+  {
+    "business_name": "Shri Annapurna Bheru Nath Bhojnalaya",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "311202",
+    "phone_number": "+91 81075 01294",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "5 Landmark Hotel Ke Piche Deri Ke Pass, Bhilwara, Rajasthan 311001",
+    "area": "Basant Vihar Colony, Santosh Colony",
+    "latitude": 25.347593699999997,
+    "longitude": 74.6293901,
+    "place_id": "ChIJA8lhjbjDaDkRMqOyTpKcFuA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA8lhjbjDaDkRMqOyTpKcFuA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:48:34"
+  }
+]

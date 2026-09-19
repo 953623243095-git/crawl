@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manju Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "311011",
+    "phone_number": "+91 96490 68742",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Main road, near mahaveer fancy stor, New Housing Board, Neelkanth Mahadev Colony, Shastri Nagar, Bhilwara, Rajasthan 311001",
+    "area": "New Housing Board, Neelkanth Mahadev Colony, Shastri Nagar",
+    "latitude": 25.3299581,
+    "longitude": 74.641634,
+    "place_id": "ChIJhxswB9PDaDkRmtVEYT6D2h0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhxswB9PDaDkRmtVEYT6D2h0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:31:38"
+  },
+  {
+    "business_name": "Abhishek Jewelers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "311011",
+    "phone_number": "+91 94608 04177",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Netaji subhash Market, Gol Pyau Chauraha, Bhopal Ganj, Bhilwara, Rajasthan 311001",
+    "area": "Bhopal Ganj",
+    "latitude": 25.3447453,
+    "longitude": 74.6383444,
+    "place_id": "ChIJU__jI8rDaDkR2GpOmN-KvSM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU__jI8rDaDkR2GpOmN-KvSM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:31:39"
+  }
+]

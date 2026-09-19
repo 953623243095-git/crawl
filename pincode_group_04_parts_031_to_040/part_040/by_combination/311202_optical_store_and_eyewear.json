@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VIJAY OPTICAL",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "311202",
+    "phone_number": "+91 99299 87171",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Trimurti Chouraha, Shahpura, Rajasthan 311404",
+    "area": "311202",
+    "latitude": 25.621792799999998,
+    "longitude": 74.9242191,
+    "place_id": "ChIJlx73JXnVaDkRzRhUD_0fDn8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlx73JXnVaDkRzRhUD_0fDn8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:48:45"
+  },
+  {
+    "business_name": "Prem Optical",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "311202",
+    "phone_number": "+91 92146 68362",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "JWFG+FV8, New Bazar Rd, Kothar Mohalla, Shahpura, Rajasthan 311404",
+    "area": "Kothar Mohalla",
+    "latitude": 25.6236543,
+    "longitude": 74.9272103,
+    "place_id": "ChIJby5CHXzVaDkRrBUcr_5NDuw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJby5CHXzVaDkRrBUcr_5NDuw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:48:45"
+  }
+]

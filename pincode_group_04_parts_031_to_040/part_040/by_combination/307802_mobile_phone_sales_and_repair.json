@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajshree Telecom",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Electronics store",
+    "pincode": "307802",
+    "phone_number": "+91 80941 87749",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bus Stand, Ramseen, Rajasthan 307803",
+    "area": "307802",
+    "latitude": 25.007042199999997,
+    "longitude": 72.5486626,
+    "place_id": "ChIJEWl74LcZQzkRqJ3n3jXRbr8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEWl74LcZQzkRqJ3n3jXRbr8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:26:55"
+  },
+  {
+    "business_name": "Kundan Mobile And Accessories",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "307802",
+    "phone_number": "+91 70145 68482",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bus Stand, Main, Udd, Rajasthan 307801",
+    "area": "307802",
+    "latitude": 24.965158,
+    "longitude": 72.7733683,
+    "place_id": "ChIJvfGeDbPfQjkR6vtd35GQx8o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvfGeDbPfQjkR6vtd35GQx8o",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:26:55"
+  }
+]

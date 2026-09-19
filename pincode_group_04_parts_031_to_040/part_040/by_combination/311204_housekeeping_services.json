@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KG's house",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "311204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Q9G2+FH7, Asind Road, Parasoli, Rayra, Rajasthan 311301",
+    "area": "311204",
+    "latitude": 25.7761684,
+    "longitude": 74.3514228,
+    "place_id": "ChIJLx3YIAAPaTkRFDIiPyfL-rU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLx3YIAAPaTkRFDIiPyfL-rU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:53:41"
+  },
+  {
+    "business_name": "Khaakhl house (prathvi jeet)",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "311204",
+    "phone_number": "+91 99831 36788",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "RCQR+MCC, Barni, Rajasthan 311204",
+    "area": "311204",
+    "latitude": 25.839191099999997,
+    "longitude": 74.44102409999999,
+    "place_id": "ChIJNR6iYQARaTkRQ4fwPMa-m9o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNR6iYQARaTkRQ4fwPMa-m9o",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:53:41"
+  }
+]

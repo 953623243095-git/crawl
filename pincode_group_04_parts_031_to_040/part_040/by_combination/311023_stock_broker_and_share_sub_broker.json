@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Stoxkart",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Investment service",
+    "pincode": "311023",
+    "phone_number": "+91 11 7133 3666",
+    "website": "https://www.stoxkart.com/",
+    "rating": 3.4,
+    "reviews_count": 247,
+    "address": "Param Tower, No 11/6B, Pusa Rd, Block 11, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110005",
+    "area": "Block 11, Old Rajinder Nagar, Rajinder Nagar",
+    "latitude": 28.6426883,
+    "longitude": 77.1816888,
+    "place_id": "ChIJ34mCNpgDDTkRmhE3tV0gAr0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ34mCNpgDDTkRmhE3tV0gAr0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:38:26"
+  },
+  {
+    "business_name": "Geojit Financial Services Ltd - Corporate Office",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "311023",
+    "phone_number": "+91 484 290 1000",
+    "website": "https://branch.geojit.com/geojit-financial-services-ltd-corporate-office-stock-broker-padivattom-ernakulam-289160/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "34, 659P, Civil Line Rd, Padivattom, Kochi, Keralam 682024",
+    "area": "Padivattom, Edappally",
+    "latitude": 10.0110361,
+    "longitude": 76.3191406,
+    "place_id": "ChIJMVYUy0YNCDsRyamz-CIAzr0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMVYUy0YNCDsRyamz-CIAzr0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:38:27"
+  }
+]

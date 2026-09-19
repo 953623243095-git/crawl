@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.Hakam's Homeopathic multispeciality clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath, Medical clinic",
+    "pincode": "311201",
+    "phone_number": "+91 94639 23167",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 79,
+    "address": "Kanchiyan road, Bhucho Mandi, Burj Kahan Singhwala, Punjab 151101",
+    "area": "311201",
+    "latitude": 30.221087699999998,
+    "longitude": 75.0898966,
+    "place_id": "ChIJ5cmP7mbREDkRXl3E2zVrfGU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5cmP7mbREDkRXl3E2zVrfGU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:46:56"
+  },
+  {
+    "business_name": "Vinayak homeopathic clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "311201",
+    "phone_number": "+91 83028 61698",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Near padmawati karishma medical store,kunchalwara, road, Deoli, Rajasthan 304804",
+    "area": "311201",
+    "latitude": 25.757708899999997,
+    "longitude": 75.3854453,
+    "place_id": "ChIJ7wFK5AbhbjkRbnSS8Ar6R9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7wFK5AbhbjkRbnSS8Ar6R9w",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:46:58"
+  }
+]

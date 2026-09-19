@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paras Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "311030",
+    "phone_number": "+91 94146 86715",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 12,
+    "address": "9M43+FCQ, Vijay Singh Pathik Nagar, Bhilwara, Rajasthan 311001",
+    "area": "Vijay Singh Pathik Nagar",
+    "latitude": 25.356205,
+    "longitude": 74.65361469999999,
+    "place_id": "ChIJe23TxbrDaDkREOENdkoUJ5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe23TxbrDaDkREOENdkoUJ5s",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:45:01"
+  },
+  {
+    "business_name": "Prateek Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "311030",
+    "phone_number": "+91 1482 257 822",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "9M52+R8P, Sector 8 & 9 & 10, R C Vyas Colony, Bhilwara, Rajasthan 311001",
+    "area": "Sector 8 & 9 & 10, R C Vyas Colony",
+    "latitude": 25.3595953,
+    "longitude": 74.6508255,
+    "place_id": "ChIJk4mFna_DaDkR7GxLtZrCK-E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk4mFna_DaDkR7GxLtZrCK-E",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:45:03"
+  }
+]

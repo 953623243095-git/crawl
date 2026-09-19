@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucky Photocopiers",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "311021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Bhopal Ganj, Bhilwara, Rajasthan 311001",
+    "area": "Bhopal Ganj",
+    "latitude": 25.3450126,
+    "longitude": 74.6368913,
+    "place_id": "ChIJswSCZErCaDkRZtcvPZJ1q6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJswSCZErCaDkRZtcvPZJ1q6Y",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:34:33"
+  },
+  {
+    "business_name": "Prakash Pustak Mandir",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Stationery store",
+    "pincode": "311021",
+    "phone_number": "+91 94622 40579",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Raj Ji, Moda Ki Gali, Bhimganj, Old Dhanamandi, Manikya Nagar, Bhopal Ganj, Bhilwara, Rajasthan 311001",
+    "area": "Bhimganj, Old Dhanamandi, Manikya Nagar, Bhopal Ganj",
+    "latitude": 25.344807199999998,
+    "longitude": 74.6460579,
+    "place_id": "ChIJY5cwALbDaDkRQlQPNjUA49c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY5cwALbDaDkRQlQPNjUA49c",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:34:34"
+  }
+]

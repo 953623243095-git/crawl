@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mukesh auto parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "311022",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8JHJ+PWP, Chittorgarh Rd, Transport Nagar, Chandrashekar Azad Nagar, Bhilwara, Rajasthan 311001",
+    "area": "Transport Nagar, Chandrashekar Azad Nagar",
+    "latitude": 25.3293338,
+    "longitude": 74.6323349,
+    "place_id": "ChIJLZCoSADDaDkRsuYNKdaCSgg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLZCoSADDaDkRsuYNKdaCSgg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:35:47"
+  },
+  {
+    "business_name": "Sonu Auto Mobiles",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "311022",
+    "phone_number": "+91 98290 62943",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tikam Chorita Parash Nath Markit, Gulabpura, Rajasthan 311021",
+    "area": "311022",
+    "latitude": 25.904808,
+    "longitude": 74.657065,
+    "place_id": "ChIJmccAHd0_aTkRjsfDMSz94ZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmccAHd0_aTkRjsfDMSz94ZI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:35:49"
+  }
+]

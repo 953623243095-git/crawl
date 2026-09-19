@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "big day event planner",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "311023",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 34,
+    "address": "event planner, 2nd-rooftop , airtel store , big day, Nehru Rd, Bhilwara, Rajasthan 311001",
+    "area": "Vidyut Nagar, Sanjay Colony",
+    "latitude": 25.3518866,
+    "longitude": 74.6403716,
+    "place_id": "ChIJx7CgpmPDaDkRGZ2YuYf8GBE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx7CgpmPDaDkRGZ2YuYf8GBE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:38:09"
+  },
+  {
+    "business_name": "EventMent (Event Management Company)",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Event management company, Restaurant supply store, Wedding photographer, Wedding planner",
+    "pincode": "311023",
+    "phone_number": "0321 4796663",
+    "website": "http://www.eventment.com.pk/",
+    "rating": 5,
+    "reviews_count": 46,
+    "address": "Mezzanine Floor, 161 C1, Nespak Phase 1 Block C 1 Nespak Housing Scheme, Lahore, 54600, Pakistan",
+    "area": "Nespak Phase 1 Block C 1 Nespak Housing Scheme",
+    "latitude": 31.4368865,
+    "longitude": 74.2901156,
+    "place_id": "ChIJ3enYSnEEGTkR6BC9eH1-DSc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3enYSnEEGTkR6BC9eH1-DSc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:38:10"
+  }
+]

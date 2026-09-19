@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zimarah Foods - Order Frozen Food in Lahore",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, Food manufacturer, Frozen food manufacturer",
+    "pincode": "311023",
+    "phone_number": "0370 0915940",
+    "website": "https://zimarahfoods.com.pk/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gulburg II, Main Market, Lahore, 54000, Pakistan",
+    "area": "Main Market",
+    "latitude": 31.524078,
+    "longitude": 74.3466504,
+    "place_id": "ChIJBfeW4g8FGTkRw_I7fzveQFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBfeW4g8FGTkRw_I7fzveQFI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:37:06"
+  },
+  {
+    "business_name": "Green frozen foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "311023",
+    "phone_number": "0332 8476622",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Plot 452, Sector B-1 Block 4 Sector B 1 Lahore, 54600, Pakistan",
+    "area": "Sector B-1 Block 4 Sector B 1",
+    "latitude": 31.460543899999998,
+    "longitude": 74.3124193,
+    "place_id": "ChIJG0GyRIgHGTkRGs0F20FH7Is",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG0GyRIgHGTkRGs0F20FH7Is",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:37:06"
+  }
+]

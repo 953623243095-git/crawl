@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Asind",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "311204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P8QF+HXQ, Panchayat Samiti Rd, Asind, Rajasthan 311301",
+    "area": "311204",
+    "latitude": 25.7389717,
+    "longitude": 74.32498439999999,
+    "place_id": "ChIJDXCxRgAFaTkRzSnUJT9RwgU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDXCxRgAFaTkRzSnUJT9RwgU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:53:06"
+  },
+  {
+    "business_name": "MAMSAAB BEAUTY PARLOUR",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "311204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Sadar bazar, Patan, Rajasthan 311302",
+    "area": "Sadar bazar",
+    "latitude": 25.9105551,
+    "longitude": 74.3719922,
+    "place_id": "ChIJtWqeTeYNaTkR_2nx0yQU4Jo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtWqeTeYNaTkR_2nx0yQU4Jo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:53:06"
+  }
+]

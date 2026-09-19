@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ASR ChatKara",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "307803",
+    "phone_number": "+91 97733 33392",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No. 13 Basement, Rajat Vihar, Main, Mangyawas Rd, Manyawas, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Manyawas, Mansarovar",
+    "latitude": 26.8633794,
+    "longitude": 75.7458415,
+    "place_id": "ChIJ3YV73Y-1bTkR3jQebRR-_4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3YV73Y-1bTkR3jQebRR-_4s",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:27:41"
+  },
+  {
+    "business_name": "99 Tasty Food Hub",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Cafe, Coffee shop, Pizza restaurant, Momo restaurant, Sandwich shop",
+    "pincode": "307803",
+    "phone_number": "+91 70792 71792",
+    "website": "http://www.99tastyfoodhubsgnr.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop no. C37, Ridhi Sidhi Outlets, 1, Ridhi Sidhi Enclave, Sri Ganganagar, 7 E, Rajasthan 335001",
+    "area": "Ridhi Sidhi Enclave",
+    "latitude": 29.8939205,
+    "longitude": 73.89616079999999,
+    "place_id": "ChIJf3QcRwBLFjkR4kDeHomuIZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf3QcRwBLFjkR4kDeHomuIZY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:27:41"
+  }
+]

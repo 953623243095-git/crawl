@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "coomon service center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "E-commerce service",
+    "all_categories": "E-commerce service",
+    "pincode": "311024",
+    "phone_number": "+91 96726 58757",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shiv Nagar, opp. Police Line, Bhilwara, Rajasthan 311001",
+    "area": "Santosh Colony",
+    "latitude": 25.3587736,
+    "longitude": 74.6223777,
+    "place_id": "ChIJT2BrCFzCaDkRkoZR-SmIVz0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT2BrCFzCaDkRkoZR-SmIVz0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:40:13"
+  },
+  {
+    "business_name": "Swastik E-Mitra CSC Seva Kendra & Electricals",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Business banking service",
+    "all_categories": "Business banking service",
+    "pincode": "311024",
+    "phone_number": "+91 96360 38515",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No. 01, Bus Stand Ke Pass, Panchayat Bhawan Road, Arjiya, Bhilwara, Rajasthan 311011",
+    "area": "311024",
+    "latitude": 25.417021199999997,
+    "longitude": 74.6321353,
+    "place_id": "ChIJ-a4AmcbdaDkR-Gd6WaWJ86c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-a4AmcbdaDkR-Gd6WaWJ86c",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:40:13"
+  }
+]

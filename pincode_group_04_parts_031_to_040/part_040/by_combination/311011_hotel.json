@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sangam Farms",
+    "search_category": "Hotel",
+    "primary_category": "Farmstay",
+    "all_categories": "Farmstay, Farm",
+    "pincode": "311011",
+    "phone_number": "+91 90017 17326",
+    "website": "https://sangamfarms.com/",
+    "rating": 4.6,
+    "reviews_count": 391,
+    "address": "NH79, Chittorgarh Rd, Bhilwara, Gathila Kheda, Rajasthan 311001",
+    "area": "311011",
+    "latitude": 25.2684759,
+    "longitude": 74.6276839,
+    "place_id": "ChIJB4FkcX3BaDkRmQSOfDHYW-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB4FkcX3BaDkRmQSOfDHYW-o",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:32:27"
+  },
+  {
+    "business_name": "CROCKERY JUNCTION",
+    "search_category": "Hotel",
+    "primary_category": "Hotel supply store",
+    "all_categories": "Hotel supply store",
+    "pincode": "311011",
+    "phone_number": "+91 80038 78062",
+    "website": "https://www.crockeryjunction.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8JWM+G5G Crockery, junction, Bhopal Ganj, Bhilwara, Rajasthan 311001",
+    "area": "Bhopal Ganj",
+    "latitude": 25.3463155,
+    "longitude": 74.63294429999999,
+    "place_id": "ChIJZWQFaADDaDkRZIx87a7jHlI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZWQFaADDaDkRZIx87a7jHlI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:32:29"
+  }
+]

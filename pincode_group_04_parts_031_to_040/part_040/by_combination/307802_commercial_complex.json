@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JD Fashion",
+    "search_category": "Commercial Complex",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "307802",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "AMBESHWAR COMPLEX, MAIN BAZAAR, Kalandri, Rajasthan 307802",
+    "area": "307802",
+    "latitude": 24.924623999999998,
+    "longitude": 72.685391,
+    "place_id": "ChIJLe482rEhQzkR0FeglRJ0Sos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLe482rEhQzkR0FeglRJ0Sos",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:27:23"
+  },
+  {
+    "business_name": "Sundha mata Complex",
+    "search_category": "Commercial Complex",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "307802",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "sildar road, jasawant pura road, Madia, Madiya, Rajasthan 307802",
+    "area": "307802",
+    "latitude": 24.874145199999997,
+    "longitude": 72.5417681,
+    "place_id": "ChIJJWycUMAkQzkRUqcZv23DWds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJWycUMAkQzkRUqcZv23DWds",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:27:23"
+  }
+]

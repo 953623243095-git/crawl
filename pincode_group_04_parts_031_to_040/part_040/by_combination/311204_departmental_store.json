@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RCM Store, Rampura, Bhilwara (Pick Up Center)",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "311204",
+    "phone_number": "+91 99832 26171",
+    "website": "https://www.rcmworld.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hanuman Chowk, Bheem Road, Daulatgarh, Rampura, Rajasthan 311302",
+    "area": "Daulatgarh",
+    "latitude": 25.7138961,
+    "longitude": 74.3671884,
+    "place_id": "ChIJUde6JuEFaTkRoyx4IQienTA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUde6JuEFaTkRoyx4IQienTA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:52:10"
+  },
+  {
+    "business_name": "RCM Wonder World Quick - Bajarang RCM PUC",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "311204",
+    "phone_number": "N/A",
+    "website": "https://www.rcmworld.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tehsil- Hurda, Phalamada, Rajasthan 311204",
+    "area": "311204",
+    "latitude": 25.776653,
+    "longitude": 74.514095,
+    "place_id": "ChIJRUFdy6IXaTkRditUwoDbGUo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRUFdy6IXaTkRditUwoDbGUo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:52:10"
+  }
+]

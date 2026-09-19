@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A to Z Therapy Center",
+    "search_category": "Therapy Center",
+    "primary_category": "Pain control clinic",
+    "all_categories": "Pain control clinic",
+    "pincode": "311011",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6 - C - 23, near Shastri nagar, New Housing Board, Neelkanth Mahadev Colony, Shastri Nagar, Dispencery, Bhilwara, Rajasthan 311001",
+    "area": "New Housing Board, Neelkanth Mahadev Colony, Shastri Nagar",
+    "latitude": 25.3271865,
+    "longitude": 74.6425158,
+    "place_id": "ChIJEdjjrgrDaDkRNIg1h6wJb_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEdjjrgrDaDkRNIg1h6wJb_4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:32:21"
+  },
+  {
+    "business_name": "Chiccem therapy centre,",
+    "search_category": "Therapy Center",
+    "primary_category": "Alternative medicine practitioner",
+    "all_categories": "Alternative medicine practitioner",
+    "pincode": "311011",
+    "phone_number": "+91 98285 77700",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "57, NH 758, Vardhman Colony, Sanjay Colony, Bhilwara, Rajasthan 311001",
+    "area": "Vardhman Colony, Sanjay Colony",
+    "latitude": 25.3506273,
+    "longitude": 74.6437468,
+    "place_id": "ChIJZ3URBuLDaDkRAQZS61DDg3A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ3URBuLDaDkRAQZS61DDg3A",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:32:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NKD Crane & Roadside Assistance",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "311024",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "agro Auto mobile, near Noor bagh, chouraha, Bhilwara, Jodhras, Rajasthan 311001",
+    "area": "chouraha",
+    "latitude": 25.3730881,
+    "longitude": 74.61366819999999,
+    "place_id": "ChIJgWOGAPrDaDkRo9AsOl65UNo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgWOGAPrDaDkRo9AsOl65UNo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:39:34"
+  },
+  {
+    "business_name": "Shree Ganesh Crane & Lifters Pvt Ltd",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane service",
+    "all_categories": "Crane service, Construction machine rental service, Crane rental agency",
+    "pincode": "311024",
+    "phone_number": "+91 95875 44525",
+    "website": "http://www.shreeganeshcranes.com/",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "Bhilwara Rd, Chanderiya, Chittorgarh, Putholi, Rajasthan 312021",
+    "area": "Chanderiya",
+    "latitude": 24.944826199999998,
+    "longitude": 74.6337144,
+    "place_id": "ChIJ71UcpHqhaDkRiubbOTQkFAo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ71UcpHqhaDkRiubbOTQkFAo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:39:36"
+  }
+]

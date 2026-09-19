@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "devkaran regar ward no. 5",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "311203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JCH2+9P6, Manohargarh, Intunda, Rajasthan 311201",
+    "area": "311203",
+    "latitude": 25.6284198,
+    "longitude": 75.40176799999999,
+    "place_id": "ChIJy-yPYgAfbzkRWBBIZiJUvp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy-yPYgAfbzkRWBBIZiJUvp4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:51:47"
+  },
+  {
+    "business_name": "Devrajhousekeeping services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "311203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "8JPP+5G2, Kashipuri, Shastri Nagar, Bhilwara, Rajasthan 311001",
+    "area": "Kashipuri, Shastri Nagar",
+    "latitude": 25.335377299999998,
+    "longitude": 74.63627989999999,
+    "place_id": "ChIJ05O-USLDaDkRP_5dkItnLwE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ05O-USLDaDkRP_5dkItnLwE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:51:49"
+  }
+]

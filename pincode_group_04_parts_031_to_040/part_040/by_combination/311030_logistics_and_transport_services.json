@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pawan Transport Company",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Trucking company",
+    "all_categories": "Trucking company, Transportation service",
+    "pincode": "311030",
+    "phone_number": "+91 94140 22815",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "20-21, Transport Nagar, Below P. K Finance, Bhilwara, Rajasthan 311001",
+    "area": "Transport Nagar, Chandrashekar Azad Nagar",
+    "latitude": 25.3263659,
+    "longitude": 74.63220079999999,
+    "place_id": "ChIJA5eN0S7CaDkR65OETwttNLw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA5eN0S7CaDkR65OETwttNLw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:45:18"
+  },
+  {
+    "business_name": "A One Transport Company",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "311030",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Chouth Mata Mandir, Road, near Ajanta Hotel, Transport Nagar, Chandrashekar Azad Nagar, Bhilwara, Rajasthan 311001",
+    "area": "Transport Nagar, Chandrashekar Azad Nagar",
+    "latitude": 25.3257484,
+    "longitude": 74.6276807,
+    "place_id": "ChIJOYO__CXCaDkRq__faIUFTvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOYO__CXCaDkRq__faIUFTvk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:45:18"
+  }
+]

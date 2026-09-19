@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Idli Planet",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "311030",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "8JQJ+8M5, Chittorgarh Rd, Kashipuri, Azad Nagar, Bhilwara, Rajasthan 311001",
+    "area": "Kashipuri, Azad Nagar",
+    "latitude": 25.3382969,
+    "longitude": 74.6317789,
+    "place_id": "ChIJWS5X3f3DaDkRmQcZtHJPPmU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWS5X3f3DaDkRmQcZtHJPPmU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:44:46"
+  },
+  {
+    "business_name": "Annpurna Rasoi",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "311030",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 50,
+    "address": "Bus Station Road Ways, Vidyut Nagar, Sanjay Colony, Bhilwara, Rajasthan 311001",
+    "area": "Vidyut Nagar, Sanjay Colony",
+    "latitude": 25.353214899999998,
+    "longitude": 74.6398533,
+    "place_id": "ChIJux3ozFjDaDkRbtX4L6t1OkE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJux3ozFjDaDkRbtX4L6t1OkE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:44:46"
+  }
+]

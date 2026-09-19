@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TMB ATM",
+    "search_category": "Money Transfer and Forex",
+    "primary_category": "Money transfer service",
+    "all_categories": "Money transfer service, Financial institution, ATM, Payment terminal",
+    "pincode": "311202",
+    "phone_number": "+91 1800 425 0426",
+    "website": "https://www.tmb.bank.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "24/25, Pur Rd, Pratap Nagar, Bhilwara, Rajasthan 311001",
+    "area": "Pratap Nagar",
+    "latitude": 25.3437193,
+    "longitude": 74.6268283,
+    "place_id": "ChIJlaFck0fCaDkRYD8a9NhffJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlaFck0fCaDkRYD8a9NhffJE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:49:53"
+  },
+  {
+    "business_name": "Indian Overseas Bank",
+    "search_category": "Money Transfer and Forex",
+    "primary_category": "Public Sector Bank",
+    "all_categories": "Public Sector Bank, Bank",
+    "pincode": "311202",
+    "phone_number": "+91 89259 51487",
+    "website": "https://locate.iob.in/indian-overseas-bank-bhilwara-public-sector-bank-old-rto-road-bhilwara-379702/Home",
+    "rating": 4.4,
+    "reviews_count": 12,
+    "address": "Aakar Tower, Old RTO Rd, Gandhi Nagar, Bhilwara, Rajasthan 311001",
+    "area": "Gandhi Nagar",
+    "latitude": 25.344749,
+    "longitude": 74.624526,
+    "place_id": "ChIJ3YaxGkfCaDkRAEyAHiu5-wo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3YaxGkfCaDkRAEyAHiu5-wo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:49:53"
+  }
+]

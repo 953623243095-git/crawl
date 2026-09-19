@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lakshita Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "311024",
+    "phone_number": "+91 96803 54103",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Session Ct Rd, opp. Genesh Mochi, Bhopal Ganj, Bhilwara, Rajasthan 311001",
+    "area": "Bhopal Ganj",
+    "latitude": 25.3481086,
+    "longitude": 74.63518959999999,
+    "place_id": "ChIJ74mi6UvCaDkR4TnMjVA2HlQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ74mi6UvCaDkR4TnMjVA2HlQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:39:14"
+  },
+  {
+    "business_name": "Suraj Optical Asind",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "311024",
+    "phone_number": "+91 77259 84998",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 9,
+    "address": "Panchayat Samiti Rd, near Bank of baroda, Asind, Rajasthan 311301",
+    "area": "311024",
+    "latitude": 25.7384408,
+    "longitude": 74.32443169999999,
+    "place_id": "ChIJwXh_qWkFaTkRakTQMRzMnus",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwXh_qWkFaTkRakTQMRzMnus",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:39:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KRISHNA_ELECTRICALS_KEROT",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Electric motor repair shop, Electrician, Electrical repair shop",
+    "pincode": "311023",
+    "phone_number": "+91 78775 03719",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Sadar bajar, Kerot, Rajasthan 305622",
+    "area": "Sadar bajar",
+    "latitude": 25.8892138,
+    "longitude": 74.9502045,
+    "place_id": "ChIJj9LMeWkzaTkRRwbB1T10-7M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj9LMeWkzaTkRRwbB1T10-7M",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:37:49"
+  },
+  {
+    "business_name": "ShreeBalajiBuildingContractorS",
+    "search_category": "Plumber",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "311023",
+    "phone_number": "N/A",
+    "website": "http://www.mukeshkumar.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kothiya, Kalyanpura, Rajasthan 311023",
+    "area": "311023",
+    "latitude": 25.842394199999998,
+    "longitude": 74.7860213,
+    "place_id": "ChIJ-8h91tAxaTkRhFiiJVeUzPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-8h91tAxaTkRhFiiJVeUzPc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:37:49"
+  }
+]

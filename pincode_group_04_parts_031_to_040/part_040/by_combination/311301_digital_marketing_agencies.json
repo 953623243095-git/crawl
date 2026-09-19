@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "digital marketing services",
+    "search_category": "Digital Marketing Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "311301",
+    "phone_number": "N/A",
+    "website": "http://yourdigiguy.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "digital marketing services, 311301, India",
+    "area": "311301",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJqWNl-fdRNAoR9Kag1OZX1BU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqWNl-fdRNAoR9Kag1OZX1BU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:55:46"
+  },
+  {
+    "business_name": "Bankyarani digital studio",
+    "search_category": "Digital Marketing Agencies",
+    "primary_category": "Media house",
+    "all_categories": "Media house",
+    "pincode": "311301",
+    "phone_number": "+91 72001 14100",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Gorment secendary school, Lachhura, Chapriyakhera, Rajasthan 311301",
+    "area": "311301",
+    "latitude": 25.607202899999997,
+    "longitude": 74.3508339,
+    "place_id": "ChIJNZzfcHgDaTkRguhyYSu_b9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNZzfcHgDaTkRguhyYSu_b9U",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:55:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M.N Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "307803",
+    "phone_number": "+91 96642 40494",
+    "website": "https://mneyehospital.in/",
+    "rating": 4.7,
+    "reviews_count": 53,
+    "address": "Tapadia bagichi, above Dr. Saleem, Doliyon Ka Bass, Sikar, Rajasthan 332001",
+    "area": "Doliyon Ka Bass",
+    "latitude": 27.614904799999998,
+    "longitude": 75.1485229,
+    "place_id": "ChIJ3aEXvValbDkR68O5VOdv8FM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3aEXvValbDkR68O5VOdv8FM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:27:56"
+  },
+  {
+    "business_name": "Dr Ankur Gupta Eye And Vision Center - Best Eye Doctor",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Ophthalmologist, Optometrist",
+    "pincode": "307803",
+    "phone_number": "+91 97123 92738",
+    "website": "https://eyeandvisioncenter.in/",
+    "rating": 4.9,
+    "reviews_count": 791,
+    "address": "near surpin palace Station road Juction, Rajasthan 324002",
+    "area": "307803",
+    "latitude": 25.2183942,
+    "longitude": 75.8705906,
+    "place_id": "ChIJ36OXM1mabzkRnSfXeOFoWAM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ36OXM1mabzkRnSfXeOFoWAM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:27:56"
+  }
+]

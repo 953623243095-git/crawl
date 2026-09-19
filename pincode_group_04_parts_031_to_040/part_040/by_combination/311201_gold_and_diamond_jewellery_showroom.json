@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mundra Fancy Store",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "311201",
+    "phone_number": "+91 98871 13232",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "J79H+8R7, Jahazpur, Rajasthan 311201",
+    "area": "311201",
+    "latitude": 25.618287499999997,
+    "longitude": 75.2795469,
+    "place_id": "ChIJE3gTYAAhbzkRaCezx_zB86s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE3gTYAAhbzkRaCezx_zB86s",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:46:48"
+  },
+  {
+    "business_name": "Jain Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "311201",
+    "phone_number": "+91 77371 71977",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Pragya Shikhar, Jyoti Market, Deoli, Rajasthan 304804",
+    "area": "311201",
+    "latitude": 25.760686,
+    "longitude": 75.37454319999999,
+    "place_id": "ChIJk5ava87gbjkRDE0XxNiKUCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk5ava87gbjkRDE0XxNiKUCY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:46:48"
+  }
+]

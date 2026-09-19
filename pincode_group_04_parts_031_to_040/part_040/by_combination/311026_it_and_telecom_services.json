@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "311026",
+    "phone_number": "+91 94611 96139",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "BUS STAND, 12, Luhariya, Bhilwara, Rajasthan 311403",
+    "area": "311026",
+    "latitude": 25.477839,
+    "longitude": 74.429766,
+    "place_id": "ChIJ09cU-NblaDkR6SNslZk8sxM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ09cU-NblaDkR6SNslZk8sxM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:44:02"
+  },
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "311026",
+    "phone_number": "N/A",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "S/O, BHERUNATH MOBILE VLG, BHERU LAL JI, Asind, BHILWARA, Rajasthan 311301",
+    "area": "311026",
+    "latitude": 25.5962706,
+    "longitude": 74.3617043,
+    "place_id": "ChIJURP0a8UDaTkRcKWGxZpQj-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJURP0a8UDaTkRcKWGxZpQj-U",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:44:02"
+  }
+]

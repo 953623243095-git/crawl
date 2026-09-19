@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "YUVRAJ STORES",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "311030",
+    "phone_number": "+91 74192 87422",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near by Balaji Temple, Gharta, Bhilwara, Rajasthan 311030",
+    "area": "311030",
+    "latitude": 25.7122872,
+    "longitude": 74.7839161,
+    "place_id": "ChIJ0VIM3K4vaTkRTYpyrW32rpU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0VIM3K4vaTkRTYpyrW32rpU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:44:33"
+  },
+  {
+    "business_name": "Tridev Mahadev Shop",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "311030",
+    "phone_number": "+91 89053 24763",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "01, Sadar Bajar, Kanwaliyas, Rajasthan 311030",
+    "area": "311030",
+    "latitude": 25.741765899999997,
+    "longitude": 74.62760399999999,
+    "place_id": "ChIJRy8Gpq0jaTkRWoqmcfL2mFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRy8Gpq0jaTkRWoqmcfL2mFQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:44:33"
+  }
+]

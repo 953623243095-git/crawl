@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naresh Hair Saloon",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "311022",
+    "phone_number": "+91 97991 14858",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "RP7F+W3R, Agoocha, Rajasthan 311022",
+    "area": "311022",
+    "latitude": 25.8148607,
+    "longitude": 74.7226416,
+    "place_id": "ChIJs4FWBhg7aTkR4tNUSvTMaEo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs4FWBhg7aTkR4tNUSvTMaEo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:36:06"
+  },
+  {
+    "business_name": "Sevan Sees Spa Beuty Parlar",
+    "search_category": "Spa",
+    "primary_category": "Health and beauty shop",
+    "all_categories": "Health and beauty shop",
+    "pincode": "311022",
+    "phone_number": "+91 80039 82576",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "WM37+3Q5, Gulabpura Rd, Housing Board, Gulabpura, Rajasthan 311021",
+    "area": "Housing Board",
+    "latitude": 25.9026486,
+    "longitude": 74.6644817,
+    "place_id": "ChIJNU3GO8A-aTkRVekF8YIDptU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNU3GO8A-aTkRVekF8YIDptU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:36:06"
+  }
+]

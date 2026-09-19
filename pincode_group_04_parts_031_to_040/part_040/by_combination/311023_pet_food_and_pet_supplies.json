@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Newyork Pet Shop & Dog Bazar",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "311023",
+    "phone_number": "+91 93140 30936",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 110,
+    "address": "148, Kaka Complex, Kotri Road, Gumanpura, Kota, Rajasthan 324007",
+    "area": "Ballabhbari, Gumanpura",
+    "latitude": 25.1769802,
+    "longitude": 75.8502196,
+    "place_id": "ChIJEQjRhiibbzkRAdKJEq0Zr3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEQjRhiibbzkRAdKJEq0Zr3g",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:37:05"
+  },
+  {
+    "business_name": "Highway Pet store",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "311023",
+    "phone_number": "+91 98788 94208",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 755,
+    "address": "national highway 1a , Darapur, byepass, Urmar Tanda, Punjab 144204",
+    "area": "311023",
+    "latitude": 31.688979699999997,
+    "longitude": 75.64084439999999,
+    "place_id": "ChIJlQA7YdypGzkRMyxT7j2KNqM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlQA7YdypGzkRMyxT7j2KNqM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:37:07"
+  }
+]

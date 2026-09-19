@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Events and Decoration",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "311022",
+    "phone_number": "+91 91661 31146",
+    "website": "https://www.shreeeventsanddecoration.com/",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "White House, 33, near Petrol Pump, Gatta, Mansingh Pura, Tonk Phatak, Jaipur, Rajasthan 302015",
+    "area": "Mansingh Pura, Tonk Phatak",
+    "latitude": 26.8719684,
+    "longitude": 75.796011,
+    "place_id": "ChIJdTGvG821bTkR_ULjBqf-ohM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdTGvG821bTkR_ULjBqf-ohM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:36:18"
+  },
+  {
+    "business_name": "HJ Planners - The Event Designer - Best Wedding Planner in Lahore",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Wedding planner, Event planner, Party planner, Wedding service",
+    "pincode": "311022",
+    "phone_number": "0331 4760150",
+    "website": "http://www.hjplanners.pk/",
+    "rating": 4.8,
+    "reviews_count": 51,
+    "address": "MA, 758-G4, G4 Fatimiyya Rd, Block G 4 Phase 2 Johar Town, Lahore, 54000, Pakistan",
+    "area": "Block G4 Block G 4 Phase 2 Johar Town",
+    "latitude": 31.4699934,
+    "longitude": 74.2697541,
+    "place_id": "ChIJrwiiW2V_AAYR4joNu2J_yAw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrwiiW2V_AAYR4joNu2J_yAw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:36:19"
+  }
+]

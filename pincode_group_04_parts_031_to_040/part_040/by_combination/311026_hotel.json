@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Pari Resort",
+    "search_category": "Hotel",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "311026",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SH-61, Deogarh Highway, Bemali, Bhilwara, Rajasthan 311804",
+    "area": "311026",
+    "latitude": 25.5201256,
+    "longitude": 74.273578,
+    "place_id": "ChIJY-XNkzr_aDkRBFRMbiW47wg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY-XNkzr_aDkRBFRMbiW47wg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:43:45"
+  },
+  {
+    "business_name": "Hotel park pink",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "311026",
+    "phone_number": "+91 98293 79666",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 393,
+    "address": "9J2Q+HRW, Hotel Park Pink Opp. Roadways Bus Stand Bhilwara Rajasthan, Bhilwara, Rajasthan 311001",
+    "area": "Bhopal Ganj",
+    "latitude": 25.3514806,
+    "longitude": 74.6395653,
+    "place_id": "ChIJ2VrExUzCaDkRNKHb3Da245g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2VrExUzCaDkRNKHb3Da245g",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:43:48"
+  }
+]

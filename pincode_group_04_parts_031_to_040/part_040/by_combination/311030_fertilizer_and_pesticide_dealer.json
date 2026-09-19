@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aditya Trading Company",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store, Supplier, Agricultural Seed Store",
+    "pincode": "311030",
+    "phone_number": "+91 80940 12575",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No. A-17, Basement S.K Plaza, Pur Rd, Bhilwara, Rajasthan 311001",
+    "area": "Gandhi Nagar",
+    "latitude": 25.3426749,
+    "longitude": 74.62116329999999,
+    "place_id": "ChIJidr7okDCaDkRVmlvBM1B734",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJidr7okDCaDkRVmlvBM1B734",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:46:17"
+  },
+  {
+    "business_name": "Madhya Bharat Agro Products Limited",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "311030",
+    "phone_number": "+91 14822239638",
+    "website": "http://www.mbapl.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "1st Floor, Ostwal Heights, Urban Forest, Wing A / 1, Atoon, Rajasthan 311802",
+    "area": "311030",
+    "latitude": 25.2989477,
+    "longitude": 74.6238187,
+    "place_id": "ChIJ76RBfVXCaDkRAh2go2RD83c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ76RBfVXCaDkRAh2go2RD83c",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:46:18"
+  }
+]

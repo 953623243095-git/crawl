@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pink City Stone",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store",
+    "pincode": "311030",
+    "phone_number": "+91 98295 54622",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Pink City Stone, Sareri, Rajasthan 311024",
+    "area": "311030",
+    "latitude": 25.706609999999998,
+    "longitude": 74.61522839999999,
+    "place_id": "ChIJ7X_BQegjaTkRpcScbmqZTE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7X_BQegjaTkRpcScbmqZTE8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:45:23"
+  },
+  {
+    "business_name": "Sandeep Build Mart",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "311030",
+    "phone_number": "+91 94141 12925",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "100 ft road, near tile park, Bhilwara, Pansal, Rajasthan 311001",
+    "area": "311030",
+    "latitude": 25.3621224,
+    "longitude": 74.5857159,
+    "place_id": "ChIJWdZPvUTpaDkROTOZ6jAb9zE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWdZPvUTpaDkROTOZ6jAb9zE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:45:26"
+  }
+]

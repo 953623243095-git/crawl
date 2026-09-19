@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucky Fashion Hub",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "311025",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 107,
+    "address": "Prem Ji Ki Hotal ke samne, Lucky Fashion Hub, Main Road, Uposite, Sawaipur, Rajasthan 311603",
+    "area": "Uposite",
+    "latitude": 25.3064952,
+    "longitude": 74.8580601,
+    "place_id": "ChIJ_YDJZGTJaDkRQ9FDk8c0zP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_YDJZGTJaDkRQ9FDk8c0zP0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:41:00"
+  },
+  {
+    "business_name": "Jns kampal men's wear shop",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "311025",
+    "phone_number": "+91 91168 90747",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Bus stand, Main, nearby Premji hotel, Sawaipur, Rajasthan 311603",
+    "area": "311025",
+    "latitude": 25.3065954,
+    "longitude": 74.8581234,
+    "place_id": "ChIJUyM4GgDJaDkRc3u06Sgpo5g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUyM4GgDJaDkRc3u06Sgpo5g",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:41:00"
+  }
+]

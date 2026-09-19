@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mateshree Farinither",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "311030",
+    "phone_number": "+91 77288 28330",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No, 12, near Treedev Mahadev, Kanwaliyas, Rajasthan 311030",
+    "area": "311030",
+    "latitude": 25.7365697,
+    "longitude": 74.64826169999999,
+    "place_id": "ChIJrVqhlJwjaTkRodTKELQwOD4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrVqhlJwjaTkRodTKELQwOD4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:45:29"
+  },
+  {
+    "business_name": "Inteior decorat jhantal",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "311030",
+    "phone_number": "+91 79764 47599",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jhantal, Upreda, Jhatal, Rajasthan 311408",
+    "area": "311030",
+    "latitude": 25.6448057,
+    "longitude": 74.750739,
+    "place_id": "ChIJ-YDtCJInaTkRSd7YgpkLAgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-YDtCJInaTkRSd7YgpkLAgw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:45:31"
+  }
+]

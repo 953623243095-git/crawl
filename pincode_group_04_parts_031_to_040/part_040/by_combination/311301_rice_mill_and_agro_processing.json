@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KM Rice Mills",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "311301",
+    "phone_number": "N/A",
+    "website": "http://www.kmricemills.com/",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "N-5, Pakistan",
+    "area": "311301",
+    "latitude": 32.000008699999995,
+    "longitude": 74.21171819999999,
+    "place_id": "ChIJ17HiB_nVGDkRsmZPCWHm7K4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ17HiB_nVGDkRsmZPCWHm7K4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:55:44"
+  },
+  {
+    "business_name": "Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "311301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "9MFH+PH, Chak No 641, Pakistan",
+    "area": "311301",
+    "latitude": 31.3743916,
+    "longitude": 73.6789512,
+    "place_id": "ChIJi-7lNWWJGDkRrR05o_QhHmI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi-7lNWWJGDkRrR05o_QhHmI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:55:44"
+  }
+]

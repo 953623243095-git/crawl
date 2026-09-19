@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Admission Consultant",
+    "search_category": "Educational Consultant",
+    "primary_category": "Musician",
+    "all_categories": "Musician",
+    "pincode": "311030",
+    "phone_number": "+91 79763 07491",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "9, 136, behind Bhadada, Bagh, Bhilwara, Rajasthan 311001",
+    "area": "Bagh",
+    "latitude": 25.347504999999998,
+    "longitude": 74.6367061,
+    "place_id": "ChIJR_DkOt3DaDkR-sxgHmENYlg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR_DkOt3DaDkR-sxgHmENYlg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:45:53"
+  },
+  {
+    "business_name": "MindSpark Mentors",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution, Coaching Center",
+    "pincode": "311030",
+    "phone_number": "+91 98295 65560",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "3B19, New Housing Board, Neelkanth Mahadev Colony, Shastri Nagar, Bhilwara, Rajasthan 311001",
+    "area": "New Housing Board, Neelkanth Mahadev Colony, Shastri Nagar",
+    "latitude": 25.328812,
+    "longitude": 74.64318999999999,
+    "place_id": "ChIJzwgEN1vDaDkRx9FATtbyRkw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzwgEN1vDaDkRx9FATtbyRkw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:45:53"
+  }
+]

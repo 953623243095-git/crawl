@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bala ji tyers & DTDC courier",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "311024",
+    "phone_number": "+91 99504 16812",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "NH 48, Raila, Rajasthan 311024",
+    "area": "311024",
+    "latitude": 25.64576,
+    "longitude": 74.5984695,
+    "place_id": "ChIJPcrw8hkhaTkR7MQdLKuOw54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPcrw8hkhaTkR7MQdLKuOw54",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:40:20"
+  },
+  {
+    "business_name": "Pushpak Courier",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "311024",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 10,
+    "address": "Mahaveer Bazaar Rd, Asind, Rajasthan 311301",
+    "area": "311024",
+    "latitude": 25.733836399999998,
+    "longitude": 74.331805,
+    "place_id": "ChIJpYWdW-wFaTkRGNWxnHHTnoc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpYWdW-wFaTkRGNWxnHHTnoc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:40:20"
+  }
+]

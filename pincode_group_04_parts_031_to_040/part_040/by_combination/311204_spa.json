@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amesar Fort",
+    "search_category": "Spa",
+    "primary_category": "Foot bath",
+    "all_categories": "Foot bath",
+    "pincode": "311204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "PCPR+C7R, Pratap Marg, Ambesar, Rajasthan 311204",
+    "area": "311204",
+    "latitude": 25.7361084,
+    "longitude": 74.4406448,
+    "place_id": "ChIJ-xSAJRAbaTkRmPZQkRUSfMw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-xSAJRAbaTkRmPZQkRUSfMw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:53:08"
+  },
+  {
+    "business_name": "Siya beauty parlour",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "311204",
+    "phone_number": "+91 93513 94772",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bus stand, Gulabpura road, Antali, Rajasthan 311204",
+    "area": "311204",
+    "latitude": 25.880091999999998,
+    "longitude": 74.4779228,
+    "place_id": "ChIJLe7vyrQTaTkRLKAESYpSWEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLe7vyrQTaTkRLKAESYpSWEA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:53:09"
+  }
+]

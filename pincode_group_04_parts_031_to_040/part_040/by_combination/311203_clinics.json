@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree balaji clinic",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "311203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "F8H7+5M9, Bei Rd, Bei, Shakargarh, Rajasthan 311203",
+    "area": "311203",
+    "latitude": 25.4779055,
+    "longitude": 75.3142354,
+    "place_id": "ChIJLwU9UAA9bzkR7DsBTBExxAM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLwU9UAA9bzkR7DsBTBExxAM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:50:44"
+  },
+  {
+    "business_name": "Biletha",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "311203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H8JX+6QP, Biletha, Rajasthan 311203",
+    "area": "311203",
+    "latitude": 25.5805981,
+    "longitude": 75.3494606,
+    "place_id": "ChIJhWW4XQAfbzkR3U4uvKbHvCo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhWW4XQAfbzkR3U4uvKbHvCo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:50:46"
+  }
+]

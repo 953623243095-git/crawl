@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhayal Industries",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "307803",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "shivpuri, sri vijaynagar, 8 Blm-B, Rajasthan 335704",
+    "area": "307803",
+    "latitude": 29.273163399999998,
+    "longitude": 73.50664549999999,
+    "place_id": "ChIJ64hXVhcDFjkRu0K9ojTPgQU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ64hXVhcDFjkRu0K9ojTPgQU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:27:33"
+  },
+  {
+    "business_name": "चारभुजा फ्लोर मिल",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "307803",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "3M56+65C, Ramsin Rd, Rampuriya, Sivana, Rajasthan 343024",
+    "area": "307803",
+    "latitude": 25.0580517,
+    "longitude": 72.6603882,
+    "place_id": "ChIJx6FixPgeQzkR-dz9obQ6CtU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx6FixPgeQzkR-dz9obQ6CtU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:27:33"
+  }
+]

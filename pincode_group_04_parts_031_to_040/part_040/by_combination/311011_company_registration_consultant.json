@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shreeji Consultancy",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Law firm",
+    "all_categories": "Law firm",
+    "pincode": "311011",
+    "phone_number": "+91 80586 93856",
+    "website": "N/A",
+    "rating": 2.7,
+    "reviews_count": 3,
+    "address": "Near, Session Ct Rd, Bhopal Ganj, Bhilwara, Rajasthan 311001",
+    "area": "Bhopal Ganj",
+    "latitude": 25.348068299999998,
+    "longitude": 74.6332413,
+    "place_id": "ChIJY5KGQ0nCaDkRknB6ivXPvvo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY5KGQ0nCaDkRknB6ivXPvvo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:32:51"
+  },
+  {
+    "business_name": "A K P & COMPANY",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "311011",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sham Ki Sabji Mandi, Bhopal Ganj, Bhilwara, Rajasthan 311001",
+    "area": "Bhopal Ganj",
+    "latitude": 25.3521646,
+    "longitude": 74.6333653,
+    "place_id": "ChIJ0T3rX-XDaDkRE4ehXGciLqc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0T3rX-XDaDkRE4ehXGciLqc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:32:51"
+  }
+]

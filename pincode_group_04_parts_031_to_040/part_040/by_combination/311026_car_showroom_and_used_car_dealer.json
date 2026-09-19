@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Mahakal automobile",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer, Auto Accessories Store, Chauffeur service",
+    "pincode": "311026",
+    "phone_number": "+91 76899 27999",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 215,
+    "address": "G799+JG, Pali - Bhilwara Rd, choraya, Bemali, Kareda, Rajasthan 311804",
+    "area": "choraya",
+    "latitude": 25.5190625,
+    "longitude": 74.2688125,
+    "place_id": "ChIJH44HHgD_aDkRSITp3H09znQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH44HHgD_aDkRSITp3H09znQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:43:16"
+  },
+  {
+    "business_name": "Aditya Auto",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Motor vehicle dealer",
+    "all_categories": "Motor vehicle dealer",
+    "pincode": "311026",
+    "phone_number": "+91 94133 57319",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 74,
+    "address": "P8QJ+V3H, NH158, Asind, Rajasthan 311301",
+    "area": "311026",
+    "latitude": 25.7396955,
+    "longitude": 74.3302322,
+    "place_id": "ChIJXUh3MPIFaTkReQ2ii-OS1AY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXUh3MPIFaTkReQ2ii-OS1AY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:43:16"
+  }
+]

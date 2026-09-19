@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hello shoes",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "311011",
+    "phone_number": "+91 98757 67608",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Police Line Rd, Vivekanand Nagar, Chaprasi Colony, Bhilwara, Rajasthan 311001",
+    "area": "Vivekanand Nagar, Chaprasi Colony",
+    "latitude": 25.360317499999997,
+    "longitude": 74.6256057,
+    "place_id": "ChIJJdDjZSfDaDkR5h4r8Fdo7R8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJdDjZSfDaDkR5h4r8Fdo7R8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:31:37"
+  },
+  {
+    "business_name": "Mahendra Shoe Makers",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe repair shop",
+    "all_categories": "Shoe repair shop",
+    "pincode": "311011",
+    "phone_number": "+91 90017 48089",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 9,
+    "address": "214, sirki mohalla, Bhopal Ganj, Bhilwara, Rajasthan 311001",
+    "area": "sirki mohalla, Bhopal Ganj",
+    "latitude": 25.349316899999998,
+    "longitude": 74.6352485,
+    "place_id": "ChIJXbgE9kvCaDkRpP7W1mKEMmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXbgE9kvCaDkRpP7W1mKEMmY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:31:40"
+  }
+]

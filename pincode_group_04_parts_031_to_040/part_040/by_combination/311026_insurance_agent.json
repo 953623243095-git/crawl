@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Dev Enterprises",
+    "search_category": "Insurance Agent",
+    "primary_category": "Life insurance agency",
+    "all_categories": "Life insurance agency",
+    "pincode": "311026",
+    "phone_number": "+91 96024 12011",
+    "website": "http://www.ramgopalgadri.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "BALAJI KE SAMNE LUHARIYA, TH, Mandal, Rajasthan 311026",
+    "area": "311026",
+    "latitude": 25.4882562,
+    "longitude": 74.4232507,
+    "place_id": "ChIJcZ43yFHjaDkRFLj10-qbkKk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcZ43yFHjaDkRFLj10-qbkKk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:44:04"
+  },
+  {
+    "business_name": "Shree Jagdamba Consultancy",
+    "search_category": "Insurance Agent",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Car finance and loan company, Insurance broker, Life insurance agency",
+    "pincode": "311026",
+    "phone_number": "+91 89554 22909",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "choraya, Haripura, Rajasthan 311026",
+    "area": "choraya",
+    "latitude": 25.5571497,
+    "longitude": 74.48835989999999,
+    "place_id": "ChIJv-IHtyLiaDkR_IoQ5waSas0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv-IHtyLiaDkR_IoQ5waSas0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:44:04"
+  }
+]

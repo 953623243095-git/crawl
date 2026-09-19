@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mhendra Kumar",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "307803",
+    "phone_number": "+91 97994 32622",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Biblsar, Rajasthan 343028",
+    "area": "307803",
+    "latitude": 25.102107,
+    "longitude": 72.5965559,
+    "place_id": "ChIJf4JtL3MbQzkRXSy-Bz5oU7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf4JtL3MbQzkRXSy-Bz5oU7c",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:28:12"
+  },
+  {
+    "business_name": "Durga motor driving school",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "307803",
+    "phone_number": "+91 80947 07933",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 9,
+    "address": "Raj pushp nagar, Sire Mandir Rd, Jalore, Jalor, Rajasthan 343001",
+    "area": "307803",
+    "latitude": 25.345959699999998,
+    "longitude": 72.6055934,
+    "place_id": "ChIJe0cZpQYHQzkRTiaVeM0gGUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe0cZpQYHQzkRTiaVeM0gGUQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:28:14"
+  }
+]

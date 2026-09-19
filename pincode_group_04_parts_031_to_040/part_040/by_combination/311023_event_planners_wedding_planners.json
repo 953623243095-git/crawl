@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VRJ Eventz",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event management company",
+    "pincode": "311023",
+    "phone_number": "+91 98113 64210",
+    "website": "https://vrj-eventz.onlynearme.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "UG-16, HRC Shopping Complex, Vaibhav Khand, Indirapuram, Ghaziabad, Uttar Pradesh 201014",
+    "area": "Vaibhav Khand, Indirapuram",
+    "latitude": 28.635372699999998,
+    "longitude": 77.3652369,
+    "place_id": "ChIJVULLGLrlDDkRRzYJHKn9q1I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVULLGLrlDDkRRzYJHKn9q1I",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:38:01"
+  },
+  {
+    "business_name": "XEEL EVENTS",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "311023",
+    "phone_number": "+91 78278 26107",
+    "website": "http://xeelevents.com/",
+    "rating": 4.7,
+    "reviews_count": 188,
+    "address": "First Floor, Maya Complex, near Chaska Restaurant, Block GU, AU Block, Market, Pitampura, New Delhi, Delhi, 110034",
+    "area": "Block GU, AU Block, Market, Pitampura",
+    "latitude": 28.715300199999998,
+    "longitude": 77.14514369999999,
+    "place_id": "ChIJVVVVlY_9DDkRtwV1pf9h72Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVlY_9DDkRtwV1pf9h72Y",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:38:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Diamond Tools & Hardware",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Tool store",
+    "pincode": "311026",
+    "phone_number": "+91 77408 39983",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kamal Market, Bhopal Ganj, Bhilwara, Rajasthan 311001",
+    "area": "Bhopal Ganj",
+    "latitude": 25.3446914,
+    "longitude": 74.6352744,
+    "place_id": "ChIJQSpVEUrCaDkRcydm-HDFlr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQSpVEUrCaDkRcydm-HDFlr4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:44:16"
+  },
+  {
+    "business_name": "Manmit Tools And Repairing",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "311026",
+    "phone_number": "+91 98290 77967",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Ganesh Shoe Ke Pass, Station Court Road, Bhopal Ganj, Bhilwara, Rajasthan 311001",
+    "area": "Bhopal Ganj",
+    "latitude": 25.348250699999998,
+    "longitude": 74.63554359999999,
+    "place_id": "ChIJnwtr60vCaDkRPJsIZqUzxKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnwtr60vCaDkRPJsIZqUzxKE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:44:18"
+  }
+]

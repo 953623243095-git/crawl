@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "South Indian Dosa Corner R K colony",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "311025",
+    "phone_number": "+91 90015 58466",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "kalyani eye hospital, Rajiv Gandhi Rd, R K Colony, Bhilwara, Rajasthan 311001",
+    "area": "R K Colony",
+    "latitude": 25.3584984,
+    "longitude": 74.6393186,
+    "place_id": "ChIJDd-AxvrDaDkR8TIHnX5Zc1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDd-AxvrDaDkR8TIHnX5Zc1k",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:40:54"
+  },
+  {
+    "business_name": "79 Hotel and Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Buffet restaurant, Coffee shop, Dessert shop, Family restaurant, Fine dining restaurant, Hotel, Ice cream shop, Restaurant, Tea store",
+    "pincode": "311025",
+    "phone_number": "+91 94602 02278",
+    "website": "https://hotel79.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "near sangam university, Atoon, Rajasthan 311802",
+    "area": "311025",
+    "latitude": 25.2787707,
+    "longitude": 74.62100029999999,
+    "place_id": "ChIJXY_8panBaDkRgQE_t2lm6TY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXY_8panBaDkRgQE_t2lm6TY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:40:56"
+  }
+]

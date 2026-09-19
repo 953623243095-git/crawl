@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanwariya General Store",
+    "search_category": "General Store",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "311026",
+    "phone_number": "+91 77278 90592",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 15,
+    "address": "HF4Q+M3J, Mod Ka Nimbahera, Haripura, Rajasthan 311026",
+    "area": "311026",
+    "latitude": 25.556700799999998,
+    "longitude": 74.487635,
+    "place_id": "ChIJo1_YMj3iaDkRhhX1YSCRPwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo1_YMj3iaDkRhhX1YSCRPwM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:42:42"
+  },
+  {
+    "business_name": "Jammumal And Sons",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Rice shop",
+    "pincode": "311026",
+    "phone_number": "+91 98296 17588",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Shop No. 4, Krishi Upaj Mandi, Bhilwara, Rajasthan 311001",
+    "area": "R K Colony",
+    "latitude": 25.3563627,
+    "longitude": 74.63383929999999,
+    "place_id": "ChIJ0VdZ81HCaDkReoG4FUi-Luc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0VdZ81HCaDkReoG4FUi-Luc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:42:44"
+  }
+]

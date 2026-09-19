@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Steelworks Engineering",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "311023",
+    "phone_number": "+91 97121 32114",
+    "website": "http://www.steelworksengineering.com/",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "24/70 , shed no.1 , survey no. 159/4 Opp Shyam palace hotel Nana chiloda circle , village valad, Ahmeda, Ahmedabad, bad, Gujarat 382330",
+    "area": "Ahmeda",
+    "latitude": 23.1135785,
+    "longitude": 72.6752283,
+    "place_id": "ChIJ0VGQ5SiBXjkRo2hxJhsLJxg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0VGQ5SiBXjkRo2hxJhsLJxg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:38:32"
+  },
+  {
+    "business_name": "Abhishek Steel",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Fabrication Engineer",
+    "all_categories": "Fabrication Engineer",
+    "pincode": "311023",
+    "phone_number": "+91 70119 07645",
+    "website": "https://abhishek-steel.grexa.site/",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "R 134, New Karala Rd, Rajiv Nagar Extension, Sector 37, Begum Pur, Delhi, 110099",
+    "area": "Rajiv Nagar Extension, Sector 37, Begum Pur",
+    "latitude": 28.7366277,
+    "longitude": 77.05725799999999,
+    "place_id": "ChIJrRoTpfkGDTkR3MuuFthJ1uA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrRoTpfkGDTkR3MuuFthJ1uA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:38:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RCM Store, Panotiya, Bhilwara (Quick)",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "311023",
+    "phone_number": "+91 99821 47603",
+    "website": "https://www.rcmworld.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Hari Kripa Wonder World Quick, Bus Stand, Panotiya, Rajasthan 311407",
+    "area": "311023",
+    "latitude": 25.8054784,
+    "longitude": 74.8510538,
+    "place_id": "ChIJQVOKeQYxaTkRw6MkbSGPULs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQVOKeQYxaTkRw6MkbSGPULs",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:36:58"
+  },
+  {
+    "business_name": "Shree Dev Narayana Kirana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "311023",
+    "phone_number": "+91 88751 41283",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Post Office Ke Pass, Road, Biliya, Khamor, Rajasthan 311404",
+    "area": "311023",
+    "latitude": 25.703272499999997,
+    "longitude": 74.8220273,
+    "place_id": "ChIJpbE3pmApaTkR2hvGe4wTD3c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpbE3pmApaTkR2hvGe4wTD3c",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:36:58"
+  }
+]

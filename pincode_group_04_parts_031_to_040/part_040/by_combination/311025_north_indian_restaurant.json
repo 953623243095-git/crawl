@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Priya Food & Continentals",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Breakfast restaurant, Fast food restaurant",
+    "pincode": "311025",
+    "phone_number": "+91 94141 12937",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Murlivilas Rd, Bhopal Ganj, Bhilwara, Rajasthan 311001",
+    "area": "Bhopal Ganj",
+    "latitude": 25.3441856,
+    "longitude": 74.6324882,
+    "place_id": "ChIJX1kXw0nCaDkRuJPMuh2fDA4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX1kXw0nCaDkRuJPMuh2fDA4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:40:54"
+  },
+  {
+    "business_name": "indian food express",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Banquet hall, Hotel",
+    "pincode": "311025",
+    "phone_number": "+91 92565 60334",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "6784+MFQ RANESWARI PLAZZA, BUS STAND, DAK BANGLO ROAD, near RSEB, Gangapur, BHILWARA, Rajasthan 311801",
+    "area": "311025",
+    "latitude": 25.2154065,
+    "longitude": 74.2569281,
+    "place_id": "ChIJwXGfRBD1aDkRsZO9WhULyLc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwXGfRBD1aDkRsZO9WhULyLc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:40:55"
+  }
+]
