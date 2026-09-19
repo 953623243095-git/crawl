@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Siddhi boutique,cosmetic, parlour and silai centre.",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Beauty product supplier, Clothing store, Fashion designer, Tailor",
+    "pincode": "263653",
+    "phone_number": "+91 70178 14400",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Daunk,silla, maldevta kaddhukhal road, Saklana Range, Daunk, Uttarakhand 249145",
+    "area": "263653",
+    "latitude": 30.359189299999997,
+    "longitude": 78.1803228,
+    "place_id": "ChIJz158WGbZCDkRDd9kNHz1gUg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz158WGbZCDkRDd9kNHz1gUg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:08:32"
+  },
+  {
+    "business_name": "Queen's Collection",
+    "search_category": "Unisex Salon",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Lingerie store",
+    "pincode": "263653",
+    "phone_number": "+91 81928 46366",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Arya Nagar Chowk, beside Andaz Car King, Arya Nagar, Jwalapur, Haridwar, Uttarakhand 249407",
+    "area": "Arya Nagar",
+    "latitude": 29.925712299999997,
+    "longitude": 78.1211117,
+    "place_id": "ChIJc3FxoSRGCTkR8Jbr6Y6LU4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc3FxoSRGCTkR8Jbr6Y6LU4o",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:08:34"
+  }
+]

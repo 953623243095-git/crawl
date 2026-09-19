@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ansh Traders",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Construction equipment supplier",
+    "all_categories": "Construction equipment supplier",
+    "pincode": "271123",
+    "phone_number": "+91 97166 64583",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Balharai, Nagwa, Uttar Pradesh 271123",
+    "area": "Balharai",
+    "latitude": 27.022627699999997,
+    "longitude": 82.0524897,
+    "place_id": "ChIJY0W4RWP5mTkR97iT92Hs480",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY0W4RWP5mTkR97iT92Hs480",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:41:57"
+  },
+  {
+    "business_name": "Kanhaiya Engineering Works Barsara",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Farm equipment supplier",
+    "all_categories": "Farm equipment supplier",
+    "pincode": "271123",
+    "phone_number": "+91 79858 51720",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Barsara, Block, Belsar, Khadora, Uttar Pradesh 271401",
+    "area": "271123",
+    "latitude": 26.9782443,
+    "longitude": 81.88641989999999,
+    "place_id": "ChIJpXhb9t_0mTkRfHvs4XlAe_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpXhb9t_0mTkRfHvs4XlAe_o",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:41:58"
+  }
+]

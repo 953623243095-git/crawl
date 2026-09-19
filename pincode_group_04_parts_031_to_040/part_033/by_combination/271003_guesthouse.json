@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kings Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "271003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "infront of LBS BSC campus gate, ITI wali road, beside R.N.Pandey hospital, Jhanjhari Block, Gonda, Uttar Pradesh 271001",
+    "area": "Jhanjhari Block",
+    "latitude": 27.1271782,
+    "longitude": 81.9543699,
+    "place_id": "ChIJ3bEEGrjxmTkRtDojsAun9QE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3bEEGrjxmTkRtDojsAun9QE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:38:07"
+  },
+  {
+    "business_name": "Mohan Tower",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "271003",
+    "phone_number": "+91 70074 43533",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "4XW9+HMQ, Maharaniganj, Khaira, Gonda, Uttar Pradesh 271002",
+    "area": "Maharaniganj, Khaira",
+    "latitude": 27.146452099999998,
+    "longitude": 81.96922049999999,
+    "place_id": "ChIJRX1ZXBfvmTkRqdeHmT8Da-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRX1ZXBfvmTkRqdeHmT8Da-I",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:38:07"
+  }
+]

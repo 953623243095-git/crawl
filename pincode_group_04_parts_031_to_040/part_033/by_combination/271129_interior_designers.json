@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amar jeet",
+    "search_category": "Interior Designers",
+    "primary_category": "Furniture maker",
+    "all_categories": "Furniture maker, Furniture store",
+    "pincode": "271129",
+    "phone_number": "+91 91612 87150",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Raghuraj nagar, Bithiri, Kotha, Uttar Pradesh 271129",
+    "area": "Bithiri",
+    "latitude": 26.9470763,
+    "longitude": 82.17330369999999,
+    "place_id": "ChIJQbeD0doBmjkRaHcKPVdkfvc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQbeD0doBmjkRaHcKPVdkfvc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:47:57"
+  },
+  {
+    "business_name": "Unity Building Designer & Consultants",
+    "search_category": "Interior Designers",
+    "primary_category": "Architectural designer",
+    "all_categories": "Architectural designer, Architecture firm, Real Estate Builders & Construction Company, Real estate agency",
+    "pincode": "271129",
+    "phone_number": "+91 94154 58806",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Unity Arcade, in front of eidgah, Patel Nagar, Gonda, Uttar Pradesh 271003",
+    "area": "Patel Nagar",
+    "latitude": 27.1349265,
+    "longitude": 81.9649554,
+    "place_id": "ChIJhWnJaR3umTkRNUJqsloTdl0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhWnJaR3umTkRNUJqsloTdl0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:47:59"
+  }
+]

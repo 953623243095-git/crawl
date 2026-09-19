@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "multi vision Digital",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "271001",
+    "phone_number": "+91 95696 49075",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jhanjhari Block, Gonda, Uttar Pradesh 271003",
+    "area": "Jhanjhari Block",
+    "latitude": 27.126796,
+    "longitude": 81.96495019999999,
+    "place_id": "ChIJwTrwMNjxmTkRvJWvZedta-E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwTrwMNjxmTkRvJWvZedta-E",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:35:17"
+  },
+  {
+    "business_name": "Ravi Ac Repair",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "271001",
+    "phone_number": "+91 96029 32533",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Bus Stand, Jhanjhari Block, Gonda, Uttar Pradesh 271003",
+    "area": "Jhanjhari Block",
+    "latitude": 27.133886099999998,
+    "longitude": 81.961891,
+    "place_id": "ChIJSX8zFvLvmTkRIsC6c4Wxh6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSX8zFvLvmTkRIsC6c4Wxh6Y",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:35:17"
+  }
+]

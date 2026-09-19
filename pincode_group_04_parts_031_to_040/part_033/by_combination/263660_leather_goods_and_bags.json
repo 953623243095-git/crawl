@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Leather Laundry",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Shoe repair shop",
+    "all_categories": "Shoe repair shop, Clothing alteration service, Custom tailor, Dry cleaner, Laundry service, Leather cleaning service, Leather repair service, Luggage repair service, Shoe shining service, Upholstery cleaning service",
+    "pincode": "263660",
+    "phone_number": "+91 97112 55431",
+    "website": "https://www.theleatherlaundry.com/city/delhi/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "56-A, Friends Colony E Rd, Block A, Friends Colony East, New Friends Colony, New Delhi, Delhi 110065",
+    "area": "Block A, Friends Colony East, New Friends Colony",
+    "latitude": 28.5679178,
+    "longitude": 77.2637299,
+    "place_id": "ChIJc2aoL6HkDDkRFrXYYLwFeFY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc2aoL6HkDDkRFrXYYLwFeFY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:16:36"
+  },
+  {
+    "business_name": "Luxury Leather and Furniture Care",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather repair service",
+    "all_categories": "Leather repair service, Leather cleaning service, Shoe repair shop, Upholstery cleaning service",
+    "pincode": "263660",
+    "phone_number": "+91 92892 38864",
+    "website": "http://luxuryleatherfurniturecare.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "2nd Floor, C 99, C Block, Sector 10, Noida, Uttar Pradesh 201301",
+    "area": "C Block, Sector 10",
+    "latitude": 28.588872499999997,
+    "longitude": 77.3317065,
+    "place_id": "ChIJq5bDFKjlDDkRnn-rXNrRgR8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq5bDFKjlDDkRnn-rXNrRgR8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:16:36"
+  }
+]

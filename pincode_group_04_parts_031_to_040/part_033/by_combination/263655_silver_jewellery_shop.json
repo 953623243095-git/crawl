@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swarn Sarovar The Jeweller",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "263655",
+    "phone_number": "+91 87707 91518",
+    "website": "http://www.swarnsarovar.com/",
+    "rating": 4.9,
+    "reviews_count": 2539,
+    "address": "Sarafa Bazaar, Dahi Mandi, Sarafa Bazar, Lashkar, Gwalior, Madhya Pradesh 474001",
+    "area": "Dahi Mandi, Sarafa Bazar, Lashkar",
+    "latitude": 26.2015504,
+    "longitude": 78.1511902,
+    "place_id": "ChIJVQ-WLNLFdjkRNZ7w6Du-fyI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVQ-WLNLFdjkRNZ7w6Du-fyI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:09:42"
+  },
+  {
+    "business_name": "Harsahaimal Shiamlal Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Diamond Merchant, Gold dealer, Goldsmith, Jeweler, Jewelry designer, Jewelry manufacturer, Gemstone Jeweler",
+    "pincode": "263655",
+    "phone_number": "+91 98370 01957",
+    "website": "https://hsj.co.in/",
+    "rating": 4.7,
+    "reviews_count": 292,
+    "address": "148, near Axis Bank, Civil Lines, Bareilly, Uttar Pradesh 243001",
+    "area": "Civil Lines",
+    "latitude": 28.3457315,
+    "longitude": 79.4207359,
+    "place_id": "ChIJTWMBUAgBoDkRtqP7vWH2VaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTWMBUAgBoDkRtqP7vWH2VaM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:09:42"
+  }
+]

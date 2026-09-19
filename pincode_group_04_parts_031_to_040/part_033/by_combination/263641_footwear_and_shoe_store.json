@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shoe studio",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "263641",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Katyur bazaar, near nainital woolens, near gurudwara galli, Bageshwar, Bari Khalsa, Uttarakhand 263642",
+    "area": "263641",
+    "latitude": 29.8383088,
+    "longitude": 79.7724377,
+    "place_id": "ChIJX-XD8FI1pzkRny6JMCYXN1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX-XD8FI1pzkRny6JMCYXN1Y",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 05:55:45"
+  },
+  {
+    "business_name": "Joshi Shoes and stationery",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "263641",
+    "phone_number": "+91 89230 95990",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Joshi Shoes and Stationery, golu market, Garur, Matena, Uttarakhand 263641",
+    "area": "263641",
+    "latitude": 29.901906999999998,
+    "longitude": 79.60827239999999,
+    "place_id": "ChIJxSd0URxPpzkRcLnNUyXmwe0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxSd0URxPpzkRcLnNUyXmwe0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 05:55:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubham Pandey",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "271129",
+    "phone_number": "+91 72105 81295",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chaudhry Purwa, Nawabganj, Uttar Pradesh 271303",
+    "area": "Chaudhry Purwa",
+    "latitude": 26.8651667,
+    "longitude": 82.1430554,
+    "place_id": "ChIJjxG0qQUBmjkRq752OiEg1EY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjxG0qQUBmjkRq752OiEg1EY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:48:03"
+  },
+  {
+    "business_name": "Nisha Thakur Makeover",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "271129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Narang Market, Ghantaghar, Chaudhry Purwa, Nawabganj, Uttar Pradesh 271303",
+    "area": "Ghantaghar, Chaudhry Purwa",
+    "latitude": 26.8653467,
+    "longitude": 82.141515,
+    "place_id": "ChIJ8z78OwABmjkR-ofnx_CMp2w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8z78OwABmjkR-ofnx_CMp2w",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:48:03"
+  }
+]

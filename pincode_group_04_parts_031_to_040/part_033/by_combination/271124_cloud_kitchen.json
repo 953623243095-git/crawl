@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "G. R. Food Center & Cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "271124",
+    "phone_number": "+91 94102 82044",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Itaura Chauraha, Gwalior Rd, Agra, Bhahai, Uttar Pradesh 282009",
+    "area": "271124",
+    "latitude": 27.081656799999998,
+    "longitude": 77.9966117,
+    "place_id": "ChIJM8hxTTVvdDkRT-x6OWDb0EQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM8hxTTVvdDkRT-x6OWDb0EQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:42:22"
+  },
+  {
+    "business_name": "SNAPMEAL THE CLOUD KITCHEN",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Indian takeaway",
+    "all_categories": "Indian takeaway, Food court, Meal delivery, Takeout restaurant, Restaurant, Tiffin center",
+    "pincode": "271124",
+    "phone_number": "+91 97998 66076",
+    "website": "https://snapmeal.my.canva.site/snapmeal",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "36, Shreeji Nagar, Arjun Nagar, Vasundhara Colony, Durgapura, Jaipur, Rajasthan 302018",
+    "area": "Shreeji Nagar, Arjun Nagar, Vasundhara Colony, Durgapura",
+    "latitude": 26.8464381,
+    "longitude": 75.7892925,
+    "place_id": "ChIJM00Gmoq1bTkRqNdqkl6NHCw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM00Gmoq1bTkRqNdqkl6NHCw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:42:22"
+  }
+]

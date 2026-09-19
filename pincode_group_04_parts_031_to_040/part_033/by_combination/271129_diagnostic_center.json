@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat ultrasound centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "271129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V48P+23W, Patparganj Rd, Louwabirpur, Uttar Pradesh 271303",
+    "area": "271129",
+    "latitude": 26.865123699999998,
+    "longitude": 82.13514409999999,
+    "place_id": "ChIJ3dFqQwABmjkR7z9CaCN8H3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3dFqQwABmjkR7z9CaCN8H3s",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:47:38"
+  },
+  {
+    "business_name": "Livguard",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "271129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "V49R+V36, Louwabirpur, Uttar Pradesh 271303",
+    "area": "271129",
+    "latitude": 26.8696682,
+    "longitude": 82.14015599999999,
+    "place_id": "ChIJ2RpBtU8BmjkRtqePmXb0U04",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2RpBtU8BmjkRtqePmXb0U04",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:47:40"
+  }
+]

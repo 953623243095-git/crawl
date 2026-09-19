@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "COMPETITION BOOK HOUSE",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "263679",
+    "phone_number": "+91 96272 07789",
+    "website": "http://www.combookstore.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "83MR+V9R, Golu Devta Mandir Marg, Champawat, Uttarakhand 262523",
+    "area": "263679",
+    "latitude": 29.3347494,
+    "longitude": 80.0909016,
+    "place_id": "ChIJ0ztovPvhoDkRS7rFU6-s4dA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0ztovPvhoDkRS7rFU6-s4dA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:31:21"
+  },
+  {
+    "business_name": "Just Books haldwani",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "263679",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "6GRM+FVR, Brij Vihar, Bhotia Parao, Uttarakhand 263139",
+    "area": "Brij Vihar, Bhotia Parao",
+    "latitude": 29.241230599999998,
+    "longitude": 79.53463699999999,
+    "place_id": "ChIJIV9GxBaboDkRAxS3DKVoKKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIV9GxBaboDkRAxS3DKVoKKo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:31:21"
+  }
+]

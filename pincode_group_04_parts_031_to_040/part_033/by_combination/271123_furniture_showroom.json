@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "B.K Furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "271123",
+    "phone_number": "+91 80817 76615",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pandey pur, Gonda, Ummed Jot, Uttar Pradesh 271123",
+    "area": "271123",
+    "latitude": 27.098717699999998,
+    "longitude": 82.0063198,
+    "place_id": "ChIJE5ftEADxmTkRtiI4WFkvq4k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE5ftEADxmTkRtiI4WFkvq4k",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:41:19"
+  },
+  {
+    "business_name": "Home Decor Furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "271123",
+    "phone_number": "+91 83294 97399",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Faizabad Rd, near Bhiwandi Dhaba, Gonda, Pure Shiva Bakhtawar, Uttar Pradesh 271002",
+    "area": "271123",
+    "latitude": 27.1119374,
+    "longitude": 81.984321,
+    "place_id": "ChIJZVwCDH_xmTkRKdVoEcRSYEc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZVwCDH_xmTkRKdVoEcRSYEc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:41:20"
+  }
+]

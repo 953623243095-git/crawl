@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Janta mutton and chicken shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat products store",
+    "all_categories": "Meat products store",
+    "pincode": "263667",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "HALDWANi road Pichari, Nainital, Uttarakhand 263001",
+    "area": "Tallital",
+    "latitude": 29.379925099999998,
+    "longitude": 79.4635938,
+    "place_id": "ChIJMSNyFRmhoDkRFlieG5ZdAgY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMSNyFRmhoDkRFlieG5ZdAgY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:25:03"
+  },
+  {
+    "business_name": "Kumaon Chicken & Mutton Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "263667",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": null,
+    "address": "6FHQ+VX8, Block, Anand Vihar, Haldwani, Uttarakhand 263139",
+    "area": "Anand Vihar",
+    "latitude": 29.229673,
+    "longitude": 79.4899387,
+    "place_id": "ChIJBSoFfrmboDkR9QKJLrvvpqU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBSoFfrmboDkR9QKJLrvvpqU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:25:05"
+  }
+]

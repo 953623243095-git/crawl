@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Classic pure veg restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "263661",
+    "phone_number": "+91 88519 14960",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 19,
+    "address": "NH 7, Lachmoli, Uttarakhand 249126",
+    "area": "263661",
+    "latitude": 30.236256599999997,
+    "longitude": 78.69445259999999,
+    "place_id": "ChIJtxm8ckGpCTkRQDMMk_-c4LE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtxm8ckGpCTkRQDMMk_-c4LE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:18:07"
+  },
+  {
+    "business_name": "Kushar Restaurant & Cafe #Pure Vegetarian",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Family restaurant",
+    "pincode": "263661",
+    "phone_number": "+91 95571 34775",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 103,
+    "address": "By-pass Road, beside Flower Paradise Nursery, Bhimtal, Uttarakhand 263136",
+    "area": "263661",
+    "latitude": 29.357058799999997,
+    "longitude": 79.5463996,
+    "place_id": "ChIJr18Yn7iZoDkRhCoZP1B-EiU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr18Yn7iZoDkRhCoZP1B-EiU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:18:07"
+  }
+]

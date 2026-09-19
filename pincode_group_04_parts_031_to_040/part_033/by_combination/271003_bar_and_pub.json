@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ranjit Bala",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "271003",
+    "phone_number": "+91 90828 03114",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gonda Bibb, Jvgv Gon, Gonda, Chilbila Kahttipur, Uttar Pradesh 271003",
+    "area": "Jvgv Gon",
+    "latitude": 27.187839999999998,
+    "longitude": 81.9487383,
+    "place_id": "ChIJy1aaJ_TtmTkR31mrl9Y7XjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy1aaJ_TtmTkR31mrl9Y7XjI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:37:14"
+  },
+  {
+    "business_name": "Beer Shop",
+    "search_category": "Bar and Pub",
+    "primary_category": "Wine store",
+    "all_categories": "Wine store",
+    "pincode": "271003",
+    "phone_number": "+91 83769 62514",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chawani 25, Mankapur, Uttar Pradesh 271302",
+    "area": "271003",
+    "latitude": 27.0494706,
+    "longitude": 82.2191598,
+    "place_id": "ChIJe6_pdkFVlzkRAX-MMDJ-8wY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe6_pdkFVlzkRAX-MMDJ-8wY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:37:17"
+  }
+]

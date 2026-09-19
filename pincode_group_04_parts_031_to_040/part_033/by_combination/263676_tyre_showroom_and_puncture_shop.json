@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bajrang Automobiles",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "263676",
+    "phone_number": "+91 80060 22226",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Prempur Loshgyani, Gas Godam Rd, near apram marbel, Haldwani, Uttarakhand 263139",
+    "area": "263676",
+    "latitude": 29.191704299999998,
+    "longitude": 79.4805042,
+    "place_id": "ChIJoeAZA_GboDkRDmhFkqNjy1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoeAZA_GboDkRDmhFkqNjy1U",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:27:21"
+  },
+  {
+    "business_name": "Shiv Motors",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "263676",
+    "phone_number": "+91 93125 01512",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 6,
+    "address": "Ranikhet Road, Bhowali, Sukha, Uttarakhand 263132",
+    "area": "Bhowali",
+    "latitude": 29.3903473,
+    "longitude": 79.51265959999999,
+    "place_id": "ChIJv-8GZXWjoDkRR3byhORJPSk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv-8GZXWjoDkRR3byhORJPSk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:27:24"
+  }
+]

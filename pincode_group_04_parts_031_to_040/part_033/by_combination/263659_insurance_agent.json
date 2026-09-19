@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NEGI CSC AND COMPUTER CENTRE",
+    "search_category": "Insurance Agent",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Bank, Life insurance agency, Stamp shop",
+    "pincode": "263659",
+    "phone_number": "+91 97608 37481",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "SARAIKHET, Syaldey, Uttarakhand 263661",
+    "area": "263659",
+    "latitude": 29.891197299999998,
+    "longitude": 79.12105009999999,
+    "place_id": "ChIJuxBA2YjxCTkR7yNR_COMkaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuxBA2YjxCTkR7yNR_COMkaM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:15:51"
+  },
+  {
+    "business_name": "Insurance Experts",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Service establishment",
+    "pincode": "263659",
+    "phone_number": "+91 98145 09952",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 23,
+    "address": "Insurance Experts, 263659, India",
+    "area": "263659",
+    "latitude": 30.9003452,
+    "longitude": 75.8566733,
+    "place_id": "ChIJB7mzfDWDGjkRlyLPyNnerEI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB7mzfDWDGjkRlyLPyNnerEI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:15:52"
+  }
+]

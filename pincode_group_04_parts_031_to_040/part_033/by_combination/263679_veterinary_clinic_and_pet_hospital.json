@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Veterinary Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterans hospital",
+    "all_categories": "Veterans hospital",
+    "pincode": "263679",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 37,
+    "address": "Training and Placement Cell, Pantnagar, Tanda Range, Uttarakhand 263145",
+    "area": "263679",
+    "latitude": 29.0263271,
+    "longitude": 79.4882161,
+    "place_id": "ChIJ2QAVx0CHoDkR5F3XpioAEx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2QAVx0CHoDkR5F3XpioAEx4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:30:41"
+  },
+  {
+    "business_name": "Government Veterinary Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "263679",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 4,
+    "address": "RVHM+274, Bageshwar-Munsyari Rd, Tharp, Bhanker Pant, Uttarakhand 263631",
+    "area": "Tharp",
+    "latitude": 29.827516499999998,
+    "longitude": 79.8832092,
+    "place_id": "ChIJNXvTK1AypzkRYZXOLL_aGuQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNXvTK1AypzkRYZXOLL_aGuQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:30:42"
+  }
+]

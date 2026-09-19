@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kumar Telecom",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "263680",
+    "phone_number": "+91 73515 52338",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "M674+WF5, CHamkhala-Quairala-Dabhara Rd, Denura, Chamkana Adha, Uttarakhand 263667",
+    "area": "263680",
+    "latitude": 29.664763299999997,
+    "longitude": 79.206239,
+    "place_id": "ChIJ91PgrS4DCjkRTT_mNwaj2zo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ91PgrS4DCjkRTT_mNwaj2zo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:33:11"
+  },
+  {
+    "business_name": "New Star Telecom",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider, Electronics store, Cell phone accessory store",
+    "pincode": "263680",
+    "phone_number": "+91 63959 67707",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Beside Bank Of Baroda Nadehi, Kashipur, Uttarakhand 244717",
+    "area": "263680",
+    "latitude": 29.2851464,
+    "longitude": 78.7713819,
+    "place_id": "ChIJt9CycehJCjkRvNTAF-dbcjo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt9CycehJCjkRvNTAF-dbcjo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:33:11"
+  }
+]

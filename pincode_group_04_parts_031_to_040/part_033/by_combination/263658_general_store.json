@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhakuni General Store",
+    "search_category": "General Store",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "263658",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 7,
+    "address": "P6CC+P2R, Almora, Uttarakhand 263667",
+    "area": "263658",
+    "latitude": 29.7218552,
+    "longitude": 79.220001,
+    "place_id": "ChIJV5fpCwv4CTkRUvcrjh7JuAw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV5fpCwv4CTkRUvcrjh7JuAw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:12:59"
+  },
+  {
+    "business_name": "Rawat General Store",
+    "search_category": "General Store",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "263658",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "R78J+HP6, Masi, Uttarakhand 263658",
+    "area": "263658",
+    "latitude": 29.8164178,
+    "longitude": 79.281773,
+    "place_id": "ChIJ_Xk8CP37CTkR-GNa7yQtABI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_Xk8CP37CTkR-GNa7yQtABI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:12:59"
+  }
+]

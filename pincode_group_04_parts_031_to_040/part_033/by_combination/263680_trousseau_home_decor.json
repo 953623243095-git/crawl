@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deco World",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator, Rug store",
+    "pincode": "263680",
+    "phone_number": "+91 94120 52339",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 119,
+    "address": "108, EC Road, opposite Hill grange school, Race Course, Dehradun, Uttarakhand 248001",
+    "area": "Race Course",
+    "latitude": 30.3178065,
+    "longitude": 78.05002139999999,
+    "place_id": "ChIJR6b2oy8pCTkRHCVwpN8LuPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR6b2oy8pCTkRHCVwpN8LuPw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:32:58"
+  },
+  {
+    "business_name": "Gold Dust Home Decor",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "263680",
+    "phone_number": "+91 74068 18283",
+    "website": "https://goldduststyle.in/",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "242, ITBP Rd, opp. Hotel Sunpark Inn, off GMS Road, Chakki Tola, Sailok, Niranjanpur, Dehradun, Uttarakhand 248171",
+    "area": "Chakki Tola, Sailok, Niranjanpur",
+    "latitude": 30.305371299999997,
+    "longitude": 78.0028856,
+    "place_id": "ChIJB6VLUaQrCTkR-ZiSgBUvcuA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB6VLUaQrCTkR-ZiSgBUvcuA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:32:58"
+  }
+]

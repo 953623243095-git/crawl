@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohan Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler, Jewelry store",
+    "pincode": "271123",
+    "phone_number": "+91 94505 19822",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Sonar gali road, Wazir Ganj, Uttar Pradesh 271124",
+    "area": "271123",
+    "latitude": 26.9587146,
+    "longitude": 82.11937739999999,
+    "place_id": "ChIJN8JNNwD5mTkR1qq4dkrs0L4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN8JNNwD5mTkR1qq4dkrs0L4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:40:44"
+  },
+  {
+    "business_name": "Ananya Jwellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "271123",
+    "phone_number": "+91 99845 20823",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Dumariyadeeh Tarabganj Road Maharajganj Kashipur, Gonda, Uttar Pradesh 271403",
+    "area": "271123",
+    "latitude": 27.000904199999997,
+    "longitude": 82.0477703,
+    "place_id": "ChIJ50IG8Dz5mTkRMMS-sZt7Mqc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ50IG8Dz5mTkRMMS-sZt7Mqc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:40:46"
+  }
+]

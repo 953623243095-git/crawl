@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sachin Tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "271003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Garibi Purva, Khaira, Gonda, Uttar Pradesh 271001",
+    "area": "Garibi Purva, Khaira",
+    "latitude": 27.1463075,
+    "longitude": 81.9755385,
+    "place_id": "ChIJ8Rrc-onvmTkRKO47J1X2tJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Rrc-onvmTkRKO47J1X2tJY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:37:19"
+  },
+  {
+    "business_name": "Beauty Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "271003",
+    "phone_number": "+91 94152 51193",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4XM7+MWF, Eidgah Road, Patel Nager, Bharatpuri, Gonda, Uttar Pradesh 271003",
+    "area": "Patel Nager, Bharatpuri",
+    "latitude": 27.1341888,
+    "longitude": 81.9647825,
+    "place_id": "ChIJq2ZfKR3umTkRVucMXvwQnmA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq2ZfKR3umTkRVucMXvwQnmA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:37:19"
+  }
+]

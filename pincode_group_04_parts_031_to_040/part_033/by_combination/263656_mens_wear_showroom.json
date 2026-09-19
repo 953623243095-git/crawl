@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion Alley",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Women's clothing store",
+    "pincode": "263656",
+    "phone_number": "+91 94127 16277",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "NH 109, Mehalchauri, Uttarakhand 246431",
+    "area": "263656",
+    "latitude": 29.9839795,
+    "longitude": 79.3229185,
+    "place_id": "ChIJR3uH5sXjCTkRSY2FwDtQx3A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR3uH5sXjCTkRSY2FwDtQx3A",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:11:23"
+  },
+  {
+    "business_name": "Katyura Garments & Footwear Ganganagar Deghat",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Footwear wholesaler",
+    "pincode": "263656",
+    "phone_number": "+91 73512 05773",
+    "website": "N/A",
+    "rating": 2.7,
+    "reviews_count": null,
+    "address": "W62F+HV9, Badrinath Rd, Deghat Market, Deghat, Okhalyun, Uttarakhand 263659",
+    "area": "Deghat Market",
+    "latitude": 29.901405999999998,
+    "longitude": 79.224721,
+    "place_id": "ChIJdU-5LTXlCTkRAn4um2SI-Fw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdU-5LTXlCTkRAn4um2SI-Fw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:11:23"
+  }
+]

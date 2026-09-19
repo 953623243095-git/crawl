@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhanlakshmi Stationery",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "263661",
+    "phone_number": "+91 72529 21640",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Garhwal Sabha, Jaspur Khurd, Kashipur, Uttarakhand 244713",
+    "area": "Kundeshwari",
+    "latitude": 29.210820299999998,
+    "longitude": 78.9728822,
+    "place_id": "ChIJ5czOrMBDCjkRm3JGb97p54I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5czOrMBDCjkRm3JGb97p54I",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:19:10"
+  },
+  {
+    "business_name": "DOON BOOKS DEPO STATIONARY",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Book store",
+    "pincode": "263661",
+    "phone_number": "+91 83930 47530",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Koti Rd, Ranipokhri Nagar, Athhoorwala, Uttarakhand 248145",
+    "area": "Ranipokhri Nagar",
+    "latitude": 30.1720993,
+    "longitude": 78.1639483,
+    "place_id": "ChIJcToeTQAlCTkRhvB9IWgjPuA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcToeTQAlCTkRhvB9IWgjPuA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:19:10"
+  }
+]

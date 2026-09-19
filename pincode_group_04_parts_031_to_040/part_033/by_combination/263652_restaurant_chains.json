@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kalsang Cafe and Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Bar, Chinese restaurant, Korean restaurant, Thai restaurant, Tibetan restaurant",
+    "pincode": "263652",
+    "phone_number": "+91 95572 70285",
+    "website": "https://www.kalsangrestaurants.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "88 A, Rajpur Rd, opposite Osho, Chander Lok Colony, Hathibarkala Salwala, Dehradun, Uttarakhand 248001",
+    "area": "Chander Lok Colony, Hathibarkala Salwala",
+    "latitude": 30.346883799999997,
+    "longitude": 78.06265619999999,
+    "place_id": "ChIJCd1xZc3XCDkRoRhjgOHQejM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCd1xZc3XCDkRoRhjgOHQejM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:06:07"
+  },
+  {
+    "business_name": "Tamarind Multi Cuisine Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant, Family restaurant",
+    "pincode": "263652",
+    "phone_number": "+91 99970 39999",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "70, roorkee, near by tamarind rastaurant, Civil Lines, Roorkee, Uttarakhand 247667",
+    "area": "Civil Lines",
+    "latitude": 29.8723693,
+    "longitude": 77.8919227,
+    "place_id": "ChIJmeyW73yzDjkRlfONpqERiUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmeyW73yzDjkRlfONpqERiUs",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:06:07"
+  }
+]

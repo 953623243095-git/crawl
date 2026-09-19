@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jeewan Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "271129",
+    "phone_number": "+91 98730 48789",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Faizabad Bypass, near Munnan Khan Chauraha, opp. MK Marrieage Hall, Road, Jhanjhari Block, Gonda, Uttar Pradesh 271001",
+    "area": "Road, Jhanjhari Block",
+    "latitude": 27.1218994,
+    "longitude": 81.9766472,
+    "place_id": "ChIJF8EKflPxmTkRsUl7SQ7Dlp8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF8EKflPxmTkRsUl7SQ7Dlp8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:47:35"
+  },
+  {
+    "business_name": "Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "271129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "29, Bargaon, Veer Pur, Gonda, Keswapur Pahrwa, Uttar Pradesh 271003",
+    "area": "Bargaon, Veer Pur",
+    "latitude": 27.150300899999998,
+    "longitude": 81.96910249999999,
+    "place_id": "ChIJxRglLADvmTkRYyl9TGzZqWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxRglLADvmTkRYyl9TGzZqWU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:47:35"
+  }
+]

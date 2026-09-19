@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lohia Distributors",
+    "search_category": "Importers",
+    "primary_category": "Supplier",
+    "all_categories": "Supplier",
+    "pincode": "271003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4XP7+FV8, in front of Tiranga market, Bharatpuri, Gonda, Uttar Pradesh 271003",
+    "area": "Bharatpuri",
+    "latitude": 27.136171899999997,
+    "longitude": 81.9647165,
+    "place_id": "ChIJb0HRYq7vmTkRTTyGe1itJuQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb0HRYq7vmTkRTTyGe1itJuQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:38:34"
+  },
+  {
+    "business_name": "Digogenic Ventures Pvt Ltd",
+    "search_category": "Importers",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "271003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "701/1, 2, near Raghukul Vidyapeeth, Civil Line, Gonda, Uttar Pradesh 271003",
+    "area": "Civil Line, Jhanjhari Block",
+    "latitude": 27.125786599999998,
+    "longitude": 81.9473465,
+    "place_id": "ChIJr50uQKzzmTkR2ox_SmlqZfk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr50uQKzzmTkR2ox_SmlqZfk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:38:34"
+  }
+]

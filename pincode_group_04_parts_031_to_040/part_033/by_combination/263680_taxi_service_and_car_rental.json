@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tomar Tour & Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Car leasing service, Taxi service",
+    "pincode": "263680",
+    "phone_number": "+91 96900 12773",
+    "website": "https://www.tomartourandtravels.in/",
+    "rating": 4.8,
+    "reviews_count": 58,
+    "address": "S -98, BHEL, C Cluster, Shivalik Nagar, Haridwar, Bharat Heavy Electrical Limited Ran, Uttarakhand 249403",
+    "area": "C Cluster, Shivalik Nagar",
+    "latitude": 29.935335199999997,
+    "longitude": 78.0737157,
+    "place_id": "ChIJP-Wa9r9JCTkR_MOfZssZKwA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP-Wa9r9JCTkR_MOfZssZKwA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:32:31"
+  },
+  {
+    "business_name": "Tomar tour and cab service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "263680",
+    "phone_number": "+91 90580 60324",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 23,
+    "address": "Dhakia Gulabo Rd, Kashipur, Uttarakhand 244713",
+    "area": "263680",
+    "latitude": 29.1935322,
+    "longitude": 78.95075849999999,
+    "place_id": "ChIJF41AfHpDCjkRkaczPTZ9Egs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF41AfHpDCjkRkaczPTZ9Egs",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:32:31"
+  }
+]

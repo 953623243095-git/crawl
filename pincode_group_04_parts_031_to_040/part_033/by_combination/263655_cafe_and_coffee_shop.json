@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jag Caffe & Restaurant",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "263655",
+    "phone_number": "+91 70886 84870",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "JM6P+9H8, Kalet, Uttarakhand 263601",
+    "area": "263655",
+    "latitude": 29.610913699999998,
+    "longitude": 79.68646509999999,
+    "place_id": "ChIJJ3H0RXq3oDkRi77trMkDnC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ3H0RXq3oDkRi77trMkDnC8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:09:36"
+  },
+  {
+    "business_name": "Ibycafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "263655",
+    "phone_number": "+91 74179 52337",
+    "website": "https://www.instagram.com/tibetan_iby_cafe_?igsh=b3VuN2VxdTRiejI5",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Mat, Uttarakhand 263601",
+    "area": "263655",
+    "latitude": 29.644672699999997,
+    "longitude": 79.6620885,
+    "place_id": "ChIJd_RrqR-3oDkRFrIZJHpd00M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd_RrqR-3oDkRFrIZJHpd00M",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:09:36"
+  }
+]

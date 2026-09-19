@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pankaj Pharmacy",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "263653",
+    "phone_number": "+91 94124 78099",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "DUNAGIRI ROAD, Dwarahat, Uttarakhand 263653",
+    "area": "263653",
+    "latitude": 29.7757203,
+    "longitude": 79.4321092,
+    "place_id": "ChIJV2JlduVVpzkRmYPUZxVBn8o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV2JlduVVpzkRmYPUZxVBn8o",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:08:00"
+  },
+  {
+    "business_name": "बजेठा मेडिकल स्टोर",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "263653",
+    "phone_number": "+91 97198 26010",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QC5H+96G, Ranikhet-Dwarahat Raod, Egyara, Uttarakhand 263653",
+    "area": "263653",
+    "latitude": 29.758426399999998,
+    "longitude": 79.4280776,
+    "place_id": "ChIJpRD2YuBUpzkRC0Wwj7XvAQU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpRD2YuBUpzkRC0Wwj7XvAQU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:08:02"
+  }
+]

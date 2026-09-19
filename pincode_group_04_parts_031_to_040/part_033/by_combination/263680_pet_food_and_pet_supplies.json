@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dog Lovers Almora",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "263680",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Talla kholta near jal nigam colony lower maal road, Almora, Uttarakhand 263601",
+    "area": "263680",
+    "latitude": 29.5821848,
+    "longitude": 79.63617479999999,
+    "place_id": "ChIJC4LIqM6xoDkRCWzpBBpMGaA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC4LIqM6xoDkRCWzpBBpMGaA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:32:00"
+  },
+  {
+    "business_name": "Rachna general store",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "263680",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ghandhi chowk, chokhan patha, Almora, Uttarakhand 263601",
+    "area": "Dugalkhola",
+    "latitude": 29.589240699999998,
+    "longitude": 79.646666,
+    "place_id": "ChIJf_LbUc6xoDkR0Y8GjwE9a6w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf_LbUc6xoDkR0Y8GjwE9a6w",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:32:00"
+  }
+]

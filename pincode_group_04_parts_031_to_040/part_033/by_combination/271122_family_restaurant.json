@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Baijnath Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "271122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Arya Nagar, Bahraich - Gonda Rd, near Police Chauki, Araya Nagar, Manohar Jot, Uttar Pradesh 271122",
+    "area": "Araya Nagar",
+    "latitude": 27.284806999999997,
+    "longitude": 81.91704299999999,
+    "place_id": "ChIJYWGMLfDrmTkRmz8DdNwP9Xw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYWGMLfDrmTkRmz8DdNwP9Xw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:38:56"
+  },
+  {
+    "business_name": "Shri Ram Family Daba And Restaurants",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "271122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "62V4+Q25, Bhadwal, Uttar Pradesh 271202",
+    "area": "271122",
+    "latitude": 27.2443907,
+    "longitude": 82.0051201,
+    "place_id": "ChIJe7FL-9XpmTkRg5ry2vaX5pY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe7FL-9XpmTkRg5ry2vaX5pY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:38:59"
+  }
+]

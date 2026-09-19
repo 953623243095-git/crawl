@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navin Pustakalaya",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "271126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "GX5F+W2Q, Dhoodar Ali Road, Golaghat, Assam 785621",
+    "area": "271126",
+    "latitude": 26.509839099999997,
+    "longitude": 93.97261309999999,
+    "place_id": "ChIJIcVj2GOORjcRhYjLGsDKasc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIcVj2GOORjcRhYjLGsDKasc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:46:40"
+  },
+  {
+    "business_name": "Maaruti Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Print shop, Stationery store",
+    "pincode": "271126",
+    "phone_number": "+91 91617 39060",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Adarsh Nagar, Matiyari, Kamta, Lucknow, Uttar Pradesh 226028",
+    "area": "Adarsh Nagar, Matiyari, Kamta",
+    "latitude": 26.8848299,
+    "longitude": 81.0418571,
+    "place_id": "ChIJtzfDfevjmzkRHwyfQEFRQhU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtzfDfevjmzkRHwyfQEFRQhU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:46:40"
+  }
+]

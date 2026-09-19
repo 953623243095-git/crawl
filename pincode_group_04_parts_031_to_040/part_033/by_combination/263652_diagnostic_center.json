@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kholiya medical store",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "263652",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MHCG+5JW, Gaijole, Uttarakhand 263655",
+    "area": "263652",
+    "latitude": 29.670285699999997,
+    "longitude": 79.57695989999999,
+    "place_id": "ChIJ83AYHACzoDkRTUqnnQa7ztk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ83AYHACzoDkRTUqnnQa7ztk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:06:20"
+  },
+  {
+    "business_name": "Somnath Medical store",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "263652",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "QJJ3+JHC, Someshwar, Uttarakhand 263637",
+    "area": "263652",
+    "latitude": 29.781572999999998,
+    "longitude": 79.6038842,
+    "place_id": "ChIJt5ZUQJtNpzkRObK4PGPof0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt5ZUQJtNpzkRObK4PGPof0Y",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:06:20"
+  }
+]

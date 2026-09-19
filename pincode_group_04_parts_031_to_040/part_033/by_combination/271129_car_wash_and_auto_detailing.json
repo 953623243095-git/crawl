@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonu Car Washing",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "271129",
+    "phone_number": "+91 88749 66759",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mankapur, Chhapaiya, Uttar Pradesh 271305",
+    "area": "271129",
+    "latitude": 26.9687448,
+    "longitude": 82.39111989999999,
+    "place_id": "ChIJBy5c4fFNlzkReVlqVsTQw2k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBy5c4fFNlzkReVlqVsTQw2k",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:47:42"
+  },
+  {
+    "business_name": "Siddqui Dhulai Center",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "271129",
+    "phone_number": "+91 82996 42941",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Mankapur, Uttar Pradesh 271302",
+    "area": "271129",
+    "latitude": 27.0522234,
+    "longitude": 82.2240162,
+    "place_id": "ChIJvdt02ghVlzkR9stgraWth4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvdt02ghVlzkR9stgraWth4o",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:47:44"
+  }
+]

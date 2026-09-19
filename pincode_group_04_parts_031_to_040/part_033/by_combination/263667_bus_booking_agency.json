@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khalsa Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "263667",
+    "phone_number": "+91 95683 07122",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "49, pant market, near kundan sweet, Kashipur, Uttarakhand 244713",
+    "area": "263667",
+    "latitude": 29.210635699999997,
+    "longitude": 78.96136159999999,
+    "place_id": "ChIJrUMq77lDCjkRLSfLu_rL6ic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrUMq77lDCjkRLSfLu_rL6ic",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:25:39"
+  },
+  {
+    "business_name": "Kedar Holidays - Tempo Traveller and Bus Service",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus company",
+    "all_categories": "Bus company, Minibus taxi service",
+    "pincode": "263667",
+    "phone_number": "+91 82180 44955",
+    "website": "https://kedarholidays.com/",
+    "rating": 4.9,
+    "reviews_count": 16,
+    "address": "near St Joseph Convent School, Shiboo Nagar, Kotdwar, Simalchaur, Uttarakhand 246150",
+    "area": "Shiboo Nagar",
+    "latitude": 29.7470301,
+    "longitude": 78.49402979999999,
+    "place_id": "ChIJ1fC02sgae0ARHkpjWV1_WZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1fC02sgae0ARHkpjWV1_WZU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:25:39"
+  }
+]

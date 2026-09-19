@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GoMechanic",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "263663",
+    "phone_number": "+91 83989 70970",
+    "website": "https://gomechanic.in/",
+    "rating": 4.3,
+    "reviews_count": 11,
+    "address": "Salempur - Deoria Rd, Salempur, Sugahi, Uttar Pradesh 274509",
+    "area": "263663",
+    "latitude": 26.2981573,
+    "longitude": 83.9179537,
+    "place_id": "ChIJ2bDwnG21kzkRQYz4s26dnTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2bDwnG21kzkRQYz4s26dnTk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:20:18"
+  },
+  {
+    "business_name": "Volkswagen Dealer: Dehradun",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Volkswagen dealer",
+    "all_categories": "Volkswagen dealer",
+    "pincode": "263663",
+    "phone_number": "+91 96340 91117",
+    "website": "https://vw-dehradun.co.in/",
+    "rating": 4.5,
+    "reviews_count": 1264,
+    "address": "DDPM Tower, By-Pass Road, near Hyundai Showroom, Ajabpur Khurd, Dehradun, Chakbanjarewala, Uttarakhand 248121",
+    "area": "Ajabpur Khurd",
+    "latitude": 30.287598499999998,
+    "longitude": 78.0323555,
+    "place_id": "ChIJjwZU_7wpCTkR5GWcnz8M0ro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjwZU_7wpCTkR5GWcnz8M0ro",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:20:19"
+  }
+]

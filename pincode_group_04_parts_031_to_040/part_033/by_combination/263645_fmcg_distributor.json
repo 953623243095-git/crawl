@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madan Lal Sah and Company",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Wholesale grocer",
+    "all_categories": "Wholesale grocer, FMCG Goods Wholesaler",
+    "pincode": "263645",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nainital road, Bhowali, Bhawanipur, Sukha, Uttarakhand 263132",
+    "area": "Bhowali",
+    "latitude": 29.387151399999997,
+    "longitude": 79.5139433,
+    "place_id": "ChIJM7gOOfWjoDkRpkoOz6bDrgs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM7gOOfWjoDkRpkoOz6bDrgs",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:00:40"
+  },
+  {
+    "business_name": "Devesh General Store",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "263645",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "FFMH+W9W, Garampani, NH 87, Chhara, Uttarakhand 263135",
+    "area": "263645",
+    "latitude": 29.484873999999998,
+    "longitude": 79.478439,
+    "place_id": "ChIJ5be-JS2loDkRMj8_bbq8M9E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5be-JS2loDkRMj8_bbq8M9E",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:00:41"
+  }
+]

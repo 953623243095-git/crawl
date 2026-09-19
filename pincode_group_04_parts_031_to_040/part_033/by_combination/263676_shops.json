@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chanch East",
+    "search_category": "Shops",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "263676",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Paisiya Pipna Road, Paisiya, Uttarakhand 263676",
+    "area": "263676",
+    "latitude": 29.7137145,
+    "longitude": 79.1699387,
+    "place_id": "ChIJ-4jLndj3CTkR_WyAjP_7N8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-4jLndj3CTkR_WyAjP_7N8I",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:28:28"
+  },
+  {
+    "business_name": "Uniyal General Store",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "263676",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bangidhar Rd, Jalikhan, Barhaliya, Uttarakhand 263676",
+    "area": "263676",
+    "latitude": 29.6751507,
+    "longitude": 79.15200639999999,
+    "place_id": "ChIJ2URwdHQdCjkRhNRrU6OgyZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2URwdHQdCjkRhNRrU6OgyZA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:28:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucknow Decorators",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Florist",
+    "pincode": "271002",
+    "phone_number": "+91 97214 44447",
+    "website": "http://www.instagram.com/lucknowdecorators",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Inox, RiverSide Mall, near Hotel TAJ Mahal, Vipin Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vipin Khand, Gomti Nagar",
+    "latitude": 26.8529715,
+    "longitude": 80.9732169,
+    "place_id": "ChIJx-Pl10T9mzkR7BQks5GYRXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx-Pl10T9mzkR7BQks5GYRXY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:36:23"
+  },
+  {
+    "business_name": "Gifting Square",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "271002",
+    "phone_number": "+91 73765 02086",
+    "website": "http://www.giftingsquare.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No.3, Shalimar Gallant, Vigyanpuri Colony, Mahanagar, Lucknow, Uttar Pradesh 226006",
+    "area": "Vigyanpuri Colony, Mahanagar",
+    "latitude": 26.883028399999997,
+    "longitude": 80.95599039999999,
+    "place_id": "ChIJK9K_XqmWhQkRwbVpVP31ukU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK9K_XqmWhQkRwbVpVP31ukU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:36:23"
+  }
+]

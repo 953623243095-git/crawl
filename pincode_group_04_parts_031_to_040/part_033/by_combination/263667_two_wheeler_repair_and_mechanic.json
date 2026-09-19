@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aman Bike Repair Center",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "263667",
+    "phone_number": "+91 99170 91492",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kundeshewari Kundeshewari, Road, Kashipur, Mehtabwan, Uttarakhand 244713",
+    "area": "Road",
+    "latitude": 29.212791499999998,
+    "longitude": 79.0749211,
+    "place_id": "ChIJ7VLxn8ppCjkRpipfZEdtk9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7VLxn8ppCjkRpipfZEdtk9s",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:25:33"
+  },
+  {
+    "business_name": "GT Racing Store",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Motorcycle parts store",
+    "all_categories": "Motorcycle parts store, Auto insurance agency, Bike wash, Motor scooter repair shop, Motorcycle shop",
+    "pincode": "263667",
+    "phone_number": "+91 70171 15575",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 39,
+    "address": "GT Racing Store, Rudrapur Rd, near nainital bank, Uttaranchal Colony, Kichha, Uttarakhand 263148",
+    "area": "Uttaranchal Colony",
+    "latitude": 28.9134532,
+    "longitude": 79.5115671,
+    "place_id": "ChIJa2sOdUx9oDkRoOBz0VZjz9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa2sOdUx9oDkRoOBz0VZjz9M",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:25:35"
+  }
+]

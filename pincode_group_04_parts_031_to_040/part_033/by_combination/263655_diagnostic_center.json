@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apollo Diagnostics",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service, HIV testing center, Laboratory, Medical Center, Medical clinic, Medical diagnostic imaging center, Paternity testing service, Pathologist, STD testing service",
+    "pincode": "263655",
+    "phone_number": "+91 84453 22220",
+    "website": "https://www.apollodiagnostics.in/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Life Care Pathology, Landhora Rd, opp. Police Station, Mohalla Kila, Manglaur, Uttarakhand 247656",
+    "area": "Mohalla Kila",
+    "latitude": 29.7939968,
+    "longitude": 77.8778906,
+    "place_id": "ChIJw9juu5yzDjkREwC-8lIq8_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw9juu5yzDjkREwC-8lIq8_4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:09:53"
+  },
+  {
+    "business_name": "Aarna diagnostics centre Selaqui - Blood Test | Xray | ECG | CT SCAN |",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service, Health consultant, Medical diagnostic imaging center, Naturopathic practitioner, Pathologist",
+    "pincode": "263655",
+    "phone_number": "+91 99971 95742",
+    "website": "https://aarnadiagnosticcentre.com/",
+    "rating": 4.9,
+    "reviews_count": 73,
+    "address": "1, Chakrata Rd, near Rohan Motors, Selakui, Central Hope Town, Uttarakhand 248011",
+    "area": "263655",
+    "latitude": 30.3534252,
+    "longitude": 77.8587519,
+    "place_id": "ChIJJ1dvZAArDzkRtINMKb_LCFc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ1dvZAArDzkRtINMKb_LCFc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:09:53"
+  }
+]

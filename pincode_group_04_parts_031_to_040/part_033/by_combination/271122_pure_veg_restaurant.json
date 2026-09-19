@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hari OM Family Restaurant & Lawn",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "271122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "ARYA NAGAR, Bahraich Road, Gonda, Uttar Pradesh 271122",
+    "area": "271122",
+    "latitude": 27.290052499999998,
+    "longitude": 81.9115703,
+    "place_id": "ChIJX4V4eaTrmTkR9ngHqdJcoyg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX4V4eaTrmTkR9ngHqdJcoyg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:38:51"
+  },
+  {
+    "business_name": "Grand S R Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "271122",
+    "phone_number": "+91 84237 49980",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Sadar Bazar, Colonelganj, Uttar Pradesh 271502",
+    "area": "Sadar Bazar",
+    "latitude": 27.1297748,
+    "longitude": 81.70196349999999,
+    "place_id": "ChIJXwSqFACRmTkR2ZldFJPyEDs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXwSqFACRmTkR2ZldFJPyEDs",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:38:52"
+  }
+]

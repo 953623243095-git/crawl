@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fartyal General Store",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "263678",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "HG2H+28P, Shiroe, Uttarakhand 263601",
+    "area": "263678",
+    "latitude": 29.550080299999998,
+    "longitude": 79.5283281,
+    "place_id": "ChIJP5wuIwCloDkRetHCQQDuVgg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP5wuIwCloDkRetHCQQDuVgg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:28:27"
+  },
+  {
+    "business_name": "Mehra general Store",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "263678",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HFPW+PCP, Enara, Uttarakhand 263678",
+    "area": "263678",
+    "latitude": 29.586835299999997,
+    "longitude": 79.4960913,
+    "place_id": "ChIJeW1VDwCvoDkR3bwZAwoXCMo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeW1VDwCvoDkR3bwZAwoXCMo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:28:27"
+  }
+]

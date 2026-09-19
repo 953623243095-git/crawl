@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "IIMTF",
+    "search_category": "Tradeshows",
+    "primary_category": "Exhibition planner",
+    "all_categories": "Exhibition planner",
+    "pincode": "271126",
+    "phone_number": "N/A",
+    "website": "https://www.megatradefair.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "SCIENCE CITY, JBS Haldane Ave, Mirania Gardens, East Topsia, Topsia, Kolkata, West Bengal 700046",
+    "area": "Mirania Gardens, East Topsia, Topsia",
+    "latitude": 22.541459,
+    "longitude": 88.3963857,
+    "place_id": "ChIJlw5ynvB3AjoRyLWIrGb3AqU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlw5ynvB3AjoRyLWIrGb3AqU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:47:02"
+  },
+  {
+    "business_name": "Taj trading company",
+    "search_category": "Tradeshows",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "271126",
+    "phone_number": "+91 90057 05015",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 16,
+    "address": "Gari Bazar Rd, Colonelganj, Uttar Pradesh 271502",
+    "area": "271126",
+    "latitude": 27.1362016,
+    "longitude": 81.70004569999999,
+    "place_id": "ChIJB1YHpg2QmTkRfw21mHhlIQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB1YHpg2QmTkRfw21mHhlIQk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:47:03"
+  }
+]

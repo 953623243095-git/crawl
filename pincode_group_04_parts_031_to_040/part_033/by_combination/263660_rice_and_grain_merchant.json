@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bachat Super Store",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Discount supermarket",
+    "all_categories": "Discount supermarket, Department store, Supermarket",
+    "pincode": "263660",
+    "phone_number": "+91 83939 39053",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "49/53, Canal Rd, Jakhan, Dehradun, Uttarakhand 248013",
+    "area": "Jakhan",
+    "latitude": 30.3573694,
+    "longitude": 78.0700545,
+    "place_id": "ChIJOV9WDc7XCDkRZoCYVGJRb-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOV9WDc7XCDkRZoCYVGJRb-Y",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:16:18"
+  },
+  {
+    "business_name": "KANTI MART",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "263660",
+    "phone_number": "+91 89370 17104",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "7XR7+WGW, Mehuwala, Harbhaj Wala, Uttarakhand 248018",
+    "area": "Mehuwala",
+    "latitude": 30.2938755,
+    "longitude": 77.96406619999999,
+    "place_id": "ChIJeXB0Ff0qCTkRGA6AZnO1FoE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeXB0Ff0qCTkRGA6AZnO1FoE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:16:18"
+  }
+]

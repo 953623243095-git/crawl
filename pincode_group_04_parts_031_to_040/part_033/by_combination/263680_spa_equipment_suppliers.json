@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ACE Enterprises",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Bathroom supply store",
+    "all_categories": "Bathroom supply store",
+    "pincode": "263680",
+    "phone_number": "+91 80 4651 2159",
+    "website": "http://www.aceenterprises.co/",
+    "rating": 4.9,
+    "reviews_count": 49,
+    "address": "Downtown Square, Plot No 135/150, Chakrata Rd, nearby Tata Showroom, Khurbura Mohalla, Dehradun, Uttarakhand 248001",
+    "area": "Khurbura Mohalla",
+    "latitude": 30.3298709,
+    "longitude": 78.03020389999999,
+    "place_id": "ChIJk8HbIWArCTkRp_Of-dto6wA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk8HbIWArCTkRp_Of-dto6wA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:32:50"
+  },
+  {
+    "business_name": "HS ENTERPRISES",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Surgical Products Wholesaler",
+    "all_categories": "Surgical Products Wholesaler",
+    "pincode": "263680",
+    "phone_number": "+91 98379 12974",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "H20, punjabi market, Rudrapur, Jagatpura, Uttarakhand 263153",
+    "area": "punjabi market",
+    "latitude": 28.9875591,
+    "longitude": 79.4140963,
+    "place_id": "ChIJm5bTbIR_oDkR-kdKEEZwdok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm5bTbIR_oDkR-kdKEEZwdok",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:32:50"
+  }
+]

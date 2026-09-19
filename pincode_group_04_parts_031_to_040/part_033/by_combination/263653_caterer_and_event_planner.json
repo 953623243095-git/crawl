@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiva Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "263653",
+    "phone_number": "+91 86301 73651",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "44 B lane, 03, Raipur Rd, Vani Vihar, Dehradun, Uttarakhand 248001",
+    "area": "Vani Vihar, Adhoiwala",
+    "latitude": 30.3169641,
+    "longitude": 78.070471,
+    "place_id": "ChIJyW1WfFMpCTkRKdvxP2DpF0A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyW1WfFMpCTkRKdvxP2DpF0A",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:08:39"
+  },
+  {
+    "business_name": "Pari Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Event planner, Wedding planner",
+    "pincode": "263653",
+    "phone_number": "+91 78400 47736",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Sky High restaurant, S-40, BHEL, S Block, S Cluster, Shivalik Nagar, Ranipur, Bharat Heavy Electrical Limited Ran, Uttarakhand 249403",
+    "area": "S Block, S Cluster, Shivalik Nagar",
+    "latitude": 29.937079899999997,
+    "longitude": 78.0775173,
+    "place_id": "ChIJQ36jpS1GCTkROIhvH8tCc4E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ36jpS1GCTkROIhvH8tCc4E",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:08:39"
+  }
+]

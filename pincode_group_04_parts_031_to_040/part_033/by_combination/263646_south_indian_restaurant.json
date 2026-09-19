@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DS Dosa Factory",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "263646",
+    "phone_number": "+91 79068 04408",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 311,
+    "address": "near Shri hanuman dham, Kishanpur Chhoi, Madanpur Bora, Uttarakhand 244715",
+    "area": "263646",
+    "latitude": 29.3500558,
+    "longitude": 79.13772039999999,
+    "place_id": "ChIJD59thQATCjkRsoELyFcZM44",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD59thQATCjkRsoELyFcZM44",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:02:29"
+  },
+  {
+    "business_name": "Cravings \"life is delicious\"",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "263646",
+    "phone_number": "+91 98393 25345",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 290,
+    "address": "Jim Corbett National Park, Village- Laduachor, Post, Dhikuli, Ramnagar, Uttarakhand 244715",
+    "area": "263646",
+    "latitude": 29.4581041,
+    "longitude": 79.1447081,
+    "place_id": "ChIJBQD6Iz0RCjkRGo2mdMcKWx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBQD6Iz0RCjkRGo2mdMcKWx0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:02:30"
+  }
+]

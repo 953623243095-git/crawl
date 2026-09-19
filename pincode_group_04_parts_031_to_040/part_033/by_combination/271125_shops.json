@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raish Garments",
+    "search_category": "Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "271125",
+    "phone_number": "+91 95060 57663",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Balpur balpur, Lucknow - Colonelganj - Gonda Rd, Gonda, Uttar Pradesh 271125",
+    "area": "271125",
+    "latitude": 27.1243433,
+    "longitude": 81.8514266,
+    "place_id": "ChIJxWEm94KNmTkRTuZzXXlbktg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxWEm94KNmTkRTuZzXXlbktg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:45:27"
+  },
+  {
+    "business_name": "MAHAK MOBILE SHOP",
+    "search_category": "Shops",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "271125",
+    "phone_number": "+91 99848 42010",
+    "website": "N/A",
+    "rating": 1.3,
+    "reviews_count": null,
+    "address": "Gonda - Lucknow Rd, Balpur Hajari, Parwanpur, Uttar Pradesh 271125",
+    "area": "271125",
+    "latitude": 27.124414299999998,
+    "longitude": 81.8518213,
+    "place_id": "ChIJAQAAwE-NmTkRCyigly1FivQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAwE-NmTkRCyigly1FivQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:45:29"
+  }
+]

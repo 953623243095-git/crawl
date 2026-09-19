@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VIP House Luggage Shop",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Luggage store",
+    "all_categories": "Luggage store",
+    "pincode": "271129",
+    "phone_number": "+91 99198 84567",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Peepal chowraha, Chowk, Gonda, Uttar Pradesh 271003",
+    "area": "Chowk",
+    "latitude": 27.1297443,
+    "longitude": 81.9677877,
+    "place_id": "ChIJyaqzZybxmTkRzO4w572XgkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyaqzZybxmTkRzO4w572XgkA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:47:31"
+  },
+  {
+    "business_name": "LOVE FOR LEATHER",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "271129",
+    "phone_number": "+91 70819 74607",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "near bus stand, Utraula, Uttar Pradesh 271604",
+    "area": "271129",
+    "latitude": 27.31625,
+    "longitude": 82.4199285,
+    "place_id": "ChIJ4aHKxZZDlzkRNp6uRKAN0so",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4aHKxZZDlzkRNp6uRKAN0so",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:47:31"
+  }
+]

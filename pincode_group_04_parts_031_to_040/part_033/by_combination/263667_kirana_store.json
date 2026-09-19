@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khushal general stor",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "263667",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "CHamkhala-Quairala-Dabhara Rd, Denura, Chamkana Dadharya, Uttarakhand 263667",
+    "area": "263667",
+    "latitude": 29.663740699999998,
+    "longitude": 79.2067115,
+    "place_id": "ChIJz0zmY5cDCjkRLYkKhrEPp-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz0zmY5cDCjkRLYkKhrEPp-c",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:24:59"
+  },
+  {
+    "business_name": "Sanara",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "263667",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M6JH+V79, Jainal Dotiyal Road, Amgadhera, Uttarakhand 263667",
+    "area": "263667",
+    "latitude": 29.682198399999997,
+    "longitude": 79.2282511,
+    "place_id": "ChIJxfBEfgADCjkRr4-h0qXrB3U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxfBEfgADCjkRr4-h0qXrB3U",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:24:59"
+  }
+]

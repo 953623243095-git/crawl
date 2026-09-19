@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Himvarsha Homestay",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "263653",
+    "phone_number": "+91 95665 62390",
+    "website": "https://www.himvarsha.com/",
+    "rating": 4.9,
+    "reviews_count": 66,
+    "address": "Plot 5&6, Village Talli Riyuni, Majkhali PO Ranikhet, majhkali, Uttarakhand 263652",
+    "area": "263653",
+    "latitude": 29.6840932,
+    "longitude": 79.50795,
+    "place_id": "ChIJz4WIDYOtoDkRLxjyBUHelPg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz4WIDYOtoDkRLxjyBUHelPg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:09:05"
+  },
+  {
+    "business_name": "StayVista at Suvas Villa",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Villa",
+    "all_categories": "Villa, Cottage, Holiday home, Home Stay, Resort hotel",
+    "pincode": "263653",
+    "phone_number": "+91 81049 54254",
+    "website": "https://www.stayvista.com/villa/suvas-villa",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Suvas Rawat Villa, Digoti Road, Majkhali, Ranikhet, Uttarakhand 263652",
+    "area": "263653",
+    "latitude": 29.685178999999998,
+    "longitude": 79.505414,
+    "place_id": "ChIJJTQi0YWtoDkR-5WENF-Plw8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJTQi0YWtoDkR-5WENF-Plw8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:09:08"
+  }
+]

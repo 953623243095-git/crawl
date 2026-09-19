@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahul Agencies (ITC WD)",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "263642",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RQMC+GPG, Kaphalkhet, Uttarakhand 263642",
+    "area": "263642",
+    "latitude": 29.8338017,
+    "longitude": 79.77183939999999,
+    "place_id": "ChIJpzW1bg41pzkRc9BO7L2XcDs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpzW1bg41pzkRc9BO7L2XcDs",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 05:58:45"
+  },
+  {
+    "business_name": "Shri bihari kitchenware",
+    "search_category": "Commercial Complex",
+    "primary_category": "Countertop store",
+    "all_categories": "Countertop store",
+    "pincode": "263642",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "Vikas Bhawan Rd, Dug bazar, Matiyoli, Bageshwar, Namtichetabagar, Uttarakhand 263642",
+    "area": "Dug bazar, Matiyoli",
+    "latitude": 29.839200299999998,
+    "longitude": 79.7745123,
+    "place_id": "ChIJF5IZegA1pzkRvSFM0R0M0FY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF5IZegA1pzkRvSFM0R0M0FY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 05:58:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pioneer Architects",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect, Architectural designer, Architecture firm, Real Estate Builders & Construction Company, Home builder, Interior Decorator, Interior designer, Landscape designer, Metal construction company",
+    "pincode": "271003",
+    "phone_number": "+91 85741 33737",
+    "website": "https://www.pioneerarchitects.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "H.No, 12/2, Faizabad Rd, near Central academy School, Sector 12, Indira Nagar, Lucknow, Uttar Pradesh 226016",
+    "area": "Sector 12, Indira Nagar",
+    "latitude": 26.8793737,
+    "longitude": 80.9996257,
+    "place_id": "ChIJXaLme6PimzkRHWvUtKhPJX8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXaLme6PimzkRHWvUtKhPJX8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:37:52"
+  },
+  {
+    "business_name": "RKS Architects",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect, Building consultant, Building designer, Building restoration service, Real Estate Builders & Construction Company, Interior Decorator, Interior designer, Land surveyor, Landscape designer, Vastu consultant",
+    "pincode": "271003",
+    "phone_number": "+91 99535 58293",
+    "website": "https://www.rksarchitects.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Office No. -11a, Kishore Lali Complex, KLC, Barail Rd, near SBI Bank, Lakhpedabagh, Barabanki, Barel, Uttar Pradesh 225001",
+    "area": "Lakhpedabagh",
+    "latitude": 26.9173318,
+    "longitude": 81.18789199999999,
+    "place_id": "ChIJz7HNto5hmTkRQP24NO_j1fc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz7HNto5hmTkRQP24NO_j1fc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:37:52"
+  }
+]

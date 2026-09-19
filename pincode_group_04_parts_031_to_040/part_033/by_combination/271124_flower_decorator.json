@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahul flower Decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "271124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W5MJ+PWH, Tikri, Uttar Pradesh 272130",
+    "area": "271124",
+    "latitude": 26.934304899999997,
+    "longitude": 82.1823683,
+    "place_id": "ChIJm-ZfLAABmjkRFFNaQY9ChfU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm-ZfLAABmjkRFFNaQY9ChfU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:43:05"
+  },
+  {
+    "business_name": "Flower Decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "271124",
+    "phone_number": "+91 84670 18090",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "303, Raypur, Chandapur, Uttar Pradesh 271124",
+    "area": "271124",
+    "latitude": 26.9322742,
+    "longitude": 82.12328459999999,
+    "place_id": "ChIJVeT5RJoDmjkR3PcZ7AAd-n0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVeT5RJoDmjkR3PcZ7AAd-n0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:43:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Electric Item",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Repair service",
+    "all_categories": "Repair service",
+    "pincode": "263678",
+    "phone_number": "+91 99176 83637",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near State Bank of India, Dugalkhola, Almora, Uttarakhand 263624",
+    "area": "Dugalkhola",
+    "latitude": 29.589240699999998,
+    "longitude": 79.646666,
+    "place_id": "ChIJ9RpV9a6xoDkRAABwVL6SaeE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9RpV9a6xoDkRAABwVL6SaeE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:29:11"
+  },
+  {
+    "business_name": "Vintage Lights Total Lighting Solution",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Home improvement store",
+    "all_categories": "Home improvement store",
+    "pincode": "263678",
+    "phone_number": "+91 70074 64707",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Swaraj Nagar Colony, PNT Colony, Raebareli, Uttar Pradesh 229001",
+    "area": "Swaraj Nagar Colony, PNT Colony",
+    "latitude": 26.2314212,
+    "longitude": 81.23246329999999,
+    "place_id": "ChIJg6R7_kKhmzkRLSxM1YwCQxE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg6R7_kKhmzkRLSxM1YwCQxE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:29:13"
+  }
+]

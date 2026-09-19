@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agra Roller Flour Mills",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "263656",
+    "phone_number": "+91 98370 89282",
+    "website": "http://www.agraroller.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Sikandra, Lakhanpur, Uttar Pradesh 282007",
+    "area": "Sikandra",
+    "latitude": 27.220224299999998,
+    "longitude": 77.9215688,
+    "place_id": "ChIJHXCgxfuHczkRZ_XAIfAJvpE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHXCgxfuHczkRZ_XAIfAJvpE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:12:40"
+  },
+  {
+    "business_name": "Bansal Roller Flour Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "263656",
+    "phone_number": "N/A",
+    "website": "http://www.bansalflourmill.com/",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "National Highway 125, Nanakmatta, Kalyanpur, Uttarakhand 262311",
+    "area": "Nanakmatta",
+    "latitude": 28.9402069,
+    "longitude": 79.8149067,
+    "place_id": "ChIJTWqnGqdeoDkR-nVLcvlVtfs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTWqnGqdeoDkR-nVLcvlVtfs",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:12:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "INSURANCE HUB",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance broker",
+    "all_categories": "Insurance broker",
+    "pincode": "263667",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6HR5+WG2, East khera, Kathgodam, golapar, Haldwani, Uttarakhand 263126",
+    "area": "Kathgodam",
+    "latitude": 29.242261499999998,
+    "longitude": 79.5587742,
+    "place_id": "ChIJrxPBQeGboDkRAsUEBHGYfb8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrxPBQeGboDkRAsUEBHGYfb8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:26:23"
+  },
+  {
+    "business_name": "new india assurance co.ltd",
+    "search_category": "Insurance Agent",
+    "primary_category": "Lodging",
+    "all_categories": "Lodging",
+    "pincode": "263667",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M7R9+C79, Bhikiyasan, Uttarakhand 263667",
+    "area": "263667",
+    "latitude": 29.6910404,
+    "longitude": 79.26823,
+    "place_id": "ChIJg5LQ6p4DCjkRRhHaTQkE2nA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg5LQ6p4DCjkRRhHaTQkE2nA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:26:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Doctor General Physician.",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "263665",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P582+228, Paisiya Village, Uttarakhand 263676",
+    "area": "263665",
+    "latitude": 29.7151367,
+    "longitude": 79.1499833,
+    "place_id": "ChIJBaQAAEL3CTkR3d5DWxh9Y-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBaQAAEL3CTkR3d5DWxh9Y-w",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:23:38"
+  },
+  {
+    "business_name": "Medbros Surgery Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Surgical center",
+    "all_categories": "Surgical center",
+    "pincode": "263665",
+    "phone_number": "+91 99977 44220",
+    "website": "https://www.medbrosurgery.in/",
+    "rating": 4.9,
+    "reviews_count": 197,
+    "address": "above HDFC BANK, Shastri Nagar, Ajabpur Kalan, Dehradun, Uttarakhand 248012",
+    "area": "Shastri Nagar, Ajabpur Kalan",
+    "latitude": 30.2903558,
+    "longitude": 78.0609334,
+    "place_id": "ChIJk2NGr-8pCTkR22eEST153PQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk2NGr-8pCTkR22eEST153PQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:23:39"
+  }
+]

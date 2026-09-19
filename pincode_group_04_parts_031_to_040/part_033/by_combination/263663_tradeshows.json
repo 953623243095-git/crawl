@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kanpur Trading Company",
+    "search_category": "Tradeshows",
+    "primary_category": "Sewing machine store",
+    "all_categories": "Sewing machine store, Gun shop",
+    "pincode": "263663",
+    "phone_number": "+91 93366 91717",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rikabganj, Shakti Vihar Colony, Faizabad, Uttar Pradesh 224001",
+    "area": "Rikabganj, Shakti Vihar Colony",
+    "latitude": 26.7809881,
+    "longitude": 82.1456572,
+    "place_id": "ChIJn35xMQAHmjkRlFLQqboSCKw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn35xMQAHmjkRlFLQqboSCKw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:21:20"
+  },
+  {
+    "business_name": "A S Distributors",
+    "search_category": "Tradeshows",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "263663",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6GCH+2XH, Nainital road, opp. Nagar Nigam Office, Haldwani, Uttarakhand 263139",
+    "area": "Malla Gorakhpur, Heera Nagar",
+    "latitude": 29.220063,
+    "longitude": 79.52998699999999,
+    "place_id": "ChIJH8EMJemaoDkR0zN1RcS70ww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH8EMJemaoDkR0zN1RcS70ww",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:21:20"
+  }
+]

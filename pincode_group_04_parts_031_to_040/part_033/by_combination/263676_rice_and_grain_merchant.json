@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepanshu Agro food",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice wholesaler",
+    "all_categories": "Rice wholesaler",
+    "pincode": "263676",
+    "phone_number": "+91 86849 75941",
+    "website": "https://deepanshuagro.com/",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "Taraori, Haryana 132116",
+    "area": "263676",
+    "latitude": 29.7959237,
+    "longitude": 76.9251544,
+    "place_id": "ChIJZUkPJ_xrDjkRGZjYy2VK6Z0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZUkPJ_xrDjkRGZjYy2VK6Z0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:26:49"
+  },
+  {
+    "business_name": "Agarwal Parivar",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Business related",
+    "all_categories": "Business related",
+    "pincode": "263676",
+    "phone_number": "+91 98973 90768",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "474X+V97, ISBT Rd, Adarsh Gram, Rishikesh, Uttarakhand 249201",
+    "area": "Adarsh Gram",
+    "latitude": 30.107159,
+    "longitude": 78.29841739999999,
+    "place_id": "ChIJbVXOrhwWCTkR2IPOWQNcIQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbVXOrhwWCTkR2IPOWQNcIQg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:26:51"
+  }
+]

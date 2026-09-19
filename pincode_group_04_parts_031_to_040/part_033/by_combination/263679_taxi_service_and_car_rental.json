@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Singh Car Rental",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Airport Shuttle Service Provider, Chauffeur service, Taxi service, Tour operator, Transportation service",
+    "pincode": "263679",
+    "phone_number": "+91 81267 71313",
+    "website": "https://singhcarrental.in.net/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "h-12, metropolis, beside Metropolis mall, Rudrapur, Uttarakhand 263153",
+    "area": "263679",
+    "latitude": 28.999774799999997,
+    "longitude": 79.3965422,
+    "place_id": "ChIJIaHMMDqBoDkRES51d1QQhno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIaHMMDqBoDkRES51d1QQhno",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:30:49"
+  },
+  {
+    "business_name": "Devbhoomi travel's",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Tour operator",
+    "pincode": "263679",
+    "phone_number": "+91 75052 83206",
+    "website": "https://devbhoomi-travels.grexa.site/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "S B, I BRANCH, NEAR, NH-58, Badrinath Marg, Joshimath, Uttarakhand 246443",
+    "area": "263679",
+    "latitude": 30.5565918,
+    "longitude": 79.5580004,
+    "place_id": "ChIJ5XXiTzmDpzkRWwx4ObPgViY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5XXiTzmDpzkRWwx4ObPgViY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:30:49"
+  }
+]

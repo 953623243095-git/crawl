@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHIV AUTO PARTS",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "271003",
+    "phone_number": "+91 74083 73689",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Besia Chain, Padhi Bara, Uttar Pradesh 271122",
+    "area": "271003",
+    "latitude": 27.2439415,
+    "longitude": 81.8879884,
+    "place_id": "ChIJscaLdDvrmTkRh9frEe6CgPM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJscaLdDvrmTkRh9frEe6CgPM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:37:43"
+  },
+  {
+    "business_name": "Bhatia Auto Parts",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "271003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4XM6+CGC, MDR18E, Jhanjhari Block, Gonda, Uttar Pradesh 271003",
+    "area": "Jhanjhari Block",
+    "latitude": 27.133564999999997,
+    "longitude": 81.9612581,
+    "place_id": "ChIJOb4-zw3vmTkR9QwfsPtTmDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOb4-zw3vmTkR9QwfsPtTmDc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:37:45"
+  }
+]

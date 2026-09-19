@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Tapasya",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "263642",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 35,
+    "address": "QQXC+QPP, Pauridhar, Pauri Band, Uttarakhand 263642",
+    "area": "263642",
+    "latitude": 29.799455299999998,
+    "longitude": 79.77184009999999,
+    "place_id": "ChIJM2XjCnE1pzkRPaWSeghrjHs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM2XjCnE1pzkRPaWSeghrjHs",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 05:58:05"
+  },
+  {
+    "business_name": "Hotel Ashish",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "263642",
+    "phone_number": "+91 5963 220 103",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 125,
+    "address": "RQJ9+4RF, Bageshwar, Uttarakhand 263642",
+    "area": "263642",
+    "latitude": 29.8303098,
+    "longitude": 79.7695413,
+    "place_id": "ChIJFbwvYsc1pzkR5MNZJUCP7yI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFbwvYsc1pzkR5MNZJUCP7yI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 05:58:05"
+  }
+]

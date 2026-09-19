@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Asancha Interio",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "263667",
+    "phone_number": "+91 78188 01077",
+    "website": "http://www.asanchainterio.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Deval chaud, Rampur Rd, Haldwani, Dewalchaur Bandobasti, Uttarakhand 263139",
+    "area": "263667",
+    "latitude": 29.187050799999998,
+    "longitude": 79.5021604,
+    "place_id": "ChIJr6NjPPmboDkRGua3T09YqCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr6NjPPmboDkRGua3T09YqCA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:25:51"
+  },
+  {
+    "business_name": "Urban इंटीरियर",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Architect, Furniture Manufacturer, Interior construction contractor",
+    "pincode": "263667",
+    "phone_number": "+91 63960 88058",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Manoj singh Krishna vihar, road, indira colony, Kusumkhera, Haldwani, Bomari Tallikham, Uttarakhand 263139",
+    "area": "indira colony, Kusumkhera",
+    "latitude": 29.220966999999998,
+    "longitude": 79.5073719,
+    "place_id": "ChIJOzpK87-boDkRIS-0OQQ3AtQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOzpK87-boDkRIS-0OQQ3AtQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:25:51"
+  }
+]

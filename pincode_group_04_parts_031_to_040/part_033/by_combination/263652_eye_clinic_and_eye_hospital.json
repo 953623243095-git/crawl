@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vardan Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Doctor, Ophthalmology clinic",
+    "pincode": "263652",
+    "phone_number": "+91 120 282 2440",
+    "website": "https://www.idrf.org/",
+    "rating": 4.1,
+    "reviews_count": 303,
+    "address": "Block 8, Prithviraj Marg, near St Pauls Academy, Block 6, Sector 10, Raj Nagar, Ghaziabad, Uttar Pradesh 201002",
+    "area": "Block 6, Sector 10, Raj Nagar",
+    "latitude": 28.6864685,
+    "longitude": 77.4461262,
+    "place_id": "ChIJ____E5_xDDkRYBDyLifv4j8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____E5_xDDkRYBDyLifv4j8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:06:21"
+  },
+  {
+    "business_name": "Clear Vision Eye Care, Khairthal",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Contact lenses supplier, Medical Center, Ophthalmologist, Ophthalmology clinic, Optician, Optometrist",
+    "pincode": "263652",
+    "phone_number": "+91 1460 224 274",
+    "website": "https://www.clearvisionkhairthal.in/",
+    "rating": 5,
+    "reviews_count": 607,
+    "address": "Agrasen Circle, Railway Station Rd, Khairthal, Rajasthan 301404",
+    "area": "263652",
+    "latitude": 27.797314699999998,
+    "longitude": 76.64051429999999,
+    "place_id": "ChIJmzN4US2lcjkRc8vts_7rUEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmzN4US2lcjkRc8vts_7rUEg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:06:21"
+  }
+]

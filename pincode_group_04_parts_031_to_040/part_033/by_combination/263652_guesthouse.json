@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prince Homestay",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "263652",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Road, Bamani Garh, Nagoriya, Uttarakhand 263638",
+    "area": "Road",
+    "latitude": 29.7318084,
+    "longitude": 79.6010237,
+    "place_id": "ChIJkUCEgNKzoDkRVppMkwiQOwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkUCEgNKzoDkRVppMkwiQOwM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:06:56"
+  },
+  {
+    "business_name": "Anami guest house(Anant Dham)",
+    "search_category": "Guesthouse",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "263652",
+    "phone_number": "+91 70151 75427",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Majkhali, Someshwar Range, Uttarakhand 263652",
+    "area": "263652",
+    "latitude": 29.6775283,
+    "longitude": 79.5105937,
+    "place_id": "ChIJ-721XwCtoDkRUT6T88NHQ4g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-721XwCtoDkRUT6T88NHQ4g",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:06:56"
+  }
+]

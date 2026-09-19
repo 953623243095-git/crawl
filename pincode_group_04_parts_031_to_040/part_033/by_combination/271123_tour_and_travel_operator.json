@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Welcome Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "271123",
+    "phone_number": "+91 89576 24900",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Faizabad Rd, Gonda, Pure Tiwari, Uttar Pradesh 271123",
+    "area": "271123",
+    "latitude": 27.094081799999998,
+    "longitude": 82.016425,
+    "place_id": "ChIJETQlBTrxmTkRsBDLVUly4_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJETQlBTrxmTkRsBDLVUly4_o",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:41:05"
+  },
+  {
+    "business_name": "Vishutravels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "271123",
+    "phone_number": "+91 88536 37346",
+    "website": "https://vishutravels.com/",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Lambardar purwa, belwa choraha, Subhagpur, Uttar Pradesh 271504",
+    "area": "271123",
+    "latitude": 27.056495299999998,
+    "longitude": 81.87827829999999,
+    "place_id": "ChIJKXvPFnTzmTkRmb6bMRRbCiU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKXvPFnTzmTkRmb6bMRRbCiU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:41:06"
+  }
+]

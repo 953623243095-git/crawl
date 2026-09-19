@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Event-Media",
+    "search_category": "Media and Event",
+    "primary_category": "Video production service",
+    "all_categories": "Video production service, Service establishment",
+    "pincode": "263641",
+    "phone_number": "+91 92015 11223",
+    "website": "https://event-media.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Event-Media, 263641, India",
+    "area": "263641",
+    "latitude": 22.723972699999997,
+    "longitude": 75.86384989999999,
+    "place_id": "ChIJeeta3rBWqIMR3tiXgvRiKHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeeta3rBWqIMR3tiXgvRiKHA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 05:56:30"
+  },
+  {
+    "business_name": "SOMA EVENTS",
+    "search_category": "Media and Event",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Advertising agency, Exhibition planner, Marketing agency, Marriage celebrant, Musical Band and Orchestra, Photographer, Photography service, Wedding planner, Wedding Portrait Studio",
+    "pincode": "263641",
+    "phone_number": "+91 77030 06700",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "7, New Shivli Rd, Near Laxmi hospital, Kalyanpur, Kanpur, Uttar Pradesh 208017",
+    "area": "Kalyanpur",
+    "latitude": 26.4946667,
+    "longitude": 80.2455708,
+    "place_id": "ChIJlYaeikVHnDkRz_NxYnEicUM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlYaeikVHnDkRz_NxYnEicUM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 05:56:30"
+  }
+]

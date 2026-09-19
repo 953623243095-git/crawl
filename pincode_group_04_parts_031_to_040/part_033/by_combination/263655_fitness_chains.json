@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fitness Bay",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "263655",
+    "phone_number": "+91 78951 33305",
+    "website": "https://www.instagram.com/fitness_bay_gym/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "122, opposite The Asian School, Vasant Vihar, Indra Nagar Colony, Dehradun, Uttarakhand 248006",
+    "area": "Vasant Vihar, Indra Nagar Colony",
+    "latitude": 30.3230385,
+    "longitude": 78.00505799999999,
+    "place_id": "ChIJ12_wlBYqCTkRA9sJEvkDsBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ12_wlBYqCTkRA9sJEvkDsBk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:09:57"
+  },
+  {
+    "business_name": "Xtreme Fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "263655",
+    "phone_number": "+91 96272 26884",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Kali Mandir Chowk, near Mahant Indresh Hospital, Dehradun, Uttarakhand 248001",
+    "area": "Brahmanwala",
+    "latitude": 30.3029199,
+    "longitude": 78.02260129999999,
+    "place_id": "ChIJIzmqLoEpCTkRhj5_0msdgNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIzmqLoEpCTkRhj5_0msdgNM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:09:57"
+  }
+]

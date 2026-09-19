@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree HR Consultancy Services",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting",
+    "pincode": "263658",
+    "phone_number": "+91 33 6902 9313",
+    "website": "https://shreehr.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7th Floor, Eastern Mall, 703A, Chowk, above Pantaloons, near Lalpur, Ajit Enclave, New Barhi Toli, Ranchi, Jharkhand 834001",
+    "area": "Ajit Enclave, New Barhi Toli",
+    "latitude": 23.368325799999997,
+    "longitude": 85.3398373,
+    "place_id": "ChIJdzPQpXPh9DkRsx0v92wFDJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdzPQpXPh9DkRsx0v92wFDJw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:14:15"
+  },
+  {
+    "business_name": "VIVA CONSULTING (An unit of rj viva)",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Life coach",
+    "pincode": "263658",
+    "phone_number": "N/A",
+    "website": "https://vivaconsulting.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 1, the bliss season building, Canal Rd, opposite gate no.:-01, Police Officers Colony, Kishanpur, Dehradun, Uttarakhand 248009",
+    "area": "Police Officers Colony, Kishanpur",
+    "latitude": 30.3714524,
+    "longitude": 78.0822828,
+    "place_id": "ChIJFTwUF63XCDkRZV5m6il8Ntk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFTwUF63XCDkRZV5m6il8Ntk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:14:15"
+  }
+]

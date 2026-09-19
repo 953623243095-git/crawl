@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apollomedics Hospital: Dr. C P singh",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Gynecologist, Pediatric clinic",
+    "pincode": "263652",
+    "phone_number": "+91 94557 55007",
+    "website": "https://drcpsinghpaediatrics.net/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Room no 59, Apollo medics hospital, Sector B, Bargawan, LDA Colony, Lucknow, Uttar Pradesh 226012",
+    "area": "Sector B, Bargawan, LDA Colony",
+    "latitude": 26.797901399999997,
+    "longitude": 80.9016693,
+    "place_id": "ChIJccroxrs5nDkRhitudf6CXUY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJccroxrs5nDkRhitudf6CXUY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:06:20"
+  },
+  {
+    "business_name": "Dr. MurlidharAtasniya",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Children's hospital",
+    "all_categories": "Children's hospital",
+    "pincode": "263652",
+    "phone_number": "+91 93928 40931",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 35,
+    "address": "Begum Bazar Rd, Begum Bazaar Chatri, Fish Market, Begum Bazar, Afzal Gunj, Hyderabad, Telangana 500012",
+    "area": "Begum Bazaar Chatri, Fish Market, Begum Bazar, Afzal Gunj",
+    "latitude": 17.3736371,
+    "longitude": 78.4692726,
+    "place_id": "ChIJ51lZFISXyzsRv6_MbpPrkwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ51lZFISXyzsRv6_MbpPrkwM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:06:20"
+  }
+]

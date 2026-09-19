@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hawk Tattoo Studio",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo shop",
+    "all_categories": "Tattoo shop, Tattoo artist",
+    "pincode": "263660",
+    "phone_number": "+91 98910 09511",
+    "website": "http://www.hawktattoo.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ground Floor, Nexus, Select Citywalk Mall, EW-5a, A-3, District Centre, New Delhi, Delhi 110017",
+    "area": "Saket District Centre, District Centre, Sector 6, Pushp Vihar",
+    "latitude": 28.529286,
+    "longitude": 77.2191532,
+    "place_id": "ChIJn6TMS27hDDkRaTJXTknIDI4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn6TMS27hDDkRaTJXTknIDI4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:17:11"
+  },
+  {
+    "business_name": "Funky Tattooz",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo and piercing shop",
+    "all_categories": "Tattoo and piercing shop, Body piercing shop, Eyebrow bar, Eyelash salon",
+    "pincode": "263660",
+    "phone_number": "+91 99712 18913",
+    "website": "http://www.funkytattooz.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "C, 28/3, Nehru Rd, near Rajan Babu Road, Block C, Adarsh Nagar, Delhi, 110033",
+    "area": "Block C, Adarsh Nagar",
+    "latitude": 28.719711099999998,
+    "longitude": 77.17443229999999,
+    "place_id": "ChIJu6qqOpEBDTkRjB5hkxWgoEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu6qqOpEBDTkRjB5hkxWgoEA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:17:11"
+  }
+]

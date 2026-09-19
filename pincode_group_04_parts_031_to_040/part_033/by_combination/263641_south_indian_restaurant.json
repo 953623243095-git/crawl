@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cavehito",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Restaurant",
+    "pincode": "263641",
+    "phone_number": "+91 70603 60065",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 21,
+    "address": "Village Kholiyabanj, Post- Dunagiri, Uttarakhand 263653",
+    "area": "263641",
+    "latitude": 29.8392324,
+    "longitude": 79.45175549999999,
+    "place_id": "ChIJP6iYNKNWpzkRWjmOZOz3ebM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP6iYNKNWpzkRWjmOZOz3ebM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 05:55:36"
+  },
+  {
+    "business_name": "Indian Kitchen Equipments",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Kitchen supply store",
+    "all_categories": "Kitchen supply store",
+    "pincode": "263641",
+    "phone_number": "+91 99975 41550",
+    "website": "https://indiankitchenequipments.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Indrlok vihar haridwar bye pass road, chowk, near brahmanwala, Dehradun, Uttarakhand 248171",
+    "area": "Brahmanwala",
+    "latitude": 30.2895848,
+    "longitude": 78.0093268,
+    "place_id": "ChIJGRsZWskrCTkR8WKYw1fIMJc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGRsZWskrCTkR8WKYw1fIMJc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 05:55:38"
+  }
+]

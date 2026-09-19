@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "सुनार",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "263664",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "M7QW+RXM, Bangora, Karakote, Uttarakhand 263664",
+    "area": "263664",
+    "latitude": 29.689608999999997,
+    "longitude": 79.2976078,
+    "place_id": "ChIJF9Y93G0BCjkRYUdBdoZt-Eo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF9Y93G0BCjkRYUdBdoZt-Eo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:22:10"
+  },
+  {
+    "business_name": "Doon Paints & Hardware",
+    "search_category": "Hardware Store",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "263664",
+    "phone_number": "+91 93588 89338",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 41,
+    "address": "1, Shah Nagar Defence Colony Rd, Friends Enclave, Shah Nagar, Road, Friends Enclave, Deepa Nagar, Defence Colony, Dehradun, Uttarakhand 248012",
+    "area": "Friends Enclave, Deepa Nagar, Defence Colony",
+    "latitude": 30.285941899999997,
+    "longitude": 78.0542826,
+    "place_id": "ChIJtXC-iBopCTkRj0h1Sx49aZ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtXC-iBopCTkRj0h1Sx49aZ8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:22:11"
+  }
+]

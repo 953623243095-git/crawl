@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amrit Mens Cloths Shop",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "271003",
+    "phone_number": "+91 95003 63155",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Lbs Churaha, Veer Pur, Gonda, Uttar Pradesh 271003",
+    "area": "Veer Pur",
+    "latitude": 27.1447063,
+    "longitude": 81.9646054,
+    "place_id": "ChIJa1FhgdPvmTkROdjyJxomBXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa1FhgdPvmTkROdjyJxomBXM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:37:17"
+  },
+  {
+    "business_name": "Rastogi Bros Collection",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "271003",
+    "phone_number": "+91 78003 00053",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 24,
+    "address": "Gonda - Bahraich Rd, near Shri Anandpur Satsung Ashram, Tiwari Purwa, Azad Nagar, Gonda, Uttar Pradesh 271003",
+    "area": "Tiwari Purwa, Azad Nagar",
+    "latitude": 27.138531999999998,
+    "longitude": 81.95763579999999,
+    "place_id": "ChIJQSpHlQbumTkRL7W6fDjKjPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQSpHlQbumTkRL7W6fDjKjPY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:37:18"
+  }
+]

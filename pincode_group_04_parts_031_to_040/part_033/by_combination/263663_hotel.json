@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Him 180",
+    "search_category": "Hotel",
+    "primary_category": "Campground",
+    "all_categories": "Campground",
+    "pincode": "263663",
+    "phone_number": "+91 93896 74484",
+    "website": "https://www.instagram.com/him180resort",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Tarikhet, Ranikhet Range, Uttarakhand 263663",
+    "area": "263663",
+    "latitude": 29.623437499999998,
+    "longitude": 79.3619375,
+    "place_id": "ChIJty1m-_QHCjkRe1y-i9d_ZR8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJty1m-_QHCjkRe1y-i9d_ZR8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:20:46"
+  },
+  {
+    "business_name": "Maakot Hills Eco Camp",
+    "search_category": "Hotel",
+    "primary_category": "Campground",
+    "all_categories": "Campground, Children's camp, Camping cabin, Camping farm, Historical society, Hotel, Tour agency, Tourist attraction",
+    "pincode": "263663",
+    "phone_number": "+91 91939 06068",
+    "website": "http://www.maakothillsecocamp.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Village Kalakhet, Betalghat, Digthari, Sirani, Uttarakhand 263134",
+    "area": "Betalghat",
+    "latitude": 29.5954655,
+    "longitude": 79.36140329999999,
+    "place_id": "ChIJHxp63eQHCjkRUjPVgG1Ejmo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHxp63eQHCjkRUjPVgG1Ejmo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:20:46"
+  }
+]

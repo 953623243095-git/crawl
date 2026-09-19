@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Hardware",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "271126",
+    "phone_number": "+91 97218 95270",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 8,
+    "address": "Gaurachauki, Mankapur, Gaura Chawki, Uttar Pradesh 271312",
+    "area": "Mankapur",
+    "latitude": 27.078587499999998,
+    "longitude": 82.45525049999999,
+    "place_id": "ChIJedvI22ZPlzkRLRC7sgRLkGs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJedvI22ZPlzkRLRC7sgRLkGs",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:46:57"
+  },
+  {
+    "business_name": "Hindustan Hardware",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "271126",
+    "phone_number": "+91 73483 09141",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sadhid Baba Choura, Kartaroad, Colonel Ganj Rural, Uttar Pradesh 271502",
+    "area": "271126",
+    "latitude": 27.1327207,
+    "longitude": 81.7084849,
+    "place_id": "ChIJZcvGociRmTkRBlasopNUS2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZcvGociRmTkRBlasopNUS2Q",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:46:58"
+  }
+]

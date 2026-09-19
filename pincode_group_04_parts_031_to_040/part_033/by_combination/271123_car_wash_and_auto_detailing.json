@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amit Shukla",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "271123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "2XRX+JH3, Ramnagar Tarhar, Uttar Pradesh 271123",
+    "area": "271123",
+    "latitude": 27.0415192,
+    "longitude": 81.9989303,
+    "place_id": "ChIJLwReJQDxmTkRcenYodV3Xgg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLwReJQDxmTkRcenYodV3Xgg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:41:01"
+  },
+  {
+    "business_name": "विकास धुलाई सेंटर",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "271123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "रोड गोंडा, वकील कुआं, Dumriya Deeh, Uttar Pradesh 271310",
+    "area": "271123",
+    "latitude": 27.030076599999997,
+    "longitude": 82.0815673,
+    "place_id": "ChIJGazByXX5mTkR3uVtjBoz1-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGazByXX5mTkR3uVtjBoz1-w",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:41:03"
+  }
+]

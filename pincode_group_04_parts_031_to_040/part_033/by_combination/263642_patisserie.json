@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Utsavcake.com",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Service establishment",
+    "pincode": "263642",
+    "phone_number": "N/A",
+    "website": "https://utsavcake.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Utsavcake.com, 263642, India",
+    "area": "263642",
+    "latitude": 29.8414756,
+    "longitude": 79.7750652,
+    "place_id": "ChIJtZo-2w_HNSIRGnVcVEWCsd4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtZo-2w_HNSIRGnVcVEWCsd4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 05:57:12"
+  },
+  {
+    "business_name": "Bani cake point",
+    "search_category": "Patisserie",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "263642",
+    "phone_number": "+91 84490 23085",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Takula - Gananath Marg, Dotiyal Gaon, Satarali, Uttarakhand 263601",
+    "area": "263642",
+    "latitude": 29.732374399999998,
+    "longitude": 79.7002722,
+    "place_id": "ChIJbZldBmS1oDkRE58nEgM1swY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbZldBmS1oDkRE58nEgM1swY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 05:57:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DCDC Kidney Care",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "263679",
+    "phone_number": "N/A",
+    "website": "https://dcdc.co.in/",
+    "rating": 5,
+    "reviews_count": 66,
+    "address": "Dialysis Unit, Shri Ganga Charan Aryawardhan Hospital, A-2, Rampur Garden, Bareilly, Uttar Pradesh 243001",
+    "area": "Rampur Garden",
+    "latitude": 28.3478839,
+    "longitude": 79.4268482,
+    "place_id": "ChIJSwNlu-YBoDkRySfv-tIN5VQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSwNlu-YBoDkRySfv-tIN5VQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:30:41"
+  },
+  {
+    "business_name": "Base Hospital, Rahi Care Kidney",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "263679",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1.5,
+    "reviews_count": 2,
+    "address": "263139, Mangal Parao, Banbhoolpura, Haldwani, Uttarakhand 263139",
+    "area": "Mangal Parao, Banbhoolpura",
+    "latitude": 29.2152314,
+    "longitude": 79.5295636,
+    "place_id": "ChIJU1UF1emaoDkRmaUVVS7PcMw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU1UF1emaoDkRmaUVVS7PcMw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:30:42"
+  }
+]

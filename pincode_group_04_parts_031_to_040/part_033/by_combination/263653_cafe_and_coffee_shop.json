@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cafe Americano",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "263653",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Avatara, Mahavatar, Babaji Cave, Dunagiri, Dwarahat Range, Uttarakhand 263653",
+    "area": "263653",
+    "latitude": 29.839310599999997,
+    "longitude": 79.45191919999999,
+    "place_id": "ChIJAVbZm7xXpzkRhad07x_8AT4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAVbZm7xXpzkRhad07x_8AT4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:07:49"
+  },
+  {
+    "business_name": "Gewad inn",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "263653",
+    "phone_number": "+91 97698 17777",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Gewad inn, near aswal hardware, Chaukhutiya, Uttarakhand 263656",
+    "area": "263653",
+    "latitude": 29.8901048,
+    "longitude": 79.3543021,
+    "place_id": "ChIJSznUksD9CTkRqy8PatilwPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSznUksD9CTkRqy8PatilwPc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:07:51"
+  }
+]

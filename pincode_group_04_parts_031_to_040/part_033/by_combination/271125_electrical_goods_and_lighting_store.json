@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dwivedi Electronic house",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "271125",
+    "phone_number": "+91 99188 22120",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 5,
+    "address": "4VF2+X74, Parwanpur, Uttar Pradesh 271125",
+    "area": "271125",
+    "latitude": 27.1248988,
+    "longitude": 81.85070879999999,
+    "place_id": "ChIJS3I2p1iNmTkRhEVwB2zYC4U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS3I2p1iNmTkRhEVwB2zYC4U",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:44:30"
+  },
+  {
+    "business_name": "Aadarsh Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "271125",
+    "phone_number": "+91 91613 47151",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4WJV+58Q, Jail Rd, near Ambedkar Chauraha, Civil Line, Housing Colony, Gonda, Uttar Pradesh 271001",
+    "area": "Civil Line, Housing Colony",
+    "latitude": 27.130459499999997,
+    "longitude": 81.9433638,
+    "place_id": "ChIJ0w1bCPjtmTkRX96JOAR4_p8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0w1bCPjtmTkRX96JOAR4_p8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:44:30"
+  }
+]

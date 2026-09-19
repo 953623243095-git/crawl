@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Rama Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry repair service",
+    "all_categories": "Jewelry repair service, Jeweler, Jewelry buyer, Jewelry designer, Jewelry store, Gemstone Jeweler, Silversmith, Wholesale jeweler",
+    "pincode": "263645",
+    "phone_number": "+91 98374 55811",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Purani bhai ji ki sale wali, gali, Patel Marg, Jhanda Chowk, Kotdwar, Uttarakhand 246149",
+    "area": "Jhanda Chowk",
+    "latitude": 29.745565799999998,
+    "longitude": 78.5197523,
+    "place_id": "ChIJSXBQNx99CTkR-yLCSreydN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSXBQNx99CTkR-yLCSreydN4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:00:54"
+  },
+  {
+    "business_name": "New Laser Soldering",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "263645",
+    "phone_number": "+91 70527 29309",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Harvansh Gali, Diwan Dayaram, Maruf Katra, Gorakhpur, Uttar Pradesh 273005",
+    "area": "Diwan Dayaram, Maruf Katra",
+    "latitude": 26.744658599999998,
+    "longitude": 83.356043,
+    "place_id": "ChIJFYwEGYBFkTkRVgicDE7sRHc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFYwEGYBFkTkRVgicDE7sRHc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:00:56"
+  }
+]

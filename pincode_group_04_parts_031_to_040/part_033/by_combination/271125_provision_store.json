@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHLOK GENERAL STORE",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "271125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "railway station marg, near Shiv mandir, Deeha' Kathola, Bhulbhuliya, Chhitnapur, Uttar Pradesh 271125",
+    "area": "Deeha' Kathola",
+    "latitude": 27.1403377,
+    "longitude": 81.8817096,
+    "place_id": "ChIJw08bUHbtmTkRWb_9vE3GRBg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw08bUHbtmTkRWb_9vE3GRBg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:43:50"
+  },
+  {
+    "business_name": "Mohit Provision Store",
+    "search_category": "Provision Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "271125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "2WVP+455, Lawwa Tepra, Uttar Pradesh 271123",
+    "area": "271125",
+    "latitude": 27.0427672,
+    "longitude": 81.93548249999999,
+    "place_id": "ChIJDbeer1LzmTkR1_q3Zbrr830",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDbeer1LzmTkR1_q3Zbrr830",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:43:51"
+  }
+]

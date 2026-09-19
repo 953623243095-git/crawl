@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharda Consultancy Services",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter",
+    "pincode": "263663",
+    "phone_number": "+91 99117 55650",
+    "website": "http://www.shardaconsultancy.com/",
+    "rating": 4.7,
+    "reviews_count": 194,
+    "address": "Badarpur Village, Badarpur, New Delhi, Delhi 110044",
+    "area": "Badarpur Village, Badarpur",
+    "latitude": 28.5039557,
+    "longitude": 77.3017773,
+    "place_id": "ChIJHeUW1yHlDDkRTNBI0Hjn4JM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHeUW1yHlDDkRTNBI0Hjn4JM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:21:22"
+  },
+  {
+    "business_name": "Dab Hand Solution Private Limited",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "263663",
+    "phone_number": "+91 135 264 3010",
+    "website": "http://dabhand.solutions/",
+    "rating": 3.4,
+    "reviews_count": 8,
+    "address": "Doon Express Business Park Rd, Transport Nagar, Subhash Nagar, Dehradun, Sewla Khurd, Uttarakhand 248002",
+    "area": "Transport Nagar, Subhash Nagar",
+    "latitude": 30.2811618,
+    "longitude": 77.990239,
+    "place_id": "ChIJAQAAMLorCTkRP4pjQd3GHX8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAMLorCTkRP4pjQd3GHX8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:21:22"
+  }
+]

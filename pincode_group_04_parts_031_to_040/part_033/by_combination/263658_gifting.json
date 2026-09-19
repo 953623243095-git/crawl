@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Narains miNi gift shop",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "263658",
+    "phone_number": "+91 96274 72699",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 11,
+    "address": "Mall Rd, Mallital, Nainital, Uttarakhand 263001",
+    "area": "Mallital",
+    "latitude": 29.390423,
+    "longitude": 79.45799989999999,
+    "place_id": "ChIJr33dnO2hoDkRGYf86XnnJ8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr33dnO2hoDkRGYf86XnnJ8I",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:13:57"
+  },
+  {
+    "business_name": "Surprise Genie",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop, Service establishment",
+    "pincode": "263658",
+    "phone_number": "+91 99901 44119",
+    "website": "https://surprisegenie.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Surprise Genie, 263658, India",
+    "area": "263658",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJK5MhgKvxDDkRUBIvU1Yim6I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK5MhgKvxDDkRUBIvU1Yim6I",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:13:58"
+  }
+]

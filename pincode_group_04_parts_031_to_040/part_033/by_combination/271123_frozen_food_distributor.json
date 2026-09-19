@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Icy-Pik Frozen Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, Takeout restaurant",
+    "pincode": "271123",
+    "phone_number": "+91 79 2791 3039",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 73,
+    "address": "University Area, Ahmedabad, Gujarat 380009",
+    "area": "University Area",
+    "latitude": 23.043399299999997,
+    "longitude": 72.54770839999999,
+    "place_id": "ChIJ____P_WEXjkRZar-UJ7FHPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____P_WEXjkRZar-UJ7FHPY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:40:35"
+  },
+  {
+    "business_name": "Bhanu Farms Ltd",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company",
+    "pincode": "271123",
+    "phone_number": "+91 81000 00011",
+    "website": "http://www.bhanufarms.com/",
+    "rating": 4.1,
+    "reviews_count": 51,
+    "address": "31, Chowringee Rd, Park Street area, Kolkata, West Bengal 700016",
+    "area": "Park Street area",
+    "latitude": 22.5547094,
+    "longitude": 88.3502829,
+    "place_id": "ChIJ2ZqD6hV3AjoRl7bQf2kRmrw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ZqD6hV3AjoRl7bQf2kRmrw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:40:35"
+  }
+]

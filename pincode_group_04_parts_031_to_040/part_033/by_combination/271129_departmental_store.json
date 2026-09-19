@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kripashanker Provision Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "271129",
+    "phone_number": "+91 63906 16107",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Mohalla Parav, Nawabganj, Uttar Pradesh 271303",
+    "area": "Mohalla Parav",
+    "latitude": 26.8654945,
+    "longitude": 82.13877579999999,
+    "place_id": "ChIJb_OrJIEBmjkRn46PXLjHYl4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb_OrJIEBmjkRn46PXLjHYl4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:47:10"
+  },
+  {
+    "business_name": "Bhagwat Traders",
+    "search_category": "Departmental Store",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store, General store",
+    "pincode": "271129",
+    "phone_number": "+91 70074 95710",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 8,
+    "address": "Mankapur, Uttar Pradesh 271302",
+    "area": "271129",
+    "latitude": 27.042040099999998,
+    "longitude": 82.2245117,
+    "place_id": "ChIJQ8LYvfpVlzkRZXxOLp3FwNo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ8LYvfpVlzkRZXxOLp3FwNo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:47:12"
+  }
+]

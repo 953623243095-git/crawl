@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manchaw fast food",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "263639",
+    "phone_number": "+91 84491 36885",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "JM38+RF6 Adms school, L R Sah Rd, Dharanaula, Almora, Uttarakhand 263601",
+    "area": "Dharanaula",
+    "latitude": 29.604536099999997,
+    "longitude": 79.6661364,
+    "place_id": "ChIJQeBOVwC3oDkRoatS3LOWx9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQeBOVwC3oDkRoatS3LOWx9A",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 05:52:18"
+  },
+  {
+    "business_name": "Foodsure",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Food and beverage consultant",
+    "all_categories": "Food and beverage consultant, Research and product development",
+    "pincode": "263639",
+    "phone_number": "+91 88263 13121",
+    "website": "https://foodsure.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "C-40, C Block, Sector 58, Noida, Uttar Pradesh 201309",
+    "area": "C Block, Sector 58",
+    "latitude": 28.6103389,
+    "longitude": 77.360894,
+    "place_id": "ChIJeUxt2uPlDDkR2DvkeG3Jfoc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeUxt2uPlDDkR2DvkeG3Jfoc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 05:52:20"
+  }
+]

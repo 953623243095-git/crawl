@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kamla Medical store",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "263653",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Malli Bazar, Dak bangla road, Dwarahat, Uttarakhand 263653",
+    "area": "263653",
+    "latitude": 29.7764265,
+    "longitude": 79.43140029999999,
+    "place_id": "ChIJeVtvPJRVpzkR7Guwrc5VsIk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeVtvPJRVpzkR7Guwrc5VsIk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:08:06"
+  },
+  {
+    "business_name": "Negi madical store",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "263653",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WCCC+67, Dwarahat Range, Uttarakhand 263656",
+    "area": "263653",
+    "latitude": 29.9209543,
+    "longitude": 79.4207306,
+    "place_id": "ChIJrwgaKwBZpzkRAyZ0VMqfiU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrwgaKwBZpzkRAyZ0VMqfiU4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:08:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alive fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "263679",
+    "phone_number": "+91 79833 96905",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 176,
+    "address": "Kashipur Bypass Rd, Rudrapur, Jagatpura, Uttarakhand 263153",
+    "area": "263679",
+    "latitude": 28.9746652,
+    "longitude": 79.3892499,
+    "place_id": "ChIJVemAJL1_oDkRu1Kk7ebyJbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVemAJL1_oDkRu1Kk7ebyJbw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:30:43"
+  },
+  {
+    "business_name": "Absolute fitness centre",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "263679",
+    "phone_number": "+91 92195 91115",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 34,
+    "address": "3G8P+3WP, R.K Tower, Car Rd, Bindukhatta, Uttarakhand 262402",
+    "area": "263679",
+    "latitude": 29.0652096,
+    "longitude": 79.5373236,
+    "place_id": "ChIJxyI4mWqHoDkRrtC8po_6zSE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxyI4mWqHoDkRrtC8po_6zSE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:30:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bandhan Bank",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Bank",
+    "all_categories": "Bank",
+    "pincode": "271001",
+    "phone_number": "+91 1800 258 8181",
+    "website": "https://bandhanbank.com/branch/gonda",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Plot no/Dag No. 2853/1, Bharaich Road, Dist, near Bus Station, Gonda, Uttar Pradesh 271003",
+    "area": "Civil Line, Veer Pur",
+    "latitude": 27.136915499999997,
+    "longitude": 81.959535,
+    "place_id": "ChIJ-bNnEbDvmTkRTc2uwa5AwQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-bNnEbDvmTkRTc2uwa5AwQw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:34:55"
+  },
+  {
+    "business_name": "HDFC Bank",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Bank",
+    "all_categories": "Bank, ATM, Business banking service, Car finance and loan company, Financial institution, Insurance company, Investment service, Loan agency, Private Sector Bank, Savings bank",
+    "pincode": "271001",
+    "phone_number": "+91 1800 1601",
+    "website": "https://www.hdfc.bank.in/branch-locator/uttarpradesh/gonda/hdfcbank-branch-gonda",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shree Lal Bahadur Shastri Degree College, Civil Lines, Gonda, Uttar Pradesh 271003",
+    "area": "Civil Lines",
+    "latitude": 27.1326164,
+    "longitude": 81.955986,
+    "place_id": "ChIJAefHsAnvmTkR1lHtF5VzJOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAefHsAnvmTkR1lHtF5VzJOI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:34:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Community Health Centre Khirerikhal",
+    "search_category": "Wellness Center",
+    "primary_category": "Community health center",
+    "all_categories": "Community health center",
+    "pincode": "263676",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M3MJ+525, NH 121, Khirerikhal, Khireri, Uttarakhand 246279",
+    "area": "Khirerikhal",
+    "latitude": 29.682857199999997,
+    "longitude": 79.0801505,
+    "place_id": "ChIJoXBTAAAfCjkRrjLtbQUmrwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoXBTAAAfCjkRrjLtbQUmrwI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:27:42"
+  },
+  {
+    "business_name": "Amdhar Ayurvedit Hospital",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "263676",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Patti Malla, Salt, Molekhal, Amdhar, Dhauragaon, Uttarakhand 263676",
+    "area": "263676",
+    "latitude": 29.6920343,
+    "longitude": 79.15916949999999,
+    "place_id": "ChIJS-pdjXQdCjkRuAc-T0QtCtg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS-pdjXQdCjkRuAc-T0QtCtg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:27:42"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bombay Batteries",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Battery Store",
+    "all_categories": "Battery Store, Auto parts store",
+    "pincode": "263679",
+    "phone_number": "+91 98974 55918",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Nehar Workshop Line, Barsati Rd, Heera Nagar, Haldwani, Uttarakhand 263139",
+    "area": "Heera Nagar",
+    "latitude": 29.219384299999998,
+    "longitude": 79.5308484,
+    "place_id": "ChIJRa1IXDKboDkRaMl1d88KxuA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRa1IXDKboDkRaMl1d88KxuA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:30:48"
+  },
+  {
+    "business_name": "Om Enterprises (Authorised Dealers Exide)",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Car battery store",
+    "all_categories": "Car battery store, Battery Store, Battery Wholesaler, Electrical equipment supplier",
+    "pincode": "263679",
+    "phone_number": "+91 94107 77648",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Banjarawala Rd, Bengali Kothi, Banjarawala, Dehradun, Uttarakhand 248121",
+    "area": "Bengali Kothi, Banjarawala",
+    "latitude": 30.2842488,
+    "longitude": 78.0381671,
+    "place_id": "ChIJ8QWKwL0pCTkRbJGGfwX5ynA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8QWKwL0pCTkRbJGGfwX5ynA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:30:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arora Watch Center and Arora Crockery",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch repair service",
+    "all_categories": "Watch repair service, Countertop store",
+    "pincode": "263661",
+    "phone_number": "+91 99976 79259",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No.29, Ansari Marg, Kalika Mandir, Paltan Bazaar, Dehradun, Uttarakhand 248001",
+    "area": "Kalika Mandir, Paltan Bazaar",
+    "latitude": 30.3231704,
+    "longitude": 78.0379992,
+    "place_id": "ChIJT30fQOspCTkRyvsSQQfqkFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT30fQOspCTkRyvsSQQfqkFU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:18:21"
+  },
+  {
+    "business_name": "Ravi Watch & Repairing Centre",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch repair service",
+    "all_categories": "Watch repair service, Watch store",
+    "pincode": "263661",
+    "phone_number": "+91 89586 23886",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 24,
+    "address": "823W+CM2, Dharampur Rd, Dharampur Chowk, Guru Nanak Vihar, Dharampur, Dehradun, Uttarakhand 248001",
+    "area": "Dharampur Chowk, Guru Nanak Vihar, Dharampur",
+    "latitude": 30.3035104,
+    "longitude": 78.046649,
+    "place_id": "ChIJZVreF6EpCTkRRikRKUL3mW8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZVreF6EpCTkRRikRKUL3mW8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:18:22"
+  }
+]

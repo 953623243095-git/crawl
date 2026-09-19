@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kalika Chulha Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Non Vegetarian Restaurant",
+    "all_categories": "Non Vegetarian Restaurant, Fast food restaurant",
+    "pincode": "271129",
+    "phone_number": "+91 73173 74000",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Faizabad - Lucknow Hwy, Opposite Hyundai SHowroom, Faizabad, Uttar Pradesh 224001",
+    "area": "271129",
+    "latitude": 26.766682,
+    "longitude": 82.1001216,
+    "place_id": "ChIJl69cjIkFmjkR4fOybEbjJJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl69cjIkFmjkR4fOybEbjJJ8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:47:23"
+  },
+  {
+    "business_name": "Gonda Chowpati",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "271129",
+    "phone_number": "+91 91406 15892",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "infront Narayan transport, 1109, Circular Road, Avas Vikas Colony, Bharatpuri, Gonda, Uttar Pradesh 271003",
+    "area": "Avas Vikas Colony, Bharatpuri",
+    "latitude": 27.1401582,
+    "longitude": 81.9713349,
+    "place_id": "ChIJ-c8ZkkLvmTkRO6Mjr7a7wkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-c8ZkkLvmTkRO6Mjr7a7wkA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:47:23"
+  }
+]

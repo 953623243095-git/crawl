@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Imagine Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Banquet hall, Event venue, Hotel, Wedding venue",
+    "pincode": "271126",
+    "phone_number": "+91 95111 18330",
+    "website": "https://imagineresort.in/",
+    "rating": 4.7,
+    "reviews_count": 499,
+    "address": "Plot No. CP 25, IIM ROAD, Sector B, Vasant Kunj, Lucknow, Uttar Pradesh 226003",
+    "area": "Sector B, Vasant Kunj",
+    "latitude": 26.883283,
+    "longitude": 80.8586906,
+    "place_id": "ChIJ3YlNewBVmTkR4u2cjgErPO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3YlNewBVmTkR4u2cjgErPO0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:46:30"
+  },
+  {
+    "business_name": "VintClub Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Wedding venue",
+    "pincode": "271126",
+    "phone_number": "+91 74084 04862",
+    "website": "https://vintclub.in/",
+    "rating": 4.5,
+    "reviews_count": 847,
+    "address": "Plot no 2, IT Park-3, Sushant Golf City Amar Shaheed Path, Lucknow - Sultanpur Rd, Lucknow, Uttar Pradesh 226030",
+    "area": "Golf City",
+    "latitude": 26.7933275,
+    "longitude": 80.9988285,
+    "place_id": "ChIJpayPmE_jmzkRRrfr_jhORQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpayPmE_jmzkRRrfr_jhORQ0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:46:31"
+  }
+]

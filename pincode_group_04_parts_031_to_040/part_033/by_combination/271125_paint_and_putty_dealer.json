@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Paints",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "271125",
+    "phone_number": "+91 94123 16196",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Bhawna Multiplex Complex, LG 20,21,22, Pandit Radharaman Satyavichitra Rd, Sikandra-Bodla Rd, Nidhi Kunj Colony, Kar Kunj Chauraha, Avas Vikas Colony, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Nidhi Kunj Colony, Kar Kunj Chauraha, Avas Vikas Colony, Sikandra",
+    "latitude": 27.2044048,
+    "longitude": 77.9536318,
+    "place_id": "ChIJ1fxIcY13dDkRfgUrsPezBzo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1fxIcY13dDkRfgUrsPezBzo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:44:31"
+  },
+  {
+    "business_name": "MISHRA PAINTS AND HARDWARE STORE",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint and Putty Dealer",
+    "all_categories": "Paint and Putty Dealer",
+    "pincode": "271125",
+    "phone_number": "+91 87951 49485",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Madhaipur Kurmi, Uttar Pradesh 271504",
+    "area": "271125",
+    "latitude": 27.023141199999998,
+    "longitude": 81.76372099999999,
+    "place_id": "ChIJJ3XiXUyJmTkRqN50REDKQSE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ3XiXUyJmTkRqN50REDKQSE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:44:32"
+  }
+]

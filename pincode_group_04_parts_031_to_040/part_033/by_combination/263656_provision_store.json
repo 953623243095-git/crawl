@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Corrbbet General store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "263656",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V9P3+VH7, Ganai, Chaukhutiya, Uttarakhand 263656",
+    "area": "263656",
+    "latitude": 29.887162699999998,
+    "longitude": 79.3539215,
+    "place_id": "ChIJWfvXSQD9CTkRboPsrzUVHtE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWfvXSQD9CTkRboPsrzUVHtE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:11:09"
+  },
+  {
+    "business_name": "General Store",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery delivery service",
+    "all_categories": "Grocery delivery service",
+    "pincode": "263656",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "BIJRANI, Rampur, Bijrani Rewari, Uttarakhand 263656",
+    "area": "BIJRANI",
+    "latitude": 29.9393711,
+    "longitude": 79.3434887,
+    "place_id": "ChIJ1WWdIGHjCTkRZjxNzhG1Zuw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1WWdIGHjCTkRZjxNzhG1Zuw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:11:09"
+  }
+]

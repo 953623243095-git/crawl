@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AJAY BIKE SERVICE CENTER",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Two Wheeler Repair Shop",
+    "pincode": "271129",
+    "phone_number": "+91 63075 26277",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Bus Stop, 00, Road, Jarwal Road, Gonda, Uttar Pradesh 271901",
+    "area": "271129",
+    "latitude": 27.1192514,
+    "longitude": 81.53467909999999,
+    "place_id": "ChIJo0_381-dmTkRLN5GqsFao1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo0_381-dmTkRLN5GqsFao1Y",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:47:42"
+  },
+  {
+    "business_name": "Bike Repair",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "271129",
+    "phone_number": "+91 92892 51607",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Colonelganj, Gonda, Uttar Pradesh 271502",
+    "area": "271129",
+    "latitude": 27.1900321,
+    "longitude": 81.681403,
+    "place_id": "ChIJfX0jGvKbmTkRzX7c2VdwEvA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfX0jGvKbmTkRzX7c2VdwEvA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:47:42"
+  }
+]

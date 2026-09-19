@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Quasay",
+    "search_category": "Spa",
+    "primary_category": "Bathroom supply store",
+    "all_categories": "Bathroom supply store, Bathroom remodeler, Glass manufacturer, Hot tub repair service, Hot tub store, Swimming pool contractor, Swimming pool supply store",
+    "pincode": "263652",
+    "phone_number": "+91 99995 95886",
+    "website": "http://www.quasay.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1/628, Sector H, Jankipuram, Lucknow, Uttar Pradesh 226021",
+    "area": "Sector H, Jankipuram",
+    "latitude": 26.919118599999997,
+    "longitude": 80.9566388,
+    "place_id": "ChIJi_CafstXmTkRqRtyYH-WLTA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi_CafstXmTkRqRtyYH-WLTA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:06:48"
+  },
+  {
+    "business_name": "Day night Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "263652",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Ground Floor, near Hotel Centrum, Civil Lines, Roorkee, Uttarakhand 247667",
+    "area": "Civil Lines",
+    "latitude": 29.8655488,
+    "longitude": 77.8867348,
+    "place_id": "ChIJB2dilXmzDjkRncsddKEHUM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB2dilXmzDjkRncsddKEHUM8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:06:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rachana",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Sofa store",
+    "all_categories": "Sofa store",
+    "pincode": "263678",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GG9H+462, Jaurasi, Uttarakhand 263135",
+    "area": "263678",
+    "latitude": 29.517753499999998,
+    "longitude": 79.5280264,
+    "place_id": "ChIJM-zpcwCloDkRo-J7XBJQLTg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM-zpcwCloDkRo-J7XBJQLTg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:29:23"
+  },
+  {
+    "business_name": "K.G.N Furniture's",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "263678",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MGJ5+FFC, Majkhali, Someshwar Range, Uttarakhand 263652",
+    "area": "263678",
+    "latitude": 29.6811975,
+    "longitude": 79.5086432,
+    "place_id": "ChIJC5g5VgCtoDkRLVb5h2snMQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC5g5VgCtoDkRLVb5h2snMQQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:29:23"
+  }
+]

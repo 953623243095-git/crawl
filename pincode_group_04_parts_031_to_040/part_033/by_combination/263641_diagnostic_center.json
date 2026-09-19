@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pawan Pathology",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical diagnostic imaging center",
+    "all_categories": "Medical diagnostic imaging center",
+    "pincode": "263641",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WJ34+WMG, Block, near Indian gas office, Siddharth Nagar, Naugher, Uttarakhand 263641",
+    "area": "Siddharth Nagar",
+    "latitude": 29.9048154,
+    "longitude": 79.6066926,
+    "place_id": "ChIJabNZrKlPpzkRQhAQJsIvHqQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJabNZrKlPpzkRQhAQJsIvHqQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 05:55:53"
+  },
+  {
+    "business_name": "Om Sainath Pathology Lab",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "263641",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "H6M9+6CQ, Distric Hospital Rd, Tildhukari, Champawat, Pithoragarh, Uttarakhand 262501",
+    "area": "Tildhukari",
+    "latitude": 29.5830979,
+    "longitude": 80.2186212,
+    "place_id": "ChIJ5QABe7sloTkRNgOYvZIIkA0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5QABe7sloTkRNgOYvZIIkA0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 05:55:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CA Service Online",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant",
+    "pincode": "271124",
+    "phone_number": "+91 120 423 1116",
+    "website": "http://www.caservicesonline.com/",
+    "rating": 4.1,
+    "reviews_count": 9,
+    "address": "Laxmi Deep Building, 509, Vikas Marg, Block S 2, Janakpuri District Center, Laxmi Nagar, New Delhi, Delhi, 110092",
+    "area": "Block S 2, Janakpuri District Center, Laxmi Nagar",
+    "latitude": 28.6293214,
+    "longitude": 77.2758455,
+    "place_id": "ChIJCw0eknL9DDkR_x2yn5DhtgQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCw0eknL9DDkR_x2yn5DhtgQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:43:32"
+  },
+  {
+    "business_name": "CHAUDHARY VERMA & ASSOCIATES",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant",
+    "pincode": "271124",
+    "phone_number": "N/A",
+    "website": "http://www.caajeetchaudhary.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RQ24+67Q, Chiyabari, Basti, Uttar Pradesh 272001",
+    "area": "Chiyabari",
+    "latitude": 26.8005784,
+    "longitude": 82.7557428,
+    "place_id": "ChIJJXNZTQDRkDkRzEpDcvScm-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJXNZTQDRkDkRzEpDcvScm-4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:43:32"
+  }
+]

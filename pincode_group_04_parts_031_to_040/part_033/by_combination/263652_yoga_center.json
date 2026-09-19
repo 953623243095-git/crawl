@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mangal yoga",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "263652",
+    "phone_number": "+91 77377 14377",
+    "website": "http://www.mangal-yoga.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "17, Nehru Park Rd, Sardarpura, Jodhpur, Rajasthan 342003",
+    "area": "Sardarpura",
+    "latitude": 26.274528399999998,
+    "longitude": 73.0145943,
+    "place_id": "ChIJv6ZzR_GNQTkRQIsQ4jolqYQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv6ZzR_GNQTkRQIsQ4jolqYQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:06:24"
+  },
+  {
+    "business_name": "Hiranyagarbh Yogshala",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "263652",
+    "phone_number": "+91 98973 92298",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hotel Aketa, 113-1/2, Rajpur road, Hathibarkala, Hathibarkala Salwala, Dehradun, Uttarakhand 248001",
+    "area": "Hathibarkala Salwala",
+    "latitude": 30.3486279,
+    "longitude": 78.0616491,
+    "place_id": "ChIJx68jLVzXCDkR0e61a0gErb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx68jLVzXCDkR0e61a0gErb4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:06:25"
+  }
+]

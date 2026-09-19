@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Durgesh Gift Shop",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "271003",
+    "phone_number": "+91 70780 19104",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Station Road, Gonda, Pure Shiva Bakhtawar, Uttar Pradesh 271003",
+    "area": "271003",
+    "latitude": 27.1109686,
+    "longitude": 81.9605002,
+    "place_id": "ChIJuYcm4CXxmTkRo8PHYOfBJMk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuYcm4CXxmTkRo8PHYOfBJMk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:38:05"
+  },
+  {
+    "business_name": "Hema Gift Shop",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "271003",
+    "phone_number": "+91 84330 04785",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mankapur Bus Stand, Jhanjhari Block, Gonda, Uttar Pradesh 271003",
+    "area": "Jhanjhari Block",
+    "latitude": 27.1305409,
+    "longitude": 81.9769992,
+    "place_id": "ChIJrQw16qvxmTkRFN5g5pIomA0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrQw16qvxmTkRFN5g5pIomA0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:38:06"
+  }
+]

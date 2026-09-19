@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandni Chowk",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Breakfast restaurant, Fast food restaurant",
+    "pincode": "263658",
+    "phone_number": "+91 81264 99991",
+    "website": "http://www.hghventures.com/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Mall Rd, Tallital, Nainital, Uttarakhand 263001",
+    "area": "Tallital",
+    "latitude": 29.3828508,
+    "longitude": 79.4637097,
+    "place_id": "ChIJm9dwpPChoDkRAkD-Y7MkEK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm9dwpPChoDkRAkD-Y7MkEK8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:13:02"
+  },
+  {
+    "business_name": "Anna - Purna",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Gujarati restaurant",
+    "all_categories": "Gujarati restaurant",
+    "pincode": "263658",
+    "phone_number": "+91 99174 28457",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "9FQ6+59P, Mall Rd, Mallital, Nainital, Uttarakhand 263001",
+    "area": "Mallital",
+    "latitude": 29.3879573,
+    "longitude": 79.4609546,
+    "place_id": "ChIJGWfLJvKhoDkRTAuW2KUJlx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGWfLJvKhoDkRTAuW2KUJlx0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:13:05"
+  }
+]

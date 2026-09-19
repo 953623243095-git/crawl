@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rai Bachchan",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "263660",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q8GF+9XF, Kharak, Uttarakhand 263660",
+    "area": "263660",
+    "latitude": 29.775946899999997,
+    "longitude": 79.3249194,
+    "place_id": "ChIJwXIZTAD_CTkRvWqyFI-JRbQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwXIZTAD_CTkRvWqyFI-JRbQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:16:14"
+  },
+  {
+    "business_name": "Bisht Genral Store",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "263660",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "R8W2+RG6, Majurjethua, Bhagoti, Uttarakhand 263656",
+    "area": "263660",
+    "latitude": 29.847018,
+    "longitude": 79.301236,
+    "place_id": "ChIJIaFWCQD9CTkRJtZpP3ajFd0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIaFWCQD9CTkRJtZpP3ajFd0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:16:14"
+  }
+]

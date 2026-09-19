@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Durga medical Store",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical diagnostic imaging center",
+    "all_categories": "Medical diagnostic imaging center",
+    "pincode": "263656",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X8MF+84P, Mehalchauri, Uttarakhand 246431",
+    "area": "263656",
+    "latitude": 29.983344,
+    "longitude": 79.3228135,
+    "place_id": "ChIJVVVVEcbjCTkRb3B7WPDPNig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVEcbjCTkRb3B7WPDPNig",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:11:36"
+  },
+  {
+    "business_name": "Deepak Medical Shop",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "263656",
+    "phone_number": "+91 94567 70084",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Village Dhamdev PO Bachhuwaban, Uttarakhand 246486",
+    "area": "263656",
+    "latitude": 29.951079999999997,
+    "longitude": 79.4050017,
+    "place_id": "ChIJ5TF2PltZpzkRUEpqDb1VCDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5TF2PltZpzkRUEpqDb1VCDM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:11:36"
+  }
+]

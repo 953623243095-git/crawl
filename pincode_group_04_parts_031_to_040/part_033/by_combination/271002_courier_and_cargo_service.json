@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Badagaon New DTDC",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, Delivery service",
+    "pincode": "271002",
+    "phone_number": "+91 79055 54366",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Branch Office, Ram Jas Market, Balrampur road, near Chantu Baba Mandir, Bargaon, Semra Damman, Gonda, Uttar Pradesh 271002",
+    "area": "Bargaon, Semra Damman",
+    "latitude": 27.1638763,
+    "longitude": 81.9755954,
+    "place_id": "ChIJzRQp25XvmTkRV83Zs1iJFh4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzRQp25XvmTkRV83Zs1iJFh4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:36:40"
+  },
+  {
+    "business_name": "Raghuveer purwa",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "271002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "4XM6+JP8, Khaira, Gonda, Janki Nagar, Uttar Pradesh 271003",
+    "area": "Khaira",
+    "latitude": 27.134021999999998,
+    "longitude": 81.961866,
+    "place_id": "ChIJ8WAcagDvmTkRvDTJt_37oiI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8WAcagDvmTkRvDTJt_37oiI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:36:43"
+  }
+]

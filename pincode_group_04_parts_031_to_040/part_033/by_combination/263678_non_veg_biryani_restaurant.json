@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Happy palace",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "263678",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Majkhali, Someshwar Range, Uttarakhand 263652",
+    "area": "263678",
+    "latitude": 29.6794375,
+    "longitude": 79.5146875,
+    "place_id": "ChIJq0ZeCq-toDkR_-jw4S4k_k4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq0ZeCq-toDkR_-jw4S4k_k4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:28:37"
+  },
+  {
+    "business_name": "Swad Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "263678",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GGXV+C8V, NH 109, Gangarkote, Uttarakhand 263135",
+    "area": "263678",
+    "latitude": 29.5486084,
+    "longitude": 79.5433082,
+    "place_id": "ChIJDXL9WgCloDkRgl-3hciPEiw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDXL9WgCloDkRgl-3hciPEiw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:28:37"
+  }
+]

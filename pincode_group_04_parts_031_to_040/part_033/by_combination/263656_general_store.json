@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KIROLA GENERAL STORE",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "263656",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "V8HV+FPR, near Block Chaukhutia, Ganai, Uttarakhand 263656",
+    "area": "263656",
+    "latitude": 29.878739999999997,
+    "longitude": 79.3443734,
+    "place_id": "ChIJUTzXinH9CTkRMLWUHz2Q4MA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUTzXinH9CTkRMLWUHz2Q4MA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:11:12"
+  },
+  {
+    "business_name": "Bisht genral store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "263656",
+    "phone_number": "+91 94107 72978",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "bisht genral store, Nh109, Jukanauli, Chaukhutiya, Uttarakhand 263656",
+    "area": "Jukanauli",
+    "latitude": 29.8682971,
+    "longitude": 79.3666914,
+    "place_id": "ChIJn_-dH6X9CTkRaXVogoijqP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn_-dH6X9CTkRaXVogoijqP0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:11:12"
+  }
+]

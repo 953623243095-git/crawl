@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deep Tailoring Shop",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "263667",
+    "phone_number": "+91 87553 82120",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Deep Talioring, Dewal, Purna, Uttarakhand 246427",
+    "area": "263667",
+    "latitude": 30.0559385,
+    "longitude": 79.5810523,
+    "place_id": "ChIJ-0UThBBDpzkRFlyekFytuz8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-0UThBBDpzkRFlyekFytuz8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:25:17"
+  },
+  {
+    "business_name": "Fancy Tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Dressmaker",
+    "all_categories": "Dressmaker",
+    "pincode": "263667",
+    "phone_number": "+91 98974 49968",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mill Shopping Complex, Gularghati Road, near Railway Crossing, Dehradun, Uttarakhand 248005",
+    "area": "Balawala",
+    "latitude": 30.2634527,
+    "longitude": 78.0941153,
+    "place_id": "ChIJ__tq1HQpCTkRe1QJLM_yBhI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__tq1HQpCTkRe1QJLM_yBhI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:25:17"
+  }
+]

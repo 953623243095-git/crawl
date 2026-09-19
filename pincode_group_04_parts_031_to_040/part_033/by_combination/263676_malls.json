@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chanch Central",
+    "search_category": "Malls",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "263676",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "P598+6JJ, Paisiya Pipna Road, Geluwa Danda, Uttarakhand 263676",
+    "area": "263676",
+    "latitude": 29.7180976,
+    "longitude": 79.16653099999999,
+    "place_id": "ChIJ7cZy5Nn3CTkR8yuxp04Mulg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7cZy5Nn3CTkR8yuxp04Mulg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:28:24"
+  },
+  {
+    "business_name": "Molekhal Block",
+    "search_category": "Malls",
+    "primary_category": "Malls",
+    "all_categories": "Malls",
+    "pincode": "263676",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Uttarakhand 263676",
+    "area": "263676",
+    "latitude": 29.666227799999998,
+    "longitude": 79.1545005,
+    "place_id": "ChIJ9ZVyraodCjkRc8sZ4M-XEX0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ZVyraodCjkRc8sZ4M-XEX0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:28:24"
+  }
+]

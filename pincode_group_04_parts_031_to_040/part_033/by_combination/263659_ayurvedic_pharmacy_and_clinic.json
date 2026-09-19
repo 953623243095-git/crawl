@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ayurvedic clinic",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "263659",
+    "phone_number": "+91 98171 84084",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 12,
+    "address": "Himachal Pradesh 177020",
+    "area": "263659",
+    "latitude": 31.7248888,
+    "longitude": 76.5015659,
+    "place_id": "ChIJ3Tw55H_TBDkRGi8YeykhQCM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Tw55H_TBDkRGi8YeykhQCM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:14:57"
+  },
+  {
+    "business_name": "Itoozhi Ayurveda -Ayurvedic Hospital",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic, Alternative Medicine Clinic",
+    "pincode": "263659",
+    "phone_number": "+91 460 227 4119",
+    "website": "https://itoozhiayurveda.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Chirakkal - Mayyil - Kololam Rd, Mayyil, Keralam 670602",
+    "area": "263659",
+    "latitude": 11.9935685,
+    "longitude": 75.44827819999999,
+    "place_id": "ChIJgcwN2To5pDsRkq7vDA2TTfg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgcwN2To5pDsRkq7vDA2TTfg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:14:58"
+  }
+]

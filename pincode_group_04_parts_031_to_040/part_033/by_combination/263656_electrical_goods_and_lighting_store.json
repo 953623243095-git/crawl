@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DEVBHOOMI ENTERPRISES",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical Goods and Lighting Store",
+    "all_categories": "Electrical Goods and Lighting Store",
+    "pincode": "263656",
+    "phone_number": "+91 70605 68966",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Bus Stop, Bhatkot, Chandikhet, Uttarakhand 263656",
+    "area": "263656",
+    "latitude": 29.871261099999998,
+    "longitude": 79.3417597,
+    "place_id": "ChIJzeCiwYX9CTkR9t27fHrwm-k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzeCiwYX9CTkR9t27fHrwm-k",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:11:49"
+  },
+  {
+    "business_name": "Suntha Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "263656",
+    "phone_number": "+91 89794 87833",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khadi gali, Takana Rd, Takana, Pithoragarh, Uttarakhand 262501",
+    "area": "Takana",
+    "latitude": 29.5818686,
+    "longitude": 80.2076857,
+    "place_id": "ChIJzZR77aQloTkRGevYZeuHxUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzZR77aQloTkRGevYZeuHxUI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:11:52"
+  }
+]

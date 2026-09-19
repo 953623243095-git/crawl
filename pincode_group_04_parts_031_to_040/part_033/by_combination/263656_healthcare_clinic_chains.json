@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Health care pharma clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "263656",
+    "phone_number": "+91 80520 59347",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "road, near Lakki hardware and electric, Mahuari, Naumunda, Uttar Pradesh 274207",
+    "area": "263656",
+    "latitude": 26.7335001,
+    "longitude": 83.6874284,
+    "place_id": "ChIJQez7DRjnkzkRpQuZqYnuYBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQez7DRjnkzkRpQuZqYnuYBU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:11:41"
+  },
+  {
+    "business_name": "Star Health Care Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "263656",
+    "phone_number": "+91 94510 50950",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Gola Bazar, Bhiti, Uttar Pradesh 273408",
+    "area": "263656",
+    "latitude": 26.344592,
+    "longitude": 83.4138378,
+    "place_id": "ChIJYbs1fFx3kTkR7TVoqgLPo8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYbs1fFx3kTkR7TVoqgLPo8U",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:11:41"
+  }
+]

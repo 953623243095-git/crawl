@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hans Engineering Works",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Agricultural machinery manufacturer",
+    "all_categories": "Agricultural machinery manufacturer",
+    "pincode": "263664",
+    "phone_number": "+91 95570 66066",
+    "website": "https://hansenggworks.com/",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "Hans Chauraha, 72/A, Suraj Kund Rd, Gandhi Nagar, Meerut, Uttar Pradesh 250001",
+    "area": "Gandhi Nagar",
+    "latitude": 28.9741058,
+    "longitude": 77.7205403,
+    "place_id": "ChIJ9ZZmILFlDDkRHuTCnCiPzd8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ZZmILFlDDkRHuTCnCiPzd8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:23:01"
+  },
+  {
+    "business_name": "Standard Corporation India Ltd",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "263664",
+    "phone_number": "+91 97800 25233",
+    "website": "http://standardcorp.in/",
+    "rating": 4.5,
+    "reviews_count": 121,
+    "address": "Standard Chowk, Barnala, Punjab 148107",
+    "area": "263664",
+    "latitude": 30.3347439,
+    "longitude": 75.5102538,
+    "place_id": "ChIJ6S2PiRXuEDkR5TK_DsCiSyk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6S2PiRXuEDkR5TK_DsCiSyk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:23:02"
+  }
+]

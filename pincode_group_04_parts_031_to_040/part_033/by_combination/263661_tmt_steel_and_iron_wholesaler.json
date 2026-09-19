@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guru Steels",
+    "search_category": "TMT Steel and Iron Wholesaler",
+    "primary_category": "Steel distributor",
+    "all_categories": "Steel distributor",
+    "pincode": "263661",
+    "phone_number": "+91 99270 09656",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "71, Saharanpur Rd, Sewla Kalan, Majra, Dehradun, Uttarakhand 248171",
+    "area": "Sewla Kalan, Majra",
+    "latitude": 30.300537199999997,
+    "longitude": 78.0082712,
+    "place_id": "ChIJxZgniy0qCTkR_eaP1SapJJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxZgniy0qCTkR_eaP1SapJJI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:18:43"
+  },
+  {
+    "business_name": "MITTAL IRON STORE",
+    "search_category": "TMT Steel and Iron Wholesaler",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "263661",
+    "phone_number": "+91 97202 32003",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Kapoor Market, Raipur Rd, Adhoiwala, Dehradun, Uttarakhand 248001",
+    "area": "Adhoiwala",
+    "latitude": 30.3229497,
+    "longitude": 78.0664273,
+    "place_id": "ChIJLwl2CjUpCTkRyvCc_BKZs60",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLwl2CjUpCTkRyvCc_BKZs60",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:18:45"
+  }
+]

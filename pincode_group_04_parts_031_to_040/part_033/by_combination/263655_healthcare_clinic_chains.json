@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Nikunj Agarwal Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "263655",
+    "phone_number": "+91 86309 06242",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "NH309, Pant Colony, Ramnagar, Shivlalpur Khazanchi, Uttarakhand 244715",
+    "area": "Pant Colony",
+    "latitude": 29.3866655,
+    "longitude": 79.12337219999999,
+    "place_id": "ChIJ8Yr0rncTCjkR14IK_-zuFuE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Yr0rncTCjkR14IK_-zuFuE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:09:57"
+  },
+  {
+    "business_name": "Apollo Clinic Dehradun",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Dental clinic, Diabetes center, Diagnostic center, Health consultant, Medical Center, Medical examiner, Medical laboratory, Physiotherapist, Radiologist, X-ray lab",
+    "pincode": "263655",
+    "phone_number": "+91 82660 43208",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "3rd Floor, Apollo Tower, Ballupur Rd, near Kishan Nagar Chowk, Deeplok Colony, Khurbura Mohalla, Dehradun, Uttarakhand 248001",
+    "area": "Deeplok Colony, Khurbura Mohalla",
+    "latitude": 30.3333519,
+    "longitude": 78.024666,
+    "place_id": "ChIJA4AwjfkpCTkRxm_XA5jX_mM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA4AwjfkpCTkRxm_XA5jX_mM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:09:57"
+  }
+]

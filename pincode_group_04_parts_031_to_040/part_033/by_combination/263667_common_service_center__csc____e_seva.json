@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CSC CENTER",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "263667",
+    "phone_number": "+91 94583 28988",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ward number 03, CHAKA ROAD, PO, Gaja, Uttarakhand 249146",
+    "area": "PO",
+    "latitude": 30.2674639,
+    "longitude": 78.4207643,
+    "place_id": "ChIJHdM92fgbCTkRo9fVUJDO6Ds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHdM92fgbCTkRo9fVUJDO6Ds",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:26:17"
+  },
+  {
+    "business_name": "CSC (Common Service Center)",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "263667",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Orakhan, Simyal Gaon, Uttarakhand 263158",
+    "area": "263667",
+    "latitude": 29.476789699999998,
+    "longitude": 79.6260406,
+    "place_id": "ChIJQ5huNAe7oDkRqm4hL-57D1c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ5huNAe7oDkRqm4hL-57D1c",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:26:17"
+  }
+]

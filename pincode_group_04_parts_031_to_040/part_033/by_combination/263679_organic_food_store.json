@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Organic Kumaon",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop",
+    "pincode": "263679",
+    "phone_number": "+91 82181 43702",
+    "website": "http://organickumaon.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "kumour band, Pithoragarh, Uttarakhand 262501",
+    "area": "kumour band",
+    "latitude": 29.5824337,
+    "longitude": 80.2146425,
+    "place_id": "ChIJfxM8vcoloTkRr1HX59pUCgc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfxM8vcoloTkRr1HX59pUCgc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:30:14"
+  },
+  {
+    "business_name": "Fresh forest",
+    "search_category": "Organic Food Store",
+    "primary_category": "Fresh food market",
+    "all_categories": "Fresh food market",
+    "pincode": "263679",
+    "phone_number": "+91 75338 08130",
+    "website": "https://freshforest.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "post, Sargakhet, Bhatelia, South Gola Range, Uttarakhand 263138",
+    "area": "Sargakhet",
+    "latitude": 29.4404434,
+    "longitude": 79.6478695,
+    "place_id": "ChIJhfi6x1K9oDkR81GwvtYNxuk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhfi6x1K9oDkR81GwvtYNxuk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:30:14"
+  }
+]

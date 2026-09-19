@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aman palace",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "271126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "ATTA, Paraspur, Uttar Pradesh 271504",
+    "area": "ATTA",
+    "latitude": 27.0386779,
+    "longitude": 81.7762463,
+    "place_id": "ChIJW44xL0CPmTkR5slrgd2EaDs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW44xL0CPmTkR5slrgd2EaDs",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:46:26"
+  },
+  {
+    "business_name": "Shiv furniture house",
+    "search_category": "Banquet Hall",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "271126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "Gayatripuram near baba mazar, Uttar Pradesh 271003",
+    "area": "Shams Nagar, Jhanjhari Block",
+    "latitude": 27.1202345,
+    "longitude": 81.9518394,
+    "place_id": "ChIJl1w7odLzmTkRB7Yf7AqzB0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl1w7odLzmTkRB7Yf7AqzB0g",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:46:28"
+  }
+]

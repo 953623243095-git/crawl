@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spark Restaurent",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "263652",
+    "phone_number": "+91 75794 24828",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Spark restourent, goucher chourha, Dwarahat, Egyara, Uttarakhand 263653",
+    "area": "goucher chourha",
+    "latitude": 29.758440699999998,
+    "longitude": 79.4280187,
+    "place_id": "ChIJZ2aTBz1VpzkRZgeIIetn2IE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ2aTBz1VpzkRZgeIIetn2IE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:06:01"
+  },
+  {
+    "business_name": "Moghal Empire Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Mughlai restaurant",
+    "all_categories": "Mughlai restaurant, North Indian restaurant",
+    "pincode": "263652",
+    "phone_number": "+91 96749 71898",
+    "website": "http://www.moghalempire.com/",
+    "rating": 4,
+    "reviews_count": 7808,
+    "address": "Kona Expy, Chatterjihat, Shibpur, Howrah, West Bengal 711104",
+    "area": "Chatterjihat, Shibpur",
+    "latitude": 22.569319699999998,
+    "longitude": 88.3061613,
+    "place_id": "ChIJ77bsdTZ4AjoRubYR35iNb-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ77bsdTZ4AjoRubYR35iNb-Y",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:06:02"
+  }
+]

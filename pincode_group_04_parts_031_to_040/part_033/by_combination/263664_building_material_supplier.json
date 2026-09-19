@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kumar building material",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "263664",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "7PXM+QVQ, Jalalpur-Mittupur Road, kumarnagar, Jamooli, Jalalpur, Uttar Pradesh 224149",
+    "area": "kumarnagar",
+    "latitude": 26.2994789,
+    "longitude": 82.7343025,
+    "place_id": "ChIJ2a7Z97b3kDkRp6TIQTkzKgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2a7Z97b3kDkRp6TIQTkzKgw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:22:16"
+  },
+  {
+    "business_name": "Shiv shakti hardware & transport",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "263664",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M9PC+FHP, Tipola, Ladholi, Uttarakhand 263645",
+    "area": "263664",
+    "latitude": 29.6862119,
+    "longitude": 79.3714521,
+    "place_id": "ChIJvTY7eAABCjkROXowlgsKcx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvTY7eAABCjkROXowlgsKcx8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:22:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. KKBM Subharti Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "263664",
+    "phone_number": "+91 81940 07026",
+    "website": "http://hospital.gbcm.in/",
+    "rating": 3.9,
+    "reviews_count": 516,
+    "address": "Subhartipuram, Phaze 2, NH 72 Jhajra, Chakrata Rd, Dehradun, Uttarakhand 248015",
+    "area": "263664",
+    "latitude": 30.342934999999997,
+    "longitude": 77.9095181,
+    "place_id": "ChIJ70kHAT8rDzkRqSrcZJXVMXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ70kHAT8rDzkRqSrcZJXVMXw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:21:53"
+  },
+  {
+    "business_name": "Jeevandhara Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "263664",
+    "phone_number": "+91 63965 72911",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Jeevandhara Hospital, Chakrata Rd, Selakui, Dehradun, Uttarakhand 248011",
+    "area": "263664",
+    "latitude": 30.3549643,
+    "longitude": 77.8565334,
+    "place_id": "ChIJsReVWMgrDzkRnqqv9k584iU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsReVWMgrDzkRnqqv9k584iU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:21:54"
+  }
+]

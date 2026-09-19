@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abbu Bhai Beef Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "271003",
+    "phone_number": "+91 99894 36740",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 25,
+    "address": "8-4-369/473/A, New Allapur, Swaraj Nagar, Borabanda, Hyderabad, Telangana 500114",
+    "area": "New Allapur, Swaraj Nagar, Borabanda",
+    "latitude": 17.454598,
+    "longitude": 78.40964,
+    "place_id": "ChIJlYunCRORyzsR0JxNulItlvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlYunCRORyzsR0JxNulItlvk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:37:06"
+  },
+  {
+    "business_name": "Mutton chicken fish market",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "271003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "VXVH+336, Khurram Nagar Mandi, Chandanapur, Indira Nagar, Lucknow, Uttar Pradesh 226016",
+    "area": "Chandanapur, Indira Nagar",
+    "latitude": 26.8926745,
+    "longitude": 80.9776426,
+    "place_id": "ChIJu-r4yjBXmTkR5eMEjFnCtCs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu-r4yjBXmTkR5eMEjFnCtCs",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:37:07"
+  }
+]

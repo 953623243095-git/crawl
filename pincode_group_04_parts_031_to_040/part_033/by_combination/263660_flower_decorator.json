@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Flower Decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower market",
+    "all_categories": "Flower market",
+    "pincode": "263660",
+    "phone_number": "N/A",
+    "website": "https://flower-trade-center.grexa.site/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "flower market, Block D, Ghazipur Dairy Farm, Ghazipur, New Delhi, Delhi, 110096",
+    "area": "Block D, Ghazipur Dairy Farm, Ghazipur",
+    "latitude": 28.6261923,
+    "longitude": 77.321772,
+    "place_id": "ChIJE3j2iTXlDDkRTgxZsTAIefI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE3j2iTXlDDkRTgxZsTAIefI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:17:14"
+  },
+  {
+    "business_name": "Flower valley",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower delivery",
+    "all_categories": "Flower delivery",
+    "pincode": "263660",
+    "phone_number": "+91 92582 15477",
+    "website": "http://flower-valley-uttar-pradesh.com/",
+    "rating": 5,
+    "reviews_count": 44,
+    "address": "Indra Nagar, Dhanipur, Aligarh, Uttar Pradesh 202002",
+    "area": "Indra Nagar, Dhanipur",
+    "latitude": 27.870552399999998,
+    "longitude": 78.11087169999999,
+    "place_id": "ChIJsQ0cbbmldDkRQ_S5SoHwCw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsQ0cbbmldDkRQ_S5SoHwCw4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:17:14"
+  }
+]

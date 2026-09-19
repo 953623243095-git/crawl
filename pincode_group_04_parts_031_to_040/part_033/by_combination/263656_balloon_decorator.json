@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raju Events Decor",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon store",
+    "all_categories": "Balloon store",
+    "pincode": "263656",
+    "phone_number": "+91 88605 51276",
+    "website": "https://rajueventsdecor.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "RC 1044, Subhash Park, Rajeev Nagar, Khora Colony, Sector 62A, Ghaziabad, Noida, Uttar Pradesh 201020",
+    "area": "Subhash Park, Rajeev Nagar, Khora Colony, Sector 62A",
+    "latitude": 28.625670699999997,
+    "longitude": 77.3400285,
+    "place_id": "ChIJD1foeCbFWoMR2o4E9dDEU2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD1foeCbFWoMR2o4E9dDEU2I",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:12:06"
+  },
+  {
+    "business_name": "Balloon Decoration",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "263656",
+    "phone_number": "+91 86303 79953",
+    "website": "https://choudharydecoratorsncr.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Rc 1044, Subhash Park, Khora Colony, Ghaziabad, Delhi, Noida, Uttar Pradesh 201020",
+    "area": "Subhash Park, Khora Colony, Ghaziabad",
+    "latitude": 28.6248272,
+    "longitude": 77.3407838,
+    "place_id": "ChIJ9eIkJILlDDkRpG88KDL-te0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9eIkJILlDDkRpG88KDL-te0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:12:08"
+  }
+]

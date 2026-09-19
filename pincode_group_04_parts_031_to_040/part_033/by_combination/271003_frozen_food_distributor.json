@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kamala Quality Bite",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company, Frozen food manufacturer",
+    "pincode": "271003",
+    "phone_number": "+91 98793 00969",
+    "website": "https://kqbfood.com/product-category/dehydrated-freezed-dried-food/",
+    "rating": 4.9,
+    "reviews_count": 231,
+    "address": "Swaminarayan Avenue, B-17 132 Feet Ring Rd, Vijay Cross Rd, near Torrent, AEC Char Rasta, Naranpura, Ahmedabad, Gujarat 380013",
+    "area": "AEC Char Rasta, Naranpura",
+    "latitude": 23.0534674,
+    "longitude": 72.5474127,
+    "place_id": "ChIJTzliDHOFXjkRyrkmPIIO5r0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTzliDHOFXjkRyrkmPIIO5r0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:37:08"
+  },
+  {
+    "business_name": "Santram Dairy & Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Dairy Products Supplier",
+    "all_categories": "Dairy Products Supplier, Food products supplier, Frozen food store",
+    "pincode": "271003",
+    "phone_number": "+91 99044 88806",
+    "website": "https://santram-dairy-foods.grexa.site/",
+    "rating": 4.4,
+    "reviews_count": 57,
+    "address": "17, viral plaza complex, Central Bank Of India, Vallabh Vidyanagar, Anand, Gujarat 388120",
+    "area": "Vallabh Vidyanagar",
+    "latitude": 22.5467867,
+    "longitude": 72.9264962,
+    "place_id": "ChIJqXSuFt9NXjkRacEyUfrlsT0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqXSuFt9NXjkRacEyUfrlsT0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:37:09"
+  }
+]

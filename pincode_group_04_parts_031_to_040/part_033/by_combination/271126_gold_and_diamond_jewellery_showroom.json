@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Santosh jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "271126",
+    "phone_number": "+91 91152 84967",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Gonda Road, Katra, Uttar Pradesh 271503",
+    "area": "271126",
+    "latitude": 27.204703799999997,
+    "longitude": 81.7931169,
+    "place_id": "ChIJ0QMwtWWTmTkRuyFGTgHQ-Ak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0QMwtWWTmTkRuyFGTgHQ-Ak",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:45:44"
+  },
+  {
+    "business_name": "Bheem chand jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "271126",
+    "phone_number": "+91 99367 20531",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 196,
+    "address": "SH 1A, Mahariya, Naugarh, Tetri Bazar, Uttar Pradesh 272207",
+    "area": "Mahariya",
+    "latitude": 27.2771704,
+    "longitude": 83.08485139999999,
+    "place_id": "ChIJLwgdnq7EljkRDmixF1zs_YQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLwgdnq7EljkRDmixF1zs_YQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:45:45"
+  }
+]

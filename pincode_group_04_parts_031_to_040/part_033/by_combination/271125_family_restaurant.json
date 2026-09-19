@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JAY MAHAKAL FAMILY RESTAURANT",
+    "search_category": "Family Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "271125",
+    "phone_number": "+91 97215 99096",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "04 Mandap Mata Mandir, Road, Gonda, Deharas, Uttar Pradesh 271123",
+    "area": "271125",
+    "latitude": 27.084903999999998,
+    "longitude": 81.91020209999999,
+    "place_id": "ChIJabdjumTzmTkRnLAaRIOQrfo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJabdjumTzmTkRnLAaRIOQrfo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:44:01"
+  },
+  {
+    "business_name": "Chaubey Misthan",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "271125",
+    "phone_number": "+91 63877 05070",
+    "website": "https://whatsapp.com/channel/0029Vb6ofeA9cDDcK6oTdI04",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "PWD Office, Headpost Office Chauraha, Infront Of, Jail Rd, Nayyar Colony, Housing Colony, Gonda, Uttar Pradesh 271001",
+    "area": "Nayyar Colony, Housing Colony",
+    "latitude": 27.1282139,
+    "longitude": 81.94341519999999,
+    "place_id": "ChIJMQjMfwnzmTkRNEa19jpdAyo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMQjMfwnzmTkRNEa19jpdAyo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:44:01"
+  }
+]

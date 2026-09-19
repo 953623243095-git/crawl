@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saloon Shop",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "271126",
+    "phone_number": "+91 89481 45976",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "ITYATHOK, Balrampur Road, Gonda, Uttar Pradesh 271202",
+    "area": "271126",
+    "latitude": 27.294952199999997,
+    "longitude": 82.0318922,
+    "place_id": "ChIJTQyFyRbpmTkRehOVUTDUbuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTQyFyRbpmTkRehOVUTDUbuU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:46:24"
+  },
+  {
+    "business_name": "A R Salmani saloon matrial shop",
+    "search_category": "Unisex Salon",
+    "primary_category": "Barber supply store",
+    "all_categories": "Barber supply store",
+    "pincode": "271126",
+    "phone_number": "+91 94549 23911",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main road, Katra Rd, near Bank of India, Laharpur, Uttar Pradesh 261135",
+    "area": "271126",
+    "latitude": 27.7091484,
+    "longitude": 80.9054111,
+    "place_id": "ChIJU-0fJKbXmDkRrq3E7txhwc0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU-0fJKbXmDkRrq3E7txhwc0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:46:24"
+  }
+]

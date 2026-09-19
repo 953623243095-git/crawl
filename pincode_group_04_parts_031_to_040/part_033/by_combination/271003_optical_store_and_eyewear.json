@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Geeta Optical",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "271003",
+    "phone_number": "+91 97218 02468",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "37/3, Gonda, Chandravatpur, Uttar Pradesh 271003",
+    "area": "271003",
+    "latitude": 27.1756161,
+    "longitude": 81.9284029,
+    "place_id": "ChIJ_xVCf3LtmTkRxW3SYE4koyk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_xVCf3LtmTkRxW3SYE4koyk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:37:24"
+  },
+  {
+    "business_name": "CVC Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Sunglasses store",
+    "all_categories": "Sunglasses store, Optical Wholesaler, Optician, Optometrist",
+    "pincode": "271003",
+    "phone_number": "+91 1800 11 2668",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P, Jeevan Deep Chikitsalay, 18, Circular Road, Avas Vikas Colony, Bharatpuri, Gonda, Uttar Pradesh 271002",
+    "area": "Avas Vikas Colony, Bharatpuri",
+    "latitude": 27.143144,
+    "longitude": 81.9708464,
+    "place_id": "ChIJkyD3zbjvmTkRX59sGoDWlfk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkyD3zbjvmTkRX59sGoDWlfk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:37:25"
+  }
+]

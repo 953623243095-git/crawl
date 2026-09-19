@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pratap Genral store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "263661",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "R4WQ+QFC Ikukhet, Matkhani, Uttarakhand 263661",
+    "area": "263661",
+    "latitude": 29.8469375,
+    "longitude": 79.1386875,
+    "place_id": "ChIJmVPHQZTxCTkRzcPi-0gib20",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmVPHQZTxCTkRzcPi-0gib20",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:18:01"
+  },
+  {
+    "business_name": "Manral General Store",
+    "search_category": "Provision Store",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "263661",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "V633+QQP, Wal Mara, Uttarakhand 263661",
+    "area": "263661",
+    "latitude": 29.854473,
+    "longitude": 79.2044659,
+    "place_id": "ChIJT_QZH8b7CTkRhXOJWejQxS0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT_QZH8b7CTkRhXOJWejQxS0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:18:01"
+  }
+]

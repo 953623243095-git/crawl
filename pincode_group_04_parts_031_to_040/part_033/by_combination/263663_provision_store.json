@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pandey General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "263663",
+    "phone_number": "+91 86505 11237",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khadi bazar, Papani Kothar, Ranikhet, Patholi, Uttarakhand 263663",
+    "area": "Papani Kothar",
+    "latitude": 29.614075399999997,
+    "longitude": 79.406812,
+    "place_id": "ChIJr5luQACpoDkRHl3P61CJAWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr5luQACpoDkRHl3P61CJAWc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:19:43"
+  },
+  {
+    "business_name": "Bohra General Store",
+    "search_category": "Provision Store",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "263663",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GC9C+4FM, Simalkhan, Uttarakhand 263159",
+    "area": "263663",
+    "latitude": 29.5178403,
+    "longitude": 79.4211567,
+    "place_id": "ChIJx0QNOgCnoDkReFUd0td206E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx0QNOgCnoDkReFUd0td206E",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:19:46"
+  }
+]

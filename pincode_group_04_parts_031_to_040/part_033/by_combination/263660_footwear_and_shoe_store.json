@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aggarwal Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "263660",
+    "phone_number": "+91 135 263 2182",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "The Mall Road, Mussoorie, Uttarakhand 248179",
+    "area": "The Mall Road",
+    "latitude": 30.455414899999997,
+    "longitude": 78.0797857,
+    "place_id": "ChIJEz9nY8TQCDkRES3NPiMknAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEz9nY8TQCDkRES3NPiMknAE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:16:35"
+  },
+  {
+    "business_name": "shoe factory",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "263660",
+    "phone_number": "N/A",
+    "website": "http://www.shoefactory.com/",
+    "rating": 4.2,
+    "reviews_count": 47,
+    "address": "Garhi Cantt, Dehradun, Uttarakhand 248003",
+    "area": "Garhi Cantt",
+    "latitude": 30.340708699999997,
+    "longitude": 78.0390972,
+    "place_id": "ChIJk51pkP8pCTkRlLLaRtT-Ue4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk51pkP8pCTkRlLLaRtT-Ue4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:16:36"
+  }
+]

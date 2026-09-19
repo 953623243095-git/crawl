@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "263661",
+    "phone_number": "N/A",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "17 JHIMAR SALT AMO, UTTARANCHAL 263676 India JHIMAAR SULT,PIN-263676, Uttarakhand 263676",
+    "area": "263661",
+    "latitude": 29.760315,
+    "longitude": 79.16833799999999,
+    "place_id": "ChIJX5WO5Ez3CTkR4bOPEdftjwA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX5WO5Ez3CTkR4bOPEdftjwA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:19:16"
+  },
+  {
+    "business_name": "Om Sai Telecom",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "263661",
+    "phone_number": "+91 96907 27872",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Boragaon, Chaukhutiya, Uttarakhand 263656",
+    "area": "263661",
+    "latitude": 29.8871899,
+    "longitude": 79.35282269999999,
+    "place_id": "ChIJjzxE3RX9CTkRUd2V1kTdL-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjzxE3RX9CTkRUd2V1kTdL-w",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:19:19"
+  }
+]

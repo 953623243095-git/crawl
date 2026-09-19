@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Salon and Spa Consultancy",
+    "search_category": "Spa Consultants",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant, Service establishment",
+    "pincode": "263653",
+    "phone_number": "+91 91372 03897",
+    "website": "https://www.salonandspaconsultancy.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Salon and Spa Consultancy, 263653, India",
+    "area": "263653",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJXddgszPL5WgRZX3pe_xbr2E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXddgszPL5WgRZX3pe_xbr2E",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:08:36"
+  },
+  {
+    "business_name": "Zaara Spa In Miraroad",
+    "search_category": "Spa Consultants",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Day spa, Foot massage parlor, Massage spa, Spa and health club, Sports massage therapist, Thai massage therapist",
+    "pincode": "263653",
+    "phone_number": "+91 88288 25518",
+    "website": "https://zaaraspamiraroad.in/",
+    "rating": 4.8,
+    "reviews_count": 323,
+    "address": "Building, 04, Junction, off Kashimira, MIDC, Mira Road East, Mira Bhayandar, Maharashtra 401107",
+    "area": "MIDC, Mira Road East",
+    "latitude": 19.269519199999998,
+    "longitude": 72.8804382,
+    "place_id": "ChIJ2cXh9OKx5zsR6Er4EW2lVxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2cXh9OKx5zsR6Er4EW2lVxc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:08:36"
+  }
+]

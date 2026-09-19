@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RJ Medicure Pharma",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "263678",
+    "phone_number": "+91 95283 62500",
+    "website": "https://rj-medicure-pharma.vercel.app/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kaladungi Road, near Uttrakhand Gramin Bank, Kamaluaganja, Bhagwanpur Vichla, Haldwani, Uttarakhand 263129",
+    "area": "Kamaluaganja, Bhagwanpur Vichla",
+    "latitude": 29.210747599999998,
+    "longitude": 79.46792119999999,
+    "place_id": "ChIJd-OuumOdoDkRJCGPOsRJXuc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd-OuumOdoDkRJCGPOsRJXuc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:28:51"
+  },
+  {
+    "business_name": "Govinda medicos",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Ayurvedic clinic, Surgical supply store",
+    "pincode": "263678",
+    "phone_number": "+91 96909 50211",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Rampur Rd, Dahariya, Haldwani, Uttarakhand 263139",
+    "area": "Dahariya",
+    "latitude": 29.203225999999997,
+    "longitude": 79.5163268,
+    "place_id": "ChIJrdeUcluboDkR_Qd3XjISIl4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrdeUcluboDkR_Qd3XjISIl4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:28:53"
+  }
+]

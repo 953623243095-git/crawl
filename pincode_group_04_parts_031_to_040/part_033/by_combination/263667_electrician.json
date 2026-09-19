@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaggi Electrician",
+    "search_category": "Electrician",
+    "primary_category": "Electrical installation service",
+    "all_categories": "Electrical installation service",
+    "pincode": "263667",
+    "phone_number": "+91 73107 29296",
+    "website": "https://www.jaggi.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vill, Chhinka, Uttarakhand 246171",
+    "area": "Vill",
+    "latitude": 30.3067316,
+    "longitude": 79.1086569,
+    "place_id": "ChIJJeTJnRvJCTkR0jkDKCQAlm4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJeTJnRvJCTkR0jkDKCQAlm4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:25:49"
+  },
+  {
+    "business_name": "Electrician in dehradun",
+    "search_category": "Electrician",
+    "primary_category": "Engineer",
+    "all_categories": "Engineer",
+    "pincode": "263667",
+    "phone_number": "+91 97196 21745",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Balawala Rd, Manav vihar, Nathuawala, Dehradun, Uttarakhand 248008",
+    "area": "Manav vihar, Nathuawala",
+    "latitude": 30.2826797,
+    "longitude": 78.1083544,
+    "place_id": "ChIJvT0BI2spCTkRUvocFGdbtwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvT0BI2spCTkRUvocFGdbtwI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:25:49"
+  }
+]

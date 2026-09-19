@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sawan Dry Fruits",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store, Convenience store, General store, Health food store, Organic shop",
+    "pincode": "263660",
+    "phone_number": "+91 95991 69031",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 16,
+    "address": "Shop No.6507-8, Fatehpuri Chowk, Khari Baoli Rd, Fatehpuri, Chandni Chowk, New Delhi, Delhi 110006",
+    "area": "Old Delhi, Fatehpuri, Chandni Chowk",
+    "latitude": 28.656975499999998,
+    "longitude": 77.2231599,
+    "place_id": "ChIJDZT0HxL9DDkRUv9bJ5A4_1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDZT0HxL9DDkRUv9bJ5A4_1E",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:16:18"
+  },
+  {
+    "business_name": "Natural Mewa",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store",
+    "pincode": "263660",
+    "phone_number": "+91 87708 16479",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 49,
+    "address": "G3, Metro Pride G1, Near, Janki Nagar Ave, Angad Kapoor Region, Navlakha, Indore, Madhya Pradesh 452001",
+    "area": "Angad Kapoor Region, Navlakha",
+    "latitude": 22.6996881,
+    "longitude": 75.8768,
+    "place_id": "ChIJgYh7sXb9YjkR2bRXVbGGKhU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgYh7sXb9YjkR2bRXVbGGKhU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:16:19"
+  }
+]

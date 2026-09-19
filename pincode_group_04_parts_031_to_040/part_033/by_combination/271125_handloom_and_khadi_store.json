@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K D Handloom Stores",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "271125",
+    "phone_number": "+91 87099 79364",
+    "website": "http://www.thekdhs.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Henary Bazar, Motihari, Bihar 845401",
+    "area": "Henary Bazar",
+    "latitude": 26.659778499999998,
+    "longitude": 84.9182501,
+    "place_id": "ChIJM-C2-Z41kzkR18qgBYLkno8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM-C2-Z41kzkR18qgBYLkno8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:44:07"
+  },
+  {
+    "business_name": "ADARSH KHADI BHANDAR",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "271125",
+    "phone_number": "+91 73035 56780",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Boring Rd, Kidwaipuri, Patna, Bihar 800001",
+    "area": "Kidwaipuri",
+    "latitude": 25.610703899999997,
+    "longitude": 85.118166,
+    "place_id": "ChIJVWtvm_R-DRQRXlSDXgBQW6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVWtvm_R-DRQRXlSDXgBQW6Y",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:44:09"
+  }
+]

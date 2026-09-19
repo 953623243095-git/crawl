@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chopstick Chacha",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Non Vegetarian Restaurant",
+    "all_categories": "Non Vegetarian Restaurant, Biryani restaurant, Chinese restaurant",
+    "pincode": "271002",
+    "phone_number": "+91 91184 19990",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Mankapur Bus stand, Utraula Rd, in front of Golden Mairrgge Hall, Jhanjhari Block, Gonda, Uttar Pradesh 271003",
+    "area": "Jhanjhari Block",
+    "latitude": 27.130167699999998,
+    "longitude": 81.97961579999999,
+    "place_id": "ChIJB6biVB7xmTkRKDiD_-5E8Xs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB6biVB7xmTkRKDiD_-5E8Xs",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:35:27"
+  },
+  {
+    "business_name": "Yaadgaar bhojnalay and biryani Corner",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "271002",
+    "phone_number": "+91 97029 40019",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 21,
+    "address": "26X7+P7X, Rafi Nagar, Mankapur, Uttar Pradesh 271302",
+    "area": "Rafi Nagar",
+    "latitude": 27.0493508,
+    "longitude": 82.2132274,
+    "place_id": "ChIJmzxucRL_mTkRtdjDz1aJISk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmzxucRL_mTkRtdjDz1aJISk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:35:30"
+  }
+]

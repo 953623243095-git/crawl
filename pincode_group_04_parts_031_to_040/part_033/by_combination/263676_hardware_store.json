@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepak Rautela",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "263676",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M4H4+MW6, Ramnagar Sonfkhal Saraikhet Marg, Patti Gujru, Nanbhandari, Uttarakhand 246279",
+    "area": "263676",
+    "latitude": 29.6791731,
+    "longitude": 79.10727059999999,
+    "place_id": "ChIJy-G4KwAfCjkRKvjrYgfeETk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy-G4KwAfCjkRKvjrYgfeETk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:27:27"
+  },
+  {
+    "business_name": "Chandra Paints & Hardware",
+    "search_category": "Hardware Store",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "263676",
+    "phone_number": "+91 98970 21557",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Haridwar, Rishikesh Rd, near Punjab, national Bank, Geeta Nagar, Veerbhadra, Rishikesh, Uttarakhand 249202",
+    "area": "Geeta Nagar",
+    "latitude": 30.0845532,
+    "longitude": 78.26330709999999,
+    "place_id": "ChIJi6K7bHE-CTkRJiZCeWn0iTM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi6K7bHE-CTkRJiZCeWn0iTM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:27:29"
+  }
+]

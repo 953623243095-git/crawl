@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hari Om Computer Training Centre",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer training school",
+    "all_categories": "Computer training school",
+    "pincode": "263660",
+    "phone_number": "+91 62036 63289",
+    "website": "http://hctc.tlfcomputers.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Godhiyari Road, Brahampur - Ghoghardiha Rd, Bihar 847409",
+    "area": "263660",
+    "latitude": 26.3420109,
+    "longitude": 86.4493298,
+    "place_id": "ChIJDzAqYStj7jkRPsaAk9e3vl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDzAqYStj7jkRPsaAk9e3vl8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:17:24"
+  },
+  {
+    "business_name": "Rohaan Institute of Computer Studies",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Training center",
+    "all_categories": "Training center",
+    "pincode": "263660",
+    "phone_number": "N/A",
+    "website": "https://tinyurl.com/RICSChannel",
+    "rating": 4.9,
+    "reviews_count": 324,
+    "address": "Chungi No. 6, Bata Chowk, near Esha Hall Girls Hostel Dilshad Medical Store, C Block Gulgasht Colony, Multan, 60700, Pakistan",
+    "area": "C Block Gulgasht Colony",
+    "latitude": 30.228647799999997,
+    "longitude": 71.4743347,
+    "place_id": "ChIJBeVJF3YzOzkRa1lyEuDxlGc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBeVJF3YzOzkRa1lyEuDxlGc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:17:25"
+  }
+]

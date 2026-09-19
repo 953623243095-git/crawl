@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Gift Corner",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "263680",
+    "phone_number": "+91 97209 89899",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 9,
+    "address": "737P+5XQ, Balawala Road, Miyanwala Chowk, Raipur Rd, Harrawala, Uttarakhand 248005",
+    "area": "263680",
+    "latitude": 30.2629552,
+    "longitude": 78.0874844,
+    "place_id": "ChIJP44xCMooCTkR4EZC7MVA0-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP44xCMooCTkR4EZC7MVA0-o",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:32:59"
+  },
+  {
+    "business_name": "The Gifting Tree",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "263680",
+    "phone_number": "+91 74548 31317",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhowali-Ramgarh Rd, Bhowali, Sukha, Uttarakhand 263132",
+    "area": "Bhowali",
+    "latitude": 29.3828861,
+    "longitude": 79.52171229999999,
+    "place_id": "ChIJOZzlT4ajoDkRh8gI7tdJYbQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOZzlT4ajoDkRh8gI7tdJYbQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:33:00"
+  }
+]

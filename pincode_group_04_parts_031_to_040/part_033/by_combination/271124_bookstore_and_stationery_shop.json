@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kaushal Book Depot.",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "271124",
+    "phone_number": "+91 70074 95794",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 17,
+    "address": "Karbala road , nikat purani masjid, Wazir Ganj, Uttar Pradesh 271124",
+    "area": "271124",
+    "latitude": 26.956694,
+    "longitude": 82.1191439,
+    "place_id": "ChIJqaqqV6j4mTkRNRD8hrLKnQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqaqqV6j4mTkRNRD8hrLKnQA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:43:17"
+  },
+  {
+    "business_name": "Babita Book Store",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "271124",
+    "phone_number": "+91 63604 73863",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jail Road, Jail Road, Gonda, Uttar Pradesh 271302",
+    "area": "271124",
+    "latitude": 27.1148483,
+    "longitude": 81.94181929999999,
+    "place_id": "ChIJwQnfRDnzmTkR2q52Hpju_Gs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwQnfRDnzmTkR2q52Hpju_Gs",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:43:17"
+  }
+]

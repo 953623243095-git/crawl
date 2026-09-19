@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Astha Multispeciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "263679",
+    "phone_number": "+91 78307 77477",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 45,
+    "address": "WPF2+98V, Khatima Bypass Rd, Sitarganj, Uttarakhand 262405",
+    "area": "263679",
+    "latitude": 28.9180519,
+    "longitude": 79.70467099999999,
+    "place_id": "ChIJx-hoCH9noDkRqgBbgsoTeck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx-hoCH9noDkRqgBbgsoTeck",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:30:36"
+  },
+  {
+    "business_name": "CITY HOSPITAL SITARGANJ",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "263679",
+    "phone_number": "+91 89389 92040",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WPC5+VPG, NH 9, Sitarganj, Uttarakhand 262405",
+    "area": "263679",
+    "latitude": 28.9221947,
+    "longitude": 79.7093206,
+    "place_id": "ChIJLeUWPSRnoDkR5s9cHnQeQX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLeUWPSRnoDkR5s9cHnQeQX4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:30:37"
+  }
+]

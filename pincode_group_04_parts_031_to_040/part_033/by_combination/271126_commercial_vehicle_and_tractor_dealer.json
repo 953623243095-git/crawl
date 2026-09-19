@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eicher Tractors Dealerships - Shree Ram Motors",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer, Auto market, Tire repair shop",
+    "pincode": "271126",
+    "phone_number": "+91 79 4716 6257",
+    "website": "https://dealers.eichertractors.in/eicher-tractors-in-uttar-pradesh-gonda-mankapur-73155",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "01, Main Market Area, Mankapur, Peel Khana, Bairipur Ramnath, Uttar Pradesh 271302",
+    "area": "Mankapur",
+    "latitude": 27.0560467,
+    "longitude": 82.2178356,
+    "place_id": "ChIJt8Y4yJtDlzkR7FJXp8yYPpI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt8Y4yJtDlzkR7FJXp8yYPpI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:46:07"
+  },
+  {
+    "business_name": "Powertrac Tractor - YASH MOTORS",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "271126",
+    "phone_number": "N/A",
+    "website": "https://www.powertracagri.com/upe/en/dealers/yash-motors-colonelganj/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Colonelganj, Uttar Pradesh 271502",
+    "area": "271126",
+    "latitude": 27.133159499999998,
+    "longitude": 81.6915372,
+    "place_id": "ChIJxU40SYKRmTkRwVKHoIUwjxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxU40SYKRmTkRwVKHoIUwjxs",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:46:07"
+  }
+]

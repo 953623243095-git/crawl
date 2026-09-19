@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Iscrime",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "271123",
+    "phone_number": "+91 63901 76379",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chachari Road, Jhanjhari Block, Gonda, Uttar Pradesh 271003",
+    "area": "Jhanjhari Block",
+    "latitude": 27.132631999999997,
+    "longitude": 81.9561246,
+    "place_id": "ChIJre16w7rvmTkRAfcqYiuvClE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJre16w7rvmTkRAfcqYiuvClE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:40:41"
+  },
+  {
+    "business_name": "Ice Cream Parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Chauffeur service",
+    "all_categories": "Chauffeur service",
+    "pincode": "271123",
+    "phone_number": "+91 62060 09377",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Road, Baleshwar Ganj, Bhasampur, Nawabganj, Achalpur, Uttar Pradesh 271124",
+    "area": "Baleshwar Ganj, Bhasampur",
+    "latitude": 26.9891805,
+    "longitude": 82.1113417,
+    "place_id": "ChIJdYqF11j5mTkRkspgh541Ktg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdYqF11j5mTkRkspgh541Ktg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:40:42"
+  }
+]

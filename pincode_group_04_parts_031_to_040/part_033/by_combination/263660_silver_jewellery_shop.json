@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MG JEWELLERS",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "263660",
+    "phone_number": "+91 98888 81869",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Gali No 5, Sco 10, Preet Colony, Utrathiya, Zirakpur, Punjab 140603",
+    "area": "Preet Colony, Utrathiya",
+    "latitude": 30.6527459,
+    "longitude": 76.8215712,
+    "place_id": "ChIJQcD5NTTrDzkR9trgHzysFyI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQcD5NTTrDzkR9trgHzysFyI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:16:33"
+  },
+  {
+    "business_name": "New Modern jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Coin dealer, Diamond buyer, Gold dealer, Jeweler, Jewelry designer",
+    "pincode": "263660",
+    "phone_number": "+91 99536 63622",
+    "website": "http://newmodernjewellers.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop No-195 chopla mandir, Ghaziabad, Uttar Pradesh 201001",
+    "area": "Agrasen Market, Nai Basti, Naya Ganj",
+    "latitude": 28.664574299999998,
+    "longitude": 77.426952,
+    "place_id": "ChIJdzi39srxDDkRghov1d501eQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdzi39srxDDkRghov1d501eQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:16:35"
+  }
+]
