@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Ram Bakers Sweets & Cafe",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Cake shop, Sweet shop, Sweets and dessert buffet",
+    "pincode": "273016",
+    "phone_number": "+91 788 728 4485",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 24,
+    "address": "Siddharth Enclave, Bhagat Chauraha, C-386, near State Bank of India, Rail Vihar Colony Phase 3rd, Taramandal, Gorakhpur, Bharwalia Buzurg, Uttar Pradesh 273017",
+    "area": "Rail Vihar Colony Phase 3rd, Taramandal",
+    "latitude": 26.7245201,
+    "longitude": 83.3885037,
+    "place_id": "ChIJLablN3JDkTkRLtONXnJOvv4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLablN3JDkTkRLtONXnJOvv4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:59:04"
+  },
+  {
+    "business_name": "triloki bakers",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "273016",
+    "phone_number": "+91 80098 14569",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 18,
+    "address": "01, Bhagat Chaurha, Budh Vihar Colony, Gorakhpur, Uttar Pradesh 273016",
+    "area": "Budh Vihar Colony",
+    "latitude": 26.7209582,
+    "longitude": 83.3904744,
+    "place_id": "ChIJ0wAvw1FDkTkRMH1G0tTo2Oc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0wAvw1FDkTkRMH1G0tTo2Oc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:59:04"
+  }
+]

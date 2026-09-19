@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaudhary Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Restaurant",
+    "pincode": "272175",
+    "phone_number": "+91 84230 49518",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Maniyara, Uttar Pradesh 272175",
+    "area": "272175",
+    "latitude": 26.7839408,
+    "longitude": 83.0029213,
+    "place_id": "ChIJvZxevNwlkTkRESEAPIgxS2Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvZxevNwlkTkRESEAPIgxS2Y",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:42:17"
+  },
+  {
+    "business_name": "Ganesh sweets kela pakaudi and tea",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "272175",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q2P2+5WC, Khalilabad, Mudera Urf Dalel Ganj, Uttar Pradesh 272175",
+    "area": "272175",
+    "latitude": 26.7854325,
+    "longitude": 83.0022627,
+    "place_id": "ChIJwVpifgAlkTkRUs9MkwTSkoE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwVpifgAlkTkRUs9MkwTSkoE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:42:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aman Mobile Sale & service",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "273152",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "01, Chaurha Main Road, Madapar, Uttar Pradesh 273152",
+    "area": "273152",
+    "latitude": 26.7456352,
+    "longitude": 83.5282347,
+    "place_id": "ChIJuRSMUQBZkTkR30jQZU3JGVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuRSMUQBZkTkR30jQZU3JGVY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:06:06"
+  },
+  {
+    "business_name": "Prajapati Mobile Sales And Service",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Electronics store",
+    "pincode": "273152",
+    "phone_number": "+91 98891 45789",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Khottha Bazar, Hata, Pipraich, Uttar Pradesh 274207",
+    "area": "Khottha Bazar",
+    "latitude": 26.8150995,
+    "longitude": 83.6632771,
+    "place_id": "ChIJaxgbO2njkzkR-BCE8CW0q6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaxgbO2njkzkR-BCE8CW0q6Y",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:06:10"
+  }
+]

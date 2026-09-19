@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yadav Ji Panner Corner",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "273009",
+    "phone_number": "+91 89330 28835",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Dhala, NH 28, near Rachit Hospital, Indira Nagar, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Indira Nagar",
+    "latitude": 26.740560799999997,
+    "longitude": 83.38068109999999,
+    "place_id": "ChIJCTCUbfVFkTkRwEgOe5mtX8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCTCUbfVFkTkRwEgOe5mtX8I",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:47:18"
+  },
+  {
+    "business_name": "Ship And Bite",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "273009",
+    "phone_number": "+91 91408 34250",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "2, Park Rd, Golghar, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Golghar",
+    "latitude": 26.7533159,
+    "longitude": 83.37733659999999,
+    "place_id": "ChIJYV-9PPZFkTkRyN7E4z4PUik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYV-9PPZFkTkRyN7E4z4PUik",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:47:18"
+  }
+]

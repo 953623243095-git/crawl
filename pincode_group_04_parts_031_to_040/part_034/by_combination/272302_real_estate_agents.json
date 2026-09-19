@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "वकील साहब",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "272302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QPRC+92M, Tehsil Rd, Katra, Basti, Nauachh, Uttar Pradesh 272001",
+    "area": "Katra",
+    "latitude": 26.7909582,
+    "longitude": 82.7200366,
+    "place_id": "ChIJZWZoydzFkDkRAUc1pZTneAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZWZoydzFkDkRAUc1pZTneAg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:30:19"
+  },
+  {
+    "business_name": "VARUN SIR HOMES",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "272302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PP99+2XJ, Kharauha, Pagar, Uttar Pradesh 272124",
+    "area": "Kharauha",
+    "latitude": 26.7175926,
+    "longitude": 82.7198772,
+    "place_id": "ChIJT9_f_SzFkDkRPzR5UuPrXIE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT9_f_SzFkDkRPzR5UuPrXIE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:30:21"
+  }
+]

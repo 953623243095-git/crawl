@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Darbar's Kitchen Family Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "272199",
+    "phone_number": "+91 99668 55221",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 141,
+    "address": "Railway Station Road, opposite DCC BANK, Gauribidanur, Karnataka 561208",
+    "area": "272199",
+    "latitude": 13.6113241,
+    "longitude": 77.51577979999999,
+    "place_id": "ChIJp_SdMbi_sTsReDe9ZxlEDso",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp_SdMbi_sTsReDe9ZxlEDso",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:05:45"
+  },
+  {
+    "business_name": "Friends Cafe & Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "272199",
+    "phone_number": "+91 96954 50500",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Durgabadi Rd, beside sarswati vidya mandir, Arya Nagar North, Bade Kajipur, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Arya Nagar North, Bade Kajipur",
+    "latitude": 26.7623613,
+    "longitude": 83.36233089999999,
+    "place_id": "ChIJO3fsIBFFkTkR10jy85dJgyc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO3fsIBFFkTkR10jy85dJgyc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:05:48"
+  }
+]

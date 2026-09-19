@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. A.K Jha",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "272202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "73J9+58G, Shanri, Naugarh, Uttar Pradesh 272207",
+    "area": "Shanri",
+    "latitude": 27.2805464,
+    "longitude": 83.0682927,
+    "place_id": "ChIJ197MbwDbljkRy0ilVWhzYIA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ197MbwDbljkRy0ilVWhzYIA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:09:50"
+  },
+  {
+    "business_name": "Dr. Sidharth's Child Clinic-Pediatrician Dwarka",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Child health care center, Doctor",
+    "pincode": "272202",
+    "phone_number": "+91 99585 92727",
+    "website": "http://www.drsidharthchildclinic.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Flat no.1, DDA Pocket 1, MAHADEV APARTMENT, Pocket 1, Sector 23, Dwarka, New Delhi, Delhi, 110077",
+    "area": "Pocket 1, Sector 23, Dwarka",
+    "latitude": 28.5591834,
+    "longitude": 77.0539689,
+    "place_id": "ChIJqTDVU_4aDTkRZRHc4A5f6GA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqTDVU_4aDTkRZRHc4A5f6GA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:09:51"
+  }
+]

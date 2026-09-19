@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fresh Juice & Shakes Corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "273017",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gejha, Sector 93, Noida, Uttar Pradesh 201304",
+    "area": "Gejha, Sector 93",
+    "latitude": 28.5255375,
+    "longitude": 77.3879924,
+    "place_id": "ChIJYVy8kKLoDDkRpq_pPYSxDB0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYVy8kKLoDDkRpq_pPYSxDB0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:01:06"
+  },
+  {
+    "business_name": "Dr. Bubbles",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Bubble tea store",
+    "all_categories": "Bubble tea store, Cafe, Coffee store, Dessert restaurant, Pancake restaurant, Tea house",
+    "pincode": "273017",
+    "phone_number": "+91 788 043 5665",
+    "website": "https://facebook.com/drbubblesgomtinagar",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "LGF-30, Uday Tower, Kathauta Chauraha Rd, Vijayant Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vijayant Khand, Gomti Nagar",
+    "latitude": 26.8659768,
+    "longitude": 81.024007,
+    "place_id": "ChIJASP2_uvjmzkRWdNDO4cWxfo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJASP2_uvjmzkRWdNDO4cWxfo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:01:08"
+  }
+]

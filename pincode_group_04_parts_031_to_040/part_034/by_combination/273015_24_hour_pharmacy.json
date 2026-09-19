@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhanshree Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "273015",
+    "phone_number": "+91 92366 24174",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Maharana Pratap Polytechnic Se Paschim, Green City Rd, near J.P.EDUCATION ACADEMY, Nathmalpur, Gorakhnath, Gorakhpur, Uttar Pradesh 273015",
+    "area": "Nathmalpur, Gorakhnath",
+    "latitude": 26.782329299999997,
+    "longitude": 83.3522978,
+    "place_id": "ChIJb9Rx85lFkTkRFxhnB2C1dJ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb9Rx85lFkTkRFxhnB2C1dJ4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:57:27"
+  },
+  {
+    "business_name": "Life Care Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "273015",
+    "phone_number": "+91 90261 74639",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 21,
+    "address": "1, Nausadh, Gorakhpur, Uttar Pradesh 273016",
+    "area": "273015",
+    "latitude": 26.730919099999998,
+    "longitude": 83.33682619999999,
+    "place_id": "ChIJb-BySUVDkTkRAJBzJyhSiaw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb-BySUVDkTkRAJBzJyhSiaw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:57:27"
+  }
+]

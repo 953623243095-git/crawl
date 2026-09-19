@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TASTY CHAT CORNER",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "273009",
+    "phone_number": "+91 89340 30185",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "P9VP+R75, Paidleganj, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Paidleganj",
+    "latitude": 26.744524199999997,
+    "longitude": 83.3857481,
+    "place_id": "ChIJZdPZGlxFkTkRQpEn-ekkR_k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZdPZGlxFkTkRQpEn-ekkR_k",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:47:22"
+  },
+  {
+    "business_name": "Sai Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "273009",
+    "phone_number": "+91 87378 34294",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Buxipur Rd, Arya Nagar, Bilandpur, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Arya Nagar, Bilandpur",
+    "latitude": 26.7579694,
+    "longitude": 83.3771268,
+    "place_id": "ChIJecghU6pFkTkRVlLXFbRswaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJecghU6pFkTkRVlLXFbRswaQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:47:22"
+  }
+]

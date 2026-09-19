@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vickey Kasoudhan",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "272207",
+    "phone_number": "+91 95176 31002",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Lumbini Rd, Shivaji Nagar, Naugarh, Tetri Bazar, Uttar Pradesh 272207",
+    "area": "Shivaji Nagar",
+    "latitude": 27.277987399999997,
+    "longitude": 83.0843282,
+    "place_id": "ChIJx9HuwLDFljkRuJDP0if4H_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx9HuwLDFljkRuJDP0if4H_s",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:18:42"
+  },
+  {
+    "business_name": "MAHAKALL INTERPRAISES",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "272207",
+    "phone_number": "+91 79921 41993",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "DUBEY Bhawan Sanai, Two, Basti Highway, near SSB Camp, Uttar Pradesh 272207",
+    "area": "272207",
+    "latitude": 27.2760975,
+    "longitude": 83.0469045,
+    "place_id": "ChIJrwUguxrbljkRuFQW3U6w7Ws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrwUguxrbljkRuFQW3U6w7Ws",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:18:44"
+  }
+]

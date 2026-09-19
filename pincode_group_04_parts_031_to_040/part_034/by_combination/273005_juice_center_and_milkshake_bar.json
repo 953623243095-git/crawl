@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cool Hut Juice And Shakes",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "273005",
+    "phone_number": "+91 83484 49337",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Malhour, Lucknow, Uttar Pradesh 226028",
+    "area": "Malhour, Ashraf Vihar Colony, Gomti Nagar",
+    "latitude": 26.8611935,
+    "longitude": 81.0423027,
+    "place_id": "ChIJU2hagDbjmzkRJV3UbJL4AUY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU2hagDbjmzkRJV3UbJL4AUY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:39:14"
+  },
+  {
+    "business_name": "Delhi Juice Corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "273005",
+    "phone_number": "+91 62001 53424",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 7,
+    "address": "Main road, near Shubham Diagnostic & Imaging centre, Mirganj, Bihar 841438",
+    "area": "273005",
+    "latitude": 26.369754099999998,
+    "longitude": 84.3370367,
+    "place_id": "ChIJq3mJdr8BkzkRSG1NLhU6Mk0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq3mJdr8BkzkRSG1NLhU6Mk0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:39:14"
+  }
+]

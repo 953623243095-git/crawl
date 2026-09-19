@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Healthy LifeStyle",
+    "search_category": "Organic Food Store",
+    "primary_category": "Health food restaurant",
+    "all_categories": "Health food restaurant, Beverage Store, Juice shop, Salad shop",
+    "pincode": "273006",
+    "phone_number": "+91 93357 25761",
+    "website": "https://www.kavitaskitchen.in/",
+    "rating": 5,
+    "reviews_count": 30,
+    "address": "Rita Sadan Central Jail/Madhusudan Apartment, C-130/206, behind Srijan Eye& Mother Care, Shahpur, Gorakhpur, Uttar Pradesh 273006",
+    "area": "Shahpur",
+    "latitude": 26.770837399999998,
+    "longitude": 83.3882869,
+    "place_id": "ChIJiQ7pevZFkTkRV1VbQGiZtPE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiQ7pevZFkTkRV1VbQGiZtPE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:41:06"
+  },
+  {
+    "business_name": "Erganic Farms - Vermicompost Manufacturer and Supplier in India",
+    "search_category": "Organic Food Store",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store, Organic farm",
+    "pincode": "273006",
+    "phone_number": "+91 92363 03636",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "311, POST, Chunawatia, Uska, Uttar Pradesh 273303",
+    "area": "273006",
+    "latitude": 27.078763,
+    "longitude": 83.51901459999999,
+    "place_id": "ChIJM_jxnkmrljkRU4Cgni7jAWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM_jxnkmrljkRU4Cgni7jAWU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:41:08"
+  }
+]

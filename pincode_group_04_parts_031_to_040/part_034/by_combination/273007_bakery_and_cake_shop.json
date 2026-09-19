@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VAISHNAVI BAKERS",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "273007",
+    "phone_number": "+91 91297 99431",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 32,
+    "address": "UGF 01, Gemini Paradise Complex, Medical College Road, Mugalaha, Mughala, Gorakhpur, Uttar Pradesh 273013",
+    "area": "Mugalaha, Mughala",
+    "latitude": 26.8098226,
+    "longitude": 83.3968809,
+    "place_id": "ChIJs2zpWoVFkTkR51u1sTcEqqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs2zpWoVFkTkR51u1sTcEqqA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:43:08"
+  },
+  {
+    "business_name": "Cake Mahal",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "273007",
+    "phone_number": "+91 88965 15841",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "01 Sahajanwa, Uttar Pradesh 273209",
+    "area": "GIDA Industrial Area Phase 1",
+    "latitude": 26.7438945,
+    "longitude": 83.22115389999999,
+    "place_id": "ChIJhwGwoH45kTkRl20603CohOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhwGwoH45kTkRl20603CohOo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:43:09"
+  }
+]

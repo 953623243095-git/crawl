@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MS Car Bazar",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "273009",
+    "phone_number": "+91 75185 66293",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Kitnay Dhala, Transport Nagar, Gorakhpur, Chakara Doim, Uttar Pradesh 273016",
+    "area": "Transport Nagar",
+    "latitude": 26.7241556,
+    "longitude": 83.3627987,
+    "place_id": "ChIJf4E9TqtDkTkRQStEVajweUc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf4E9TqtDkTkRQStEVajweUc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:47:49"
+  },
+  {
+    "business_name": "car&bike (by Mahindra First Choice) Sardar Motors Auto Wheels - Gorakhpur",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Auto broker, Car dealer, Motor vehicle dealer, Vehicle inspection service",
+    "pincode": "273009",
+    "phone_number": "+91 96438 23217",
+    "website": "https://www.carandbike.com/used/car-dealers/sardar-motors-auto-wheels-pvt-ltd-in-gorakhpur-2269?utm_source=GMB",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Nausarh Chowk ,Lucknow, Gorakhpur Rd, Gorakhpur, Uttar Pradesh 273302",
+    "area": "273009",
+    "latitude": 27.0306321,
+    "longitude": 83.6061744,
+    "place_id": "ChIJ6QgZzNABlDkRZDyZusGNJPU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6QgZzNABlDkRZDyZusGNJPU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:47:49"
+  }
+]

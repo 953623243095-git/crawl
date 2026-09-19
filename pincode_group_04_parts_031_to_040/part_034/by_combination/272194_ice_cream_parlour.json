@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Makboolhusain",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "272194",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4M78+38X, Baidauli Urf Dubaoli, Uttar Pradesh 272194",
+    "area": "272194",
+    "latitude": 27.112726499999997,
+    "longitude": 82.66584979999999,
+    "place_id": "ChIJhf3wJAAxlzkRkBS3ee_7zDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhf3wJAAxlzkRkBS3ee_7zDc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:01:54"
+  },
+  {
+    "business_name": "NIC Ice Creams - Una",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Chocolate shop, Dessert shop, Frozen yogurt shop",
+    "pincode": "272194",
+    "phone_number": "+91 97179 75351",
+    "website": "https://nicicecreams.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Unit no-5, Ground Floor, Virsa Food Point, Green Ave Rd, Green Avenue Rakkar, Jal Gran, Tabba, Himachal Pradesh 174306",
+    "area": "Green Avenue Rakkar",
+    "latitude": 31.4572982,
+    "longitude": 76.309255,
+    "place_id": "ChIJqyI2DQDRGjkRFlmBAoulFx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqyI2DQDRGjkRFlmBAoulFx0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:01:56"
+  }
+]

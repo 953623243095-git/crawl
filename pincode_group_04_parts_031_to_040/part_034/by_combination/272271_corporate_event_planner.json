@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lakshmi Events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "272271",
+    "phone_number": "+91 92473 27445",
+    "website": "https://www.lakshmievents.com/",
+    "rating": 5,
+    "reviews_count": 43,
+    "address": "17-1-391/T/76, near Geethanjali Vidyalaya, Saraswathi Nagar, Saidabad, Hyderabad, Telangana 500059",
+    "area": "Saraswathi Nagar, Saroor Nagar West, Saidabad",
+    "latitude": 17.3570186,
+    "longitude": 78.5202836,
+    "place_id": "ChIJYwxt0UqZyzsRz_x5TyuNGwc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYwxt0UqZyzsRz_x5TyuNGwc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:25:47"
+  },
+  {
+    "business_name": "RSS SOUND",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "272271",
+    "phone_number": "+91 98072 88812",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rasoolabad, Pakaria, Uttar Pradesh 272125",
+    "area": "272271",
+    "latitude": 26.8875478,
+    "longitude": 83.1005505,
+    "place_id": "ChIJq4XVehoxkTkRQ8HoTUeBSg4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq4XVehoxkTkRQ8HoTUeBSg4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:25:50"
+  }
+]

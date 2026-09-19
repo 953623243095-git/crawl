@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Crown palace guest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house, Hotel",
+    "pincode": "273152",
+    "phone_number": "+91 88400 09617",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "Bhathat bazar, near, Bargadahi, Uttar Pradesh 273013",
+    "area": "near",
+    "latitude": 26.8877241,
+    "longitude": 83.4774888,
+    "place_id": "ChIJe5L6XTxRkTkRGQefsewqfSE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe5L6XTxRkTkRGQefsewqfSE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:05:53"
+  },
+  {
+    "business_name": "KAMLA GUEST HOUSE",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house, Hotel",
+    "pincode": "273152",
+    "phone_number": "+91 70078 40444",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jungle, dusad bhattha Chauraha, Pipraich - Gorakhpur Rd, Vishwakarmapuram, Gorakhpur, Jangl Dhoosar, Uttar Pradesh 273014",
+    "area": "Vishwakarmapuram",
+    "latitude": 26.790483299999998,
+    "longitude": 83.4304532,
+    "place_id": "ChIJ7TcfUwBbkTkRf_kYaeNU4KA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7TcfUwBbkTkRf_kYaeNU4KA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:05:54"
+  }
+]

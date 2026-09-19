@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Knows Kit",
+    "search_category": "SEO Agencies",
+    "primary_category": "Entertainment agency",
+    "all_categories": "Entertainment agency, Service establishment",
+    "pincode": "273006",
+    "phone_number": "N/A",
+    "website": "https://www.knowskit.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Knows Kit, 273006, India",
+    "area": "273006",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJq_l_pCJFkTkRjDTv14P8Wdw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq_l_pCJFkTkRjDTv14P8Wdw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:42:51"
+  },
+  {
+    "business_name": "AdMac Media",
+    "search_category": "SEO Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "273006",
+    "phone_number": "+91 72899 39809",
+    "website": "https://admacmedia.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "AdMac Media, 273006, India",
+    "area": "273006",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ-5YYhIJT9QARK6rrMeAuJuo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-5YYhIJT9QARK6rrMeAuJuo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:42:51"
+  }
+]

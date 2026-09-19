@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mall Chashma Ghar",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "273006",
+    "phone_number": "+91 70841 40686",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 5,
+    "address": "Little Flower Shop, Medical College Road, near Titan Eye Plus, Ashok Nagar, Gorakhpur, Uttar Pradesh 273004",
+    "area": "Ashok Nagar",
+    "latitude": 26.778950199999997,
+    "longitude": 83.3837238,
+    "place_id": "ChIJucYEGdZFkTkRTSH11-q3tAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJucYEGdZFkTkRTSH11-q3tAE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:41:30"
+  },
+  {
+    "business_name": "Nayan Optics",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Sunglasses store",
+    "all_categories": "Sunglasses store, Optical Wholesaler",
+    "pincode": "273006",
+    "phone_number": "+91 99353 02091",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "C/130/710 Asuran Chungi, Medical College Road, Gorakhpur, Uttar Pradesh 273004",
+    "area": "Vishnu Nagar, Bhediyagarh",
+    "latitude": 26.773577,
+    "longitude": 83.3824245,
+    "place_id": "ChIJX7pguPlEkTkRJOR99z-HSM0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX7pguPlEkTkRJOR99z-HSM0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:41:33"
+  }
+]

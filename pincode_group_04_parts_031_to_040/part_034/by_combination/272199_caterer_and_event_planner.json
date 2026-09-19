@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Professional Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "272199",
+    "phone_number": "+91 98141 11773",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 59,
+    "address": "22-D, Rajguru Nagar, Ludhiana, Punjab 141012",
+    "area": "Rajguru Nagar",
+    "latitude": 30.8824035,
+    "longitude": 75.78460059999999,
+    "place_id": "ChIJrX_87p-BGjkRRHnL1Rp1N_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrX_87p-BGjkRRHnL1Rp1N_s",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:06:43"
+  },
+  {
+    "business_name": "Royal Affairs Catering",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "272199",
+    "phone_number": "+91 98117 27475",
+    "website": "https://royalaffairs.in/",
+    "rating": 4.9,
+    "reviews_count": 50,
+    "address": "293/3, Old Delhi Gurgaon Rd, near sector 14, Prem Nagar, Sector 13, Gurugram, Haryana 122001",
+    "area": "Prem Nagar, Sector 13",
+    "latitude": 28.4654559,
+    "longitude": 77.03485789999999,
+    "place_id": "ChIJqdGv_HMZDTkRrlLex4PVlFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqdGv_HMZDTkRrlLex4PVlFU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:06:43"
+  }
+]

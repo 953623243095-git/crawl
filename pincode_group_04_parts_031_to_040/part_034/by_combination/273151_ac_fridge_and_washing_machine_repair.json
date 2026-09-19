@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ShivShakti Refrigeration Services",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Refrigerator store",
+    "all_categories": "Refrigerator store, Air conditioning repair service",
+    "pincode": "273151",
+    "phone_number": "+91 63882 84085",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nagar Panchayat, Babhnauli, Partawal, Uttar Pradesh 273301",
+    "area": "Babhnauli",
+    "latitude": 26.9665464,
+    "longitude": 83.6041643,
+    "place_id": "ChIJe4wilHZVkTkR8Y1mRS6lyqo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe4wilHZVkTkR8Y1mRS6lyqo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:03:44"
+  },
+  {
+    "business_name": "Bharat Mobile Shop And Electronics",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Electronics wholesaler",
+    "all_categories": "Electronics wholesaler, Store",
+    "pincode": "273151",
+    "phone_number": "+91 99369 02874",
+    "website": "https://devaashi.com/bharatmobileshopandelectronics",
+    "rating": 4.5,
+    "reviews_count": 51,
+    "address": "WPG5+6F, Kaptanganj, Uttar Pradesh 274301",
+    "area": "273151",
+    "latitude": 26.925563,
+    "longitude": 83.708688,
+    "place_id": "ChIJeQw8Oi37kzkR1WST3EiqOlM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeQw8Oi37kzkR1WST3EiqOlM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:03:46"
+  }
+]

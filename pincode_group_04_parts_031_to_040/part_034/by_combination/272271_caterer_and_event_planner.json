@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Incredible Catering Service",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "272271",
+    "phone_number": "+91 98114 04745",
+    "website": "http://www.incrediblecateringservices.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "near Iskon Temple, Garhi Jharia Maria, East of Kailash, New Delhi, Delhi 110065",
+    "area": "Garhi Jharia Maria, East of Kailash",
+    "latitude": 28.559344,
+    "longitude": 77.24866569999999,
+    "place_id": "ChIJ-XShlcfjDDkRMEqVX2wxpZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-XShlcfjDDkRMEqVX2wxpZU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:25:40"
+  },
+  {
+    "business_name": "Soulchef Caterers and Events",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Event management company, Event planner, Party planner, Tent House Supplier, Wedding planner",
+    "pincode": "272271",
+    "phone_number": "+91 97809 71414",
+    "website": "https://www.soulchefevents.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "236 b, Block B, Bhai Randhir Singh Nagar, Ludhiana, Punjab 141001",
+    "area": "Block B, Bhai Randhir Singh Nagar",
+    "latitude": 30.888035199999997,
+    "longitude": 75.8098979,
+    "place_id": "ChIJESYFmvODGjkRnzECnfA5AB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJESYFmvODGjkRnzECnfA5AB4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:25:42"
+  }
+]

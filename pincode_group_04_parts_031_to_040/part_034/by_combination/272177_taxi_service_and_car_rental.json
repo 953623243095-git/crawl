@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cab Bharatpur - Taxi Service in Bharatpur",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "272177",
+    "phone_number": "+91 94143 76891",
+    "website": "https://www.cabbharatpur.com/",
+    "rating": 4.9,
+    "reviews_count": 551,
+    "address": "183, Kali Baghichi Rd, Bapu Nagar, Bharatpur, Bharatpur Chak 2, Rajasthan 321001",
+    "area": "Bapu Nagar",
+    "latitude": 27.2042623,
+    "longitude": 77.49665879999999,
+    "place_id": "ChIJbSl_P5ejczkRBbD2xWJb8wQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbSl_P5ejczkRBbD2xWJb8wQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:46:22"
+  },
+  {
+    "business_name": "Highway taxi and cab service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "272177",
+    "phone_number": "+91 80582 11947",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 202,
+    "address": "Shop no 09, Suraj pole gate, circle, Gopalgarh, Bharatpur, Bharatpur Chak 2, Rajasthan 321001",
+    "area": "Gopalgarh",
+    "latitude": 27.220425499999997,
+    "longitude": 77.50561259999999,
+    "place_id": "ChIJHWlA8dWjczkRfc0rb64wA2g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHWlA8dWjczkRfc0rb64wA2g",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:46:22"
+  }
+]

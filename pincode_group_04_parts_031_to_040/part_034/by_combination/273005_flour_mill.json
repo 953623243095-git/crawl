@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaiswal Oil Flour Mills",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill, Store",
+    "pincode": "273005",
+    "phone_number": "+91 94545 14555",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P9R5+PFR, Pandey Hata Rd, TP Nagar, Main Rd, Gorakhpur, Uttar Pradesh 273005",
+    "area": "TP Nagar, Main Rd",
+    "latitude": 26.7418689,
+    "longitude": 83.3586466,
+    "place_id": "ChIJf4y_XnNEkTkR-e6dvEMLFmE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf4y_XnNEkTkR-e6dvEMLFmE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:39:07"
+  },
+  {
+    "business_name": "Goldi Aata Chakki",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "273005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 9,
+    "address": "P98C+JW4, Badgon, Gorakhpur, Uttar Pradesh 273016",
+    "area": "Badgon",
+    "latitude": 26.7165242,
+    "longitude": 83.372315,
+    "place_id": "ChIJQ6isIplDkTkRt7psXH9b6rU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ6isIplDkTkRt7psXH9b6rU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:39:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Umesh",
+    "search_category": "Shops",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "272173",
+    "phone_number": "+91 90055 26422",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Maghar Takiya Bajar, Sherpur, Maghar, Uttar Pradesh 272173",
+    "area": "Sherpur",
+    "latitude": 26.755694499999997,
+    "longitude": 83.1273691,
+    "place_id": "ChIJRS__FdA7kTkRZP7Qi3B3zUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRS__FdA7kTkRZP7Qi3B3zUE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:42:09"
+  },
+  {
+    "business_name": "Maghar sant Kabir Nagar suman",
+    "search_category": "Shops",
+    "primary_category": "Electric motor repair shop",
+    "all_categories": "Electric motor repair shop",
+    "pincode": "272173",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Gov.Hospital, Maghar, Uttar Pradesh 272173",
+    "area": "272173",
+    "latitude": 26.7574516,
+    "longitude": 83.12842839999999,
+    "place_id": "ChIJNdvEnJs7kTkR3O4_SxbBcJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNdvEnJs7kTkR3O4_SxbBcJE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:42:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amc Preowned Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "272270",
+    "phone_number": "+91 98104 54142",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "A5b/184, Block A 5B, Possangipur, Janakpuri, New Delhi, Delhi, 110058",
+    "area": "Block A 5B, Possangipur, Janakpuri",
+    "latitude": 28.6228172,
+    "longitude": 77.0829146,
+    "place_id": "ChIJXQucpJIFDTkR_P-P5w78W3U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXQucpJIFDTkR_P-P5w78W3U",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:23:15"
+  },
+  {
+    "business_name": "Sahib Motor And Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer, Two Wheeler Dealer, Used motorcycle dealer",
+    "pincode": "272270",
+    "phone_number": "+91 98970 98980",
+    "website": "http://www.sahibmotors.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Inside of Premises of Gurdwara Shri Mitha Khoo Sahib 309 B Maharishipuram Behind Amar Ujala Press; Maharishipuram, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Sikandra",
+    "latitude": 27.213004299999998,
+    "longitude": 77.9667484,
+    "place_id": "ChIJT-EjY3p3dDkRlowKgIkPlys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT-EjY3p3dDkRlowKgIkPlys",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:23:15"
+  }
+]

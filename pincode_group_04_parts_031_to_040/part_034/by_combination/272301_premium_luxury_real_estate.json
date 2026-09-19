@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucknow Prime Property",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate developer",
+    "all_categories": "Real estate developer, Service establishment",
+    "pincode": "272301",
+    "phone_number": "N/A",
+    "website": "https://www.lucknowprimeproperty.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lucknow Prime Property, 272301, India",
+    "area": "272301",
+    "latitude": 26.889008999999998,
+    "longitude": 80.99594259999999,
+    "place_id": "ChIJKw2HXFjjaCIRCum31rm6kN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKw2HXFjjaCIRCum31rm6kN4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:28:17"
+  },
+  {
+    "business_name": "Prime Properties Agra",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Property management company",
+    "all_categories": "Property management company",
+    "pincode": "272301",
+    "phone_number": "+91 75006 55559",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Om tyagi complex,Shop no 6 p, 1st floor opp jivan hospital PaschimPuri crossing, shastripuram, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Harish Nagar, Narain Vihar, Suruchipuram Colony, Sikandra",
+    "latitude": 27.202624399999998,
+    "longitude": 77.9447659,
+    "place_id": "ChIJkYvipJJ3dDkRRrcUqfIJUyU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkYvipJJ3dDkRRrcUqfIJUyU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:28:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The BlueHeart Team",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Bus tour agency, Shopping mall, Tour operator, Web hosting company, Website designer",
+    "pincode": "272192",
+    "phone_number": "+91 97952 02404",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 17,
+    "address": "139 Front SBI Bank, Pachperwa, Uttar Pradesh 271206",
+    "area": "272192",
+    "latitude": 27.526227199999997,
+    "longitude": 82.644187,
+    "place_id": "ChIJbdb-7bsTlzkRv3Pz9mrY0Ys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbdb-7bsTlzkRv3Pz9mrY0Ys",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:58:48"
+  },
+  {
+    "business_name": "Shrinet Tour And Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Tour agency",
+    "pincode": "272192",
+    "phone_number": "+91 97212 26094",
+    "website": "http://shrinetbus.com/",
+    "rating": 4.3,
+    "reviews_count": 96,
+    "address": "Shrinet Tour and Travels, Madaina, Gauri Bazar, Uttar Pradesh 274202",
+    "area": "272192",
+    "latitude": 26.5958962,
+    "longitude": 83.67074629999999,
+    "place_id": "ChIJq6qqapvekzkRya4t3UKlsXg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqapvekzkRya4t3UKlsXg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:58:48"
+  }
+]

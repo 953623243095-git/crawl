@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Good Luck Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "272199",
+    "phone_number": "+91 99918 18428",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9RRX+Q4, Babra Bakipur, Haryana 122503",
+    "area": "272199",
+    "latitude": 28.3919775,
+    "longitude": 76.847743,
+    "place_id": "ChIJpR7qwC0_DTkRORR-ByG1Zhc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpR7qwC0_DTkRORR-ByG1Zhc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:06:12"
+  },
+  {
+    "business_name": "Bs Fitness Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "272199",
+    "phone_number": "+91 84473 86553",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 99,
+    "address": "C-17, Ramgarh, Bhalswa Jahangirpuri, Jahangirpuri, Delhi, New Delhi, Delhi 110033",
+    "area": "Ramgarh, Bhalswa Jahangirpuri, Jahangirpuri",
+    "latitude": 28.7278745,
+    "longitude": 77.1629785,
+    "place_id": "ChIJt3uFpAQBDTkRCWEoaVBq8jA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt3uFpAQBDTkRCWEoaVBq8jA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:06:12"
+  }
+]

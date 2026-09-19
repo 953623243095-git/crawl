@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhojpur Organic",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store",
+    "pincode": "273161",
+    "phone_number": "+91 91991 48448",
+    "website": "http://bhojpurorganic.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Bhojpur Kothi, Lekha Nagar, Khagaul cantt road, Danapur, Patna, Bihar 801105",
+    "area": "Mustafapur",
+    "latitude": 25.6060083,
+    "longitude": 85.0393368,
+    "place_id": "ChIJGx3GitSfkjkRT8IX-XlndXQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGx3GitSfkjkRT8IX-XlndXQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:12:21"
+  },
+  {
+    "business_name": "Organic India Store - Vasant Kunj, New Delhi",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Organic shop, Wellness center",
+    "pincode": "273161",
+    "phone_number": "+91 80 3776 2747",
+    "website": "https://store.organicindia.com/organic-india/new-delhi/vasant-kunj/organic-india-store-in-vasant-kunj-new-delhi--6a812472-b265-4249-81af-af193052dbed/home",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Local Shopping Complex, Inside Fabindia Experience Center, 9 & 10, Nelson Mandela Rd, Vasant Kunj, New Delhi, Delhi 110070",
+    "area": "Pocket 10, Sector B, Vasant Kunj",
+    "latitude": 28.5335598,
+    "longitude": 77.1522196,
+    "place_id": "ChIJS5vxwOcdDTkRhZ8wNMiIHks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS5vxwOcdDTkRhZ8wNMiIHks",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:12:23"
+  }
+]

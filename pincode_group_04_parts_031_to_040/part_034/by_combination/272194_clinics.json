@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandra clinic",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "272194",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rudauli road, Motiganj, Bhari, Uttar Pradesh 272191",
+    "area": "272194",
+    "latitude": 27.134560399999998,
+    "longitude": 82.7088641,
+    "place_id": "ChIJz8HcEgAxlzkRLQ62TNP7S7A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz8HcEgAxlzkRLQ62TNP7S7A",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:02:10"
+  },
+  {
+    "business_name": "SIDDIQUI HEALTH CLINIC",
+    "search_category": "Clinics",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "272194",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "4JJ5+FF8, Khakar Gaddee, Uttar Pradesh 272191",
+    "area": "272194",
+    "latitude": 27.131150899999998,
+    "longitude": 82.6087125,
+    "place_id": "ChIJn_fRh4Y3lzkRbfG7bMX-GrQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn_fRh4Y3lzkRbfG7bMX-GrQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:02:13"
+  }
+]

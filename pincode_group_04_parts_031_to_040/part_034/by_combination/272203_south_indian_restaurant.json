@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shukla sweets &family restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "272203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "73GM+QRM, SH 1A, Mahariya, Naugarh, Tetri Bazar, Uttar Pradesh 272207",
+    "area": "Mahariya",
+    "latitude": 27.276974499999998,
+    "longitude": 83.0845507,
+    "place_id": "ChIJnc2zyhfFljkRxXby0aSGgYA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnc2zyhfFljkRxXby0aSGgYA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:11:22"
+  },
+  {
+    "business_name": "Dubai The Family Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "272203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 23,
+    "address": "Tetri Bazar Town, Tetari Bazar, Uttar Pradesh 272207",
+    "area": "Tetri Bazar Town",
+    "latitude": 27.2860402,
+    "longitude": 83.08397819999999,
+    "place_id": "ChIJ_0lIEyzDljkRCz2Onte4YsQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_0lIEyzDljkRCz2Onte4YsQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:11:23"
+  }
+]

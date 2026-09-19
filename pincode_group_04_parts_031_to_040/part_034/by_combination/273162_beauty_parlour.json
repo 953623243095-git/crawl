@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shaine beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "273162",
+    "phone_number": "+91 74081 29044",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NH 24, Parsauhiya, Mani Kaura, Uttar Pradesh 273162",
+    "area": "273162",
+    "latitude": 27.1875848,
+    "longitude": 83.3509754,
+    "place_id": "ChIJd0wYu4OxljkRKpuBk85QDzA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd0wYu4OxljkRKpuBk85QDzA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:15:04"
+  },
+  {
+    "business_name": "Anshu Beauty Parlour & Shringar Bhawan",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "273162",
+    "phone_number": "N/A",
+    "website": "https://healingwithram.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhagirathpur, Uttar Pradesh 273164",
+    "area": "273162",
+    "latitude": 27.298921399999998,
+    "longitude": 83.3871703,
+    "place_id": "ChIJNZfYmOu7ljkRgtqgdDlCRrY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNZfYmOu7ljkRgtqgdDlCRrY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:15:04"
+  }
+]

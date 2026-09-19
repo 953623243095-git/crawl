@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Scientific Store",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "273017",
+    "phone_number": "+91 94547 45813",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "P9HH+WWP, near GDA Office, Siddharth Nagar Colony, Rajendra Nagar, Gorakhpur, Uttar Pradesh 273017",
+    "area": "Siddharth Nagar Colony, Rajendra Nagar",
+    "latitude": 26.7298363,
+    "longitude": 83.379841,
+    "place_id": "ChIJg4m-u3hDkTkRAAAAMDP62QU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg4m-u3hDkTkRAAAAMDP62QU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:02:36"
+  },
+  {
+    "business_name": "Tripathi & Sons",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler",
+    "pincode": "273017",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Deoria Bypass Rd, in front of LIC, Taramandal, Gorakhpur, Uttar Pradesh 273017",
+    "area": "Taramandal",
+    "latitude": 26.733240799999997,
+    "longitude": 83.37801089999999,
+    "place_id": "ChIJqYG_zoFDkTkRfoOvJK2YmiA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqYG_zoFDkTkRfoOvJK2YmiA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:02:36"
+  }
+]

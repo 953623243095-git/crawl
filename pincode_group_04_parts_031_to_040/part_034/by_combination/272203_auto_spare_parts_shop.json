@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tarik auto parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "272203",
+    "phone_number": "+91 95061 16110",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "73FM+QMH, आजाद नगर, Bagiyawa, Tetri Bazar, Uttar Pradesh 272207",
+    "area": "आजाद नगर, Bagiyawa",
+    "latitude": 27.2744416,
+    "longitude": 83.08423259999999,
+    "place_id": "ChIJdWc7GQDFljkR8hiQbMlcy54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdWc7GQDFljkR8hiQbMlcy54",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:11:51"
+  },
+  {
+    "business_name": "Ansh auto parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "272203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "73PP+46Q, SH 5, Tetri Bazar Town, Naugarh, Uttar Pradesh 272207",
+    "area": "Tetri Bazar Town",
+    "latitude": 27.2853484,
+    "longitude": 83.0856144,
+    "place_id": "ChIJfR4Wp5nDljkRhAoXNheFrDQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfR4Wp5nDljkRhAoXNheFrDQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:11:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ranjan Homeo Hall",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopathic pharmacy",
+    "all_categories": "Homeopathic pharmacy",
+    "pincode": "272175",
+    "phone_number": "+91 73177 80350",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bank Chauraha, Khalilabad, Sarauli, Uttar Pradesh 272175",
+    "area": "272175",
+    "latitude": 26.775689399999997,
+    "longitude": 83.0586584,
+    "place_id": "ChIJhZdNbNI5kTkRdT1iroL06Mk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhZdNbNI5kTkRdT1iroL06Mk",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:42:34"
+  },
+  {
+    "business_name": "Dr Sharma's Homoeopathy",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath, Doctor, Homeopathic pharmacy",
+    "pincode": "272175",
+    "phone_number": "+91 99880 63102",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 223,
+    "address": "182, Street Number 9, Vishal Nagar, Shaheed Bhagat Singh Nagar, Ludhiana, Punjab 141002",
+    "area": "Vishal Nagar, Shaheed Bhagat Singh Nagar",
+    "latitude": 30.8773263,
+    "longitude": 75.82221609999999,
+    "place_id": "ChIJcdOsPuWBGjkRiY761wwSqjw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcdOsPuWBGjkRiY761wwSqjw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:42:35"
+  }
+]

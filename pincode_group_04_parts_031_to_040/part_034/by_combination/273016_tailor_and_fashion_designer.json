@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Richa Boutique",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "273016",
+    "phone_number": "+91 94551 70824",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 28,
+    "address": "Shakti Nagar Rd, Mahuesugharpur, Shakti Nagar Colony, Gorakhpur, Uttar Pradesh 273016",
+    "area": "Mahuesugharpur, Shakti Nagar Colony",
+    "latitude": 26.7271029,
+    "longitude": 83.368704,
+    "place_id": "ChIJN4rHpRNDkTkRlNYDKBljNQI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN4rHpRNDkTkRlNYDKBljNQI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:59:15"
+  },
+  {
+    "business_name": "New Golden Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "273016",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward No 4, Main Chowk, Gola Bazar, Verma Colony, Avas Kas Colony, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Verma Colony, Avas Kas Colony",
+    "latitude": 26.7396612,
+    "longitude": 83.3644951,
+    "place_id": "ChIJiR0l_yZFkTkRejABcszPOl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiR0l_yZFkTkRejABcszPOl8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:59:18"
+  }
+]

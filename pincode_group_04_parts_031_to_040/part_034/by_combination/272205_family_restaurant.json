@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saware snacks",
+    "search_category": "Family Restaurant",
+    "primary_category": "Snack bar",
+    "all_categories": "Snack bar",
+    "pincode": "272205",
+    "phone_number": "+91 63949 72610",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Siddhartha nagar rd, Shohratgarh, Chhatahari, Uttar Pradesh 272205",
+    "area": "272205",
+    "latitude": 27.3910005,
+    "longitude": 82.9596632,
+    "place_id": "ChIJD34ynoDhljkRBf68f3iDCho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD34ynoDhljkRBf68f3iDCho",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:15:16"
+  },
+  {
+    "business_name": "Ramdeen hotel",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "272205",
+    "phone_number": "N/A",
+    "website": "https://sites.google.com/view/pankajkumarpaswan",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Puranvasi Mahala Siddharthnagarar, Uttar Pradesh 272204",
+    "area": "272205",
+    "latitude": 27.3150703,
+    "longitude": 82.97262309999999,
+    "place_id": "ChIJ79N0gJDfljkRJepL2A9xnUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ79N0gJDfljkRJepL2A9xnUs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:15:18"
+  }
+]

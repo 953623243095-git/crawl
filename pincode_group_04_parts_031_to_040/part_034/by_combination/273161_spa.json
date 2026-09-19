@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S Medical Store",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "273161",
+    "phone_number": "+91 96704 82717",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Q Tahriya, Uttar Pradesh 273161",
+    "area": "273161",
+    "latitude": 27.1386433,
+    "longitude": 83.1794704,
+    "place_id": "ChIJyxVt8B_JljkR1QZoiKvdTuQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyxVt8B_JljkR1QZoiKvdTuQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:13:16"
+  },
+  {
+    "business_name": "Vinod Hear Cating Salun",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "273161",
+    "phone_number": "+91 95696 35588",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Dhani Bazar, Uttar Pradesh 273161",
+    "area": "273161",
+    "latitude": 27.1056301,
+    "longitude": 83.17329289999999,
+    "place_id": "ChIJRUq7OpzJljkR-vgcf7fs9d4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRUq7OpzJljkR-vgcf7fs9d4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:13:16"
+  }
+]

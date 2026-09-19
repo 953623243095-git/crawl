@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vayu Art & Crafts",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "272181",
+    "phone_number": "+91 83681 63671",
+    "website": "http://www.vayuartcrafts.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "First Floor, Vayu Art & Crafts, 28/1/13, Maharajpur, Sahibabad Industrial Area Site 4, Sahibabad, Ghaziabad, Uttar Pradesh 201010",
+    "area": "Maharajpur, Sahibabad Industrial Area Site 4, Sahibabad",
+    "latitude": 28.654632699999997,
+    "longitude": 77.3402864,
+    "place_id": "ChIJybtGKbT7DDkRxn6dcMvRs44",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJybtGKbT7DDkRxn6dcMvRs44",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:50:26"
+  },
+  {
+    "business_name": "Glam Shack",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "272181",
+    "phone_number": "+91 95544 17777",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "1/35, Viram Khand 1, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Viram Khand 1, Gomti Nagar",
+    "latitude": 26.851412,
+    "longitude": 81.000711,
+    "place_id": "ChIJm-moK8XimzkR8b5L4zWlals",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm-moK8XimzkR8b5L4zWlals",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:50:26"
+  }
+]

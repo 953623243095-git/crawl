@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SK Aluminium",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Aluminium Supplier",
+    "all_categories": "Aluminium Supplier, Aluminum window, Glass shop, Plywood supplier",
+    "pincode": "272177",
+    "phone_number": "+91 73881 87483",
+    "website": "http://skaluminiums.com/",
+    "rating": 5,
+    "reviews_count": 34,
+    "address": "Rampur, Parsa, Uttar Pradesh 272002",
+    "area": "272177",
+    "latitude": 26.768777,
+    "longitude": 82.79868619999999,
+    "place_id": "ChIJb-1bgdfbkDkRtldNqpv11Gs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb-1bgdfbkDkRtldNqpv11Gs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:47:14"
+  },
+  {
+    "business_name": "Raj Aluminium And Glass House",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "272177",
+    "phone_number": "+91 84000 25255",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shankar Pur, Jamohara, Basti, Uttar Pradesh 272001",
+    "area": "Shankar Pur, Jamohara",
+    "latitude": 26.8191845,
+    "longitude": 82.7696935,
+    "place_id": "ChIJLZj4fLTRkDkRV7ph_AVhE-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLZj4fLTRkDkRV7ph_AVhE-Q",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:47:14"
+  }
+]

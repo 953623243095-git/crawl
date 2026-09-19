@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jahid",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "272193",
+    "phone_number": "+91 80811 47956",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mohalla Subhash Nagar, water massage, Utraula, Uttar Pradesh 271604",
+    "area": "272193",
+    "latitude": 27.3169333,
+    "longitude": 82.4202181,
+    "place_id": "ChIJ2cGosN9DlzkRt43qbK8sz_0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2cGosN9DlzkRt43qbK8sz_0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:01:03"
+  },
+  {
+    "business_name": "Matrise Education Solution",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "272193",
+    "phone_number": "N/A",
+    "website": "https://www.matrise.in/",
+    "rating": 4.9,
+    "reviews_count": 31,
+    "address": "GF-38, SNG Plaza, Block B, Ansal Golf Link -1, Greater Noida, Uttar Pradesh 201310",
+    "area": "Block B, Ansal Golf Link -1",
+    "latitude": 28.457108599999998,
+    "longitude": 77.50237,
+    "place_id": "ChIJO0d6BPqCuikRpIu3x8nIKDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO0d6BPqCuikRpIu3x8nIKDM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:01:04"
+  }
+]

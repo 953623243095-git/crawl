@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri JRG Foods",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "272192",
+    "phone_number": "+91 80 4278 1810",
+    "website": "http://www.jrgfoods.com/",
+    "rating": 3.7,
+    "reviews_count": 38,
+    "address": "G3-8, UPSIDC Industrial Area, Gajraula, Uttar Pradesh 244223",
+    "area": "272192",
+    "latitude": 28.820185,
+    "longitude": 78.223295,
+    "place_id": "ChIJXUnvzhJ0CzkReZLScM6BAhQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXUnvzhJ0CzkReZLScM6BAhQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:59:38"
+  },
+  {
+    "business_name": "mahadeva atta chakki",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "272192",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 21,
+    "address": "CX79+93W, Uttar Pradesh 272205",
+    "area": "272192",
+    "latitude": 27.4134852,
+    "longitude": 82.9676929,
+    "place_id": "ChIJ01JJNeHgljkR4bETd_NWTWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ01JJNeHgljkR4bETd_NWTWk",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:59:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SBI Branch Uska Bazar",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Bank",
+    "all_categories": "Bank",
+    "pincode": "272208",
+    "phone_number": "+91 1800 1234",
+    "website": "https://bank.sbi/",
+    "rating": 3.4,
+    "reviews_count": 11,
+    "address": "Dist:Sidharthnagar, Belsar, Sasani, Uttar Pradesh 272208",
+    "area": "Dist:Sidharthnagar",
+    "latitude": 27.204258,
+    "longitude": 83.11128,
+    "place_id": "ChIJ2RAw5MvPljkRCG4uALcQm58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2RAw5MvPljkRCG4uALcQm58",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:22:09"
+  },
+  {
+    "business_name": "SBI PBB Naugarh",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Bank",
+    "all_categories": "Bank",
+    "pincode": "272208",
+    "phone_number": "+91 1800 1234",
+    "website": "https://bank.sbi/",
+    "rating": 3.8,
+    "reviews_count": 26,
+    "address": "Indira Nagar, Naugarh, Tetri Bazar, Uttar Pradesh 272207",
+    "area": "Indira Nagar",
+    "latitude": 27.2751619,
+    "longitude": 83.0883305,
+    "place_id": "ChIJ6R2xP7LEljkR-JjrtZ19RbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6R2xP7LEljkR-JjrtZ19RbY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:22:09"
+  }
+]

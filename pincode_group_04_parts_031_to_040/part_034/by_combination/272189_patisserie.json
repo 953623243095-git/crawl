@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Daya bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Food manufacturing supply",
+    "all_categories": "Food manufacturing supply",
+    "pincode": "272189",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5HMX+285 Daya bakery, Rudrauliya, Bithriya, Uttar Pradesh 272191",
+    "area": "Rudrauliya",
+    "latitude": 27.182508799999997,
+    "longitude": 82.5983615,
+    "place_id": "ChIJE_3sFQA5lzkRGvT44TXrmLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE_3sFQA5lzkRGvT44TXrmLo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:52:58"
+  },
+  {
+    "business_name": "Anmol Traders",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, General store",
+    "pincode": "272189",
+    "phone_number": "+91 88530 51156",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Basti Rd, Hallaur, Uttar Pradesh 272191",
+    "area": "272189",
+    "latitude": 27.1715689,
+    "longitude": 82.65265169999999,
+    "place_id": "ChIJ5Y7u42k7lzkRp9qOxgTgWJ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Y7u42k7lzkRp9qOxgTgWJ4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:53:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Medical Store 💊",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "273157",
+    "phone_number": "+91 99900 05940",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Lotan Rd, near PNB Bank, Kolhui Bazar, Kolhui, Uttar Pradesh 273162",
+    "area": "273157",
+    "latitude": 27.3017762,
+    "longitude": 83.33020139999999,
+    "place_id": "ChIJMdsLL4G_ljkRU-PYjn0YvB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMdsLL4G_ljkRU-PYjn0YvB4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:08:58"
+  },
+  {
+    "business_name": "Damodar Aushadhi Bhandar",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "273157",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 25,
+    "address": "Pharenda, Road, Maharajganj, Uttar Pradesh 273303",
+    "area": "Veer Bahadur Nagar, Bismil Nagar",
+    "latitude": 27.144389999999998,
+    "longitude": 83.5612542,
+    "place_id": "ChIJW7-r3XupljkRJIkfhkF1aE0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW7-r3XupljkRJIkfhkF1aE0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:08:59"
+  }
+]

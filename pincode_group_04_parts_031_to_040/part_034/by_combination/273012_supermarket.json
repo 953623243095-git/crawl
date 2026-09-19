@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahadev Stores",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "273012",
+    "phone_number": "+91 99196 99953",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Neta Ji Subas, Chandra Bose Nagar Chauk, Surajkund, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Surajkund",
+    "latitude": 26.7604611,
+    "longitude": 83.37315009999999,
+    "place_id": "ChIJD6jyQX5FkTkRnKRLNdbLTrQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD6jyQX5FkTkRnKRLNdbLTrQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:51:00"
+  },
+  {
+    "business_name": "Aakash Grocery",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "273012",
+    "phone_number": "+91 63077 22487",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "01, Dharamshala Bazar, Dharamshala, Gorakhpur, Uttar Pradesh 273012",
+    "area": "Dharamshala Bazar, Dharamshala",
+    "latitude": 26.7634066,
+    "longitude": 83.3744016,
+    "place_id": "ChIJ83AlUihFkTkRb6d41_HJGYA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ83AlUihFkTkRb6d41_HJGYA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:51:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navjyoti Multispeciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "General hospital",
+    "all_categories": "General hospital",
+    "pincode": "272194",
+    "phone_number": "+91 72689 42446",
+    "website": "http://navjyotimultispecialityhospital.com/",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Plot No 70, Basti - Bansi Rd, Harraiya, Rudhauli, Uttar Pradesh 272151",
+    "area": "272194",
+    "latitude": 27.0328599,
+    "longitude": 82.8024764,
+    "place_id": "ChIJXRLcpYsslzkRiqBJcqpgaVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXRLcpYsslzkRiqBJcqpgaVw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:02:11"
+  },
+  {
+    "business_name": "Tamiz Surgical",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier",
+    "pincode": "272194",
+    "phone_number": "+91 94433 71020",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Adamsa Lane, Madurai Main, Madurai, Tamil Nadu 625001",
+    "area": "Madurai Main",
+    "latitude": 9.9192213,
+    "longitude": 78.1145854,
+    "place_id": "ChIJFSVgxIbFADsRfxzF9Aehm2Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFSVgxIbFADsRfxzF9Aehm2Y",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:02:12"
+  }
+]

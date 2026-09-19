@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sargam Polymer",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler",
+    "pincode": "273007",
+    "phone_number": "+91 97165 22065",
+    "website": "https://www.sargampolymer.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ekla Bazaar Naushad Gorakhpur 273016, Gorakhpur, Uttar Pradesh 271306",
+    "area": "273007",
+    "latitude": 26.7182338,
+    "longitude": 83.33064159999999,
+    "place_id": "ChIJOxuFz-dBkTkRfHaVvEvwZZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOxuFz-dBkTkRfHaVvEvwZZ4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:44:48"
+  },
+  {
+    "business_name": "JS Enterprises",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler, Chemical Manufacturer",
+    "pincode": "273007",
+    "phone_number": "+91 94152 11804",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Tandwa khurd, Dhuria Par Khas, Uttar Pradesh 273209",
+    "area": "Tandwa khurd",
+    "latitude": 26.7778262,
+    "longitude": 83.1657742,
+    "place_id": "ChIJnX7K8xE5kTkRVJLQ79yESxY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnX7K8xE5kTkRVJLQ79yESxY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:44:48"
+  }
+]

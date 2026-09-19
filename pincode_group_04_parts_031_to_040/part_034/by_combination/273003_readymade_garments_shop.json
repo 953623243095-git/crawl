@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Linen Club",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "273003",
+    "phone_number": "+91 551 405 2887",
+    "website": "http://www.linenclub.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "UGF 1,2,3, Lotus Tower, Medical College Road, near om furniture, Basharatpur, Rapti Nagar III, Gorakhpur, Uttar Pradesh 273004",
+    "area": "Basharatpur, Rapti Nagar III",
+    "latitude": 26.7892384,
+    "longitude": 83.3857543,
+    "place_id": "ChIJNf_0ukVFkTkRJ_RgnSAr11I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNf_0ukVFkTkRJ_RgnSAr11I",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:35:21"
+  },
+  {
+    "business_name": "Town Fab",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "273003",
+    "phone_number": "+91 63940 03744",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 6,
+    "address": "135A, Rustampur Rd, Manaspuram, Mahuesugharpur, Azad Nagar, Gorakhpur, Uttar Pradesh 273016",
+    "area": "Manaspuram, Mahuesugharpur, Azad Nagar",
+    "latitude": 26.7304401,
+    "longitude": 83.3698196,
+    "place_id": "ChIJM7ivc4JDkTkRgvaHwCIqGt4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM7ivc4JDkTkRgvaHwCIqGt4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:35:22"
+  }
+]

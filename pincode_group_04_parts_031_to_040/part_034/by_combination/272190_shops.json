@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "अनमोल इंटरप्राइजेज",
+    "search_category": "Shops",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "272190",
+    "phone_number": "+91 99199 03241",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "SH 26, Sonha, Uttar Pradesh 272190",
+    "area": "272190",
+    "latitude": 26.9918604,
+    "longitude": 82.67563419999999,
+    "place_id": "ChIJxVuWZAAzlzkRd6W6ql9fzLI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxVuWZAAzlzkRd6W6ql9fzLI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:56:23"
+  },
+  {
+    "business_name": "Chaudhary Bij Bhandar",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "272190",
+    "phone_number": "+91 89486 41921",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 7,
+    "address": "0, Dagdawa, Uttar Pradesh 272190",
+    "area": "272190",
+    "latitude": 26.9838174,
+    "longitude": 82.6946318,
+    "place_id": "ChIJ7TXM1-_NkDkRM5PwtttPYD8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7TXM1-_NkDkRM5PwtttPYD8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:56:23"
+  }
+]

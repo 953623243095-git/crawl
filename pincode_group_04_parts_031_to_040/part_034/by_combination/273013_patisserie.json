@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ranjan bekars",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "273013",
+    "phone_number": "+91 70073 02026",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Uttar Pradesh semra no 2, Uttar Pradesh 273014",
+    "area": "273013",
+    "latitude": 26.8046819,
+    "longitude": 83.4049043,
+    "place_id": "ChIJHa4Y0bFFkTkRuJajEFTWJRE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHa4Y0bFFkTkRuJajEFTWJRE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:53:07"
+  },
+  {
+    "business_name": "Vegan Red Velvet",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "273013",
+    "phone_number": "+91 98682 29659",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "B61, rapti Nagar phase 4, behind Sports Collage, near Nova Clinic, RailVihar Ph-2 Colony, Raptinagar Phase -4, Gorakhpur, Uttar Pradesh 273013",
+    "area": "RailVihar Ph-2 Colony, Raptinagar Phase -4",
+    "latitude": 26.8004486,
+    "longitude": 83.3858561,
+    "place_id": "ChIJO_9s2WtFkTkR_nGJl7VEtos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_9s2WtFkTkR_nGJl7VEtos",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:53:07"
+  }
+]

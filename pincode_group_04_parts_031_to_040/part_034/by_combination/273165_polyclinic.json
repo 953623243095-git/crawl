@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Nation Medical Store and Poly clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "273165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "WC8P+28H, Basthan-Bhathat Road, J. Janul Abden Urf Jainp, Uttar Pradesh 273306",
+    "area": "273165",
+    "latitude": 26.9150539,
+    "longitude": 83.4358456,
+    "place_id": "ChIJ_5ayjXVRkTkRjvx-cabnCUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_5ayjXVRkTkRjvx-cabnCUI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:20:19"
+  },
+  {
+    "business_name": "Happy Health Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant",
+    "pincode": "273165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WFMP+FP8, Road, Mangalpur Chawraha, Paniara, Mangalpur, Sumergarh, Uttar Pradesh 273306",
+    "area": "Mangalpur Chawraha, Paniara",
+    "latitude": 26.9336561,
+    "longitude": 83.4868204,
+    "place_id": "ChIJiygmzYpTkTkRbfcEIc8kYSA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiygmzYpTkTkRbfcEIc8kYSA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:20:20"
+  }
+]

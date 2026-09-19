@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajeet jaiswal Shop",
+    "search_category": "Fish Market",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "273161",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "45CF+X58, Kanapar Urf Ram Nagar, Dhani Bazar, Uttar Pradesh 273161",
+    "area": "273161",
+    "latitude": 27.122085,
+    "longitude": 83.174235,
+    "place_id": "ChIJl7I-DwDJljkR3WMO_P8ETw0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl7I-DwDJljkR3WMO_P8ETw0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:12:24"
+  },
+  {
+    "business_name": "Fish farming",
+    "search_category": "Fish Market",
+    "primary_category": "Farmers' market",
+    "all_categories": "Farmers' market",
+    "pincode": "273161",
+    "phone_number": "N/A",
+    "website": "https://www.facebook.com/patel.fish.farming?mibextid=2JQ9oc",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "283H+MF, Malauli, Uttar Pradesh 225412",
+    "area": "273161",
+    "latitude": 27.004195,
+    "longitude": 81.3286925,
+    "place_id": "ChIJaTflvollmTkRkTns36e2Mys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaTflvollmTkRkTns36e2Mys",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:12:27"
+  }
+]

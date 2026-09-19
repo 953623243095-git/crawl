@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivam Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "273013",
+    "phone_number": "+91 63928 50063",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Dalal Chowk, Bhathat Bazar, Gorakhpur, Bhathat, Uttar Pradesh 273306",
+    "area": "Bhathat Bazar",
+    "latitude": 26.8979674,
+    "longitude": 83.48855879999999,
+    "place_id": "ChIJx_gY6k1RkTkRr0AlQ1WWiDo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx_gY6k1RkTkRr0AlQ1WWiDo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:53:12"
+  },
+  {
+    "business_name": "Gopi Sweets",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "273013",
+    "phone_number": "+91 96168 67355",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 25,
+    "address": "Jhungiya bazar, opp. Nexa, Uttar Pradesh 273013",
+    "area": "273013",
+    "latitude": 26.8233775,
+    "longitude": 83.4076114,
+    "place_id": "ChIJF8M82cdFkTkRgMK87Ht5_kQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF8M82cdFkTkRgMK87Ht5_kQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:53:14"
+  }
+]

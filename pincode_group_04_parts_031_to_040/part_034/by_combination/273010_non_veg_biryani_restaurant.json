@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Biriyani House",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "273010",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": null,
+    "address": "एम्स बाउन्ड्री के सामने, निकट अण्डर पास, गेट नं0- 1, कसया रोड, Gorakhpur, Uttar Pradesh 273008",
+    "area": "Kunraghat",
+    "latitude": 26.7475484,
+    "longitude": 83.42475639999999,
+    "place_id": "ChIJg5zpZQBbkTkRJCXUI91xvVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg5zpZQBbkTkRJCXUI91xvVw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:49:18"
+  },
+  {
+    "business_name": "DESHI TREAT VEG & NONVEG RESTAURANT",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "273010",
+    "phone_number": "+91 87389 31239",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Bhagat Chauraha, GDA COMPLEX, near DEVAKI TOWER, Rail Vihar Colony Phase 3rd, Taramandal, Gorakhpur, Uttar Pradesh 273016",
+    "area": "Rail Vihar Colony Phase 3rd, Taramandal",
+    "latitude": 26.722808399999998,
+    "longitude": 83.3906863,
+    "place_id": "ChIJ1cdhyEZDkTkRguscEgXeroQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1cdhyEZDkTkRguscEgXeroQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:49:19"
+  }
+]

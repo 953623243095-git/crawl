@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samrat Car Washing Center",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "273016",
+    "phone_number": "+91 88969 42129",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Nausad, Varanasi - Gorakhpur Hwy, near RK hospital, Gorakhpur, Bhilora Buzurg, Uttar Pradesh 273016",
+    "area": "273016",
+    "latitude": 26.7207914,
+    "longitude": 83.331332,
+    "place_id": "ChIJYyZYqUhDkTkRbZ9DHzsNG1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYyZYqUhDkTkRbZ9DHzsNG1s",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:59:35"
+  },
+  {
+    "business_name": "RAI CAR CARE GARWARE FILM",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "273016",
+    "phone_number": "+91 63925 87004",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 66,
+    "address": "Akelawa Chauraha, Varanasi - Gorakhpur Hwy, nearby Bhilora, More, Gorakhpur, Bhilora Buzurg, Uttar Pradesh 273016",
+    "area": "More",
+    "latitude": 26.722840899999998,
+    "longitude": 83.33169459999999,
+    "place_id": "ChIJi7CiTQBBkTkRQf-tdqtavXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi7CiTQBBkTkRQf-tdqtavXY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:59:36"
+  }
+]

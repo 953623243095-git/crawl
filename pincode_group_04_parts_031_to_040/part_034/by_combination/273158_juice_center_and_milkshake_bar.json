@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suraj Juice and Shakes",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "273158",
+    "phone_number": "+91 88690 07278",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 24,
+    "address": "Chowk, Ramnagar, Roorkee, Shafipur, Uttarakhand 247667",
+    "area": "Ramnagar",
+    "latitude": 29.8734351,
+    "longitude": 77.8764437,
+    "place_id": "ChIJuWKgToezDjkRK3BiSkno0E8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuWKgToezDjkRK3BiSkno0E8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:10:35"
+  },
+  {
+    "business_name": "Ganesh Juice Corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "273158",
+    "phone_number": "+91 99176 93633",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 10,
+    "address": "VV4G+XR9, Malviya Chowk, Roorkee, Uttarakhand 247667",
+    "area": "Malviya Chowk",
+    "latitude": 29.8574104,
+    "longitude": 77.8771146,
+    "place_id": "ChIJT4wCqp6zDjkR58BnPybEtfg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT4wCqp6zDjkR58BnPybEtfg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:10:35"
+  }
+]

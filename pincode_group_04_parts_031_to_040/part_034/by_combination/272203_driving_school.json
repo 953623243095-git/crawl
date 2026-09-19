@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Roshan",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "272203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "73XV+J48, Naugarh, Uttar Pradesh 272203",
+    "area": "272203",
+    "latitude": 27.2990405,
+    "longitude": 83.0928155,
+    "place_id": "ChIJF5zpxXbDljkRiHNlZeiEjZk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF5zpxXbDljkRiHNlZeiEjZk",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:11:59"
+  },
+  {
+    "business_name": "Ayush Motor Driving School",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "272203",
+    "phone_number": "+91 73981 63774",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Service Rd, Fazilnagar, Pipra Rajab, Uttar Pradesh 274401",
+    "area": "272203",
+    "latitude": 26.6893779,
+    "longitude": 84.04165359999999,
+    "place_id": "ChIJA1L0vHGXkzkRQ2NAmuL1CXo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA1L0vHGXkzkRQ2NAmuL1CXo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:12:01"
+  }
+]

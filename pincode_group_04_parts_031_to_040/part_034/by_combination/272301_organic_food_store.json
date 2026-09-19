@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MS Ganesh Kishan interprise GS4",
+    "search_category": "Organic Food Store",
+    "primary_category": "Store",
+    "all_categories": "Store, Shopping mall",
+    "pincode": "272301",
+    "phone_number": "+91 98893 13031",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 37,
+    "address": "Pokharni chauraha nagar bazar Kalwari road, Uttar Pradesh 272302",
+    "area": "272301",
+    "latitude": 26.7168885,
+    "longitude": 82.67558,
+    "place_id": "ChIJ7ZzaoSLFkDkRmi7ClY-LWsg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7ZzaoSLFkDkRmi7ClY-LWsg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:26:34"
+  },
+  {
+    "business_name": "Gramin Bytes",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store",
+    "pincode": "272301",
+    "phone_number": "+91 97204 86349",
+    "website": "https://graminbytes.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gali No. 3, Surya City, Plot No. C33, Rohta Rd, Nand Vihar, Meerut, Uttar Pradesh 250005",
+    "area": "Nand Vihar",
+    "latitude": 28.992473699999998,
+    "longitude": 77.6558585,
+    "place_id": "ChIJmXoQQbZlDDkRzVez1Z3KOG0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmXoQQbZlDDkRzVez1Z3KOG0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:26:35"
+  }
+]

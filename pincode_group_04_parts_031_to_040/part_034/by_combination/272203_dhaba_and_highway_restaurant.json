@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yaarana Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "272203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 36,
+    "address": "NH 24, Gorakhpur - Sonauli Rd, Nautanwa, Uttar Pradesh 273164",
+    "area": "272203",
+    "latitude": 27.4357914,
+    "longitude": 83.41737789999999,
+    "place_id": "ChIJhVPFFB6XljkRVlRoifVN9Ec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhVPFFB6XljkRVlRoifVN9Ec",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:11:21"
+  },
+  {
+    "business_name": "NH 28 dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "272203",
+    "phone_number": "+91 93058 49332",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 16,
+    "address": "PGWH+43H, Madapar, Uttar Pradesh 273002",
+    "area": "272203",
+    "latitude": 26.7453155,
+    "longitude": 83.5278618,
+    "place_id": "ChIJFUsDJQpZkTkRnOXtXsRtXF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFUsDJQpZkTkRnOXtXsRtXF4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:11:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ABHISHEK KUMAR",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "272181",
+    "phone_number": "+91 76519 41633",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.001, Shop N, 001, Lucknow, Uttar Pradesh 226004",
+    "area": "272181",
+    "latitude": 26.851467799999998,
+    "longitude": 82.48893729999999,
+    "place_id": "ChIJu8Hu3DG3kDkRuYaHqwCppjM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu8Hu3DG3kDkRuYaHqwCppjM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:49:33"
+  },
+  {
+    "business_name": "Knight Phoenix Gorakhpur",
+    "search_category": "Bar and Pub",
+    "primary_category": "Disco club",
+    "all_categories": "Disco club, Bar & grill, Dance club, Disc golf course, Fine dining restaurant, Restaurant",
+    "pincode": "272181",
+    "phone_number": "+91 93364 36055",
+    "website": "https://knightphoenix.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "3rd Floor, Commercial Yojana, Plot A2, Buddha Vihar, near Mount Litera Zee School, Buddh Vihar Part A, A, Taramandal, Gorakhpur, Uttar Pradesh 273016",
+    "area": "Buddh Vihar Part A, A, Taramandal",
+    "latitude": 26.7370818,
+    "longitude": 83.374496,
+    "place_id": "ChIJneZjT7VDkTkR5cjmhF0zY4c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJneZjT7VDkTkR5cjmhF0zY4c",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:49:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Daya Shanker Gupta Kirana Store",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, General store",
+    "pincode": "273012",
+    "phone_number": "+91 79059 42756",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nng Shop, Karkhana Gate Asuran, in front of Government Pollytechnic, Kawwa Bagh Colony, Gorakhpur, Uttar Pradesh 273012",
+    "area": "Kawwa Bagh Colony",
+    "latitude": 26.763771199999997,
+    "longitude": 83.3754155,
+    "place_id": "ChIJ0ZRN7l5EkTkRAAAAMC028XQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0ZRN7l5EkTkRAAAAMC028XQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:50:59"
+  },
+  {
+    "business_name": "Ajay Kirana",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "273012",
+    "phone_number": "+91 84292 70740",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "To Dharamshala, asuran chowk, Bauliya Railway Colony, Gorakhpur, Uttar Pradesh 273012",
+    "area": "asuran chowk, Bauliya Railway Colony",
+    "latitude": 26.7660098,
+    "longitude": 83.37721719999999,
+    "place_id": "ChIJJ91rM19EkTkRvBIYhllZeWI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ91rM19EkTkRvBIYhllZeWI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:50:59"
+  }
+]

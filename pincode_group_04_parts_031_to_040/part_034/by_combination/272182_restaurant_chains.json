@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Cheesy Place",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "272182",
+    "phone_number": "+91 88640 00091",
+    "website": "https://instagram.com/thecheesy.place?igshid=YmMyMTA2M2Y=",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Gulati market, tikona park, Bhamian Rd, near Saraswati stationery, Onkar Viha, Sukhdev Nagar, Jamalpur, Ludhiana, Punjab 141003",
+    "area": "Onkar Viha, Sukhdev Nagar, Jamalpur",
+    "latitude": 30.906508,
+    "longitude": 75.9081583,
+    "place_id": "ChIJO84_peidGjkR4u9_njBg9sI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO84_peidGjkR4u9_njBg9sI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:51:21"
+  },
+  {
+    "business_name": "The Manish Eating Point",
+    "search_category": "Restaurant Chains",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Mughlai restaurant, Non Vegetarian Restaurant, Restaurant, Vegetarian restaurant",
+    "pincode": "272182",
+    "phone_number": "+91 98399 93390",
+    "website": "https://themanisheatingpoint.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "3/40, Vinay Khand, Patrakar Puram, Chauraha, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Patrakar Puram, Chauraha, Gomti Nagar",
+    "latitude": 26.853087499999997,
+    "longitude": 81.0005796,
+    "place_id": "ChIJs4iSN8PimzkR7Zxsim6f5oE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs4iSN8PimzkR7Zxsim6f5oE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:51:21"
+  }
+]

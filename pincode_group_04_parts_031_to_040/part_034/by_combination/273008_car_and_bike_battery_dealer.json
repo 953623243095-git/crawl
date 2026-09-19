@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sandeep Enterprises",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Battery Store",
+    "all_categories": "Battery Store",
+    "pincode": "273008",
+    "phone_number": "+91 99196 33000",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "near RKBK, Mohaddipur, Gorakhpur, Uttar Pradesh 273008",
+    "area": "Mohaddipur",
+    "latitude": 26.748942699999997,
+    "longitude": 83.4087935,
+    "place_id": "ChIJ9WUOJaVEkTkRbIyWZNjooU8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9WUOJaVEkTkRbIyWZNjooU8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:45:49"
+  },
+  {
+    "business_name": "Shiva battery",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Car battery store",
+    "all_categories": "Car battery store, Battery Store, Wholesaler",
+    "pincode": "273008",
+    "phone_number": "+91 83189 97920",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": null,
+    "address": "North of Kali Mandir, Golghar, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Golghar",
+    "latitude": 26.7562118,
+    "longitude": 83.3729609,
+    "place_id": "ChIJD3cD0GZEkTkRVj_FMPbkDpk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD3cD0GZEkTkRVj_FMPbkDpk",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:45:49"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DEV EYE HOSPITAL",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "272192",
+    "phone_number": "+91 97617 40449",
+    "website": "https://deveyehospital.com/",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "WHITE HOUSE MARRIAGE HALL, Domariyaganj Rd, UTRAULA, Bhandriya, Uttar Pradesh 271604",
+    "area": "UTRAULA",
+    "latitude": 27.259909099999998,
+    "longitude": 82.5598057,
+    "place_id": "ChIJd0EMfBBBlzkRfm9q5ECp3mE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd0EMfBBBlzkRfm9q5ECp3mE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:58:34"
+  },
+  {
+    "business_name": "CPN EYE CARE CENTRE PARSA",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "272192",
+    "phone_number": "+91 94538 52686",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shohratgarh Rd, Parsa, Uttar Pradesh 272201",
+    "area": "272192",
+    "latitude": 27.445864099999998,
+    "longitude": 82.90981149999999,
+    "place_id": "ChIJkYEUNubhljkRjRPVYz5fJIE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkYEUNubhljkRjRPVYz5fJIE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:58:37"
+  }
+]

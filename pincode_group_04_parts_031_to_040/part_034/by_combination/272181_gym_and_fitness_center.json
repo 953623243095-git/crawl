@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fitness Club Babhnan",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "272181",
+    "phone_number": "+91 99195 35870",
+    "website": "https://fitmealclub.xyz/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward number 7, subash nagar Nagar panchayat, Babhnan, Uttar Pradesh 271313",
+    "area": "272181",
+    "latitude": 26.9318182,
+    "longitude": 82.5041382,
+    "place_id": "ChIJsz_AcZa1kDkRuWD2aASMUf0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsz_AcZa1kDkRuWD2aASMUf0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:49:53"
+  },
+  {
+    "business_name": "VA Fitness center-best gym/top gym/fitness gym in basti",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "272181",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 15,
+    "address": "Bansi Rd, Purani Basti, Basti, Uttar Pradesh 272001",
+    "area": "Purani Basti",
+    "latitude": 26.8218715,
+    "longitude": 82.76658789999999,
+    "place_id": "ChIJh4XNgAnRkDkRYYp5kgizlVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh4XNgAnRkDkRYYp5kgizlVc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:49:55"
+  }
+]

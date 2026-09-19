@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MK Manufacturing",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "273152",
+    "phone_number": "+91 96969 57348",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kaptanganj Road, Pipraich, Sonraiech Urf Bragaon, Uttar Pradesh 273152",
+    "area": "273152",
+    "latitude": 26.838891099999998,
+    "longitude": 83.5378199,
+    "place_id": "ChIJmV9d70tZkTkRTpZr2rxVOXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmV9d70tZkTkRTpZr2rxVOXU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:05:05"
+  },
+  {
+    "business_name": "Pratibha Handicrafts",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Handicrafts Wholesaler",
+    "all_categories": "Handicrafts Wholesaler, Gift shop, Scrapbooking store, Wedding store",
+    "pincode": "273152",
+    "phone_number": "+91 83185 21927",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ward no. 8, vijay chowk, Vijay chowk, Pipraich, Uttar Pradesh 273152",
+    "area": "Vijay chowk",
+    "latitude": 26.831053899999997,
+    "longitude": 83.5295726,
+    "place_id": "ChIJ0eL8zC1ZkTkRWS10fATY1Lk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0eL8zC1ZkTkRWS10fATY1Lk",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:05:06"
+  }
+]

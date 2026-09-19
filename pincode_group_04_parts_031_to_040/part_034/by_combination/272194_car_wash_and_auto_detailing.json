@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The detailing dock",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "272194",
+    "phone_number": "+91 78764 46365",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "Mandi - Pathankot Rd, near Roadies Cafe, Arla, Palampur, Himachal Pradesh 176102",
+    "area": "272194",
+    "latitude": 32.0846346,
+    "longitude": 76.49677969999999,
+    "place_id": "ChIJxV4BlFi3BDkR2Rixm4U2bZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxV4BlFi3BDkR2Rixm4U2bZc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:02:22"
+  },
+  {
+    "business_name": "Velocity car wash & detailing",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "272194",
+    "phone_number": "+91 77809 42902",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nh44 zodar stop mirbazar, Jammu and Kashmir 192221",
+    "area": "272194",
+    "latitude": 33.7037885,
+    "longitude": 75.1094688,
+    "place_id": "ChIJ501y_rIF4jgRmN6EBYonH3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ501y_rIF4jgRmN6EBYonH3g",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:02:22"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHIVAY GENERAL STORES",
+    "search_category": "Shops",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "272203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "73XV+J48, Valmiki Nagar, Naugarh, Uttar Pradesh 272203",
+    "area": "Valmiki Nagar",
+    "latitude": 27.2990405,
+    "longitude": 83.0928155,
+    "place_id": "ChIJq9dlUgDDljkR7_jdfFzHI8A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq9dlUgDDljkR7_jdfFzHI8A",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:13:11"
+  },
+  {
+    "business_name": "RK Hero Service Centre",
+    "search_category": "Shops",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "272203",
+    "phone_number": "+91 99193 81186",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bansi Khalilabad Road, 01, Azad Nagar, Bansi, Uttar Pradesh 272203",
+    "area": "Azad Nagar",
+    "latitude": 27.2982522,
+    "longitude": 83.0928112,
+    "place_id": "ChIJIVnI1D7DljkRWMTWagQl1S0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIVnI1D7DljkRWMTWagQl1S0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:13:14"
+  }
+]

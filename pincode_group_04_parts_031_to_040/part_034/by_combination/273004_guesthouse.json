@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tanshiq Guest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "273004",
+    "phone_number": "+91 93361 71728",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Q9JH+82M, Harhwa Fatak Rd, Om Nagar, Ashok Nagar, Gorakhpur, Uttar Pradesh 273004",
+    "area": "Om Nagar, Ashok Nagar",
+    "latitude": 26.7808271,
+    "longitude": 83.37754509999999,
+    "place_id": "ChIJq-km3fVFkTkRYsT6IXuMH0Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq-km3fVFkTkRYsT6IXuMH0Q",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:38:19"
+  },
+  {
+    "business_name": "Shipra Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house, Function room facility",
+    "pincode": "273004",
+    "phone_number": "+91 86011 46727",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Q9MJ+RCG, Harhwa Fatak Rd, Basharatpur, Gorakhpur, Uttar Pradesh 273004",
+    "area": "Basharatpur",
+    "latitude": 26.784566599999998,
+    "longitude": 83.3810733,
+    "place_id": "ChIJs4IiMABFkTkRLiJIB1MsD3A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs4IiMABFkTkRLiJIB1MsD3A",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:38:19"
+  }
+]

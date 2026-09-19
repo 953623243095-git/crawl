@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anil.Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic",
+    "pincode": "273163",
+    "phone_number": "+91 78972 22526",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Siswa Bazar Rd, Maharajganj, Ghughuli, Uttar Pradesh 273151",
+    "area": "273163",
+    "latitude": 27.0470012,
+    "longitude": 83.7196951,
+    "place_id": "ChIJF_j0ieoHlDkR2vuiMA3UUbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF_j0ieoHlDkR2vuiMA3UUbo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:16:27"
+  },
+  {
+    "business_name": "City Cosmetic Shop",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Store",
+    "all_categories": "Store, Cosmetics store",
+    "pincode": "273163",
+    "phone_number": "+91 89604 75292",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "State Bank Chowk, near Shyam Mandir, Siswa Bazar, Uttar Pradesh 273163",
+    "area": "273163",
+    "latitude": 27.1476336,
+    "longitude": 83.7583411,
+    "place_id": "ChIJi-sxnhgFlDkRicUzhlK958U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi-sxnhgFlDkRicUzhlK958U",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:16:30"
+  }
+]

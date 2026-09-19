@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MANISH CHAT CORNER",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "273158",
+    "phone_number": "+91 95987 74057",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhagwanpur Chauraha, Gorakhpur, Peppeganj, Jangal Bihuli, Uttar Pradesh 273165",
+    "area": "Gorakhpur",
+    "latitude": 26.943442299999997,
+    "longitude": 83.2965534,
+    "place_id": "ChIJgzQ3gMhLkTkRntQ8jUIodeU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgzQ3gMhLkTkRntQ8jUIodeU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:10:37"
+  },
+  {
+    "business_name": "Shani Fast Food Corners",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "273158",
+    "phone_number": "+91 92190 32220",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 4,
+    "address": "Shop No 01, Harpur, Peppeganj, Harpur, Uttar Pradesh 273165",
+    "area": "Harpur",
+    "latitude": 26.941936,
+    "longitude": 83.277255,
+    "place_id": "ChIJN6R5gwRLkTkR1Ph12obRiOY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN6R5gwRLkTkR1Ph12obRiOY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:10:38"
+  }
+]

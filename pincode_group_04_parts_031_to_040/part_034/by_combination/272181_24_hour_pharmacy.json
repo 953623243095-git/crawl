@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "gautam clinic",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "272181",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WFFV+4VM, Dhadhauva, Uttar Pradesh 271313",
+    "area": "272181",
+    "latitude": 26.9228295,
+    "longitude": 82.4946796,
+    "place_id": "ChIJ_8KH5mC0kDkRyosi6I9F9aI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_8KH5mC0kDkRyosi6I9F9aI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:49:45"
+  },
+  {
+    "business_name": "Chandra pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "272181",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Babhnan parsaudaykar, road, Babhnan, Uttar Pradesh 271313",
+    "area": "272181",
+    "latitude": 26.925129599999998,
+    "longitude": 82.4953269,
+    "place_id": "ChIJ09hyofu1kDkRsy28bOSriOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ09hyofu1kDkRsy28bOSriOo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:49:46"
+  }
+]

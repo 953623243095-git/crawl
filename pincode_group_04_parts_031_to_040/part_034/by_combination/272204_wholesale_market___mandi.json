@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navin Mandi",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "272204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "737P+MXG, Mahariya, Tharauli, Uttar Pradesh 272207",
+    "area": "Mahariya",
+    "latitude": 27.2641769,
+    "longitude": 83.0874516,
+    "place_id": "ChIJP0-_fQDFljkRA2U3bUbrvxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP0-_fQDFljkRA2U3bUbrvxI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:15:03"
+  },
+  {
+    "business_name": "Navin Mandi Sthal",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "272204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 8,
+    "address": "73CQ+65M, Khusrajpur, Naugarh, Tetri Bazar, Uttar Pradesh 272207",
+    "area": "Khusrajpur",
+    "latitude": 27.27059,
+    "longitude": 83.0879148,
+    "place_id": "ChIJZZjVfaXFljkRnXVOOzGahkg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZZjVfaXFljkRnXVOOzGahkg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:15:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "272203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Naugarh, Siddharth Nagar, Sandi, Naugarh, Uttar Pradesh 272203",
+    "area": "Sandi",
+    "latitude": 27.2990405,
+    "longitude": 83.0928155,
+    "place_id": "ChIJp4yA-8XDljkRXmPbKBee6wo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp4yA-8XDljkRXmPbKBee6wo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:12:14"
+  },
+  {
+    "business_name": "YASH BEAUTY BAZAR AND GIFT CORNER",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler, Bangle Shop, Mehndi Designer",
+    "pincode": "272203",
+    "phone_number": "+91 88589 23662",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "shop no. 5, Moti mahal shon no.1, near railway crossing Moti mahal, Ramgulam Tola, Deoria, Uttar Pradesh 274001",
+    "area": "Ramgulam Tola",
+    "latitude": 26.5058978,
+    "longitude": 83.7872988,
+    "place_id": "ChIJVeOGvm3FkzkRe32sDBZsy68",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVeOGvm3FkzkRe32sDBZsy68",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:12:15"
+  }
+]

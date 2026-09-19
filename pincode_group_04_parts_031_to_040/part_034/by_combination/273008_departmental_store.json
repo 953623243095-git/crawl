@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Smart Family Bazar",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "273008",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 7,
+    "address": "गोपाल भवन, जननी हास्पिटल, 730-ए, चार फाटक रोड, निकट, Mohaddipur, Gorakhpur, Uttar Pradesh 273008",
+    "area": "निकट, Mohaddipur",
+    "latitude": 26.751818699999998,
+    "longitude": 83.3985448,
+    "place_id": "ChIJSTtusZdEkTkRqvVRPXHw1Xs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSTtusZdEkTkRqvVRPXHw1Xs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:45:07"
+  },
+  {
+    "business_name": "Market99",
+    "search_category": "Departmental Store",
+    "primary_category": "Home improvement store",
+    "all_categories": "Home improvement store",
+    "pincode": "273008",
+    "phone_number": "+91 91162 76860",
+    "website": "https://market99.com/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "3rd Floor Plot No. Bungalow No. 8, 96, Talkies, Orion Mall, (Market99) Unit No. T4, Mohaddipur, Gorakhpur, Uttar Pradesh 273008",
+    "area": "Mohaddipur",
+    "latitude": 26.7496898,
+    "longitude": 83.400803,
+    "place_id": "ChIJ01ct7WtFkTkRmIKWjjhyS6k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ01ct7WtFkTkRmIKWjjhyS6k",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:45:09"
+  }
+]

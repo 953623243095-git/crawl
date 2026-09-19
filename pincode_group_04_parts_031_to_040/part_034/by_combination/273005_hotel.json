@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel radian inn",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "273005",
+    "phone_number": "+91 82081 20903",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Piller no 14, Transport Nagar, Gorakhpur, Uttar Pradesh 273016",
+    "area": "Transport Nagar",
+    "latitude": 26.7352422,
+    "longitude": 83.36100429999999,
+    "place_id": "ChIJa3ZFaj5DkTkRY4ehCTzflag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa3ZFaj5DkTkRY4ehCTzflag",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:40:20"
+  },
+  {
+    "business_name": "Hotel SR GRAND",
+    "search_category": "Hotel",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "273005",
+    "phone_number": "+91 77770 05650",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": 30,
+    "address": "premchand park, Allahladpur, Tiraha, near Munnshi, Raiganj, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Raiganj",
+    "latitude": 26.7380513,
+    "longitude": 83.362713,
+    "place_id": "ChIJ8SUyVDNFkTkRjTCISGUC-9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8SUyVDNFkTkRjTCISGUC-9c",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:40:23"
+  }
+]

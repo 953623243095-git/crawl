@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Urban Cleaner",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services, Air duct cleaning service, Carpet cleaning service, House cleaning service, Upholstery cleaning service, Window cleaning service",
+    "pincode": "272175",
+    "phone_number": "+91 85100 25065",
+    "website": "https://www.urbancleaner.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "C-73, near Sukar Bazar, Gurpreet Nagar, Sri Chand Park, Dwarka Sector-3, Dwarka, Delhi, 110059",
+    "area": "Gurpreet Nagar, Sri Chand Park, Dwarka Sector-3, Dwarka",
+    "latitude": 28.611758299999998,
+    "longitude": 77.0423984,
+    "place_id": "ChIJIW0SV1YFDTkRbVfIlPHBnwg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIW0SV1YFDTkRbVfIlPHBnwg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:43:33"
+  },
+  {
+    "business_name": "Herbal Professional Home Deep Cleaning Services in Noida Delhi Ghaziabad Greater Noida",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Carpet cleaning service, Cleaning Services, Dry cleaner, House clearance service, Pest control service, Sanitation service, Upholstery cleaning service",
+    "pincode": "272175",
+    "phone_number": "+91 93119 71190",
+    "website": "https://herbalcleaning.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "H, 56 38, Sector 63 Rd, A Block, Sector 62, Noida, Uttar Pradesh 201301",
+    "area": "A Block, Sector 62",
+    "latitude": 28.629838,
+    "longitude": 77.3815769,
+    "place_id": "ChIJad4awDPvDDkRwBCT58Htqz0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJad4awDPvDDkRwBCT58Htqz0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:43:34"
+  }
+]

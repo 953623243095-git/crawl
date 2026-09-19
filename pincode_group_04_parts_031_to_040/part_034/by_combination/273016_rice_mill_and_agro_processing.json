@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Agro Industries",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "273016",
+    "phone_number": "+91 80813 14052",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vill Sabarupur, Post, Badhani, Gopalpur, Uttar Pradesh 273406",
+    "area": "273016",
+    "latitude": 26.6036409,
+    "longitude": 83.26014789999999,
+    "place_id": "ChIJXT0cnLtrkTkRYkLg-ZBuq4w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXT0cnLtrkTkRYkLg-ZBuq4w",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:00:42"
+  },
+  {
+    "business_name": "Shri Hanuman Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "273016",
+    "phone_number": "+91 98935 26876",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Daukapa, Chhattisgarh 495330",
+    "area": "273016",
+    "latitude": 22.1191459,
+    "longitude": 81.8375981,
+    "place_id": "ChIJtZUvlXE-KDoRFxKnJzjSabs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtZUvlXE-KDoRFxKnJzjSabs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:00:44"
+  }
+]

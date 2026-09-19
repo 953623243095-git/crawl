@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Santosh Computer Point",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "273008",
+    "phone_number": "+91 93356 33339",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 8,
+    "address": "Shop No 21 Charphatk, Mohaddipur, Gorakhpur, Uttar Pradesh 273008",
+    "area": "Mohaddipur",
+    "latitude": 26.750014,
+    "longitude": 83.3980691,
+    "place_id": "ChIJ24FTwoNFkTkRg6D9M-hR0kU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ24FTwoNFkTkRg6D9M-hR0kU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:46:36"
+  },
+  {
+    "business_name": "New Santosh Computer Point Digital Studio",
+    "search_category": "Internet Cafe",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store, Fax Service Provider, Internet shop, Lamination service, Photography studio, Railway Ticket Agent",
+    "pincode": "273008",
+    "phone_number": "+91 99351 55733",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 45,
+    "address": "Q92X+R8X, Mohaddipur, Gorakhpur, Uttar Pradesh 273008",
+    "area": "Railway Stadium Colony",
+    "latitude": 26.7521165,
+    "longitude": 83.3983623,
+    "place_id": "ChIJfeTxspdEkTkRd-boQqn1pr0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfeTxspdEkTkRd-boQqn1pr0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:46:36"
+  }
+]

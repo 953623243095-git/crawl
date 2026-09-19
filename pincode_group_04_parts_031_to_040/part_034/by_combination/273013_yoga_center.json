@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Fitness Yoga Sansthan",
+    "search_category": "Yoga Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "273013",
+    "phone_number": "+91 86012 66286",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Fadribazar, Papu ka katra, Vishwakarmapuram, Gorakhpur, Uttar Pradesh 273014",
+    "area": "Vishwakarmapuram",
+    "latitude": 26.780514999999998,
+    "longitude": 83.4057675,
+    "place_id": "ChIJszRMB19FkTkRojNyLratD5Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJszRMB19FkTkRojNyLratD5Y",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:53:36"
+  },
+  {
+    "business_name": "Fit X fitness",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "273013",
+    "phone_number": "+91 84238 06787",
+    "website": "https://fitxfitnessgymm.netlify.app/",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "89A rapti nagar phase 4, south, Gorakhpur, Uttar Pradesh 273013",
+    "area": "RailVihar Ph-2 Colony, Raptinagar Phase -4",
+    "latitude": 26.801738,
+    "longitude": 83.389918,
+    "place_id": "ChIJbTna1KpFkTkRwngwi-Xs2Io",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbTna1KpFkTkRwngwi-Xs2Io",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:53:38"
+  }
+]

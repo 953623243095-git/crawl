@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kumar & Associates",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Tax attorney",
+    "all_categories": "Tax attorney",
+    "pincode": "273007",
+    "phone_number": "+91 90448 33884",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hig 48, vistar nagar, Bargadwa, Gorakhpur, Uttar Pradesh 273007",
+    "area": "vistar nagar, Bargadwa",
+    "latitude": 26.8033693,
+    "longitude": 83.3546855,
+    "place_id": "ChIJQeZpU-JFkTkRavKhiewOLyM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQeZpU-JFkTkRavKhiewOLyM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:44:44"
+  },
+  {
+    "business_name": "Law Mitra",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services",
+    "pincode": "273007",
+    "phone_number": "+91 97950 80443",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Civil Court, Bilandpur, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Bilandpur",
+    "latitude": 26.7454856,
+    "longitude": 83.3730645,
+    "place_id": "ChIJBY0K-v1FkTkRHwzXAws9tTQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBY0K-v1FkTkRHwzXAws9tTQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:44:47"
+  }
+]

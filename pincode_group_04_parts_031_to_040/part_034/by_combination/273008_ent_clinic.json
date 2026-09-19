@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Rays",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "273008",
+    "phone_number": "+91 93364 09693",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "P9QH+988, Kasya Road, near Chatra Singh Chauraha, Bansgaon Colony, Daudpur, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Bansgaon Colony, Daudpur",
+    "latitude": 26.7449373,
+    "longitude": 83.37918789999999,
+    "place_id": "ChIJe_tffIdEkTkRwx-VndUr9NM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe_tffIdEkTkRwx-VndUr9NM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:45:41"
+  },
+  {
+    "business_name": "Nalanda Speech and Hearing clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "Speech & Hearing Specialist",
+    "all_categories": "Speech & Hearing Specialist, Hearing aid store",
+    "pincode": "273008",
+    "phone_number": "+91 94508 80258",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 72,
+    "address": "Shop No.10, Opposite Andrew's Inter College, Betiahata, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Bilandpur",
+    "latitude": 26.745821099999997,
+    "longitude": 83.3690398,
+    "place_id": "ChIJVbo5kHpEkTkRhphmwairQtw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVbo5kHpEkTkRhphmwairQtw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:45:43"
+  }
+]

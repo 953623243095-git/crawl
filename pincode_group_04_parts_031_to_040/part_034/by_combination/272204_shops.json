@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jyoti Medical Store",
+    "search_category": "Shops",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "272204",
+    "phone_number": "+91 86017 92261",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "272204, Bargadwa Road, Bargadwa, Pakari, Uttar Pradesh 272204",
+    "area": "272204",
+    "latitude": 27.3270438,
+    "longitude": 82.99705689999999,
+    "place_id": "ChIJx9prfADdljkRSOzFkHfq9J4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx9prfADdljkRSOzFkHfq9J4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:15:01"
+  },
+  {
+    "business_name": "Siddharth nagar Naugarh Ambulance service",
+    "search_category": "Shops",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "272204",
+    "phone_number": "+91 78605 59945",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Kodra grant tola, Kalyanpur, Bachara Bachari, Kodara Grant, Uttar Pradesh 272207",
+    "area": "Kalyanpur",
+    "latitude": 27.3233167,
+    "longitude": 83.0599549,
+    "place_id": "ChIJ8a-eB8_XljkRQ4qVF9AN8q0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8a-eB8_XljkRQ4qVF9AN8q0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:15:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lumbini Village Lodge",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Guest house",
+    "pincode": "272206",
+    "phone_number": "071-580432",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Lumbini Market, Lumbini Sanskritik, Lumbini Province 32900, Nepal",
+    "area": "Madhubani",
+    "latitude": 27.470385999999998,
+    "longitude": 83.2850462,
+    "place_id": "ChIJSUiffIWUljkReBvPI9eB3Bs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSUiffIWUljkReBvPI9eB3Bs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:17:57"
+  },
+  {
+    "business_name": "Lumbini Garden Lodge",
+    "search_category": "Resort",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "272206",
+    "phone_number": "071-580146",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Street No. 1 , Mahilwar Bazaar Lumbini cultural municipality -10, Lumbini 32914, Nepal",
+    "area": "Madhubani",
+    "latitude": 27.470382999999998,
+    "longitude": 83.2848707,
+    "place_id": "ChIJtXGgZIWUljkR23MT8J6l4ws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtXGgZIWUljkR23MT8J6l4ws",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:17:57"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pan Bhandar",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "273008",
+    "phone_number": "+91 73980 63176",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Gorakhpur, Uttar Pradesh 273014",
+    "area": "Shahpur",
+    "latitude": 26.7741619,
+    "longitude": 83.3972718,
+    "place_id": "ChIJRZt7XIBFkTkRG_OOqXpGj0s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRZt7XIBFkTkRG_OOqXpGj0s",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:45:13"
+  },
+  {
+    "business_name": "Food Premi",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant, Service establishment",
+    "pincode": "273008",
+    "phone_number": "N/A",
+    "website": "https://foodpremi.ueniweb.com/?utm_campaign=gmb",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Food Premi, 273008, India",
+    "area": "273008",
+    "latitude": 26.7637152,
+    "longitude": 83.4039116,
+    "place_id": "ChIJB98MDKFFkTkRC2GLVDMD6EU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB98MDKFFkTkRC2GLVDMD6EU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:45:13"
+  }
+]

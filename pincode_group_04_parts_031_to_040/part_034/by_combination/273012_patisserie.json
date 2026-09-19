@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fine Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Cake shop",
+    "pincode": "273012",
+    "phone_number": "+91 98393 52866",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 13,
+    "address": "Dharamshala, Road, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Bashratpur",
+    "latitude": 26.7591486,
+    "longitude": 83.3731007,
+    "place_id": "ChIJXzvUUWdEkTkR_ce1WhZDTdA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXzvUUWdEkTkR_ce1WhZDTdA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:51:07"
+  },
+  {
+    "business_name": "Shri Balaji Bakers",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "273012",
+    "phone_number": "+91 99354 14017",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Bus Stand, 01, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Kawwa Bagh Colony",
+    "latitude": 26.7554436,
+    "longitude": 83.38113729999999,
+    "place_id": "ChIJEas9iCJFkTkRMCuOhYEYeXs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEas9iCJFkTkRMCuOhYEYeXs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:51:07"
+  }
+]

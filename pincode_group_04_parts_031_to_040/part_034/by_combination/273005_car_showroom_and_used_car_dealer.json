@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vivek Car Bazaar",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "273005",
+    "phone_number": "+91 99356 69306",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Prashant Tower, Transport Nagar, Gorakhpur, Uttar Pradesh 273016",
+    "area": "Transport Nagar",
+    "latitude": 26.7337931,
+    "longitude": 83.35745639999999,
+    "place_id": "ChIJq4VJA_xDkTkRyQRkznLwQmQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq4VJA_xDkTkRyQRkznLwQmQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:39:44"
+  },
+  {
+    "business_name": "ROMAL MOTORS",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Motor vehicle dealer",
+    "all_categories": "Motor vehicle dealer",
+    "pincode": "273005",
+    "phone_number": "+91 87958 15992",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 56,
+    "address": "TRANSPORT NAGAR d-18,transport nagar,near raj ghat ,gorakhpur, NH 28, Mahuesugharpur, Shakti Nagar Colony, Gorakhpur, Uttar Pradesh 273016",
+    "area": "Mahuesugharpur, Shakti Nagar Colony",
+    "latitude": 26.734229499999998,
+    "longitude": 83.3549816,
+    "place_id": "ChIJfULMaPVDkTkRqZ6n6MhDCBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfULMaPVDkTkRqZ6n6MhDCBw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:39:46"
+  }
+]

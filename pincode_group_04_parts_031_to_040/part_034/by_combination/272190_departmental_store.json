@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anuj jaiswal grocery store",
+    "search_category": "Departmental Store",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "272190",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2M24+832, Banrahi Jangal, Karauta Urf Karanpur, Uttar Pradesh 271312",
+    "area": "272190",
+    "latitude": 27.000762599999998,
+    "longitude": 82.6551542,
+    "place_id": "ChIJyYUgTgAzlzkRL6Eg0UsXMKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyYUgTgAzlzkRL6Eg0UsXMKo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:54:35"
+  },
+  {
+    "business_name": "भव्या पूजन भंण्डार & प्लास्ट एण्ड कलेक्शन",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "272190",
+    "phone_number": "+91 63070 55930",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Block road, Saltaua Gopalpur, Basti, Uttar Pradesh 272190",
+    "area": "272190",
+    "latitude": 26.9290931,
+    "longitude": 82.71390099999999,
+    "place_id": "ChIJIYRK6gLNkDkRnPyXCu5QVoM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIYRK6gLNkDkRnPyXCu5QVoM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:54:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vicky Dresses",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store",
+    "pincode": "272181",
+    "phone_number": "+91 98394 26655",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Basti Babhnan Bazar Basti Basti Uttar Pradesh 272002, Babhnan, Uttar Pradesh 272161",
+    "area": "272181",
+    "latitude": 26.938352599999998,
+    "longitude": 82.5065752,
+    "place_id": "ChIJK0QXp0C1kDkRELIsT3Ek400",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK0QXp0C1kDkRELIsT3Ek400",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:49:35"
+  },
+  {
+    "business_name": "PUNIQUE MENS WEAR",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "272181",
+    "phone_number": "+91 96280 23132",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Babhnan - Khodare - Gaura Chawki Rd, Babhnan, Uttar Pradesh 271313",
+    "area": "272181",
+    "latitude": 26.937380599999997,
+    "longitude": 82.50526669999999,
+    "place_id": "ChIJGWCPS_C0kDkRvcijC_aVUd4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGWCPS_C0kDkRvcijC_aVUd4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:49:35"
+  }
+]

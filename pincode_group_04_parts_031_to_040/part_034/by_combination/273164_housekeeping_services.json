@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mycleaners Nautanwa",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Laundry service",
+    "all_categories": "Laundry service",
+    "pincode": "273164",
+    "phone_number": "+91 97117 11011",
+    "website": "https://www.mycleaners.in/",
+    "rating": 4.9,
+    "reviews_count": 11,
+    "address": "Sakeena House, Ward No. 10, SBI Building, Sharstrinagar, Main Rd, Nautanwa, Uttar Pradesh 273164",
+    "area": "273164",
+    "latitude": 27.4241659,
+    "longitude": 83.4269996,
+    "place_id": "ChIJcYcBUeqZljkR7UqCFejVcdc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcYcBUeqZljkR7UqCFejVcdc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:19:22"
+  },
+  {
+    "business_name": "Holiday laundry and dry-clean service",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Laundry",
+    "all_categories": "Laundry",
+    "pincode": "273164",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 19,
+    "address": "S.N.P Ward no 7, Himali Path, Siddharthanagar, Lumbini Province 32900, Nepal",
+    "area": "273164",
+    "latitude": 27.513332,
+    "longitude": 83.46065,
+    "place_id": "ChIJVRdH-WSbljkRrnUZzkt3fkw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVRdH-WSbljkRrnUZzkt3fkw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:19:22"
+  }
+]

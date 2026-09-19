@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "D.K Mobile Shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "272271",
+    "phone_number": "+91 99182 79239",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Musagang, Mankapur, Uttar Pradesh 271302",
+    "area": "Musagang",
+    "latitude": 27.026547299999997,
+    "longitude": 82.2083713,
+    "place_id": "ChIJZ7_ZD_r_mTkRn-Yb9Mh9to8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ7_ZD_r_mTkRn-Yb9Mh9to8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:25:59"
+  },
+  {
+    "business_name": "Gambhir Telecom",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Cell phone accessory store, Oldsmobile dealer",
+    "pincode": "272271",
+    "phone_number": "+91 99998 29869",
+    "website": "https://gambhirtelecom.com/",
+    "rating": 4.5,
+    "reviews_count": 397,
+    "address": "137/15, 110084, Sant Nagar Marg, near Super Library, Block B, Sant Nagar, Burari, New Delhi, Delhi, 110084",
+    "area": "Block B, Sant Nagar, Burari",
+    "latitude": 28.7399724,
+    "longitude": 77.1982471,
+    "place_id": "ChIJSwh5nSj-DDkRDHJU9bqIO4M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSwh5nSj-DDkRDHJU9bqIO4M",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:26:00"
+  }
+]

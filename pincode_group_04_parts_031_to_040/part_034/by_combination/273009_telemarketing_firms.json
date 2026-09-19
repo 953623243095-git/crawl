@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nishi Chat Centre",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "273009",
+    "phone_number": "+91 62674 79142",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "P9XF+VH9 1 Engineering College, Hari Om Nagar, Bilandpur, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Hari Om Nagar, Bilandpur",
+    "latitude": 26.749659899999997,
+    "longitude": 83.37398879999999,
+    "place_id": "ChIJG_jZQGRFkTkRuSAJC5fuh68",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG_jZQGRFkTkRuSAJC5fuh68",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:48:59"
+  },
+  {
+    "business_name": "Test The Best",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant, Cafe",
+    "pincode": "273009",
+    "phone_number": "+91 93360 89261",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Bilandpur",
+    "latitude": 26.754126799999998,
+    "longitude": 83.37864689999999,
+    "place_id": "ChIJsxDjbYxFkTkRA1f4wsVXWr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsxDjbYxFkTkRA1f4wsVXWr4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:49:00"
+  }
+]

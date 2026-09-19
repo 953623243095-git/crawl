@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mukesh Auto Parts",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "272204",
+    "phone_number": "+91 73176 15729",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Supa, 00, Bansi Road, Naugarh, Uttar Pradesh 272153",
+    "area": "272204",
+    "latitude": 27.234124599999998,
+    "longitude": 82.9898509,
+    "place_id": "ChIJGchfblfZljkR8VWu3TZBycw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGchfblfZljkR8VWu3TZBycw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:13:47"
+  },
+  {
+    "business_name": "Bajaj Auto, Siddharth Auto sales",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motor vehicle dealer",
+    "all_categories": "Motor vehicle dealer",
+    "pincode": "272204",
+    "phone_number": "+91 97922 01085",
+    "website": "https://www.bajajauto.com/intracityvehicles/",
+    "rating": 3.9,
+    "reviews_count": 34,
+    "address": "Khajuriya Rd, Khajuriya, Naugarh, Uttar Pradesh 272207",
+    "area": "Khajuriya",
+    "latitude": 27.282073999999998,
+    "longitude": 83.074237,
+    "place_id": "ChIJEzLbFeDbljkRkVqdCuD30C4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEzLbFeDbljkRkVqdCuD30C4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:13:50"
+  }
+]

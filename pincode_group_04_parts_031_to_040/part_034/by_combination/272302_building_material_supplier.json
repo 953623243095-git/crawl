@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amit building materials",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "272302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QPV7+XQX, Katra, Moor Ghat, Basti, Uttar Pradesh 272001",
+    "area": "Katra",
+    "latitude": 26.794919,
+    "longitude": 82.7144079,
+    "place_id": "ChIJFSsyBQDFkDkRXW0shPPk9FI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFSsyBQDFkDkRXW0shPPk9FI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:29:37"
+  },
+  {
+    "business_name": "Sarthak Enterprises tiles and marbles,",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store",
+    "pincode": "272302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "PMFG+XXX, Nagar Bazar Rd, Nagar Khas, Uttar Pradesh 272302",
+    "area": "272302",
+    "latitude": 26.724983599999998,
+    "longitude": 82.67749429999999,
+    "place_id": "ChIJIX4zEgDFkDkRG7VmN7OLIgg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIX4zEgDFkDkRG7VmN7OLIgg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:29:37"
+  }
+]

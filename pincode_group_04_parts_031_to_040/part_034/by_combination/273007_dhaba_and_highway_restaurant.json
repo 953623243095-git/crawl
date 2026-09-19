@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "J.D family Restaurant and Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "273007",
+    "phone_number": "+91 88084 40151",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Varanasi - Gorakhpur Hwy, Barhalganj, Uttar Pradesh 273402",
+    "area": "273007",
+    "latitude": 26.2975314,
+    "longitude": 83.4882433,
+    "place_id": "ChIJ6egaN-p5kTkR9nF8Ywx9njU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6egaN-p5kTkR9nF8Ywx9njU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:43:11"
+  },
+  {
+    "business_name": "The Royal Dhaba And Restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant, Restaurant",
+    "pincode": "273007",
+    "phone_number": "+91 73987 58301",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 35,
+    "address": "NH.29, Jagdeeshpur, Jagadishpur Bhaluwan, Uttar Pradesh 273412",
+    "area": "273007",
+    "latitude": 26.4603252,
+    "longitude": 83.434794,
+    "place_id": "ChIJk1R-MQBlkTkRusb2fz1Ad2Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk1R-MQBlkTkRusb2fz1Ad2Y",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:43:12"
+  }
+]

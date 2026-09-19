@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arihant Eye Centre, Eye Clinic in Burari",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "272270",
+    "phone_number": "+91 83840 24185",
+    "website": "https://arihanteyecentre.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop No.-4, Main, Burari Rd, Parvatiya Anchal, Block B, Sant Nagar, Burari, Delhi, 110084",
+    "area": "Parvatiya Anchal, Block B, Sant Nagar, Burari",
+    "latitude": 28.7456362,
+    "longitude": 77.19854509999999,
+    "place_id": "ChIJa8_g3Sb-DDkRItLk4FADP6k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa8_g3Sb-DDkRItLk4FADP6k",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:23:05"
+  },
+  {
+    "business_name": "Khanna Eye Centre",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Ophthalmologist, Ophthalmology clinic",
+    "pincode": "272270",
+    "phone_number": "+91 11 4505 1888",
+    "website": "https://khannaeyecentre.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "A2/2, Block A 2, Model Town Phase I, Model Town, Delhi, 110033",
+    "area": "Block A 2, Model Town Phase I, Model Town",
+    "latitude": 28.7062007,
+    "longitude": 77.1952876,
+    "place_id": "ChIJ____PwcCDTkRZXr8HjpnoQE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____PwcCDTkRZXr8HjpnoQE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:23:06"
+  }
+]

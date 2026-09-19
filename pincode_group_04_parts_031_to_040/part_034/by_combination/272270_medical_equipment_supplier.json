@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shukla medical store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "272270",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2326+GMJ, Athlohia, Uttar Pradesh 272270",
+    "area": "272270",
+    "latitude": 27.001333799999998,
+    "longitude": 83.0616419,
+    "place_id": "ChIJHQNwCwAtkTkRPvsYNuhnOaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHQNwCwAtkTkRPvsYNuhnOaU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:23:09"
+  },
+  {
+    "business_name": "S.M. Surgi & Medi Devices Hub",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier, Hospital equipment and supplies, Mobility equipment supplier, Oxygen equipment supplier, Surgical Products Wholesaler, Surgical supply store",
+    "pincode": "272270",
+    "phone_number": "N/A",
+    "website": "https://smsurgiandmedideviceshub.in/",
+    "rating": 5,
+    "reviews_count": 31,
+    "address": "A-10 G/F, Faiz Rd, S. P. Mukherjee Market, Block A, Mukharjee Market, Karol Bagh, Delhi, 110055",
+    "area": "S. P. Mukherjee Market, Block A, Mukharjee Market, Karol Bagh",
+    "latitude": 28.652617099999997,
+    "longitude": 77.20262869999999,
+    "place_id": "ChIJ91emyN_9DDkRZrWlrK1mUG4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ91emyN_9DDkRZrWlrK1mUG4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:23:09"
+  }
+]

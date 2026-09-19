@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saba Icecream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "272206",
+    "phone_number": "N/A",
+    "website": "http://sabaicecream.blogspot.com/",
+    "rating": 4.5,
+    "reviews_count": 11,
+    "address": "F725+WM7, Lumbini Kakrahwa Rd, Lumbini Sanskritik, Lumbini Province 32900, Nepal",
+    "area": "272206",
+    "latitude": 27.452290299999998,
+    "longitude": 83.25917659999999,
+    "place_id": "ChIJa0WOPMmUljkRKP891a8_YZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa0WOPMmUljkRKP891a8_YZM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:17:02"
+  },
+  {
+    "business_name": "J.S. icecream Parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Online Share Trading Center",
+    "all_categories": "Online Share Trading Center",
+    "pincode": "272206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Guru Nanak Chowk, Jalkal Gate, behind Nagar Palika Gate, Jhanjhari Block, Gonda, Uttar Pradesh 271003",
+    "area": "Jhanjhari Block",
+    "latitude": 27.1337208,
+    "longitude": 81.96172299999999,
+    "place_id": "ChIJE855isfvmTkRGqgjPYr-jPM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE855isfvmTkRGqgjPYr-jPM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:17:04"
+  }
+]

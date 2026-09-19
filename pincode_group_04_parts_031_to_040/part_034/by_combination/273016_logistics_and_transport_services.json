@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Logistics Ltd",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service",
+    "pincode": "273016",
+    "phone_number": "+91 83929 21884",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 19,
+    "address": "Varanasi - Gorakhpur Hwy, Bhilora Buzurg, Uttar Pradesh 273016",
+    "area": "273016",
+    "latitude": 26.7209081,
+    "longitude": 83.3307853,
+    "place_id": "ChIJA0O1IFpBkTkR8mRHO91xaKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA0O1IFpBkTkR8mRHO91xaKQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:59:43"
+  },
+  {
+    "business_name": "TCI EXPRESS LIMITED",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "273016",
+    "phone_number": "+91 1800 200 0977",
+    "website": "https://www.tciexpress.in/",
+    "rating": 3.2,
+    "reviews_count": 108,
+    "address": "Plot No.25,26, Transport Nagar, Near Golden Gas Agency, Uttar Pradesh 273016",
+    "area": "273016",
+    "latitude": 26.7299048,
+    "longitude": 83.3106533,
+    "place_id": "ChIJdZZRIKxDkTkRqteAy9_8ITs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdZZRIKxDkTkRqteAy9_8ITs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:59:43"
+  }
+]

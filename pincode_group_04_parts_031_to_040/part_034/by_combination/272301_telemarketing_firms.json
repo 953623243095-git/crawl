@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Savitri Sweets",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "272301",
+    "phone_number": "+91 73559 19232",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1, Kusaura, Uttar Pradesh 272301",
+    "area": "272301",
+    "latitude": 26.652620199999998,
+    "longitude": 82.67929,
+    "place_id": "ChIJpaipiHPDkDkROtS15sGs5qM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpaipiHPDkDkROtS15sGs5qM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:28:30"
+  },
+  {
+    "business_name": "Neelesh Digiworld",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service",
+    "pincode": "272301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Awas Vikas Colony, Basti, Uttar Pradesh 272001",
+    "area": "Awas Vikas Colony",
+    "latitude": 26.7946054,
+    "longitude": 82.7219006,
+    "place_id": "ChIJa53UOWLFkDkRM9ja0EvkOEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa53UOWLFkDkRM9ja0EvkOEg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:28:30"
+  }
+]

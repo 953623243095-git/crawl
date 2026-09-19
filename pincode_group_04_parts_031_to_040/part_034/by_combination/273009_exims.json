@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Exampur Gorakhpur",
+    "search_category": "EXIMS",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "273009",
+    "phone_number": "+91 98893 71560",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": 3,
+    "address": "Hari Om Nagar, Civil Lines, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Hari Om Nagar, Civil Lines",
+    "latitude": 26.749276599999998,
+    "longitude": 83.3731778,
+    "place_id": "ChIJmaoaXgBFkTkRzjVEm4wuy_Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmaoaXgBFkTkRzjVEm4wuy_Q",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:48:55"
+  },
+  {
+    "business_name": "Law Department",
+    "search_category": "EXIMS",
+    "primary_category": "Academic department",
+    "all_categories": "Academic department",
+    "pincode": "273009",
+    "phone_number": "N/A",
+    "website": "http://ddugu.ac.in/department_test.aspx?DPTid=1019",
+    "rating": 4.4,
+    "reviews_count": 45,
+    "address": "P9XJ+XRX Deendayal Upadhyaya university, Paidleganj, Gorakhpur, Uttar Pradesh 273009",
+    "area": "Paidleganj",
+    "latitude": 26.750399899999998,
+    "longitude": 83.38199829999999,
+    "place_id": "ChIJoy5y9IhEkTkRV3Xd_Ks5a8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoy5y9IhEkTkRV3Xd_Ks5a8U",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:48:55"
+  }
+]

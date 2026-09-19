@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Senani Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "273012",
+    "phone_number": "+91 90056 84744",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Bharat Milap Chowk, Dharamshala Bazar, Bashratpur, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Dharamshala Bazar, Bashratpur",
+    "latitude": 26.7606701,
+    "longitude": 83.372236,
+    "place_id": "ChIJk-TLkl1EkTkRpS6HuO5epM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk-TLkl1EkTkRpS6HuO5epM4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:51:25"
+  },
+  {
+    "business_name": "A.K.Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "273012",
+    "phone_number": "+91 98891 52668",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Sumer Sagar, Raj Cinema Road, Bashratpur, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Bashratpur",
+    "latitude": 26.7582332,
+    "longitude": 83.3687463,
+    "place_id": "ChIJR4SB52dEkTkR8kjutXK6hiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR4SB52dEkTkR8kjutXK6hiQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:51:25"
+  }
+]

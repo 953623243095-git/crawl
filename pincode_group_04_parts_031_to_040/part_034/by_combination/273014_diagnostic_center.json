@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "General Diagnostic- Curis diagnostic",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "273014",
+    "phone_number": "+91 76520 89049",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Mohnapur, Padri Bazar, Vishwakarmapuram, Gorakhpur, Uttar Pradesh 273014",
+    "area": "Padri Bazar, Vishwakarmapuram",
+    "latitude": 26.7771162,
+    "longitude": 83.4053012,
+    "place_id": "ChIJ65qzUsBFkTkROkq0M2Q3Y6A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ65qzUsBFkTkROkq0M2Q3Y6A",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:55:31"
+  },
+  {
+    "business_name": "Pathkind Labs",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service, HIV testing center, Laboratory, Medical Center, Medical laboratory, Pathologist, STD testing service",
+    "pincode": "273014",
+    "phone_number": "+91 98897 23289",
+    "website": "https://nearby.pathkindlabs.com/pathkind-labs-shatabdipuram-gorakhpur-48509/home?utm_source=GBP",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Infront Of Nishad Party Office, Sangam chauraha, Yadav Katra, Fatima Hospital Road, Padri Bazar, Shatabdipuram, Gorakhpur, Uttar Pradesh 273014",
+    "area": "Padri Bazar, Shatabdipuram",
+    "latitude": 26.784599999999998,
+    "longitude": 83.4035,
+    "place_id": "ChIJ4UleLBFFkTkRnv0jQG2FVS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4UleLBFFkTkRnv0jQG2FVS4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:55:31"
+  }
+]

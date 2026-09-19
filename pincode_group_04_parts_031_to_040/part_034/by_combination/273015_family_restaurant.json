@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chicken King the family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "273015",
+    "phone_number": "+91 93056 69384",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Machli daftar, Zahidabad Rd, Gorakhnath, Gorakhpur, Uttar Pradesh 273015",
+    "area": "Gorakhnath",
+    "latitude": 26.773052699999997,
+    "longitude": 83.3612696,
+    "place_id": "ChIJOQsAh71FkTkRQbTh0oli0DE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOQsAh71FkTkRQbTh0oli0DE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:57:12"
+  },
+  {
+    "business_name": "KS Kitchen Tiffin Services",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "273015",
+    "phone_number": "+91 86018 75807",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 27,
+    "address": "Q8PX+48H, Naya Gaon, Rajendra Nagar, Gorakhpur, Uttar Pradesh 273015",
+    "area": "Naya Gaon, Rajendra Nagar",
+    "latitude": 26.785324499999998,
+    "longitude": 83.34835869999999,
+    "place_id": "ChIJbzNVcABFkTkROLLe52BdFEI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbzNVcABFkTkROLLe52BdFEI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:57:15"
+  }
+]

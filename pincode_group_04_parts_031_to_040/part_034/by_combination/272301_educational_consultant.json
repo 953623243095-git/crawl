@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mr. P K",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "272301",
+    "phone_number": "+91 72751 95680",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Power Station, Tanda, Fathe Jahoorpur, Uttar Pradesh 224190",
+    "area": "272301",
+    "latitude": 26.5353678,
+    "longitude": 82.6357388,
+    "place_id": "ChIJCwNWr4jrkDkRAAAAsLLH-Us",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCwNWr4jrkDkRAAAAsLLH-Us",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:27:58"
+  },
+  {
+    "business_name": "HelpGate",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "272301",
+    "phone_number": "N/A",
+    "website": "https://www.helpgate.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Village And Post, Pokharni, Uttar Pradesh 272302",
+    "area": "272301",
+    "latitude": 26.7114129,
+    "longitude": 82.6644994,
+    "place_id": "ChIJUZwp0EHFkDkRz6H9oSBHOqU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUZwp0EHFkDkRz6H9oSBHOqU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:27:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Texan Bar and Restro",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "272177",
+    "phone_number": "+91 80056 25562",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 13,
+    "address": "A-8 RICCO AREA KUKAS DELHI, RAOD, opposite FAIRMOUNT HOTEL, Jaipur, Rajasthan 302038",
+    "area": "272177",
+    "latitude": 27.0295958,
+    "longitude": 75.8914245,
+    "place_id": "ChIJKw6vxESvbTkRpLVGX3mAmPU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKw6vxESvbTkRpLVGX3mAmPU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:45:55"
+  },
+  {
+    "business_name": "Star Lucky Beer Bar& Restaurant",
+    "search_category": "Bar and Pub",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "272177",
+    "phone_number": "+91 98281 04290",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 104,
+    "address": "2QPM+Q8M, Dweeppura, Jagnnathpura, Rajasthan 303805",
+    "area": "272177",
+    "latitude": 27.036966699999997,
+    "longitude": 75.78328719999999,
+    "place_id": "ChIJXT_TK1WtbTkRBmz8uk5tjEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXT_TK1WtbTkRBmz8uk5tjEg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:45:55"
+  }
+]

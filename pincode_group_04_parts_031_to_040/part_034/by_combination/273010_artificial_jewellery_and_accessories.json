@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amazing E Store",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "273010",
+    "phone_number": "+91 91986 54155",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Zone 3, Shop No, 2, Nauka Vihar, Taal Bazaar, Ramghar Tal, Gorakhpur, Uttar Pradesh 273016",
+    "area": "Taal Bazaar, Ramghar Tal",
+    "latitude": 26.725084499999998,
+    "longitude": 83.39675729999999,
+    "place_id": "ChIJ1xaLiJ5DkTkRVFr_FfJRd5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1xaLiJ5DkTkRVFr_FfJRd5w",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:49:26"
+  },
+  {
+    "business_name": "The serene by Rainvas",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "273010",
+    "phone_number": "+91 92190 88274",
+    "website": "https://rainvas.com/collections/jewellery",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Sahara Estate, Gorakhpur, Uttar Pradesh 273010",
+    "area": "Sahara Estate",
+    "latitude": 26.712137199999997,
+    "longitude": 83.418992,
+    "place_id": "ChIJnS7i_IlDkTkRH45f6TE2jmE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnS7i_IlDkTkRH45f6TE2jmE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:49:26"
+  }
+]

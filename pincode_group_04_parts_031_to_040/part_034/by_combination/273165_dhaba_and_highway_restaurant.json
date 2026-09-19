@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Daulat Restaurant Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Fast food restaurant",
+    "pincode": "273165",
+    "phone_number": "+91 85744 05839",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Bhagwanpur, NH 24, Jangal Jhajhwa, Gorakhpur, Uttar Pradesh 273165",
+    "area": "273165",
+    "latitude": 26.9520843,
+    "longitude": 83.29428469999999,
+    "place_id": "ChIJs4ED-EBLkTkRjDvhb-aDteU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs4ED-EBLkTkRjDvhb-aDteU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:19:54"
+  },
+  {
+    "business_name": "Sainik dhaba and Restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "273165",
+    "phone_number": "+91 89228 81149",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Gida Mahi, Sahjanwa, Mahi, Uttar Pradesh 273212",
+    "area": "273165",
+    "latitude": 26.733899899999997,
+    "longitude": 83.2595262,
+    "place_id": "ChIJ781H4aRHkTkR_KnOhsXPAzY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ781H4aRHkTkR_KnOhsXPAzY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:19:57"
+  }
+]

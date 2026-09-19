@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KHADIM - Gorakhpur",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "273008",
+    "phone_number": "+91 63876 59617",
+    "website": "http://www.khadims.com/",
+    "rating": 3.1,
+    "reviews_count": 14,
+    "address": "627 E / 628 F, near Orion Mall, Mohaddipur, Gorakhpur, Uttar Pradesh 273008",
+    "area": "Mohaddipur",
+    "latitude": 26.749415199999998,
+    "longitude": 83.3989941,
+    "place_id": "ChIJA6_boGNdkTkRpNpoPYAUc4M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA6_boGNdkTkRpNpoPYAUc4M",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:45:29"
+  },
+  {
+    "business_name": "Modern Shoes Store",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "273008",
+    "phone_number": "+91 96957 64463",
+    "website": "N/A",
+    "rating": 2.7,
+    "reviews_count": 3,
+    "address": "Nina Thapa, Jharna Tola, Kunraghat, Gorakhpur, Uttar Pradesh 273008",
+    "area": "Jharna Tola, Kunraghat",
+    "latitude": 26.7546306,
+    "longitude": 83.42339849999999,
+    "place_id": "ChIJFxHxcntbkTkRQXqMnEq5O_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFxHxcntbkTkRQXqMnEq5O_o",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:45:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "D.S.Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "272177",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "QQJ9+HP5, NH 27, Saraipeer, Uttar Pradesh 224116",
+    "area": "272177",
+    "latitude": 26.7813868,
+    "longitude": 81.769359,
+    "place_id": "ChIJFXjOP-UlmjkRUkE6B5K54DM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFXjOP-UlmjkRUkE6B5K54DM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:45:53"
+  },
+  {
+    "business_name": "VILLAGE DA DHABA",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "272177",
+    "phone_number": "+91 91204 75145",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "ETAWAH ROAD, BISAYAKPUR, Rania, Uttar Pradesh 209101",
+    "area": "BISAYAKPUR",
+    "latitude": 26.4118817,
+    "longitude": 80.0972803,
+    "place_id": "ChIJCW4Guxi1nTkRYeNDRlDcINQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCW4Guxi1nTkRYeNDRlDcINQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:45:53"
+  }
+]

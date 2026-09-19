@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wedding planner",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Tent House Supplier",
+    "all_categories": "Tent House Supplier",
+    "pincode": "272199",
+    "phone_number": "+91 96431 63818",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bourbush, Khalilabad, Badgo, Uttar Pradesh 273209",
+    "area": "Bourbush",
+    "latitude": 26.8779726,
+    "longitude": 83.1224426,
+    "place_id": "ChIJ3wXScIIxkTkRrnHYfOfsS58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3wXScIIxkTkRrnHYfOfsS58",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:06:40"
+  },
+  {
+    "business_name": "Wedding Planner",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "272199",
+    "phone_number": "+91 90444 80434",
+    "website": "https://wedding-planner.ueniweb.com/?utm_campaign=gmb",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Navals Scool, Khalilabad, Sarauli, Uttar Pradesh 272175",
+    "area": "272199",
+    "latitude": 26.7764284,
+    "longitude": 83.05883709999999,
+    "place_id": "ChIJhexsbZAlkTkRBhoU481R3hg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhexsbZAlkTkRBhoU481R3hg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:06:40"
+  }
+]

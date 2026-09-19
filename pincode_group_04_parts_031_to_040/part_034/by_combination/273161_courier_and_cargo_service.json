@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rigauli Bazar post office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "273161",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "26F6+MX8, Rigauli, Uttar Pradesh 273158",
+    "area": "273161",
+    "latitude": 27.024168699999997,
+    "longitude": 83.21245859999999,
+    "place_id": "ChIJkZnS4F3LljkR2JOQ2w10_kc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkZnS4F3LljkR2JOQ2w10_kc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:13:47"
+  },
+  {
+    "business_name": "Kalna khor Post Office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "273161",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 2,
+    "address": "442C+G5M, लोकल RD, Kallakhor, Maratha, Uttar Pradesh 272154",
+    "area": "273161",
+    "latitude": 27.1013488,
+    "longitude": 83.12043129999999,
+    "place_id": "ChIJacdSi2vPljkRsp_xZs14cAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJacdSi2vPljkRsp_xZs14cAc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:13:48"
+  }
+]

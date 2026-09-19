@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kiran Cosmestic Shop",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "273014",
+    "phone_number": "+91 79864 27620",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Padri Bazar, Mohnapur, Gorakhpur, Uttar Pradesh 273014",
+    "area": "Padri Bazar, Mohnapur",
+    "latitude": 26.774561499999997,
+    "longitude": 83.4057437,
+    "place_id": "ChIJo576YORFkTkRawjMIlzz64o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo576YORFkTkRawjMIlzz64o",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:55:23"
+  },
+  {
+    "business_name": "Iram Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "273014",
+    "phone_number": "+91 63924 80237",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "House No. 79 Sant hussain Nagar Colony Shivpur shahbajganj, Padri Bazar, Gorakhpur, Uttar Pradesh 273014",
+    "area": "Padri Bazar, Hussain Nagar",
+    "latitude": 26.7801884,
+    "longitude": 83.3940343,
+    "place_id": "ChIJR67Ep2JFkTkRXqQIa7k6SJo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR67Ep2JFkTkRXqQIa7k6SJo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:55:24"
+  }
+]

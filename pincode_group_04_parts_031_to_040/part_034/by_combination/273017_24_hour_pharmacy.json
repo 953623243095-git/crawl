@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dawakart",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "273017",
+    "phone_number": "+91 78008 70582",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P9P9+MHV, Mahuesugharpur, Betiahata, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Mahuesugharpur, Betiahata",
+    "latitude": 26.7367478,
+    "longitude": 83.3689247,
+    "place_id": "ChIJ5cIMFABFkTkR8QEioV4eiv8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5cIMFABFkTkR8QEioV4eiv8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:01:22"
+  },
+  {
+    "business_name": "Mankind Medicare",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Drug store",
+    "all_categories": "Drug store",
+    "pincode": "273017",
+    "phone_number": "+91 80770 62624",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bagha Baba Rd, Mahuesugharpur, Shakti Nagar Colony, Gorakhpur, Uttar Pradesh 273016",
+    "area": "Mahuesugharpur, Shakti Nagar Colony",
+    "latitude": 26.728336499999997,
+    "longitude": 83.3710392,
+    "place_id": "ChIJc-n_zelDkTkR86JV6YWeHIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc-n_zelDkTkR86JV6YWeHIM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:01:26"
+  }
+]

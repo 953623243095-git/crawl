@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Common Service Centre",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "272177",
+    "phone_number": "+91 82828 71317",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "107, S.S Road, Alambazar, Baranagar, Kolkata, Baranagar, West Bengal 700035",
+    "area": "Alambazar, Baranagar",
+    "latitude": 22.649102199999998,
+    "longitude": 88.363546,
+    "place_id": "ChIJzeCXPKid-DkRAAAA0CodIUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzeCXPKid-DkRAAAA0CodIUk",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:46:58"
+  },
+  {
+    "business_name": "Common Service Center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services",
+    "pincode": "272177",
+    "phone_number": "+91 89249 38190",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Belsar, Rd, Basti, Uttar Pradesh 272163",
+    "area": "272177",
+    "latitude": 26.858839,
+    "longitude": 82.5803588,
+    "place_id": "ChIJTdERC5nJkDkR3xjOMfLnECI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTdERC5nJkDkR3xjOMfLnECI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:46:58"
+  }
+]

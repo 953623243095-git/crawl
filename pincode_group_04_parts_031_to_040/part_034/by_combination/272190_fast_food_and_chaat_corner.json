@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaat Xpress",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "272190",
+    "phone_number": "+91 79068 70260",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1, Trans Yamuna Colony, Agra, Uttar Pradesh 282006",
+    "area": "Trans Yamuna Colony",
+    "latitude": 27.205655999999998,
+    "longitude": 78.04864239999999,
+    "place_id": "ChIJtSi8HapxdDkRzo7rn0fKiyI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtSi8HapxdDkRzo7rn0fKiyI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:54:47"
+  },
+  {
+    "business_name": "Anand Chat ChaoMean And Vodapaw Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "272190",
+    "phone_number": "+91 78008 32724",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Babhnan, Savana Chauraha, Road, Gaura Chawki, Uttar Pradesh 271312",
+    "area": "272190",
+    "latitude": 27.042082699999998,
+    "longitude": 82.4903351,
+    "place_id": "ChIJz307FAlLlzkRYI62C42H0mQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz307FAlLlzkRYI62C42H0mQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:54:49"
+  }
+]

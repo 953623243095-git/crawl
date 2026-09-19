@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alkaz creation",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "273002",
+    "phone_number": "+91 98892 31234",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "रोड, beside चंद्रा क्लासेज, Padri Bazar, मानस कॉलोनी विहार, प्रकाश लइब्रेरी, संगम चौराहा, Laxmipur, Gorakhpur, Uttar Pradesh 273014",
+    "area": "Padri Bazar, मानस कॉलोनी विहार, प्रकाश लइब्रेरी, संगम चौराहा",
+    "latitude": 26.786129199999998,
+    "longitude": 83.40506429999999,
+    "place_id": "ChIJTzsoXrFFkTkRKVOmdpzBzVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTzsoXrFFkTkRKVOmdpzBzVY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:33:24"
+  },
+  {
+    "business_name": "Louis Philippe -Orion Mall",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store, Jeans shop, Designer Clothing Store, Dress store, Clothing Accessories Store, Formal Clothing Store, T-shirt store, Tuxedo shop, Youth clothing store",
+    "pincode": "273002",
+    "phone_number": "+91 98891 96951",
+    "website": "https://louisphilippe.abfrl.in/",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Ground Floor, Orion mall, No. F-1/8/96, Kasya Rd, Mohaddipur, Gorakhpur, Uttar Pradesh 273008",
+    "area": "Mohaddipur",
+    "latitude": 26.749700599999997,
+    "longitude": 83.40077959999999,
+    "place_id": "ChIJE8L8LL9FkTkR5qWi3omvj_U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE8L8LL9FkTkR5qWi3omvj_U",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:33:25"
+  }
+]

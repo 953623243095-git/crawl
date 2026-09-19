@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Malhotra Leather House",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store, Leather coats store",
+    "pincode": "272189",
+    "phone_number": "+91 88826 92341",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Bus Stand, Shop No. D-3/1 Jivan Park, near Jeevan Park, Uttam Nagar, D block, New Delhi, Delhi 110059",
+    "area": "Uttam Nagar, Block C, D block, Uttam Nagar New",
+    "latitude": 28.619101699999998,
+    "longitude": 77.07363219999999,
+    "place_id": "ChIJzVQ-yi0FDTkRdD_I6sr3yRA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzVQ-yi0FDTkRdD_I6sr3yRA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:53:10"
+  },
+  {
+    "business_name": "Indian Leather Manufacturer",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather Products Manufacturer",
+    "all_categories": "Leather Products Manufacturer, Leather Exporter, Leather goods supplier",
+    "pincode": "272189",
+    "phone_number": "+91 72890 10100",
+    "website": "https://www.indianleathermanufacturer.com/",
+    "rating": 4.4,
+    "reviews_count": 41,
+    "address": "RZ- 412/13, Tughlakabad Extension, Tughlakabad, New Delhi, Delhi 110019",
+    "area": "Tughlakabad Extension, Tughlakabad",
+    "latitude": 28.522824399999998,
+    "longitude": 77.2609233,
+    "place_id": "ChIJbW8orGrhDDkRxr4G5jeJ5UM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbW8orGrhDDkRxr4G5jeJ5UM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:53:11"
+  }
+]

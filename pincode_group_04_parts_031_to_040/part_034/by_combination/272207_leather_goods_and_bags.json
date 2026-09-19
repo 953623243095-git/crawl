@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Luxury Leather and Furniture Care",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather repair service",
+    "all_categories": "Leather repair service, Leather cleaning service, Shoe repair shop, Upholstery cleaning service",
+    "pincode": "272207",
+    "phone_number": "+91 92892 38864",
+    "website": "http://luxuryleatherfurniturecare.com/",
+    "rating": 4.9,
+    "reviews_count": 287,
+    "address": "2nd Floor, C 99, C Block, Sector 10, Noida, Uttar Pradesh 201301",
+    "area": "C Block, Sector 10",
+    "latitude": 28.588872499999997,
+    "longitude": 77.3317065,
+    "place_id": "ChIJq5bDFKjlDDkRnn-rXNrRgR8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq5bDFKjlDDkRnn-rXNrRgR8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:19:07"
+  },
+  {
+    "business_name": "Luggage Trolley Bag Repair (The Bag Care)",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop, Luggage repair service, Luggage store",
+    "pincode": "272207",
+    "phone_number": "+91 93197 42929",
+    "website": "https://thebagcare.lovable.app/",
+    "rating": 4.8,
+    "reviews_count": 263,
+    "address": "Spf 17 2nd floor, Shipra Shopping Center, Vaibhav Khand, Indirapuram, Ghaziabad, Uttar Pradesh 201014",
+    "area": "Vaibhav Khand, Indirapuram",
+    "latitude": 28.6374817,
+    "longitude": 77.369543,
+    "place_id": "ChIJN0RN1h3lDDkRyCZdih1ReTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN0RN1h3lDDkRyCZdih1ReTU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:19:07"
+  }
+]

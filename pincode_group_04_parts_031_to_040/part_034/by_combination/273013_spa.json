@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tulip Body Spa and Salon",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Facial spa, Massage therapist",
+    "pincode": "273013",
+    "phone_number": "+91 97946 78412",
+    "website": "https://medium.com/@tulipbodyspaandsalon",
+    "rating": 3,
+    "reviews_count": 4,
+    "address": "1st Floor, Silver Heights, in front of Nexa Showroom, near Gulharia Thana, Gulharia, Gorakhpur, Uttar Pradesh 273013",
+    "area": "Gulharia",
+    "latitude": 26.8233972,
+    "longitude": 83.4074229,
+    "place_id": "ChIJl5yZkwxFkTkRpyO7yGB0Cuw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl5yZkwxFkTkRpyO7yGB0Cuw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:54:02"
+  },
+  {
+    "business_name": "Women massage centre",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "273013",
+    "phone_number": "+91 73071 70927",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Medical College Road, Mughala, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Mughala",
+    "latitude": 26.803756699999997,
+    "longitude": 83.3927909,
+    "place_id": "ChIJJ4lvxoRFkTkRUHk68Jq7jVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ4lvxoRFkTkRUHk68Jq7jVg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:54:02"
+  }
+]

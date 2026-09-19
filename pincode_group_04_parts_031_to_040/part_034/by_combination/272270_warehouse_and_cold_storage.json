@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sagar",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Storage facility",
+    "all_categories": "Storage facility",
+    "pincode": "272270",
+    "phone_number": "+91 97489 66850",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "H6M5+PJH, Biparnna Para, Sankharidaha, West Bengal 711411",
+    "area": "Biparnna Para",
+    "latitude": 22.5843171,
+    "longitude": 88.2090991,
+    "place_id": "ChIJmcrDcmV_AjoRjYLiRGpt4dQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmcrDcmV_AjoRjYLiRGpt4dQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:24:16"
+  },
+  {
+    "business_name": "NALIKUL POTATO COLD STORAGE",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "272270",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "R5GP+J49, Bargachhia, Enayetpur, West Bengal 712407",
+    "area": "Bargachhia",
+    "latitude": 22.8265425,
+    "longitude": 88.1853715,
+    "place_id": "ChIJwSkPrT-I-DkRN6JXIpbxLn8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwSkPrT-I-DkRN6JXIpbxLn8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:24:16"
+  }
+]

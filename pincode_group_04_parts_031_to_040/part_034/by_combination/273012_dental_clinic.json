@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanchita dental clinic and skin care centre",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "273012",
+    "phone_number": "+91 94150 83532",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near PAC Camp, Bichhiya Railway Colony, Gorakhpur, Uttar Pradesh 273012",
+    "area": "Bichhiya Railway Colony",
+    "latitude": 26.7630627,
+    "longitude": 83.3968699,
+    "place_id": "ChIJGZyAX11FkTkRFmRqWSO8aEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGZyAX11FkTkRFmRqWSO8aEw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:51:28"
+  },
+  {
+    "business_name": "Dr Aamir's Dental & Facial trauma centre",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "273012",
+    "phone_number": "+91 85630 02438",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 34,
+    "address": "Near City Cart Sumer Sagar road, Vijay Chowk, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Bashratpur",
+    "latitude": 26.7576665,
+    "longitude": 83.36846179999999,
+    "place_id": "ChIJQbuC6NRFkTkRNRFUukUx9as",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQbuC6NRFkTkRNRFUukUx9as",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:51:30"
+  }
+]

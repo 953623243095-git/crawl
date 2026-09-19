@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Ganpati Medical Stores",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "273013",
+    "phone_number": "+91 94510 66559",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": 5,
+    "address": "Q9QX+G5J, Fatima Hospital By-Pass Rd, Shatabdipuram, Gorakhpur, Uttar Pradesh 273014",
+    "area": "Shatabdipuram",
+    "latitude": 26.7888426,
+    "longitude": 83.3978927,
+    "place_id": "ChIJlW6BHh9FkTkRwv6T5sDpSvA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlW6BHh9FkTkRwv6T5sDpSvA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:53:25"
+  },
+  {
+    "business_name": "Rogini Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "273013",
+    "phone_number": "+91 95696 79387",
+    "website": "https://roginipharmacy.com/",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "near BRD Medical College, Gorakhpur, Uttar Pradesh 273013",
+    "area": "273013",
+    "latitude": 26.810802799999998,
+    "longitude": 83.3974944,
+    "place_id": "ChIJfRcSMJxFkTkRto4T7pP7ojM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfRcSMJxFkTkRto4T7pP7ojM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:53:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Siraj Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "272270",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "223Q+WGV, Amathari, Uttar Pradesh 272270",
+    "area": "272270",
+    "latitude": 27.0048575,
+    "longitude": 83.0387872,
+    "place_id": "ChIJawqFaB3TljkRPzNwSoOcUbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJawqFaB3TljkRPzNwSoOcUbY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:22:42"
+  },
+  {
+    "business_name": "Sanjay tea shop & colddrink",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "272270",
+    "phone_number": "+91 96950 96090",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "kuti khusna, Naulakha, kala, Uttar Pradesh 272271",
+    "area": "272270",
+    "latitude": 26.9365383,
+    "longitude": 83.17427909999999,
+    "place_id": "ChIJVcWaMMs1kTkRY4M0Q8naz0Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVcWaMMs1kTkRY4M0Q8naz0Q",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:22:45"
+  }
+]

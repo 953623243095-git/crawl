@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashutosh Computer Shop",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "272194",
+    "phone_number": "+91 98397 18898",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Saltauwa, Sonha, Uttar Pradesh 272190",
+    "area": "272194",
+    "latitude": 26.9886827,
+    "longitude": 82.6775219,
+    "place_id": "ChIJ6-m-_XszlzkRpdvFYGBVQxU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6-m-_XszlzkRpdvFYGBVQxU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:02:54"
+  },
+  {
+    "business_name": "Pandey Infomtion center",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "272194",
+    "phone_number": "+91 91611 23281",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "2MV6+3QV, Banvadhia, Uttar Pradesh 272194",
+    "area": "272194",
+    "latitude": 27.042731099999997,
+    "longitude": 82.6619367,
+    "place_id": "ChIJzcAA1_MzlzkRattzCsAUTuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzcAA1_MzlzkRattzCsAUTuU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:02:56"
+  }
+]

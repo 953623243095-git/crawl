@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sooti",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Handbags shop",
+    "all_categories": "Handbags shop",
+    "pincode": "272182",
+    "phone_number": "+91 80853 99070",
+    "website": "http://www.sooti.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7a, Bicholi Hapsi Main Rd, Bijali Nagar, Indore, Madhya Pradesh 452016",
+    "area": "Bijali Nagar",
+    "latitude": 22.7153396,
+    "longitude": 75.91748419999999,
+    "place_id": "ChIJtZrvJ1TjYjkRTyLd0cDP0Oo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtZrvJ1TjYjkRTyLd0cDP0Oo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:52:12"
+  },
+  {
+    "business_name": "Floral Art",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Design agency, Flower designer, Jewelry designer, Jewelry store, Packaging company, Wedding service, Wedding store",
+    "pincode": "272182",
+    "phone_number": "+91 98339 89613",
+    "website": "http://floralart.co.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "National building, LIC Colony, Suresh Colony, Vile Parle West, Mumbai, Maharashtra 400056",
+    "area": "LIC Colony, Suresh Colony, Vile Parle West",
+    "latitude": 19.093832499999998,
+    "longitude": 72.8412532,
+    "place_id": "ChIJoyHU68PJ5zsRkTyye30wsWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoyHU68PJ5zsRkTyye30wsWQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:52:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Balaji Tyres",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop, Tyre manufacturer",
+    "pincode": "273008",
+    "phone_number": "+91 88875 42906",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "H.No.48, Peoria Bypass, Hanuman Mandir, Bansgaon Colony, Paidleganj, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Bansgaon Colony, Paidleganj",
+    "latitude": 26.7430196,
+    "longitude": 83.3842481,
+    "place_id": "ChIJ5-X8lahFkTkROYZdn185Nq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5-X8lahFkTkROYZdn185Nq4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:45:48"
+  },
+  {
+    "business_name": "Tyre Station",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "273008",
+    "phone_number": "+91 94151 49874",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Paidleganj Area, Kalepur, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Bansgaon Colony, Kalepur",
+    "latitude": 26.7430068,
+    "longitude": 83.38425459999999,
+    "place_id": "ChIJnTNrfNxFkTkRXfB5DqrUiMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnTNrfNxFkTkRXfB5DqrUiMA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:45:50"
+  }
+]

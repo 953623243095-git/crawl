@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Coating Guru",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto care products store, Auto restoration service",
+    "pincode": "272182",
+    "phone_number": "+91 99985 66886",
+    "website": "https://thecoatingguru.in/",
+    "rating": 5,
+    "reviews_count": 462,
+    "address": "SB 9-13, Landmark Building, opposite citi bank, near natubhai circle, Paris Nagar, Diwalipura, Vadodara, Gujarat 391101",
+    "area": "Paris Nagar, Diwalipura",
+    "latitude": 22.308543699999998,
+    "longitude": 73.1597517,
+    "place_id": "ChIJ9W52AFbJXzkRZMZ8usX9t0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9W52AFbJXzkRZMZ8usX9t0I",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:51:44"
+  },
+  {
+    "business_name": "Detailing Xpertz",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto restoration service",
+    "all_categories": "Auto restoration service",
+    "pincode": "272182",
+    "phone_number": "+91 73837 77932",
+    "website": "https://mydigitalcard.store/DX-Detailing-Xpertz-",
+    "rating": 4.7,
+    "reviews_count": 49,
+    "address": "Plot No.11, Vasna - Bhayli Main Rd, opp. HP petrol Pump, nr. Nilamber Circle, Gopal Nagar, Saiyed Vasna, Vadodara, Gujarat 391410",
+    "area": "Gopal Nagar, Saiyed Vasna",
+    "latitude": 22.299203199999997,
+    "longitude": 73.13984169999999,
+    "place_id": "ChIJ83lpeIHJXzkRDCHL8uUmZtU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ83lpeIHJXzkRDCHL8uUmZtU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:51:44"
+  }
+]

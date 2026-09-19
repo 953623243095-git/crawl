@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Insurance Solution",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Auto insurance agency, Health insurance agency, Home insurance agency, Life insurance agency",
+    "pincode": "272176",
+    "phone_number": "+91 98180 93965",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 307,
+    "address": "Shop No 48, Chitra Market, Insurance Solution, C/O Naveen, near Krishna Mandir FURNITURE MARKET, Najafgarh, New Delhi, Delhi 110043",
+    "area": "Najafgarh",
+    "latitude": 28.6152272,
+    "longitude": 76.9833285,
+    "place_id": "ChIJ8_AzBMMPDTkR5-ZhwK4Gn84",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8_AzBMMPDTkR5-ZhwK4Gn84",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:45:14"
+  },
+  {
+    "business_name": "R K INSURANCE SERVICE",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance broker",
+    "all_categories": "Insurance broker",
+    "pincode": "272176",
+    "phone_number": "+91 96754 04075",
+    "website": "http://www.rkinsuranceservice.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Agra road, Sirsaganj, Uttar Pradesh 283151",
+    "area": "272176",
+    "latitude": 27.0618795,
+    "longitude": 78.6769987,
+    "place_id": "ChIJ3SIiln3LdTkREHH5bSVF8hk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3SIiln3LdTkREHH5bSVF8hk",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:45:16"
+  }
+]

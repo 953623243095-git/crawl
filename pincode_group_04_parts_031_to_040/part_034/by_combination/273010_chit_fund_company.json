@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MyChits",
+    "search_category": "Chit Fund Company",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service, Loan agency",
+    "pincode": "273010",
+    "phone_number": "N/A",
+    "website": "http://www.mychits.co.in/",
+    "rating": 3.8,
+    "reviews_count": 13,
+    "address": "11/36, Kathreguppe Cross Road, Kathreguppe, Banashankari 3rd Stage, Banashankari, Bengaluru, Karnataka 560085",
+    "area": "Kathreguppe, Banashankari 3rd Stage, Banashankari",
+    "latitude": 12.9335851,
+    "longitude": 77.5577419,
+    "place_id": "ChIJKbS_SV49rjsR4Lv_6eQW1GQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKbS_SV49rjsR4Lv_6eQW1GQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:50:36"
+  },
+  {
+    "business_name": "Royal Chit Funds Private Limited",
+    "search_category": "Chit Fund Company",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "273010",
+    "phone_number": "+91 124 475 4900",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5th floor, Old Judicial Complex, sec-42, Old Judicial Complex Civil Lines Rd, mor chowk, Gurugram, Haryana 122001",
+    "area": "mor chowk",
+    "latitude": 28.4579594,
+    "longitude": 77.03392769999999,
+    "place_id": "ChIJPcTzGEgYDTkRONJRZSV-ScM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPcTzGEgYDTkRONJRZSV-ScM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:50:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Master Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Stationery store",
+    "pincode": "272177",
+    "phone_number": "+91 85769 21138",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 7,
+    "address": "6424 VJH, Kursi Road, Badagaon, Uttar Pradesh 225305",
+    "area": "272177",
+    "latitude": 27.2057693,
+    "longitude": 81.1062646,
+    "place_id": "ChIJTUzhDHFBmTkRckzD6RjdD60",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTUzhDHFBmTkRckzD6RjdD60",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:46:55"
+  },
+  {
+    "business_name": "Ashish Stationery Centre",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Pen store",
+    "pincode": "272177",
+    "phone_number": "+91 91153 16700",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Shop No.148, New Market, Misra bazar Rd, Mishra Bazar, Aamghat, Ghazipur, Uttar Pradesh 233001",
+    "area": "Mishra Bazar, Aamghat",
+    "latitude": 25.5821018,
+    "longitude": 83.5782262,
+    "place_id": "ChIJhZi9Om7_kTkRQwmjXadXsNE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhZi9Om7_kTkRQwmjXadXsNE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:46:56"
+  }
+]

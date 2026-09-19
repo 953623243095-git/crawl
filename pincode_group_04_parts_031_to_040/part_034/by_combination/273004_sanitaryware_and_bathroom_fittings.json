@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaiswal Sanitary Store",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "273004",
+    "phone_number": "+91 94152 11647",
+    "website": "http://www.vectus.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Arbit Apartment, Dharamshala Bazar, Bashratpur, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Dharamshala Bazar, Bashratpur",
+    "latitude": 26.760908699999998,
+    "longitude": 83.3706893,
+    "place_id": "ChIJRQZIksNFkTkRMLTsBqkTsUw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRQZIksNFkTkRMLTsBqkTsUw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:37:56"
+  },
+  {
+    "business_name": "Mayank Agency",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "273004",
+    "phone_number": "+91 93364 08001",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 15,
+    "address": "Q948+RCG, Cinema Road, Vijay Chowk, Purdilpur, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Purdilpur, Bashratpur",
+    "latitude": 26.757068099999998,
+    "longitude": 83.3660644,
+    "place_id": "ChIJVcjjUGhEkTkR9b4cjZI8XQM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVcjjUGhEkTkR9b4cjZI8XQM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:37:56"
+  }
+]

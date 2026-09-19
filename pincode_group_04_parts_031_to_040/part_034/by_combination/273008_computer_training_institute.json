@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yash Computer Center",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "273008",
+    "phone_number": "+91 91407 86569",
+    "website": "https://yashcommerceclasses.in/index.html",
+    "rating": 4.9,
+    "reviews_count": 76,
+    "address": "Labour colony, Mohaddipur, Gorakhpur, Uttar Pradesh 273008",
+    "area": "Labour colony, Mohaddipur",
+    "latitude": 26.7488527,
+    "longitude": 83.4047859,
+    "place_id": "ChIJM2dKPORFkTkRym_xy95YOI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM2dKPORFkTkRym_xy95YOI8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:46:28"
+  },
+  {
+    "business_name": "Sharada Computer",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Training center",
+    "all_categories": "Training center",
+    "pincode": "273008",
+    "phone_number": "+91 78440 76634",
+    "website": "http://sharadacomputer.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Q9GV+MQ2, Pipraich Road, Shahpur, Gorakhpur, Uttar Pradesh 273014",
+    "area": "Shahpur",
+    "latitude": 26.776646699999997,
+    "longitude": 83.3943944,
+    "place_id": "ChIJ_fyYI-REkTkReObA37Wwfao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_fyYI-REkTkReObA37Wwfao",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:46:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shreya Creations Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "272177",
+    "phone_number": "+91 91989 33881",
+    "website": "https://m.facebook.com/shreyacreations/?ref=bookmarks",
+    "rating": 4.6,
+    "reviews_count": 406,
+    "address": "1st Floor, Sardar Patel Marg, opposite to Hot Stuff, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Civil Lines",
+    "latitude": 25.4520639,
+    "longitude": 81.8350069,
+    "place_id": "ChIJSwbHzsTKmjkRRekMTa3gVbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSwbHzsTKmjkRRekMTa3gVbk",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:46:04"
+  },
+  {
+    "business_name": "Vastram Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Custom tailor, Designer Clothing Store, Dressmaker, Fabric store, Tailor, Women's clothing store",
+    "pincode": "272177",
+    "phone_number": "+91 99109 82525",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "LG 10, PAN OASIS, Pan Oasis Society, Market, Sector 70, Noida, Basi Bahuddin Nagar, Uttar Pradesh 201301",
+    "area": "Pan Oasis Society, Market, Sector 70",
+    "latitude": 28.593524799999997,
+    "longitude": 77.38113539999999,
+    "place_id": "ChIJ7WLvxvjvDDkReYyzXbXAEaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7WLvxvjvDDkReYyzXbXAEaQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:46:05"
+  }
+]

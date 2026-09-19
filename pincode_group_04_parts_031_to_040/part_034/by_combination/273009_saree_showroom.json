@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhagwati",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop, Boutique, Bridal shop, Clothing store, Men's clothing store, Wedding store",
+    "pincode": "273009",
+    "phone_number": "+91 70814 10002",
+    "website": "https://bhagwatitrends.in/",
+    "rating": 3.9,
+    "reviews_count": 54,
+    "address": "10, Park Rd, Civil Lines, Gorakhpur, Uttar Pradesh 273009",
+    "area": "Civil Lines",
+    "latitude": 26.7534423,
+    "longitude": 83.3781496,
+    "place_id": "ChIJ__8vw2NEkTkRBeM8w8c_WWY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__8vw2NEkTkRBeM8w8c_WWY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:47:25"
+  },
+  {
+    "business_name": "Vandana Agencies",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "273009",
+    "phone_number": "+91 73884 72752",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "M.P. Building, Golghar, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Golghar",
+    "latitude": 26.753641,
+    "longitude": 83.3760495,
+    "place_id": "ChIJodRJrOtFkTkRZzrVZ1QR42M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJodRJrOtFkTkRZzrVZ1QR42M",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:47:26"
+  }
+]

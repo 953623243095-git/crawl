@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Communication Services - DTDC Ashok Vihar",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "272270",
+    "phone_number": "+91 98105 37706",
+    "website": "http://www.indiamart.com/royalcommunicationservices",
+    "rating": 4.8,
+    "reviews_count": 196,
+    "address": "25 Basement Floor, Central Market, MIG Flats, Wazirpur Village, Ashok Vihar, Delhi, 110052",
+    "area": "MIG Flats, Wazirpur Village, Ashok Vihar",
+    "latitude": 28.694055,
+    "longitude": 77.1721709,
+    "place_id": "ChIJi-ipp78EDTkRdw5pHKwLLi8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi-ipp78EDTkRdw5pHKwLLi8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:24:08"
+  },
+  {
+    "business_name": "Sonind",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "272270",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X4J3+R2V, Lohrauli, Menhdawal, Uttar Pradesh 272271",
+    "area": "272270",
+    "latitude": 26.9821116,
+    "longitude": 83.1025624,
+    "place_id": "ChIJQYc2JQAzkTkRmkrkUFkehos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQYc2JQAzkTkRmkrkUFkehos",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:24:10"
+  }
+]

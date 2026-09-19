@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Bharat Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "272271",
+    "phone_number": "+91 91400 55163",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "Bhathat Paniyara Link Road, Mangalpur Chawraha, Bhathat, Uttar Pradesh 273165",
+    "area": "272271",
+    "latitude": 26.966437499999998,
+    "longitude": 83.4308125,
+    "place_id": "ChIJSwUkZgBTkTkRtHXywgFLiAY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSwUkZgBTkTkRtHXywgFLiAY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:24:53"
+  },
+  {
+    "business_name": "Anant health pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Service establishment",
+    "pincode": "272271",
+    "phone_number": "+91 63879 55366",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Anant health pharmacy, 272271, India",
+    "area": "272271",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ_SzgYQCzljkRmgQrwHrlzeI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_SzgYQCzljkRmgQrwHrlzeI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:24:53"
+  }
+]

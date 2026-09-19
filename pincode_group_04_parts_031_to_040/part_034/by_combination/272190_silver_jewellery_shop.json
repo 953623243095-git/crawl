@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balram Prasad Anil Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "272190",
+    "phone_number": "+91 97211 01400",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Bazar, Bankatwa, Sabarpur, Uttar Pradesh 271313",
+    "area": "272190",
+    "latitude": 26.9810165,
+    "longitude": 82.5017615,
+    "place_id": "ChIJx0fo6atLlzkRyY5nxaU2o-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx0fo6atLlzkRyY5nxaU2o-s",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:54:56"
+  },
+  {
+    "business_name": "Vikas Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "272190",
+    "phone_number": "+91 63940 38134",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 12,
+    "address": "Bhanpur Babu Bharpur Babu, Uttar Pradesh 271312",
+    "area": "272190",
+    "latitude": 27.021936,
+    "longitude": 82.6655025,
+    "place_id": "ChIJdUQo73MzlzkR9Yyp-onP3-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdUQo73MzlzkR9Yyp-onP3-8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:54:57"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Biryani wallah",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "273008",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 30,
+    "address": "Q92X+R9C, Mohaddipur, Gorakhpur, Uttar Pradesh 273008",
+    "area": "Mohaddipur",
+    "latitude": 26.7520743,
+    "longitude": 83.39840029999999,
+    "place_id": "ChIJAcHJGwBFkTkRQSk9WcGtIC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAcHJGwBFkTkRQSk9WcGtIC8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:45:18"
+  },
+  {
+    "business_name": "Kazi Hotel",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "273008",
+    "phone_number": "+91 79057 24489",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 27,
+    "address": "Sadhe Chai Wali Gali, 1, Nakhas Rd, Chowk, Gorakhpur, Uttar Pradesh 273005",
+    "area": "Chowk",
+    "latitude": 26.7490311,
+    "longitude": 83.3580166,
+    "place_id": "ChIJ55CgQURFkTkRHo-ML6pMI_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ55CgQURFkTkRHo-ML6pMI_A",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:45:20"
+  }
+]

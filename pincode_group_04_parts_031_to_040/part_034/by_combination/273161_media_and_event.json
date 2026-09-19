@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ca",
+    "search_category": "Media and Event",
+    "primary_category": "Opera house",
+    "all_categories": "Opera house",
+    "pincode": "273161",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chowk bazar, Maharajganj, Baragadahi Basantnath, Uttar Pradesh 273312",
+    "area": "273161",
+    "latitude": 27.2464895,
+    "longitude": 83.5716922,
+    "place_id": "ChIJU8e0KySnljkRG9aeM-3l5lU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU8e0KySnljkRG9aeM-3l5lU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:13:28"
+  },
+  {
+    "business_name": "Raunaj Media Private Limited",
+    "search_category": "Media and Event",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Event planner",
+    "pincode": "273161",
+    "phone_number": "+91 92506 66607",
+    "website": "https://www.raunaj.com/",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Vaishali, Metro Station, Near, Sector 4, Vaishali, Ghaziabad, Uttar Pradesh 201010",
+    "area": "Sector 4, Vaishali",
+    "latitude": 28.6500882,
+    "longitude": 77.3435499,
+    "place_id": "ChIJ01DG-1P7DDkRsJHPOg1WDII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ01DG-1P7DDkRsJHPOg1WDII",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:13:31"
+  }
+]

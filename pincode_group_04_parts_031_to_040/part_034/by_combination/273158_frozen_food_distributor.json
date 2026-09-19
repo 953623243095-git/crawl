@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Himalaya Food products",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food manufacturer",
+    "all_categories": "Frozen food manufacturer",
+    "pincode": "273158",
+    "phone_number": "N/A",
+    "website": "https://www.himalayafoodproducts.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Himalaya Food products, Bijnor Rd, Natkur, Lucknow, Uttar Pradesh 226002",
+    "area": "273158",
+    "latitude": 26.7339105,
+    "longitude": 80.8857395,
+    "place_id": "ChIJWyLgHD_5mzkRbIk7ew373OM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWyLgHD_5mzkRbIk7ew373OM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:10:30"
+  },
+  {
+    "business_name": "Foodius Food World",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "273158",
+    "phone_number": "+91 70606 06304",
+    "website": "https://www.foodiusfoodworld.com/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Nagala Asha, Plot no.02, Devki Kunj, Colony, Mauja, Poiya, Agra, Uttar Pradesh 283126",
+    "area": "Devki Kunj, Colony, Mauja",
+    "latitude": 27.2500499,
+    "longitude": 78.03946239999999,
+    "place_id": "ChIJlXg2iL17dDkRtXoPzHZSEpk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlXg2iL17dDkRtXoPzHZSEpk",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:10:31"
+  }
+]

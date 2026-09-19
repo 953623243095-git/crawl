@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sakshi Office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "273006",
+    "phone_number": "+91 551 233 3025",
+    "website": "http://www.indiapost.gov.in/",
+    "rating": 3.9,
+    "reviews_count": 15,
+    "address": "Q97W+FX2, Bichhiya Railway Colony, Gorakhpur, Uttar Pradesh 273014",
+    "area": "Bichhiya Railway Colony",
+    "latitude": 26.7636382,
+    "longitude": 83.3973798,
+    "place_id": "ChIJyQA5AetEkTkRTkCgJgmeug4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyQA5AetEkTkRTkCgJgmeug4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:42:37"
+  },
+  {
+    "business_name": "CCC",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "273006",
+    "phone_number": "+91 98078 24977",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q9HJ+J6J, Harhwa Fatak Rd, Ashok Nagar, Gorakhpur, Uttar Pradesh 273004",
+    "area": "Ashok Nagar",
+    "latitude": 26.779094999999998,
+    "longitude": 83.380517,
+    "place_id": "ChIJraJfPv9EkTkRykr7ZX76XkE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJraJfPv9EkTkRykr7ZX76XkE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:42:40"
+  }
+]

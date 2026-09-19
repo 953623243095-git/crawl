@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Liam's cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Health food restaurant",
+    "all_categories": "Health food restaurant",
+    "pincode": "273008",
+    "phone_number": "+91 91684 02261",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "gate no. 1, opposite to MMM Engineering college, near RSM Senior Secondary School, block A, Kunraghat, Gorakhpur, Uttar Pradesh 273010",
+    "area": "block A, Kunraghat",
+    "latitude": 26.7302541,
+    "longitude": 83.4300329,
+    "place_id": "ChIJidG7cGRdkTkR7-V0UvdGoe4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJidG7cGRdkTkR7-V0UvdGoe4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:45:21"
+  },
+  {
+    "business_name": "K-afé",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "273008",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 79,
+    "address": "GDA Corporate Park, Plot No. 3, Nauka Vihar Rd, Rail Vihar Colony Phase 3rd, Taramandal, Gorakhpur, Uttar Pradesh 273017",
+    "area": "Rail Vihar Colony Phase 3rd, Taramandal",
+    "latitude": 26.733438099999997,
+    "longitude": 83.3904622,
+    "place_id": "ChIJ4dwcIw9DkTkRW_jssz-5DII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4dwcIw9DkTkRW_jssz-5DII",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:45:24"
+  }
+]

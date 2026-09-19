@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Autodeals",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "273010",
+    "phone_number": "+91 97932 63755",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Suba bazar, Saint joseph school, Deoria Bypass Rd, Khorabar, Gorakhpur, Uttar Pradesh 273010",
+    "area": "Khorabar",
+    "latitude": 26.713767999999998,
+    "longitude": 83.44556999999999,
+    "place_id": "ChIJs2Fo9CJdkTkRUo1LiZSV8Y0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs2Fo9CJdkTkRUo1LiZSV8Y0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:49:46"
+  },
+  {
+    "business_name": "Deltic Electric Vehicles- H K Motors",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Electric motor vehicle dealer",
+    "all_categories": "Electric motor vehicle dealer",
+    "pincode": "273010",
+    "phone_number": "+91 63935 39066",
+    "website": "https://www.deltic.co/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "near sinduli binduli, Mahuesugharpur, Budh Vihar Colony, Kajakpur, Gorakhpur, Uttar Pradesh 273016",
+    "area": "Mahuesugharpur, Budh Vihar Colony",
+    "latitude": 26.713148099999998,
+    "longitude": 83.38312959999999,
+    "place_id": "ChIJyUE2VdJDkTkRb3Fsllo6Cgs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyUE2VdJDkTkRb3Fsllo6Cgs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:49:48"
+  }
+]

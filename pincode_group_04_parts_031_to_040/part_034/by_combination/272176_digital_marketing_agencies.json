@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Marketing Flask",
+    "search_category": "Digital Marketing Agencies",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Marketing agency, Marketing consultant, Website designer",
+    "pincode": "272176",
+    "phone_number": "+91 76071 67441",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Krishna Fashion Collection, CSB Rd, JB Nagar, Saurikh, Kabirpur, Uttar Pradesh 209728",
+    "area": "JB Nagar",
+    "latitude": 27.0374593,
+    "longitude": 79.48890469999999,
+    "place_id": "ChIJNbgOy5QbnjkRiVhbMsVj3Xc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNbgOy5QbnjkRiVhbMsVj3Xc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:45:34"
+  },
+  {
+    "business_name": "Abhinav Digital Solution",
+    "search_category": "Digital Marketing Agencies",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Graphic designer, Website designer",
+    "pincode": "272176",
+    "phone_number": "+91 88089 26465",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Khijhna, Uttar Pradesh 225305",
+    "area": "272176",
+    "latitude": 27.213781899999997,
+    "longitude": 81.0439652,
+    "place_id": "ChIJMaNOA5JHmTkR1B7TYKqzj2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMaNOA5JHmTkR1B7TYKqzj2Q",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:45:34"
+  }
+]

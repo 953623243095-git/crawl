@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Avishak Auto Parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "272190",
+    "phone_number": "+91 97922 49458",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rama Nand Singh, Bitiya Chauraha Basti, Basti, Uttar Pradesh 272002",
+    "area": "272190",
+    "latitude": 26.846664,
+    "longitude": 82.7409517,
+    "place_id": "ChIJMxQqfn7RkDkR9hNohAMuVXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMxQqfn7RkDkR9hNohAMuVXA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:55:15"
+  },
+  {
+    "business_name": "Kumar Auto Parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "272190",
+    "phone_number": "+91 89480 32044",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dumariyaganj Rd, Manauri Chauraha, Basti, Uttar Pradesh 272182",
+    "area": "272190",
+    "latitude": 26.8388717,
+    "longitude": 82.74878939999999,
+    "place_id": "ChIJARJIiNfRkDkRF5MNB364MU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJARJIiNfRkDkRF5MNB364MU4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:55:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel O Classic Gorakhpur Formerly Krishna Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "273015",
+    "phone_number": "+91 124 433 0599",
+    "website": "https://www.oyorooms.com/300067/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Narayan singh shakin muhlla, 3 Park road, Dr, Sub Registrar Office Rd, Sahar Sahar, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Sahar Sahar, VindyaVasini Nagar",
+    "latitude": 26.7545607,
+    "longitude": 83.369387,
+    "place_id": "ChIJ131Kvm9FkTkRkwM51iTk7j4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ131Kvm9FkTkRkwM51iTk7j4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:58:08"
+  },
+  {
+    "business_name": "Flagship Chaitdeep Palace",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Bed & breakfast, Guest house, Holiday home, Inn, Lodge, Motel, Service Apartment, Villa",
+    "pincode": "273015",
+    "phone_number": "+91 124 620 1516",
+    "website": "https://www.oyorooms.com/194336/?utm_source=Google&utm_medium=GMB",
+    "rating": 3.9,
+    "reviews_count": 7,
+    "address": "Mandir, Gorakhnath, Gorakhpur, Uttar Pradesh 273015",
+    "area": "Gorakhnath",
+    "latitude": 26.774064,
+    "longitude": 83.358182,
+    "place_id": "ChIJVz3ZoAxFkTkRo5GoQkKiSDQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVz3ZoAxFkTkRo5GoQkKiSDQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:58:12"
+  }
+]

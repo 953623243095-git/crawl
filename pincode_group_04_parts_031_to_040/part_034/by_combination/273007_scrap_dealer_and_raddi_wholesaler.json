@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Re-Chance Traders",
+    "search_category": "Scrap Dealer and Raddi Wholesaler",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "273007",
+    "phone_number": "+91 73101 99099",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Indira Nagar, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Indira Nagar",
+    "latitude": 26.7412773,
+    "longitude": 83.38229749999999,
+    "place_id": "ChIJ1WJwcNFFkTkRVkOoN9Ue0mE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1WJwcNFFkTkRVkOoN9Ue0mE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:44:46"
+  },
+  {
+    "business_name": "Rajeev Traders",
+    "search_category": "Scrap Dealer and Raddi Wholesaler",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "273007",
+    "phone_number": "+91 93358 99332",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Siddharth Nagar Colony, Rajendra Nagar, Gorakhpur, Uttar Pradesh 273015",
+    "area": "Siddharth Nagar Colony, Rajendra Nagar",
+    "latitude": 26.783736299999997,
+    "longitude": 83.3507995,
+    "place_id": "ChIJU0MHJ-JFkTkRR8IlBXJ1A10",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU0MHJ-JFkTkRR8IlBXJ1A10",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:44:46"
+  }
+]

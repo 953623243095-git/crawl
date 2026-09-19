@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Mobile shop",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "273152",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Phase 1, Raptinagar, Anand Vihar, Gorakhpur, Uttar Pradesh 273004",
+    "area": "Phase 1, Raptinagar, Anand Vihar",
+    "latitude": 26.795187499999997,
+    "longitude": 83.38318749999999,
+    "place_id": "ChIJTRd9RrtFkTkRvnsBTQ6tmd8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTRd9RrtFkTkRvnsBTQ6tmd8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:06:08"
+  },
+  {
+    "business_name": "Om Mobile Shop",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store, Electronics store",
+    "pincode": "273152",
+    "phone_number": "+91 91405 67899",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 7,
+    "address": "Gorakhpur Rd, Bhathat, Partawal, Uttar Pradesh 273306",
+    "area": "273152",
+    "latitude": 26.8971783,
+    "longitude": 83.4879327,
+    "place_id": "ChIJC812aTxRkTkR3-CWmPJdjis",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC812aTxRkTkR3-CWmPJdjis",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:06:08"
+  }
+]

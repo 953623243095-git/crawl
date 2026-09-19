@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Rama highway",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "273010",
+    "phone_number": "+91 79916 06827",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "KMS 270 Gorakhpur Byepass, NH 27, Gorakhpur, Gaighat Buzurg, Uttar Pradesh 273016",
+    "area": "273010",
+    "latitude": 26.702094499999998,
+    "longitude": 83.410129,
+    "place_id": "ChIJ9yHQfQBDkTkRNO6qnFrYYF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9yHQfQBDkTkRNO6qnFrYYF4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:49:16"
+  },
+  {
+    "business_name": "Ridhi Sidhi",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "273010",
+    "phone_number": "+91 78976 72979",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "PCJH+MV2, Gorakhpur - Deoria Hwy, Awas Vikas Colony, Kunraghat, Gorakhpur, Uttar Pradesh 273010",
+    "area": "Awas Vikas Colony, Kunraghat",
+    "latitude": 26.731637499999998,
+    "longitude": 83.4296335,
+    "place_id": "ChIJy2Ln365ckTkRA6Mch0TnsnY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy2Ln365ckTkRA6Mch0TnsnY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:49:16"
+  }
+]

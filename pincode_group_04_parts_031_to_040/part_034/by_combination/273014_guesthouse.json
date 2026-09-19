@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Family guest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "273014",
+    "phone_number": "+91 99362 55935",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Q9QX+3FJ, Fatima Hospital By-Pass Rd, Shatabdipuram, Gorakhpur, Uttar Pradesh 273014",
+    "area": "Shatabdipuram",
+    "latitude": 26.7877108,
+    "longitude": 83.3986461,
+    "place_id": "ChIJGfCkUQBFkTkR6SIATr8iLbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGfCkUQBFkTkR6SIATr8iLbU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:56:12"
+  },
+  {
+    "business_name": "Hotel O by OYO Kamla Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "273014",
+    "phone_number": "+91 124 620 1516",
+    "website": "https://www.oyorooms.com/245633/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "BHATTHA CHAURAHA, HN 144, Pipraich - Gorakhpur Rd, near MPPG COLLEGE, Vishwakarmapuram, Jangl Dhoosar, Gorakhpur, Uttar Pradesh 273014",
+    "area": "Vishwakarmapuram",
+    "latitude": 26.790665399999998,
+    "longitude": 83.4304092,
+    "place_id": "ChIJUbwx_u9bkTkRMEIwazg-Ql8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUbwx_u9bkTkRMEIwazg-Ql8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:56:12"
+  }
+]

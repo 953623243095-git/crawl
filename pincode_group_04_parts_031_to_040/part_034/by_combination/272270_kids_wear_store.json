@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kids Wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "272270",
+    "phone_number": "+91 99582 32786",
+    "website": "https://www.instagram.com/official_kids_wear?igsh=YjJhNnlscWFubzJ1&utm_source=qr",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "D-113/B, Shaheen Bagh, Block A, Jamia Nagar, Okhla, New Delhi, Delhi, 110025",
+    "area": "Shaheen Bagh, Block A, Jamia Nagar, Okhla",
+    "latitude": 28.549889699999998,
+    "longitude": 77.2999682,
+    "place_id": "ChIJSbunwqrlDDkR55fvDGEs614",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSbunwqrlDDkR55fvDGEs614",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:22:51"
+  },
+  {
+    "business_name": "Janta Vastra Bhandar",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "272270",
+    "phone_number": "+91 96501 47243",
+    "website": "https://janta-vastra-bhandar.grexa.site/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Darshan Vihar Colony, A Block, Shankarpura, Burari, Delhi, 110084",
+    "area": "Darshan Vihar Colony, A Block, Shankarpura, Burari",
+    "latitude": 28.766345299999998,
+    "longitude": 77.1860384,
+    "place_id": "ChIJM_Xx_i4ADTkRvM4DHhtdT3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM_Xx_i4ADTkRvM4DHhtdT3Q",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:22:53"
+  }
+]

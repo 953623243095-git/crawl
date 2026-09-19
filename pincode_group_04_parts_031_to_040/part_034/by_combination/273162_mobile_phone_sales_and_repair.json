@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "National Mobile Shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store",
+    "pincode": "273162",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "near Kumar mishtan, Kolhui Bazar, Kolhui, Uttar Pradesh 273309",
+    "area": "273162",
+    "latitude": 27.3006875,
+    "longitude": 83.33206249999999,
+    "place_id": "ChIJ1SAbg4S_ljkRS29x2-rqgHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1SAbg4S_ljkRS29x2-rqgHg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:15:29"
+  },
+  {
+    "business_name": "OG Mobile Care",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store",
+    "pincode": "273162",
+    "phone_number": "+91 87952 14176",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Devpur Chauraha, Uttar Pradesh 273162",
+    "area": "273162",
+    "latitude": 27.2116932,
+    "longitude": 83.3605417,
+    "place_id": "ChIJ4Y-ncj27ljkRYAr9b_TLtAo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Y-ncj27ljkRYAr9b_TLtAo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:15:31"
+  }
+]

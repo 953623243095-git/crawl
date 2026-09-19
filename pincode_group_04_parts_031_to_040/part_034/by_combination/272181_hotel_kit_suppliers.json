@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India hotel",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Soup kitchen",
+    "all_categories": "Soup kitchen",
+    "pincode": "272181",
+    "phone_number": "+91 88814 07270",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "नानपारा, Fulwariya Mafi, Uttar Pradesh 271882",
+    "area": "272181",
+    "latitude": 27.6950607,
+    "longitude": 81.54801479999999,
+    "place_id": "ChIJMXK1gCtVmDkRXMDrs24etgs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMXK1gCtVmDkRXMDrs24etgs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:50:29"
+  },
+  {
+    "business_name": "S.K.S hospitality",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "272181",
+    "phone_number": "+91 87398 32323",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "374, Jagdamba Nagar Rd, Dhawas Rd, Janki Vihar, Girdharipura, Jaipur, Rajasthan 302021",
+    "area": "Janki Vihar, Girdharipura",
+    "latitude": 26.891717099999997,
+    "longitude": 75.7205171,
+    "place_id": "ChIJq7AgDFu1bTkRurwwK24w7U4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq7AgDFu1bTkRurwwK24w7U4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:50:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dev memorial polyclinic and hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "272301",
+    "phone_number": "+91 73181 81843",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Prithvipur, Kallamuden Pur, Uttar Pradesh 224190",
+    "area": "272301",
+    "latitude": 26.547585599999998,
+    "longitude": 82.76753939999999,
+    "place_id": "ChIJ8QAw3F7nkDkRzbhgVSlmQ2E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8QAw3F7nkDkRzbhgVSlmQ2E",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:27:06"
+  },
+  {
+    "business_name": "Nagma Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "272301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 9,
+    "address": "FQ4C+27X, Baskhari, Uttar Pradesh 224129",
+    "area": "272301",
+    "latitude": 26.455116699999998,
+    "longitude": 82.7707278,
+    "place_id": "ChIJdze23hvlkDkR6YPnvBT5lRM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdze23hvlkDkR6YPnvBT5lRM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:27:06"
+  }
+]

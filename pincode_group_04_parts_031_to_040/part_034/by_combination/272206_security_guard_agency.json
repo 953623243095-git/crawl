@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "National Human Rights Security Bureau",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Non-profit organization",
+    "all_categories": "Non-profit organization, Non-governmental organization",
+    "pincode": "272206",
+    "phone_number": "+91 96952 59346",
+    "website": "https://www.nhrsb.org/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhawaniya Nagar, Sarauli, Uski, Uttar Pradesh 272208",
+    "area": "Bhawaniya Nagar",
+    "latitude": 27.2001712,
+    "longitude": 83.15055339999999,
+    "place_id": "ChIJx48SzyFopUwRmZycCCRo1fo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx48SzyFopUwRmZycCCRo1fo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:18:20"
+  },
+  {
+    "business_name": "National Security Solutions",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Computer security service",
+    "all_categories": "Computer security service",
+    "pincode": "272206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Kolhui, Kolhui Bazar, Uttar Pradesh 273309",
+    "area": "272206",
+    "latitude": 27.3007809,
+    "longitude": 83.3319805,
+    "place_id": "ChIJ6-GMlqu-ljkRymtkooBPa7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6-GMlqu-ljkRymtkooBPa7c",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:18:22"
+  }
+]

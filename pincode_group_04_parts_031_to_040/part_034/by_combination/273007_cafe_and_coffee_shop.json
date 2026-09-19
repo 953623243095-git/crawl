@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Modanwal's Sweets And Cafes",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "273007",
+    "phone_number": "+91 76075 79759",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 54,
+    "address": "Nagar Nigam Complex, Netaji Subas Chandra Bos Nagar Colony, Shubash Nagar, Gorakhpur, Uttar Pradesh 273015",
+    "area": "Netaji Subas Chandra Bos Nagar Colony, Shubash Nagar",
+    "latitude": 26.7731271,
+    "longitude": 83.34508319999999,
+    "place_id": "ChIJd0Z5BWJFkTkRI3TMyQgMmEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd0Z5BWJFkTkRI3TMyQgMmEQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:43:14"
+  },
+  {
+    "business_name": "Jolly Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe, Ice cream shop",
+    "pincode": "273007",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 122,
+    "address": "Rail Vihar Rd, Doctors Colony, Chargawa,, Gorakhpur, Uttar Pradesh 273013",
+    "area": "Doctors Colony, Chargawa,",
+    "latitude": 26.8040929,
+    "longitude": 83.392093,
+    "place_id": "ChIJo8SwtmNFkTkRIWn3ndg1lNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo8SwtmNFkTkRIWn3ndg1lNk",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:43:18"
+  }
+]

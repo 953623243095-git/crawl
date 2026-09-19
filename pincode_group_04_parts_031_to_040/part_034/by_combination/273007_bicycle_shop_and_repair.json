@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samiksha Bike Shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "273007",
+    "phone_number": "+91 91256 28482",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sukarahia Sabji Market, Doharia, Doharia Bazar, Budhiya Bari, Uttar Pradesh 273007",
+    "area": "Doharia, Doharia Bazar",
+    "latitude": 26.7906721,
+    "longitude": 83.2721382,
+    "place_id": "ChIJ0-On9gdHkTkRs9FVW02eDE0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0-On9gdHkTkRs9FVW02eDE0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:43:44"
+  },
+  {
+    "business_name": "Mewalal Cycle Store Repairing",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "273007",
+    "phone_number": "+91 95982 73317",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 9,
+    "address": "R982+26C, Gorakhpur - Sonauli Rd, Moharipur Bazar, Vistar Colony, Gorakhpur, Nooruddin Chak, Uttar Pradesh 273007",
+    "area": "Moharipur Bazar, Vistar Colony",
+    "latitude": 26.8150698,
+    "longitude": 83.3505101,
+    "place_id": "ChIJ1Q489u5FkTkROJvd62TZHXs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1Q489u5FkTkROJvd62TZHXs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:43:48"
+  }
+]

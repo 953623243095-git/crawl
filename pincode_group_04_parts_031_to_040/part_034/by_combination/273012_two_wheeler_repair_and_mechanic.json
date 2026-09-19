@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Siddhi Auto",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop, Auto repair shop",
+    "pincode": "273012",
+    "phone_number": "+91 70652 27270",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Kali Mandir, Golghar, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Golghar",
+    "latitude": 26.7559251,
+    "longitude": 83.3732146,
+    "place_id": "ChIJnZCa7OZFkTkRBsMbaqF8GuA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnZCa7OZFkTkRBsMbaqF8GuA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:51:38"
+  },
+  {
+    "business_name": "Irfan Services Center",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop, Motorcycle parts store",
+    "pincode": "273012",
+    "phone_number": "+91 93368 81943",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": 2,
+    "address": "Sumer Sagar, Raj, Sumer Sagar, Raj Cinema Road, Cinema Rd, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Bashratpur",
+    "latitude": 26.7580368,
+    "longitude": 83.3688135,
+    "place_id": "ChIJfQkc3WdEkTkRxF-_za6cV1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfQkc3WdEkTkRxF-_za6cV1g",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:51:40"
+  }
+]

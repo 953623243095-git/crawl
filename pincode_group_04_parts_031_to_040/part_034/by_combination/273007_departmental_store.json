@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Singh Multi Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store, Outdoor sports store, Stationery store",
+    "pincode": "273007",
+    "phone_number": "+91 94541 06642",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "159K, Road, Janagal Bahadur Ali, Shivpuri Colony, Moharipur, Sanjhai, Gorakhpur, Uttar Pradesh 273007",
+    "area": "Shivpuri Colony, Moharipur",
+    "latitude": 26.8133752,
+    "longitude": 83.34210019999999,
+    "place_id": "ChIJz7UYD3BFkTkRc0-nj_OoMrE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz7UYD3BFkTkRc0-nj_OoMrE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:43:01"
+  },
+  {
+    "business_name": "RCM Store (Quick)",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "273007",
+    "phone_number": "+91 96280 10703",
+    "website": "https://www.rcmworld.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Star Wonder World Quick, Road To Vikas Nagar, behind Hanuman Mandir, Chauk, Bargadwa, Gorakhpur, Uttar Pradesh 273007",
+    "area": "Chauk, Bargadwa",
+    "latitude": 26.805148199999998,
+    "longitude": 83.3530062,
+    "place_id": "ChIJZZlG3PVFkTkRLGajsyih-BU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZZlG3PVFkTkRLGajsyih-BU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:43:03"
+  }
+]

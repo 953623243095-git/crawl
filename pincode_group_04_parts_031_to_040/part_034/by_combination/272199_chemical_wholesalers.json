@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aman Enterprises",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Industrial chemicals wholesaler",
+    "all_categories": "Industrial chemicals wholesaler",
+    "pincode": "272199",
+    "phone_number": "+91 82874 76252",
+    "website": "https://www.amanenterprises.in/",
+    "rating": 4.5,
+    "reviews_count": 12,
+    "address": "B Big Jos Tower, Pitampura, Netaji Subhash Place, NSP Delhi, Delhi, 110034",
+    "area": "Netaji Subhash Place, NSP Delhi",
+    "latitude": 28.6915651,
+    "longitude": 77.14884219999999,
+    "place_id": "ChIJRx0vVPoDDTkR1duxaT3OJAY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRx0vVPoDDTkR1duxaT3OJAY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:07:11"
+  },
+  {
+    "business_name": "Nihal Chand And Sons",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer, Metal supplier",
+    "pincode": "272199",
+    "phone_number": "+91 161 253 0245",
+    "website": "https://www.indiamart.com/nihal-chand-sons/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nirankari Kucha Number 1, Oswal St, Niran Kari Nagar, Miller Ganj, Ludhiana, Punjab 141003",
+    "area": "Niran Kari Nagar, Miller Ganj",
+    "latitude": 30.8978929,
+    "longitude": 75.860849,
+    "place_id": "ChIJM5i5EKSDGjkRDqFeWfdMqJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM5i5EKSDGjkRDqFeWfdMqJI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:07:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shahi Darbar Hotal & Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "272203",
+    "phone_number": "+91 95212 54783",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Friends Media Printing, Station Rd, Shivaji Nagar, Naugarh, Tetri Bazar, Uttar Pradesh 272207",
+    "area": "Shivaji Nagar",
+    "latitude": 27.2773081,
+    "longitude": 83.0871378,
+    "place_id": "ChIJa533oNfFljkRI2qElr8hG_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa533oNfFljkRI2qElr8hG_4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:11:25"
+  },
+  {
+    "business_name": "Mirchi Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant, Breakfast restaurant",
+    "pincode": "272203",
+    "phone_number": "+91 77058 53007",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 49,
+    "address": "73HM+3G4, Khajuriya Rd, Khajuriya, Tetri Bazar, Uttar Pradesh 272207",
+    "area": "Khajuriya",
+    "latitude": 27.2776361,
+    "longitude": 83.08384219999999,
+    "place_id": "ChIJyzqQrlTbljkRFRTg8YO12QM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyzqQrlTbljkRFRTg8YO12QM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:11:26"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cafemoon_01",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "272190",
+    "phone_number": "+91 70214 39594",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Gaur waltarganj road, tinich, Sari Kalp, Uttar Pradesh 272163",
+    "area": "tinich",
+    "latitude": 26.883089299999998,
+    "longitude": 82.6479221,
+    "place_id": "ChIJLwNJ8uDJkDkROlXM-q8oS-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLwNJ8uDJkDkROlXM-q8oS-Y",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:54:48"
+  },
+  {
+    "business_name": "Chaudhary cafe and juice corner",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Chinese restaurant",
+    "pincode": "272190",
+    "phone_number": "+91 99673 19881",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Allipur, Narharpur, Uttar Pradesh 271312",
+    "area": "272190",
+    "latitude": 27.059936699999998,
+    "longitude": 82.5292501,
+    "place_id": "ChIJF1MLPABLlzkRHiZyb04xJEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF1MLPABLlzkRHiZyb04xJEg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:54:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raju Motors garage",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Auto machine shop, Car repair and maintenance service",
+    "pincode": "272182",
+    "phone_number": "+91 93143 77702",
+    "website": "https://www.rajucraneservice.com/",
+    "rating": 4.3,
+    "reviews_count": 99,
+    "address": "Near jamna colony,sec-1, Sikar Rd, near beed ka balaji mandir, Radha Govind Colony, Jaipur, Rajasthan 302039",
+    "area": "Jamuna Colony, Radha Govind Colony, Dahar Ka Balaji",
+    "latitude": 26.958398499999998,
+    "longitude": 75.7734349,
+    "place_id": "ChIJVQvBE62zbTkRwWo1jsfTJxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVQvBE62zbTkRwWo1jsfTJxI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:51:50"
+  },
+  {
+    "business_name": "PMNA Crane & Recovery Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane service",
+    "all_categories": "Crane service",
+    "pincode": "272182",
+    "phone_number": "+91 75101 00100",
+    "website": "http://www.pmnacrane.com/",
+    "rating": 4.9,
+    "reviews_count": 3117,
+    "address": "opposite Petrol Pump, P.O, Tirurkad, Perinthalmanna, Keralam 679321",
+    "area": "P.O, Tirurkad",
+    "latitude": 10.984128499999999,
+    "longitude": 76.1877075,
+    "place_id": "ChIJYRfOcYbMpzsRzf4vcHbGRYg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYRfOcYbMpzsRzf4vcHbGRYg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:51:51"
+  }
+]

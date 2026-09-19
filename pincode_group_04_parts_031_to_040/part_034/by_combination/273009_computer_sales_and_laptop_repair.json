@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laptop Repairs",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop",
+    "pincode": "273009",
+    "phone_number": "+91 91206 96395",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Pantaloons, 74, Shahi Market, Golghar, Gorakhpur, Uttar Pradesh 273006",
+    "area": "Shahi Market, Golghar",
+    "latitude": 26.774334399999997,
+    "longitude": 83.38336,
+    "place_id": "ChIJcToTmvlEkTkRAAAA0IWMfUM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcToTmvlEkTkRAAAA0IWMfUM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:48:34"
+  },
+  {
+    "business_name": "M-Tech Computer",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Printer repair service",
+    "all_categories": "Printer repair service",
+    "pincode": "273009",
+    "phone_number": "+91 91987 21212",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 7,
+    "address": "Shahi Road, Phase-2, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Shahi Market, Bashratpur",
+    "latitude": 26.7555391,
+    "longitude": 83.3698569,
+    "place_id": "ChIJ5RNyQWZEkTkRHQwPyjcMwgU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5RNyQWZEkTkRHQwPyjcMwgU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:48:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maurya Medical Store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "272178",
+    "phone_number": "+91 88963 68111",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Munderwa Bazar, Station Rd, Jagdishpur, Uttar Pradesh 272178",
+    "area": "272178",
+    "latitude": 26.7786774,
+    "longitude": 82.9038183,
+    "place_id": "ChIJIUoSL3TYkDkRWwbRqXop74o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIUoSL3TYkDkRWwbRqXop74o",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:48:03"
+  },
+  {
+    "business_name": "UPKAR HEALTHCARE INDIA PVT. LTD.",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier",
+    "pincode": "272178",
+    "phone_number": "+91 98397 08442",
+    "website": "http://www.uhipl.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Anupam vihar colony, UPKAR BHAWAN, Bhitari Rd, Lahartara, Bazardiha, Maheshpur, Varanasi, Uttar Pradesh 221106",
+    "area": "Lahartara, Bazardiha, Maheshpur",
+    "latitude": 25.3165834,
+    "longitude": 82.9612054,
+    "place_id": "ChIJvQdLYQAtjjkRmwWFau2ooZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvQdLYQAtjjkRmwWFau2ooZI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:48:03"
+  }
+]

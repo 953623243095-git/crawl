@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Sai Misthan Bhandar & Jalpan Grih",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Indian sweets shop",
+    "pincode": "273152",
+    "phone_number": "+91 99194 42573",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Kasia - Gorakhpur Rd, Khararaiech Khurd, Uttar Pradesh 273002",
+    "area": "273152",
+    "latitude": 26.7464993,
+    "longitude": 83.49678709999999,
+    "place_id": "ChIJgXskyj9bkTkRRqS58JmcYYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgXskyj9bkTkRRqS58JmcYYs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:04:55"
+  },
+  {
+    "business_name": "Cafebypass",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "273152",
+    "phone_number": "+91 62307 11180",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Suba bazar, bypass, Khorabar, Gorakhpur, Jangalsikari Urf Khoraba, Uttar Pradesh 273010",
+    "area": "Khorabar",
+    "latitude": 26.712137799999997,
+    "longitude": 83.4469245,
+    "place_id": "ChIJ9fkXSaldkTkR-kQnBD3uPEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9fkXSaldkTkR-kQnBD3uPEA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:04:55"
+  }
+]

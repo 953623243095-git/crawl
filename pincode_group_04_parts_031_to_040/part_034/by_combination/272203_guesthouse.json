@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "J.P. Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "272203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "73GQ+M3F, Station Rd, Indira Nagar, Naugarh, Tetri Bazar, Uttar Pradesh 272207",
+    "area": "Indira Nagar",
+    "latitude": 27.2766986,
+    "longitude": 83.0876651,
+    "place_id": "ChIJhUmxBa_EljkRVFkca-ftZ5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhUmxBa_EljkRVFkca-ftZ5A",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:12:27"
+  },
+  {
+    "business_name": "SONA LODGE",
+    "search_category": "Guesthouse",
+    "primary_category": "Building",
+    "all_categories": "Building",
+    "pincode": "272203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sri Ganganagar, Bagiyawa, Jagdishpur Khurd, Uttar Pradesh 272207",
+    "area": "Sri Ganganagar, Bagiyawa",
+    "latitude": 27.2719609,
+    "longitude": 83.08382429999999,
+    "place_id": "ChIJNar2GbLEljkRlehfdZHbbhg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNar2GbLEljkRlehfdZHbbhg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:12:27"
+  }
+]

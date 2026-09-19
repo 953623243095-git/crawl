@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Narayani Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "273008",
+    "phone_number": "+91 88085 51100",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Miya sahab ka hata, Char Fatak Rd, Charfatak, Mohaddipur, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Charfatak, Mohaddipur",
+    "latitude": 26.7539706,
+    "longitude": 83.39930369999999,
+    "place_id": "ChIJsYz9UkpFkTkRvKURZAuPE6I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsYz9UkpFkTkRvKURZAuPE6I",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:45:45"
+  },
+  {
+    "business_name": "Icon Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "273008",
+    "phone_number": "+91 78979 99980",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 43,
+    "address": "Karimnagar Road, Karim Nagar, Rapti Nagar phase 4, Chargawa,, Gorakhpur, Uttar Pradesh 273007",
+    "area": "Karim Nagar, Rapti Nagar phase 4, Chargawa,",
+    "latitude": 26.804993399999997,
+    "longitude": 83.38384219999999,
+    "place_id": "ChIJBfWL0g9FkTkR3TGKzUgc08g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBfWL0g9FkTkR3TGKzUgc08g",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:45:46"
+  }
+]

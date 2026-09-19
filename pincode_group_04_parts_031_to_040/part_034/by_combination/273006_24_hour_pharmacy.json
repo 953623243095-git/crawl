@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shashi Medicals",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "273006",
+    "phone_number": "+91 551 310 5012",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 3,
+    "address": "Q9HM+VRF, Medical College Road, Basharatpur, B Colony Shahpur, Gorakhpur, Uttar Pradesh 273004",
+    "area": "Basharatpur, B Colony Shahpur",
+    "latitude": 26.779699299999997,
+    "longitude": 83.3845537,
+    "place_id": "ChIJBfkWIfxEkTkRGsxEicAJ-ec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBfkWIfxEkTkRGsxEicAJ-ec",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:41:32"
+  },
+  {
+    "business_name": "Sushrut Medical Stores",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "273006",
+    "phone_number": "+91 91693 23646",
+    "website": "http://www.shrivinayakhospital.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shri Vinayak Hospital, 42, Jail Rd, Shahpur, Gorakhpur, Uttar Pradesh 273006",
+    "area": "Shahpur",
+    "latitude": 26.7703723,
+    "longitude": 83.38367439999999,
+    "place_id": "ChIJuz7LOfdEkTkRb49FFTM4WZ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuz7LOfdEkTkRb49FFTM4WZ0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:41:32"
+  }
+]

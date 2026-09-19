@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swastik Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "273010",
+    "phone_number": "+91 94158 55566",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "NH 28, near HP PETROL PUMP, Buddh Vihar Part A, Taramandal, Daudpur, Gorakhpur, Uttar Pradesh 273016",
+    "area": "Buddh Vihar Part A, Taramandal, Daudpur",
+    "latitude": 26.738418499999998,
+    "longitude": 83.37645859999999,
+    "place_id": "ChIJ6yJOfgBDkTkRJ5yu4YlfaGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6yJOfgBDkTkRJ5yu4YlfaGo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:49:14"
+  },
+  {
+    "business_name": "Waterways Restaurant & Banquet Hall",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "273010",
+    "phone_number": "+91 93055 65636",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Siddhartha Enclave Vistar, Rail Vihar Colony Phase 3rd, Taramandal, Gorakhpur, Uttar Pradesh 273017",
+    "area": "Siddhartha Enclave Vistar, Rail Vihar Colony Phase 3rd, Taramandal",
+    "latitude": 26.7231305,
+    "longitude": 83.3946761,
+    "place_id": "ChIJLVWI4IJDkTkRSFt7DfQ9CW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLVWI4IJDkTkRSFt7DfQ9CW0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:49:15"
+  }
+]

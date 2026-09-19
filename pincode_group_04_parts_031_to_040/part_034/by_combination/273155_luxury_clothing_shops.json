@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vogue Venue",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "273155",
+    "phone_number": "+91 85283 78990",
+    "website": "https://www.instagram.com/voguevenue04/profilecard/?igsh=MWh6b3U2dXZkNXowcw==",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "Vogue Venue, Padri, Maharajganj, Uttar Pradesh 273303",
+    "area": "Padri",
+    "latitude": 27.1411475,
+    "longitude": 83.5648916,
+    "place_id": "ChIJBRhaQQCpljkRoiufpqSg-3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBRhaQQCpljkRoiufpqSg-3Q",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:07:02"
+  },
+  {
+    "business_name": "Nice Fashion",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store",
+    "pincode": "273155",
+    "phone_number": "+91 97936 17708",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Lohia Nagar, Bismil Nagar, Maharajganj, Uttar Pradesh 273303",
+    "area": "Lohia Nagar, Bismil Nagar",
+    "latitude": 27.1445862,
+    "longitude": 83.5622514,
+    "place_id": "ChIJGdzOxWmpljkRPzMSPK5CDqI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGdzOxWmpljkRPzMSPK5CDqI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:07:05"
+  }
+]

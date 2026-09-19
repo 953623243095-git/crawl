@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Spartan",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "273152",
+    "phone_number": "+91 91299 91489",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 105,
+    "address": "Siddhi vinayak complex, Chauri Chaura, Uttar Pradesh 273201",
+    "area": "273152",
+    "latitude": 26.6461969,
+    "longitude": 83.5822682,
+    "place_id": "ChIJ-Ti99OlhkTkR4ubyjms7zEs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Ti99OlhkTkR4ubyjms7zEs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:05:19"
+  },
+  {
+    "business_name": "D.s Fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "273152",
+    "phone_number": "+91 63940 29110",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 60,
+    "address": "gallant ispat limited, Near, sahjnwa NH 27, Rahimabad Khas, Uttar Pradesh 273209",
+    "area": "273152",
+    "latitude": 26.753462,
+    "longitude": 83.1995118,
+    "place_id": "ChIJ0fMcMu85kTkRCZ30AliTkr8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0fMcMu85kTkRCZ30AliTkr8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:05:19"
+  }
+]

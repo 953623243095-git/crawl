@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tea Shop",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "272204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 4,
+    "address": "9X69+9HF, Unnamed Road, Santora, Uttar Pradesh 272204",
+    "area": "272204",
+    "latitude": 27.360935899999998,
+    "longitude": 82.96891269999999,
+    "place_id": "ChIJmR-0KiPeljkRLrp-4Efdnco",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmR-0KiPeljkRLrp-4Efdnco",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:13:23"
+  },
+  {
+    "business_name": "Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "272204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": 3,
+    "address": "8WV2+8P2, Unnamed Road, Chaukhariya, Sirsiya Raja, Uttar Pradesh 272205",
+    "area": "272204",
+    "latitude": 27.343273,
+    "longitude": 82.9017763,
+    "place_id": "ChIJAQiInsYhlzkRkgNTwLpeY0s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQiInsYhlzkRkgNTwLpeY0s",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:13:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dosa Corner",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Breakfast restaurant",
+    "pincode": "273005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "P9W4+HVF, Bade Kajipur, Gorakhpur, Uttar Pradesh 273005",
+    "area": "Bade Kajipur",
+    "latitude": 26.7464352,
+    "longitude": 83.3571674,
+    "place_id": "ChIJjc-NTg1EkTkRU39rHe6An1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjc-NTg1EkTkRU39rHe6An1E",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:39:17"
+  },
+  {
+    "business_name": "MADRAS CAFE",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "273005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SHOP NO. -8, DP COMPLEX, Qazipur Khurd, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Qazipur Khurd",
+    "latitude": 26.7449259,
+    "longitude": 83.3656519,
+    "place_id": "ChIJU5bRTa1FkTkR7YnMZcYP5l4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU5bRTa1FkTkR7YnMZcYP5l4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:39:19"
+  }
+]

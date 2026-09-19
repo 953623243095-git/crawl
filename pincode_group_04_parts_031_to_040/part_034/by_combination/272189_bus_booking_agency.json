@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "National Travels Bus Services",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "272189",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G12, Near HP Gas Agency Mahuwa Bazaar, Uttar Pradesh 272189",
+    "area": "272189",
+    "latitude": 27.194956899999998,
+    "longitude": 82.5265285,
+    "place_id": "ChIJhcYPEwBHlzkRLmOfTLmzHn8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhcYPEwBHlzkRLmOfTLmzHn8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:53:30"
+  },
+  {
+    "business_name": "Mayank Bus service",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus company",
+    "all_categories": "Bus company",
+    "pincode": "272189",
+    "phone_number": "+91 78005 64141",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Barhni Road, near Talab, Domariyaganj, Dumaria Ganj, Uttar Pradesh 272189",
+    "area": "272189",
+    "latitude": 27.2054102,
+    "longitude": 82.6551288,
+    "place_id": "ChIJD7WqXVw7lzkRNGX2utJor3E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD7WqXVw7lzkRNGX2utJor3E",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:53:30"
+  }
+]

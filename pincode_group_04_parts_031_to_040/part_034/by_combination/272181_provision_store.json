@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prakash Provision Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "272181",
+    "phone_number": "+91 99196 28655",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kali Mandir, 12 station Road, Station Road, Basti Khas, Basti, Uttar Pradesh 272001",
+    "area": "Basti Khas",
+    "latitude": 26.814868999999998,
+    "longitude": 82.7671969,
+    "place_id": "ChIJX6EpfGXQkDkRAAAAMPWPdTM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX6EpfGXQkDkRAAAAMPWPdTM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:49:20"
+  },
+  {
+    "business_name": "Sunil provision store",
+    "search_category": "Provision Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "272181",
+    "phone_number": "+91 96512 88355",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Babhnan - Mankapur Rd, opposite Police chowki, Babhnan, Uttar Pradesh 271313",
+    "area": "272181",
+    "latitude": 26.9380873,
+    "longitude": 82.498289,
+    "place_id": "ChIJpbzHcDq1kDkRQ_RFCrUgUgk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpbzHcDq1kDkRQ_RFCrUgUgk",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:49:21"
+  }
+]

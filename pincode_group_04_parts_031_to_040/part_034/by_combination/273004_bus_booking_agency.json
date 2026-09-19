@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Varun Tours and Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Airline ticket agency",
+    "all_categories": "Airline ticket agency, Bus ticket agency, Money transfer service, Railway Ticket Agent",
+    "pincode": "273004",
+    "phone_number": "+91 91610 66664",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 41,
+    "address": "ANSARI ROAD, near Shukla Medical Store, Jatepur North, Gorakhpur, Uttar Pradesh 273015",
+    "area": "Jatepur North",
+    "latitude": 26.769553799999997,
+    "longitude": 83.3630551,
+    "place_id": "ChIJ5exey7RFkTkRqGO3wBT2-s8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5exey7RFkTkRqGO3wBT2-s8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:37:52"
+  },
+  {
+    "business_name": "Varun Trips",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Airline ticket agency",
+    "all_categories": "Airline ticket agency, Bus ticket agency, Hotel, Tour operator, Railway Ticket Agent, Travel agency",
+    "pincode": "273004",
+    "phone_number": "+91 91610 66664",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 16,
+    "address": "237, Ansari Rd, Jatepur North, Gorakhpur, Uttar Pradesh 273015",
+    "area": "Jatepur North",
+    "latitude": 26.769625599999998,
+    "longitude": 83.3629452,
+    "place_id": "ChIJWfY5NnhEkTkRg2eBNGvk6gM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWfY5NnhEkTkRg2eBNGvk6gM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:37:52"
+  }
+]

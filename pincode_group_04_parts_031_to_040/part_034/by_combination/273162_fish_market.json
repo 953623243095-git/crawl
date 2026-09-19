@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baki",
+    "search_category": "Fish Market",
+    "primary_category": "Farmers' market",
+    "all_categories": "Farmers' market",
+    "pincode": "273162",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "796X+8MV, Laxmipur, Uttar Pradesh 273162",
+    "area": "273162",
+    "latitude": 27.2608581,
+    "longitude": 83.3991855,
+    "place_id": "ChIJHXK9ZAC7ljkR7TpM1rQ7Rmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHXK9ZAC7ljkR7TpM1rQ7Rmw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:14:12"
+  },
+  {
+    "business_name": "Chaudhary fish farming",
+    "search_category": "Fish Market",
+    "primary_category": "Fish & chips restaurant",
+    "all_categories": "Fish & chips restaurant",
+    "pincode": "273162",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "58XR+6JJ, Agaya, Uttar Pradesh 273162",
+    "area": "273162",
+    "latitude": 27.1980881,
+    "longitude": 83.3415137,
+    "place_id": "ChIJQ1gHLwCxljkRyrht5A6MYSE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ1gHLwCxljkRyrht5A6MYSE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:14:14"
+  }
+]

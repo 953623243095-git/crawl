@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHAAT KA CHASKA",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "273008",
+    "phone_number": "+91 78389 38556",
+    "website": "https://chaatkachaska.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "3RD FLOOR, ORION MALL, Mohaddipur, Gorakhpur, Uttar Pradesh 273008",
+    "area": "Mohaddipur",
+    "latitude": 26.749629799999997,
+    "longitude": 83.4008023,
+    "place_id": "ChIJnT4Z7v5FkTkRyNaGDMYG4XA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnT4Z7v5FkTkRyNaGDMYG4XA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:45:19"
+  },
+  {
+    "business_name": "KFC",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Chicken restaurant, Restaurant, Fried chicken takeaway, Non Vegetarian Restaurant",
+    "pincode": "273008",
+    "phone_number": "+91 79 4272 7096",
+    "website": "https://restaurants.kfc.co.in/kfc-mohhadipur-restaurants-mohhadipur-gorakhpur-79897/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Shop No 2, Gr Flr, Orion Mall, Mohaddipur, Gorakhpur, Uttar Pradesh 273008",
+    "area": "Mohaddipur",
+    "latitude": 26.749703399999998,
+    "longitude": 83.4007202,
+    "place_id": "ChIJ13InPslFkTkRrhVZjVX1Vwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ13InPslFkTkRrhVZjVX1Vwo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:45:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Happy Pets",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "273007",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Mirzapur Pachpedwa, Gorakhpur, Uttar Pradesh 273015",
+    "area": "Mirzapur Pachpedwa",
+    "latitude": 26.7748763,
+    "longitude": 83.3606982,
+    "place_id": "ChIJReDjQEZFkTkR2LLSe1xFR88",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJReDjQEZFkTkR2LLSe1xFR88",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:43:07"
+  },
+  {
+    "business_name": "R. K. AGROVET PHARMACEUTICALS",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company",
+    "pincode": "273007",
+    "phone_number": "+91 94159 85195",
+    "website": "https://rkagrovetpharma.com/",
+    "rating": 4.9,
+    "reviews_count": 11,
+    "address": "D-5 SECTOR 15 GIDA, Sahjanwa, Uttar Pradesh 273209",
+    "area": "GIDA Industrial Area Phase 1",
+    "latitude": 26.742012799999998,
+    "longitude": 83.22847999999999,
+    "place_id": "ChIJ0aWvgXI5kTkRdZyrIyNWDAQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0aWvgXI5kTkRdZyrIyNWDAQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:43:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chemould CoLab",
+    "search_category": "Exhibitions",
+    "primary_category": "Art gallery",
+    "all_categories": "Art gallery",
+    "pincode": "272182",
+    "phone_number": "+91 22 2200 0211",
+    "website": "https://www.gallerychemould.com/chemouldcolab/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "2nd floor, Flat no 8, Sugra Manzil, BEST Marg, Colaba, Mumbai, Maharashtra 400001",
+    "area": "Apollo Bandar, Colaba",
+    "latitude": 18.921519099999998,
+    "longitude": 72.83157,
+    "place_id": "ChIJmZ93SrjR5zsRnjcpyg4O2Uc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmZ93SrjR5zsRnjcpyg4O2Uc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:52:42"
+  },
+  {
+    "business_name": "ERAVATI EXHIBITION",
+    "search_category": "Exhibitions",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "272182",
+    "phone_number": "+91 93777 76777",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "1, Krushna Kunj, Maheshwari Bhavan, City Light Rd, Athwa, Surat, Gujarat 395007",
+    "area": "Athwa",
+    "latitude": 21.168812199999998,
+    "longitude": 72.79542049999999,
+    "place_id": "ChIJ_XZyGShN4DsRxQmMfGkYQr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_XZyGShN4DsRxQmMfGkYQr4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:52:42"
+  }
+]

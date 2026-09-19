@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kenal and pet shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store",
+    "pincode": "272190",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VP56+M5F, Harriya, Baheria, Uttar Pradesh 272002",
+    "area": "272190",
+    "latitude": 26.859183299999998,
+    "longitude": 82.7104337,
+    "place_id": "ChIJVVVVVUbOkDkRBwMXvWK1VwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVUbOkDkRBwMXvWK1VwM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:54:41"
+  },
+  {
+    "business_name": "Shyam tiger cattle",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "272190",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VQX7+7CJ ALOK FARM HOUSE, APJ Abdul Kalam Marg, Sariya, Uttar Pradesh 272002",
+    "area": "272190",
+    "latitude": 26.8981623,
+    "longitude": 82.7635102,
+    "place_id": "ChIJp0wQYgDTkDkRaDsEEGYVVc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp0wQYgDTkDkRaDsEEGYVVc8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:54:41"
+  }
+]

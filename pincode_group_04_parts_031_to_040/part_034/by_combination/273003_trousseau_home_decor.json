@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Carpet House",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Carpet store",
+    "all_categories": "Carpet store, Flooring store",
+    "pincode": "273003",
+    "phone_number": "+91 94155 52401",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Ansari Road Behind Gorakhnath Thane, Gorakhnath, Gorakhpur, Uttar Pradesh 273015",
+    "area": "Gorakhnath",
+    "latitude": 26.770751299999997,
+    "longitude": 83.35897469999999,
+    "place_id": "ChIJiz-s30dEkTkRmY2hyKbvRJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiz-s30dEkTkRmY2hyKbvRJI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:36:20"
+  },
+  {
+    "business_name": "Kamal Enterprises",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Mattress store",
+    "all_categories": "Mattress store",
+    "pincode": "273003",
+    "phone_number": "+91 94151 95805",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Geeta Vatika Rd, Railway Dairy Colony, Shahpur, Gorakhpur, Uttar Pradesh 273012",
+    "area": "Railway Dairy Colony, Shahpur",
+    "latitude": 26.7698198,
+    "longitude": 83.382615,
+    "place_id": "ChIJO7kTB_dEkTkRU8057TTLoBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO7kTB_dEkTkRU8057TTLoBA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:36:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RSV REGENCY",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "272189",
+    "phone_number": "+91 91618 79361",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "PLOT NO. 410, GANDHINAGAR, AMAYA DEVARIYA, Utraula, Purainia Jat, Uttar Pradesh 271604",
+    "area": "GANDHINAGAR, AMAYA DEVARIYA",
+    "latitude": 27.3217093,
+    "longitude": 82.4038644,
+    "place_id": "ChIJWaMpCyhDlzkRYydcjp-XeY0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWaMpCyhDlzkRYydcjp-XeY0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:53:53"
+  },
+  {
+    "business_name": "ROYAL INN HOTEL",
+    "search_category": "Hotel",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house, Cafe, Extended stay hotel, Hotel, Lodge, Wellness hotel",
+    "pincode": "272189",
+    "phone_number": "+91 89600 81110",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "2nd Floor, Bakers & Pizza, Of Royal, Utraula, Purainia Jat, Uttar Pradesh 271604",
+    "area": "272189",
+    "latitude": 27.3124102,
+    "longitude": 82.4103047,
+    "place_id": "ChIJ7edZwhNDlzkRq7jyCSWMPBM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7edZwhNDlzkRq7jyCSWMPBM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:53:53"
+  }
+]

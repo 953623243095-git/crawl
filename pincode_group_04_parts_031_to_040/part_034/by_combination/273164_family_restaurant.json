@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Modanwal Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "273164",
+    "phone_number": "+91 94508 84879",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 80,
+    "address": "CCWP+JW9, Kunserwa, Uttar Pradesh 273164",
+    "area": "273164",
+    "latitude": 27.4465433,
+    "longitude": 83.43735149999999,
+    "place_id": "ChIJ14bfHbOZljkRrFrZ2VQhTWw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ14bfHbOZljkRrFrZ2VQhTWw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:18:08"
+  },
+  {
+    "business_name": "The Lemongrass Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "273164",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "GF63+2V3, Siddharthanagar, Lumbini Province 32900, Nepal",
+    "area": "273164",
+    "latitude": 27.510015199999998,
+    "longitude": 83.454666,
+    "place_id": "ChIJm9HwdDealjkR4Zk0k9MWDPk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm9HwdDealjkR4Zk0k9MWDPk",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:18:10"
+  }
+]

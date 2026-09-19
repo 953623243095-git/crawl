@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SBI Branch Munderwa",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Bank",
+    "all_categories": "Bank",
+    "pincode": "272178",
+    "phone_number": "+91 1800 1234",
+    "website": "https://bank.sbi/",
+    "rating": 2.5,
+    "reviews_count": 10,
+    "address": "Dist:Basti, Parasi, Uttar Pradesh 272178",
+    "area": "Dist:Basti",
+    "latitude": 26.726001999999998,
+    "longitude": 82.919281,
+    "place_id": "ChIJm6tUznXYkDkRfBCvHwRUlEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm6tUznXYkDkRfBCvHwRUlEE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:48:55"
+  },
+  {
+    "business_name": "AA2 MUTUL HELP FOUNDATION",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant",
+    "pincode": "272178",
+    "phone_number": "+91 97615 85314",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ugrahu Must, Santi Kunj, Gagalheri, Uttar Pradesh 247669",
+    "area": "Santi Kunj",
+    "latitude": 29.973588699999997,
+    "longitude": 77.65699049999999,
+    "place_id": "ChIJCRcYvFLHDjkRnQrpYC-rd8o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCRcYvFLHDjkRnQrpYC-rd8o",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:48:55"
+  }
+]

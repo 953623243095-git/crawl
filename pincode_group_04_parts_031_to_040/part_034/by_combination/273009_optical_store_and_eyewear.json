@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sitapur Chasma Centre",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Sunglasses store",
+    "all_categories": "Sunglasses store, Optical Wholesaler",
+    "pincode": "273009",
+    "phone_number": "+91 99195 41158",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop No. 2, Opp. Sitapur Eye Hospital, Park Rd, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Bilandpur",
+    "latitude": 26.7532541,
+    "longitude": 83.37731889999999,
+    "place_id": "ChIJBdD3PGJEkTkRZJp8lJXWAm4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBdD3PGJEkTkRZJp8lJXWAm4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:47:33"
+  },
+  {
+    "business_name": "OpticoMart",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Contact lenses supplier, Eye care center",
+    "pincode": "273009",
+    "phone_number": "+91 77383 73570",
+    "website": "http://www.opticomart.com/",
+    "rating": 5,
+    "reviews_count": 22,
+    "address": "Shastri Chowk, church complex, Raiganj, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Raiganj",
+    "latitude": 26.7470473,
+    "longitude": 83.3694956,
+    "place_id": "ChIJD0COPuRFkTkR1k3mJQxYLwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD0COPuRFkTkR1k3mJQxYLwI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:47:34"
+  }
+]

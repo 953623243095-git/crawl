@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om vastralaya",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "273016",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "M9QW+6M3, rod, Hakkabad, Gorakhpur, Bisunpur Buzurg, Uttar Pradesh 273016",
+    "area": "Hakkabad",
+    "latitude": 26.687920899999998,
+    "longitude": 83.3967826,
+    "place_id": "ChIJ1_UYSQBDkTkRnfO6di3GWww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1_UYSQBDkTkRnfO6di3GWww",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:59:21"
+  },
+  {
+    "business_name": "Libaas Point",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing wholesaler",
+    "all_categories": "Clothing wholesaler",
+    "pincode": "273016",
+    "phone_number": "+91 70800 01337",
+    "website": "http://www.libaaspoint.odoo.com/",
+    "rating": 5,
+    "reviews_count": 39,
+    "address": "Ameen Chowk, Shakti Nagar Colony, Gorakhpur, Uttar Pradesh 273016",
+    "area": "Shakti Nagar Colony",
+    "latitude": 26.715794499999998,
+    "longitude": 83.37604929999999,
+    "place_id": "ChIJ9ReHbndFkTkRuDQwTWh9JBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ReHbndFkTkRuDQwTWh9JBU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:59:22"
+  }
+]

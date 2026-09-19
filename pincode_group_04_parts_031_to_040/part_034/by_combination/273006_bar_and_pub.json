@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Purnima Wholesale Liquor Store",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "273006",
+    "phone_number": "078-590280",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "HQ3R+5FP Radhakrishna mandir, Bardaghat, Lumbini Province 33007, Nepal",
+    "area": "273006",
+    "latitude": 27.552973299999998,
+    "longitude": 83.79118059999999,
+    "place_id": "ChIJJ37LAQA7lDkR7708zgUHGJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ37LAQA7lDkR7708zgUHGJI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:41:23"
+  },
+  {
+    "business_name": "Plan B Lounge & Cafe",
+    "search_category": "Bar and Pub",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "273006",
+    "phone_number": "+91 73552 34745",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 106,
+    "address": "Jail Bypass Rd, in front of UM Bike Showroom, Bichhiya Railway Colony, Gorakhpur, Uttar Pradesh 273014",
+    "area": "Bichhiya Railway Colony",
+    "latitude": 26.773437899999998,
+    "longitude": 83.3968725,
+    "place_id": "ChIJr2uLifFFkTkRyj-F4jaZ5ik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr2uLifFFkTkRyj-F4jaZ5ik",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:41:24"
+  }
+]

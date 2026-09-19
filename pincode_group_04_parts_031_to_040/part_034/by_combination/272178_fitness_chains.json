@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VK FITNESS",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "272178",
+    "phone_number": "+91 70171 06874",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "62JW+3GQ, Radha raman road, near hansh kuti ashram, Narayanpur, Mainpuri, Akundaiya, Uttar Pradesh 205001",
+    "area": "Narayanpur",
+    "latitude": 27.230216,
+    "longitude": 79.04635929999999,
+    "place_id": "ChIJMbNSegCXdTkR37PvQ5VYi_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMbNSegCXdTkR37PvQ5VYi_M",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:48:07"
+  },
+  {
+    "business_name": "RB Fitness Club",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "272178",
+    "phone_number": "+91 70175 71174",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "near Pathak Hospital, Devpura, Banshi Gohara, Mainpuri, Devpura Dehat, Uttar Pradesh 205001",
+    "area": "Devpura, Banshi Gohara",
+    "latitude": 27.230252699999998,
+    "longitude": 79.0386788,
+    "place_id": "ChIJwQBPd6eXdTkRvllf_taH4Ps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwQBPd6eXdTkRvllf_taH4Ps",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:48:07"
+  }
+]

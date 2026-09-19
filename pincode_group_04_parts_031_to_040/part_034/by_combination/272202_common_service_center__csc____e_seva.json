@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "C S C Kendra",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services",
+    "pincode": "272202",
+    "phone_number": "+91 73790 04642",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "11, Gonda, Uttar Pradesh 271003",
+    "area": "Azad Nagar",
+    "latitude": 27.135264799999998,
+    "longitude": 81.95735739999999,
+    "place_id": "ChIJfegJ303vmTkRmAoCDW919go",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfegJ303vmTkRmAoCDW919go",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:10:39"
+  },
+  {
+    "business_name": "Common Service Center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "272202",
+    "phone_number": "+91 98392 59598",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khaira Bag_, near Prathamik Vidhyalaya, Bargaon, Semra Damman, Gonda, Uttar Pradesh 271002",
+    "area": "Bargaon, Semra Damman",
+    "latitude": 27.1632121,
+    "longitude": 81.9718152,
+    "place_id": "ChIJl4cB5a_vmTkRknjXbT7ls20",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl4cB5a_vmTkRknjXbT7ls20",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:10:39"
+  }
+]

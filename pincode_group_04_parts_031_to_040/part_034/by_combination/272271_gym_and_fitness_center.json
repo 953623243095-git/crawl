@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A.S FITNESS CLUB",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Fitness center, Physical fitness program",
+    "pincode": "272271",
+    "phone_number": "+91 88407 74354",
+    "website": "https://kingworkout.weebly.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "banda choraha, Kabrai, Uttar Pradesh 210424",
+    "area": "272271",
+    "latitude": 25.408386099999998,
+    "longitude": 80.0018075,
+    "place_id": "ChIJGWMbwAAtnTkRhUpQapCBWdA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGWMbwAAtnTkRhUpQapCBWdA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:25:06"
+  },
+  {
+    "business_name": "Delhi Fitness Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "272271",
+    "phone_number": "+91 78278 92197",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 27,
+    "address": "Qaziyara, Khairabad, Sultanpur, Uttar Pradesh 261131",
+    "area": "Qaziyara",
+    "latitude": 26.2554607,
+    "longitude": 82.07116429999999,
+    "place_id": "ChIJqc9tWCbVnjkRvH4ZgSvPZ0M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqc9tWCbVnjkRvH4ZgSvPZ0M",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:25:07"
+  }
+]

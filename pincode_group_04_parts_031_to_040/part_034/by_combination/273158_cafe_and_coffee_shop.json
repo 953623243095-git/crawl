@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "COFFEE TIME",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Pizza takeaway, Ice cream shop",
+    "pincode": "273158",
+    "phone_number": "+91 94506 99151",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 275,
+    "address": "COFFEE TIME Sonauli Road Near Saturday Market Moharipur Bazar, Uttar Pradesh 273007",
+    "area": "Moharipur",
+    "latitude": 26.815113,
+    "longitude": 83.35030859999999,
+    "place_id": "ChIJ-zFb2glFkTkRgkJJGf-hfac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-zFb2glFkTkRgkJJGf-hfac",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:10:38"
+  },
+  {
+    "business_name": "T-POINT",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "273158",
+    "phone_number": "+91 63071 25279",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "27FF+V45, Gorakhpur - Sonauli Rd, Campirganj, Uttar Pradesh 273158",
+    "area": "273158",
+    "latitude": 27.0246459,
+    "longitude": 83.272865,
+    "place_id": "ChIJ62keUQC1ljkRjs9hwRmhd7w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ62keUQC1ljkRjs9hwRmhd7w",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:10:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ransh Traders",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Business to business service",
+    "all_categories": "Business to business service, Building materials store",
+    "pincode": "273008",
+    "phone_number": "+91 63920 10012",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1, Bichhiya Railway Colony, Gorakhpur, Uttar Pradesh 273014",
+    "area": "Bichhiya Railway Colony",
+    "latitude": 26.7727634,
+    "longitude": 83.40623459999999,
+    "place_id": "ChIJ_XfCy-ZFkTkRxQXlpLK8RfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_XfCy-ZFkTkRxQXlpLK8RfE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:45:58"
+  },
+  {
+    "business_name": "RM Trading Company",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Building materials market",
+    "all_categories": "Building materials market",
+    "pincode": "273008",
+    "phone_number": "+91 94558 67486",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "P98P+FG4, New Colony, Kajakpur, Gorakhpur, Uttar Pradesh 273016",
+    "area": "New Colony",
+    "latitude": 26.7161296,
+    "longitude": 83.3863209,
+    "place_id": "ChIJo8kHBnNDkTkRoiFNV8Z1ess",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo8kHBnNDkTkRoiFNV8Z1ess",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:45:58"
+  }
+]

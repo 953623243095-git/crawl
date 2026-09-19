@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayushi's home",
+    "search_category": "Doctors",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "272208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "52JV+H9, Harani Khurd, Uttar Pradesh 272208",
+    "area": "272208",
+    "latitude": 27.1825573,
+    "longitude": 83.0433528,
+    "place_id": "ChIJ_UckHgDRljkR5H4PthrF0ik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_UckHgDRljkR5H4PthrF0ik",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:21:11"
+  },
+  {
+    "business_name": "Vrihad Bhed Prajnan Prechetra Bhesoda Nogad Chandroli",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "272208",
+    "phone_number": "+91 97936 76995",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Ajigara Pul, 1, To, Uski, Uttar Pradesh 272208",
+    "area": "272208",
+    "latitude": 27.1690099,
+    "longitude": 83.0919388,
+    "place_id": "ChIJwZLG20HPljkRJlPV3eiLm3M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwZLG20HPljkRJlPV3eiLm3M",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:21:11"
+  }
+]

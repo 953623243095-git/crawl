@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nangalia Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Endocrinologist, Obstetrician-gynecologist, Gynecologist, Internal medicine ward, Maternity Centre, Neurosurgeon, Orthopedic surgeon, Physiotherapy Center, Private hospital",
+    "pincode": "273005",
+    "phone_number": "+91 551 233 2095",
+    "website": "https://nangaliahospital.com/",
+    "rating": 3.7,
+    "reviews_count": 215,
+    "address": "Verma Colony, Raiganj, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Verma Colony, Raiganj",
+    "latitude": 26.7409656,
+    "longitude": 83.3642028,
+    "place_id": "ChIJgbRduHZEkTkRm5rvn2f0dQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgbRduHZEkTkRm5rvn2f0dQw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:39:35"
+  },
+  {
+    "business_name": "SAVITRI HOSPITAL",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "273005",
+    "phone_number": "+91 77540 01153",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 244,
+    "address": "Bashratpur, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Bashratpur",
+    "latitude": 26.758346699999997,
+    "longitude": 83.36483919999999,
+    "place_id": "ChIJn0u2zJ9FkTkRNJzfDfG6XS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn0u2zJ9FkTkRNJzfDfG6XS4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:39:35"
+  }
+]

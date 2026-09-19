@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Studio Dygonal - Architecture and interior design",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "273006",
+    "phone_number": "N/A",
+    "website": "https://dygonalworks.carrd.co/",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Awas Vikas, B-279, near Kali Mandir, Shahpur, Gorakhpur, Uttar Pradesh 273006",
+    "area": "Shahpur",
+    "latitude": 26.773289899999998,
+    "longitude": 83.3868075,
+    "place_id": "ChIJQy4gVrZFkTkRkcyxXaHLXiM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQy4gVrZFkTkRkcyxXaHLXiM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:42:01"
+  },
+  {
+    "business_name": "ArcHouse Design & Associates",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect",
+    "pincode": "273006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "RGFF+M3W, Taj Pipra, Uttar Pradesh 273152",
+    "area": "273006",
+    "latitude": 26.824237399999998,
+    "longitude": 83.5227183,
+    "place_id": "ChIJoXJX0IZZkTkRghnY2gnawNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoXJX0IZZkTkRghnY2gnawNc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:42:03"
+  }
+]

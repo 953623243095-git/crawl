@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Golden Gate",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "273165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "W862+554, Gorakhpur - Sonauli Rd, Peppeganj, Bhaiyaram, Uttar Pradesh 273165",
+    "area": "273165",
+    "latitude": 26.9103811,
+    "longitude": 83.30044439999999,
+    "place_id": "ChIJN0q0KQBJkTkRHj4Igct4kGU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN0q0KQBJkTkRHj4Igct4kGU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:19:58"
+  },
+  {
+    "business_name": "Krishna Food Mall Cafe & Restaurant (MIDWAY)",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "273165",
+    "phone_number": "+91 81750 91905",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "opposite Mahanta Avaidhyanath Rajikiya Mahavidhya Jungle Kauria, Gorakhpur - Sonauli Rd, chauraha, Chakia, Jangal Kauria, Uttar Pradesh 273007",
+    "area": "chauraha",
+    "latitude": 26.885447799999998,
+    "longitude": 83.3056012,
+    "place_id": "ChIJgbufcRJJkTkRZFb3Xsn3K3E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgbufcRJJkTkRZFb3Xsn3K3E",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:19:58"
+  }
+]

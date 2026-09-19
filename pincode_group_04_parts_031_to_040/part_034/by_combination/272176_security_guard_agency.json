@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepak Security",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Computer Hardware Company",
+    "all_categories": "Computer Hardware Company",
+    "pincode": "272176",
+    "phone_number": "+91 78008 86947",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Jhankhi Chak Beldoha, Uttar Pradesh 273211",
+    "area": "272176",
+    "latitude": 26.629930299999998,
+    "longitude": 83.1231196,
+    "place_id": "ChIJeZZYZgAXkTkRQ9DbMU0vDRU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeZZYZgAXkTkRQ9DbMU0vDRU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:45:19"
+  },
+  {
+    "business_name": "The Kuntal Security Service",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service",
+    "pincode": "272176",
+    "phone_number": "+91 95889 45860",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "320 321, Shyam Nagar, Bharatpur, Bharatpur Chak 2, Rajasthan 321001",
+    "area": "Shyam Nagar",
+    "latitude": 27.231955199999998,
+    "longitude": 77.5036975,
+    "place_id": "ChIJaYfrYACjczkRd2t1QAyiO1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaYfrYACjczkRd2t1QAyiO1Y",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:45:22"
+  }
+]

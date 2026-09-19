@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri kirana store",
+    "search_category": "Kirana Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "272177",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "post, barahkoni, Parsa, Rampur, Uttar Pradesh 272177",
+    "area": "barahkoni",
+    "latitude": 26.589636799999997,
+    "longitude": 82.87115179999999,
+    "place_id": "ChIJgTgMvT_hkDkRbRmkxG9QBCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgTgMvT_hkDkRbRmkxG9QBCY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:45:40"
+  },
+  {
+    "business_name": "Siddiqui Kirana Store",
+    "search_category": "Kirana Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "272177",
+    "phone_number": "+91 87368 60965",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "GRGW+M4W, Samsuddin Pur, Uttar Pradesh 224143",
+    "area": "272177",
+    "latitude": 26.526701499999998,
+    "longitude": 82.84528189999999,
+    "place_id": "ChIJJUdDNaXhkDkRKnD24a1Ji7E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJUdDNaXhkDkRKnD24a1Ji7E",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:45:40"
+  }
+]

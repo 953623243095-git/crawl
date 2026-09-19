@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Sai Nirog Dham",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "273152",
+    "phone_number": "+91 76518 59325",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "B-230, Idgahi Road, Vidhyak Niwas, Gorakhpur, Uttar Pradesh 273013",
+    "area": "Vidhyak Niwas",
+    "latitude": 26.8135758,
+    "longitude": 83.3980065,
+    "place_id": "ChIJ1WJZKWpFkTkRK0bcqTj8oys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1WJZKWpFkTkRK0bcqTj8oys",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:05:14"
+  },
+  {
+    "business_name": "City Life Care Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "273152",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "273010, Deoria Rd, Khorabar, Gorakhpur, Uttar Pradesh 273010",
+    "area": "Khorabar",
+    "latitude": 26.720619799999998,
+    "longitude": 83.4367149,
+    "place_id": "ChIJp75nIiJdkTkRHVzxAWn6w5I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp75nIiJdkTkRHVzxAWn6w5I",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:05:15"
+  }
+]

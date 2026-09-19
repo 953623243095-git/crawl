@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishwakarma Auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "273152",
+    "phone_number": "+91 63867 57508",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Jungle Dhusan, Uttar Pradesh 273014",
+    "area": "273152",
+    "latitude": 26.791164499999997,
+    "longitude": 83.4307858,
+    "place_id": "ChIJoWDETWRbkTkR-M7jo8eu4Fc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoWDETWRbkTkR-M7jo8eu4Fc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:05:20"
+  },
+  {
+    "business_name": "Sunny Shop",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Garage",
+    "all_categories": "Garage",
+    "pincode": "273152",
+    "phone_number": "+91 95981 33255",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "01, Pipraich, Uttar Pradesh 273152",
+    "area": "273152",
+    "latitude": 26.829354799999997,
+    "longitude": 83.5293575,
+    "place_id": "ChIJbY7RaRZZkTkRjiPw__biiVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbY7RaRZZkTkRjiPw__biiVY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:05:24"
+  }
+]

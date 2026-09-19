@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Supermarket",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "273014",
+    "phone_number": "N/A",
+    "website": "http://www.fastocart.com/",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Padri Bazar, Vishwakarmapuram, Gorakhpur, Jangl Hakeem No2, Uttar Pradesh 273014",
+    "area": "Padri Bazar, Vishwakarmapuram",
+    "latitude": 26.7791705,
+    "longitude": 83.4124978,
+    "place_id": "ChIJA-xDQQBFkTkRLItjtZU5GT4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA-xDQQBFkTkRLItjtZU5GT4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:54:58"
+  },
+  {
+    "business_name": "Shekhar's mart",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "273014",
+    "phone_number": "+91 94533 13699",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Omkar Nagar, Jail Bypass Rd, Padri Bazar, Saraswati Puram, Gorakhpur, Uttar Pradesh 273014",
+    "area": "Padri Bazar, Saraswati Puram",
+    "latitude": 26.7771673,
+    "longitude": 83.4024927,
+    "place_id": "ChIJ92kMut9FkTkRVOlWQrJin1c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ92kMut9FkTkRVOlWQrJin1c",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:54:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Royal Retreat",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "272202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "943W+MXF, Mohana Rd, Chauraha, Shivpati Nagar, Rampur, Uttar Pradesh 272206",
+    "area": "Chauraha",
+    "latitude": 27.3541945,
+    "longitude": 83.1474207,
+    "place_id": "ChIJ_____z_BljkRoymSfIqVC5I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_____z_BljkRoymSfIqVC5I",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:10:27"
+  },
+  {
+    "business_name": "Hotel Aashiana",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Food products supplier",
+    "pincode": "272202",
+    "phone_number": "+91 91257 55755",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "SHEKH Nagar Uska Road Tetari Bazaar Naugarh, Uttar Pradesh 272207",
+    "area": "272202",
+    "latitude": 27.2737582,
+    "longitude": 83.0848803,
+    "place_id": "ChIJ9xm1w6rFljkRLyHsUx4yUN8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9xm1w6rFljkRLyHsUx4yUN8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:10:27"
+  }
+]

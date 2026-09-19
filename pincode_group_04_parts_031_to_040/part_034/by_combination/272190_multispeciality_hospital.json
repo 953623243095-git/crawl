@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Adarsh Hospital Basti",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "272190",
+    "phone_number": "+91 98385 52729",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 15,
+    "address": "RP2V+49W, Ranjeet Collony, Basti, Uttar Pradesh 272001",
+    "area": "Ranjeet Collony",
+    "latitude": 26.8003702,
+    "longitude": 82.7434533,
+    "place_id": "ChIJA5pHnAfQkDkRanfpqDWo4Po",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA5pHnAfQkDkRanfpqDWo4Po",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:55:05"
+  },
+  {
+    "business_name": "VIDYA MEMORIAL HOSPITAL",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "272190",
+    "phone_number": "N/A",
+    "website": "https://vidyamemorialhospital.in/",
+    "rating": 4.7,
+    "reviews_count": 23,
+    "address": "Dwijesh Marg, Pach Pedia, Santpur Urf Gadhakhor, Khiri Ghat, Uttar Pradesh 272001",
+    "area": "Pach Pedia",
+    "latitude": 26.8072801,
+    "longitude": 82.74887079999999,
+    "place_id": "ChIJCcsQ5f7RkDkRKlaiaR1U8QU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCcsQ5f7RkDkRKlaiaR1U8QU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:55:05"
+  }
+]

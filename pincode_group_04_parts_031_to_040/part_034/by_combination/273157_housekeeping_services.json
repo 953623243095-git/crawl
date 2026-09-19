@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hitech Cleaning Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Carpet cleaning service, Cleaning Services, Upholstery cleaning service",
+    "pincode": "273157",
+    "phone_number": "N/A",
+    "website": "https://www.hitechcleaning.com.np/",
+    "rating": 4.9,
+    "reviews_count": 303,
+    "address": "Kathmandu, Bagmati Province 44600, Nepal",
+    "area": "Samakhusi",
+    "latitude": 27.7316365,
+    "longitude": 85.3170749,
+    "place_id": "ChIJQ05HgIoZ6zkRZOm2d71dDLA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ05HgIoZ6zkRZOm2d71dDLA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:10:03"
+  },
+  {
+    "business_name": "RAMESH Sahani",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "273157",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "98VJ+J8F, Dayanagar, Lumbini Province 32900, Nepal",
+    "area": "273157",
+    "latitude": 27.394384199999998,
+    "longitude": 83.330306,
+    "place_id": "ChIJw_mKJQCVljkRMMPjMRLs-S4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw_mKJQCVljkRMMPjMRLs-S4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:10:03"
+  }
+]

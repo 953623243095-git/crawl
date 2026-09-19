@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raswati Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "272177",
+    "phone_number": "+91 90051 28800",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 49,
+    "address": "Sipah, Ramnagar, Uttar Pradesh 224181",
+    "area": "Sahijana Hamjapur",
+    "latitude": 26.4472295,
+    "longitude": 82.9064344,
+    "place_id": "ChIJ5e6VkZDjkDkRsjKemWOJvw8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5e6VkZDjkDkRsjKemWOJvw8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:46:46"
+  },
+  {
+    "business_name": "Baitul Riyaz Guest House",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "272177",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 17,
+    "address": "CQMF+RGV, Ashrafpur Kichhauchha, Uttar Pradesh 224155",
+    "area": "272177",
+    "latitude": 26.4346151,
+    "longitude": 82.77379599999999,
+    "place_id": "ChIJ9acAs2rlkDkRY9rmdADgfrE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9acAs2rlkDkRY9rmdADgfrE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:46:47"
+  }
+]

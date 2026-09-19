@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nirali Boutque",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "273005",
+    "phone_number": "+91 63926 45620",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 17,
+    "address": "1, Geeta Press Rd, Bade Kajipur, Gorakhpur, Uttar Pradesh 273005",
+    "area": "Bade Kajipur",
+    "latitude": 26.7468878,
+    "longitude": 83.3576217,
+    "place_id": "ChIJGYeWchVFkTkRMbsXzlm2MEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGYeWchVFkTkRMbsXzlm2MEw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:39:30"
+  },
+  {
+    "business_name": "Dezire Collection",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "273005",
+    "phone_number": "+91 91180 11812",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 26,
+    "address": "1 Nizampur, Uttar Pradesh 273005",
+    "area": "Hasanganj",
+    "latitude": 26.7536293,
+    "longitude": 83.3501539,
+    "place_id": "ChIJl3imTrJFkTkRhJdNdwpjFqY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl3imTrJFkTkRhJdNdwpjFqY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:39:30"
+  }
+]

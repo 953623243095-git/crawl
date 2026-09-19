@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashok Kumar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "272207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "724F+9X7, Sirasiya, Uttar Pradesh 272207",
+    "area": "272207",
+    "latitude": 27.255920099999997,
+    "longitude": 83.0249091,
+    "place_id": "ChIJPyO7HW_bljkR6lOV8UgL59Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPyO7HW_bljkR6lOV8UgL59Y",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:18:57"
+  },
+  {
+    "business_name": "Azad",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bed & breakfast",
+    "all_categories": "Bed & breakfast",
+    "pincode": "272207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "73PP+5CF, Tetri Bazar Town, Naugarh, Uttar Pradesh 272207",
+    "area": "Tetri Bazar Town",
+    "latitude": 27.2854301,
+    "longitude": 83.0860505,
+    "place_id": "ChIJh5Z2-2DDljkRpMpIc_kob5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh5Z2-2DDljkRpMpIc_kob5s",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:19:00"
+  }
+]

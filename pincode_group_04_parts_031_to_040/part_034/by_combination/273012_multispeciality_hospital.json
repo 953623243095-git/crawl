@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Astromedics Super Speciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "273012",
+    "phone_number": "+91 99361 50495",
+    "website": "https://astromedicshospital.com/",
+    "rating": 4.9,
+    "reviews_count": 45,
+    "address": "ASTROMEDICS SUPER SPECIALITY HOSPITAL, H.P. Dubey Rd, Mahuesugharpur, Betiahata, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Mahuesugharpur, Betiahata",
+    "latitude": 26.7383486,
+    "longitude": 83.3692774,
+    "place_id": "ChIJgS4OLABFkTkRS1h4Qg21Jg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgS4OLABFkTkRS1h4Qg21Jg8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:51:27"
+  },
+  {
+    "business_name": "Providence the multi speciality hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "273012",
+    "phone_number": "N/A",
+    "website": "http://providencefoundationtrust.org/",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "Khowa Mandi Rd, behind Baldev plaza, Golghar, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Golghar",
+    "latitude": 26.753823099999998,
+    "longitude": 83.37140389999999,
+    "place_id": "ChIJ358NTwBFkTkRWawzEeOvFRY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ358NTwBFkTkRWawzEeOvFRY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:51:30"
+  }
+]

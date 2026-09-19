@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BrandUp Digital Marketing",
+    "search_category": "Digital Marketing Agencies",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Internet marketing service",
+    "pincode": "272206",
+    "phone_number": "+91 93155 55367",
+    "website": "https://www.brandupdigital.in/",
+    "rating": 4.6,
+    "reviews_count": 10,
+    "address": "Shop No- 21 , 1st Floor, Millennium Palace, Golf City Rd, Golf City, Sector B Ansal API, Muzaffar Nagar Ghusval, Lucknow, Uttar Pradesh 226030",
+    "area": "Golf City, Sector B Ansal API",
+    "latitude": 26.782322399999998,
+    "longitude": 80.9899519,
+    "place_id": "ChIJCwwO2WflmzkRycpKg46kDWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCwwO2WflmzkRycpKg46kDWo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:18:33"
+  },
+  {
+    "business_name": "JISHA TECH LEARNING",
+    "search_category": "Digital Marketing Agencies",
+    "primary_category": "Website designer",
+    "all_categories": "Website designer",
+    "pincode": "272206",
+    "phone_number": "N/A",
+    "website": "https://jitendra-chaurasiya1.github.io/Dino-game/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Semrahna, Lotan, Uttar Pradesh 272206",
+    "area": "272206",
+    "latitude": 27.290506699999998,
+    "longitude": 83.2494001,
+    "place_id": "ChIJkSWjcPjHljkRqGimdB8xitY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkSWjcPjHljkRqGimdB8xitY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:18:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop, Cafe",
+    "pincode": "273152",
+    "phone_number": "+91 78606 34991",
+    "website": "https://srikrishnasweets.com/",
+    "rating": 4.4,
+    "reviews_count": 10,
+    "address": "0, Sonbarsa, Uttar Pradesh 273002",
+    "area": "273152",
+    "latitude": 26.7389939,
+    "longitude": 83.5851096,
+    "place_id": "ChIJubxE7VFfkTkRZeAPFKfkrrY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJubxE7VFfkTkRZeAPFKfkrrY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:04:52"
+  },
+  {
+    "business_name": "Markandey Misthan & Restaurant",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Bakery and Cake Shop, Indian sweets shop",
+    "pincode": "273152",
+    "phone_number": "+91 77868 26442",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 7,
+    "address": "near Vijay Chowk, Pipraich, Uttar Pradesh 273152",
+    "area": "273152",
+    "latitude": 26.8323929,
+    "longitude": 83.5288825,
+    "place_id": "ChIJ_2SIPQBZkTkRf63-jlAYMBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_2SIPQBZkTkRf63-jlAYMBs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:04:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CSC Centre",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "273157",
+    "phone_number": "+91 91295 37950",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Khairahava Jungal, Uttar Pradesh 273305",
+    "area": "273157",
+    "latitude": 27.395302299999997,
+    "longitude": 83.6522986,
+    "place_id": "ChIJt0l9BeoflDkRQKLeaCWNaTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt0l9BeoflDkRQKLeaCWNaTU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:09:54"
+  },
+  {
+    "business_name": "CSC online Bharat seva Kendra",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "273157",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "683V+6MH, Jhamar, Agaya, Uttar Pradesh 273162",
+    "area": "273157",
+    "latitude": 27.203060599999997,
+    "longitude": 83.3442353,
+    "place_id": "ChIJd5iddd-xljkRO0fzWARHDGs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd5iddd-xljkRO0fzWARHDGs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:09:55"
+  }
+]

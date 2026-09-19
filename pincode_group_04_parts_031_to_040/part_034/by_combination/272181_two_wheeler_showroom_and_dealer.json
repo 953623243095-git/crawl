@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAS HERO",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motor vehicle dealer",
+    "all_categories": "Motor vehicle dealer",
+    "pincode": "272181",
+    "phone_number": "+91 99197 86002",
+    "website": "https://m.facebook.com/sas.hero.babhnan",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ward No 6, Laxmibai Nagar, Babhnan, Uttar Pradesh 271313",
+    "area": "Laxmibai Nagar",
+    "latitude": 26.9392575,
+    "longitude": 82.5061442,
+    "place_id": "ChIJ8wiJJvC0kDkRxn1wLS3bM0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8wiJJvC0kDkRxn1wLS3bM0E",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:49:55"
+  },
+  {
+    "business_name": "V K HONDA",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer",
+    "pincode": "272181",
+    "phone_number": "+91 96489 11083",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Bus stand, Babhnan, Uttar Pradesh 272161",
+    "area": "272181",
+    "latitude": 26.9324867,
+    "longitude": 82.5038819,
+    "place_id": "ChIJp8iI6Ha1kDkRHgAx71K3NSU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp8iI6Ha1kDkRHgAx71K3NSU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:49:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "272205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "FX5V+2PR, Khunwa, Uttar Pradesh 272205",
+    "area": "272205",
+    "latitude": 27.457605899999997,
+    "longitude": 82.9942717,
+    "place_id": "ChIJuX3TRoDnljkRWiVBNrKG_FU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuX3TRoDnljkRWiVBNrKG_FU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:15:16"
+  },
+  {
+    "business_name": "Desi Sharab Ki Dukan",
+    "search_category": "Bar and Pub",
+    "primary_category": "Liquor Shop",
+    "all_categories": "Liquor Shop",
+    "pincode": "272205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 7,
+    "address": "9XW6+9PX Buddhi smarak, near Sheetal Water plant, Shohratgarh, Ganakul, Uttar Pradesh 272205",
+    "area": "272205",
+    "latitude": 27.3959878,
+    "longitude": 82.9618457,
+    "place_id": "ChIJGbHpx-fhljkRXvTq8HfeCP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGbHpx-fhljkRXvTq8HfeCP0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:15:19"
+  }
+]

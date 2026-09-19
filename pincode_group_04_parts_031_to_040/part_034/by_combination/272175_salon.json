@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SATYAM HAIR DRESSER",
+    "search_category": "Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser",
+    "pincode": "272175",
+    "phone_number": "+91 99354 15098",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Khalilabad, Uttar Pradesh 272175",
+    "area": "272175",
+    "latitude": 26.764642499999997,
+    "longitude": 83.0589214,
+    "place_id": "ChIJ1SATON4kkTkRsGisBnb3nvs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1SATON4kkTkRsGisBnb3nvs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:43:03"
+  },
+  {
+    "business_name": "LUCKY SHRINGAR SADAN",
+    "search_category": "Salon",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "272175",
+    "phone_number": "+91 99198 86833",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Q3F8+534, Mukhlishpur Rd, Khalilabad, Uttar Pradesh 272175",
+    "area": "272175",
+    "latitude": 26.772889199999998,
+    "longitude": 83.0652163,
+    "place_id": "ChIJ_zOn8yYlkTkRWyjeaJ9e6rg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_zOn8yYlkTkRWyjeaJ9e6rg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:43:04"
+  }
+]

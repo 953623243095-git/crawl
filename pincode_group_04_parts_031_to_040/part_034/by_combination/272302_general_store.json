@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deen Dayal Hardware",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "272302",
+    "phone_number": "+91 96161 26701",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mane Market, Nagar Bazar Rd, Basti, Nagar Khas, Uttar Pradesh 272302",
+    "area": "272302",
+    "latitude": 26.7297294,
+    "longitude": 82.6789605,
+    "place_id": "ChIJGX4gxx7FkDkRClkB_6T24I4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGX4gxx7FkDkRClkB_6T24I4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:28:43"
+  },
+  {
+    "business_name": "A.k Sound Service basti",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "272302",
+    "phone_number": "+91 83690 89020",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop N 55, Khadaua Chauraha, Nagar Khas, Uttar Pradesh 272302",
+    "area": "272302",
+    "latitude": 26.725277499999997,
+    "longitude": 82.669947,
+    "place_id": "ChIJG-Kc4EjFkDkRBdtdBmBw-vU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG-Kc4EjFkDkRBdtdBmBw-vU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:28:47"
+  }
+]

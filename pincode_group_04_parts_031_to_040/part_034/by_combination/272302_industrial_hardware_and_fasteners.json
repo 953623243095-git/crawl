@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A,K Electricians Hardware",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "272302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "12012 Gam, Rajasthan 322230",
+    "area": "272302",
+    "latitude": 26.818496,
+    "longitude": 76.90302009999999,
+    "place_id": "ChIJPTUfRdc9cjkRYoYxcZVekPo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPTUfRdc9cjkRYoYxcZVekPo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:30:24"
+  },
+  {
+    "business_name": "Fancy Enterprises",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "272302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "6/402A, Sarai Rehman, Raghubir Puri, Aligarh, Uttar Pradesh 202001",
+    "area": "Sarai Rehman, Raghubir Puri",
+    "latitude": 27.890765599999998,
+    "longitude": 78.0678697,
+    "place_id": "ChIJDdCKMOyldDkRX_Y7_b0OW2A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDdCKMOyldDkRX_Y7_b0OW2A",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:30:24"
+  }
+]

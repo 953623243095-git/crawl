@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sana Optical",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "272270",
+    "phone_number": "+91 92107 66529",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 57,
+    "address": "2226, Rajguru Marg, near Hotel Le Benz, Chuna Mandi, Paharganj, New Delhi, Delhi 110055",
+    "area": "Chuna Mandi, Paharganj",
+    "latitude": 28.642791,
+    "longitude": 77.2103237,
+    "place_id": "ChIJVeTJSkL9DDkRfiy4moYprnQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVeTJSkL9DDkRfiy4moYprnQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:22:58"
+  },
+  {
+    "business_name": "Taj Eye Care - Best Optical Shop In Jamia Nagar",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "272270",
+    "phone_number": "+91 99711 46755",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 147,
+    "address": "F39/22, Nisar Masjid Rd, Shaheen Bagh, Jamia Nagar, Okhla, New Delhi, Delhi 110025",
+    "area": "Shaheen Bagh, Jamia Nagar, Okhla",
+    "latitude": 28.5443617,
+    "longitude": 77.3009161,
+    "place_id": "ChIJOzrsohXlDDkR86Dr42yxQ8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOzrsohXlDDkR86Dr42yxQ8c",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:23:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubham Traders",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "273005",
+    "phone_number": "+91 83181 23706",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bade Kajipur, Gorakhpur, Uttar Pradesh 273005",
+    "area": "Bade Kajipur",
+    "latitude": 26.7487542,
+    "longitude": 83.3550589,
+    "place_id": "ChIJhVkxixJEkTkR09QxZ4u3bSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhVkxixJEkTkR09QxZ4u3bSg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:39:10"
+  },
+  {
+    "business_name": "Babloo Traders",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Cake shop, General store",
+    "pincode": "273005",
+    "phone_number": "+91 89530 53798",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Q85W+MQ7, Near Ideal Public Nursery School, Ilahi Bagh, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Ilahi Bagh",
+    "latitude": 26.7591726,
+    "longitude": 83.3469119,
+    "place_id": "ChIJReYoUz1EkTkR8rb0-BA4Mb0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJReYoUz1EkTkR8rb0-BA4Mb0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:39:11"
+  }
+]

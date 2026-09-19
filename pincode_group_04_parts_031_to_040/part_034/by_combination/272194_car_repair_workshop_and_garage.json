@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chowdhury Auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "272194",
+    "phone_number": "+91 99304 62302",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Motiganj, Road, Domariyaganj, Uttar Pradesh 272194",
+    "area": "272194",
+    "latitude": 27.146369099999998,
+    "longitude": 82.7016385,
+    "place_id": "ChIJU157oHwxlzkREIxdjY5GWBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU157oHwxlzkREIxdjY5GWBU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:02:18"
+  },
+  {
+    "business_name": "MONU CAR WORK SHOP",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "272194",
+    "phone_number": "+91 93525 24031",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Jodhpura, Pinan, Rajasthan 301413",
+    "area": "272194",
+    "latitude": 27.2843758,
+    "longitude": 76.7723154,
+    "place_id": "ChIJ6ZZODwBhcjkR3OI_YEXHh7U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6ZZODwBhcjkR3OI_YEXHh7U",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:02:20"
+  }
+]

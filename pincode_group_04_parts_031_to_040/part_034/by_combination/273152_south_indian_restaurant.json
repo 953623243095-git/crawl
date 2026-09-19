@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bala Jee Store",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Chettinad restaurant",
+    "all_categories": "Chettinad restaurant, Pizza takeaway",
+    "pincode": "273152",
+    "phone_number": "+91 91252 15875",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "RGHG+2F2, Patara, Pipraich, Uttar Pradesh 273152",
+    "area": "Patara",
+    "latitude": 26.8275179,
+    "longitude": 83.52614919999999,
+    "place_id": "ChIJJy_qsOdZkTkRCl1SOeAfqvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJy_qsOdZkTkRCl1SOeAfqvY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:04:55"
+  },
+  {
+    "business_name": "Swad Nation's (स्वाद Nation's) Sweets & Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Fast food restaurant, Vegetarian restaurant",
+    "pincode": "273152",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "QC4G+88W, New, Nanda Nagar, Gorakhpur, Uttar Pradesh 273008",
+    "area": "Darghiya, Nanda Nagar",
+    "latitude": 26.7558671,
+    "longitude": 83.4258308,
+    "place_id": "ChIJjVSXxMNbkTkRlt_5XyMB_f4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjVSXxMNbkTkRlt_5XyMB_f4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:04:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manjesh yadav",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "272204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C23R+X5V, Musahari West, Uttar Pradesh 272205",
+    "area": "272204",
+    "latitude": 27.404999,
+    "longitude": 83.0404271,
+    "place_id": "ChIJlZHVOQDnljkRXfdPmeAlPJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlZHVOQDnljkRXfdPmeAlPJ8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:14:43"
+  },
+  {
+    "business_name": "Delhivery Courier Office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Shipping service",
+    "all_categories": "Shipping service",
+    "pincode": "272204",
+    "phone_number": "N/A",
+    "website": "http://www.delhivery.com/",
+    "rating": 3.6,
+    "reviews_count": 57,
+    "address": "37PC+676, Pharenda Range, Uttar Pradesh 273155",
+    "area": "272204",
+    "latitude": 27.0855431,
+    "longitude": 83.2706293,
+    "place_id": "ChIJGbAzfgC1ljkRNSYa_ESCWLw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGbAzfgC1ljkRNSYa_ESCWLw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:14:43"
+  }
+]

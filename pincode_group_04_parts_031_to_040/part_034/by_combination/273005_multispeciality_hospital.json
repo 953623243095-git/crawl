@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Shivoy Multispecility Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Emergency care service, Neurologist, Neurosurgeon, Orthopedic clinic",
+    "pincode": "273005",
+    "phone_number": "+91 73487 43274",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": 31,
+    "address": "Commercial Part A, D 201, Buddh Vihar, Buddh Vihar Part A, Indira Nagar, Gorakhpur, Uttar Pradesh 273016",
+    "area": "Buddh Vihar Part A, Indira Nagar",
+    "latitude": 26.7349912,
+    "longitude": 83.3782528,
+    "place_id": "ChIJGabc7v9DkTkRb19tx3H3Sgs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGabc7v9DkTkRb19tx3H3Sgs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:39:32"
+  },
+  {
+    "business_name": "Savitri hospital and research centre",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "273005",
+    "phone_number": "+91 77540 01154",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Vijay Chowk, Dilkajpur, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Dilkajpur",
+    "latitude": 26.7581849,
+    "longitude": 83.3650397,
+    "place_id": "ChIJr0DmTSJFkTkR581ZMtrjCWE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr0DmTSJFkTkR581ZMtrjCWE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:39:33"
+  }
+]

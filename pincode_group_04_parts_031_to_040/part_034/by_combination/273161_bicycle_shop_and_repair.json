@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Santosh Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "273161",
+    "phone_number": "+91 88963 06379",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Cinema Rd, Nichlaul, Uttar Pradesh 273304",
+    "area": "273161",
+    "latitude": 27.314138399999997,
+    "longitude": 83.725072,
+    "place_id": "ChIJGzljo_8blDkRT0nn2uqK1Y0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGzljo_8blDkRT0nn2uqK1Y0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:13:00"
+  },
+  {
+    "business_name": "Vikram Auto Service",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "273161",
+    "phone_number": "+91 85729 83701",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "00 Maharajganj Road Mahadeva, Chauraha, Maharajganj, Uttar Pradesh 273155",
+    "area": "Chauraha",
+    "latitude": 27.1040185,
+    "longitude": 83.3325825,
+    "place_id": "ChIJz3YfdNa1ljkRHLlM5TbvA64",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz3YfdNa1ljkRHLlM5TbvA64",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:13:01"
+  }
+]

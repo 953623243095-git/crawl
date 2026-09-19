@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SeeSaw Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "273017",
+    "phone_number": "+91 99160 15096",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Site No.27, 8th Cross Rd, Kundalahalli Colony, Brookefield, Bengaluru, Karnataka 560037",
+    "area": "Kundalahalli Colony, Brookefield",
+    "latitude": 12.971086699999999,
+    "longitude": 77.7119822,
+    "place_id": "ChIJRehPwScSrjsR8TqEJOxsIqM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRehPwScSrjsR8TqEJOxsIqM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:01:24"
+  },
+  {
+    "business_name": "Eye Care +",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "273017",
+    "phone_number": "+91 88406 20403",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 25,
+    "address": "Infront of Bambini School, Chilmapur Road, Azad Nagar, Gorakhpur, Uttar Pradesh 273016",
+    "area": "Azad Nagar",
+    "latitude": 26.7297561,
+    "longitude": 83.37158149999999,
+    "place_id": "ChIJ4XOphS9DkTkRSwSeM65za4I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4XOphS9DkTkRSwSeM65za4I",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:01:26"
+  }
+]

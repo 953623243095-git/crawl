@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "272175",
+    "phone_number": "+91 88585 90201",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Sugar Mill Rd, Khalilabad, Banjaria Dehat, Uttar Pradesh 272175",
+    "area": "272175",
+    "latitude": 26.776866499999997,
+    "longitude": 83.0550477,
+    "place_id": "ChIJw4OW_xglkTkR8jculL9_WGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw4OW_xglkTkR8jculL9_WGg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:42:32"
+  },
+  {
+    "business_name": "New Ranjan Homeopathic Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "272175",
+    "phone_number": "+91 73177 80350",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Near, bank chauraha, near bank chauraha, Khalilabad, Sarauli, Uttar Pradesh 272175",
+    "area": "272175",
+    "latitude": 26.775843599999998,
+    "longitude": 83.0576458,
+    "place_id": "ChIJL_SCcfElkTkRAag3BrNt9Ns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL_SCcfElkTkRAag3BrNt9Ns",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:42:33"
+  }
+]

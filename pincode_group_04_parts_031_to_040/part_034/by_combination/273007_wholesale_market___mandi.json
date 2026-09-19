@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chhapiya Market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "273007",
+    "phone_number": "N/A",
+    "website": "http://www.bhoomiview.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Khajani - Gorakhpur Rd, Chhapiya, Uttar Pradesh 273016",
+    "area": "273007",
+    "latitude": 26.728021,
+    "longitude": 83.2998925,
+    "place_id": "ChIJBdZxFyxBkTkR8UdlyDxe6nY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBdZxFyxBkTkR8UdlyDxe6nY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:45:07"
+  },
+  {
+    "business_name": "Sabji mandi jungle kauria",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Vegetable wholesale market",
+    "all_categories": "Vegetable wholesale market",
+    "pincode": "273007",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 46,
+    "address": "V885+JJW, Jangal Kauria, Gay Ghat, Uttar Pradesh 273007",
+    "area": "273007",
+    "latitude": 26.866545799999997,
+    "longitude": 83.30903409999999,
+    "place_id": "ChIJI-DEUwBJkTkRjN8wDZt393c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI-DEUwBJkTkRjN8wDZt393c",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:45:08"
+  }
+]

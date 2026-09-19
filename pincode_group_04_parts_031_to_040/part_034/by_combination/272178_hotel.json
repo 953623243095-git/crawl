@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Dhairya Palace",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "272178",
+    "phone_number": "+91 91407 89061",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "RPF9+M2F, Charoha Sirapar, Uttar Pradesh 272182",
+    "area": "272178",
+    "latitude": 26.824197599999998,
+    "longitude": 82.7175457,
+    "place_id": "ChIJJ-nJBgDPkDkR-9d64ubg0aI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ-nJBgDPkDkR-9d64ubg0aI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:48:37"
+  },
+  {
+    "business_name": "Aj palase",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "272178",
+    "phone_number": "+91 95656 24313",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 10,
+    "address": "AJ Palace, Meerganj, Mudera Urf Dalel Ganj, Uttar Pradesh 272175",
+    "area": "272178",
+    "latitude": 26.785337499999997,
+    "longitude": 83.0049219,
+    "place_id": "ChIJk-H3HgAlkTkRcrBbfEwiixw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk-H3HgAlkTkRcrBbfEwiixw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:48:37"
+  }
+]

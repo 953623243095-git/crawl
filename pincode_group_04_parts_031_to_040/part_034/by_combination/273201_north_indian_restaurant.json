@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pratap Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "273201",
+    "phone_number": "+91 99189 97191",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "PGPG+X6H, Madapar, Uttar Pradesh 273002",
+    "area": "273201",
+    "latitude": 26.7374275,
+    "longitude": 83.52562019999999,
+    "place_id": "ChIJSZxK3ANfkTkRf55CgpGiN3c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSZxK3ANfkTkRf55CgpGiN3c",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:21:59"
+  },
+  {
+    "business_name": "EVEREST DHABA",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "273201",
+    "phone_number": "+91 81157 29815",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 396,
+    "address": "PJPJ+GP9, Upaspur, Anantpur, Uttar Pradesh 274207",
+    "area": "273201",
+    "latitude": 26.7362964,
+    "longitude": 83.6318725,
+    "place_id": "ChIJbdx71JzhkzkRIC5Dhb9J3oY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbdx71JzhkzkRIC5Dhb9J3oY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:22:00"
+  }
+]

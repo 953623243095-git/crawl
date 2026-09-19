@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hasan Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "272270",
+    "phone_number": "+91 98992 12402",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C-16/4, Block C, Kabir Nagar, Shahdara, Delhi, 110093",
+    "area": "Block C, Kabir Nagar, Shahdara",
+    "latitude": 28.6916993,
+    "longitude": 77.2817742,
+    "place_id": "ChIJC2wkn1j9DDkRYHKL0wTC0Fc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC2wkn1j9DDkRYHKL0wTC0Fc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:23:00"
+  },
+  {
+    "business_name": "Dawailelo Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "272270",
+    "phone_number": "+91 82872 23323",
+    "website": "http://www.dawailelo.in/",
+    "rating": 4.9,
+    "reviews_count": 74,
+    "address": "553/C,Arya Samaj Mandir, Nangal Raya, Delhi, 110046",
+    "area": "Tara Basti, Nangal Raya, Janakpuri",
+    "latitude": 28.609665,
+    "longitude": 77.1121087,
+    "place_id": "ChIJUwPBGKAbDTkR18M5vPxgTPQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUwPBGKAbDTkR18M5vPxgTPQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:23:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Family Point",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant, Bakery and Cake Shop, Sweets and dessert buffet, Restaurant",
+    "pincode": "273017",
+    "phone_number": "+91 90197 55450",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 22,
+    "address": "HIG C 183, Rail Vihar Colony Phase 3rd, Taramandal, Gorakhpur, Bharwalia Buzurg, Uttar Pradesh 273017",
+    "area": "Rail Vihar Colony Phase 3rd, Taramandal",
+    "latitude": 26.7256188,
+    "longitude": 83.3874015,
+    "place_id": "ChIJP-1WwB5DkTkRIiqsXQQ4lJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP-1WwB5DkTkRIiqsXQQ4lJY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:01:12"
+  },
+  {
+    "business_name": "Bones and grills",
+    "search_category": "Family Restaurant",
+    "primary_category": "Barbecue restaurant",
+    "all_categories": "Barbecue restaurant",
+    "pincode": "273017",
+    "phone_number": "+91 63910 84000",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 41,
+    "address": "3, behind Gemini Gardenia, Siddhartha Enclave Vistar, Rail Vihar Colony Phase 3rd, Taramandal, Gorakhpur, Uttar Pradesh 273017",
+    "area": "Siddhartha Enclave Vistar, Rail Vihar Colony Phase 3rd, Taramandal",
+    "latitude": 26.721167299999998,
+    "longitude": 83.3927044,
+    "place_id": "ChIJbRPixodDkTkR-n3Dsqg70PU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbRPixodDkTkR-n3Dsqg70PU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:01:12"
+  }
+]

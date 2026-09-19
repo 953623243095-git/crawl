@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Epic Repair Service",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop, Air conditioning repair service, Appliance Rental Agency, Refrigerator repair service, Washer & dryer store",
+    "pincode": "272191",
+    "phone_number": "+91 78276 56369",
+    "website": "https://epicrepairservice.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop No-3, Plot No - 117, near Siddharth Vihar, Sector 7A, Indirapuram, Ghaziabad, Uttar Pradesh 201009",
+    "area": "Sector 7A, Indirapuram",
+    "latitude": 28.6553346,
+    "longitude": 77.3996578,
+    "place_id": "ChIJCeBm0XHxDDkRwFPcVKrbLRo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCeBm0XHxDDkRwFPcVKrbLRo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:57:10"
+  },
+  {
+    "business_name": "Modern A.C. Centre and Spare Parts",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service",
+    "pincode": "272191",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5MX2+RCH, Itwa Road, Domariyaganj, Uttar Pradesh 272189",
+    "area": "272191",
+    "latitude": 27.1995589,
+    "longitude": 82.65112239999999,
+    "place_id": "ChIJyTQN9a87lzkRUCpNwTLlkMg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyTQN9a87lzkRUCpNwTLlkMg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:57:13"
+  }
+]

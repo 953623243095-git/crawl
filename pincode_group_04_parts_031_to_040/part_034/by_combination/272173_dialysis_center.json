@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Medi Dialysis Centre Jasola",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Nephrologist",
+    "pincode": "272173",
+    "phone_number": "+91 82879 66998",
+    "website": "http://www.medidialysis.com/",
+    "rating": 4.7,
+    "reviews_count": 114,
+    "address": "Plot No. 11, Institutional Area, FC-33, Jasola, Jasola Vihar, New Delhi, Delhi 110025",
+    "area": "FC-33, Jasola, Jasola Vihar",
+    "latitude": 28.540236399999998,
+    "longitude": 77.2924554,
+    "place_id": "ChIJAal4TgblDDkRJ1XbFccojjk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAal4TgblDDkRJ1XbFccojjk",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:40:50"
+  },
+  {
+    "business_name": "Sarathi Dialysis Center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "272173",
+    "phone_number": "+91 87694 10608",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "Vardhman Hospital, Jaipur Road, Mahanandpur, Gangapur, Rajasthan 322201",
+    "area": "Mahanandpur",
+    "latitude": 26.4789751,
+    "longitude": 76.7060375,
+    "place_id": "ChIJd0NavNv3cTkR4zgUEX7JHoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd0NavNv3cTkR4zgUEX7JHoA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:40:50"
+  }
+]

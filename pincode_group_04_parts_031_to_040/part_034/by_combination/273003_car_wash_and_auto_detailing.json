@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaudhary Car Wash Center",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Self service car wash",
+    "all_categories": "Self service car wash",
+    "pincode": "273003",
+    "phone_number": "+91 85740 49702",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 41,
+    "address": "Gayatri Puram, Gorakhnath Rd, Gorakhpur, Uttar Pradesh 273004",
+    "area": "Ghosipurwa",
+    "latitude": 26.796512099999998,
+    "longitude": 83.3741072,
+    "place_id": "ChIJO-F_W2RFkTkRGSUC9ITybxg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO-F_W2RFkTkRGSUC9ITybxg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:35:42"
+  },
+  {
+    "business_name": "Car Wash Service",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "273003",
+    "phone_number": "+91 93529 01748",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Shahpur, Gorakhpur, Uttar Pradesh 273014",
+    "area": "Shahpur",
+    "latitude": 26.7745443,
+    "longitude": 83.39549149999999,
+    "place_id": "ChIJ91-5BIVFkTkRsHc_dg9kkrQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ91-5BIVFkTkRsHc_dg9kkrQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:35:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paikoliya pali",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "272181",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "WG93+P6Q, Market Road, Babhnan, Pura, Uttar Pradesh 271313",
+    "area": "272181",
+    "latitude": 26.9193343,
+    "longitude": 82.5031126,
+    "place_id": "ChIJuY0dr3W1kDkRG6QUSxfJAns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuY0dr3W1kDkRG6QUSxfJAns",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:49:18"
+  },
+  {
+    "business_name": "Ritesh kirana store",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "272181",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Sagar Ganj ChaurahaItai Khajuri, Sagar Ganj Chauraha Uttar Pradesh, India Itai Khajuri, Sagar Ganj, Chauraha, Uttar Pradesh 271313",
+    "area": "Sagar Ganj",
+    "latitude": 26.9071389,
+    "longitude": 82.4498389,
+    "place_id": "ChIJM-2h-AKzkDkRIko9pHIbcA0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM-2h-AKzkDkRIko9pHIbcA0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:49:20"
+  }
+]

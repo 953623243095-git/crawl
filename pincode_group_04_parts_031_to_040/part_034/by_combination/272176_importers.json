@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma timber house",
+    "search_category": "Importers",
+    "primary_category": "Furniture wholesaler",
+    "all_categories": "Furniture wholesaler, Firewood supplier, Saw mill, Wood Working Class",
+    "pincode": "272176",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nathnagar road, kali, Kali Jagadishpur, Pedari, Uttar Pradesh 272176",
+    "area": "kali",
+    "latitude": 26.6287049,
+    "longitude": 83.1032731,
+    "place_id": "ChIJrcXGeAAXkTkRgdvjOLjDLmI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrcXGeAAXkTkRgdvjOLjDLmI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:45:30"
+  },
+  {
+    "business_name": "Ravindra iffdc",
+    "search_category": "Importers",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store",
+    "pincode": "272176",
+    "phone_number": "+91 99191 89310",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Dhai Pokhar, Uttar Pradesh 272176",
+    "area": "272176",
+    "latitude": 26.634753399999997,
+    "longitude": 83.0503837,
+    "place_id": "ChIJ4TxU5t4jkTkRoCUDbjalp38",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4TxU5t4jkTkRoCUDbjalp38",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:45:31"
+  }
+]

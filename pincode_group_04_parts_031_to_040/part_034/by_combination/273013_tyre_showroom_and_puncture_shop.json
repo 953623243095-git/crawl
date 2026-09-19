@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jeet Tyres",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "273013",
+    "phone_number": "+91 96482 67718",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "next to Total Car Care, near Sarkar Hospital, Gulhariya, Gorakhpur, Uttar Pradesh 273013",
+    "area": "Gulhariya",
+    "latitude": 26.8225648,
+    "longitude": 83.41123189999999,
+    "place_id": "ChIJE4RSr41FkTkRFRVMRtw0Ej0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE4RSr41FkTkRFRVMRtw0Ej0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:53:41"
+  },
+  {
+    "business_name": "Kushwaha Tyre",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "273013",
+    "phone_number": "+91 93364 17616",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "RCG6+6FG, Gulharia, thana, Medical College Road, Uttar Pradesh 273013",
+    "area": "Jukshan Enclave",
+    "latitude": 26.825550099999997,
+    "longitude": 83.4112069,
+    "place_id": "ChIJ_-W0yatFkTkRXHKc9mSYCN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_-W0yatFkTkRXHKc9mSYCN0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:53:43"
+  }
+]

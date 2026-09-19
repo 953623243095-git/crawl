@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radiance Events | Wedding Planner in Lucknow",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event management company, Event venue, Party planner, Wedding service",
+    "pincode": "272189",
+    "phone_number": "+91 99565 72575",
+    "website": "https://radianceevents.co.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "182, near, Fun Mall Rd, Eldeco Greens, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Eldeco Greens, Gomti Nagar",
+    "latitude": 26.8583122,
+    "longitude": 80.972477,
+    "place_id": "ChIJA2WvNgr9mzkRe6xVnkgW2k0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA2WvNgr9mzkRe6xVnkgW2k0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:53:52"
+  },
+  {
+    "business_name": "Wedding Dezire",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event management company, Event planner, Event venue, Party planner, Wedding service, Wedding venue",
+    "pincode": "272189",
+    "phone_number": "+91 84231 00556",
+    "website": "https://weddingdezire.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "2nd Floor, Viram Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Viram Khand, Gomti Nagar",
+    "latitude": 26.8500159,
+    "longitude": 81.0070288,
+    "place_id": "ChIJ3UHtIJdXmTkRFR7eQLy6x44",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3UHtIJdXmTkRFR7eQLy6x44",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:53:52"
+  }
+]

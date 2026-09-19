@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M.M SUPERMARKET",
+    "search_category": "Supermarket",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "273010",
+    "phone_number": "+91 94512 50637",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1st FLOOR, NISHAD COMPLEX, CHAURAHA, Belwar, Gorakhpur, Uttar Pradesh 273010",
+    "area": "CHAURAHA",
+    "latitude": 26.661542299999997,
+    "longitude": 83.4670225,
+    "place_id": "ChIJ0xCLfhddkTkRRH7w8NopIck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0xCLfhddkTkRRH7w8NopIck",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:49:05"
+  },
+  {
+    "business_name": "Vamika Enterprises",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "273010",
+    "phone_number": "+91 99901 27792",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "Sictaur, Chauk, Gorakhpur, Uttar Pradesh 273010",
+    "area": "Chauk",
+    "latitude": 26.7030478,
+    "longitude": 83.41949389999999,
+    "place_id": "ChIJzU2-NL1DkTkRhvkza4WdUuQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzU2-NL1DkTkRhvkza4WdUuQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:49:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Associated Chemical Industries",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "272202",
+    "phone_number": "+91 512 222 3421",
+    "website": "http://aciindia.com/",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "123/369, Factory Area, Fazalganj Industrial Estate, Fazalganj, Shastri Nagar, Kanpur, Uttar Pradesh 208012",
+    "area": "Fazalganj Industrial Estate, Fazalganj, Shastri Nagar",
+    "latitude": 26.4573418,
+    "longitude": 80.306235,
+    "place_id": "ChIJ571kmoJHnDkR3V4Z1OsgDZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ571kmoJHnDkR3V4Z1OsgDZc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:10:56"
+  },
+  {
+    "business_name": "Mahalaxmi Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer",
+    "pincode": "272202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "C.B.Ganj, Bareilly, Uttar Pradesh 243502",
+    "area": "C.B.Ganj",
+    "latitude": 28.408132,
+    "longitude": 79.3704056,
+    "place_id": "ChIJUfPPqBepCjkRc59rWMUcxC4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUfPPqBepCjkRc59rWMUcxC4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:10:56"
+  }
+]

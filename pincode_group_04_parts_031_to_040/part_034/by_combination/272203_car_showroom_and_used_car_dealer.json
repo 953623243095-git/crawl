@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "United Motors",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "272203",
+    "phone_number": "071-523514",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "GFG4+2FF, Siddharthanagar, Lumbini Province 32900, Nepal",
+    "area": "272203",
+    "latitude": 27.5250691,
+    "longitude": 83.4561605,
+    "place_id": "ChIJmy-rK1CaljkRgeGq01Xk16M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmy-rK1CaljkRgeGq01Xk16M",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:11:50"
+  },
+  {
+    "business_name": "Used Cars in Narkatiyaganj",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Auto broker, Car dealer, Motor vehicle dealer, Vehicle inspection service",
+    "pincode": "272203",
+    "phone_number": "+91 99305 65555",
+    "website": "https://www.mahindrafirstchoice.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhikhna Thori Road, near Ravi Petrol Pump, beside Panchmukhi Hanuman Mandir, A, Dhala, Pakri, Narkatiaganj, Bihar 845455",
+    "area": "A, Dhala",
+    "latitude": 27.1265437,
+    "longitude": 84.473615,
+    "place_id": "ChIJictsEPSdlDkRjbW2PKHfUXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJictsEPSdlDkRjbW2PKHfUXc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:11:52"
+  }
+]

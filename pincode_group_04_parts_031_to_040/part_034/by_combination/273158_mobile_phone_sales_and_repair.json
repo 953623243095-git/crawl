@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baba Mobile Care",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "273158",
+    "phone_number": "+91 99847 57053",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Campirganj, Uttar Pradesh 273158",
+    "area": "273158",
+    "latitude": 27.029490799999998,
+    "longitude": 83.27419859999999,
+    "place_id": "ChIJh_sDdQC1ljkRFV_VrywPCrA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh_sDdQC1ljkRFV_VrywPCrA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:11:50"
+  },
+  {
+    "business_name": "Ganesh Mobile Care",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop, Cell phone store",
+    "pincode": "273158",
+    "phone_number": "+91 96289 06965",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "27PX+7MV, Faizabad Rd, Rajpur, Uttar Pradesh 273158",
+    "area": "273158",
+    "latitude": 27.0357265,
+    "longitude": 83.2991582,
+    "place_id": "ChIJJ7kTdd60ljkRjMDRoBXEVVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ7kTdd60ljkRjMDRoBXEVVc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:11:50"
+  }
+]

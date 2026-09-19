@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandra Dental Care",
+    "search_category": "Dental Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "272302",
+    "phone_number": "+91 70072 58266",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chandra Dental Care, Pokharani Chauraha, Uttar Pradesh 272302",
+    "area": "272302",
+    "latitude": 26.7177634,
+    "longitude": 82.67686499999999,
+    "place_id": "ChIJO6FhPAPFkDkRC8ycDhyYK78",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO6FhPAPFkDkRC8ycDhyYK78",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:29:10"
+  },
+  {
+    "business_name": "नगरबाजार",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "272302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "PMFM+698, Nagar Khas, Uttar Pradesh 272302",
+    "area": "272302",
+    "latitude": 26.7230442,
+    "longitude": 82.6834453,
+    "place_id": "ChIJTcTGZgDFkDkRAjui2YIOF0k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTcTGZgDFkDkRAjui2YIOF0k",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:29:10"
+  }
+]

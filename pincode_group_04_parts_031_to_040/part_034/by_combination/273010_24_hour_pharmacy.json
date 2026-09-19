@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apollo Pharmacy Taramandal Gorakhpur",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "273010",
+    "phone_number": "+91 74558 01791",
+    "website": "https://www.apollopharmacy.in/",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Buddh Vihar Phase 2, Taramandal Rd, near Union Bank, Azad Nagar, Gorakhpur, Uttar Pradesh 273017",
+    "area": "Azad Nagar",
+    "latitude": 26.727740999999998,
+    "longitude": 83.3844463,
+    "place_id": "ChIJTbQBKr8rCTkR22fT_ugVKaA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTbQBKr8rCTkR22fT_ugVKaA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:49:31"
+  },
+  {
+    "business_name": "Anchal Health Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "273010",
+    "phone_number": "+91 97948 96944",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MFR6+5MG, raod, Gorakhpur, Jangl Ramgarh Urf Chawri, Uttar Pradesh 273016",
+    "area": "273010",
+    "latitude": 26.690341099999998,
+    "longitude": 83.4617028,
+    "place_id": "ChIJ1bt3TwBdkTkRyk1hGAYQL5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1bt3TwBdkTkRyk1hGAYQL5A",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:49:34"
+  }
+]

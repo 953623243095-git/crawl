@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Noor Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "272192",
+    "phone_number": "+91 91208 74647",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 18,
+    "address": "Noor Hospital,madhkarpur,tettri bazar,Jila, SH 1A, Tetri Bazar, Madhukarpur, Uttar Pradesh 272207",
+    "area": "272192",
+    "latitude": 27.2788248,
+    "longitude": 83.0530241,
+    "place_id": "ChIJAfuWQmHbljkRqoxL3l377SM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAfuWQmHbljkRqoxL3l377SM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:58:34"
+  },
+  {
+    "business_name": "Medlife Fracture and Maternity Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "272192",
+    "phone_number": "+91 94502 34327",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Sanai chauraha, towards shohratgarh road, 200m, Kataya, Uttar Pradesh 272207",
+    "area": "272192",
+    "latitude": 27.2733274,
+    "longitude": 83.0410004,
+    "place_id": "ChIJdQRL2M7FljkRyC5wZYIQu_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdQRL2M7FljkRyC5wZYIQu_s",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:58:35"
+  }
+]

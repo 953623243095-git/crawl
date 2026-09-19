@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaiswal Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "273009",
+    "phone_number": "+91 82521 77016",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 9,
+    "address": "Golghar, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Golghar",
+    "latitude": 26.7537144,
+    "longitude": 83.3756123,
+    "place_id": "ChIJIyb8uqREkTkR2BtCPFZH5XA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIyb8uqREkTkR2BtCPFZH5XA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:47:20"
+  },
+  {
+    "business_name": "S.Shakti - Fast Food Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Dairy store, Fast food restaurant, Soft drinks shop",
+    "pincode": "273009",
+    "phone_number": "+91 94152 80621",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Near, Cantt Rd, Betiahata, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Betiahata",
+    "latitude": 26.7424286,
+    "longitude": 83.3718695,
+    "place_id": "ChIJ5Qvt23tEkTkRPzegwpbGO-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Qvt23tEkTkRPzegwpbGO-U",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:47:21"
+  }
+]

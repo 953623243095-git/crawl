@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.shaheen",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Hospital",
+    "pincode": "273151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1.5,
+    "reviews_count": null,
+    "address": "Chowk Rd, Maharajganj, Siswania, Uttar Pradesh 273303",
+    "area": "273151",
+    "latitude": 27.1972962,
+    "longitude": 83.563062,
+    "place_id": "ChIJGzaf5gKpljkRU-qDxJyHqCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGzaf5gKpljkRU-qDxJyHqCk",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:03:29"
+  },
+  {
+    "business_name": "Citi Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "273151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "4HFP+68W, Maharajganj, Siswa Babu, Uttar Pradesh 273303",
+    "area": "273151",
+    "latitude": 27.123121899999997,
+    "longitude": 83.5858145,
+    "place_id": "ChIJQRtjbP-pljkR3pU9y2Y1CkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQRtjbP-pljkR3pU9y2Y1CkA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:03:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pet Life (Animal Hospital)",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "273009",
+    "phone_number": "+91 88281 74338",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 95,
+    "address": "Ghazipur Tiraha, opposite Bank of Baroda, behind Pathkind Lab, Sahadatpura, Mau, Uttar Pradesh 275101",
+    "area": "Sahadatpura",
+    "latitude": 25.9235498,
+    "longitude": 83.56616389999999,
+    "place_id": "ChIJryFRX1eLkTkRRMptcNZTXHs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJryFRX1eLkTkRRMptcNZTXHs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:47:45"
+  },
+  {
+    "business_name": "City Pet clinic and surgery center",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "273009",
+    "phone_number": "+91 73096 48892",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "FCI crossing, Kasia - Gorakhpur Rd, near rail underpass, Nanda Nagar, Gorakhpur, Uttar Pradesh 273002",
+    "area": "Nanda Nagar",
+    "latitude": 26.7465498,
+    "longitude": 83.4383241,
+    "place_id": "ChIJy4DfB81bkTkReuLafU82SJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy4DfB81bkTkReuLafU82SJ8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:47:45"
+  }
+]

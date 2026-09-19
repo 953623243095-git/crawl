@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lalu Cycle",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "272194",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2JMC+WCQ, Bhiwanpar, Uttar Pradesh 271312",
+    "area": "272194",
+    "latitude": 27.034835599999997,
+    "longitude": 82.6211237,
+    "place_id": "ChIJa5uqFw01lzkRuuzVvMSycEU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa5uqFw01lzkRuuzVvMSycEU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:02:27"
+  },
+  {
+    "business_name": "Soni Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "272194",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Bhanpur, Uttar Pradesh 271312",
+    "area": "272194",
+    "latitude": 27.029852299999998,
+    "longitude": 82.66264319999999,
+    "place_id": "ChIJsZ4_cnYzlzkRHDNcLzPMcUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsZ4_cnYzlzkRHDNcLzPMcUs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:02:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rathaor Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "273010",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PC7X+5RG, Rapti Nagar Phase-4, Jangalsikari Urf Khoraba, Uttar Pradesh 273010",
+    "area": "Rapti Nagar Phase-4",
+    "latitude": 26.712940099999997,
+    "longitude": 83.44956289999999,
+    "place_id": "ChIJt2pbTpFdkTkRPoo09XMlq5g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt2pbTpFdkTkRPoo09XMlq5g",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:49:37"
+  },
+  {
+    "business_name": "PHC Khorabar",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "273010",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "A-1, Gorakhpur - Deoria Hwy, Divya Nagar, Mahadevapuram Colony, Khorabar, Gorakhpur, Uttar Pradesh 273010",
+    "area": "Divya Nagar, Mahadevapuram Colony, Khorabar",
+    "latitude": 26.7168222,
+    "longitude": 83.4408682,
+    "place_id": "ChIJtw_gmr9ckTkRW1Xm3zmjAbc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtw_gmr9ckTkRW1Xm3zmjAbc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:49:37"
+  }
+]

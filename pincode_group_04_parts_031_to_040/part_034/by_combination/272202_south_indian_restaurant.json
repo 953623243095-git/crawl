@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "South Indian Dosa Chat Corner",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "272202",
+    "phone_number": "+91 73074 82451",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "00, Mohana Road, Mahadewa, Mahadewa Buzurg, Uttar Pradesh 272208",
+    "area": "272202",
+    "latitude": 27.3028436,
+    "longitude": 83.15889039999999,
+    "place_id": "ChIJp37CDD_DljkR7_ASdNHqW5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp37CDD_DljkR7_ASdNHqW5A",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:09:33"
+  },
+  {
+    "business_name": "Maa Vaisno chineez restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Auto chemistry shop",
+    "all_categories": "Auto chemistry shop",
+    "pincode": "272202",
+    "phone_number": "+91 91187 48548",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "SH 5, Berdpur No.9, Uttar Pradesh 272202",
+    "area": "272202",
+    "latitude": 27.375329699999998,
+    "longitude": 83.11458809999999,
+    "place_id": "ChIJJXxEl4PCljkRCrsp4QZTkdA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJXxEl4PCljkRCrsp4QZTkdA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:09:34"
+  }
+]

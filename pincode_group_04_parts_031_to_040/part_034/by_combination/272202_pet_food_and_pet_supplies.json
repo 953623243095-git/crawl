@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Aquarium shop, Animal feed store, Pet boarding service, Pet store, Bird shop",
+    "pincode": "272202",
+    "phone_number": "+91 91987 71001",
+    "website": "https://krishna-exotic-birds.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pipradeora Rd, near suman diagnostic centre, Tarakulawa, Maharajganj, Uttar Pradesh 273303",
+    "area": "Tarakulawa",
+    "latitude": 27.143326599999998,
+    "longitude": 83.5491205,
+    "place_id": "ChIJv7AQPQCpljkRDnUWOoDWGGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv7AQPQCpljkRDnUWOoDWGGo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:09:29"
+  },
+  {
+    "business_name": "Petshop siddharth nagar 272206 gujrauliya",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "272202",
+    "phone_number": "+91 97214 84853",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Uttar pradesh siddharth nagar village gujrauliya sikari bajar_District_siddharth nagar shikari, Uttar Pradesh 272206",
+    "area": "272202",
+    "latitude": 27.339826,
+    "longitude": 83.1964079,
+    "place_id": "ChIJOQlQoaHHljkRl2ibTdQAZzQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOQlQoaHHljkRl2ibTdQAZzQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:09:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gyan Milk Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "273003",
+    "phone_number": "+91 98335 98584",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 15,
+    "address": "Q9PG+WHV, 484, Ramjanki Nagar, Gorakhpur, Uttar Pradesh 273004",
+    "area": "Ramjanki Nagar",
+    "latitude": 26.787176799999997,
+    "longitude": 83.375732,
+    "place_id": "ChIJD8iYmZdFkTkR8TlHonHHfyg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD8iYmZdFkTkR8TlHonHHfyg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:35:06"
+  },
+  {
+    "business_name": "Cream bell ice cream (Om Mahalaxmi Kirana Store Om)",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "273003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 136,
+    "address": "in front of Milan Lawn marriage house, Basharatpur, Ramjanki Nagar, Gorakhpur, Uttar Pradesh 273004",
+    "area": "Basharatpur, Ramjanki Nagar",
+    "latitude": 26.7862406,
+    "longitude": 83.3772333,
+    "place_id": "ChIJj3JgXqpFkTkRUpbd40xuLIw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj3JgXqpFkTkRUpbd40xuLIw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:35:08"
+  }
+]

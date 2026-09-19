@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tashan clothing",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "273004",
+    "phone_number": "+91 93183 06658",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "phase 2, H.no, 528W, near Chetna Press Road, Haridwar Puram, Gorakhpur, Uttar Pradesh 273004",
+    "area": "Haridwar Puram, Ramjanki Nagar",
+    "latitude": 26.793991899999998,
+    "longitude": 83.37554879999999,
+    "place_id": "ChIJFcKvFh5FkTkRHk1JRCuIKwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFcKvFh5FkTkRHk1JRCuIKwM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:37:30"
+  },
+  {
+    "business_name": "Godson Industries",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Hygiene articles wholesaler",
+    "all_categories": "Hygiene articles wholesaler, Baby store",
+    "pincode": "273004",
+    "phone_number": "+91 75100 58080",
+    "website": "https://www.godsonindustries.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1st Floor, Sports College Road, near Sanvi Hospital, Karim Nagar, Road, Raptinagar Phase -4, Gorakhpur, Uttar Pradesh 273007",
+    "area": "Karim Nagar, Road, Raptinagar Phase -4",
+    "latitude": 26.8054794,
+    "longitude": 83.3742778,
+    "place_id": "ChIJ4ec1z5JFkTkRnW6nYoiJhUc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4ec1z5JFkTkRnW6nYoiJhUc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:37:33"
+  }
+]

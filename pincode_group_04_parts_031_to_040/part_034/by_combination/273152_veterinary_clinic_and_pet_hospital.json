@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Government Veterinary Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Emergency veterinarian service",
+    "all_categories": "Emergency veterinarian service",
+    "pincode": "273152",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhathat, Uttar Pradesh 273306",
+    "area": "273152",
+    "latitude": 26.899370599999997,
+    "longitude": 83.4930649,
+    "place_id": "ChIJv1Uks5RRkTkRUuMlOp-J3Nw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv1Uks5RRkTkRUuMlOp-J3Nw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:05:17"
+  },
+  {
+    "business_name": "City Pet Care Clinic Gorakhpur",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Doctor",
+    "pincode": "273152",
+    "phone_number": "+91 94153 78574",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 91,
+    "address": "PCWG+XRF, Dr R S Singh , Nanda Nagar Railway Crossing, Kasia - Gorakhpur Rd, Nanda Nagar, Gorakhpur, Uttar Pradesh 273008",
+    "area": "Nanda Nagar",
+    "latitude": 26.7474398,
+    "longitude": 83.4270468,
+    "place_id": "ChIJ1-4fflFbkTkRvnbgu79IiBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1-4fflFbkTkRvnbgu79IiBU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:05:20"
+  }
+]

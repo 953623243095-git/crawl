@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bala Jee Auto Service Center",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "273004",
+    "phone_number": "+91 95114 14197",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Medical College Road, in front of Royal Enfield Showroom, Mugalaha, Chargawa,, Gorakhpur, Uttar Pradesh 273013",
+    "area": "Mugalaha, Chargawa,",
+    "latitude": 26.8071384,
+    "longitude": 83.39439229999999,
+    "place_id": "ChIJMz-XT_JFkTkRdPaAO30pYCo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMz-XT_JFkTkRdPaAO30pYCo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:37:53"
+  },
+  {
+    "business_name": "Gupta Automobiles",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto body shop",
+    "all_categories": "Auto body shop",
+    "pincode": "273004",
+    "phone_number": "+91 99264 05864",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Padri Bazar, Jail Bypass Rd, Bichhiya Railway Colony, Gorakhpur, Uttar Pradesh 273014",
+    "area": "Bichhiya Railway Colony",
+    "latitude": 26.7735982,
+    "longitude": 83.39767359999999,
+    "place_id": "ChIJ04noLTVFkTkR4kJpOuSNv6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ04noLTVFkTkR4kJpOuSNv6o",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:37:53"
+  }
+]

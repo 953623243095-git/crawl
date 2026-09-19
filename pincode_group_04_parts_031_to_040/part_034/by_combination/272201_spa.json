@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shyam Pathology",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "272201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Block PHC, Road, Barhni, Uttar Pradesh 272201",
+    "area": "Road",
+    "latitude": 27.4899298,
+    "longitude": 82.7770177,
+    "place_id": "ChIJJyWHkKIblzkRCdriTIayzM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJyWHkKIblzkRCdriTIayzM4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:08:25"
+  },
+  {
+    "business_name": "Awaa spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "272201",
+    "phone_number": "+91 88664 18877",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Anand Vihar, Katni, Madhya Pradesh 483501",
+    "area": "Anand Vihar",
+    "latitude": 23.8303723,
+    "longitude": 80.38796049999999,
+    "place_id": "ChIJabsbKDthgTkRNTVbcr-zFNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJabsbKDthgTkRNTVbcr-zFNY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:08:27"
+  }
+]

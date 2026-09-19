@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Medical Store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "272194",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "51, Uttar Pradesh 272194",
+    "area": "272194",
+    "latitude": 27.0531965,
+    "longitude": 82.669947,
+    "place_id": "ChIJwwE5cdszlzkR--IJEE4qAeg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwwE5cdszlzkR--IJEE4qAeg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:02:17"
+  },
+  {
+    "business_name": "Dr Deepak Medical Store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "272194",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Koknager bandi, Uttar Pradesh 271312",
+    "area": "272194",
+    "latitude": 26.9996367,
+    "longitude": 82.5940098,
+    "place_id": "ChIJwTWRkrg1lzkRHxFkjqI0qJs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwTWRkrg1lzkRHxFkjqI0qJs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:02:18"
+  }
+]

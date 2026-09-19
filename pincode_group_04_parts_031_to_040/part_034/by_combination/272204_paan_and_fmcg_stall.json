@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pavan Trading Company",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "272204",
+    "phone_number": "+91 99184 23105",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "55PF+65J, Mirnagar, Uttar Pradesh 225305",
+    "area": "272204",
+    "latitude": 27.1855837,
+    "longitude": 81.1729058,
+    "place_id": "ChIJ1xHWyQRqmTkRpKOzea67x_I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1xHWyQRqmTkRpKOzea67x_I",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:13:17"
+  },
+  {
+    "business_name": "Faizan Pan Shop",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "272204",
+    "phone_number": "+91 95542 15052",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 9,
+    "address": "Khorsha, Gonda, Uttar Pradesh 271123",
+    "area": "272204",
+    "latitude": 27.091324699999998,
+    "longitude": 82.0235251,
+    "place_id": "ChIJVRBvlEvxmTkRCjgdlmEIBWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVRBvlEvxmTkRCjgdlmEIBWg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:13:20"
+  }
+]

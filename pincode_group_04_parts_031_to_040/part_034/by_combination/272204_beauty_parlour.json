@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Beauti Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "272204",
+    "phone_number": "+91 73794 38961",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bazar Chetiya Road, Babhani, Uttar Pradesh 272205",
+    "area": "272204",
+    "latitude": 27.3250434,
+    "longitude": 82.9075075,
+    "place_id": "ChIJLRxGSx7fljkRq9MVnAf-VWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLRxGSx7fljkRq9MVnAf-VWA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:14:06"
+  },
+  {
+    "business_name": "Apsara beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "272204",
+    "phone_number": "+91 83170 29537",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "73J2+529, Sanai Khurd, Uttar Pradesh 272207",
+    "area": "272204",
+    "latitude": 27.2804067,
+    "longitude": 83.0501235,
+    "place_id": "ChIJfVscKgDbljkRIfGFwJYisV8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfVscKgDbljkRIfGFwJYisV8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:14:06"
+  }
+]

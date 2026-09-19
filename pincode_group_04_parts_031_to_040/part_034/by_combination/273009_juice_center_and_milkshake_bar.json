@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sudha fresh juice",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "273009",
+    "phone_number": "+91 95042 11411",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Head post office station road on front of west gate, Belisarai, Motihari, Bihar 845401",
+    "area": "Belisarai",
+    "latitude": 26.652523199999997,
+    "longitude": 84.9056975,
+    "place_id": "ChIJ76V8VZo1kzkRHu7gq6_twmE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ76V8VZo1kzkRHu7gq6_twmE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:47:19"
+  },
+  {
+    "business_name": "Delhi Juice & Shake",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "273009",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mahadev Jharkhandi, Awas Vikas Colony, Rapti Nagar Phase-4, Gorakhpur, Uttar Pradesh 273008",
+    "area": "Mahadev Jharkhandi, Awas Vikas Colony, Rapti Nagar Phase-4",
+    "latitude": 26.7450466,
+    "longitude": 83.416597,
+    "place_id": "ChIJfeSzHKxEkTkRZN9q6c9LPWE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfeSzHKxEkTkRZN9q6c9LPWE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:47:20"
+  }
+]

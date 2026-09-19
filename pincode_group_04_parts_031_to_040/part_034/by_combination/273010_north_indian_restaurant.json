@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yadav Kulfi House",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "273010",
+    "phone_number": "+91 73805 44044",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 275,
+    "address": "P9JJ+988, in front of GDA office, Buddh Vihar Part A, Taramandal, Gorakhpur, Uttar Pradesh 273017",
+    "area": "Buddh Vihar Part A, Taramandal",
+    "latitude": 26.730919399999998,
+    "longitude": 83.3808308,
+    "place_id": "ChIJrW83X9lDkTkRoJWhY4mYndQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrW83X9lDkTkRoJWhY4mYndQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:49:16"
+  },
+  {
+    "business_name": "Lake Queen Cruise (Gorakhpur)",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Restaurant, Modern Indian restaurant, North Indian restaurant",
+    "pincode": "273010",
+    "phone_number": "+91 94150 27200",
+    "website": "http://www.cruiselakequeen.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Nauka Vihar, Ramghar Tal, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Ramghar Tal",
+    "latitude": 26.725084499999998,
+    "longitude": 83.39675729999999,
+    "place_id": "ChIJwyVzoVRDkTkRF2YJEYJqo18",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwyVzoVRDkTkRF2YJEYJqo18",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:49:17"
+  }
+]

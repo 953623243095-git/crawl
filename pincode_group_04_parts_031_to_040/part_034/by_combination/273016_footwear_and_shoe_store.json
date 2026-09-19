@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Atiya footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "273016",
+    "phone_number": "+91 79055 04459",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "Phulwariya Rd, near prakash medical store, Mahuesugharpur, Budh Vihar Colony, Gorakhpur, Uttar Pradesh 273016",
+    "area": "Mahuesugharpur, Budh Vihar Colony",
+    "latitude": 26.7207312,
+    "longitude": 83.3756658,
+    "place_id": "ChIJG3BWPNpDkTkRrDSCmKghIrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG3BWPNpDkTkRrDSCmKghIrI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:59:18"
+  },
+  {
+    "business_name": "Life Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "273016",
+    "phone_number": "+91 98391 27881",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Mahuesugharpur, Azad Chowk, Gorakhpur, Uttar Pradesh 273016",
+    "area": "Mahuesugharpur, Azad Chowk",
+    "latitude": 26.732312099999998,
+    "longitude": 83.369188,
+    "place_id": "ChIJ-VpfOYZDkTkRqvUqC08q23M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-VpfOYZDkTkRqvUqC08q23M",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:59:18"
+  }
+]

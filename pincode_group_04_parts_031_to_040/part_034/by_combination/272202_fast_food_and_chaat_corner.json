@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maurya chat corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "272202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C39M+QCF, Birdpur No.7, Chakai Jot, Uttar Pradesh 272202",
+    "area": "272202",
+    "latitude": 27.4194346,
+    "longitude": 83.08353989999999,
+    "place_id": "ChIJVzpnRQDpljkR9Ah4SHrCL4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVzpnRQDpljkR9Ah4SHrCL4o",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:09:34"
+  },
+  {
+    "business_name": "Sahu Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "272202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "73WR+MQC, Lumbini Rd, Birdpur No.14, Naugarh, Uttar Pradesh 272203",
+    "area": "272202",
+    "latitude": 27.2966892,
+    "longitude": 83.0918958,
+    "place_id": "ChIJ7Skg0JnDljkROkzpNbPld8s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Skg0JnDljkROkzpNbPld8s",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:09:34"
+  }
+]

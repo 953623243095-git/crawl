@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lari Shoe",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "273009",
+    "phone_number": "+91 97958 00985",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8, Bansgaon Colony, Kalepur, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Bansgaon Colony, Kalepur",
+    "latitude": 26.742428399999998,
+    "longitude": 83.3788337,
+    "place_id": "ChIJGTY_AH5EkTkRAAAAMFvkwQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGTY_AH5EkTkRAAAAMFvkwQw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:47:31"
+  },
+  {
+    "business_name": "Shoes Shop",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "273009",
+    "phone_number": "+91 98386 80411",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "00, Park Rd, Bilandpur, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Bilandpur",
+    "latitude": 26.7536578,
+    "longitude": 83.37607059999999,
+    "place_id": "ChIJz9WqdedFkTkRcdpsUaxWO5U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz9WqdedFkTkRcdpsUaxWO5U",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:47:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Universal Books and Stationers",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "273012",
+    "phone_number": "+91 93020 03147",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shop No. 3, Classic Apartment, near Chanchala Bai College, behind Hira Sweets, Wright Town, Jabalpur, Madhya Pradesh 482002",
+    "area": "Wright Town",
+    "latitude": 23.1675295,
+    "longitude": 79.9259017,
+    "place_id": "ChIJ-WfrGYitgTkRu1KEtjbd-Mw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-WfrGYitgTkRu1KEtjbd-Mw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:52:23"
+  },
+  {
+    "business_name": "Nerbudda Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Scrapbooking store",
+    "pincode": "273012",
+    "phone_number": "+91 98277 76646",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "1105, Andherdeo, Ganjipura, Jabalpur, Madhya Pradesh 482002",
+    "area": "Andherdeo, Ganjipura",
+    "latitude": 23.1736053,
+    "longitude": 79.9340422,
+    "place_id": "ChIJQZKOwhaugTkRJO22awAa7_I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQZKOwhaugTkRJO22awAa7_I",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:52:23"
+  }
+]

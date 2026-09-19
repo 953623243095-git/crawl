@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Party Cool",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Party planner",
+    "all_categories": "Party planner, Balloon store, Children's party buffet, Children's party service, Party equipment rental service, Party store",
+    "pincode": "273161",
+    "phone_number": "+91 80 6242 9554",
+    "website": "https://partycool.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Ground Floor, Main Market, H-2/A, Krishna Market, Block H, Kalkaji, New Delhi, Delhi 110019",
+    "area": "Krishna Market, Block H, Kalkaji",
+    "latitude": 28.540689699999998,
+    "longitude": 77.2568246,
+    "place_id": "ChIJDZrxu7rjDDkRhkGSZlQbhSQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDZrxu7rjDDkRhkGSZlQbhSQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:13:24"
+  },
+  {
+    "business_name": "Oyedecor balloon decoration /wedding decoration",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Balloon artist, DJ service, Event planner, Wedding planner",
+    "pincode": "273161",
+    "phone_number": "+91 87459 75131",
+    "website": "https://oyedecor-balloon.grexa.site/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "C-4,Shyam Enclave Janakpuri near Canara bank),pin code-201005, Sahibabad, Ghaziabad, Uttar Pradesh 201006",
+    "area": "Block A, Janak Puri, Sahibabad",
+    "latitude": 28.679655999999998,
+    "longitude": 77.3423385,
+    "place_id": "ChIJOe4Y-_b7DDkR5utPnUzrZx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOe4Y-_b7DDkR5utPnUzrZx4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:13:24"
+  }
+]

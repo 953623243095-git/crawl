@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "273163",
+    "phone_number": "+91 95123 52212",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Basantpur 01, Basantpur Market, Maharajganj, Parsauni Buzurg, Uttar Pradesh 273151",
+    "area": "273163",
+    "latitude": 27.0300975,
+    "longitude": 83.67964839999999,
+    "place_id": "ChIJP_YBqvn5kzkRQ7ugMDO1a7E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP_YBqvn5kzkRQ7ugMDO1a7E",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:16:43"
+  },
+  {
+    "business_name": "TCI FREIGHT",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "273163",
+    "phone_number": "+91 98188 66824",
+    "website": "http://www.tcifreight.in/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "NATIONAL HIGHWAY, near INDO NEPAL BORDER, SUNAULI, Mahuva, Uttar Pradesh 273164",
+    "area": "273163",
+    "latitude": 27.372287,
+    "longitude": 83.443012,
+    "place_id": "ChIJsaqqquqiljkR-AqqdOlcE88",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsaqqquqiljkR-AqqdOlcE88",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:16:43"
+  }
+]

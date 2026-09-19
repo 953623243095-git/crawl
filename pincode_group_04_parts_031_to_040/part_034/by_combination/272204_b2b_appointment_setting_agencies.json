@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Callsmaster",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Advertising agency, Graphic designer, Marketing consultant, Web hosting company, Website designer",
+    "pincode": "272204",
+    "phone_number": "+91 98913 99433",
+    "website": "http://www.callsmaster.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "A-54, Block H-3, Keshopur Industrial Area, Vikaspuri, New Delhi, Delhi, 110018",
+    "area": "Block H-3, Keshopur Industrial Area, Vikaspuri",
+    "latitude": 28.649581599999998,
+    "longitude": 77.0760225,
+    "place_id": "ChIJ3_gxu9sEDTkRHsN0DOb3qxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3_gxu9sEDTkRHsN0DOb3qxs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:14:58"
+  },
+  {
+    "business_name": "PBMS Consulting",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "272204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Siddhartha municipality 8, Siddharthanagar, Nepal",
+    "area": "272204",
+    "latitude": 27.506953499999998,
+    "longitude": 83.45592769999999,
+    "place_id": "ChIJ3ZHAzz6bljkRJc1jHNqw6vk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3ZHAzz6bljkRJc1jHNqw6vk",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 07:14:59"
+  }
+]

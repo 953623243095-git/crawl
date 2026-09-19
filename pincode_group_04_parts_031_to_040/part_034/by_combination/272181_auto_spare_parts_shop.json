@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kumar Auto Parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "272181",
+    "phone_number": "+91 99351 39608",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Harraiya Road, Babnan Bazar, Basti, Babhnan, Uttar Pradesh 271313",
+    "area": "Babnan Bazar",
+    "latitude": 26.9340735,
+    "longitude": 82.5018388,
+    "place_id": "ChIJk8EaJ_W1kDkRI0CEpHVbR8o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk8EaJ_W1kDkRI0CEpHVbR8o",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:49:56"
+  },
+  {
+    "business_name": "किराना दुकान",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto spring shop",
+    "all_categories": "Auto spring shop",
+    "pincode": "272181",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "RGH8+44P, Unnamed Road, Uttar Pradesh 272155",
+    "area": "272181",
+    "latitude": 26.827828099999998,
+    "longitude": 82.5153216,
+    "place_id": "ChIJs-gWvmy3kDkR1rK5c1OsxBM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs-gWvmy3kDkR1rK5c1OsxBM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:49:58"
+  }
+]

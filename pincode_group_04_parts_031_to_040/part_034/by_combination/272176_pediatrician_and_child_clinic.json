@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Child Care Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Child health care center",
+    "all_categories": "Child health care center, Doctor",
+    "pincode": "272176",
+    "phone_number": "+91 98114 82349",
+    "website": "http://drpoonamkohli.co.in/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "C-116, Pocket C, Sarita Vihar, New Delhi, Delhi 110076",
+    "area": "Pocket C, Sarita Vihar",
+    "latitude": 28.531079799999997,
+    "longitude": 77.2924295,
+    "place_id": "ChIJoewp2qrmDDkRkcNSnI7oB3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoewp2qrmDDkRkcNSnI7oB3o",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:44:23"
+  },
+  {
+    "business_name": "Dr Atul Chopra's Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician",
+    "pincode": "272176",
+    "phone_number": "+91 99530 06000",
+    "website": "https://www.dratulchopra.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "W-3, Alaknanda Rd, opposite W block Park, on the, Block W, Part-2, Greater Kailash, New Delhi, Delhi 110048",
+    "area": "Block W, Part-2, Greater Kailash",
+    "latitude": 28.5302191,
+    "longitude": 77.2422519,
+    "place_id": "ChIJ13ZNXLrhDDkRRPow9aU9Ftk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ13ZNXLrhDDkRRPow9aU9Ftk",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:44:23"
+  }
+]
