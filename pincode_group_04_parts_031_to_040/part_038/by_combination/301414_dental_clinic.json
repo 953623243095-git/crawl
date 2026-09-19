@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "301414",
+    "phone_number": "+91 72308 22911",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "C-16, Sahab Johada, Karamchari Colony, Alwar, Rajasthan 301001",
+    "area": "Sahab Johada, Karamchari Colony",
+    "latitude": 27.5834098,
+    "longitude": 76.6211672,
+    "place_id": "ChIJ3fMh1saZcjkR2FjHILy4Ts4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3fMh1saZcjkR2FjHILy4Ts4",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:14:30"
+  },
+  {
+    "business_name": "UNIQUE DENTAL CARE",
+    "search_category": "Dental Clinic",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "301414",
+    "phone_number": "+91 91168 97295",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 28,
+    "address": "9JRG+27V, Mala Khera, Rajasthan 301406",
+    "area": "301414",
+    "latitude": 27.390102,
+    "longitude": 76.62565959999999,
+    "place_id": "ChIJd4dGXOyFcjkRr0vezgfCsB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd4dGXOyFcjkRr0vezgfCsB4",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:14:33"
+  }
+]

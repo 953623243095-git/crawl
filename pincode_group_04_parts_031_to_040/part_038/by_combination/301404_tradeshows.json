@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The trade fair",
+    "search_category": "Tradeshows",
+    "primary_category": "Tradeshows",
+    "all_categories": "Tradeshows",
+    "pincode": "301404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 22,
+    "address": "Dusshera Maidan, In, Karamchari Colony, Alwar, Rajasthan 301001",
+    "area": "Sahab Johada, Karamchari Colony",
+    "latitude": 27.582186099999998,
+    "longitude": 76.61567269999999,
+    "place_id": "ChIJ8d10PwCZcjkRDfni-KBNxeE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8d10PwCZcjkRDfni-KBNxeE",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:56:11"
+  },
+  {
+    "business_name": "Brij Minerals",
+    "search_category": "Tradeshows",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "301404",
+    "phone_number": "+91 95499 33555",
+    "website": "https://brijminerals.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "F-30, M.I.A, Alwar (Raj.)-301030, F-30, M.I.A, Alwar, Rajasthan 301001",
+    "area": "Matsya Industrial Area",
+    "latitude": 27.520985699999997,
+    "longitude": 76.6848779,
+    "place_id": "ChIJ813mp4-ZcjkRHUKGLT2NY7Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ813mp4-ZcjkRHUKGLT2NY7Q",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:56:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ansa Interiors",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Architectural designer",
+    "pincode": "301416",
+    "phone_number": "+91 98106 30334",
+    "website": "https://ansainteriors.com/",
+    "rating": 4.3,
+    "reviews_count": 174,
+    "address": "2nd Floor 12, Community Center, Block A, Phase I, Mayapuri, New Delhi, Delhi, 110064",
+    "area": "Block A, Phase I, Mayapuri",
+    "latitude": 28.631314999999997,
+    "longitude": 77.12561099999999,
+    "place_id": "ChIJXzO8qTgDDTkRQSUVKTQMrdg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXzO8qTgDDTkRQSUVKTQMrdg",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:18:41"
+  },
+  {
+    "business_name": "Design Atelier",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "301416",
+    "phone_number": "+91 99285 17985",
+    "website": "http://www.design-atelier.co.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "2nd Floor, H-20, Bhagat Singh Marg, near J. Dwarka Jewellers, C Scheme, Ashok Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302001",
+    "area": "C Scheme, Ashok Nagar",
+    "latitude": 26.9131662,
+    "longitude": 75.7990945,
+    "place_id": "ChIJ0fqYJwS0bTkRGczWzUrYW6I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0fqYJwS0bTkRGczWzUrYW6I",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:18:43"
+  }
+]

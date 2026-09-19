@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "IT Company Neemrana",
+    "search_category": "SEO Consultants",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Camera store, Computer service, Website designer, Internet service provider, Software company, Software Training Institute, Web hosting company",
+    "pincode": "301701",
+    "phone_number": "+91 85050 73668",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 6,
+    "address": "169 Shri Ram Plaza, Neemrana, Rajasthan 301705",
+    "area": "301701",
+    "latitude": 27.983663,
+    "longitude": 76.3878502,
+    "place_id": "ChIJ-YjH6clUbTkRP3Su1nbVSIQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-YjH6clUbTkRP3Su1nbVSIQ",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:25:14"
+  },
+  {
+    "business_name": "ClientsFirstIT",
+    "search_category": "SEO Consultants",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "301701",
+    "phone_number": "+91 82098 79939",
+    "website": "https://clientsfirstit.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "ClientsFirstIT, 301701, India",
+    "area": "301701",
+    "latitude": 32.594899999999996,
+    "longitude": -47.802320699999996,
+    "place_id": "ChIJD1990B2zbTkR106H3d0NUMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD1990B2zbTkR106H3d0NUMs",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:25:15"
+  }
+]

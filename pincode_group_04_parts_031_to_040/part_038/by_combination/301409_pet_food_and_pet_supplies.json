@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Modern Pet Store",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "301409",
+    "phone_number": "+91 89016 28889",
+    "website": "https://sites.google.com/view/modernpetstore/home",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "Shop No. 1, near HDFC Bank, Sector C, Defence Colony, Haryana 133010",
+    "area": "Sector C, Defence Colony",
+    "latitude": 30.3826777,
+    "longitude": 76.8629804,
+    "place_id": "ChIJ2ceKaY63DzkRDUtaoXmOxnE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ceKaY63DzkRDUtaoXmOxnE",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:04:37"
+  },
+  {
+    "business_name": "Rapid Pets",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Pet groomer, Pet store",
+    "pincode": "301409",
+    "phone_number": "+91 99902 48204",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 402,
+    "address": "Street Number 4, Jogabai Extension, Zakir Nagar, Okhla, New Delhi, Delhi 110025",
+    "area": "Jogabai Extension, Zakir Nagar, Okhla",
+    "latitude": 28.569084999999998,
+    "longitude": 77.282477,
+    "place_id": "ChIJZXhtHonjDDkRlNkzW08pAx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZXhtHonjDDkRlNkzW08pAx8",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:04:37"
+  }
+]

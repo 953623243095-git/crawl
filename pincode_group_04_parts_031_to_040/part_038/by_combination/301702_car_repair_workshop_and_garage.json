@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sun Rise Automobile workshop Rewari",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Garage",
+    "all_categories": "Garage",
+    "pincode": "301702",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sun Rise Automobile workshop, near, Rewari - Delhi Rd, near by RPS school, near Shyam cng centre, vill, Hansaka, Haryana 123401",
+    "area": "vill",
+    "latitude": 28.2047289,
+    "longitude": 76.691272,
+    "place_id": "ChIJW-5QOOJFDTkRLHVL-_CUXLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW-5QOOJFDTkRLHVL-_CUXLk",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:25:59"
+  },
+  {
+    "business_name": "Massey Ferguson - Shree Laxmi Tractors",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer, Agricultural machinery manufacturer, Farm equipment supplier, Machinery parts manufacturer, Tractor parts store, Tractor repair shop",
+    "pincode": "301702",
+    "phone_number": "+91 80 4492 4542",
+    "website": "https://dealers.masseyfergusonindia.com/tractors-in-masani-rewari-haryana-123501/home",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Saban Road, opposite Civil Hospital, Harchandpur, Bawal, Haryana 123501",
+    "area": "301702",
+    "latitude": 28.075018,
+    "longitude": 76.564932,
+    "place_id": "ChIJJfFBLxlTDTkRE1VLB2ENOOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJfFBLxlTDTkRE1VLB2ENOOs",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:26:01"
+  }
+]

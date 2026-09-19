@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaipur Cat Hub",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "302002",
+    "phone_number": "+91 90792 45573",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "E-163, RPA Rd, Pani Pech, Swarnkar Colony, Nehru Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302016",
+    "area": "Pani Pech, Swarnkar Colony, Nehru Nagar",
+    "latitude": 26.944602999999997,
+    "longitude": 75.7873766,
+    "place_id": "ChIJv2olJu2zbTkR3kz3ypgDzRU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv2olJu2zbTkR3kz3ypgDzRU",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:46:25"
+  },
+  {
+    "business_name": "Dog It Up India | Certified Puppies",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "302002",
+    "phone_number": "+91 97200 58008",
+    "website": "http://dogitup.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "B 124, Burmese Colony, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302004",
+    "area": "Burmese Colony",
+    "latitude": 26.9011629,
+    "longitude": 75.8420745,
+    "place_id": "ChIJ6chxm4i3bTkRmQzs9yYGuiM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6chxm4i3bTkRmQzs9yYGuiM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:46:26"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kavita Boutique Ateli",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "301703",
+    "phone_number": "+91 94663 97667",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "behind Railway Station, near Post Office, Ward No 10, Ateli Mandi, Ateli, Haryana 123021",
+    "area": "Ward No 10, Ateli Mandi",
+    "latitude": 28.1017545,
+    "longitude": 76.2528811,
+    "place_id": "ChIJT44SPQCxEjkRTWX3QWnZZ9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT44SPQCxEjkRTWX3QWnZZ9s",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:27:33"
+  },
+  {
+    "business_name": "Siyaram's Shop - Kanina Road, Mahendragarh",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Clothes market, Designer Clothing Store, Fabric store, Formal Clothing Store, Men's clothing store, Plus Size Clothing Store, Tuxedo shop, Uniform store",
+    "pincode": "301703",
+    "phone_number": "+91 96716 00799",
+    "website": "https://www.siyaram.com/",
+    "rating": 4.7,
+    "reviews_count": 18,
+    "address": "Ateli - Kanina Rd, Ateli, Haryana 123021",
+    "area": "301703",
+    "latitude": 28.109533199999998,
+    "longitude": 76.2604193,
+    "place_id": "ChIJM991_ZmxEjkRn3igYCEj-J8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM991_ZmxEjkRn3igYCEj-J8",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:27:35"
+  }
+]

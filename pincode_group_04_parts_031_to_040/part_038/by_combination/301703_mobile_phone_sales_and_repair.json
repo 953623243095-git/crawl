@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rohilla Mobile",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "301703",
+    "phone_number": "+91 89306 23854",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4732+QPM, Ward No. 11, Ateli Mandi, Khor, Haryana 123021",
+    "area": "Ward No. 11, Ateli Mandi",
+    "latitude": 28.1044968,
+    "longitude": 76.2518011,
+    "place_id": "ChIJsT24NACxEjkRzXVbv2yTWns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsT24NACxEjkRzXVbv2yTWns",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:28:37"
+  },
+  {
+    "business_name": "Lucky mobile communication(kailash barfi wala)",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "301703",
+    "phone_number": "+91 83074 88545",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Kailash barfiwala, near, Jhanda Chowk Rd, Ateli Mandi, Ateli, Haryana 123021",
+    "area": "Ateli Mandi",
+    "latitude": 28.098456,
+    "longitude": 76.2589638,
+    "place_id": "ChIJBcxGgrSxEjkRCjbm0xzXFjA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBcxGgrSxEjkRCjbm0xzXFjA",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:28:41"
+  }
+]

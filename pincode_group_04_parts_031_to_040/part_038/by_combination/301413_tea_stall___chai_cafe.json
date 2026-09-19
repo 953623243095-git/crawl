@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajesh T",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "301413",
+    "phone_number": "+91 90797 94803",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "2, Alwar, Rajasthan 301001",
+    "area": "Mungshka, Jyoti Nagar",
+    "latitude": 27.5619689,
+    "longitude": 76.6222861,
+    "place_id": "ChIJgVzvizSZcjkRNP785LUYvYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgVzvizSZcjkRNP785LUYvYk",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:12:19"
+  },
+  {
+    "business_name": "CHOUDHARY TEA BREAK",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "301413",
+    "phone_number": "+91 95877 51380",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Hanuman mandir ke samne, khorpuri ka tibara, Near, Delhi - Mumbai Expy, Barodameo, Rajasthan 301021",
+    "area": "301413",
+    "latitude": 27.484372099999998,
+    "longitude": 76.85101829999999,
+    "place_id": "ChIJa1AI4mzzcjkR8sXQvLXURJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa1AI4mzzcjkR8sXQvLXURJY",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:12:19"
+  }
+]

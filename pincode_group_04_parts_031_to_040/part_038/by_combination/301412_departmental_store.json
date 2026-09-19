@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaga grocery store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "301412",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Unnamed Road, near aata chaki, Dhis, Bardod, Rajasthan 301020",
+    "area": "301412",
+    "latitude": 27.886465899999997,
+    "longitude": 76.3659948,
+    "place_id": "ChIJ5e__wKxXbTkRoCBHd-BGK6M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5e__wKxXbTkRoCBHd-BGK6M",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:10:12"
+  },
+  {
+    "business_name": "Mahaveer Kiryana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "301412",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "R97J+5F2, Majra Dhakoda, Rajasthan 301412",
+    "area": "301412",
+    "latitude": 27.8128839,
+    "longitude": 76.3811312,
+    "place_id": "ChIJy0OH8bZXbTkRC-3tJ1VLANM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy0OH8bZXbTkRC-3tJ1VLANM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:10:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cholamandalam Investment and Finance Company Limited",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency, Car finance and loan company, Finance broker, Financial advisor, Financial institution, Mortgage lender",
+    "pincode": "301409",
+    "phone_number": "+91 80 4446 5038",
+    "website": "https://www.cholamandalam.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ground Floor, No. 73, Bandikui Rd, near Hotel Royal Niwas, Bandikui, Rajasthan 303313",
+    "area": "301409",
+    "latitude": 27.0372994,
+    "longitude": 76.56697369999999,
+    "place_id": "ChIJb9tTw8JxcjkR00r5PNTt-v4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb9tTw8JxcjkR00r5PNTt-v4",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:05:59"
+  },
+  {
+    "business_name": "HDB FINANCIAL SERVICES LTD",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution, Business development service, Car finance and loan company, Loan agency, Mortgage broker, Mortgage lender",
+    "pincode": "301409",
+    "phone_number": "+91 44 4298 4541",
+    "website": "https://www.hdbfs.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2nd Floor, Baswa Rd, opp. Petrol Pump, Jagir Bandikui, Bandikui Jageer rural, Bandikui, Rajasthan 303313",
+    "area": "Jagir Bandikui",
+    "latitude": 27.0571342,
+    "longitude": 76.5728941,
+    "place_id": "ChIJt4P4MGBxcjkRoXehMuJfCqk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt4P4MGBxcjkRoXehMuJfCqk",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:06:02"
+  }
+]

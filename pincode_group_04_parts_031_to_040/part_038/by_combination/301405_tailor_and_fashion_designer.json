@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rashid Tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "301405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Mahaver Wadi Mohalla, Khuntala Mohalla, Tijara, Rajasthan 301411",
+    "area": "Mahaver Wadi Mohalla, Khuntala Mohalla",
+    "latitude": 27.9336396,
+    "longitude": 76.85661569999999,
+    "place_id": "ChIJX9XA3pHJcjkRYzutppd6qS0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX9XA3pHJcjkRYzutppd6qS0",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:56:45"
+  },
+  {
+    "business_name": "Taimur Ali Tailor Shop",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "301405",
+    "phone_number": "+91 98137 64302",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mewat Model School, Nuh, Haryana 122108",
+    "area": "301405",
+    "latitude": 27.9142974,
+    "longitude": 76.9940586,
+    "place_id": "ChIJ3ZaaL7zPcjkR8vpQucCcTpw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3ZaaL7zPcjkR8vpQucCcTpw",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:56:47"
+  }
+]

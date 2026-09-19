@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Diwan Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Pen store",
+    "pincode": "301703",
+    "phone_number": "+91 94163 72307",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Narnaul Rewari Road, Ateli Mandi, Haryana 123021",
+    "area": "Ateli Mandi",
+    "latitude": 28.106322199999997,
+    "longitude": 76.2565341,
+    "place_id": "ChIJAVw0D8-xEjkRxn-dIE_2G3A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAVw0D8-xEjkRxn-dIE_2G3A",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:28:35"
+  },
+  {
+    "business_name": "Pankaj Book Deepo",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "301703",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "4744+F43, Rewari - Narnaul - Singhana Rd, Ateli Mandi, Khor, Haryana 123021",
+    "area": "Ateli Mandi",
+    "latitude": 28.1061257,
+    "longitude": 76.25530719999999,
+    "place_id": "ChIJCRZ8Fs-xEjkRIqSDaF5EU88",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCRZ8Fs-xEjkRIqSDaF5EU88",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:28:35"
+  }
+]

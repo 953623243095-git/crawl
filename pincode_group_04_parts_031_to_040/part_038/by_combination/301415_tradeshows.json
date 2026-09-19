@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India Traders",
+    "search_category": "Tradeshows",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "301415",
+    "phone_number": "+91 88261 53736",
+    "website": "https://www.indiatradersreels.in/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Ground Floor, Khasra No. 1726, Grand Trunk Rd, opposite to pillar no. 154, Shaheed Nagar, Sahibabad, Ghaziabad, Uttar Pradesh 201006",
+    "area": "Shaheed Nagar, Sahibabad",
+    "latitude": 28.6769319,
+    "longitude": 77.33874689999999,
+    "place_id": "ChIJc4-gdGn7DDkRL10muKFu7aM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc4-gdGn7DDkRL10muKFu7aM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:17:40"
+  },
+  {
+    "business_name": "The Exhibition Network",
+    "search_category": "Tradeshows",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Service establishment",
+    "pincode": "301415",
+    "phone_number": "+91 99918 56776",
+    "website": "https://exhibition.org.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "The Exhibition Network, 301415, India",
+    "area": "301415",
+    "latitude": 28.6159274,
+    "longitude": 77.2460395,
+    "place_id": "ChIJyeHitv0hC2MRgPaHU8tOmKM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyeHitv0hC2MRgPaHU8tOmKM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:17:40"
+  }
+]

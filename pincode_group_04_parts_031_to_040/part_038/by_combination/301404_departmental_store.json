@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hakmudeen Kirana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store, Grocery store",
+    "pincode": "301404",
+    "phone_number": "+91 97859 28388",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Kolgaon Rd, Alwar, Kolgaon, Rajasthan 301405",
+    "area": "301404",
+    "latitude": 27.726597299999998,
+    "longitude": 76.76744719999999,
+    "place_id": "ChIJmUdpCwC_cjkRoF8Ut0eikyU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmUdpCwC_cjkRoF8Ut0eikyU",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:54:15"
+  },
+  {
+    "business_name": "Sharuk grocery store",
+    "search_category": "Departmental Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "301404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "PP22+7FH, Jajor, bhoya, Jajor, Rajasthan 301028",
+    "area": "Jajor, bhoya",
+    "latitude": 27.700680799999997,
+    "longitude": 76.7012225,
+    "place_id": "ChIJH0skLwC9cjkRHwycTC5ZXkE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH0skLwC9cjkRHwycTC5ZXkE",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:54:16"
+  }
+]

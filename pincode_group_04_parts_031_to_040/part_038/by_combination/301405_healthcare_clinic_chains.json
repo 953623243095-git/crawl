@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HEALTH CARE MEDICOS",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "301405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3R6J+FW9, Main Road, near Shiv Mandir, Tapukara, Gelpur, Rajasthan 301707",
+    "area": "301405",
+    "latitude": 28.0611657,
+    "longitude": 76.83236629999999,
+    "place_id": "ChIJOzOLXQA1DTkRLCVpmKJJlys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOzOLXQA1DTkRLCVpmKJJlys",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:57:07"
+  },
+  {
+    "business_name": "VCA HEALTHCARE",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "301405",
+    "phone_number": "N/A",
+    "website": "http://www.vcahealthcare.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Agro Food Park, MIA G-91, Matsya Industrial Area, Alwar, Jhareda, Rajasthan 301030",
+    "area": "MIA G-91, Matsya Industrial Area",
+    "latitude": 27.4998744,
+    "longitude": 76.6936813,
+    "place_id": "ChIJ04-LX9ybcjkRzqsv54KTSTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ04-LX9ybcjkRzqsv54KTSTY",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:57:08"
+  }
+]

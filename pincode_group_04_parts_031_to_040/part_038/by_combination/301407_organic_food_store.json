@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GREEN SHOP (vegetable & fruits)",
+    "search_category": "Organic Food Store",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "301407",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "KE SAMNE, LORDS CITY HOMES, Mannaka Rd, Sakti Nagar, Alwar, Mannaka, Rajasthan 301001",
+    "area": "Sakti Nagar",
+    "latitude": 27.5695613,
+    "longitude": 76.6467232,
+    "place_id": "ChIJDxE8IpSXcjkRXxpo-ElOHo0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDxE8IpSXcjkRXxpo-ElOHo0",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:00:42"
+  },
+  {
+    "business_name": "Dhaked organic product",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Agricultural production, Organic farm",
+    "pincode": "301407",
+    "phone_number": "+91 80584 66270",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "8- visa, Beerampura, Birampur, Rajasthan 321302",
+    "area": "301407",
+    "latitude": 27.0285668,
+    "longitude": 77.34497089999999,
+    "place_id": "ChIJIbwkM1-3czkRzWitVT9_MW4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIbwkM1-3czkRzWitVT9_MW4",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:00:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dev Tractors and Farm Equipment",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "301411",
+    "phone_number": "+91 98913 38099",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 24,
+    "address": "1757, GT Rd, Chandpur, Bulandshahr, Uttar Pradesh 203002",
+    "area": "Chandpur",
+    "latitude": 28.400244899999997,
+    "longitude": 77.8292252,
+    "place_id": "ChIJdf7diCulDDkRym0BS7g_XGQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdf7diCulDDkRym0BS7g_XGQ",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:08:57"
+  },
+  {
+    "business_name": "Tractor service available",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "301411",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "82W2+8JR, Garat Pur Bas, Haryana 122101",
+    "area": "301411",
+    "latitude": 28.345868099999997,
+    "longitude": 77.0015121,
+    "place_id": "ChIJtYhIDC49DTkRQhm4ukvanZk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtYhIDC49DTkRQhm4ukvanZk",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:08:58"
+  }
+]

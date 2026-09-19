@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tagore bhawan",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "301706",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Beejwad Rd, mod, Shahjahanpur, Rajasthan 301706",
+    "area": "mod",
+    "latitude": 27.9981643,
+    "longitude": 76.4544935,
+    "place_id": "ChIJq4rMaPmrEjkRMAgdwuPZVhk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq4rMaPmrEjkRMAgdwuPZVhk",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:33:55"
+  },
+  {
+    "business_name": "Move",
+    "search_category": "Banquet Hall",
+    "primary_category": "Village hall",
+    "all_categories": "Village hall",
+    "pincode": "301706",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 10,
+    "address": "2FFQ+P2P, Bawal, Rajasthan 301706",
+    "area": "301706",
+    "latitude": 28.0243462,
+    "longitude": 76.4875842,
+    "place_id": "ChIJV2nmmpBVDTkRwFVZT7CoUgo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV2nmmpBVDTkRwFVZT7CoUgo",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:33:55"
+  }
+]

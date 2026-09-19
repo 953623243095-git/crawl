@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nitesh kumar",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Housing society",
+    "pincode": "301407",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "VGR6+7CX, Thakaro ka mohalla, Ulaheri, Rajasthan 301407",
+    "area": "301407",
+    "latitude": 27.890727599999998,
+    "longitude": 76.511096,
+    "place_id": "ChIJTe2zFf6pcjkRFHpfdeHf77g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTe2zFf6pcjkRFHpfdeHf77g",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:02:13"
+  },
+  {
+    "business_name": "Mrg construction",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "301407",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 6,
+    "address": "RF2G+3X5, Dhailawas, Rajasthan 301407",
+    "area": "301407",
+    "latitude": 27.800141999999997,
+    "longitude": 76.4774793,
+    "place_id": "ChIJSXbtNwCncjkRhdkAhofVaps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSXbtNwCncjkRhdkAhofVaps",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:02:13"
+  }
+]

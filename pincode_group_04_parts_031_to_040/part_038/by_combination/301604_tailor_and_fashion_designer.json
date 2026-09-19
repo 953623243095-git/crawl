@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bombay Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "301604",
+    "phone_number": "+91 96673 79190",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "bombay tailors, TH Nagar, Nagar, Rajasthan 321205",
+    "area": "TH Nagar",
+    "latitude": 27.4232901,
+    "longitude": 77.09775859999999,
+    "place_id": "ChIJLzBcWvf7cjkR8W8oJFgq1Hw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLzBcWvf7cjkR8W8oJFgq1Hw",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:21:54"
+  },
+  {
+    "business_name": "Tarun tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Gents Tailor",
+    "all_categories": "Gents Tailor",
+    "pincode": "301604",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "GX3X+RWG, Govind Garh, Rajasthan 301604",
+    "area": "301604",
+    "latitude": 27.504563599999997,
+    "longitude": 76.9998433,
+    "place_id": "ChIJDammgSrvcjkRyBcalNDAzmc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDammgSrvcjkRyBcalNDAzmc",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:21:54"
+  }
+]

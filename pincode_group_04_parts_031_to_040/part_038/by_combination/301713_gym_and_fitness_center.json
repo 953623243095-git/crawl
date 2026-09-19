@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Murar Sports Academy",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gymnastics center",
+    "all_categories": "Gymnastics center",
+    "pincode": "301713",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "W7Q9+4X2, Sorwa, Mhobat Sorwa, Rajasthan 301701",
+    "area": "301713",
+    "latitude": 27.937762499999998,
+    "longitude": 76.2698906,
+    "place_id": "ChIJ9XNTMQBTbTkRyw00Qk1O5HM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9XNTMQBTbTkRyw00Qk1O5HM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:41:00"
+  },
+  {
+    "business_name": "Fitness Lovers Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "301713",
+    "phone_number": "+91 94683 43856",
+    "website": "http://www.fitnessloversgym.com/",
+    "rating": 4.6,
+    "reviews_count": 75,
+    "address": "Bhungarka, Sirohi Road, Nangal Chaudhary, Haryana 123023",
+    "area": "301713",
+    "latitude": 27.9254711,
+    "longitude": 76.1397295,
+    "place_id": "ChIJXfwioXNLbTkRcbVi8IPiwh4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXfwioXNLbTkRcbVi8IPiwh4",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:41:00"
+  }
+]

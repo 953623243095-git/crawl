@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JKJ Fashions",
+    "search_category": "Bridal Wear and Wedding Collection",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store, Clothing store, Clothing Accessories Store, Shopping mall, Store",
+    "pincode": "301413",
+    "phone_number": "+91 141 411 3565",
+    "website": "https://www.jkjfashions.in/",
+    "rating": 4.6,
+    "reviews_count": 79,
+    "address": "1st floor, A-271, shivanand marg near satkar shopping center, above JKJ JEWELLERS, Malviya Nagar, Jaipur, Rajasthan 302017",
+    "area": "Block-A, Sector 4, Malviya Nagar",
+    "latitude": 26.8523125,
+    "longitude": 75.8189458,
+    "place_id": "ChIJcXqHNd23bTkReUQojFaN5Vc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcXqHNd23bTkReUQojFaN5Vc",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:12:31"
+  },
+  {
+    "business_name": "Agarwal Creation",
+    "search_category": "Bridal Wear and Wedding Collection",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "301413",
+    "phone_number": "+91 94606 02409",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 22,
+    "address": "Shopping complex, B 41, Hasan Khan Mewati Nagar, Alwar, Rajasthan 301001",
+    "area": "Hasan Khan Mewati Nagar",
+    "latitude": 27.5956466,
+    "longitude": 76.6152329,
+    "place_id": "ChIJr5wzzN6ZcjkRslOypNm7bEI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr5wzzN6ZcjkRslOypNm7bEI",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:12:32"
+  }
+]

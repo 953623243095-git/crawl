@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aarav polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "301406",
+    "phone_number": "+91 99500 02838",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "A-9, near Surya Nagar Road, Vaishali Nagar, Kherado, Alwar, Belaka, Rajasthan 301001",
+    "area": "Vaishali Nagar, Kherado",
+    "latitude": 27.549199599999998,
+    "longitude": 76.6505143,
+    "place_id": "ChIJf5pOO9GRcjkRCOf04JXXlN8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf5pOO9GRcjkRCOf04JXXlN8",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:59:10"
+  },
+  {
+    "business_name": "Alwar Acupuncture and poly clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Acupuncture clinic",
+    "all_categories": "Acupuncture clinic",
+    "pincode": "301406",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3/685, Alwar - Jaipur Rd, Kala Kuan, Housing Board, Aravali Vihar, Alwar, Rundh Bhakhera, Rajasthan 301001",
+    "area": "Kala Kuan, Housing Board, Aravali Vihar",
+    "latitude": 27.5436917,
+    "longitude": 76.593415,
+    "place_id": "ChIJCeA9QACbcjkRoZSSps2tcXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCeA9QACbcjkRoZSSps2tcXc",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:59:10"
+  }
+]

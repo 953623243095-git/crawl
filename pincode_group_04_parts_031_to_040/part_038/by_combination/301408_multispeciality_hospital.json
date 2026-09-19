@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AMH HOSPITAL",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "301408",
+    "phone_number": "+91 92563 74268",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "AMH Hospital, Bus Stand, Rajgarh Rd, Dhigawara, Rajgarh, Rajasthan 301414",
+    "area": "301408",
+    "latitude": 27.296418,
+    "longitude": 76.6216211,
+    "place_id": "ChIJJ5w7OmOHcjkR3fiXpdf1BGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ5w7OmOHcjkR3fiXpdf1BGo",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:03:00"
+  },
+  {
+    "business_name": "Vedanta Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, Hospital, Public health department",
+    "pincode": "301408",
+    "phone_number": "+91 63506 09805",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Rajgarh, Todabhim - Thana Rd, Shreenagar, Rajasthan 301408",
+    "area": "301408",
+    "latitude": 27.229707899999998,
+    "longitude": 76.6084475,
+    "place_id": "ChIJPZScQwR9cjkRp07iih60z30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPZScQwR9cjkRp07iih60z30",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:03:00"
+  }
+]

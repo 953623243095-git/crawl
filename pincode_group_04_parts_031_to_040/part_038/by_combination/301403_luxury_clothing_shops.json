@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "House of Ivory",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "301403",
+    "phone_number": "N/A",
+    "website": "https://houseofivory.in/",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "Anand Nagar, Khairthal, Rajasthan 301404",
+    "area": "Anand Nagar",
+    "latitude": 27.8011636,
+    "longitude": 76.6441591,
+    "place_id": "ChIJE25cwSm7cjkRwTSFdO9K06Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE25cwSm7cjkRwTSFdO9K06Q",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:52:35"
+  },
+  {
+    "business_name": "Memsaab Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store, Boutique",
+    "pincode": "301403",
+    "phone_number": "+91 94142 55756",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 9,
+    "address": "Kishangarh Rd, behind J.P. Garments, near Vijay Sports, Anand Nagar, Khairthal, Rajasthan 301404",
+    "area": "Anand Nagar",
+    "latitude": 27.800672199999998,
+    "longitude": 76.642727,
+    "place_id": "ChIJxdMGi667cjkRy3WAqo7R9OM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxdMGi667cjkRy3WAqo7R9OM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:52:35"
+  }
+]

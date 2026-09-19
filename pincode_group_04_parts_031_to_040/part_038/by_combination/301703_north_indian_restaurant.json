@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Khatushyam",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "301703",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "XCWF+47R, Alwar, Shahjahanpur, Rajasthan 301705",
+    "area": "301703",
+    "latitude": 27.995352999999998,
+    "longitude": 76.4231281,
+    "place_id": "ChIJVR53TM2qEjkRXU8HAx-2iiE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVR53TM2qEjkRXU8HAx-2iiE",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:27:26"
+  },
+  {
+    "business_name": "शेर-ए पंजाबी ढाबा",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Dhaba",
+    "pincode": "301703",
+    "phone_number": "+91 99503 06187",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "XCVF+XGQ, near Toll plaza, Neemrana, Rajasthan 301705",
+    "area": "301703",
+    "latitude": 27.994955299999997,
+    "longitude": 76.4238472,
+    "place_id": "ChIJX7NBLc2qEjkRp3bSgK0kgpU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX7NBLc2qEjkRp3bSgK0kgpU",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:27:26"
+  }
+]

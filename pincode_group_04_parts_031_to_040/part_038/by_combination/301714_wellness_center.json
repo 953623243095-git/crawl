@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wellness center",
+    "search_category": "Wellness Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center",
+    "pincode": "301714",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "V92H+MGV, Jogi Baba Marg, Bhasha, Reoti, Uttar Pradesh 277209",
+    "area": "301714",
+    "latitude": 25.8517041,
+    "longitude": 84.3788106,
+    "place_id": "ChIJjeNHMwCNkjkRXllrHcF6FBY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjeNHMwCNkjkRXllrHcF6FBY",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:43:23"
+  },
+  {
+    "business_name": "wellness services",
+    "search_category": "Wellness Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center",
+    "pincode": "301714",
+    "phone_number": "+91 79766 56139",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2CF9+GJF health and nutrition centre, opp. yes bank, Bansur, Haryana 124513",
+    "area": "301714",
+    "latitude": 29.0238098,
+    "longitude": 76.419035,
+    "place_id": "ChIJq6qqqi1cbTkRf4S4CsIddPk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqi1cbTkRf4S4CsIddPk",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:43:24"
+  }
+]

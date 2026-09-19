@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vikas yadav",
+    "search_category": "Insurance Agent",
+    "primary_category": "Home insurance agency",
+    "all_categories": "Home insurance agency",
+    "pincode": "301706",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XFJ9+8RM, Harinagar, Shahjahanpur, Harinagar, Rajasthan 301706",
+    "area": "Harinagar",
+    "latitude": 27.980828,
+    "longitude": 76.4695333,
+    "place_id": "ChIJab6lMgCrcjkR8PimQ5U6cIU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJab6lMgCrcjkR8PimQ5U6cIU",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:34:18"
+  },
+  {
+    "business_name": "Insurance Agent",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Service establishment",
+    "pincode": "301706",
+    "phone_number": "N/A",
+    "website": "http://www.licindia.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Insurance Agent, 301706, India",
+    "area": "301706",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJV0MVEEjnDDkRkBW9vkeYEtc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV0MVEEjnDDkRkBW9vkeYEtc",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:34:20"
+  }
+]

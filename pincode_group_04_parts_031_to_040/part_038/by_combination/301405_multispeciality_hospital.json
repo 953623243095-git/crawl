@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Patel Hospital Alwar",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Doctor",
+    "pincode": "301405",
+    "phone_number": "+91 94133 04480",
+    "website": "https://www.patelhospitals.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "180, 197 Scheme No. 2 In Front of Daudpur Fatak, Jubli Bas Cir, near Over Bridge, Lajpat Nagar, Alwar, Rajasthan 301001",
+    "area": "Jubli Bas, Lajpat Nagar",
+    "latitude": 27.5686035,
+    "longitude": 76.6203827,
+    "place_id": "ChIJvXU0YIubcjkR7klyLJ2ihg0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvXU0YIubcjkR7klyLJ2ihg0",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:56:57"
+  },
+  {
+    "business_name": "Madhuri Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "301405",
+    "phone_number": "+91 144 233 0533",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Scheme no 7 30 panchvati, Rajasthan 301001",
+    "area": "Mangal Vihar Colony, Sector 7",
+    "latitude": 27.5563725,
+    "longitude": 76.6094164,
+    "place_id": "ChIJm21p8YaZcjkR_XcCXbeE9Kg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm21p8YaZcjkR_XcCXbeE9Kg",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:56:57"
+  }
+]

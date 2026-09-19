@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sinthan Techno",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Computer support and services, Corporate office, Design agency, Internet marketing service, Marketing agency, Social services organization, Telecommunications service provider, Telephone Marketing Agency",
+    "pincode": "301412",
+    "phone_number": "+91 95490 40506",
+    "website": "https://sinthan.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "UG-26, Riddhi Siddhi, JAIPUR ELECTRONIC MARKET, Gopalpura Bypass Rd, Mohan Nagar, Triveni Nagar, Arjun Nagar, Jaipur, Rajasthan 302015",
+    "area": "Mohan Nagar, Triveni Nagar, Arjun Nagar",
+    "latitude": 26.871887899999997,
+    "longitude": 75.7754527,
+    "place_id": "ChIJYaG_kiK1bTkRNmKL_sWxnfw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYaG_kiK1bTkRNmKL_sWxnfw",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:12:06"
+  },
+  {
+    "business_name": "COMPUTRONIX",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services",
+    "pincode": "301412",
+    "phone_number": "+91 93523 23209",
+    "website": "https://computronix.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FGF- 60-61, Capital High St, RIICO Industrial Area, Bhiwadi, Rajasthan 301019",
+    "area": "RIICO Industrial Area",
+    "latitude": 28.2123253,
+    "longitude": 76.8610856,
+    "place_id": "ChIJiVGa4yE3DTkRJ01vNJqqa8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiVGa4yE3DTkRJ01vNJqqa8U",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:12:06"
+  }
+]

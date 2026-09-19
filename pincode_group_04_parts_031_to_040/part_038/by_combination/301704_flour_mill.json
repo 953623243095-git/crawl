@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hans oil and flour mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Mill",
+    "all_categories": "Mill",
+    "pincode": "301704",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "496G+8XJ, Mandhan, Rajasthan 301704",
+    "area": "301704",
+    "latitude": 28.110836,
+    "longitude": 76.3773776,
+    "place_id": "ChIJ-9dQHACpEjkRqXZiev04wRI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-9dQHACpEjkRqXZiev04wRI",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:29:11"
+  },
+  {
+    "business_name": "Bablu pandit ki aata Chakki",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "301704",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "48JF+G7C, Ateli, Haryana 123021",
+    "area": "301704",
+    "latitude": 28.131300099999997,
+    "longitude": 76.3231346,
+    "place_id": "ChIJYY56CgCvEjkRmx56IFpuS2s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYY56CgCvEjkRmx56IFpuS2s",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:29:11"
+  }
+]

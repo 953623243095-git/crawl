@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahadev Mart",
+    "search_category": "Malls",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "301414",
+    "phone_number": "+91 96232 40157",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 653, Main Market, Samola Alwar Road, Alwar, Poonkhar, Rajasthan 301414",
+    "area": "301414",
+    "latitude": 27.326227,
+    "longitude": 76.5946251,
+    "place_id": "ChIJv6Klg0mHcjkRWq7o8WNfQ64",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv6Klg0mHcjkRWq7o8WNfQ64",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:15:51"
+  },
+  {
+    "business_name": "Mobile Point",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "301414",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "6JQ7+P6G, Diwan Ji Ka Bagh, Rajgarh, Rajasthan 301408",
+    "area": "Diwan Ji Ka Bagh",
+    "latitude": 27.239302199999997,
+    "longitude": 76.6130739,
+    "place_id": "ChIJH7WyeRl9cjkRLrLu3hsZV5g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH7WyeRl9cjkRLrLu3hsZV5g",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:15:54"
+  }
+]

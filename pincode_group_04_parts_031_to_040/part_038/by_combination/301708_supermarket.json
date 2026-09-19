@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rama Mart",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "301708",
+    "phone_number": "+91 80583 15066",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ghamriya Mohalla, Ghilot, Batana, Rajasthan 301705",
+    "area": "Ghamriya Mohalla",
+    "latitude": 28.043646,
+    "longitude": 76.4020704,
+    "place_id": "ChIJu7nX5gCrEjkRPUbh6buMz6w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu7nX5gCrEjkRPUbh6buMz6w",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:36:41"
+  },
+  {
+    "business_name": "RAKESH",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "301708",
+    "phone_number": "+91 96538 19742",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chak No 3, Ghilot, Pratappur Chak No. 3, Rajasthan 301708",
+    "area": "301708",
+    "latitude": 28.0600836,
+    "longitude": 76.4190174,
+    "place_id": "ChIJ0bo0niirEjkRNkEJKzqGBd0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0bo0niirEjkRNkEJKzqGBd0",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:36:41"
+  }
+]

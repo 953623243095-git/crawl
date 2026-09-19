@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meena Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "301407",
+    "phone_number": "+91 96024 03975",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 17,
+    "address": "Baroda, Alwar, NH-11A, Dausa Road, Alwar, Alwar, Rajasthan 301407",
+    "area": "301407",
+    "latitude": 27.0961195,
+    "longitude": 76.3087158,
+    "place_id": "ChIJzQz8nQ-FbTkR0umMCFBtNmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzQz8nQ-FbTkR0umMCFBtNmY",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:00:49"
+  },
+  {
+    "business_name": "BABA'S CHICKEN",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "301407",
+    "phone_number": "+91 82903 20379",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Nera HOTEL NATEAJ, Aerodrome Rd, Lajpat Nagar, Alwar, Rajasthan 301001",
+    "area": "Lajpat Nagar",
+    "latitude": 27.567662499999997,
+    "longitude": 76.6218691,
+    "place_id": "ChIJX5Mc6JaZcjkRCJ8vzqqNXTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX5Mc6JaZcjkRCJ8vzqqNXTs",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:00:50"
+  }
+]

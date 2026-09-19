@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anuradha boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Stitching Class",
+    "pincode": "301406",
+    "phone_number": "+91 70143 15272",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "G, 54, Surya Nagar, Vikas Nagar, Alwar, Diwakari, Rajasthan 301001",
+    "area": "Surya Nagar, Vikas Nagar",
+    "latitude": 27.5554152,
+    "longitude": 76.654136,
+    "place_id": "ChIJwSJinoiRcjkRA78Qmz7--ig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwSJinoiRcjkRA78Qmz7--ig",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:59:02"
+  },
+  {
+    "business_name": "Fashion hub alwar",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "301406",
+    "phone_number": "+91 89556 80668",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 18,
+    "address": "Church Rd, near mansingh sweets, Kabir Colony, Alwar, Rajasthan 301001",
+    "area": "Kabir Colony",
+    "latitude": 27.564683799999997,
+    "longitude": 76.60591,
+    "place_id": "ChIJFfheeN2ZcjkR-KR-9vcYKb8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFfheeN2ZcjkR-KR-9vcYKb8",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:59:05"
+  }
+]

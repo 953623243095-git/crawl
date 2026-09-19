@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganpati Enterprises",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "301407",
+    "phone_number": "+91 81077 98730",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Bansur, Rajasthan 303108",
+    "area": "301407",
+    "latitude": 27.6910535,
+    "longitude": 76.35052329999999,
+    "place_id": "ChIJXR2-BKVdbTkRp-sAGnvXWzs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXR2-BKVdbTkRp-sAGnvXWzs",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:01:26"
+  },
+  {
+    "business_name": "Devendra Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "301407",
+    "phone_number": "+91 82090 72895",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Jai, Road No. 2, Opposite Gurudwara Building, Bhagat Singh Marg, Arya Nagar, Alwar, Rajasthan 301001",
+    "area": "Arya Nagar",
+    "latitude": 27.568198,
+    "longitude": 76.6113038,
+    "place_id": "ChIJJczjc5GZcjkRgvtvgdtsjiw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJczjc5GZcjkRgvtvgdtsjiw",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:01:27"
+  }
+]

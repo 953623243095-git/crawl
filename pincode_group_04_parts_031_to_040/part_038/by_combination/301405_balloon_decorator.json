@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Haplun",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Balloon store, Children's party service, Party planner, Party store",
+    "pincode": "301405",
+    "phone_number": "+91 98115 52041",
+    "website": "https://haplun.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "E-156, Nihal Vihar, Bagat Singh Chowk, Nangloi, Delhi, 110041",
+    "area": "Nihal Vihar, Bagat Singh Chowk, Nangloi",
+    "latitude": 28.6666512,
+    "longitude": 77.0728661,
+    "place_id": "ChIJcx6PULwFDTkRqxzueGM75rQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcx6PULwFDTkRqxzueGM75rQ",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:57:37"
+  },
+  {
+    "business_name": "Pari Balloon Decoration | Birthday | Wedding | Baby Shower | Anniversary | Room Decor",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist, Balloon store, Service establishment, Event planner, Party planner",
+    "pincode": "301405",
+    "phone_number": "+91 95452 54242",
+    "website": "https://parievents.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pari Balloon Decoration | Birthday | Wedding | Baby Shower | Anniversary | Room Decor, 301405, India",
+    "area": "301405",
+    "latitude": 19.6408465,
+    "longitude": 72.94288999999999,
+    "place_id": "ChIJ9fbrZfSn5zsR_hE2ettuIkM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9fbrZfSn5zsR_hE2ettuIkM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:57:39"
+  }
+]

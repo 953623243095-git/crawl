@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BHARAT AUTO PARTS",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Bicycle Shop",
+    "pincode": "301714",
+    "phone_number": "+91 94144 57849",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Kabir Colony, Alwar, Rajasthan 301001",
+    "area": "Kabir Colony",
+    "latitude": 27.564281299999998,
+    "longitude": 76.6028236,
+    "place_id": "ChIJf-VcMpuZcjkRp0qpEp7KgEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf-VcMpuZcjkRp0qpEp7KgEQ",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:43:00"
+  },
+  {
+    "business_name": "Auto spare parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "301714",
+    "phone_number": "+91 76898 73372",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "mod, near Joyanicha, Shahjahanpur, Rajasthan 301706",
+    "area": "301714",
+    "latitude": 27.9975767,
+    "longitude": 76.4528346,
+    "place_id": "ChIJc0-46mBVbTkRN5HFIerJ81M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc0-46mBVbTkRN5HFIerJ81M",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:43:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vadilal Ice-cream Distributor",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "301705",
+    "phone_number": "+91 79 2656 4018",
+    "website": "https://www.vadilalicecreams.com/contact-us",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Shop No. 117, Mittal Commercial Complex, Main Market, NH, Kasak, New Industrial Twp 5, New Industrial Township, Faridabad, Haryana 121001",
+    "area": "Kasak, New Industrial Township 5, New Industrial Township",
+    "latitude": 28.4014916,
+    "longitude": 77.30241939999999,
+    "place_id": "ChIJWQbjuL_dDDkRYZaHLrJEC28",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWQbjuL_dDDkRYZaHLrJEC28",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:31:17"
+  },
+  {
+    "business_name": "Dominick Pizza Neemrana",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Fast food restaurant",
+    "pincode": "301705",
+    "phone_number": "+91 99824 74442",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 127,
+    "address": "Shop No. G-50, Neemrana Central, Neemrana, Alwar, Rajasthan 301705",
+    "area": "301705",
+    "latitude": 27.9713037,
+    "longitude": 76.3841398,
+    "place_id": "ChIJ6Uhe_L5UbTkRUf3Ej_8XMVs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Uhe_L5UbTkRUf3Ej_8XMVs",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:31:18"
+  }
+]

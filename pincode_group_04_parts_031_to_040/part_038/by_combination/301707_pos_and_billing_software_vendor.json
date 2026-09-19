@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Federal Bank",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Bank",
+    "all_categories": "Bank, Business banking service, Car finance and loan company, Financial advisor, Financial institution, Investment service, Loan agency, Money transfer service, Private Sector Bank, Savings bank",
+    "pincode": "301707",
+    "phone_number": "+91 1800 420 1199",
+    "website": "https://www.federal.bank.in/?utm_source=branch_locator&utm_medium=brand_website",
+    "rating": 4.8,
+    "reviews_count": 86,
+    "address": "No A12 & 13, Alwar Bypass Rd, near Harish Bakery, Bhagat Singh Colony, U.I.T., Alwar, Bhiwadi, Rajasthan 301019",
+    "area": "Bhagat Singh Colony, U.I.T.",
+    "latitude": 28.206158499999997,
+    "longitude": 76.80806539999999,
+    "place_id": "ChIJbSCV5g1IDTkRzQd3pD_mlls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbSCV5g1IDTkRzQd3pD_mlls",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:36:11"
+  },
+  {
+    "business_name": "iServeU Technology Pvt Ltd",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "301707",
+    "phone_number": "+91 80930 12720",
+    "website": "https://iserveu.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "9th Floor, Dextrus Peninsula Corporate Park, 902-903A, Lower Parel West, Lower Parel, Mumbai, Maharashtra 400013",
+    "area": "Lower Parel West, Lower Parel",
+    "latitude": 18.9987382,
+    "longitude": 72.8258882,
+    "place_id": "ChIJJSqYEjLP5zsRwLJt_0A4kuE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJSqYEjLP5zsRwLJt_0A4kuE",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:36:12"
+  }
+]

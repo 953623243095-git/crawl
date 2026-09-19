@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Avani beauty parlour & Cosmetic",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Service establishment",
+    "pincode": "301713",
+    "phone_number": "+91 96948 67743",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 7,
+    "address": "Avani beauty parlour & Cosmetic, 301713, India",
+    "area": "301713",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJh0bOOZ60EjkR1V8_V52G8Dk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh0bOOZ60EjkR1V8_V52G8Dk",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:41:24"
+  },
+  {
+    "business_name": "Simran Beauty Salon",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "301713",
+    "phone_number": "+91 84485 71152",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khanpur, Haryana 123001",
+    "area": "301713",
+    "latitude": 28.0040032,
+    "longitude": 76.1422042,
+    "place_id": "ChIJ97gQRBa1EjkRiTjY6dzwxEc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ97gQRBa1EjkRiTjY6dzwxEc",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:41:24"
+  }
+]

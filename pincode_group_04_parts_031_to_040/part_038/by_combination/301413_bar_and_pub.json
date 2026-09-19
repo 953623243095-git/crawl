@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Beer bar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "301413",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "7Q66+7W5, Pinan, Rajasthan 301413",
+    "area": "301413",
+    "latitude": 27.2606495,
+    "longitude": 76.7623681,
+    "place_id": "ChIJo07XdbxhcjkRWOQ6b2hiU9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo07XdbxhcjkRWOQ6b2hiU9s",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:12:22"
+  },
+  {
+    "business_name": "Kaneti, Rajasthan 301413",
+    "search_category": "Bar and Pub",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "301413",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kaneti, Rajasthan",
+    "area": "301413",
+    "latitude": 27.267661699999998,
+    "longitude": 76.7567368,
+    "place_id": "ChIJb-2TUuhhcjkRitMEO_qgu9Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb-2TUuhhcjkRitMEO_qgu9Y",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:12:25"
+  }
+]

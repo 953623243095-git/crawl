@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nilesh Emitra",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "301705",
+    "phone_number": "+91 79762 21289",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No A2, Eldeco, S14, Rajasthan 301708",
+    "area": "301705",
+    "latitude": 27.9816175,
+    "longitude": 76.4098872,
+    "place_id": "ChIJjXnesE5VbTkRGLzwL1KiE3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjXnesE5VbTkRGLzwL1KiE3o",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:32:20"
+  },
+  {
+    "business_name": "Mamta Yadav Engine Detox Centre",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Auto care products store",
+    "all_categories": "Auto care products store",
+    "pincode": "301705",
+    "phone_number": "+91 96644 26662",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No.07,08, Mahadev Market, Yaduvanshi Nagar, opposite EPIP Gate NH-8, Neemrana, Rajasthan 301705",
+    "area": "301705",
+    "latitude": 27.961142499999998,
+    "longitude": 76.37289659999999,
+    "place_id": "ChIJtbflvLhVbTkRcaFWhMiXaPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtbflvLhVbTkRcaFWhMiXaPA",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:32:23"
+  }
+]

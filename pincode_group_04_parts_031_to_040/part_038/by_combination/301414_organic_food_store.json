@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samasta Foods Office",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store",
+    "pincode": "301414",
+    "phone_number": "+91 92570 29863",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "B-62, Sumer Nagar, Patrakar Colony, Sunder Nagar, Jaipur, Rajasthan 302020",
+    "area": "Sumer Nagar, Patrakar Colony, Sunder Nagar",
+    "latitude": 26.851874199999997,
+    "longitude": 75.7563809,
+    "place_id": "ChIJDyVV3WW1bTkRAixyJCN2z94",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDyVV3WW1bTkRAixyJCN2z94",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:14:06"
+  },
+  {
+    "business_name": "Jaivik Haat",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Asian grocery store, Fruit and vegetable store, Gourmet grocery store, Grocery store, Health food store, Hypermarket, Indian grocery store, Organic restaurant, Produce market",
+    "pincode": "301414",
+    "phone_number": "+91 95992 51386",
+    "website": "http://www.jaivikhaat.com/",
+    "rating": 3.8,
+    "reviews_count": 40,
+    "address": "Ground Floor, B-27, near KADAMBARI CO-OPERATIVE GROUP HOUSING SOCIETY LTD, Rajapur, Pocket 18, Sector 9, Rohini, Delhi, 110085",
+    "area": "Rajapur, Pocket 18, Sector 9, Rohini",
+    "latitude": 28.7144388,
+    "longitude": 77.1293709,
+    "place_id": "ChIJG4i_ZVsBDTkRrFJ4KjT9-jE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG4i_ZVsBDTkRrFJ4KjT9-jE",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:14:06"
+  }
+]

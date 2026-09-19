@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TARUN VEGETABLE STORE",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "301709",
+    "phone_number": "+91 88529 85520",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Market Papli, Alwar, Dhoondhariya, Rajasthan 301709",
+    "area": "301709",
+    "latitude": 27.965695,
+    "longitude": 76.34185939999999,
+    "place_id": "ChIJF-Qk9pJTbTkRRx3DXoC2G6g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF-Qk9pJTbTkRRx3DXoC2G6g",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:38:36"
+  },
+  {
+    "business_name": "Jiyan General store Nasarpur",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "301709",
+    "phone_number": "+91 77278 21701",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Unnamed Road, Khohri, Nasarpur, Rajasthan 301713",
+    "area": "301709",
+    "latitude": 27.9210645,
+    "longitude": 76.2460357,
+    "place_id": "ChIJXVhp0V5NbTkRbyMciPK6UFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXVhp0V5NbTkRbyMciPK6UFs",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:38:39"
+  }
+]

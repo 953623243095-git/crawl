@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fitness planet gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "301408",
+    "phone_number": "+91 73750 30373",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Vishwas Nagar, Delhi road, Ramgarh, Alwar, Rajasthan 301026",
+    "area": "301408",
+    "latitude": 27.583326,
+    "longitude": 76.81618519999999,
+    "place_id": "ChIJ9al4SZvrcjkR09TSdEh4910",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9al4SZvrcjkR09TSdEh4910",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:03:08"
+  },
+  {
+    "business_name": "tanwar nutrition",
+    "search_category": "Fitness Chains",
+    "primary_category": "Vitamin & supplements store",
+    "all_categories": "Vitamin & supplements store",
+    "pincode": "301408",
+    "phone_number": "+91 80583 30553",
+    "website": "https://tanwarnutrition.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "ground floor, capital galleria mall, Manu Marg, Kabir Colony, Alwar, Rajasthan 301001",
+    "area": "Kabir Colony",
+    "latitude": 27.5589868,
+    "longitude": 76.6009335,
+    "place_id": "ChIJD5Aunt-ZcjkR7mQ-Up2WcOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD5Aunt-ZcjkR7mQ-Up2WcOI",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:03:11"
+  }
+]

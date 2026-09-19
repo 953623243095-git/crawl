@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ram Singh",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "301702",
+    "phone_number": "+91 94167 62627",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1813/1, Uttam Nagar, Rewari, Dumawas, Haryana 123401",
+    "area": "Uttam Nagar",
+    "latitude": 28.195397699999997,
+    "longitude": 76.6422303,
+    "place_id": "ChIJQ0iTyRVPDTkRgYSYL5sLsxA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ0iTyRVPDTkRgYSYL5sLsxA",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:26:40"
+  },
+  {
+    "business_name": "Arvind House",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "301702",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5JVV+Q7H, Uttam Nagar, Dumawas, Haryana 123401",
+    "area": "Uttam Nagar",
+    "latitude": 28.194435799999997,
+    "longitude": 76.643242,
+    "place_id": "ChIJ6VXifQBPDTkRK0AMrc_fR28",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6VXifQBPDTkRK0AMrc_fR28",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:26:43"
+  }
+]

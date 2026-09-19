@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Teasta The Tea Shop",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea house",
+    "all_categories": "Tea house, Cafe, Coffee shop, Fast food restaurant",
+    "pincode": "301411",
+    "phone_number": "+91 99908 12228",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 1766,
+    "address": "8, B Block, Gardenia Glory, Sector 46, Noida, Uttar Pradesh 201303",
+    "area": "B Block, Gardenia Glory, Sector 46",
+    "latitude": 28.5498516,
+    "longitude": 77.3597568,
+    "place_id": "ChIJRSkcOeHlDDkREM5uI-in2vk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRSkcOeHlDDkREM5uI-in2vk",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:08:26"
+  },
+  {
+    "business_name": "Tea stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "301411",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "5557+3C, Hassanpur Sohna, Haryana 121102",
+    "area": "301411",
+    "latitude": 28.157717299999998,
+    "longitude": 77.16353269999999,
+    "place_id": "ChIJ3ec9JgArDTkRd5H_MgmKk9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3ec9JgArDTkRd5H_MgmKk9A",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:08:28"
+  }
+]

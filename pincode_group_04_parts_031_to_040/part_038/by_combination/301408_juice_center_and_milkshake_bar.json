@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishram juice centre",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "301408",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "4G6X+QJ8, Phulela, Rajasthan 303327",
+    "area": "301408",
+    "latitude": 27.111915,
+    "longitude": 76.5490799,
+    "place_id": "ChIJIQyKEwB7cjkR8VIpEgDdFM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIQyKEwB7cjkR8VIpEgDdFM8",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:02:42"
+  },
+  {
+    "business_name": "Shayam Juice Center",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "301408",
+    "phone_number": "+91 96360 18757",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "12, Alwar, Rajasthan 301001",
+    "area": "Kabir Colony",
+    "latitude": 27.556007299999997,
+    "longitude": 76.6015814,
+    "place_id": "ChIJ73vwaEmZcjkR-ydy_ll0oeo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ73vwaEmZcjkR-ydy_ll0oeo",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:02:45"
+  }
+]

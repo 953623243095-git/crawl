@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gheel Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "301406",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 4,
+    "address": "9JGH+QRV, Rajgarh Rd, Sohanpur, Mala Khera, Rajasthan 301001",
+    "area": "301406",
+    "latitude": 27.376987699999997,
+    "longitude": 76.6295332,
+    "place_id": "ChIJH1kI6PKFcjkRn0ew5ZuMmgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH1kI6PKFcjkRn0ew5ZuMmgw",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:59:52"
+  },
+  {
+    "business_name": "RS GUEST HOUSE",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "301406",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "CHOUDHARY RAMSWAROOP MARKET, BYPASS, Mala Khera, Rajasthan 301406",
+    "area": "301406",
+    "latitude": 27.390746699999998,
+    "longitude": 76.6190593,
+    "place_id": "ChIJ6fEyekaFcjkRCVW5YusfP0Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6fEyekaFcjkRCVW5YusfP0Q",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:59:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GG Corporation",
+    "search_category": "Cleaning and Hotel Supplier shops/ wholesalers",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, General store",
+    "pincode": "301708",
+    "phone_number": "+91 91166 67040",
+    "website": "https://ggcorp.in/",
+    "rating": 4.8,
+    "reviews_count": 45,
+    "address": "Khasara no 2118, Jaipur Rd, near Hotel Chivan Resort, Gagwana, Ghooghra, Rajasthan 305023",
+    "area": "301708",
+    "latitude": 26.5145159,
+    "longitude": 74.7067886,
+    "place_id": "ChIJRfoRGijlazkRf1hSj4moOFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRfoRGijlazkRf1hSj4moOFU",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:37:54"
+  },
+  {
+    "business_name": "Devanshi India",
+    "search_category": "Cleaning and Hotel Supplier shops/ wholesalers",
+    "primary_category": "Cleaning products supplier",
+    "all_categories": "Cleaning products supplier",
+    "pincode": "301708",
+    "phone_number": "+91 83022 80440",
+    "website": "https://devanshi-india.grexa.site/",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "Plote number 20, bye pass road, Surya Nagar, Mannaka, Alwar, Rajasthan 301001",
+    "area": "Surya Nagar",
+    "latitude": 27.566429,
+    "longitude": 76.6534916,
+    "place_id": "ChIJVy9EP_eXcjkRIAA1OPZCLLM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVy9EP_eXcjkRIAA1OPZCLLM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:37:55"
+  }
+]

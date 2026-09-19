@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hritik Makeovers",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist, Beauty Parlour",
+    "pincode": "301701",
+    "phone_number": "+91 96674 45107",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Patel Nagar, Behror, Rajasthan 301701",
+    "area": "Patel Nagar",
+    "latitude": 27.8939375,
+    "longitude": 76.2956875,
+    "place_id": "ChIJoXVYhn9TbTkRudGU_3ZzaD8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoXVYhn9TbTkRudGU_3ZzaD8",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:24:28"
+  },
+  {
+    "business_name": "Creative Hair Studio",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "301701",
+    "phone_number": "+91 81681 00150",
+    "website": "https://www.instagram.com/creative_unisexsaloon?igsh=MTZ6bTlzNnZrajU4cw==",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "near sahkari samiti, Garh Mohalla, Behror, Rajasthan 301701",
+    "area": "Garh Mohalla",
+    "latitude": 27.8914267,
+    "longitude": 76.2901747,
+    "place_id": "ChIJ20vdHLhTbTkRy49KrPTToX0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ20vdHLhTbTkRy49KrPTToX0",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:24:28"
+  }
+]

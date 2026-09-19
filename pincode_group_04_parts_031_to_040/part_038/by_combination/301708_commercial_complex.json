@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ad india chemical pvt. Ltd",
+    "search_category": "Commercial Complex",
+    "primary_category": "Building",
+    "all_categories": "Building",
+    "pincode": "301708",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "E-81, Riico industrial area, Ghilot, Rajasthan 301705",
+    "area": "Riico industrial area",
+    "latitude": 28.068203999999998,
+    "longitude": 76.406984,
+    "place_id": "ChIJySLRfcyrEjkRpzTEUFQw5NM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJySLRfcyrEjkRpzTEUFQw5NM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:38:33"
+  },
+  {
+    "business_name": "HDFC Bank",
+    "search_category": "Commercial Complex",
+    "primary_category": "Bank",
+    "all_categories": "Bank, ATM, Business banking service, Car finance and loan company, Financial institution, Insurance company, Investment service, Loan agency, Private Sector Bank, Savings bank",
+    "pincode": "301708",
+    "phone_number": "+91 1800 1601",
+    "website": "https://www.hdfc.bank.in/branch-locator/rajasthan/alwar/hdfcbank-branch-ghiloth",
+    "rating": 3.5,
+    "reviews_count": 6,
+    "address": "Rath Commercial Complex, Plot No CG/65, Ghilot, Neemrana, Pratappur Chak No. 3, Rajasthan 301705",
+    "area": "Ghilot",
+    "latitude": 28.0585025,
+    "longitude": 76.4228483,
+    "place_id": "ChIJUQvoyXNHbTkRGXzDUZQZTP4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUQvoyXNHbTkRGXzDUZQZTP4",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:38:34"
+  }
+]

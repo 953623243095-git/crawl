@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "P.K. Printing",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "301427",
+    "phone_number": "+91 63776 41215",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1, Chidwai, Rajasthan 301001",
+    "area": "Moti Doongri",
+    "latitude": 27.5542476,
+    "longitude": 76.6009919,
+    "place_id": "ChIJtQH7mDqZcjkR5_WJMXGdP3A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtQH7mDqZcjkR5_WJMXGdP3A",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:21:02"
+  },
+  {
+    "business_name": "RK Digital Centre",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Digital printing service",
+    "all_categories": "Digital printing service",
+    "pincode": "301427",
+    "phone_number": "+91 94612 59586",
+    "website": "http://publicinfotube.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Near bag wala masjid baghor tijara, Alwar, Rajasthan 301411",
+    "area": "301427",
+    "latitude": 27.8770271,
+    "longitude": 76.9186191,
+    "place_id": "ChIJAdYqK3fPcjkRUMg1qvXikbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAdYqK3fPcjkRUMg1qvXikbw",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:21:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Teeja Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "301407",
+    "phone_number": "+91 95876 05012",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "बिजली घर के सामने, मुंडावर रोड, चौधरी कॉम्प्लेक्स, Sodawas, Mundawar, Rajasthan 301407",
+    "area": "चौधरी कॉम्प्लेक्स",
+    "latitude": 27.859844199999998,
+    "longitude": 76.41376249999999,
+    "place_id": "ChIJZWQjWnZXbTkRXovx43aj6QU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZWQjWnZXbTkRXovx43aj6QU",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:00:54"
+  },
+  {
+    "business_name": "Capsicum Restro & Coffe Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "301407",
+    "phone_number": "+91 76651 12222",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 9,
+    "address": "Shop No.79, Jail Cir, Basant Vihar, Alwar, Rajasthan 301001",
+    "area": "Basant Vihar",
+    "latitude": 27.5799436,
+    "longitude": 76.61654039999999,
+    "place_id": "ChIJSV5a7bmZcjkRUungUTP_Qxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSV5a7bmZcjkRUungUTP_Qxs",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:00:56"
+  }
+]

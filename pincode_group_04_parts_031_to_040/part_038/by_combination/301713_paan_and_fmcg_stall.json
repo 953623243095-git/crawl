@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fire Paan Shop",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop, Tobacco shop",
+    "pincode": "301713",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 81,
+    "address": "J6J8+MH7, Connaught Cir, Block P, Connaught Place, New Delhi, Delhi 110001",
+    "area": "Block P, Connaught Place",
+    "latitude": 28.631653399999998,
+    "longitude": 77.2164269,
+    "place_id": "ChIJTTOxV8n9DDkRhPapTIafPGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTTOxV8n9DDkRhPapTIafPGo",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:40:32"
+  },
+  {
+    "business_name": "Puna Paan Senter",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "301713",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 17,
+    "address": "P56W+P84, Mohtara, Latuwa, Chhattisgarh 493332",
+    "area": "301713",
+    "latitude": 21.711752699999998,
+    "longitude": 82.1958334,
+    "place_id": "ChIJj-2wNLx_KDoRUbZge6Se2r0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj-2wNLx_KDoRUbZge6Se2r0",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:40:32"
+  }
+]

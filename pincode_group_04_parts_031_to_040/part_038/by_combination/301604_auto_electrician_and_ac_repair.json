@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Muskeen",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "301604",
+    "phone_number": "+91 82094 33126",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5 Samila, Rajasthan 301604",
+    "area": "301604",
+    "latitude": 27.464572699999998,
+    "longitude": 77.0283219,
+    "place_id": "ChIJS8J2fQL7cjkRVN0R-H4xMkM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS8J2fQL7cjkRVN0R-H4xMkM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:22:16"
+  },
+  {
+    "business_name": "Jaikam",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "301604",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jaikam Khan, Alamshah, Sahanka, Rajasthan 321024",
+    "area": "301604",
+    "latitude": 27.5547716,
+    "longitude": 77.0026464,
+    "place_id": "ChIJSy-jeGHvcjkRmdTya6bNEBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSy-jeGHvcjkRmdTya6bNEBw",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:22:16"
+  }
+]

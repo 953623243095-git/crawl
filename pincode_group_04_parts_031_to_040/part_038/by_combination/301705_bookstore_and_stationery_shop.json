@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saraswati books and stationer",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "301705",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Mahal Rd, Neemrana, Rajasthan 301705",
+    "area": "301705",
+    "latitude": 27.9906458,
+    "longitude": 76.3871439,
+    "place_id": "ChIJG4sKuPhVbTkRnjylkuF9fqM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG4sKuPhVbTkRnjylkuF9fqM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:32:17"
+  },
+  {
+    "business_name": "Shree Maha Laxmi Traders",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery wholesaler",
+    "all_categories": "Stationery wholesaler",
+    "pincode": "301705",
+    "phone_number": "+91 77421 73877",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no.163, near Yes Bank, Neemrana, Rajasthan 301705",
+    "area": "301705",
+    "latitude": 27.9726164,
+    "longitude": 76.3829574,
+    "place_id": "ChIJd6MtqblVbTkRIg2iybzERdA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd6MtqblVbTkRIg2iybzERdA",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:32:20"
+  }
+]

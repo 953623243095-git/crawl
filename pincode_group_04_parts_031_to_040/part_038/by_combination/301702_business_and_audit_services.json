@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OnlineBusinesswala",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "301702",
+    "phone_number": "+91 80595 86555",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "OnlineBusinesswala, 301702, India",
+    "area": "301702",
+    "latitude": 28.299063099999998,
+    "longitude": 76.624754,
+    "place_id": "ChIJE-AUGTJPDTkRVpXg_kZjRPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE-AUGTJPDTkRVpXg_kZjRPY",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:26:55"
+  },
+  {
+    "business_name": "Zing Enterprises",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "301702",
+    "phone_number": "+91 97836 94136",
+    "website": "http://zingenterprises.co.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "SUNSQUARE PLAZA, S-151 & 152, near RIICO CHOWK, Bhiwadi, Rajasthan 301019",
+    "area": "301702",
+    "latitude": 28.212467399999998,
+    "longitude": 76.8521303,
+    "place_id": "ChIJhWoi4hZIDTkRS9DE_pc3Qf4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhWoi4hZIDTkRS9DE_pc3Qf4",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:26:55"
+  }
+]

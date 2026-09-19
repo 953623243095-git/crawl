@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Purva Enterprises",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Uniform store",
+    "all_categories": "Uniform store",
+    "pincode": "301702",
+    "phone_number": "+91 93504 28885",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "405/1, Renault Wali Gali, near Hanuman Mandir, Uttam Nagar, Rewari, Dumawas, Haryana 123401",
+    "area": "Uttam Nagar",
+    "latitude": 28.1952219,
+    "longitude": 76.6427552,
+    "place_id": "ChIJY74xR0FRDTkRNDrvxmFlSlw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY74xR0FRDTkRNDrvxmFlSlw",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:25:46"
+  },
+  {
+    "business_name": "Ankit Swami House",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "301702",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Majri Goojar, Majrigujar, Rajasthan 301702",
+    "area": "301702",
+    "latitude": 27.9625339,
+    "longitude": 76.7794771,
+    "place_id": "ChIJLfHhwaK1cjkRK3tPEoou3us",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLfHhwaK1cjkRK3tPEoou3us",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:25:46"
+  }
+]

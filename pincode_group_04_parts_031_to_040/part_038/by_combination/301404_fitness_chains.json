@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ADITYA FITNESS",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "301404",
+    "phone_number": "+91 89551 17487",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Morris garage, 160 Feet Rd, near gurukripa agressen circle, Subhash Nagar, Anand Vihar, Shastri Nagar, Alwar, Rajasthan 301001",
+    "area": "Subhash Nagar, Anand Vihar, Shastri Nagar",
+    "latitude": 27.5668674,
+    "longitude": 76.6296893,
+    "place_id": "ChIJ85wTAneZcjkR8Dio18-L9Qk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ85wTAneZcjkR8Dio18-L9Qk",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:54:55"
+  },
+  {
+    "business_name": "Sww Calisthenics & street workout academy (street workout warrior )",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "301404",
+    "phone_number": "+91 97720 09575",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 10,
+    "address": "shiv colony, Plot no. 2, Mannaka Rd, Daudpur, Alwar, Rajasthan 301001",
+    "area": "Daudpur",
+    "latitude": 27.5716306,
+    "longitude": 76.6405992,
+    "place_id": "ChIJRxw9SrCZcjkRd-uPpd-PtYc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRxw9SrCZcjkRd-uPpd-PtYc",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:54:57"
+  }
+]

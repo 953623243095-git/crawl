@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sachin Colour Lab",
+    "search_category": "Photographers",
+    "primary_category": "Photo lab",
+    "all_categories": "Photo lab",
+    "pincode": "301709",
+    "phone_number": "+91 94142 27575",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 15,
+    "address": "Main, Alwar Rd, Indira Colony, Behror, Rajasthan 301701",
+    "area": "Indira Colony",
+    "latitude": 27.8914135,
+    "longitude": 76.294321,
+    "place_id": "ChIJcS7yih9SbTkRcGa6PCWAVf8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcS7yih9SbTkRcGa6PCWAVf8",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:39:41"
+  },
+  {
+    "business_name": "Nirmal Color Lab",
+    "search_category": "Photographers",
+    "primary_category": "Photographer",
+    "all_categories": "Photographer",
+    "pincode": "301709",
+    "phone_number": "+91 98876 16489",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.55, Main Market, near Old Bus Stand, Jaitpura Mahalla, Behror, Rajasthan 301701",
+    "area": "Jaitpura Mahalla",
+    "latitude": 27.894489399999998,
+    "longitude": 76.2820021,
+    "place_id": "ChIJYR8AoA5TbTkRiNMBfOQZQCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYR8AoA5TbTkRiNMBfOQZQCY",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:39:41"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arihant Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Airport Shuttle Service Provider, Car leasing service, Tour operator, Transportation service",
+    "pincode": "301405",
+    "phone_number": "+91 96949 76236",
+    "website": "https://arihant-travels-rajasthan.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no.2, opposite Dehra jain mandir, Khuntala Mohalla, Tijara, Rajasthan 301411",
+    "area": "Khuntala Mohalla",
+    "latitude": 27.935626799999998,
+    "longitude": 76.8569457,
+    "place_id": "ChIJT9VrOI7JcjkRybJPuvfVm0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT9VrOI7JcjkRybJPuvfVm0E",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:57:13"
+  },
+  {
+    "business_name": "RIYANSH TAXI SERVICE",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "301405",
+    "phone_number": "+91 98750 50150",
+    "website": "http://riyanshtaxiservice.in/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "near gupta wire, Ghilot, Rajasthan 301706",
+    "area": "301405",
+    "latitude": 28.060517299999997,
+    "longitude": 76.3984643,
+    "place_id": "ChIJ43BXZaSrEjkRTaWXT5aYDPE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ43BXZaSrEjkRTaWXT5aYDPE",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:57:16"
+  }
+]

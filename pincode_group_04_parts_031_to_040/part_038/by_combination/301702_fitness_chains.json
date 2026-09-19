@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Golden Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "301702",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Basant Vihar, Alwar, Rajasthan 301001",
+    "area": "Basant Vihar",
+    "latitude": 27.5798454,
+    "longitude": 76.6160925,
+    "place_id": "ChIJ02wWqL-ZcjkRl01r2fkyfYc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ02wWqL-ZcjkRl01r2fkyfYc",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:25:58"
+  },
+  {
+    "business_name": "Iron Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "301702",
+    "phone_number": "+91 89498 04231",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Bhugore Village, Alwar, Bhoogar, Rajasthan 301001",
+    "area": "Bhugore Village",
+    "latitude": 27.518193399999998,
+    "longitude": 76.6034446,
+    "place_id": "ChIJh6Vd4c-bcjkRcyQZMSX718Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh6Vd4c-bcjkRcyQZMSX718Y",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:25:58"
+  }
+]

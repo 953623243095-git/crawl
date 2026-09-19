@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": ".",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Service establishment",
+    "pincode": "301427",
+    "phone_number": "+91 90243 10982",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 25,
+    "address": "., 301427, India",
+    "area": "301427",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJB1NFOWFXbTkRqS0W42xuFzE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB1NFOWFXbTkRqS0W42xuFzE",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:20:29"
+  },
+  {
+    "business_name": "Shri Ratan Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical products wholesaler",
+    "all_categories": "Electrical products wholesaler",
+    "pincode": "301427",
+    "phone_number": "+91 93143 21015",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop no. 2 Roop ji mension market Pansari bazar, Rajasthan 301001",
+    "area": "Sector 7",
+    "latitude": 27.566174699999998,
+    "longitude": 76.6057022,
+    "place_id": "ChIJMV2TnzqZcjkRxDi6Is2F8as",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMV2TnzqZcjkRxDi6Is2F8as",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:20:30"
+  }
+]

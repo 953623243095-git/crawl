@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Kanika Eye Care",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Ophthalmologist",
+    "all_categories": "Ophthalmologist",
+    "pincode": "301427",
+    "phone_number": "+91 94615 73349",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C-67, Industrial Area, Behror, Rajasthan 301701",
+    "area": "Industrial Area",
+    "latitude": 27.8926742,
+    "longitude": 76.2974253,
+    "place_id": "ChIJS5afEQBTbTkR7xSfNI2I4I4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS5afEQBTbTkR7xSfNI2I4I4",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:20:10"
+  },
+  {
+    "business_name": "Ram Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "301427",
+    "phone_number": "+91 94164 01447",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 26,
+    "address": "V7WJ+7M5, Ganpati Nagar, Behror, Rajasthan 301701",
+    "area": "Ganpati Nagar",
+    "latitude": 27.8956482,
+    "longitude": 76.2817262,
+    "place_id": "ChIJV2yRvQRSbTkRb0u8ckxP7rU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV2yRvQRSbTkRb0u8ckxP7rU",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:20:11"
+  }
+]

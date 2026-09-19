@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Fast Food Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "301404",
+    "phone_number": "+91 93142 16548",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 44,
+    "address": "HJFP+5PH, 60 Feet Rd, Near Swaraj School, Medical Colony, Shastri Nagar, Alwar, Rajasthan 301001",
+    "area": "Medical Colony, Shastri Nagar",
+    "latitude": 27.572683599999998,
+    "longitude": 76.6329853,
+    "place_id": "ChIJlV33KeSZcjkRxt9EKkdNy0s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlV33KeSZcjkRxt9EKkdNy0s",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:54:30"
+  },
+  {
+    "business_name": "Rameshwar Namkeen Bhandar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Deli",
+    "all_categories": "Deli",
+    "pincode": "301404",
+    "phone_number": "+91 85619 36866",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 48,
+    "address": "Balaji Market, Church Road, behind Town Hall, Civil Line, Kabir Colony, Alwar, Rajasthan 301001",
+    "area": "Civil Line, Kabir Colony",
+    "latitude": 27.565498899999998,
+    "longitude": 76.6037186,
+    "place_id": "ChIJL43yw5qZcjkRir-G_batjTw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL43yw5qZcjkRir-G_batjTw",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:54:30"
+  }
+]

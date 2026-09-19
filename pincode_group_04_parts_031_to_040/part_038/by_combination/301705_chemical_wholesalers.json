@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khushi Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer",
+    "pincode": "301705",
+    "phone_number": "+91 99289 49010",
+    "website": "https://khushichemicals.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NH 48, RIICO Industrial Area, Shahjahanpur, Neemrana, Rajasthan 301706",
+    "area": "RIICO Industrial Area",
+    "latitude": 28.0007375,
+    "longitude": 76.4304968,
+    "place_id": "ChIJ0xcYlHdVbTkRedjfFXMk4lM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0xcYlHdVbTkRedjfFXMk4lM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:32:35"
+  },
+  {
+    "business_name": "Sangam Chemical Company",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler",
+    "pincode": "301705",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shri Sam Plaza, G97, Neemrana, Rajasthan 301705",
+    "area": "301705",
+    "latitude": 27.979671099999997,
+    "longitude": 76.3961899,
+    "place_id": "ChIJlxG4ccVUbTkRwQArG1VDzLU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlxG4ccVUbTkRwQArG1VDzLU",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:32:35"
+  }
+]

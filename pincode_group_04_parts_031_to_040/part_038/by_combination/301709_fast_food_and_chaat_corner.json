@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Delhi Chaat and Paratha Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "301709",
+    "phone_number": "+91 93547 04361",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Era University, Post Office Rd, near Graphic, Subhash Nagar, Dehradun, Bharu Wala Grant, Uttarakhand 248002",
+    "area": "Subhash Nagar",
+    "latitude": 30.2724072,
+    "longitude": 77.9944278,
+    "place_id": "ChIJ2_eCs_4rCTkR_9niMA4wrzk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2_eCs_4rCTkR_9niMA4wrzk",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:38:48"
+  },
+  {
+    "business_name": "Chirag Fast Food & Juice Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "301709",
+    "phone_number": "+91 94687 62563",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kali Mori Fatak, Maujpur House, behind Govt. ITI College, Moti Nagar, Jyoti Nagar, Alwar, Rajasthan 301001",
+    "area": "Moti Nagar, Jyoti Nagar",
+    "latitude": 27.5545197,
+    "longitude": 76.6277016,
+    "place_id": "ChIJg7bKxRybcjkRAN5uKnQ157E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg7bKxRybcjkRAN5uKnQ157E",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:38:50"
+  }
+]

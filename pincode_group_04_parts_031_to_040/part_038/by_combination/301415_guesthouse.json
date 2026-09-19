@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Babaji House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "301415",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6F66+4R8, Talab, Rajasthan 301410",
+    "area": "301415",
+    "latitude": 27.2102777,
+    "longitude": 76.4620928,
+    "place_id": "ChIJJ2W6LQF_cjkR7APfJhld-EY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ2W6LQF_cjkR7APfJhld-EY",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:17:04"
+  },
+  {
+    "business_name": "Kawa guest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "301415",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 33,
+    "address": "siya ram ki doongri, Amer, Jaipur, Jaipur Heritage (M Corp.) (Part), Rajasthan 302028",
+    "area": "Amer",
+    "latitude": 26.986939399999997,
+    "longitude": 75.8704989,
+    "place_id": "ChIJJ-x1e0SwbTkRGRsmmJ94E-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ-x1e0SwbTkRGRsmmJ94E-c",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:17:05"
+  }
+]

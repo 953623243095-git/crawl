@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Punjabi chaat corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "301405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhoorphadi chowk byepass, Kishangarh Bas, Rajasthan 301405",
+    "area": "301405",
+    "latitude": 27.8222395,
+    "longitude": 76.73607009999999,
+    "place_id": "ChIJSx1fbX65cjkRQhVylgGsnVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSx1fbX65cjkRQhVylgGsnVk",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:56:39"
+  },
+  {
+    "business_name": "SHREE SHAYAM FAST FOOD",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Food court",
+    "pincode": "301405",
+    "phone_number": "+91 88242 00527",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 191,
+    "address": "Shop No.16, Front Of Tagour Park Main Market, Shivaji Park, Lajpat Nagar, Alwar, Rajasthan 301001",
+    "area": "Shivaji Park, Lajpat Nagar",
+    "latitude": 27.569446,
+    "longitude": 76.6160013,
+    "place_id": "ChIJi4ArFnaZcjkRm6VtZgGwgVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi4ArFnaZcjkRm6VtZgGwgVc",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:56:40"
+  }
+]

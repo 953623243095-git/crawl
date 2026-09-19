@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tastefresh Hospitality",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Cafeteria, Restaurant supply store",
+    "pincode": "301707",
+    "phone_number": "+91 78910 22771",
+    "website": "https://www.tastefreshhospitality.in/",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "Housing Board, Sector 6, U.I.T., Bhiwadi, Rajasthan 301019",
+    "area": "Sector 6, U.I.T.",
+    "latitude": 28.2007986,
+    "longitude": 76.8413954,
+    "place_id": "ChIJ8SrhF4mwV24Rl-GR5rb-jOE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8SrhF4mwV24Rl-GR5rb-jOE",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:35:55"
+  },
+  {
+    "business_name": "Yash Tent House",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Tent House Supplier",
+    "all_categories": "Tent House Supplier",
+    "pincode": "301707",
+    "phone_number": "+91 96368 64648",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "1, Alwar mega highway, Tatarpur, Rajasthan 301018",
+    "area": "301707",
+    "latitude": 28.1548505,
+    "longitude": 76.8217757,
+    "place_id": "ChIJJYWpNJlJDTkRmcmJfBPzggY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJYWpNJlJDTkRmcmJfBPzggY",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:35:57"
+  }
+]

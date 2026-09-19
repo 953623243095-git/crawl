@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New student tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "301409",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 39,
+    "address": "Hospital Road, Bandikui, Rajasthan 303313",
+    "area": "301409",
+    "latitude": 27.045837199999998,
+    "longitude": 76.574767,
+    "place_id": "ChIJA6aB40NxcjkRRACz1OSi7DU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA6aB40NxcjkRRACz1OSi7DU",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:04:46"
+  },
+  {
+    "business_name": "maharani boutique",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "301409",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "2HWG+C4X, Bandikui, Rajasthan 303313",
+    "area": "301409",
+    "latitude": 27.0460307,
+    "longitude": 76.575441,
+    "place_id": "ChIJZfDGQQBxcjkRc6qN7qWTtWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZfDGQQBxcjkRc6qN7qWTtWo",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:04:46"
+  }
+]

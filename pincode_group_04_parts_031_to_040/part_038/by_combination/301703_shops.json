@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Electronics shop",
+    "search_category": "Shops",
+    "primary_category": "Smart dealer",
+    "all_categories": "Smart dealer",
+    "pincode": "301703",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kanhawas barrier, Kund Rd, Behror, Kainwas, Rajasthan 301703",
+    "area": "301703",
+    "latitude": 28.046710899999997,
+    "longitude": 76.3579378,
+    "place_id": "ChIJE6nL4xetEjkRYmK4ZXM27LM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE6nL4xetEjkRYmK4ZXM27LM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:29:09"
+  },
+  {
+    "business_name": "Ajay ki dukan",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "301703",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Nareda Khurd, Naraira Khurd, Rajasthan 301703",
+    "area": "301703",
+    "latitude": 28.042434699999998,
+    "longitude": 76.1957291,
+    "place_id": "ChIJ041FOQCzEjkRTGF7h0L62OA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ041FOQCzEjkRTGF7h0L62OA",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:29:09"
+  }
+]

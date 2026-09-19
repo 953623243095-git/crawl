@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PehlaSubbroker",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Financial advisor",
+    "all_categories": "Financial advisor, Service establishment",
+    "pincode": "301705",
+    "phone_number": "+91 97739 84066",
+    "website": "https://www.pehlasubbroker.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PehlaSubbroker, 301705, India",
+    "area": "301705",
+    "latitude": 28.577679399999997,
+    "longitude": 77.3149005,
+    "place_id": "ChIJpR1gRIEEhycRT33sMX5hI-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpR1gRIEEhycRT33sMX5hI-8",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:32:29"
+  },
+  {
+    "business_name": "stock broker",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Finance broker",
+    "all_categories": "Finance broker, Service establishment",
+    "pincode": "301705",
+    "phone_number": "+91 99876 00513",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "stock broker, 301705, India",
+    "area": "301705",
+    "latitude": 19.4075864,
+    "longitude": 72.8569419,
+    "place_id": "ChIJGc7EiYspwYIRip1v__tTZAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGc7EiYspwYIRip1v__tTZAk",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:32:29"
+  }
+]

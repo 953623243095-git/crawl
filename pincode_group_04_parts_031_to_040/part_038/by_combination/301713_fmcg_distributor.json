@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRMP Traders",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "301713",
+    "phone_number": "+91 99168 19888",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "SRMP Traders, 3rd main, 1st cross,, behind Ayyappa Temple, Madiwala, 1st Stage, BTM 1st Stage, Bengaluru, Karnataka 560068",
+    "area": "Old Madiwala, Madiwala, 1st Stage, BTM 1st Stage",
+    "latitude": 12.9240474,
+    "longitude": 77.6180143,
+    "place_id": "ChIJZ00P6VcUrjsRYi9O8NDIzJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ00P6VcUrjsRYi9O8NDIzJE",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:40:31"
+  },
+  {
+    "business_name": "Premium Distributors",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "301713",
+    "phone_number": "+91 95398 33305",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Krishna complex, siva temple road, Thiruvazhiyode, Vellinezhi, Keralam 679514",
+    "area": "301713",
+    "latitude": 10.895112,
+    "longitude": 76.38785039999999,
+    "place_id": "ChIJ0xoBQwHXpzsR7nRMQ4i2DYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0xoBQwHXpzsR7nRMQ4i2DYE",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:40:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Desi Juice Corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "301427",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Q6J5+RJ6, Kaman - Jurhera Rd, Jurhera, Rajasthan 321023",
+    "area": "301427",
+    "latitude": 27.7820306,
+    "longitude": 77.2090078,
+    "place_id": "ChIJpYna08whczkR7-WEgT-N7Es",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpYna08whczkR7-WEgT-N7Es",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:19:51"
+  },
+  {
+    "business_name": "Om Juice & Shakes Corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "301427",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1.8,
+    "reviews_count": null,
+    "address": "7M3F+M7R, Machari - Thekada Rd, Machadi Mode, Macheri, Rajasthan 301408",
+    "area": "301427",
+    "latitude": 27.254236199999998,
+    "longitude": 76.67314689999999,
+    "place_id": "ChIJU1hh0-1icjkRuoqSAvsISuo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU1hh0-1icjkRuoqSAvsISuo",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:19:52"
+  }
+]

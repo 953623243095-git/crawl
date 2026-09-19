@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arihant Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "301414",
+    "phone_number": "+91 22 2568 9090",
+    "website": "http://arihantcars.com/",
+    "rating": 4.8,
+    "reviews_count": 4283,
+    "address": "Sai Dham, P. K. Road, near ST. Mary school, Mulund West, Mumbai, Maharashtra 400080",
+    "area": "Asha Nagar, Mulund West",
+    "latitude": 19.1669259,
+    "longitude": 72.944212,
+    "place_id": "ChIJC6bFxVi45zsRYQggP4olN3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC6bFxVi45zsRYQggP4olN3I",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:14:42"
+  },
+  {
+    "business_name": "Used Cars - Alwar",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "301414",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Plot No 8 and 9, Circle, near Manglam City Appartment, Roopbas, Alwar, Intarana, Rajasthan 301001",
+    "area": "Roopbas",
+    "latitude": 27.5231753,
+    "longitude": 76.626834,
+    "place_id": "ChIJq_0SZaqXcjkR59cdR6Dm5LY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq_0SZaqXcjkR59cdR6Dm5LY",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:14:44"
+  }
+]

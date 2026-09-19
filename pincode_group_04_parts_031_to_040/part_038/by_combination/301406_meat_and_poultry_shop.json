@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gabbar Singh Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "301406",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 10,
+    "address": "HJ9J+XQ9, 60 Feet Rd, Medical Colony, Daudpur, Alwar, Rajasthan 301001",
+    "area": "Medical Colony, Daudpur",
+    "latitude": 27.569913399999997,
+    "longitude": 76.6319745,
+    "place_id": "ChIJefLE9caZcjkRHA0qb1sN0lA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJefLE9caZcjkRHA0qb1sN0lA",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:58:37"
+  },
+  {
+    "business_name": "Rihan Chicken Center",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken shop",
+    "all_categories": "Chicken shop",
+    "pincode": "301406",
+    "phone_number": "+91 82098 98694",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 4,
+    "address": "Samola, Alwar, Rajasthan 301001",
+    "area": "Samola",
+    "latitude": 27.538279799999998,
+    "longitude": 76.6292825,
+    "place_id": "ChIJUfcuDPSbcjkRCY-j9p29aK4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUfcuDPSbcjkRCY-j9p29aK4",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:58:37"
+  }
+]

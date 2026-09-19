@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gudha katla",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "301415",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "3F7M+4XV, Gurha Katla, Rajasthan 303323",
+    "area": "301415",
+    "latitude": 27.062862499999998,
+    "longitude": 76.4849219,
+    "place_id": "ChIJBWS0U2V3cjkRVcDq4ZBn6ws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBWS0U2V3cjkRVcDq4ZBn6ws",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:17:31"
+  },
+  {
+    "business_name": "Gujjar",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "301415",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3C6P+7C3, Chandera, Jagsoli, Rajasthan 303323",
+    "area": "301415",
+    "latitude": 27.0606448,
+    "longitude": 76.4360623,
+    "place_id": "ChIJ9ycGxH-JbTkRap6WEgQnp04",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ycGxH-JbTkRap6WEgQnp04",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:17:31"
+  }
+]

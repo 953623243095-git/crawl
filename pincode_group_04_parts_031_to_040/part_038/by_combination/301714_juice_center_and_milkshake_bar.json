@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Juice and Shake Bar",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "301714",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 31,
+    "address": "J24P+H4C, Azad Hind Fauj Marg, Kakrola, Chandra Park, Dwarka, Delhi, 110078",
+    "area": "Kakrola, Chandra Park, Dwarka",
+    "latitude": 28.606434099999998,
+    "longitude": 77.0352657,
+    "place_id": "ChIJjW7aMDUFDTkR7yQyvVlMf6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjW7aMDUFDTkR7yQyvVlMf6E",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:42:28"
+  },
+  {
+    "business_name": "Narayan Sweets and Juice",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "301714",
+    "phone_number": "+91 95882 29434",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "WPVV+RC3, Kanta Choraha, Shyam Puri, Jhotwara, Jaipur, Rajasthan 302012",
+    "area": "Laxmi Nagar III, Jagannath Puri, Shyam Puri, Jhotwara",
+    "latitude": 26.9445181,
+    "longitude": 75.7435438,
+    "place_id": "ChIJg7rkJgezbTkRSsjppfEGFDo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg7rkJgezbTkRSsjppfEGFDo",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:42:30"
+  }
+]

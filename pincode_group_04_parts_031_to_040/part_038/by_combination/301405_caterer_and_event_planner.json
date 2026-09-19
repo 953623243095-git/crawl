@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dharmendra Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "301405",
+    "phone_number": "N/A",
+    "website": "http://www.dmcaterers.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chamunda Tiraha, Sri Premanand Rd, near Kela Devi Temple, Ramnagar Colony, Vrindavan, Uttar Pradesh 281121",
+    "area": "Ramnagar Colony",
+    "latitude": 27.5634302,
+    "longitude": 77.6963178,
+    "place_id": "ChIJsaYfdahxczkRzelJdYP2iJQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsaYfdahxczkRzelJdYP2iJQ",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:57:41"
+  },
+  {
+    "business_name": "Batra Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "301405",
+    "phone_number": "+91 98113 35918",
+    "website": "https://batracaterers.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shahbad, Rajasthan 301411",
+    "area": "301405",
+    "latitude": 27.923452299999997,
+    "longitude": 76.8092935,
+    "place_id": "ChIJHVOfrRa2cjkRgHOEu2TjNDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHVOfrRa2cjkRgHOEu2TjNDA",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:57:41"
+  }
+]

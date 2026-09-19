@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bike repair and service",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "301706",
+    "phone_number": "+91 86079 90552",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2GVQ+3G8, Kheri Dalusingh, Kheri Dhar Chana, Haryana 123501",
+    "area": "301706",
+    "latitude": 28.042834799999998,
+    "longitude": 76.5386137,
+    "place_id": "ChIJJ8uK3NpVDTkREtauh77qnpM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ8uK3NpVDTkREtauh77qnpM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:33:27"
+  },
+  {
+    "business_name": "Car Bike Moving Solution",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "301706",
+    "phone_number": "+91 88540 68421",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 9,
+    "address": "Shree Ram plaza, F-149, RIICO Industrial Area, Neemrana, Googal Kota, Rajasthan 301705",
+    "area": "RIICO Industrial Area",
+    "latitude": 28.0289453,
+    "longitude": 76.47423619999999,
+    "place_id": "ChIJlxG4ccVUbTkR_u-fH6Mh6es",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlxG4ccVUbTkR_u-fH6Mh6es",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:33:30"
+  }
+]

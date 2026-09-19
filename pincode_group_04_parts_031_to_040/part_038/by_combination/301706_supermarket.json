@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MUBSSIR",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "301706",
+    "phone_number": "+91 98170 05019",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shahjahan Man Toll Road, Nh 8, Alwar, Shahjahanpur, Rajasthan 301705",
+    "area": "301706",
+    "latitude": 27.9977029,
+    "longitude": 76.4275701,
+    "place_id": "ChIJEXDbUJKrEjkR-i3ArjCAXDQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEXDbUJKrEjkR-i3ArjCAXDQ",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:32:51"
+  },
+  {
+    "business_name": "Anuj kriana store belni",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "301706",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "2C24+PV3, 2c 26+29, Belni, Rajasthan 301706",
+    "area": "301706",
+    "latitude": 28.0000887,
+    "longitude": 76.41096809999999,
+    "place_id": "ChIJq6qqqimrEjkRdQK2PFUL6hI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqimrEjkRdQK2PFUL6hI",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:32:52"
+  }
+]

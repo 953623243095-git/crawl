@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashirwad Daignostic center",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Medical diagnostic imaging center",
+    "all_categories": "Medical diagnostic imaging center",
+    "pincode": "301413",
+    "phone_number": "+91 91660 10098",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9V76+W2, Laxmangarh, Rajasthan 321607",
+    "area": "301413",
+    "latitude": 27.3659523,
+    "longitude": 76.8641593,
+    "place_id": "ChIJ0ZVJj231cjkRM8_7SW5xExk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0ZVJj231cjkRM8_7SW5xExk",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:12:41"
+  },
+  {
+    "business_name": "Lal Path Labs",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "301413",
+    "phone_number": "+91 11 4988 5050",
+    "website": "https://www.lalpathlabs.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bilaspur Rd, Chhachhrauli, Haryana 135103",
+    "area": "301413",
+    "latitude": 30.240389699999998,
+    "longitude": 77.3585489,
+    "place_id": "ChIJnyMR9XD9DjkR1p8hLS0zgs0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnyMR9XD9DjkR1p8hLS0zgs0",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:12:41"
+  }
+]

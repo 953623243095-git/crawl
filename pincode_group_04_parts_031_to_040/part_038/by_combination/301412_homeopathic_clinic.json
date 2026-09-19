@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Sankhala's Homoeopathy Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath, Medical clinic",
+    "pincode": "301412",
+    "phone_number": "+91 96809 29668",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Hospital, Rashidpura, Rajasthan 332315",
+    "area": "301412",
+    "latitude": 27.7099548,
+    "longitude": 75.0850294,
+    "place_id": "ChIJa6xhQACvbDkRqv59LgSWOK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa6xhQACvbDkRqv59LgSWOK0",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:10:37"
+  },
+  {
+    "business_name": "Shreyansh Homoeo Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant",
+    "pincode": "301412",
+    "phone_number": "+91 85049 78108",
+    "website": "https://shreyansh-homoeo-clinic.lovable.app/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Apna Ghar, 391, Shalimar Extention Gate 3, Alwar, Nagla Samawadi, Rajasthan 301001",
+    "area": "301412",
+    "latitude": 27.6101361,
+    "longitude": 76.6313073,
+    "place_id": "ChIJ06H0YfqZcjkRBrwhtRt5qQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ06H0YfqZcjkRBrwhtRt5qQc",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:10:41"
+  }
+]

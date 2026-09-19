@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Rawat Regency",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Banquet hall, Conference center, Event planner, Event venue, Motel, Hotel, Wedding planner, Wedding service, Wedding venue",
+    "pincode": "301412",
+    "phone_number": "+91 94141 43006",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 38,
+    "address": "NH 48, Bansur Mode, near Old Truck Union, Kotputli, Rajasthan 303108",
+    "area": "301412",
+    "latitude": 27.7105356,
+    "longitude": 76.1990971,
+    "place_id": "ChIJL3GG0PZFbTkR0vLl2xnQ7DQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL3GG0PZFbTkR0vLl2xnQ7DQ",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:10:23"
+  },
+  {
+    "business_name": "Bikanervala - Indian Restaurant near Jhanjharpur",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Cake shop, Sweet shop, Sweets and dessert buffet, Fast food restaurant, Food court, Health food restaurant, Family restaurant",
+    "pincode": "301412",
+    "phone_number": "+91 11 4700 6735",
+    "website": "http://www.bikanervala.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Grand Hira Resort Pvt Ltd., NH-8 Village Hamjapur, Dist, Behror, Rajasthan 301001",
+    "area": "Diwan Mohalla",
+    "latitude": 27.8797304,
+    "longitude": 76.28210539999999,
+    "place_id": "ChIJrYiJMQKacjkRDZLeXYPJABw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrYiJMQKacjkRDZLeXYPJABw",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:10:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Big B Car Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "301427",
+    "phone_number": "+91 70142 95532",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "Near Ashadeep society, Jat Behror, road, Kalipahari, Neemrana, Rajasthan 301705",
+    "area": "road",
+    "latitude": 27.974246599999997,
+    "longitude": 76.4110611,
+    "place_id": "ChIJZSDifXNVbTkRBQ81r9DC6pQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZSDifXNVbTkRBQ81r9DC6pQ",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:20:18"
+  },
+  {
+    "business_name": "Royal shine car",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "301427",
+    "phone_number": "+91 80039 88475",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "huda hotel k pass, Ridhi sidhi petrol pump k samne, Nawalgarh Rd, Rajasthan 332001",
+    "area": "301427",
+    "latitude": 27.6640174,
+    "longitude": 75.18313479999999,
+    "place_id": "ChIJmdlINr67bDkRkPnX-Sz3nTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmdlINr67bDkRkPnX-Sz3nTY",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:20:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sushma clothes collection",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "301706",
+    "phone_number": "+91 74978 83990",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ramsinghpura, Bawal, Rajasthan 301706",
+    "area": "301706",
+    "latitude": 28.033289099999998,
+    "longitude": 76.5287364,
+    "place_id": "ChIJDzBWlcRVDTkR6jbHDHsXQhE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDzBWlcRVDTkR6jbHDHsXQhE",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:33:09"
+  },
+  {
+    "business_name": "Bhati clothing shop",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer",
+    "pincode": "301706",
+    "phone_number": "+91 93506 89153",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Audhi, Bawal, Haryana 123401",
+    "area": "Audhi",
+    "latitude": 28.0624579,
+    "longitude": 76.528818,
+    "place_id": "ChIJRbrcGH9VDTkRqtG6BdQiDC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRbrcGH9VDTkRqtG6BdQiDC8",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:33:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SP Stationery Mart",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Bag shop, Novelty store, Outdoor sports store, Toy store",
+    "pincode": "301714",
+    "phone_number": "+91 98114 19742",
+    "website": "https://www.jainstationerymart.com/",
+    "rating": 4.5,
+    "reviews_count": 497,
+    "address": "Sikandarpur Badha, Sector 85, Gurugram, Haryana 122004",
+    "area": "Sikandarpur Badha, Sector 85",
+    "latitude": 28.4025362,
+    "longitude": 76.95461689999999,
+    "place_id": "ChIJCZl7t5Y9DTkRrJtSYR58FY8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCZl7t5Y9DTkRrJtSYR58FY8",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:43:40"
+  },
+  {
+    "business_name": "Bharat Stationery",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Store",
+    "pincode": "301714",
+    "phone_number": "+91 98992 26842",
+    "website": "https://www.jainstationerymart.com/",
+    "rating": 4.6,
+    "reviews_count": 275,
+    "address": "CW8P+GFV, Hayatpur, Sector 93, Gurugram, Haryana 122505",
+    "area": "Hayatpur, Sector 93",
+    "latitude": 28.418008999999998,
+    "longitude": 76.9342106,
+    "place_id": "ChIJ74fo_hoWDTkR0qPy645LhTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ74fo_hoWDTkR0qPy645LhTU",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:43:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tagore garden, tuk tuk events",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Party planner",
+    "all_categories": "Party planner",
+    "pincode": "301705",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tagore marg, Shahjahanpur, Rajasthan 301706",
+    "area": "301705",
+    "latitude": 27.9975767,
+    "longitude": 76.4528346,
+    "place_id": "ChIJYUrF37ZVbTkRkKqdgL67_cM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYUrF37ZVbTkRkKqdgL67_cM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:32:03"
+  },
+  {
+    "business_name": "Story event planner",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "301705",
+    "phone_number": "+91 89498 93629",
+    "website": "https://www.storyeventplanner.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "84/142, Mansarovar Patel Marg, Ward 27, Mansarovar Sector 8, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Ward 27, Mansarovar Sector 8, Mansarovar",
+    "latitude": 26.8552575,
+    "longitude": 75.7653957,
+    "place_id": "ChIJW2jnEhu1bTkR6vezCYBjksU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW2jnEhu1bTkR6vezCYBjksU",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:32:03"
+  }
+]

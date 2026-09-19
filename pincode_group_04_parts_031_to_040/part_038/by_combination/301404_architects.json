@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Unique Space Architects",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm, Service establishment",
+    "pincode": "301404",
+    "phone_number": "N/A",
+    "website": "https://www.usarch.biz/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Unique Space Architects, 301404, India",
+    "area": "301404",
+    "latitude": 25.6878277,
+    "longitude": 85.2201292,
+    "place_id": "ChIJ8-obLD_O8kgR4Dz058BP4N0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8-obLD_O8kgR4Dz058BP4N0",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:55:15"
+  },
+  {
+    "business_name": "nishant gyanani architects",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect",
+    "pincode": "301404",
+    "phone_number": "N/A",
+    "website": "https://nishantgyananiportfolio.dora.run/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QMW4+WQJ, Anand Nagar, Khairthal, Rajasthan 301404",
+    "area": "Anand Nagar",
+    "latitude": 27.8031573,
+    "longitude": 76.64739209999999,
+    "place_id": "ChIJyag3SQC7cjkRPH4d8-7-5KE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyag3SQC7cjkRPH4d8-7-5KE",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:55:15"
+  }
+]

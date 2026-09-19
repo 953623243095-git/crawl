@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taj Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "301406",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 329,
+    "address": "GJRJ+4QP, Raj Road, Ambed Nagar, I Block, Alwar, Rajasthan 301030",
+    "area": "Samola",
+    "latitude": 27.5403408,
+    "longitude": 76.63194899999999,
+    "place_id": "ChIJh_8BVw6acjkR5GrUFJ70doA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh_8BVw6acjkR5GrUFJ70doA",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:59:54"
+  },
+  {
+    "business_name": "Fatehgarh now Namanbagh",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "301406",
+    "phone_number": "+91 79767 45116",
+    "website": "http://namanbagh.com/",
+    "rating": 4.1,
+    "reviews_count": 275,
+    "address": "Siliserh Lake, Road, Alwar, Rajasthan 301002, Alwar, Rajasthan 301001",
+    "area": "301406",
+    "latitude": 27.504744,
+    "longitude": 76.5374018,
+    "place_id": "ChIJPaVUxHyccjkR-MIsNGMWSS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPaVUxHyccjkR-MIsNGMWSS4",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:59:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vimal Book House",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "301701",
+    "phone_number": "+91 98371 92947",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 1398,
+    "address": "Aligarh Muslim University, market, opposite aftab hall, Shamshad, Saheb Bagh, Aligarh, Uttar Pradesh 202001",
+    "area": "Shamshad, Saheb Bagh",
+    "latitude": 27.909153699999997,
+    "longitude": 78.0695558,
+    "place_id": "ChIJSyf0x_mkdDkRQRYzXYfe5Mw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSyf0x_mkdDkRQRYzXYfe5Mw",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:24:49"
+  },
+  {
+    "business_name": "Manav Book Distributors",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "301701",
+    "phone_number": "+91 97600 21996",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 1593,
+    "address": "Sita Ram Plaza, market, near Bharat cinema, Raja ki Mandi, Agra, Uttar Pradesh 282002",
+    "area": "Raja ki Mandi",
+    "latitude": 27.189775299999997,
+    "longitude": 77.9995392,
+    "place_id": "ChIJDWKvOzx3dDkRgY6AxebaY8s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDWKvOzx3dDkRgY6AxebaY8s",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:24:49"
+  }
+]

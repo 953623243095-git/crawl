@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaswant Mobile Shop",
+    "search_category": "Shops",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "301708",
+    "phone_number": "+91 97845 76719",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dabarwas Rd, Main, Alwar, Ghilot, Rajasthan 301705",
+    "area": "Main",
+    "latitude": 28.066658099999998,
+    "longitude": 76.396658,
+    "place_id": "ChIJLUy4c6OrEjkR_sEmghqAEoQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLUy4c6OrEjkR_sEmghqAEoQ",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:38:37"
+  },
+  {
+    "business_name": "New Choice Enterprises",
+    "search_category": "Shops",
+    "primary_category": "Glass & mirror shop",
+    "all_categories": "Glass & mirror shop",
+    "pincode": "301708",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dabarwas Rd, Ghilot, Rajasthan 301705",
+    "area": "301708",
+    "latitude": 28.0663032,
+    "longitude": 76.39539479999999,
+    "place_id": "ChIJbU6rJMerEjkRq8BavWfuvGU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbU6rJMerEjkRq8BavWfuvGU",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:38:37"
+  }
+]

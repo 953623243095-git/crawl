@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Babita beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Health and beauty shop",
+    "all_categories": "Health and beauty shop",
+    "pincode": "301604",
+    "phone_number": "+91 70732 80244",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "C39V+X6H, SH 22, Radha Krishan Colony, Nagar, Rajasthan 321205",
+    "area": "Radha Krishan Colony",
+    "latitude": 27.4199335,
+    "longitude": 77.09310409999999,
+    "place_id": "ChIJW2Kfow_7cjkREtuE24Cp29M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW2Kfow_7cjkREtuE24Cp29M",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:22:32"
+  },
+  {
+    "business_name": "Neelam beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Make-up artist",
+    "pincode": "301604",
+    "phone_number": "+91 96101 11564",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kunda bazar ke pass Gas agncy ke, samne wali gali, Govind Garh, Rajasthan 301604",
+    "area": "301604",
+    "latitude": 27.5053014,
+    "longitude": 76.9975467,
+    "place_id": "ChIJR1UZr9HvcjkRI7JvkQ1XUy0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR1UZr9HvcjkRI7JvkQ1XUy0",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:22:32"
+  }
+]

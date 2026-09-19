@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anvi chat corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "301703",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kahnawas, Kainwas, Rajasthan 301703",
+    "area": "301703",
+    "latitude": 28.0477684,
+    "longitude": 76.3586925,
+    "place_id": "ChIJjw6a_FitEjkR7UOpHwx0_7w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjw6a_FitEjkR7UOpHwx0_7w",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:27:28"
+  },
+  {
+    "business_name": "Jagdamba fast food & juice corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "301703",
+    "phone_number": "+91 95490 40059",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "VPO, Khohar, Behror, Rajasthan 301709",
+    "area": "301703",
+    "latitude": 27.992259899999997,
+    "longitude": 76.2554866,
+    "place_id": "ChIJ7VqBFC2zEjkRIFCFg5Loaso",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7VqBFC2zEjkRIFCFg5Loaso",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:27:29"
+  }
+]

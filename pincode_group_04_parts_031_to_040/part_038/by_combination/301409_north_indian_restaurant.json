@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manasa Velly Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Cafe, Chinese restaurant, Italian restaurant, North Indian restaurant, Vegetarian restaurant",
+    "pincode": "301409",
+    "phone_number": "+91 96025 77060",
+    "website": "https://manasavellyrestaurant.ezoshop.in/",
+    "rating": 4.7,
+    "reviews_count": 182,
+    "address": "MAIN TIRAHYA, balaji, Mehendipur Balaji Temple Rd, Mehandipur, Todabhim, Rajasthan 321610",
+    "area": "301409",
+    "latitude": 26.9419385,
+    "longitude": 76.8009017,
+    "place_id": "ChIJzXwrpkdrcjkRsSPo06fjygk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzXwrpkdrcjkRsSPo06fjygk",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:04:40"
+  },
+  {
+    "business_name": "Rajasthani Midway",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Rajasthani Restaurant",
+    "all_categories": "Rajasthani Restaurant, Banquet hall, Garden, Handicraft, Restaurant",
+    "pincode": "301409",
+    "phone_number": "+91 95498 36746",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 910,
+    "address": "Mahwa Bypass, Samleti, Dhanturi, Rajasthan 321608",
+    "area": "301409",
+    "latitude": 27.037094699999997,
+    "longitude": 76.9096479,
+    "place_id": "ChIJPY3vVfpDcjkRsEfKuNTjqwc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPY3vVfpDcjkRsEfKuNTjqwc",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:04:42"
+  }
+]

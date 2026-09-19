@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "kamna beauty parlour",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "301413",
+    "phone_number": "+91 94148 93345",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "255, Scheme Number 1, Arya Nagar, Alwar, Rajasthan 301001",
+    "area": "Arya Nagar",
+    "latitude": 27.5714918,
+    "longitude": 76.61066939999999,
+    "place_id": "ChIJ-fAjIZGZcjkRwpWEsjGHdvI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-fAjIZGZcjkRwpWEsjGHdvI",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:13:09"
+  },
+  {
+    "business_name": "Home service beautician",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "301413",
+    "phone_number": "+91 63751 71516",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Drishti pg, Scheme No 3, Basant Vihar, Alwar, Rajasthan 301001",
+    "area": "Scheme No 3, Basant Vihar",
+    "latitude": 27.5756518,
+    "longitude": 76.6189885,
+    "place_id": "ChIJk6x8w7WZcjkR8Qw3ySpi9XE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk6x8w7WZcjkR8Qw3ySpi9XE",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:13:09"
+  }
+]

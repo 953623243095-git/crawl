@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Highway Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "301414",
+    "phone_number": "+91 78898 00340",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 35,
+    "address": "Agrikalan, Srinagar - Gulmarg Rd, near KC Marble, Srinagar, Jammu and Kashmir 193411",
+    "area": "301414",
+    "latitude": 34.0966552,
+    "longitude": 74.6049701,
+    "place_id": "ChIJDZjFvxCZ4TgRqrmmtXf7o04",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDZjFvxCZ4TgRqrmmtXf7o04",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:14:16"
+  },
+  {
+    "business_name": "Highway Dhaba Non Veg",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Chicken restaurant",
+    "pincode": "301414",
+    "phone_number": "+91 94503 75330",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 87,
+    "address": "NH 30, Bagaha, Uttar Pradesh 261141",
+    "area": "301414",
+    "latitude": 27.618946899999997,
+    "longitude": 80.5596247,
+    "place_id": "ChIJ08KDMgAnnzkRCY_EsbbYSis",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ08KDMgAnnzkRCY_EsbbYSis",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:14:16"
+  }
+]

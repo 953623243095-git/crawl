@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tejas Organics",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Farmers' market, Natural goods store, Organic shop",
+    "pincode": "301713",
+    "phone_number": "+91 85069 46720",
+    "website": "https://tejasorganics.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "83HR+VG4 bhelpa greens, C-30, permit lane, Bhondsi, Sehjawas, Gurugram, Haryana 122102",
+    "area": "Bhondsi",
+    "latitude": 28.329732,
+    "longitude": 77.09124589999999,
+    "place_id": "ChIJdRkGscQlDTkRiEcmnMambLg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdRkGscQlDTkRiEcmnMambLg",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:40:27"
+  },
+  {
+    "business_name": "The NaturALL Store (NutriEarth Foods India Pvt Ltd)",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Cosmetics store, Food products supplier, Health food store, Organic farm, Natural goods store, Organic shop, Shopping mall",
+    "pincode": "301713",
+    "phone_number": "+91 79966 64022",
+    "website": "https://www.thenaturallstore.com/",
+    "rating": 5,
+    "reviews_count": 44,
+    "address": "No 9, Ground Floor, The NaturALL Store, Krishna Kashthuri, NutriEarth Foods Pvt Ltd, Sanjay Nagar Main Rd, RMV 2nd Stage, Ashwath Nagar, Bengaluru, Karnataka 560094",
+    "area": "RMV 2nd Stage, Ashwath Nagar, Sanjayanagara",
+    "latitude": 13.0261333,
+    "longitude": 77.5806011,
+    "place_id": "ChIJmRs8wPcXrjsR7kLjRBtItvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmRs8wPcXrjsR7kLjRBtItvY",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:40:29"
+  }
+]

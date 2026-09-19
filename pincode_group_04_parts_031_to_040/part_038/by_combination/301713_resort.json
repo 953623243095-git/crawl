@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fungram Resorts",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "301713",
+    "phone_number": "+91 70421 42276",
+    "website": "http://www.fungramresorts.com/",
+    "rating": 4.7,
+    "reviews_count": 410,
+    "address": "Fungram Resorts Village Bamanwas Kheta Nangal Chaudhary, District, Mohindergarh, Haryana 123023",
+    "area": "301713",
+    "latitude": 27.8846296,
+    "longitude": 76.1574141,
+    "place_id": "ChIJXSaKrM9LbTkReSdVS-heKF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXSaKrM9LbTkReSdVS-heKF4",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:41:35"
+  },
+  {
+    "business_name": "Chandni Midway Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "301713",
+    "phone_number": "+91 94677 51111",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1854,
+    "address": "KM Stone, 4, Narnaul - Singhana Rd, Narnaul, Raghunathpura, Haryana 123001",
+    "area": "301713",
+    "latitude": 28.073627199999997,
+    "longitude": 76.074747,
+    "place_id": "ChIJj9tuKQm2EjkRYWxYB6QEzps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj9tuKQm2EjkRYWxYB6QEzps",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:41:35"
+  }
+]

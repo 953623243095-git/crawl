@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "IMC AYURVEADAS",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Alternative medicine practitioner",
+    "all_categories": "Alternative medicine practitioner",
+    "pincode": "301408",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "18, Jyoti Nagar, Alwar, Rajasthan 301001",
+    "area": "Jyoti Nagar",
+    "latitude": 27.558316299999998,
+    "longitude": 76.6333223,
+    "place_id": "ChIJzTyno7GZcjkR85kK-5MfbvE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzTyno7GZcjkR85kK-5MfbvE",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:03:01"
+  },
+  {
+    "business_name": "Panchgavya Aarogaya Kendra",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic, Hospital",
+    "pincode": "301408",
+    "phone_number": "+91 94672 85195",
+    "website": "https://panchgavyaarogyakendra.com/",
+    "rating": 4.6,
+    "reviews_count": 184,
+    "address": "Kalwari, Haryana 123021",
+    "area": "301408",
+    "latitude": 28.172609299999998,
+    "longitude": 76.2202538,
+    "place_id": "ChIJhXFcqMWxEjkRRLWtSStsrEk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhXFcqMWxEjkRRLWtSStsrEk",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:03:02"
+  }
+]

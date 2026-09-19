@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Skyline Automotive (German Car repair shop)",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto bodywork mechanic",
+    "all_categories": "Auto bodywork mechanic, Auto body shop, Car battery store, Car wash, Mechanic",
+    "pincode": "301427",
+    "phone_number": "+91 99294 93446",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 54,
+    "address": "service line, Ajmer-Jaipur Expy, near gurjar hotel, beside kishangarh, nh8, Jatli, Akhri, Rajasthan 305023",
+    "area": "nh8",
+    "latitude": 26.557302,
+    "longitude": 74.79564479999999,
+    "place_id": "ChIJ2_b31rrxazkRosbI96cPNeg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2_b31rrxazkRosbI96cPNeg",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:20:19"
+  },
+  {
+    "business_name": "Azad Car Repair workshop",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "RV repair shop",
+    "all_categories": "RV repair shop, Auto broker, Car wash, Mechanic",
+    "pincode": "301427",
+    "phone_number": "+91 96806 54099",
+    "website": "https://azadcarrepair.in.net/",
+    "rating": 4.9,
+    "reviews_count": 619,
+    "address": "Shop No 2, Mirza Ismail Rd, near natha arts, Pink City, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302001",
+    "area": "Pink City",
+    "latitude": 26.917753899999997,
+    "longitude": 75.80515319999999,
+    "place_id": "ChIJ010D1om1bTkR31KFahIqQyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ010D1om1bTkR31KFahIqQyQ",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:20:20"
+  }
+]

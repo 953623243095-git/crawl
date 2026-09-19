@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Magic Touch Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "301404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gate 12, Apna Ghar, Shalimar Extension, Alwar, Nagla Samawadi, Rajasthan 301001",
+    "area": "Shalimar Extension",
+    "latitude": 27.612135499999997,
+    "longitude": 76.62289419999999,
+    "place_id": "ChIJ9Uz5lT2ZcjkRBmnZ7TzThM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Uz5lT2ZcjkRBmnZ7TzThM4",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:55:19"
+  },
+  {
+    "business_name": "Pooja beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "301404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Alwar - Bhiwadi Rd, Niranjan Colony, moad, Vikash nagar, Bagthala, Haryana 123106",
+    "area": "Niranjan Colony, moad, Vikash nagar",
+    "latitude": 27.8685859,
+    "longitude": 76.76252319999999,
+    "place_id": "ChIJ49zFJJi3cjkRqJxiDYyTpgs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ49zFJJi3cjkRqJxiDYyTpgs",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:55:20"
+  }
+]

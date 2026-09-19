@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vidhi Fashion & Boutique",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer, Tailor",
+    "pincode": "301411",
+    "phone_number": "+91 87399 90412",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Krish City-Phase - I & II, Tapukara, Rajasthan 301707",
+    "area": "Krish City-Phase - I & II",
+    "latitude": 28.0991082,
+    "longitude": 76.8333591,
+    "place_id": "ChIJk2GyXqw1DTkRLllQZ19iVJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk2GyXqw1DTkRLllQZ19iVJw",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:08:34"
+  },
+  {
+    "business_name": "SIMRAN TAILOR",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "301411",
+    "phone_number": "+91 94166 22552",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop 1, Gurudwara, Jhundpuri, Rajasthan 301707",
+    "area": "301411",
+    "latitude": 28.091482799999998,
+    "longitude": 76.83789209999999,
+    "place_id": "ChIJcVnnEgQ1DTkRmiCBoWGsHDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcVnnEgQ1DTkRmiCBoWGsHDU",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:08:34"
+  }
+]

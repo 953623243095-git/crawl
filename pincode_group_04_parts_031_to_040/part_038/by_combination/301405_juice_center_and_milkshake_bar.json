@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Tej Market",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "301405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "near Clock Tower/Ghanta Ghar, Munshi Bagh, Alwar, Rajasthan 301001",
+    "area": "Munshi Bagh",
+    "latitude": 27.567711799999998,
+    "longitude": 76.6052053,
+    "place_id": "ChIJib4ms1yZcjkRNyoN6jkMbu8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJib4ms1yZcjkRNyoN6jkMbu8",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:56:37"
+  },
+  {
+    "business_name": "Juice Centre",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "301405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "A164, Road, Patrakar Colony, A Block, Budhvihar, Alwar, Rajasthan 301001",
+    "area": "Patrakar Colony, A Block, Budhvihar",
+    "latitude": 27.6008244,
+    "longitude": 76.61284839999999,
+    "place_id": "ChIJVZMlBCSZcjkRho5csyw3HEs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVZMlBCSZcjkRho5csyw3HEs",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:56:38"
+  }
+]

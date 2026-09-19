@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dev Karan Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "301414",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "7H5W+V57, NH25, Govindpura, Thana, Rajasthan 301408",
+    "area": "301414",
+    "latitude": 27.259655499999997,
+    "longitude": 76.59540919999999,
+    "place_id": "ChIJ-cD_I3Z9cjkRNP2zsVdn1mA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-cD_I3Z9cjkRNP2zsVdn1mA",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:14:11"
+  },
+  {
+    "business_name": "Chai Buster Tea",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "301414",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Donald Trump Ave, Financial District, Gowlidoddy, Nanakramguda, Hyderabad, Telangana 500032",
+    "area": "Financial District, Gowlidoddy",
+    "latitude": 17.4258295,
+    "longitude": 78.3295107,
+    "place_id": "ChIJb-hlLACTyzsRzaP1NISWFQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb-hlLACTyzsRzaP1NISWFQA",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:14:12"
+  }
+]

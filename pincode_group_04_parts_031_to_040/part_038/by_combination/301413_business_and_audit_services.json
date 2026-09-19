@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Accounts Solution",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant",
+    "pincode": "301413",
+    "phone_number": "+91 97835 56622",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Murti Mohalla, 60 Feet Rd, Shri Krishna Colony, Shastri Nagar, Alwar, Rajasthan 301001",
+    "area": "Shri Krishna Colony, Shastri Nagar",
+    "latitude": 27.5711491,
+    "longitude": 76.63428909999999,
+    "place_id": "ChIJu6JNR-6ZcjkReEcB89L45BY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu6JNR-6ZcjkReEcB89L45BY",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:13:42"
+  },
+  {
+    "business_name": "K.L. Datta & Co.",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant",
+    "pincode": "301413",
+    "phone_number": "+91 97119 47939",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Vashisht Plaza, 2, Manu Marg, Kabir Colony, Alwar, Rajasthan 301001",
+    "area": "Kabir Colony",
+    "latitude": 27.5622877,
+    "longitude": 76.6050435,
+    "place_id": "ChIJbzfgz06ZcjkRhnJKe-JvRWE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbzfgz06ZcjkRhnJKe-JvRWE",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:13:43"
+  }
+]

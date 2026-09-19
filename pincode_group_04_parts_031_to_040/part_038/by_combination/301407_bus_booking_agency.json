@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay tour and travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "301407",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 34,
+    "address": "HJJ7+VX7, Vijay Nagar, Alwar, Rajasthan 301001",
+    "area": "Vijay Nagar",
+    "latitude": 27.582174799999997,
+    "longitude": 76.61491939999999,
+    "place_id": "ChIJ-RkOUFmZcjkRYoPWQjR7nOw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-RkOUFmZcjkRYoPWQjR7nOw",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:01:22"
+  },
+  {
+    "business_name": "Shree Krishana Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "301407",
+    "phone_number": "+91 94136 30951",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Alwar Rd, Industrial Area, Behror, Rajasthan 301701",
+    "area": "Industrial Area",
+    "latitude": 27.8911686,
+    "longitude": 76.2960092,
+    "place_id": "ChIJw6vTbaJTbTkRH4XjsAxDwjo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw6vTbaJTbTkRH4XjsAxDwjo",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:01:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manohar Eye Hospital Nagar",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Hospital",
+    "pincode": "301604",
+    "phone_number": "+91 83073 32397",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "sikri road, opp. SDM residence, Dargan Colony, Nagar, Rajasthan 321205",
+    "area": "Dargan Colony",
+    "latitude": 27.4265972,
+    "longitude": 77.09582619999999,
+    "place_id": "ChIJ7X9tJJP7cjkRQREVTCEJCg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7X9tJJP7cjkRQREVTCEJCg8",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:22:05"
+  },
+  {
+    "business_name": "Shri shyaam eye center",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Optician",
+    "pincode": "301604",
+    "phone_number": "+91 96105 06862",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Yadav complex, near government hospital Sikri, Sikri Patti, Seekri Chak No. 1, Sikari, Rajasthan 321024",
+    "area": "Sikri Patti",
+    "latitude": 27.5793912,
+    "longitude": 77.0743292,
+    "place_id": "ChIJhVwh9DjlcjkRL3Jm28b1fpE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhVwh9DjlcjkRL3Jm28b1fpE",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:22:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hans Resorts",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "301702",
+    "phone_number": "+91 91367 75590",
+    "website": "http://www.hansresorts.com/",
+    "rating": 3.8,
+    "reviews_count": 1837,
+    "address": "91 milestone, NH-8, near kasola chowk, Rewari, Deodhai, Haryana 123401",
+    "area": "301702",
+    "latitude": 28.125733999999998,
+    "longitude": 76.63768,
+    "place_id": "ChIJhYVXaUhODTkRi1j2kAlbr1I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhYVXaUhODTkRi1j2kAlbr1I",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:26:30"
+  },
+  {
+    "business_name": "Hotel Shemron, Neemrana",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Hotel",
+    "pincode": "301702",
+    "phone_number": "N/A",
+    "website": "https://hotelshemron.com/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "2F57+FRX, NH-8, Shahjahanpur, Chaubara, Rajasthan 301706",
+    "area": "301702",
+    "latitude": 28.0087285,
+    "longitude": 76.46461409999999,
+    "place_id": "ChIJsyqYfFBVDTkRkWRsdQnljEI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsyqYfFBVDTkRkWRsdQnljEI",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:26:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NS FITNESS GYM",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "301427",
+    "phone_number": "+91 76659 87426",
+    "website": "https://www.nsfitnessgym.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "hanuman mandir, Rajasthan Chetram Bali bagichi, Kherli, Rajasthan 321606",
+    "area": "Doroli",
+    "latitude": 27.19698,
+    "longitude": 77.0347699,
+    "place_id": "ChIJt8PBVKZRcjkR4JzsRai1lyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt8PBVKZRcjkR4JzsRai1lyQ",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:20:17"
+  },
+  {
+    "business_name": "J-OASIS GYM",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "301427",
+    "phone_number": "+91 98123 34446",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "1st Floor, Center, Neemrana, Rajasthan 301705",
+    "area": "301427",
+    "latitude": 27.985749499999997,
+    "longitude": 76.3898695,
+    "place_id": "ChIJQ63BmuxVbTkRThmm-ibWU18",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ63BmuxVbTkRThmm-ibWU18",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:20:18"
+  }
+]

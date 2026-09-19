@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OM JEWELLERS",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "301703",
+    "phone_number": "+91 94139 18752",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Chudi Market, Neemrana, Rajasthan 301705",
+    "area": "301703",
+    "latitude": 27.9913125,
+    "longitude": 76.3856875,
+    "place_id": "ChIJe1S7pESrEjkRp5Yd_Lpm2ug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe1S7pESrEjkRp5Yd_Lpm2ug",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:27:37"
+  },
+  {
+    "business_name": "Shree Ram Hallmark Jewellers",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "301703",
+    "phone_number": "+91 94162 28951",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Main Bazar Road, opposite Saree Mahal, Ateli Mandi, Ateli, Haryana 123021",
+    "area": "Ateli Mandi",
+    "latitude": 28.1026925,
+    "longitude": 76.2583222,
+    "place_id": "ChIJ38jnPsWxEjkR4POZciwj1ss",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ38jnPsWxEjkR4POZciwj1ss",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:27:39"
+  }
+]

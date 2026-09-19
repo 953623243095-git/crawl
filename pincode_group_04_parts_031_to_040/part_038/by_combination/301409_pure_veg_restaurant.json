@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Shyam Pavitra Bhojnalaya",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "301409",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "peeli kothi, Mandawar Rd, Mahwa, Sahidpur, Rajasthan 321608",
+    "area": "301409",
+    "latitude": 27.061483199999998,
+    "longitude": 76.9164697,
+    "place_id": "ChIJoZUrUQdDcjkRZ7pnMU46F24",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoZUrUQdDcjkRZ7pnMU46F24",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:04:38"
+  },
+  {
+    "business_name": "Shree Annapurna rasoi",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "301409",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 40,
+    "address": "6R77+6CG, RJ SH 35, Ghadhi, Garhi Sawairam, Rajasthan 301413",
+    "area": "301409",
+    "latitude": 27.2128519,
+    "longitude": 76.8133381,
+    "place_id": "ChIJgcrwPgBhcjkRCD8FiAj9umw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgcrwPgBhcjkRCD8FiAj9umw",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:04:40"
+  }
+]

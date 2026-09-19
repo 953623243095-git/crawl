@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raju cycle store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "301427",
+    "phone_number": "+91 96022 56688",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Krishna Colony, Parivahan Nagar, Hanuman Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "Krishna Colony, Parivahan Nagar, Hanuman Nagar",
+    "latitude": 26.9227594,
+    "longitude": 75.75247159999999,
+    "place_id": "ChIJ4fYQ3aWzbTkR3UKMpFwFxZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4fYQ3aWzbTkR3UKMpFwFxZA",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:20:26"
+  },
+  {
+    "business_name": "Prabhat Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle wholesaler",
+    "all_categories": "Bicycle wholesaler, Toy store",
+    "pincode": "301427",
+    "phone_number": "+91 88540 69064",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Khetri More, Bhudoli Rd, near Prabhat General Store, Mansingh Colony, Nimkathana, Nm Ka Thana, Rajasthan 332713",
+    "area": "Mansingh Colony",
+    "latitude": 27.737765099999997,
+    "longitude": 75.7877981,
+    "place_id": "ChIJ_____yMmbTkR6vyKrKZTsOc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_____yMmbTkR6vyKrKZTsOc",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:20:26"
+  }
+]

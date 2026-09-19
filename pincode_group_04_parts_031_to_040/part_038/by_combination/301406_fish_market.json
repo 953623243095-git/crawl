@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Monu fish center",
+    "search_category": "Fish Market",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "301406",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "HJ3R+MG8, Kherado, Alwar, Rajasthan 301001",
+    "area": "Kherado",
+    "latitude": 27.5541351,
+    "longitude": 76.6413793,
+    "place_id": "ChIJke5Xo3aRcjkR_COxluv9eZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJke5Xo3aRcjkR_COxluv9eZM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:58:38"
+  },
+  {
+    "business_name": "DC FISH CENTER",
+    "search_category": "Fish Market",
+    "primary_category": "Fishing club",
+    "all_categories": "Fishing club",
+    "pincode": "301406",
+    "phone_number": "+91 77376 16161",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Delhi Rd, mungaska, Jyoti Nagar, Alwar, Rajasthan 301001",
+    "area": "mungaska, Jyoti Nagar",
+    "latitude": 27.557849599999997,
+    "longitude": 76.6329447,
+    "place_id": "ChIJy_OSNcqZcjkRQgAaeOtsFoo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy_OSNcqZcjkRQgAaeOtsFoo",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:58:41"
+  }
+]

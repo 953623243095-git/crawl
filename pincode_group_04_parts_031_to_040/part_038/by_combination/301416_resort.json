@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Oyo Sariska Inn Resort",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "301416",
+    "phone_number": "+91 124 620 1158",
+    "website": "https://www.oyorooms.com/46606",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Silisher Lake Tiraha, State Highway 13, Alwar, Shyodanpura, Rajasthan 301001",
+    "area": "301416",
+    "latitude": 27.4939075,
+    "longitude": 76.5501112,
+    "place_id": "ChIJOaz_wH2bcjkRdDLGaXzMOXo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOaz_wH2bcjkRdDLGaXzMOXo",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:18:56"
+  },
+  {
+    "business_name": "The River Front Farm by Pacific Resorts Farmland",
+    "search_category": "Resort",
+    "primary_category": "Holiday apartment rental",
+    "all_categories": "Holiday apartment rental",
+    "pincode": "301416",
+    "phone_number": "N/A",
+    "website": "https://pacificresorts.in/",
+    "rating": 5,
+    "reviews_count": 19,
+    "address": "HF5X+PQ4, Alwar, Dhahalawas, Rajasthan 301001",
+    "area": "301416",
+    "latitude": 27.5592561,
+    "longitude": 76.4994597,
+    "place_id": "ChIJY19EKwCfcjkR1O1mz3McH9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY19EKwCfcjkR1O1mz3McH9Q",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:18:58"
+  }
+]

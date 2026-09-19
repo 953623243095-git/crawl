@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinayak enterprises and Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "301415",
+    "phone_number": "+91 80059 19819",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bandikui, Rajasthan 303313",
+    "area": "301415",
+    "latitude": 27.0533094,
+    "longitude": 76.58068329999999,
+    "place_id": "ChIJSzTFq3dxcjkR3FI7_F2PZlw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSzTFq3dxcjkR3FI7_F2PZlw",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:16:04"
+  },
+  {
+    "business_name": "Jaipur Bakers Mart",
+    "search_category": "Patisserie",
+    "primary_category": "Cake decorating equipment shop",
+    "all_categories": "Cake decorating equipment shop",
+    "pincode": "301415",
+    "phone_number": "+91 93146 30951",
+    "website": "https://www.instagram.com/_jaipurbakersmart_?igsh=MXFhenpvYmtva3QwMw==",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Mall Rd, Krishna Colony, Sector-1, Vidyadhar Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 303039",
+    "area": "Krishna Colony, Sector-1, Vidyadhar Nagar",
+    "latitude": 26.9531109,
+    "longitude": 75.7786098,
+    "place_id": "ChIJExw2IR6zbTkRs2BAjGS5_YY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJExw2IR6zbTkRs2BAjGS5_YY",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:16:05"
+  }
+]

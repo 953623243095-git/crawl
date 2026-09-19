@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Gift &Handicraft Emporium",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "301407",
+    "phone_number": "+91 94144 56831",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vijay Mandir Rd, near step by step school, in front of Bandhan Bank, Ram Nagar, Alwar, Rajasthan 301001",
+    "area": "Ram Nagar",
+    "latitude": 27.5761213,
+    "longitude": 76.6142571,
+    "place_id": "ChIJQ9nyXImZcjkR6V2sCqX8rNQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ9nyXImZcjkR6V2sCqX8rNQ",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:01:50"
+  },
+  {
+    "business_name": "Lucky Gift House",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "301407",
+    "phone_number": "+91 97855 78188",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "HJ84+39M, Church Rd, near Saint Andrews Church, Kedalganj, Sector 7, Alwar, Rajasthan 301001",
+    "area": "Kedalganj, Sector 7",
+    "latitude": 27.5652071,
+    "longitude": 76.60592489999999,
+    "place_id": "ChIJyS0vpZqZcjkRVb_sG4EeEGI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyS0vpZqZcjkRVb_sG4EeEGI",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:01:52"
+  }
+]

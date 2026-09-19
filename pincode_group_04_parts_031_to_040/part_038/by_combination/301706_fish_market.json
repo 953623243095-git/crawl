@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAJAN",
+    "search_category": "Fish Market",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "301706",
+    "phone_number": "+91 90575 60166",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Rad, Meet Market, Shahjahanpur, Alwar, Rajasthan 301706",
+    "area": "Meet Market",
+    "latitude": 28.0024207,
+    "longitude": 76.4531155,
+    "place_id": "ChIJBZc1nrKrEjkRsUCbg9G4OTw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBZc1nrKrEjkRsUCbg9G4OTw",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:32:56"
+  },
+  {
+    "business_name": "Shyam Electronics",
+    "search_category": "Fish Market",
+    "primary_category": "Electronics wholesaler",
+    "all_categories": "Electronics wholesaler, Shopping mall",
+    "pincode": "301706",
+    "phone_number": "+91 98296 12393",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 78,
+    "address": "Infront of Agarwal communication Stone market, Chaubara, Shahjahanpur, Rajasthan 301706",
+    "area": "301706",
+    "latitude": 28.001020399999998,
+    "longitude": 76.4544786,
+    "place_id": "ChIJNaR-o3WrEjkRlsIe992rHII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNaR-o3WrEjkRlsIe992rHII",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:32:56"
+  }
+]

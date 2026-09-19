@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balloons Festiva",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "301404",
+    "phone_number": "+91 83062 17228",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot No. 37, Pratap Nagar, Alwar-Tijara Rd, Alwar, Raesis, Rajasthan 301001",
+    "area": "301404",
+    "latitude": 27.608619599999997,
+    "longitude": 76.63804999999999,
+    "place_id": "ChIJ9bHH55iZcjkRyxuq2POPV5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9bHH55iZcjkRyxuq2POPV5w",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:55:27"
+  },
+  {
+    "business_name": "Big Bollywood Break",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "301404",
+    "phone_number": "N/A",
+    "website": "http://www.bigbollywoodbreak.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jyoti Nagar, Alwar, Rajasthan 301001",
+    "area": "Jyoti Nagar",
+    "latitude": 27.5529798,
+    "longitude": 76.6345999,
+    "place_id": "ChIJ_X_CaC-bcjkRleTUVLGd5cY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_X_CaC-bcjkRleTUVLGd5cY",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:55:27"
+  }
+]

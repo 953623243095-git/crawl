@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "juice shop",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "301708",
+    "phone_number": "+91 81079 43004",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "QCJX+C7Q, Rd56, Harsora, Rajasthan 301001",
+    "area": "Rd56",
+    "latitude": 27.781094399999997,
+    "longitude": 76.4482325,
+    "place_id": "ChIJXXDeKzdZbTkRnlJKO6yc7UM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXXDeKzdZbTkRnlJKO6yc7UM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:36:50"
+  },
+  {
+    "business_name": "Jai Mahakal Juice & Icecream Parlour",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "301708",
+    "phone_number": "+91 95491 45925",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 222,
+    "address": "near by Jama majsid , in front of, Indira Market, Bazaria, Sawai Madhopur, Rajasthan 322001",
+    "area": "Bazaria, Indra Colony",
+    "latitude": 26.0221467,
+    "longitude": 76.3575407,
+    "place_id": "ChIJg2o3Tj0lbjkR42Ep4sWyuI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg2o3Tj0lbjkR42Ep4sWyuI8",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:36:51"
+  }
+]

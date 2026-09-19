@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ANKIT JEWELLERS",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "301702",
+    "phone_number": "+91 80533 17582",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Ateli Mandi, Ateli, Haryana 123021",
+    "area": "Ateli Mandi",
+    "latitude": 28.0994067,
+    "longitude": 76.2597668,
+    "place_id": "ChIJNWVKUtuxEjkRjKk9Yj_5vAo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNWVKUtuxEjkRjKk9Yj_5vAo",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:25:42"
+  },
+  {
+    "business_name": "Kalyani jewellery",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry repair service",
+    "all_categories": "Jewelry repair service",
+    "pincode": "301702",
+    "phone_number": "+91 81750 20865",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kanchanpur road, Prayagraj, Uttar Pradesh 212507",
+    "area": "301702",
+    "latitude": 25.684701,
+    "longitude": 81.8598268,
+    "place_id": "ChIJ62Et1wzHmjkRkAysuiUotcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ62Et1wzHmjkRkAysuiUotcc",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:25:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "J.P Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry repair service",
+    "all_categories": "Jewelry repair service, Gold dealer, Goldsmith, Jewelry store, Silversmith",
+    "pincode": "301704",
+    "phone_number": "+91 94856 93203",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VPO, Bhojawas, kanina, Haryana 123034",
+    "area": "VPO",
+    "latitude": 28.234061999999998,
+    "longitude": 76.2962148,
+    "place_id": "ChIJjWHHLQalEjkRDon3ZjxpUTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjWHHLQalEjkRDon3ZjxpUTc",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:29:27"
+  },
+  {
+    "business_name": "Surbhi Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Jeweler",
+    "pincode": "301704",
+    "phone_number": "+91 94148 10009",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 24,
+    "address": "Tilak Market, 13, Alwar, Rajasthan 301001",
+    "area": "Bajaja Bajar, Kabir Colony",
+    "latitude": 27.565998399999998,
+    "longitude": 76.603438,
+    "place_id": "ChIJw6NXHJuZcjkRa07MaBlM7K8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw6NXHJuZcjkRa07MaBlM7K8",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:29:30"
+  }
+]

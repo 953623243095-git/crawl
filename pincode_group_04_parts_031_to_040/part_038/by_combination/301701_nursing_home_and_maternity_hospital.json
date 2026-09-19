@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "City Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "301701",
+    "phone_number": "+91 1493 221 700",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Shopping Complex, City Nursing Home, C-1, Ricco Shopping Complex,, Rajasthan Housing Board Colony, C-1, near Housing Board, C-1, RIICO Industrial Area, Bhiwadi, Rajasthan 301019",
+    "area": "C-1, RIICO Industrial Area",
+    "latitude": 28.213086999999998,
+    "longitude": 76.838925,
+    "place_id": "ChIJ2b6syfA3DTkRN60oXPkXg0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2b6syfA3DTkRN60oXPkXg0g",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:23:59"
+  },
+  {
+    "business_name": "Gupta Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "301701",
+    "phone_number": "+91 94140 12577",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Alwar Rd, Bhiwadi, Delhi, Rajasthan 301019",
+    "area": "301701",
+    "latitude": 28.193460599999998,
+    "longitude": 76.8248301,
+    "place_id": "ChIJEYZZaSBIDTkR1GAIpw7F__Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEYZZaSBIDTkR1GAIpw7F__Q",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:23:59"
+  }
+]

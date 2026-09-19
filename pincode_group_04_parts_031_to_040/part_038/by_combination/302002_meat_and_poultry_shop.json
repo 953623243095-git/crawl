@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aamer Meat House",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "302002",
+    "phone_number": "+91 88242 39869",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 38,
+    "address": "Amer Rd, opposite Jain Mandir, Amer, Jaipur, Jaipur Heritage (M Corp.) (Part), Rajasthan 302028",
+    "area": "Amer",
+    "latitude": 26.9884274,
+    "longitude": 75.85933849999999,
+    "place_id": "ChIJYadvqk6wbTkR22phnG5CejM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYadvqk6wbTkR22phnG5CejM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:46:22"
+  },
+  {
+    "business_name": "Fresh Mutton and Chickens",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat products store",
+    "all_categories": "Meat products store",
+    "pincode": "302002",
+    "phone_number": "+91 94149 44711",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "713, Ashok Chowk, Adarsh Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302004",
+    "area": "Ashok Chowk, Adarsh Nagar",
+    "latitude": 26.903681199999998,
+    "longitude": 75.8302719,
+    "place_id": "ChIJOeZNAVS3bTkRWu7HBMIbz14",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOeZNAVS3bTkRWu7HBMIbz14",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:46:22"
+  }
+]

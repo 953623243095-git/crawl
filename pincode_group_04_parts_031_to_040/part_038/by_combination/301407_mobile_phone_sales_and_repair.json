@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parshwanath Mobile Shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "301407",
+    "phone_number": "+91 98291 12331",
+    "website": "https://www.instagram.com/parshwanathmobiles/",
+    "rating": 5,
+    "reviews_count": 183,
+    "address": "Mody University of Science and Technology, Laxmangarh, Narodara Rural, Rajasthan 332311",
+    "area": "301407",
+    "latitude": 27.802847099999997,
+    "longitude": 75.0364651,
+    "place_id": "ChIJE9puDKCrbDkR9MGkMkA34FU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE9puDKCrbDkR9MGkMkA34FU",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:02:03"
+  },
+  {
+    "business_name": "Rahul Mobile & Repairing Center",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "301407",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Baktal ki chowki, MIA Rd, Bhaktal, Belaka, Desula, Rajasthan 301030",
+    "area": "Bhaktal",
+    "latitude": 27.5435189,
+    "longitude": 76.6706234,
+    "place_id": "ChIJAXaEqZuRcjkRyxqQpXb-r2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAXaEqZuRcjkRyxqQpXb-r2Q",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:02:04"
+  }
+]

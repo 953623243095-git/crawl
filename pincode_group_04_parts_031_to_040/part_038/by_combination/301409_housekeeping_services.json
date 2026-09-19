@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ridhi sidhi washing hub",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Pressure washing service",
+    "all_categories": "Pressure washing service",
+    "pincode": "301409",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sikandra Rd, near lovekush dharam kanta, Bandikui, Rajasthan 303313",
+    "area": "301409",
+    "latitude": 27.0319245,
+    "longitude": 76.56484929999999,
+    "place_id": "ChIJGXW4mMlxcjkRbBZ0uui6XUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGXW4mMlxcjkRbBZ0uui6XUQ",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:05:57"
+  },
+  {
+    "business_name": "Blissfull Cleaning Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Janitorial service",
+    "all_categories": "Janitorial service, Service establishment",
+    "pincode": "301409",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Blissfull Cleaning Services, 301409, India",
+    "area": "301409",
+    "latitude": 18.0473016,
+    "longitude": -76.91903099999999,
+    "place_id": "ChIJSeGERuAT244RAIIJOPfthSM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSeGERuAT244RAIIJOPfthSM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:05:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Urban Cake & Cafe",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "301407",
+    "phone_number": "+91 85628 07075",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "New Bus Stand, opposite Punchayat Samiti, Patel Nagar, Behror, Rajasthan 301701",
+    "area": "Patel Nagar",
+    "latitude": 27.8927272,
+    "longitude": 76.29094979999999,
+    "place_id": "ChIJg1ZK7GhTbTkRxKMUmKfbKQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg1ZK7GhTbTkRxKMUmKfbKQw",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:00:47"
+  },
+  {
+    "business_name": "Cakes & Creations",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "301407",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "226, scheme y, Basant vihar, Alwar, Rajasthan 301001",
+    "area": "scheme y, Basant vihar",
+    "latitude": 27.5944373,
+    "longitude": 76.6180818,
+    "place_id": "ChIJK4nA8AaZcjkRkE2SFF2FFg4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK4nA8AaZcjkRkE2SFF2FFg4",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:00:47"
+  }
+]

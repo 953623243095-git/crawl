@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aayush Medical",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "301708",
+    "phone_number": "+91 87695 52640",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Aayush Medical, Neemrana, Rajasthan 301705",
+    "area": "301708",
+    "latitude": 27.9913231,
+    "longitude": 76.3848225,
+    "place_id": "ChIJuZvoWPCrEjkRJ1Mv6n8QO6A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuZvoWPCrEjkRJ1Mv6n8QO6A",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:37:09"
+  },
+  {
+    "business_name": "kirshan clinic",
+    "search_category": "Clinics",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "301708",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2CWM+796, Shriyani, Rajasthan 301708",
+    "area": "301708",
+    "latitude": 28.045659099999998,
+    "longitude": 76.43340289999999,
+    "place_id": "ChIJM9cdnGCqEjkR566XJfIunRs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM9cdnGCqEjkR566XJfIunRs",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:37:11"
+  }
+]

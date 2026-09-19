@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Truck transport business",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service, Service establishment",
+    "pincode": "301427",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Truck transport business, 301427, India",
+    "area": "301427",
+    "latitude": 27.7429694,
+    "longitude": 76.1831589,
+    "place_id": "ChIJXcdFq1xFbTkRsCb1gBf4iNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXcdFq1xFbTkRsCb1gBf4iNw",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:20:27"
+  },
+  {
+    "business_name": "देवेन्द्र ट्रक बॉडी बिल्डर / रिपेयरिंग वर्कशॉप",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Truck repair shop",
+    "all_categories": "Truck repair shop",
+    "pincode": "301427",
+    "phone_number": "+91 91167 60285",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Dilwara, Bara Patthar, Rajasthan 305601",
+    "area": "301427",
+    "latitude": 26.3182279,
+    "longitude": 74.7457525,
+    "place_id": "ChIJ9ZkhO6ZZaTkR8Tf1dfUf3bY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ZkhO6ZZaTkR8Tf1dfUf3bY",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:20:27"
+  }
+]

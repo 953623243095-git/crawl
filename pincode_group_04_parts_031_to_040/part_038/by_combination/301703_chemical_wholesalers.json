@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Allen Chemihuis",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler, Service establishment",
+    "pincode": "301703",
+    "phone_number": "+91 97997 23873",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Allen Chemihuis, 301703, India",
+    "area": "301703",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJc21FcvO0pwcRu2cqeFJWboE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc21FcvO0pwcRu2cqeFJWboE",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:28:52"
+  },
+  {
+    "business_name": "AVS Enterprises, Neemrana",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Industrial chemicals wholesaler",
+    "all_categories": "Industrial chemicals wholesaler",
+    "pincode": "301703",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "X936+C56, Mohalariyan, Rajasthan 301020",
+    "area": "301703",
+    "latitude": 27.9535296,
+    "longitude": 76.3603813,
+    "place_id": "ChIJ_3xj39ZTbTkRpkv4sF8SzHI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_3xj39ZTbTkRpkv4sF8SzHI",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:28:52"
+  }
+]

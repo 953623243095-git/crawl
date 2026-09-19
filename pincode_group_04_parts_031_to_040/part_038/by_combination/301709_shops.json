@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ANKIT VEGETABLE SHOP",
+    "search_category": "Shops",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "301709",
+    "phone_number": "+91 95495 28645",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Market Papli, Alwar, Dhoondhariya, Rajasthan 301709",
+    "area": "301709",
+    "latitude": 27.9656953,
+    "longitude": 76.34185939999999,
+    "place_id": "ChIJk_7arGxTbTkRhE81VQex2oU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk_7arGxTbTkRhE81VQex2oU",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:40:24"
+  },
+  {
+    "business_name": "Shree Shyam Electrical And Hardware Store",
+    "search_category": "Shops",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop",
+    "pincode": "301709",
+    "phone_number": "+91 63758 15846",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Near Satish Dhodh Dairy Bichpuri, Road, Peepli, Alwar, Rajasthan 301709",
+    "area": "Parana Patti",
+    "latitude": 27.966298199999997,
+    "longitude": 76.3471759,
+    "place_id": "ChIJa_qOwxlVbTkRF9wPY9tNHyg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa_qOwxlVbTkRF9wPY9tNHyg",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:40:26"
+  }
+]

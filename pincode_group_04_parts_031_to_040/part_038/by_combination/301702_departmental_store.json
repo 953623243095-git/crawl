@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Malkeet store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "301702",
+    "phone_number": "+91 78509 46187",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop number 22, Bhonkar, Gelpur, Rajasthan 301707",
+    "area": "301702",
+    "latitude": 28.056755199999998,
+    "longitude": 76.8069189,
+    "place_id": "ChIJUTd6qlBLDTkR2jN_VuqtTFM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUTd6qlBLDTkR2jN_VuqtTFM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:25:23"
+  },
+  {
+    "business_name": "Rajender Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "301702",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "4JHX+M6J, Bakhapur, Haryana 123401",
+    "area": "301702",
+    "latitude": 28.129870699999998,
+    "longitude": 76.64701939999999,
+    "place_id": "ChIJYRGDeMBPDTkRhCmUMBd4J_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYRGDeMBPDTkRhCmUMBd4J_c",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:25:25"
+  }
+]

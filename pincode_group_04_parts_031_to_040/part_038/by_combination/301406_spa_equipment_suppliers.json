@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sapna Enterprises",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Pipe supplier",
+    "all_categories": "Pipe supplier, Electric motor store, Pump supplier",
+    "pincode": "301406",
+    "phone_number": "+91 98870 98687",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hardik Marriage Palace, 200 Feet Road, Alwar - Bhiwadi Rd, near Alwar, Dayanand Nagar, Rajasthan 301001",
+    "area": "Dayanand Nagar, Sakti Nagar",
+    "latitude": 27.5608744,
+    "longitude": 76.6415888,
+    "place_id": "ChIJodAN9FWXcjkRGlRCrHLOjt8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJodAN9FWXcjkRGlRCrHLOjt8",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:59:43"
+  },
+  {
+    "business_name": "BHARAT MACHINERY STORE",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Pipe supplier",
+    "all_categories": "Pipe supplier",
+    "pincode": "301406",
+    "phone_number": "+91 94142 31942",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Modern Machinery Store, Near, Station Rd, Jawali Bhawan Colony, Alwar, Rajasthan 301001",
+    "area": "Jawali Bhawan Colony",
+    "latitude": 27.564422099999998,
+    "longitude": 76.6159718,
+    "place_id": "ChIJj4sscI2ZcjkR5jhuHHTzo5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj4sscI2ZcjkR5jhuHHTzo5w",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 05:59:46"
+  }
+]

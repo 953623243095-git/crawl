@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Marketing services",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "301703",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H.No.-605 bahiyavala mohalla jakhrana jakhrana kalan tehsil-Behror District-Alwer, Rajasthan 301713",
+    "area": "301703",
+    "latitude": 27.9857761,
+    "longitude": 76.1979573,
+    "place_id": "ChIJ52Ev3wGzEjkRCauBBcbjbm0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ52Ev3wGzEjkRCauBBcbjbm0",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:29:02"
+  },
+  {
+    "business_name": "Rajveer Yadav",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Website designer",
+    "all_categories": "Website designer",
+    "pincode": "301703",
+    "phone_number": "+91 96724 38653",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "kund, majri Rd, Majra, Rajasthan 301703",
+    "area": "301703",
+    "latitude": 28.035867,
+    "longitude": 76.35815579999999,
+    "place_id": "ChIJM37fzn2sEjkR_enNsXjLWhY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM37fzn2sEjkR_enNsXjLWhY",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:29:03"
+  }
+]
