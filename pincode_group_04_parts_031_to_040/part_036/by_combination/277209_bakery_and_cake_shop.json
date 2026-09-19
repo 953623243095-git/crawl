@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mr. Bakers",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Pizza delivery, Pizza takeaway",
+    "pincode": "277209",
+    "phone_number": "+91 94539 61619",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "R9XJ+RCV, Bhasha, Reoti, Uttar Pradesh 277209",
+    "area": "277209",
+    "latitude": 25.8496337,
+    "longitude": 84.3810894,
+    "place_id": "ChIJ9zpyPy6NkjkRnhRZ9Xuh_uQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9zpyPy6NkjkRnhRZ9Xuh_uQ",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:50:05"
+  },
+  {
+    "business_name": "Anmol cake palace",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "277209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q84H+VGJ, Ballia - Bairia Rd, shrashpali, Madadih, Uttar Pradesh 277402",
+    "area": "277209",
+    "latitude": 25.7572065,
+    "longitude": 84.32876329999999,
+    "place_id": "ChIJM48KXACJkjkRSWroAtvjGrQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM48KXACJkjkRSWroAtvjGrQ",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:50:05"
+  }
+]

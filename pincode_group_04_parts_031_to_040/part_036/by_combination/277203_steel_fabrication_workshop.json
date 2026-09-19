@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Danish steel",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "277203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PXRW+H9Q, Ballia-Gajipur Rd, Chitbaragaon, Uttar Pradesh 221713",
+    "area": "277203",
+    "latitude": 25.7414718,
+    "longitude": 83.9959744,
+    "place_id": "ChIJDVSvDwBtkjkRZ8OjxNsJUgI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDVSvDwBtkjkRZ8OjxNsJUgI",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:42:51"
+  },
+  {
+    "business_name": "माँ सरस्वती एल्यूमिनियम स्टील वर्क शॉप",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Aluminum welder",
+    "all_categories": "Aluminum welder",
+    "pincode": "277203",
+    "phone_number": "+91 92642 44191",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "Bangra, Dumarshan, Bihar 841410",
+    "area": "277203",
+    "latitude": 26.1692784,
+    "longitude": 84.8096279,
+    "place_id": "ChIJXQt9Z9TRkjkRGujlaxwv8Os",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXQt9Z9TRkjkRGujlaxwv8Os",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:42:51"
+  }
+]

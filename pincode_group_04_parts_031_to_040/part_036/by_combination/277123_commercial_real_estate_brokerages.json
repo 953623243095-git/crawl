@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Somani Realtors Pvt Ltd",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Property investment company, Real estate consultant, Real estate surveyor",
+    "pincode": "277123",
+    "phone_number": "+91 90517 40000",
+    "website": "https://somanirealtors.com/",
+    "rating": 4.7,
+    "reviews_count": 1350,
+    "address": "2nd Floor, 40, Ashutosh Mukherjee Rd, near Netaji Bhawan, Bhowanipore, Kolkata, West Bengal 700020",
+    "area": "Bhowanipore",
+    "latitude": 22.534227899999998,
+    "longitude": 88.3458677,
+    "place_id": "ChIJ3_FjRD53AjoRPDLoINqVyvA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3_FjRD53AjoRPDLoINqVyvA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:36:05"
+  },
+  {
+    "business_name": "Lashkari Property Broker Indore",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Commercial real estate agency, Property investment company, Real estate appraiser",
+    "pincode": "277123",
+    "phone_number": "+91 99933 20540",
+    "website": "https://lashkariproperties.com/",
+    "rating": 5,
+    "reviews_count": 39,
+    "address": "Chouraha Main Road, Imli Bazar, Indore, Madhya Pradesh 452007",
+    "area": "Imli Bazar",
+    "latitude": 22.7228897,
+    "longitude": 75.85387779999999,
+    "place_id": "ChIJ-fRzaxn9YjkR5mNUZYTxDDo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-fRzaxn9YjkR5mNUZYTxDDo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:36:05"
+  }
+]

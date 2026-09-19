@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prakash eye hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "277123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "W23P+FG2, Ratsar, Chhatawa, Uttar Pradesh 277123",
+    "area": "277123",
+    "latitude": 25.9036364,
+    "longitude": 84.03625339999999,
+    "place_id": "ChIJjU0iNU5pkjkRFn6u2fo94rw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjU0iNU5pkjkRFn6u2fo94rw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:35:05"
+  },
+  {
+    "business_name": "Om netralay",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Ophthalmologist",
+    "all_categories": "Ophthalmologist",
+    "pincode": "277123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "W33H+7HC, Pachkhora, Panchfora Kalan, Uttar Pradesh 277123",
+    "area": "277123",
+    "latitude": 25.903174999999997,
+    "longitude": 84.07888,
+    "place_id": "ChIJ2UG3hVNpkjkRAFiz7Jx82ok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2UG3hVNpkjkRAFiz7Jx82ok",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:35:08"
+  }
+]

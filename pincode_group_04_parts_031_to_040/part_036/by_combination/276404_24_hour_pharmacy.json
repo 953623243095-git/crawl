@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SUBEDAR PHARMACY",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "276404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "URMILA VILLA CENTRE OF PHARMACY AND NUTRITION EDUCATION, Pahadpur, Balrampur, Azamgarh, Uttar Pradesh 276125",
+    "area": "Pahadpur",
+    "latitude": 26.0897008,
+    "longitude": 83.1955005,
+    "place_id": "ChIJu2xCMVKjkTkRUQOcRoDrAKI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu2xCMVKjkTkRUQOcRoDrAKI",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:26:27"
+  },
+  {
+    "business_name": "MedicoSutra",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Health consultant",
+    "pincode": "276404",
+    "phone_number": "+91 73104 47720",
+    "website": "https://medicosutra.com/",
+    "rating": 4.8,
+    "reviews_count": 17,
+    "address": "Sathiaon, Azamgarh, Uttar Pradesh 276406",
+    "area": "276404",
+    "latitude": 26.029174299999998,
+    "longitude": 83.29247029999999,
+    "place_id": "ChIJV3_pHsqXkTkRLHreRgiCue4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV3_pHsqXkTkRLHreRgiCue4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:26:30"
+  }
+]

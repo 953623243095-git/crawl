@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kids apparel",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "277121",
+    "phone_number": "+91 98715 45396",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no. L -7, Trident shoperio, Trident Embassy, near yatharth hospital, Sector 1, Bisrakh Jalalpur, Greater Noida, Bisrakh Jalalpur, Uttar Pradesh 201318",
+    "area": "Sector 1, Bisrakh Jalalpur",
+    "latitude": 28.5708108,
+    "longitude": 77.44567289999999,
+    "place_id": "ChIJU5xO5snvDDkRase_HCLjsgc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU5xO5snvDDkRase_HCLjsgc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:33:14"
+  },
+  {
+    "business_name": "Sri Rajaram Kids World",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store",
+    "pincode": "277121",
+    "phone_number": "+91 94484 32494",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No.21&22, BGR Shopping Complex, MG Rd, Ward No. 18, Tumkur, Tumakur, Karnataka 572101",
+    "area": "Ward No. 18, Tumkur",
+    "latitude": 13.3415059,
+    "longitude": 77.1042614,
+    "place_id": "ChIJDyUCgQMtsDsRFzTMnNoW7Ws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDyUCgQMtsDsRFzTMnNoW7Ws",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:33:14"
+  }
+]

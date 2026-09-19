@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "STR Software",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "276306",
+    "phone_number": "N/A",
+    "website": "https://www.strsoftware.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "STR Software, 276306, India",
+    "area": "276306",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJbcon2qNtsYkRPeP52PF2FCs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbcon2qNtsYkRPeP52PF2FCs",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:22:36"
+  },
+  {
+    "business_name": "SMB Technologies",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Web hosting company",
+    "all_categories": "Web hosting company",
+    "pincode": "276306",
+    "phone_number": "N/A",
+    "website": "https://wa.me/918130134849",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "First Floor, Fb, B-1 Extension, Block B-1, Block E, Mohan Cooperative Industrial Estate, Badarpur, New Delhi, Delhi 110044",
+    "area": "Block B-1, Block E, Mohan Cooperative Industrial Estate, Badarpur",
+    "latitude": 28.506643,
+    "longitude": 77.2983016,
+    "place_id": "ChIJd2gDJwDnDDkRkkpg4ZWsnD4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd2gDJwDnDDkRkkpg4ZWsnD4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:22:36"
+  }
+]

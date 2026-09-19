@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Sai Guest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "276306",
+    "phone_number": "+91 73766 44704",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "B-30/26-53 Om Sai Complex BHU Lanka Main Rd, opp. Kamdhenu Apartments, near SBI ATM, Lanka, Varanasi, Uttar Pradesh 221005",
+    "area": "Lanka",
+    "latitude": 25.2792903,
+    "longitude": 83.00293409999999,
+    "place_id": "ChIJFYt5640xjjkRyQr8NNPJLWw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFYt5640xjjkRyQr8NNPJLWw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:22:00"
+  },
+  {
+    "business_name": "Rahi Tourist Bungalow, Dohrighat",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "276306",
+    "phone_number": "+91 94155 32510",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "6GM6+7C9, Mau-Gorakhpur Rd, Gontha, Kharkauli, Uttar Pradesh 275303",
+    "area": "276306",
+    "latitude": 26.2331501,
+    "longitude": 83.5111131,
+    "place_id": "ChIJLxsav4aBkTkRivKL8F0rqcw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLxsav4aBkTkRivKL8F0rqcw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:22:02"
+  }
+]

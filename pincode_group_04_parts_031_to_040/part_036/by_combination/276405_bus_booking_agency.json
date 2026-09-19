@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Desire Yatra",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "276405",
+    "phone_number": "+91 70656 66240",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Azimullah Chauraha, Bata Gali, near Ansari Tent Hause, Chedibeer, Bhadohi, Piyari, Uttar Pradesh 221401",
+    "area": "Chedibeer",
+    "latitude": 25.397537,
+    "longitude": 82.5670579,
+    "place_id": "ChIJQVvsh4PfjzkRRPx8ItQXml8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQVvsh4PfjzkRRPx8ItQXml8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:28:25"
+  },
+  {
+    "business_name": "SAINATH TOURS AND TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Railway services, Tour operator",
+    "pincode": "276405",
+    "phone_number": "+91 96737 32736",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 537,
+    "address": "Shop No G-15, Prathavi Emeralld, Narhe Ambegaon Rd, Mokarwadi, Narhe, Pune, Maharashtra 411041",
+    "area": "Mokarwadi, Narhe",
+    "latitude": 18.448409299999998,
+    "longitude": 73.8314769,
+    "place_id": "ChIJZxDfFDCVwjsRE4dTVGL3Z4w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZxDfFDCVwjsRE4dTVGL3Z4w",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:28:26"
+  }
+]

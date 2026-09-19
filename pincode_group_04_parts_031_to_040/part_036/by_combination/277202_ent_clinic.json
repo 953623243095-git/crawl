@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Shamshad Ali",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "277202",
+    "phone_number": "+91 94557 28690",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 129,
+    "address": "Bhatta Sangh gali, behind NCC office, New Colony, Saket Nagar, Deoria, Uttar Pradesh 274001",
+    "area": "New Colony, Saket Nagar",
+    "latitude": 26.4967592,
+    "longitude": 83.79050289999999,
+    "place_id": "ChIJR7E_aS_FkzkRN7VPENIxGDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR7E_aS_FkzkRN7VPENIxGDA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:40:12"
+  },
+  {
+    "business_name": "Dr Arpit Srivastava- City ENT Centre",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "277202",
+    "phone_number": "+91 87379 14936",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 642,
+    "address": "Cant Thana Gali, opposite DIG Bungalow, Bansgaon Colony, Kalepur, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Bansgaon Colony, Kalepur",
+    "latitude": 26.744336099999998,
+    "longitude": 83.376544,
+    "place_id": "ChIJkw83j7ZFkTkRCL325i-SYfU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkw83j7ZFkTkRCL325i-SYfU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:40:12"
+  }
+]

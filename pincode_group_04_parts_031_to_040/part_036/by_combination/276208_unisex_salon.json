@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Nail salon",
+    "pincode": "276208",
+    "phone_number": "N/A",
+    "website": "https://jawedhabib.com/",
+    "rating": 3.9,
+    "reviews_count": 142,
+    "address": "25WG+FJ9, Opposite Narauli Taxi Stand Besides HP Petrol pump Varanasi, Mau Road, Azamgarh, Uttar Pradesh 276128",
+    "area": "Krishna Colony",
+    "latitude": 26.0461548,
+    "longitude": 83.17659499999999,
+    "place_id": "ChIJWwJwIXu9kTkR4p3wdNvkZdA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWwJwIXu9kTkR4p3wdNvkZdA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:09:29"
+  },
+  {
+    "business_name": "Beauty & Fashion Lover",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty supply store",
+    "all_categories": "Beauty supply store",
+    "pincode": "276208",
+    "phone_number": "+91 93362 82800",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pooja Traders (Anupam Pandey, Coal baaz bahadur Majhar, Chadrabali, Yadav house, Azamgarh, Uttar Pradesh 276001",
+    "area": "Chadrabali, Yadav house",
+    "latitude": 26.0718458,
+    "longitude": 83.1906891,
+    "place_id": "ChIJSYXwXiqjkTkRdC2-p0RBago",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSYXwXiqjkTkRdC2-p0RBago",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:09:30"
+  }
+]

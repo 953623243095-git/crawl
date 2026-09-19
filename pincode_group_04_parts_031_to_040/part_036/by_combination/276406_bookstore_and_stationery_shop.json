@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bidyarthi Imporium",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "276406",
+    "phone_number": "+91 98072 90547",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 11,
+    "address": "27RQ+C89, Satiyava, Sathiaon, Uttar Pradesh 276406",
+    "area": "276406",
+    "latitude": 26.0410419,
+    "longitude": 83.288361,
+    "place_id": "ChIJ3ZQ7dKaXkTkRecUnKN3k64A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3ZQ7dKaXkTkRecUnKN3k64A",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:30:40"
+  },
+  {
+    "business_name": "Goel Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "276406",
+    "phone_number": "+91 98376 77512",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Siklapur, Gangapur, Bareilly, Uttar Pradesh 243005",
+    "area": "Siklapur, Gangapur",
+    "latitude": 28.356997999999997,
+    "longitude": 79.4214535,
+    "place_id": "ChIJ1XmvoCsHoDkRvbgpero_NnA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1XmvoCsHoDkRvbgpero_NnA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:30:41"
+  }
+]

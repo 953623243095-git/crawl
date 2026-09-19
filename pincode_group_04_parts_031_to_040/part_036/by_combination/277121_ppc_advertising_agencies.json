@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ppcadsgeeks",
+    "search_category": "PPC Advertising Agencies",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Service establishment",
+    "pincode": "277121",
+    "phone_number": "+91 62909 45645",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "ppcadsgeeks, 277121, India",
+    "area": "277121",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJJ9Emdgheg2wRMtcn_bhdaqc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ9Emdgheg2wRMtcn_bhdaqc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:34:33"
+  },
+  {
+    "business_name": "ClickIconic-Digital Marketing Agency",
+    "search_category": "PPC Advertising Agencies",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service",
+    "pincode": "277121",
+    "phone_number": "+91 76170 68668",
+    "website": "https://clickiconic.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Shri Kurmahava Baba, Anand Nagar, Ballia, Uttar Pradesh 277001",
+    "area": "Anand Nagar",
+    "latitude": 25.7731685,
+    "longitude": 84.1472416,
+    "place_id": "ChIJD5JNKBr9ZWcRsYpXvXiWGcU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD5JNKBr9ZWcRsYpXvXiWGcU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:34:35"
+  }
+]

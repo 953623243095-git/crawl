@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai Sutta Bar",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "277123",
+    "phone_number": "+91 62623 00031",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 116,
+    "address": "Ballia - Sikanderpur Rd, Ballia, Uttar Pradesh 277001",
+    "area": "277123",
+    "latitude": 25.7630968,
+    "longitude": 84.1459642,
+    "place_id": "ChIJtyyXvHllkjkRREnMPHWLLuQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtyyXvHllkjkRREnMPHWLLuQ",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:34:47"
+  },
+  {
+    "business_name": "GOPAL Tea shop",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea house",
+    "all_categories": "Tea house",
+    "pincode": "277123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 28,
+    "address": "V3CQ+3GQ, Ballia - Sikanderpur Rd, Jai Nagar, Uttar Pradesh 277304",
+    "area": "277123",
+    "latitude": 25.8702099,
+    "longitude": 84.0888676,
+    "place_id": "ChIJbT8UyGRpkjkRC8aXcYK6zOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbT8UyGRpkjkRC8aXcYK6zOs",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:34:47"
+  }
+]

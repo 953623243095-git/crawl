@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Branch Post office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "277205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QCV2+749, Ramgarh Rd, Balihar, Uttar Pradesh 277205",
+    "area": "277205",
+    "latitude": 25.7931569,
+    "longitude": 84.400365,
+    "place_id": "ChIJC1inaQCPkjkRT2MyYxnNcys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC1inaQCPkjkRT2MyYxnNcys",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:46:11"
+  },
+  {
+    "business_name": "Post Office Dighar",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "277205",
+    "phone_number": "N/A",
+    "website": "http://www.indiapost.gov.in/",
+    "rating": 2.7,
+    "reviews_count": null,
+    "address": "Q9PP+9RM, Rampur Ta Reoti, Rudrapur, Uttar Pradesh 277209",
+    "area": "277205",
+    "latitude": 25.7859652,
+    "longitude": 84.3870599,
+    "place_id": "ChIJHeRuztCPkjkRnou04FlyIbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHeRuztCPkjkRnou04FlyIbo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:46:11"
+  }
+]

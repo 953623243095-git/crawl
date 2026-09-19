@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Moti",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "276207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Raj Bahadur Singh Inter College, Sarai Jagarnath, Uttar Pradesh 276207",
+    "area": "276207",
+    "latitude": 26.0175494,
+    "longitude": 83.128795,
+    "place_id": "ChIJn4j5cwC7kTkRkcW07Kh7vPE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn4j5cwC7kTkRkcW07Kh7vPE",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:07:01"
+  },
+  {
+    "business_name": "GOLDEN ICE CREAM",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "276207",
+    "phone_number": "+91 83186 04774",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "249G+C88, शहीदवारा, Surahiya, Uttar Pradesh 276207",
+    "area": "276207",
+    "latitude": 26.0189059,
+    "longitude": 83.1251542,
+    "place_id": "ChIJi62i3ZW7kTkRwolxzL6p7dM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi62i3ZW7kTkRwolxzL6p7dM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:07:01"
+  }
+]

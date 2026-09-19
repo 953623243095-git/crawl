@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "XEROX CENTRE",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Copy shop",
+    "all_categories": "Copy shop",
+    "pincode": "276202",
+    "phone_number": "+91 85459 83768",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 56,
+    "address": "7X8Q+9R9 Banaras Hindu University, RR 8, Varanasi, Uttar Pradesh 221005",
+    "area": "276202",
+    "latitude": 25.2659001,
+    "longitude": 82.989623,
+    "place_id": "ChIJEf-AYykyjjkRedsEjA1w5js",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEf-AYykyjjkRedsEjA1w5js",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 05:59:13"
+  },
+  {
+    "business_name": "Khaja Vali Xerox",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "276202",
+    "phone_number": "+91 90302 85589",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Stanatapuram, Balua Bahadurpur, Uttar Pradesh 224186",
+    "area": "276202",
+    "latitude": 26.375168499999997,
+    "longitude": 82.68871829999999,
+    "place_id": "ChIJvcyQCD7xkDkRgZg458jdMYc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvcyQCD7xkDkRgZg458jdMYc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 05:59:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.S. Tour And Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "276406",
+    "phone_number": "+91 91408 41003",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ram Nagar Colony, Sidhari, Khairatpur, Azamgarh, Uttar Pradesh 276001",
+    "area": "Ram Nagar Colony, Sidhari",
+    "latitude": 26.048515899999998,
+    "longitude": 83.1976952,
+    "place_id": "ChIJxfA5OhG9kTkRr5sDbnRtHeQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxfA5OhG9kTkRr5sDbnRtHeQ",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:30:06"
+  },
+  {
+    "business_name": "Naresh auto tour and travel azamgarh",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "276406",
+    "phone_number": "+91 94156 26423",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Civil Lines, Azamgarh, Uttar Pradesh 276001",
+    "area": "Civil Lines",
+    "latitude": 26.0538954,
+    "longitude": 83.177677,
+    "place_id": "ChIJp94lkmG9kTkRht1iS6tOrFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp94lkmG9kTkRht1iS6tOrFU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:30:06"
+  }
+]

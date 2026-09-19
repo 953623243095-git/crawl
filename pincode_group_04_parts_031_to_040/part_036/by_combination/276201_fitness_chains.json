@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FitnessHub",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "276201",
+    "phone_number": "+91 99188 91628",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 7,
+    "address": "Thekma, Kanauna, Uttar Pradesh 276303",
+    "area": "276201",
+    "latitude": 25.878562499999997,
+    "longitude": 82.93793749999999,
+    "place_id": "ChIJif5mTOi1kTkRUGHGYEyjXTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJif5mTOi1kTkRUGHGYEyjXTs",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 05:56:32"
+  },
+  {
+    "business_name": "Iron Gym Fitness Center",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "276201",
+    "phone_number": "+91 98899 42490",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Railway station road saraimeer, Chak Kamaluddin, Uttar Pradesh 276305",
+    "area": "276201",
+    "latitude": 26.0266201,
+    "longitude": 82.922855,
+    "place_id": "ChIJMZ4cDMSykTkR_nPBz1_PgvQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMZ4cDMSykTkR_nPBz1_PgvQ",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 05:56:34"
+  }
+]

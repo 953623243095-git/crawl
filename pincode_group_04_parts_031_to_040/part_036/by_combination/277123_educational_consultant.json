@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishen Group",
+    "search_category": "Educational Consultant",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "277123",
+    "phone_number": "N/A",
+    "website": "http://www.vishengroup.com/",
+    "rating": 5,
+    "reviews_count": 321,
+    "address": "Late Meera Devi Road Pur 10, Pur, Uttar Pradesh 277124",
+    "area": "277123",
+    "latitude": 25.9549469,
+    "longitude": 84.005399,
+    "place_id": "ChIJU9dJFZlBkjkRAAAA0C65A1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU9dJFZlBkjkRAAAA0C65A1g",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:35:49"
+  },
+  {
+    "business_name": "Jyotsana education & placement services",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Unemployment office",
+    "pincode": "277123",
+    "phone_number": "+91 93402 27225",
+    "website": "http://www.jyotsanaeducation.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "151, 1st floor, Sundaram Complex, above canara bank, Bhanwar Kuwa, Indore, Madhya Pradesh 452014",
+    "area": "Bhanwar Kuwa",
+    "latitude": 22.695957999999997,
+    "longitude": 75.8655398,
+    "place_id": "ChIJR5cu7aj9YjkRrv1_tEzNHb0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR5cu7aj9YjkRrv1_tEzNHb0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:35:51"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashok Pan House",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Takeout restaurant, Tobacco shop",
+    "pincode": "277209",
+    "phone_number": "+91 98400 85140",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 91,
+    "address": "221, Paper Mills Rd, Venkatesan Nagar, Sembiyam, Perambur, Chennai, Tamil Nadu 600011",
+    "area": "Venkatesan Nagar, Sembiyam, Perambur",
+    "latitude": 13.1145515,
+    "longitude": 80.2338908,
+    "place_id": "ChIJt5H9m7JlUjoRBEMaXOtpcE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt5H9m7JlUjoRBEMaXOtpcE8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:50:03"
+  },
+  {
+    "business_name": "Mast Paan Shop",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Store",
+    "all_categories": "Store, General store",
+    "pincode": "277209",
+    "phone_number": "+91 88679 95532",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Shop No 01, Vidya Nagar, Hubballi, Karnataka 580032",
+    "area": "Vidya Nagar",
+    "latitude": 15.3660254,
+    "longitude": 75.1304991,
+    "place_id": "ChIJ9ze-kTXXuDsRWHYwL7OWlcY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ze-kTXXuDsRWHYwL7OWlcY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:50:03"
+  }
+]

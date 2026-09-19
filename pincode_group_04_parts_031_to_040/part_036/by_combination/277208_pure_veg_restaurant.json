@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "South Indian corner",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "277208",
+    "phone_number": "+91 73887 17519",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "ojha ka katra, bus stand, near SBI Bank Munna, Reoti, Uttar Pradesh 277209",
+    "area": "277208",
+    "latitude": 25.845709,
+    "longitude": 84.37885659999999,
+    "place_id": "ChIJHTLrrOeNkjkR3AHAmxZf4V8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHTLrrOeNkjkR3AHAmxZf4V8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:48:25"
+  },
+  {
+    "business_name": "shreya restaurent",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "277208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 25,
+    "address": "REOTI-BHATWALIYA MARG, Bhasha, Reoti, Uttar Pradesh 277209",
+    "area": "277208",
+    "latitude": 25.850704699999998,
+    "longitude": 84.38347189999999,
+    "place_id": "ChIJD3-_fmuNkjkRrrC3bMz9ZgI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD3-_fmuNkjkRrrC3bMz9ZgI",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:48:25"
+  }
+]

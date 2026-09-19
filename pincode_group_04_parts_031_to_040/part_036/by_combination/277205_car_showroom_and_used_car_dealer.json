@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JSN Car Bazar",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Auto broker, Car dealer, Motor vehicle dealer, Vehicle inspection service",
+    "pincode": "277205",
+    "phone_number": "+91 99305 65555",
+    "website": "https://www.carandbike.com/used/sell-your-car",
+    "rating": 4.3,
+    "reviews_count": 21,
+    "address": "Sasaram patna Marg, Buxar, Oppsit R.k ACADEMY, Arrah - Buxar Rd, Arrah, Bihar 802301",
+    "area": "277205",
+    "latitude": 25.5601338,
+    "longitude": 84.63120119999999,
+    "place_id": "ChIJvaazTKRfjTkRJ2IB19_W1yg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvaazTKRfjTkRJ2IB19_W1yg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:45:25"
+  },
+  {
+    "business_name": "OM SAI MOTORS",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "277205",
+    "phone_number": "+91 96616 86867",
+    "website": "http://www.omsaimotors.co.in/",
+    "rating": 4.5,
+    "reviews_count": 10,
+    "address": "West Boring Canal Rd, beside Tata Motors Showroom, Anandpuri, Patna, Bihar 800001",
+    "area": "Anandpuri",
+    "latitude": 25.6174842,
+    "longitude": 85.121145,
+    "place_id": "ChIJ44aEBQVZ7TkRB4hucJVSv5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ44aEBQVZ7TkRB4hucJVSv5E",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:45:25"
+  }
+]

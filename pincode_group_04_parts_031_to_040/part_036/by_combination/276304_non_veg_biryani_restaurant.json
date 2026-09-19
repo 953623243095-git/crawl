@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Oyo",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant",
+    "pincode": "276304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4X3X+CX2, Nizamabad, Khalia, Uttar Pradesh 276206",
+    "area": "276304",
+    "latitude": 26.103518299999998,
+    "longitude": 82.9999029,
+    "place_id": "ChIJY8XfHwCvkTkRLUUcjFz-5AQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY8XfHwCvkTkRLUUcjFz-5AQ",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:17:35"
+  },
+  {
+    "business_name": "BENAM RASOI | बेनाम रसोई",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "276304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Chandani Chowk, Bhogaicha, Ahiraula, Uttar Pradesh 223221",
+    "area": "276304",
+    "latitude": 26.1931434,
+    "longitude": 82.9055714,
+    "place_id": "ChIJ4yg2dEtVkDkRvlMDRTzlyc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4yg2dEtVkDkRvlMDRTzlyc4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:17:37"
+  }
+]

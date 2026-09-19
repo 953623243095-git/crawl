@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satyam Photography",
+    "search_category": "Photographers",
+    "primary_category": "Wedding photographer",
+    "all_categories": "Wedding photographer",
+    "pincode": "276406",
+    "phone_number": "+91 82998 06561",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Civil line, Civil Lines, Azamgarh, Uttar Pradesh 276001",
+    "area": "Civil Lines",
+    "latitude": 26.053921499999998,
+    "longitude": 83.17769349999999,
+    "place_id": "ChIJ3Vy1wPy9kTkRoW1gT8naNac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Vy1wPy9kTkRoW1gT8naNac",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:30:30"
+  },
+  {
+    "business_name": "My Jio Store",
+    "search_category": "Photographers",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Appliance store, Cell phone accessory store, Computer accessories store, Electronics store",
+    "pincode": "276406",
+    "phone_number": "+91 90827 00711",
+    "website": "https://www.myjiostores.in/my-jio-store-mobile-phone-shop-paharpur-azamgarh-474788/Home",
+    "rating": 4.2,
+    "reviews_count": 389,
+    "address": "Shop at H.No: 143, Post & Tehsil-Sadar, B, Mohalla, Paharpur, Azamgarh, Uttar Pradesh 276001",
+    "area": "B, Mohalla, Paharpur",
+    "latitude": 26.0741214,
+    "longitude": 83.1854106,
+    "place_id": "ChIJORSlA-2jkTkRFrV_MjppRqE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJORSlA-2jkTkRFrV_MjppRqE",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:30:32"
+  }
+]

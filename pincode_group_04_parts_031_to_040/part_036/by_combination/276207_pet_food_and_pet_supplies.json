@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhay pet zone",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store, Dog breeder, Medical clinic, Pet boarding service",
+    "pincode": "276207",
+    "phone_number": "+91 99181 15517",
+    "website": "http://bkhk.weebly.com/",
+    "rating": 4.5,
+    "reviews_count": 89,
+    "address": "Rajendr Nagar, Tamsa Marg, Akbarpur, Mirjapur, Uttar Pradesh 224122",
+    "area": "276207",
+    "latitude": 26.4238274,
+    "longitude": 82.5242474,
+    "place_id": "ChIJbUcJJn-TkDkROSSeTbpgWnE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbUcJJn-TkDkROSSeTbpgWnE",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:06:56"
+  },
+  {
+    "business_name": "Pandey pet shop &dog training center",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "276207",
+    "phone_number": "+91 79771 35947",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 78,
+    "address": "Shahganj Rd, near Telephone exchange, Daulatpur, Kadipur, Uttar Pradesh 228145",
+    "area": "276207",
+    "latitude": 26.157995699999997,
+    "longitude": 82.38230039999999,
+    "place_id": "ChIJlTFgZPdjkDkR6TiDNmVrkAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlTFgZPdjkDkR6TiDNmVrkAk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:06:56"
+  }
+]

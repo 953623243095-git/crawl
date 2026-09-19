@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khajoor Street",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store, Supplier",
+    "pincode": "276204",
+    "phone_number": "+91 76073 69394",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 363,
+    "address": "F87Q+836 Deputy Padao, 89/336, Acharya Nagar, Bansmandi, Cooperganj, Kanpur, Uttar Pradesh 208001",
+    "area": "Acharya Nagar, Bansmandi, Cooperganj",
+    "latitude": 26.463458,
+    "longitude": 80.3373605,
+    "place_id": "ChIJ8c2K62NHnDkRhP_7emXEIUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8c2K62NHnDkRhP_7emXEIUs",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:01:32"
+  },
+  {
+    "business_name": "Ganpatjee",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store, Grocery delivery service, Indian grocery store, Spices Wholesaler, Wholesale grocer",
+    "pincode": "276204",
+    "phone_number": "+91 95821 51625",
+    "website": "http://www.wegrocer.in/",
+    "rating": 4.9,
+    "reviews_count": 160,
+    "address": "59/4341, Padam Singh Rd, Block 29, Block 1, Regar Pura, Karol Bagh, New Delhi, Delhi, 110005",
+    "area": "Block 29, Block 1, Regar Pura, Karol Bagh",
+    "latitude": 28.650038,
+    "longitude": 77.1870174,
+    "place_id": "ChIJo3PNup4CDTkRdDuhhlCqkL0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo3PNup4CDTkRdDuhhlCqkL0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:01:32"
+  }
+]

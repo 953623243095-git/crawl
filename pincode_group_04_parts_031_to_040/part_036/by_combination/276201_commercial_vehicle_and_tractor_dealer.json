@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Company",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "276201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shekhpur Chhawani, Nearby Somany Tiles, Azamgarh - Varanasi Rd, Lalganj, Uttar Pradesh 276202",
+    "area": "276201",
+    "latitude": 25.7757793,
+    "longitude": 82.9935483,
+    "place_id": "ChIJ677_Vi3PkTkRqm3vCH4Kuyk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ677_Vi3PkTkRqm3vCH4Kuyk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 05:56:34"
+  },
+  {
+    "business_name": "Adya Auto Sales",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "276201",
+    "phone_number": "+91 63869 92301",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "Varanasi Marg, Sheikhupur, Chhawani, Lalganj, Shekhupur, Uttar Pradesh 276202",
+    "area": "Sheikhupur, Chhawani",
+    "latitude": 25.7748042,
+    "longitude": 82.99353579999999,
+    "place_id": "ChIJxaITuPDJkTkRWuGpDOu3Mwg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxaITuPDJkTkRWuGpDOu3Mwg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 05:56:37"
+  }
+]

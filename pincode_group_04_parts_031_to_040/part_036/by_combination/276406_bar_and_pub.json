@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "English Sarab and Beer",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "276406",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 78,
+    "address": "FMJ4+3QP, NH 19, Dharamlok Nagar, Mathura, Uttar Pradesh 281001",
+    "area": "Dharamlok Nagar",
+    "latitude": 27.4802145,
+    "longitude": 77.656965,
+    "place_id": "ChIJocub_Z1xczkR6VpweIqVHJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJocub_Z1xczkR6VpweIqVHJI",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:29:41"
+  },
+  {
+    "business_name": "Vijay Bar & Foods",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar, Restaurant",
+    "pincode": "276406",
+    "phone_number": "+91 94574 87813",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 116,
+    "address": "State Bank Crossing, Junction Rd, Mayur Vihar, Mathura, Uttar Pradesh 281001",
+    "area": "Mayur Vihar",
+    "latitude": 27.4887673,
+    "longitude": 77.6775043,
+    "place_id": "ChIJDSjBXBVxczkRjdKj4xKtEO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDSjBXBVxczkRjdKj4xKtEO0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:29:41"
+  }
+]

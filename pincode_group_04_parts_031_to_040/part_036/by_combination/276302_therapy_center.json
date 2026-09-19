@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjeevani mental health care",
+    "search_category": "Therapy Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "276302",
+    "phone_number": "+91 72688 22342",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Palhani Rd, Jafarpur, Belaisa, Jagdishpur, Uttar Pradesh 276128",
+    "area": "Jafarpur",
+    "latitude": 26.0377349,
+    "longitude": 83.1602285,
+    "place_id": "ChIJTVsQjRi7kTkR5JSLWG-fIVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTVsQjRi7kTkR5JSLWG-fIVU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:14:55"
+  },
+  {
+    "business_name": "Dr. Pradum physiotherapist",
+    "search_category": "Therapy Center",
+    "primary_category": "Physical rehabilitation center",
+    "all_categories": "Physical rehabilitation center",
+    "pincode": "276302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Village & Post, Chhaun, Uttar Pradesh 276302",
+    "area": "276302",
+    "latitude": 25.9596417,
+    "longitude": 82.9539061,
+    "place_id": "ChIJix5KqZK1kTkRC5oVyLHYxm4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJix5KqZK1kTkRC5oVyLHYxm4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:14:55"
+  }
+]

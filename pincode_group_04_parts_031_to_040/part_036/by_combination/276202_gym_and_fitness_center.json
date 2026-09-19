@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DEEPAK GYM CLUB",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "276202",
+    "phone_number": "N/A",
+    "website": "http://gym.com/",
+    "rating": 4.3,
+    "reviews_count": 12,
+    "address": "11, Mehnagar Road, Palhna, Lahuwa Khurd, Uttar Pradesh 276202",
+    "area": "276202",
+    "latitude": 25.784941699999997,
+    "longitude": 83.0952823,
+    "place_id": "ChIJ2zt-IArGkTkRJ23F_tbX74s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2zt-IArGkTkRJ23F_tbX74s",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 05:58:27"
+  },
+  {
+    "business_name": "FITNESS CLUB",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "276202",
+    "phone_number": "+91 63917 61817",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "M3PV+RW2, Duliamau, Rovapar, Uttar Pradesh 276203",
+    "area": "276202",
+    "latitude": 25.6870163,
+    "longitude": 83.0947625,
+    "place_id": "ChIJu7bKxjfbkTkRA_mc5y4zD28",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu7bKxjfbkTkRA_mc5y4zD28",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 05:58:27"
+  }
+]

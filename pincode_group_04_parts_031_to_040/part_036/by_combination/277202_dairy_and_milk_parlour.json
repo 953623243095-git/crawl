@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Verma ji Ice Cream Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Dairy store, Egg supplier",
+    "pincode": "277202",
+    "phone_number": "+91 86018 18002",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Kewara Taluka Bansdih, Uttar Pradesh 277210",
+    "area": "277202",
+    "latitude": 25.8583815,
+    "longitude": 84.2621514,
+    "place_id": "ChIJ08SQYQBhkjkRuZjZecGbnvs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ08SQYQBhkjkRuZjZecGbnvs",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:39:43"
+  },
+  {
+    "business_name": "Pooja Beauty Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "277202",
+    "phone_number": "+91 95558 27664",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 39,
+    "address": "Super Market, near Lic Office, Serwa, Bansdih, Uttar Pradesh 277202",
+    "area": "277202",
+    "latitude": 25.88233,
+    "longitude": 84.21789439999999,
+    "place_id": "ChIJocT9wJthkjkRxNDvMT6qhag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJocT9wJthkjkRxNDvMT6qhag",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:39:45"
+  }
+]

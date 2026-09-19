@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Bahubali Stock Broking Ltd",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service",
+    "pincode": "277123",
+    "phone_number": "+91 97483 74101",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "1 No, Motilal Mullick Ln, Airport, Motilal Colony, Rajbari, Dum Dum, Kolkata, West Bengal 700028",
+    "area": "Airport, Motilal Colony, Rajbari, Dum Dum",
+    "latitude": 22.6428609,
+    "longitude": 88.4300736,
+    "place_id": "ChIJVxLe70We-DkR_T56wPEqBP4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVxLe70We-DkR_T56wPEqBP4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:35:59"
+  },
+  {
+    "business_name": "FINVASIA",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Investment service",
+    "pincode": "277123",
+    "phone_number": "+91 172 667 0000",
+    "website": "https://finvasia.com/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Finvasia Centre, D 179, Industrial Area, Sector 74, Sahibzada Ajit Singh Nagar, Punjab 140307",
+    "area": "Phase 8B, Industrial Area, Sector 74",
+    "latitude": 30.7093383,
+    "longitude": 76.6855289,
+    "place_id": "ChIJF4BYsiGTDzkRHL2BmW5NADg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF4BYsiGTDzkRHL2BmW5NADg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:36:00"
+  }
+]

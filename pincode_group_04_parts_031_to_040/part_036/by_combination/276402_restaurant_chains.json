@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fine Dine Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Breakfast restaurant, Chinese restaurant, Fast food restaurant, Restaurant",
+    "pincode": "276402",
+    "phone_number": "+91 99843 98007",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 1510,
+    "address": "Near Pani Tanki, Azamgarh, More, Munshi Pura, Mau, Uttar Pradesh 275101",
+    "area": "Munshi Pura",
+    "latitude": 25.9323621,
+    "longitude": 83.5648575,
+    "place_id": "ChIJyarFbe6KkTkRWdKEGAjWjEU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyarFbe6KkTkRWdKEGAjWjEU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:22:55"
+  },
+  {
+    "business_name": "TOP IN TOWN",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "276402",
+    "phone_number": "+91 96829 41022",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "near Habib Inter College, Harikeshpura, Mau, Uttar Pradesh 275101",
+    "area": "Harikeshpura",
+    "latitude": 25.9535563,
+    "longitude": 83.5598851,
+    "place_id": "ChIJ-aFbVYuLkTkR94rCi1q--H4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-aFbVYuLkTkR94rCi1q--H4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:22:55"
+  }
+]

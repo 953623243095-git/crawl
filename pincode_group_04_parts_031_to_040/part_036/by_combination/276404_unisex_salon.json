@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Masum barber station",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "276404",
+    "phone_number": "+91 63930 46238",
+    "website": "https://sites.google.com/view/masumbarberstation/home",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Nayapura Rd, near Saba hospital, Mubarakpur, Azamgarh, Uttar Pradesh 276405",
+    "area": "276404",
+    "latitude": 26.0565076,
+    "longitude": 83.3755071,
+    "place_id": "ChIJqQsahFORkTkR1yelZCP-_cQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqQsahFORkTkR1yelZCP-_cQ",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:26:59"
+  },
+  {
+    "business_name": "vs mens professionals salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser",
+    "pincode": "276404",
+    "phone_number": "+91 81760 50808",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Anjansaheed Nurudinpur raod, Uttar Pradesh 276125",
+    "area": "276404",
+    "latitude": 26.148982099999998,
+    "longitude": 83.2760213,
+    "place_id": "ChIJ_ZIXFeCZkTkRv-_pdEw3Egw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_ZIXFeCZkTkRv-_pdEw3Egw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:27:00"
+  }
+]

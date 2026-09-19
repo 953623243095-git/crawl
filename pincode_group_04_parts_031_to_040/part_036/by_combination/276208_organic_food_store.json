@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Healthy Indore Poha",
+    "search_category": "Organic Food Store",
+    "primary_category": "Health food store",
+    "all_categories": "Health food store, Breakfast restaurant, Food court, Health food restaurant",
+    "pincode": "276208",
+    "phone_number": "+91 96700 04020",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sadar hospital gate, Street No. 2, Azamgarh, Uttar Pradesh 276001",
+    "area": "276208",
+    "latitude": 26.082509299999998,
+    "longitude": 83.1918386,
+    "place_id": "ChIJSfsSVCajkTkRTcL-ZShmbuM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSfsSVCajkTkRTcL-ZShmbuM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:08:34"
+  },
+  {
+    "business_name": "Sarnath Farming",
+    "search_category": "Organic Food Store",
+    "primary_category": "Livestock breeder",
+    "all_categories": "Livestock breeder, Fishery, Livestock dealer, Livestock producer, Pig farm, Pond fish supplier",
+    "pincode": "276208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 7,
+    "address": "Sarnath Farming Plot, Besides Ramsamujh Gas Agency, Patwadh Kautuk Azamgarh-Billariyaganj, Road, Kasba Sagri, Uttar Pradesh 276121",
+    "area": "276208",
+    "latitude": 26.156226699999998,
+    "longitude": 83.2108708,
+    "place_id": "ChIJB-Ogs92jkTkRRTMUorAWAbs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB-Ogs92jkTkRRTMUorAWAbs",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:08:36"
+  }
+]

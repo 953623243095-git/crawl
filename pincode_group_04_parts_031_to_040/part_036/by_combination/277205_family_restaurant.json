@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radhika hotel and restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "277205",
+    "phone_number": "+91 85059 46949",
+    "website": "https://www.instagram.com/radhikarestaurent_hotel?igsh=MWlzaGkyMGpjanZsOQ==",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "NH 922, Brahmpur, Bihar 802112",
+    "area": "277205",
+    "latitude": 25.607663,
+    "longitude": 84.292806,
+    "place_id": "ChIJZ5MzbQCBkjkR6Obgz3r9caI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ5MzbQCBkjkR6Obgz3r9caI",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:45:04"
+  },
+  {
+    "business_name": "Mahadev Rasoi & Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "277205",
+    "phone_number": "+91 77728 53020",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Ballia - Bairia Rd, Reoti, Madadih, Uttar Pradesh 277402",
+    "area": "277205",
+    "latitude": 25.7572065,
+    "longitude": 84.32876329999999,
+    "place_id": "ChIJgStTTfGJkjkR72d8hhaEez0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgStTTfGJkjkR72d8hhaEez0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:45:05"
+  }
+]

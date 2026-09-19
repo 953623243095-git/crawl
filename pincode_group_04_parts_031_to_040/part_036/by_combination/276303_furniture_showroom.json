@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Singh Furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "276303",
+    "phone_number": "+91 73885 57585",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "65, Thekma, Uttar Pradesh 276303",
+    "area": "276303",
+    "latitude": 25.8781645,
+    "longitude": 82.9372733,
+    "place_id": "ChIJffzkFku1kTkRYnfC5ff6c0k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJffzkFku1kTkRYnfC5ff6c0k",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:16:31"
+  },
+  {
+    "business_name": "Asiant Industry",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture accessories",
+    "all_categories": "Furniture accessories",
+    "pincode": "276303",
+    "phone_number": "+91 98186 88646",
+    "website": "http://www.asiantindustry.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Chhaun, Uttar Pradesh 276302",
+    "area": "276303",
+    "latitude": 25.9478808,
+    "longitude": 82.9568122,
+    "place_id": "ChIJ0amZVRC1kTkR-1a_FHInmlg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0amZVRC1kTkR-1a_FHInmlg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:16:34"
+  }
+]

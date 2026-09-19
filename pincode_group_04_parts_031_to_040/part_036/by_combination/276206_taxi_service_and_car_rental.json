@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "V.K. Tours and Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service",
+    "pincode": "276206",
+    "phone_number": "+91 81125 39623",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 19,
+    "address": "Bhawarnath, Azamgarh, Uttar Pradesh 276001",
+    "area": "Bhawarnath",
+    "latitude": 26.0929373,
+    "longitude": 83.16629209999999,
+    "place_id": "ChIJgx7w6OSjkTkRP7cbrpDRdik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgx7w6OSjkTkRP7cbrpDRdik",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:05:39"
+  },
+  {
+    "business_name": "Indresh Taxi",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "276206",
+    "phone_number": "+91 70688 11423",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Indresh Shop, Nizamabad Rd, Nai Sarak, Masjidiya, Nizamabad, Uttar Pradesh 276206",
+    "area": "Nai Sarak",
+    "latitude": 26.053313,
+    "longitude": 83.0536602,
+    "place_id": "ChIJF7-GTsixkTkRi_P0c1C7tUw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF7-GTsixkTkRi_P0c1C7tUw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:05:41"
+  }
+]

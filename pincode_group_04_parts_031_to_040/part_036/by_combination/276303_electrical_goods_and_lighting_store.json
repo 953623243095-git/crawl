@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kohinoor Fan House",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "276303",
+    "phone_number": "+91 94153 55335",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pandey Bazar, near SKP Inter College, Basaeka, Azamgarh, Uttar Pradesh 276001",
+    "area": "Basaeka",
+    "latitude": 26.074933899999998,
+    "longitude": 83.18209069999999,
+    "place_id": "ChIJBfmC5kujkTkReloun1Ana5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBfmC5kujkTkReloun1Ana5A",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:16:22"
+  },
+  {
+    "business_name": "Vani Enterprises",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "276303",
+    "phone_number": "+91 82995 48752",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "00 Varanasi Varanasi Varanasi, Uttar Pradesh 276001",
+    "area": "Mukeriganj",
+    "latitude": 26.074870999999998,
+    "longitude": 83.1860725,
+    "place_id": "ChIJsRhO_1ujkTkRpxK8ssFgKXg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsRhO_1ujkTkRpxK8ssFgKXg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:16:23"
+  }
+]

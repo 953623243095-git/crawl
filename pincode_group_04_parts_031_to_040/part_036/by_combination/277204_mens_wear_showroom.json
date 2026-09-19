@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raja Vastralaya",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "277204",
+    "phone_number": "+91 99316 81838",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Manjhi Paschimi, Bihar 841313",
+    "area": "277204",
+    "latitude": 25.838563699999998,
+    "longitude": 84.5742975,
+    "place_id": "ChIJOUX8U92XkjkRYdbDP8qiIw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOUX8U92XkjkRYdbDP8qiIw4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:43:23"
+  },
+  {
+    "business_name": "Peter England Showroom Nidhi Fashion",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "277204",
+    "phone_number": "N/A",
+    "website": "https://www.peterengland.com/content/storelocatordetails/3291",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Quazipura Middhi Rd, near Dhoom Baba Mandir, Harpur, Ballia, Uttar Pradesh 277001",
+    "area": "Harpur",
+    "latitude": 25.7624627,
+    "longitude": 84.1535136,
+    "place_id": "ChIJv4guROZkkjkRFb7OjRoVTSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv4guROZkkjkRFb7OjRoVTSg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:43:25"
+  }
+]

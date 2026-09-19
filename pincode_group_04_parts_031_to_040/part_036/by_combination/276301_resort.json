@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ananta Express , Jaunpur",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "276301",
+    "phone_number": "+91 91967 01334",
+    "website": "https://www.anantahotels.com/",
+    "rating": 4.3,
+    "reviews_count": 186,
+    "address": "Kulhnamau, Jaunpur, Sungulpur, Uttar Pradesh 222002",
+    "area": "Kulhnamau",
+    "latitude": 25.751377299999998,
+    "longitude": 82.63966409999999,
+    "place_id": "ChIJ03gJFAA9kDkRbYd8Tsnn5FU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ03gJFAA9kDkRbYd8Tsnn5FU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:13:10"
+  },
+  {
+    "business_name": "Nandgaon Kashi Resort & Spa",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Banquet hall",
+    "pincode": "276301",
+    "phone_number": "+91 86047 01977",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Arazi No. - 251, 248K and MI 233, Udaypur, Nighaura, Uttar Pradesh 221101",
+    "area": "276301",
+    "latitude": 25.4089375,
+    "longitude": 82.9995625,
+    "place_id": "ChIJNfv5QAApjjkRN9GzEnM9Ql4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNfv5QAApjjkRN9GzEnM9Ql4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:13:11"
+  }
+]

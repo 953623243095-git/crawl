@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RCM Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "276303",
+    "phone_number": "+91 73091 28879",
+    "website": "https://www.rcmworld.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sanvi Royal Rcm Center Thekma Bazar, Mirzapur, Uttar Pradesh 276303",
+    "area": "276303",
+    "latitude": 25.8808533,
+    "longitude": 82.9350283,
+    "place_id": "ChIJNbG78Ca1kTkRYgYYZmxBvJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNbG78Ca1kTkRYgYYZmxBvJE",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:15:40"
+  },
+  {
+    "business_name": "Ananya General Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "276303",
+    "phone_number": "+91 79859 00763",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Chowraha, Mukeriganj, Lalganj, Kanauna, Uttar Pradesh 276202",
+    "area": "Mukeriganj",
+    "latitude": 25.8733778,
+    "longitude": 82.9390861,
+    "place_id": "ChIJ2dGUEe21kTkR9aaC2coj8rM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2dGUEe21kTkR9aaC2coj8rM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:15:40"
+  }
+]

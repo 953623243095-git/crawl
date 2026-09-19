@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "System Service Center and Aadhar sudhar kendra",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Cell phone store, Mobile phone repair shop",
+    "pincode": "277208",
+    "phone_number": "+91 82528 27805",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shitalpur, Manjhi Road, Sharma Market, Ekma, Manjhi, Bihar 841201",
+    "area": "Sharma Market",
+    "latitude": 25.922446599999997,
+    "longitude": 84.54556079999999,
+    "place_id": "ChIJpd6UYOiVkjkRfRbClzlZriY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpd6UYOiVkjkRfRbClzlZriY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:49:30"
+  },
+  {
+    "business_name": "Abhi Computer SHOP",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "277208",
+    "phone_number": "+91 75700 90191",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "323A, Dera Par, Ibarahimabad Uparwar, Uttar Pradesh 277204",
+    "area": "277208",
+    "latitude": 25.762047499999998,
+    "longitude": 84.5384778,
+    "place_id": "ChIJ1U64AdSXkjkR04osmUVoTl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1U64AdSXkjkR04osmUVoTl8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:49:30"
+  }
+]

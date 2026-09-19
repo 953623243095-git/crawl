@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pankhuri Restaurant - Pure Veg restaurant in Agra",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Chinese restaurant",
+    "pincode": "277202",
+    "phone_number": "+91 93597 39112",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Dhakran Crossing Mahatma Gandhi Road Chanderi, Panchkuian, Rakabganj, Agra, Uttar Pradesh 282001",
+    "area": "Dhakran Crossing, Panchkuian, Rakabganj",
+    "latitude": 27.179438299999997,
+    "longitude": 78.0055586,
+    "place_id": "ChIJN5_a5iV3dDkRKLLRquoGpDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN5_a5iV3dDkRKLLRquoGpDU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:39:50"
+  },
+  {
+    "business_name": "Baati Chokha Restaurant Gorakhpur",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, North Indian restaurant",
+    "pincode": "277202",
+    "phone_number": "+91 88810 19990",
+    "website": "http://www.baatichokha.in/",
+    "rating": 4.8,
+    "reviews_count": 4683,
+    "address": "Vasundhara Enclave, HIG-I-14 Between GDA VC Residence, &, Deoria Bypass Rd, Taramandal, Gorakhpur, Uttar Pradesh 273009",
+    "area": "Rail Vihar Colony Phase 3rd, Taramandal",
+    "latitude": 26.731690999999998,
+    "longitude": 83.3852696,
+    "place_id": "ChIJLTHl-BNDkTkRSgGHWS6UWxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLTHl-BNDkTkRSgGHWS6UWxk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:39:51"
+  }
+]

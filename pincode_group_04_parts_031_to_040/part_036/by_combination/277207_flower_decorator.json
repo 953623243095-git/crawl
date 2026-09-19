@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kavya Flower",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower designer",
+    "all_categories": "Flower designer",
+    "pincode": "277207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "34GJ+89C, Darauli Rd, Diara Nauabad, Darauli, Bihar 841234",
+    "area": "277207",
+    "latitude": 26.075800599999997,
+    "longitude": 84.1308762,
+    "place_id": "ChIJrbw4SwBbkjkRW_gdUisxgyk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrbw4SwBbkjkRW_gdUisxgyk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:47:33"
+  },
+  {
+    "business_name": "La Florist",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower delivery",
+    "all_categories": "Flower delivery, Florist, Flower designer, Flower market",
+    "pincode": "277207",
+    "phone_number": "+91 90440 22288",
+    "website": "https://www.instagram.com/la.florist__/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kisan Bazar, Vijaipur Colony, Vibhuti Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vijaipur Colony, Vibhuti Khand, Gomti Nagar",
+    "latitude": 26.8661776,
+    "longitude": 81.00644419999999,
+    "place_id": "ChIJpy5SKWbjmzkRHLLq4mt8-jY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpy5SKWbjmzkRHLLq4mt8-jY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:47:35"
+  }
+]

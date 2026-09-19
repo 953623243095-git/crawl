@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Garam garam Patti",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Hyderabadi restaurant",
+    "all_categories": "Hyderabadi restaurant",
+    "pincode": "276205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "🛣️ gram pradhan, 90, Khadanja wala road, behind Jaunpur - Azamgarh Road, Ranipur Rajmo, Uttar Pradesh 276302",
+    "area": "276205",
+    "latitude": 25.946286399999998,
+    "longitude": 83.00794259999999,
+    "place_id": "ChIJLz6NUAC3kTkRlmQx37-un_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLz6NUAC3kTkRlmQx37-un_g",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:03:26"
+  },
+  {
+    "business_name": "Jaunpur idli house",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "276205",
+    "phone_number": "+91 93352 80354",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "KB TOWER, in front of line bazar thana, Kharka Colony, Husainabad, kharka, Jaunpur, Uttar Pradesh 222002",
+    "area": "Kharka Colony, Husainabad",
+    "latitude": 25.729179799999997,
+    "longitude": 82.6921851,
+    "place_id": "ChIJmXadQgA7kDkRJR-8PEMVokI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmXadQgA7kDkRJR-8PEMVokI",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:03:28"
+  }
+]

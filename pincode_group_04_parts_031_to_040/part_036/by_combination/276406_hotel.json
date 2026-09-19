@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shakshi Hotel & Banquate Hall",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "276406",
+    "phone_number": "+91 96161 97000",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "25XR+5HF, Hydil Chowraha, Mau Rd, Sidhari, Azamgarh, Uttar Pradesh 276001",
+    "area": "Sidhari",
+    "latitude": 26.0479402,
+    "longitude": 83.1914214,
+    "place_id": "ChIJxyJYy5K9kTkRG2E-ftdncuc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxyJYy5K9kTkRG2E-ftdncuc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:30:31"
+  },
+  {
+    "business_name": "Hotel Gangotri Azamgarh",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "276406",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Thandi Sadak, Marhaya, Azamgarh, Uttar Pradesh 276001",
+    "area": "Marhaya",
+    "latitude": 26.0487324,
+    "longitude": 83.1868102,
+    "place_id": "ChIJdSN6PDO9kTkRdbQYo65CFbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdSN6PDO9kTkRdbQYo65CFbw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:30:31"
+  }
+]

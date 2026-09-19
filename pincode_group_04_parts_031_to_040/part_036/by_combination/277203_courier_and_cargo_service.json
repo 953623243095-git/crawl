@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DTDC COURIER",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "277203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 25,
+    "address": "Hanuman mandir primari school, Khanwar, Nagra, Sarai Chawat, Uttar Pradesh 221711",
+    "area": "Khanwar",
+    "latitude": 25.9677889,
+    "longitude": 83.8723095,
+    "place_id": "ChIJ-XaAxJ4_kjkRp5bdHG1jvoo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-XaAxJ4_kjkRp5bdHG1jvoo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:42:47"
+  },
+  {
+    "business_name": "Bacchan pandey Smarak & Sawrubandh Post Office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "277203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Q56V+WGC, Sawrubandh, Ballia, Uttar Pradesh 277001",
+    "area": "277203",
+    "latitude": 25.7623161,
+    "longitude": 84.1937554,
+    "place_id": "ChIJc9Zu1zFjkjkROYD1hRASBNE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc9Zu1zFjkjkROYD1hRASBNE",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:42:48"
+  }
+]

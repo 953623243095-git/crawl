@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A1 Meeseva Centre",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "277207",
+    "phone_number": "+91 98662 28900",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "18-8-450/B/35/1, Moin Bagh Rd, Raza Nagar, Jai Khanna Colony, Fateh Shah Nagar, Edi Bazaar, Hyderabad, Telangana 500023",
+    "area": "Raza Nagar, Jai Khanna Colony, Fateh Shah Nagar, Edi Bazaar",
+    "latitude": 17.3476605,
+    "longitude": 78.4939158,
+    "place_id": "ChIJE-10FRKYyzsRuZXbN7leFRY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE-10FRKYyzsRuZXbN7leFRY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:47:49"
+  },
+  {
+    "business_name": "BALAJI DIGITAL SEVA KENDRA",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "E - Commerce Agency",
+    "all_categories": "E - Commerce Agency",
+    "pincode": "277207",
+    "phone_number": "+91 90353 36142",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SHOP No 02, Pipeline Rd, near APPU CIRCLE, Prashanth Nagar, T. Dasarahalli, Bengaluru, Karnataka 560057",
+    "area": "Prashanth Nagar, T. Dasarahalli",
+    "latitude": 13.0501571,
+    "longitude": 77.5155936,
+    "place_id": "ChIJx_UY0ys9rjsRbWNU6oQ-K1I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx_UY0ys9rjsRbWNU6oQ-K1I",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:47:49"
+  }
+]

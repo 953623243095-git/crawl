@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ravindra Fish Shop",
+    "search_category": "Fish Market",
+    "primary_category": "Second hand store",
+    "all_categories": "Second hand store",
+    "pincode": "276207",
+    "phone_number": "+91 70116 88859",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Teksi Stand, Sheikhpura, Jiyanpur, Azamgarh, Uttar Pradesh 276125",
+    "area": "Sheikhpura",
+    "latitude": 26.0799964,
+    "longitude": 83.1999427,
+    "place_id": "ChIJQTviNfqjkTkRs7nnPhHc9UY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQTviNfqjkTkRs7nnPhHc9UY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:06:54"
+  },
+  {
+    "business_name": "shreekant fish center",
+    "search_category": "Fish Market",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "276207",
+    "phone_number": "+91 788 047 4612",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dalalghat tiraha, pn.dindyal marg, Sita Ram, Azamgarh, Uttar Pradesh 276001",
+    "area": "Sita Ram",
+    "latitude": 26.0716675,
+    "longitude": 83.1876545,
+    "place_id": "ChIJrZxKTwa9kTkRSDdLEu6hQvM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZxKTwa9kTkRSDdLEu6hQvM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:06:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Family Grocery Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "276305",
+    "phone_number": "+91 74083 33888",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 6,
+    "address": "3W8Q+QJC, Horairah Khan Bypass Way, Allahpur, Uttar Pradesh 276305",
+    "area": "276305",
+    "latitude": 26.0669322,
+    "longitude": 82.9390294,
+    "place_id": "ChIJJcTCGt2tkTkR4jXDP310evM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJcTCGt2tkTkR4jXDP310evM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:19:09"
+  },
+  {
+    "business_name": "Haat Bazaar Beenapar",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "276305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3W2X+FG7, Ohdaripur, Uttar Pradesh 276305",
+    "area": "276305",
+    "latitude": 26.050774999999998,
+    "longitude": 82.9484544,
+    "place_id": "ChIJLVfTawCzkTkResBxpOk8Z38",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLVfTawCzkTkResBxpOk8Z38",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:19:10"
+  }
+]

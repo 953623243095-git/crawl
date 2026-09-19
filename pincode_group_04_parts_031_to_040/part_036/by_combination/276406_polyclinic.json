@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S. Poly Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "276406",
+    "phone_number": "+91 5462 202 012",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jayram Pur, Mau Rd, opp. Aditya Hospital, Azamgarh, Tewaripur, Uttar Pradesh 276406",
+    "area": "276406",
+    "latitude": 26.0468652,
+    "longitude": 83.20535629999999,
+    "place_id": "ChIJhXy8fuC8kTkRx2LiXwRzuSo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhXy8fuC8kTkRx2LiXwRzuSo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:29:55"
+  },
+  {
+    "business_name": "Sapana poly clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "276406",
+    "phone_number": "+91 94537 62185",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Near, Allahabad Bank Jiyanpur Road, New Chouk, Bilariyaganj, Uttar Pradesh 276121",
+    "area": "New Chouk",
+    "latitude": 26.2014402,
+    "longitude": 83.2308824,
+    "place_id": "ChIJx2VcmGahkTkRpm2VsiEHoYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx2VcmGahkTkRpm2VsiEHoYk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:29:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paramount Bakers",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "276305",
+    "phone_number": "+91 72338 20320",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "984/208B, Mazar Chauraha, opposite Pranjal Ultrasound, Old Sohbatiya Bagh, New Sohabatia Bagh, Sohabatiya Bagh, Prayagraj, Uttar Pradesh 211006",
+    "area": "Old Sohbatiya Bagh, New Sohabatia Bagh, Sohabatiya Bagh",
+    "latitude": 25.4462413,
+    "longitude": 81.8648339,
+    "place_id": "ChIJRSFHQqjKmjkRNmFlkDzWtas",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRSFHQqjKmjkRNmFlkDzWtas",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:19:16"
+  },
+  {
+    "business_name": "Chestnuts",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "276305",
+    "phone_number": "+91 74086 74086",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No. 30, IP SIGRA Shopping Mall, Shastri Nagar, Sigra, Varanasi, Uttar Pradesh 221002",
+    "area": "Shastri Nagar, Sigra",
+    "latitude": 25.3157674,
+    "longitude": 82.9890972,
+    "place_id": "ChIJVVVVWPwtjjkRlm4-_6KePT8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVWPwtjjkRlm4-_6KePT8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:19:16"
+  }
+]

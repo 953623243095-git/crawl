@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vicky tempo service",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "276301",
+    "phone_number": "+91 87000 42545",
+    "website": "http://www.vickytemposervice.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "G7JF+9R6, Pocket W, Okhla Phase II, Okhla Industrial Estate, New Delhi, Delhi 110020",
+    "area": "Pocket W, Okhla Phase II, Okhla Industrial Estate",
+    "latitude": 28.530927799999997,
+    "longitude": 77.27450879999999,
+    "place_id": "ChIJEcjdJXvhDDkR-2BB3DSi0jc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEcjdJXvhDDkR-2BB3DSi0jc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:12:49"
+  },
+  {
+    "business_name": "Truckqik",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Truck rental agency",
+    "all_categories": "Truck rental agency",
+    "pincode": "276301",
+    "phone_number": "+91 82878 69955",
+    "website": "https://www.truckqik.com/",
+    "rating": 4.4,
+    "reviews_count": 66,
+    "address": "Laxmi Tower, 415, 4th Floor, behind Aakash Cinema, Nani Wala Bagh, Commercial Complex, Azadpur, New Delhi, Delhi 110033",
+    "area": "Nani Wala Bagh, Commercial Complex, Municipal Colony, Azadpur",
+    "latitude": 28.708476299999997,
+    "longitude": 77.18194609999999,
+    "place_id": "ChIJt5vLqWQDDTkRrRe-Po64saQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt5vLqWQDDTkRrRe-Po64saQ",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:12:49"
+  }
+]

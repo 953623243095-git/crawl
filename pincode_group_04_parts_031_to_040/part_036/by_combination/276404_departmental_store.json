@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samenda Mode",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "276404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NH 128B, Azamgarh, Sardarpur Rajput, Uttar Pradesh 276406",
+    "area": "276404",
+    "latitude": 26.046112299999997,
+    "longitude": 83.2228446,
+    "place_id": "ChIJgZw9PgC9kTkRnURbsgTxmcM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgZw9PgC9kTkRnURbsgTxmcM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:26:06"
+  },
+  {
+    "business_name": "Harsh Traders A Genral Store Shop For wholesale Market",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "276404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "27QQ+X49, Satiyava, Sathiaon, Uttar Pradesh 276406",
+    "area": "276404",
+    "latitude": 26.0399219,
+    "longitude": 83.2878466,
+    "place_id": "ChIJJZEQpyWXkTkRLkYkFsMc9s8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJZEQpyWXkTkRLkYkFsMc9s8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:26:07"
+  }
+]

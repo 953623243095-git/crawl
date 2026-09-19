@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aditya Tour & Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "276303",
+    "phone_number": "+91 79054 82838",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "VWQV+6V4, Thekama, Uttar Pradesh 276303",
+    "area": "276303",
+    "latitude": 25.888000599999998,
+    "longitude": 82.9446978,
+    "place_id": "ChIJKSRQ_3O1kTkR2t2Opc6xIws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKSRQ_3O1kTkR2t2Opc6xIws",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:16:20"
+  },
+  {
+    "business_name": "Al Khaleej Tour & Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour and Travel Operator",
+    "all_categories": "Tour and Travel Operator",
+    "pincode": "276303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2WGC+9WH, Saraimir Station Rd, Sarai Meer, Chak Kamaluddin, Uttar Pradesh 276305",
+    "area": "276303",
+    "latitude": 26.025947199999997,
+    "longitude": 82.92235889999999,
+    "place_id": "ChIJQao-bMSykTkR-CmGCoWc18M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQao-bMSykTkR-CmGCoWc18M",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:16:20"
+  }
+]

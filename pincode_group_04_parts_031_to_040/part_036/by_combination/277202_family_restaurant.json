@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chatkara Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "277202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Ballia-Bansdih Rd Sujouli (Rajpur, Badasari, Ballia, Uttar Pradesh 277219",
+    "area": "277202",
+    "latitude": 25.8495176,
+    "longitude": 84.2163264,
+    "place_id": "ChIJy5WfkuJhkjkRM4VJcXx00-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy5WfkuJhkjkRM4VJcXx00-0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:39:54"
+  },
+  {
+    "business_name": "Champaran family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "277202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 6,
+    "address": "V6FF+WG2, Bansdih, Uttar Pradesh 277202",
+    "area": "277202",
+    "latitude": 25.874765399999998,
+    "longitude": 84.22376129999999,
+    "place_id": "ChIJfaeQTABhkjkRZkJm2p2oHqo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfaeQTABhkjkRZkJm2p2oHqo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:39:56"
+  }
+]

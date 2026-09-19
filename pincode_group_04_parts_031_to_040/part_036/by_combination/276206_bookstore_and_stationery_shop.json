@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sahitya Niketan",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "276206",
+    "phone_number": "+91 63964 44870",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 62,
+    "address": "Civil Lines, Bareilly, Uttar Pradesh 243003",
+    "area": "Civil Lines",
+    "latitude": 28.358445,
+    "longitude": 79.4167618,
+    "place_id": "ChIJ_-2KzC0HoDkR2khUC540nNU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_-2KzC0HoDkR2khUC540nNU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:06:13"
+  },
+  {
+    "business_name": "Sagheer Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "276206",
+    "phone_number": "+91 99355 72487",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Chak Kamaluddin, Uttar Pradesh 276305",
+    "area": "276206",
+    "latitude": 26.024715399999998,
+    "longitude": 82.9214538,
+    "place_id": "ChIJPQAAAJCykTkRUii-CkIyK9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPQAAAJCykTkRUii-CkIyK9s",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:06:14"
+  }
+]

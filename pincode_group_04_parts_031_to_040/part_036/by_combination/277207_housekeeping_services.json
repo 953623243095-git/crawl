@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Metro Dial Home Service",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "277207",
+    "phone_number": "+91 99447 07069",
+    "website": "https://www.instagram.com/metrodial_cleaning/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "27, Chinnamuthu 2nd St, Edayankattuvalasu, Erode, Tamil Nadu 638011",
+    "area": "Edayankattuvalasu",
+    "latitude": 11.340817699999999,
+    "longitude": 77.7135113,
+    "place_id": "ChIJHbZ_WAZvqTsRJdErd1HcOQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHbZ_WAZvqTsRJdErd1HcOQQ",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:48:00"
+  },
+  {
+    "business_name": "Shiny Expert.",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "277207",
+    "phone_number": "+91 73873 73745",
+    "website": "http://www.shinyexpert.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 4,5, Gurukrupa Sankul, Vijapur Rd, Nehru Nagar, Solapur, Maharashtra 413004",
+    "area": "Nehru Nagar",
+    "latitude": 17.6369592,
+    "longitude": 75.8978173,
+    "place_id": "ChIJa3cmkKnQxTsR2VcwL-3ePYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa3cmkKnQxTsR2VcwL-3ePYE",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:48:00"
+  }
+]

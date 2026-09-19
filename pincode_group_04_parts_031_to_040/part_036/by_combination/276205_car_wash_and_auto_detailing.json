@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Roadfolk Motors Pvt. Ltd.",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "276205",
+    "phone_number": "+91 91254 79000",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Mohammad Pur Fariha Road, Uttar Pradesh 276205",
+    "area": "276205",
+    "latitude": 25.976967,
+    "longitude": 83.0301626,
+    "place_id": "ChIJ5_58gwWxkTkR_SR3O6M-wyA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5_58gwWxkTkR_SR3O6M-wyA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:03:50"
+  },
+  {
+    "business_name": "Raj washing centre",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "276205",
+    "phone_number": "+91 87263 47792",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Moiya Makhdumpur, Nizamabad, Uttar Pradesh 276206",
+    "area": "276205",
+    "latitude": 26.0315384,
+    "longitude": 83.042487,
+    "place_id": "ChIJM75BTI2xkTkR8VLB1ypCKRU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM75BTI2xkTkR8VLB1ypCKRU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:03:52"
+  }
+]

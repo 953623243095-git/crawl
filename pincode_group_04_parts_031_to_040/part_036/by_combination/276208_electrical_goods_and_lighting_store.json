@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjay Light House Shop",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "276208",
+    "phone_number": "+91 97954 40912",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Allama Shibli Marg, Dal Singar, Azamgarh, Uttar Pradesh 276001",
+    "area": "Dal Singar",
+    "latitude": 26.071408299999998,
+    "longitude": 83.1804069,
+    "place_id": "ChIJdzKfm0yjkTkR7LG_1nJL92s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdzKfm0yjkTkR7LG_1nJL92s",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:09:18"
+  },
+  {
+    "business_name": "Rajesh Light House",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Fireworks Supplier",
+    "all_categories": "Fireworks Supplier",
+    "pincode": "276208",
+    "phone_number": "+91 81151 58200",
+    "website": "https://www.justdial.com/Azamgarh/Rajesh-Light-House-Aatishbaazi/9999P5252-5252-140217085031-C4P3_BZDET",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Pura Jodhi, Azamgarh, Uttar Pradesh 276001",
+    "area": "Pura Jodhi",
+    "latitude": 26.0783651,
+    "longitude": 83.18853349999999,
+    "place_id": "ChIJISyL2bijkTkRSn016HlAiwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJISyL2bijkTkRSn016HlAiwo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:09:19"
+  }
+]

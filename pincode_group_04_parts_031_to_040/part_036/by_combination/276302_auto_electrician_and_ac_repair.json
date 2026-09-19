@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nitin Automobiles",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "276302",
+    "phone_number": "+91 80523 05300",
+    "website": "https://nitin-automobiles.vercel.app/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Nitin Automobiles, near Chhittupatti mandir, Sanjarpur, Gangapur Bijaura, Uttar Pradesh 223227",
+    "area": "276302",
+    "latitude": 26.0147621,
+    "longitude": 82.954287,
+    "place_id": "ChIJg8MB0E-zkTkRgEXZnKNo6pk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg8MB0E-zkTkRgEXZnKNo6pk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:14:34"
+  },
+  {
+    "business_name": "United Tyre & Aligment Center",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "276302",
+    "phone_number": "+91 96211 58025",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 10,
+    "address": "SH 34, Chak Kamaluddin, Bharauli, Uttar Pradesh 276305",
+    "area": "276302",
+    "latitude": 26.0311351,
+    "longitude": 82.91434389999999,
+    "place_id": "ChIJPSpSXsiykTkRHZKRzXzQ3Xg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPSpSXsiykTkRHZKRzXzQ3Xg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:14:34"
+  }
+]

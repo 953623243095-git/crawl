@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JK",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "276143",
+    "phone_number": "+91 73909 62223",
+    "website": "http://www.justdial.com/JK%20Unisex%20Salon%20&%20Academy",
+    "rating": 4.8,
+    "reviews_count": 69,
+    "address": "Arazibag, opposite SKP Inter college, Brahmasthan, Azamgarh, Uttar Pradesh 276001",
+    "area": "Brahmasthan",
+    "latitude": 26.0754946,
+    "longitude": 83.18111909999999,
+    "place_id": "ChIJF3pRsXmjkTkRDSsiolgI5AA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF3pRsXmjkTkRDSsiolgI5AA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 05:54:58"
+  },
+  {
+    "business_name": "Senrick Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Beautician, Make-up artist, Nail salon, Hairdresser",
+    "pincode": "276143",
+    "phone_number": "+91 85740 03784",
+    "website": "https://www.senricksalon.com/betiahata",
+    "rating": 4.5,
+    "reviews_count": 570,
+    "address": "Ground, Betiahata Rd, Avas Kas Colony, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Avas Kas Colony",
+    "latitude": 26.7412028,
+    "longitude": 83.3685256,
+    "place_id": "ChIJyQFKG3pEkTkRL6RdDaiu_yU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyQFKG3pEkTkRL6RdDaiu_yU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 05:55:01"
+  }
+]

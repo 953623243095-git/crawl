@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat Medical",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "277204",
+    "phone_number": "+91 95543 10622",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Siw, Siwna, Bihar 841312",
+    "area": "277204",
+    "latitude": 25.7523704,
+    "longitude": 84.6180626,
+    "place_id": "ChIJlblXchqjkjkR9D7UcLpUYpw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlblXchqjkjkR9D7UcLpUYpw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:43:29"
+  },
+  {
+    "business_name": "Thakur Vikash Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "277204",
+    "phone_number": "+91 91162 69794",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MCVG+GHF, Bhagwanpur, Uttar Pradesh 277205",
+    "area": "277204",
+    "latitude": 25.693818699999998,
+    "longitude": 84.426412,
+    "place_id": "ChIJK7BHmOKFkjkRztOWUNwj-PA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK7BHmOKFkjkRztOWUNwj-PA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:43:31"
+  }
+]

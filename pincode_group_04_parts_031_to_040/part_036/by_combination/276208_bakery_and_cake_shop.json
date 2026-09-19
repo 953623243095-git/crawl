@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mr. Bakers",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "276208",
+    "phone_number": "+91 85730 48888",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 26,
+    "address": "Awas Vikas Chauraha, below DC The lounge, Mukeriganj, Azamgarh, Uttar Pradesh 276001",
+    "area": "Mukeriganj",
+    "latitude": 26.0783231,
+    "longitude": 83.1891789,
+    "place_id": "ChIJFZeIlRCjkTkRDyJuypyZRnQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZeIlRCjkTkRDyJuypyZRnQ",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:08:40"
+  },
+  {
+    "business_name": "CFC BAKER'S AND BAKERY Shop",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "276208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sheikhpura, Khadra, Uttar Pradesh 276125",
+    "area": "Sheikhpura",
+    "latitude": 26.081661,
+    "longitude": 83.20785149999999,
+    "place_id": "ChIJFwe4IgCjkTkRZ-mRu0mZzis",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFwe4IgCjkTkRZ-mRu0mZzis",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:08:40"
+  }
+]

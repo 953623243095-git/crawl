@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sagar Pharma/Anil Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "276302",
+    "phone_number": "+91 80048 58688",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Laxmi Tower, Ailwal Bholaghat, beside St Xavier's School, Ailwal, Azamgarh, Uttar Pradesh 276001",
+    "area": "Ailwal",
+    "latitude": 26.063771499999998,
+    "longitude": 83.186792,
+    "place_id": "ChIJsSyRAsO9kTkRs48BTYeb4x0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsSyRAsO9kTkRs48BTYeb4x0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:14:18"
+  },
+  {
+    "business_name": "Pandey Midicine Center",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Medical group",
+    "pincode": "276302",
+    "phone_number": "+91 94513 32539",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Sidhari, Varanasi, Azamgarh, Uttar Pradesh 276001",
+    "area": "Sidhari",
+    "latitude": 26.047121999999998,
+    "longitude": 83.189784,
+    "place_id": "ChIJByBe2cG8kTkRsXWBPX0tMWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJByBe2cG8kTkRsXWBPX0tMWg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:14:19"
+  }
+]

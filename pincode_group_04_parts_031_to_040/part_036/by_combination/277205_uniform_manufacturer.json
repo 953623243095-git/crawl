@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anika Best Marketplace",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing Accessories Store",
+    "all_categories": "Clothing Accessories Store, Clothing wholesaler, Electrical products wholesaler, Make-up artist, Shoe factory",
+    "pincode": "277205",
+    "phone_number": "N/A",
+    "website": "https://amzn.to/3VJ31oI",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dayachapra Rd, Dalpatpur, Uttar Pradesh 277209",
+    "area": "277205",
+    "latitude": 25.7875959,
+    "longitude": 84.4409969,
+    "place_id": "ChIJsckWhu6RkjkRs-v1AhdfTDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsckWhu6RkjkRs-v1AhdfTDE",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:45:09"
+  },
+  {
+    "business_name": "Give - N - Take Garment Store",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Uniform store",
+    "all_categories": "Uniform store, Clothing store",
+    "pincode": "277205",
+    "phone_number": "+91 98933 13501",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 205,
+    "address": "1, 2, Vishal Palace, Manik Bagh Rd, Nai Duniya, Adarsh Nagar, Palsikar Colony, Indore, Madhya Pradesh 452001",
+    "area": "Nai Duniya, Adarsh Nagar, Palsikar Colony",
+    "latitude": 22.7039334,
+    "longitude": 75.8558214,
+    "place_id": "ChIJA08q5gD9YjkR2Lfza1nHNQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA08q5gD9YjkR2Lfza1nHNQk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:45:10"
+  }
+]

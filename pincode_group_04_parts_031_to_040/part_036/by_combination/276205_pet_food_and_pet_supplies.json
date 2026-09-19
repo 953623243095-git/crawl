@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Singh tel Store",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "276205",
+    "phone_number": "+91 85744 18364",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Singh tel Store, Bindra Bazar, Ranipur Rajmo, Uttar Pradesh 276205",
+    "area": "276205",
+    "latitude": 25.9356181,
+    "longitude": 83.0276956,
+    "place_id": "ChIJ-0tO1g63kTkR4Hm8joMcHt0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-0tO1g63kTkR4Hm8joMcHt0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:03:22"
+  },
+  {
+    "business_name": "Shah Cat Planet",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "276205",
+    "phone_number": "+91 81276 64654",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Gorakhpur - Deoria Hwy, near Sugar Mill chauraha, Pathar Deva, Raghav Nagar, Deoria, Uttar Pradesh 274001",
+    "area": "Pathar Deva, Raghav Nagar",
+    "latitude": 26.502429,
+    "longitude": 83.779128,
+    "place_id": "ChIJoX91_QrFkzkR2C09UK4DPmE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoX91_QrFkzkR2C09UK4DPmE",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:03:23"
+  }
+]

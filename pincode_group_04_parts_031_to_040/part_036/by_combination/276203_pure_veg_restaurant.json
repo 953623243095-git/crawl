@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SR Veg Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "276203",
+    "phone_number": "+91 96439 63490",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Masani, Link Road, near Infront of Hotel Duke palace, Azampur, Mathura, Uttar Pradesh 281003",
+    "area": "Azampur",
+    "latitude": 27.5240984,
+    "longitude": 77.6648386,
+    "place_id": "ChIJa57q-aJxczkRi-J8eZ-a7Kg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa57q-aJxczkRi-J8eZ-a7Kg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 05:59:54"
+  },
+  {
+    "business_name": "Sanjay sabji bhandar",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "276203",
+    "phone_number": "+91 73093 64539",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Naya Pull, Sidhari, Azamgarh, Uttar Pradesh 276001",
+    "area": "Sidhari",
+    "latitude": 26.0487987,
+    "longitude": 83.1878358,
+    "place_id": "ChIJkxe9OQC9kTkRgcntmwwYtW4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkxe9OQC9kTkRgcntmwwYtW4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 05:59:55"
+  }
+]

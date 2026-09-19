@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharda Sadan",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "277123",
+    "phone_number": "+91 98394 36417",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "X35Q+QXR, Badasari, Khejuri, Sikandarpur, Uttar Pradesh 277302",
+    "area": "277123",
+    "latitude": 25.9594983,
+    "longitude": 84.0898983,
+    "place_id": "ChIJhcSucwBDkjkRL88Gsm2Sq50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhcSucwBDkjkRL88Gsm2Sq50",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:35:41"
+  },
+  {
+    "business_name": "RAVINDRA'S HOUSE",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "277123",
+    "phone_number": "+91 94574 08874",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SHRI KAVILAS YADAV, 329, Asnwar, Uttar Pradesh 221712",
+    "area": "277123",
+    "latitude": 25.889334299999998,
+    "longitude": 83.96119639999999,
+    "place_id": "ChIJ0ZbvXTZrkjkRhoWjvF6M37Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0ZbvXTZrkjkRhoWjvF6M37Y",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:35:41"
+  }
+]

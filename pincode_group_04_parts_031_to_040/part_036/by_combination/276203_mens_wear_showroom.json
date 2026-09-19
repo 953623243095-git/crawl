@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Soni Fancy Garment",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store",
+    "pincode": "276203",
+    "phone_number": "+91 94512 89718",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "141, Tarwaroad, Mehnajpur, Lalmau, Uttar Pradesh 276203",
+    "area": "Tarwaroad",
+    "latitude": 25.6704804,
+    "longitude": 83.1209312,
+    "place_id": "ChIJJdlCdFjbkTkRHRjy9G7KKik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJdlCdFjbkTkRHRjy9G7KKik",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:00:00"
+  },
+  {
+    "business_name": "K2 Mart",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "276203",
+    "phone_number": "+91 95559 85746",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "82, Devgaov Road, Barawa, Mehnajpur, Uttar Pradesh 276203",
+    "area": "276203",
+    "latitude": 25.6789724,
+    "longitude": 83.10832909999999,
+    "place_id": "ChIJsf8lsPDbkTkRljIkQQFBk2k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsf8lsPDbkTkRljIkQQFBk2k",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:00:00"
+  }
+]

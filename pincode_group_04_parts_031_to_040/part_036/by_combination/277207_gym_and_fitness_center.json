@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Health Club Maniyar",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gymnastics club",
+    "all_categories": "Gymnastics club, Gymnastics center",
+    "pincode": "277207",
+    "phone_number": "+91 98075 48300",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Bus stand, Near, Maniyar, Uttar Pradesh 277207",
+    "area": "277207",
+    "latitude": 25.9782905,
+    "longitude": 84.16977109999999,
+    "place_id": "ChIJrb-GHhFdkjkR01DZuEs-iIU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrb-GHhFdkjkR01DZuEs-iIU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:47:07"
+  },
+  {
+    "business_name": "Divyansh Gim center",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "277207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "24CH+V2J, Chandayar, Uttar Pradesh 277303",
+    "area": "277207",
+    "latitude": 26.022215,
+    "longitude": 84.1275086,
+    "place_id": "ChIJdbk2prxbkjkReeoWFsmjci4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdbk2prxbkjkReeoWFsmjci4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:47:07"
+  }
+]

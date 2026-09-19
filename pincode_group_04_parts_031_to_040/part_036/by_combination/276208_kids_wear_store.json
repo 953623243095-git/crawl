@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kids Garden",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothes market",
+    "all_categories": "Clothes market",
+    "pincode": "276208",
+    "phone_number": "+91 84297 55580",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Jairajpur-Kandhrapur Rd, Jolhapur, Sahpur Maulani, Kandhrapur, Uttar Pradesh 276135",
+    "area": "Jolhapur",
+    "latitude": 26.140481599999998,
+    "longitude": 83.1391836,
+    "place_id": "ChIJk3yoCCmlkTkRcVOCg3cvzPo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk3yoCCmlkTkRcVOCg3cvzPo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:08:50"
+  },
+  {
+    "business_name": "Me N Moms Geeta Complex, Azamgarh",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store, Baby clothing store, Maternity store",
+    "pincode": "276208",
+    "phone_number": "+91 70074 56893",
+    "website": "http://www.menmoms.in/",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "357M+6FQ, Swami Dayand Marg Geeta Complex, Above Panchanan Store, near Mahila Hospital, Matbarganj, Azamgarh, Uttar Pradesh 276001",
+    "area": "Matbarganj",
+    "latitude": 26.0630815,
+    "longitude": 83.1837434,
+    "place_id": "ChIJsT7OgIS9kTkRG-XuYAkIXV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsT7OgIS9kTkRG-XuYAkIXV4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:08:52"
+  }
+]

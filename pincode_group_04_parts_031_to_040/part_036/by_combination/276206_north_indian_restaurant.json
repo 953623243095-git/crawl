@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The chef's Table",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "276206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Near, Purana Pul Harbanshpur, Harbanspur, Azamgarh, Uttar Pradesh 276001",
+    "area": "Harbanspur",
+    "latitude": 26.053345699999998,
+    "longitude": 83.1708228,
+    "place_id": "ChIJ3QjLUUO9kTkRX5lnYIxhZTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3QjLUUO9kTkRX5lnYIxhZTc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:05:10"
+  },
+  {
+    "business_name": "Funchick Fried Chicken",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Beverage Store, Cafe, Coffee shop, Food court, Lounge bar, Non Vegetarian Restaurant, Vegan restaurant",
+    "pincode": "276206",
+    "phone_number": "+91 88400 07117",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Bandha Road, nearby Regional Office Union Bank Of India, Civil Lines, Azamgarh, Uttar Pradesh 276001",
+    "area": "Civil Lines",
+    "latitude": 26.055736,
+    "longitude": 83.181939,
+    "place_id": "ChIJ07iEqn29kTkRXbHTb6wGb3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ07iEqn29kTkRXbHTb6wGb3g",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:05:11"
+  }
+]

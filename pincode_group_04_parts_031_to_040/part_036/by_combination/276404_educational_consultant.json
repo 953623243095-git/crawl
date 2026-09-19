@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aacharya Astro Vaibhav",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "276404",
+    "phone_number": "+91 88878 41975",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "105, near Ambedkar Park, Daudpur, Daudpur Kurmi, Mubarakpur, Uttar Pradesh 276404",
+    "area": "Daudpur",
+    "latitude": 26.0867392,
+    "longitude": 83.2653191,
+    "place_id": "ChIJ6ZgbigCZkTkRpkXyRbfgtmA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6ZgbigCZkTkRpkXyRbfgtmA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:27:16"
+  },
+  {
+    "business_name": "JobJal",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Information services, News service",
+    "pincode": "276404",
+    "phone_number": "N/A",
+    "website": "https://www.jobjal.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Madarpur, Mubarakpur, Uttar Pradesh 276404",
+    "area": "276404",
+    "latitude": 26.0915744,
+    "longitude": 83.2750319,
+    "place_id": "ChIJBxoQW6mZkTkRjT9LL_BRxHw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBxoQW6mZkTkRjT9LL_BRxHw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:27:17"
+  }
+]

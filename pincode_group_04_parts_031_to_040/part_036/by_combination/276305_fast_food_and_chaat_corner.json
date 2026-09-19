@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fast Food Centre",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "276305",
+    "phone_number": "+91 83550 32023",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1Fast, Food Centre, Azamgarh, Patti, Uttar Pradesh 276140",
+    "area": "276305",
+    "latitude": 26.154277099999998,
+    "longitude": 83.3319176,
+    "place_id": "ChIJT3g_F3CZkTkRJnCGyXe3ExA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT3g_F3CZkTkRJnCGyXe3ExA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:19:20"
+  },
+  {
+    "business_name": "Bombay bites tasty fast food",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "276305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "35CP+X3C, Takia, Azamgarh, Uttar Pradesh 276001",
+    "area": "Takia",
+    "latitude": 26.0724306,
+    "longitude": 83.1851506,
+    "place_id": "ChIJ-4OUcPmjkTkR1Ie5ehNebXQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-4OUcPmjkTkR1Ie5ehNebXQ",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:19:20"
+  }
+]

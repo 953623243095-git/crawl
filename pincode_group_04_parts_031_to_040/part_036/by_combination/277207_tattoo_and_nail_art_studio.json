@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Try A Tattoo Studio",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Nail salon",
+    "all_categories": "Nail salon, Tattoo shop, Tattoo and piercing shop, Tattoo artist, Tattoo removal service",
+    "pincode": "277207",
+    "phone_number": "+91 99112 33058",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "C-5/37, Sector 6 Rd, Pocket D-6, Pocket 5, Sector 6, Rohini, Delhi, 110085",
+    "area": "Pocket D-6, Pocket 5, Sector 6, Rohini",
+    "latitude": 28.711905899999998,
+    "longitude": 77.1084326,
+    "place_id": "ChIJv1Gun2ABDTkRwKtBHALhOWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv1Gun2ABDTkRwKtBHALhOWc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:47:31"
+  },
+  {
+    "business_name": "Attitudio Tattoo Studio",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo shop",
+    "all_categories": "Tattoo shop, Body piercing shop, Tattoo and piercing shop, Tattoo artist, Tattoo removal service",
+    "pincode": "277207",
+    "phone_number": "+91 96543 76066",
+    "website": "http://www.attitudiotattoostudio.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "K-9 A shop No-1 Central Market, Arya Samaj Rd, near MLA Mukesh Sharma Office, New Delhi, Delhi 110059",
+    "area": "Block J, Uttam Nagar",
+    "latitude": 28.619006499999998,
+    "longitude": 77.0585107,
+    "place_id": "ChIJpRmPqae6DTkRE0Pv2iUBUrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpRmPqae6DTkRE0Pv2iUBUrc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:47:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Varanasi Taxi Services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Airport, Airport Shuttle Service Provider, Car leasing service, Car rental agency, Chauffeur service, Minibus taxi service, Travel agency",
+    "pincode": "277124",
+    "phone_number": "+91 88879 99562",
+    "website": "https://www.varanasitaxiservices.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "SA 5/137 K-R Sanjay Nagar Colony, Ramrepur, Paharia, Varanasi, Uttar Pradesh 221007",
+    "area": "Ramrepur, Akatha, Paharia",
+    "latitude": 25.3638205,
+    "longitude": 83.00139779999999,
+    "place_id": "ChIJJVdkRZovjjkRC_7oDtf7ujQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJVdkRZovjjkRC_7oDtf7ujQ",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:37:00"
+  },
+  {
+    "business_name": "Mithila Doo Deg Taxi | online Cab Booking & Taxi Service Darbhanga Madhubani",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Car rental agency",
+    "pincode": "277124",
+    "phone_number": "+91 87576 39959",
+    "website": "https://doodegtaxi.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Khaja Sarai, Housing Board Colony, Laheriasarai, Darbhanga, Barheta, Bihar 846001",
+    "area": "Khaja Sarai, Housing Board Colony, Laheriasarai",
+    "latitude": 26.1075774,
+    "longitude": 85.89765469999999,
+    "place_id": "ChIJRxKbd_i57TkRV--4LFmT8jo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRxKbd_i57TkRV--4LFmT8jo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:37:00"
+  }
+]

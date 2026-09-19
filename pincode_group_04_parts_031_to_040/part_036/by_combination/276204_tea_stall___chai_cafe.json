@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashish Chai Ship",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Sporting goods store",
+    "pincode": "276204",
+    "phone_number": "+91 84239 90877",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bindu Yadav, Nizamabad, Google Pay27001Azamgarh Rd, Paranapur, Ghorath, Azamgarh, Uttar Pradesh 276001",
+    "area": "Paranapur",
+    "latitude": 26.052514199999997,
+    "longitude": 83.15984139999999,
+    "place_id": "ChIJDwznCTq7kTkR0B6s1yRnWrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDwznCTq7kTkR0B6s1yRnWrI",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:01:36"
+  },
+  {
+    "business_name": "Chai station",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "276204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QXPW+R98 Petrol Pump, Jaunpur Road, Azamgarh, Bardah, Uttar Pradesh 276202",
+    "area": "276204",
+    "latitude": 25.7870466,
+    "longitude": 82.9959473,
+    "place_id": "ChIJD7lFHQDJkTkRBF8hwXPoizY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD7lFHQDJkTkRBF8hwXPoizY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:01:36"
+  }
+]

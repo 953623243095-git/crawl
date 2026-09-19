@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Devi Lal G Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Food court",
+    "pincode": "276206",
+    "phone_number": "+91 96214 39493",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "near Life Line, Bawali Mod, Azamgarh, Uttar Pradesh 276001",
+    "area": "Bawali Mod",
+    "latitude": 26.0544495,
+    "longitude": 83.177381,
+    "place_id": "ChIJ3ecf5NW9kTkRbNJW5uXf9UI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3ecf5NW9kTkRbNJW5uXf9UI",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:05:10"
+  },
+  {
+    "business_name": "Madheshiya Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "276206",
+    "phone_number": "+91 96530 82611",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "12, Bengali Mode, Azamgarh, Uttar Pradesh 276001",
+    "area": "Bengali Mode",
+    "latitude": 26.0565458,
+    "longitude": 83.1864408,
+    "place_id": "ChIJ7Z415Nq9kTkRcAEsorcwFns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Z415Nq9kTkRcAEsorcwFns",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:05:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "jr college",
+    "search_category": "Junior College and Degree College",
+    "primary_category": "College",
+    "all_categories": "College",
+    "pincode": "277124",
+    "phone_number": "+91 98081 49488",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "83C3+X7W, Semra, Uttar Pradesh 283126",
+    "area": "277124",
+    "latitude": 27.3224886,
+    "longitude": 78.0532162,
+    "place_id": "ChIJZROZrXB8dDkRKb57OegnaBE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZROZrXB8dDkRKb57OegnaBE",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:37:28"
+  },
+  {
+    "business_name": "PR Govt Junior College",
+    "search_category": "Junior College and Degree College",
+    "primary_category": "Government college",
+    "all_categories": "Government college",
+    "pincode": "277124",
+    "phone_number": "+91 70930 77028",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 77,
+    "address": "X63M+572, Rama Rao Peta, Kakinada, Andhra Pradesh 533001",
+    "area": "Rama Rao Peta",
+    "latitude": 16.9528952,
+    "longitude": 82.2331452,
+    "place_id": "ChIJQRET2uEnODoRdWsJvbeexmU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQRET2uEnODoRdWsJvbeexmU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:37:30"
+  }
+]

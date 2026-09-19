@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Luxury Houses",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Commercial real estate agency, Retail space rental agency",
+    "pincode": "276405",
+    "phone_number": "+91 98902 37049",
+    "website": "https://www.theluxuryhouses.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Teerth Technospace, Teerth2work, Pune, Maharashtra 411045",
+    "area": "Teerth2work",
+    "latitude": 18.5635604,
+    "longitude": 73.7661485,
+    "place_id": "ChIJyZ_OcvjvOQMRm5hXHgkfqvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyZ_OcvjvOQMRm5hXHgkfqvY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:29:09"
+  },
+  {
+    "business_name": "Choudhary Properties Alwar",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Real Estate Builders & Construction Company, Industrial real estate agency, Property administration service, Property investment company, Property management company, Real estate developer",
+    "pincode": "276405",
+    "phone_number": "+91 76900 86161",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 264,
+    "address": "Plot Number A-3, Ambedkar Nagar, Kherado, Alwar, Rajasthan 301001",
+    "area": "Ambedkar Nagar, Kherado",
+    "latitude": 27.542018499999998,
+    "longitude": 76.63298549999999,
+    "place_id": "ChIJyxJ-CSWbcjkR-RztiPx_zXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyxJ-CSWbcjkR-RztiPx_zXE",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:29:10"
+  }
+]

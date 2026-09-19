@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Janta watch service",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch repair service",
+    "all_categories": "Watch repair service",
+    "pincode": "276303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VWJQ+9HH, Mirzapur, Uttar Pradesh 276303",
+    "area": "276303",
+    "latitude": 25.8809354,
+    "longitude": 82.9389468,
+    "place_id": "ChIJp9tAu5a1kTkRsPmzvFdUGtI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp9tAu5a1kTkRsPmzvFdUGtI",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:16:01"
+  },
+  {
+    "business_name": "Azamgarh saraimeer new market",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "276303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "new Market, Sarai Meer, Chak Kamaluddin, Uttar Pradesh 276305",
+    "area": "276303",
+    "latitude": 26.027125899999998,
+    "longitude": 82.9194704,
+    "place_id": "ChIJMZ_3QwCzkTkR7Gj_Fjee3q8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMZ_3QwCzkTkR7Gj_Fjee3q8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:16:01"
+  }
+]

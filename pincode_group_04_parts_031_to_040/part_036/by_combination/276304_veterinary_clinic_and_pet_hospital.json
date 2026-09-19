@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Animal Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "276304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "3VM9+VRR, Phoolpur, Uttar Pradesh 276304",
+    "area": "276304",
+    "latitude": 26.084744999999998,
+    "longitude": 82.8695254,
+    "place_id": "ChIJS8xnTfFSkDkRw3f5kEVqwzs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS8xnTfFSkDkRw3f5kEVqwzs",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:17:58"
+  },
+  {
+    "business_name": "GP VET PHARMACY",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinary pharmacy",
+    "all_categories": "Veterinary pharmacy",
+    "pincode": "276304",
+    "phone_number": "+91 78670 16695",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 20,
+    "address": "SHOP NO 1, 7/59, Wellington St, Vilachery, Tamil Nadu 625019",
+    "area": "276304",
+    "latitude": 9.9310473,
+    "longitude": 78.0514791,
+    "place_id": "ChIJA2cbD8fPADsRgWjQUmzq9rM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA2cbD8fPADsRgWjQUmzq9rM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:18:00"
+  }
+]

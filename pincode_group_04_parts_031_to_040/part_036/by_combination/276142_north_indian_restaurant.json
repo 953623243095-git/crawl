@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paliwal Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "276142",
+    "phone_number": "+91 94152 07757",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "25X9+HX6, in front of Mission Hospital Road, Narauli, Harabanshpur, Azamgarh, Uttar Pradesh 276001",
+    "area": "Narauli",
+    "latitude": 26.0489011,
+    "longitude": 83.1698794,
+    "place_id": "ChIJO7-we6G8kTkRmTIuMAEpgxY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO7-we6G8kTkRmTIuMAEpgxY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 05:52:17"
+  },
+  {
+    "business_name": "Patel dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "276142",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Kerakat - Azamgarh Marg, Bindra Bazar, Ranipur Rajmo, Uttar Pradesh 276205",
+    "area": "276142",
+    "latitude": 25.9274171,
+    "longitude": 83.0274069,
+    "place_id": "ChIJiYtOnam3kTkRuea4yXJIK6A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiYtOnam3kTkRuea4yXJIK6A",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 05:52:17"
+  }
+]

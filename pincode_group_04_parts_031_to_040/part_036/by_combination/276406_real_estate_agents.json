@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NX MAARI HOME",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Home builder",
+    "all_categories": "Home builder",
+    "pincode": "276406",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Purai Ghulami, Azamgarh, Uttar Pradesh 276001",
+    "area": "Purai Ghulami",
+    "latitude": 26.0751271,
+    "longitude": 83.1903605,
+    "place_id": "ChIJn5PtPQCjkTkRnZ0fbDmTeO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn5PtPQCjkTkRnZ0fbDmTeO0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:30:54"
+  },
+  {
+    "business_name": "Banke Singh Lakshmi Tower",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Retail space rental agency",
+    "all_categories": "Retail space rental agency",
+    "pincode": "276406",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "35HQ+P5H, Lala Lajpatrai Marg, Pura Jodhi, Azamgarh, Uttar Pradesh 276001",
+    "area": "Pura Jodhi",
+    "latitude": 26.0793131,
+    "longitude": 83.18799279999999,
+    "place_id": "ChIJMUpo7oajkTkRNjyGvRxHhbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMUpo7oajkTkRNjyGvRxHhbU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:30:57"
+  }
+]

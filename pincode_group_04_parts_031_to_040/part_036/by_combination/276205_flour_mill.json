@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepak Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "276205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "4 no Mohammad pur, Uttar Pradesh 276205",
+    "area": "Mohammadpur",
+    "latitude": 25.9689905,
+    "longitude": 83.0257262,
+    "place_id": "ChIJLWNrKGCxkTkRZERBotj5SeA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLWNrKGCxkTkRZERBotj5SeA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:03:17"
+  },
+  {
+    "business_name": "Gupta Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "276205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "X3P3+46C, Abu Saidpur, Uttar Pradesh 276205",
+    "area": "276205",
+    "latitude": 25.9853076,
+    "longitude": 83.0530181,
+    "place_id": "ChIJVVVVlcawkTkR62GoAMuOKys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVlcawkTkR62GoAMuOKys",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:03:17"
+  }
+]

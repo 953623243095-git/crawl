@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Starlight beauty salon 😍💝🔥",
+    "search_category": "Salon",
+    "primary_category": "Beautician",
+    "all_categories": "Beautician",
+    "pincode": "276303",
+    "phone_number": "+91 92199 90208",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Thekma bazar, Uttar Pradesh 276303",
+    "area": "276303",
+    "latitude": 25.8784068,
+    "longitude": 82.93771,
+    "place_id": "ChIJZRemUFO1kTkRg1Gk6LWzIl0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZRemUFO1kTkRg1Gk6LWzIl0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:16:31"
+  },
+  {
+    "business_name": "Sahab Saloon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "276303",
+    "phone_number": "+91 94555 72839",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Sh37, Bairdih, Uttar Pradesh 276202",
+    "area": "276303",
+    "latitude": 25.864127699999997,
+    "longitude": 82.9498629,
+    "place_id": "ChIJp6lxTWnLkTkR5iCLGWbFvMM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp6lxTWnLkTkR5iCLGWbFvMM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:16:34"
+  }
+]

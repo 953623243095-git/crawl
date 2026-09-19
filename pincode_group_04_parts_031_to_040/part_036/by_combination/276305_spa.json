@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Brijesh",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "276305",
+    "phone_number": "+91 78001 41540",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Saraimeer - Gambheerpur-Martinganj Rd, Bibipur, Pendra, Uttar Pradesh 276305",
+    "area": "276305",
+    "latitude": 26.0058829,
+    "longitude": 82.9178628,
+    "place_id": "ChIJfceX8P6zkTkRRvynvAKoZ9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfceX8P6zkTkRRvynvAKoZ9s",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:20:03"
+  },
+  {
+    "business_name": "Mandakini Sanitary",
+    "search_category": "Spa",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store, Bathroom supply store, Plumbing supply store",
+    "pincode": "276305",
+    "phone_number": "+91 94158 97217",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "25WV+RG6, Mau Rd, Sidhari, Azamgarh, Uttar Pradesh 276001",
+    "area": "Sidhari",
+    "latitude": 26.0470258,
+    "longitude": 83.1937518,
+    "place_id": "ChIJGRFZBMK8kTkRyZDfHeqzlbA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGRFZBMK8kTkRyZDfHeqzlbA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:20:05"
+  }
+]

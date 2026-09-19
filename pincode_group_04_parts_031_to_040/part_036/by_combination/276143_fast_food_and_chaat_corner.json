@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prince Refreshment Point",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Breakfast restaurant",
+    "pincode": "276143",
+    "phone_number": "+91 80819 42096",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 49,
+    "address": "26WH+F55, Shahgarh, Sardarpur Rajput, Uttar Pradesh 276406",
+    "area": "276143",
+    "latitude": 26.04617,
+    "longitude": 83.2279805,
+    "place_id": "ChIJX3frJAC9kTkRlXbrBnMN2dI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX3frJAC9kTkRlXbrBnMN2dI",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 05:54:12"
+  },
+  {
+    "business_name": "Paozzz - Woww in every Pao",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "276143",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Raidopur, Azamgarh, Uttar Pradesh 276001",
+    "area": "Raidopur",
+    "latitude": 26.0532546,
+    "longitude": 83.18732729999999,
+    "place_id": "ChIJx8q1r5u9kTkRMQlAFHenk7s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx8q1r5u9kTkRMQlAFHenk7s",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 05:54:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Varanasi CAB",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Car rental agency",
+    "pincode": "277123",
+    "phone_number": "+91 94537 88158",
+    "website": "https://www.varanasicab.com/",
+    "rating": 4.6,
+    "reviews_count": 687,
+    "address": "N 13/209 Near Munshi Premchand Park, Brij Enclave Colony, Varanasi, Uttar Pradesh 221001",
+    "area": "Vaisno Vihar Colony, Brij Enclave Colony, Sundarpur, Nagwa",
+    "latitude": 25.2858774,
+    "longitude": 82.9776462,
+    "place_id": "ChIJB2iPVhYyjjkRpwNkQlsrJvw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB2iPVhYyjjkRpwNkQlsrJvw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:35:19"
+  },
+  {
+    "business_name": "Balaji Tour And Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Car leasing service, Car rental agency, Taxi service",
+    "pincode": "277123",
+    "phone_number": "+91 85410 55775",
+    "website": "http://balajitravelsdeoria.com/",
+    "rating": 4.9,
+    "reviews_count": 354,
+    "address": "Balaji Tour And Travels & Balaji Medical, Amar Sahid Gate, Meter Under, Se 50, Ram Naath Nagar, Deoria, Uttar Pradesh 274001",
+    "area": "Ram Naath Nagar",
+    "latitude": 26.491562899999998,
+    "longitude": 83.7790577,
+    "place_id": "ChIJVZ_9-7nFkzkRdpUaOCJgMto",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVZ_9-7nFkzkRdpUaOCJgMto",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:35:19"
+  }
+]

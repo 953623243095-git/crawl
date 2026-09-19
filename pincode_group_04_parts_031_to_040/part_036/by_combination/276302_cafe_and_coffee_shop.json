@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dubai Darbar and cafe family restaurant",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "276302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "2W4V+4WC, Sarai Meer, Uttar Pradesh 276305",
+    "area": "276302",
+    "latitude": 26.005308799999998,
+    "longitude": 82.944767,
+    "place_id": "ChIJyxrEKgCzkTkR6ImpQGm8JgM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyxrEKgCzkTkR6ImpQGm8JgM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:14:06"
+  },
+  {
+    "business_name": "sree Shyam Ji Cafeteria And Coffee House",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "276302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 12,
+    "address": "2WG9+CPW, Mahajani Tola Rd, Sarai Meer, Chak Kamaluddin, Uttar Pradesh 276305",
+    "area": "276302",
+    "latitude": 26.0261067,
+    "longitude": 82.9193129,
+    "place_id": "ChIJJ271Ra6zkTkRucSViSyb3sg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ271Ra6zkTkRucSViSyb3sg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:14:08"
+  }
+]

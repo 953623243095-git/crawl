@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Welcome Mobile",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "277205",
+    "phone_number": "+91 70073 01199",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Bahadurpur, Azamgarh, Ballia, Uttar Pradesh 277001",
+    "area": "Bahadurpur",
+    "latitude": 25.7579544,
+    "longitude": 84.14858029999999,
+    "place_id": "ChIJrxIT2YxlkjkRJV3KZu0yPJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrxIT2YxlkjkRJV3KZu0yPJM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:46:05"
+  },
+  {
+    "business_name": "AK TECHNOLOGY (MOBILE & ELECTRONICS STORE)",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Bank, Cell phone accessory store, Electronics store, Electronics wholesaler",
+    "pincode": "277205",
+    "phone_number": "+91 86873 82456",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Ghazipur-Ballia Rashtriya Rajmarg, Bharauli, Uttar Pradesh 277501",
+    "area": "277205",
+    "latitude": 25.6003905,
+    "longitude": 83.9804091,
+    "place_id": "ChIJkzZ5w7R1kjkRqVa7gTZYV4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkzZ5w7R1kjkRqVa7gTZYV4o",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:46:05"
+  }
+]

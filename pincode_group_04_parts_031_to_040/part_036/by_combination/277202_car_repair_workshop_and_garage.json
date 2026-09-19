@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hi-Tech Auto",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "277202",
+    "phone_number": "+91 97712 83818",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Katras Rd, Sanjay Nagar, Matkuria, Dhanbad, Jharkhand 826007",
+    "area": "Sanjay Nagar",
+    "latitude": 23.787202699999998,
+    "longitude": 86.4065191,
+    "place_id": "ChIJwayMYjmj9jkRaxhG34qstng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwayMYjmj9jkRaxhG34qstng",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:40:15"
+  },
+  {
+    "business_name": "BISWAKARMA CAR CARE",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto body shop, Auto bodywork mechanic, Paint store",
+    "pincode": "277202",
+    "phone_number": "+91 77977 44307",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "NH 34, Balarampur, Berhampore, West Bengal 742165",
+    "area": "277202",
+    "latitude": 24.0531021,
+    "longitude": 88.2486077,
+    "place_id": "ChIJtRVYvut9-TkRCtDpU1Qm2gc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtRVYvut9-TkRCtDpU1Qm2gc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:40:15"
+  }
+]

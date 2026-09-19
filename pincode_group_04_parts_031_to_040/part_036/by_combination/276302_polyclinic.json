@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paramount Poly Clinic & Medicine Center",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "276302",
+    "phone_number": "+91 84170 58324",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, 2X68 3F2, Chhaun Road, Sanjarpur, Azamgarh, Uttar Pradesh 223227",
+    "area": "276302",
+    "latitude": 26.0085283,
+    "longitude": 82.9664329,
+    "place_id": "ChIJixoutHmzkTkRY1k73MJwrCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJixoutHmzkTkRY1k73MJwrCg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:14:24"
+  },
+  {
+    "business_name": "Ayesha polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "276302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2WJ6+WXH, SH 30, Sarai Meer, Hajipur, Uttar Pradesh 276305",
+    "area": "276302",
+    "latitude": 26.032311699999998,
+    "longitude": 82.9124968,
+    "place_id": "ChIJo5x4l2qzkTkRFL0MHf1V5PY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo5x4l2qzkTkRFL0MHf1V5PY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:14:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LIC branch 2",
+    "search_category": "Insurance Agent",
+    "primary_category": "Life insurance agency",
+    "all_categories": "Life insurance agency",
+    "pincode": "276305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "2623+GCM, Ghazipur - Azamgarh Rd, Azamgarh, Uttar Pradesh 276128",
+    "area": "276305",
+    "latitude": 26.0013324,
+    "longitude": 83.2035394,
+    "place_id": "ChIJP8x6Hdu9kTkRQkKelOpzGI0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP8x6Hdu9kTkRQkKelOpzGI0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:20:31"
+  },
+  {
+    "business_name": "HDFC ERGO Insurance Agent: Asif Khan",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Auto insurance agency, Health insurance agency, Home insurance agency, Motorcycle insurance agency",
+    "pincode": "276305",
+    "phone_number": "+91 79 4276 2038",
+    "website": "https://agent.hdfcergo.com/hdfc-ergo-insurance-agent-asif-khan-insurance-broker-surajpur-colony-maharajganj-307441/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "No C 113, Surajpur Colony, Maharajganj, Tola Kishunpur, Uttar Pradesh 273302",
+    "area": "Surajpur Colony",
+    "latitude": 27.052325,
+    "longitude": 83.6135572,
+    "place_id": "ChIJx35HRD0BlDkRw4Mypkipx1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx35HRD0BlDkRw4Mypkipx1k",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:20:32"
+  }
+]

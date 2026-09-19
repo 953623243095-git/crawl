@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pizza Palace (cake shop)",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "277209",
+    "phone_number": "+91 91251 87194",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Purani Bazar Rd, in front of Chhoti Masjid, Sahatwar, Baleur, Uttar Pradesh 277211",
+    "area": "277209",
+    "latitude": 25.835086399999998,
+    "longitude": 84.3004835,
+    "place_id": "ChIJobSnIVGJkjkRR-WqiG0x-J8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJobSnIVGJkjkRR-WqiG0x-J8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:50:07"
+  },
+  {
+    "business_name": "Hello honey pizza house and restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Food court",
+    "all_categories": "Food court, Pizza restaurant",
+    "pincode": "277209",
+    "phone_number": "+91 96287 65034",
+    "website": "http://hellohoneyonline.com/",
+    "rating": 4,
+    "reviews_count": 123,
+    "address": "Purani Bazar Rd, Sahatwar, Baleur, Uttar Pradesh 277211",
+    "area": "277209",
+    "latitude": 25.834419099999998,
+    "longitude": 84.3021298,
+    "place_id": "ChIJuRHHNKSJkjkRYGdAMGCJfFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuRHHNKSJkjkRYGdAMGCJfFU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:50:09"
+  }
+]

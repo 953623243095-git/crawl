@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shopright supermarket",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "277124",
+    "phone_number": "+91 99306 08219",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gaya college morh, Near, Gaya - Sherghati Rd, above A B Tvs showroom, opposite CRPF camp, A P Colony, Gaya, Bihar 823001",
+    "area": "A P Colony",
+    "latitude": 24.7806581,
+    "longitude": 84.9826239,
+    "place_id": "ChIJn38eMSor8zkRaWZoDFAEc0s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn38eMSor8zkRaWZoDFAEc0s",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:38:00"
+  },
+  {
+    "business_name": "Vaishali Mart",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "277124",
+    "phone_number": "+91 73559 91432",
+    "website": "https://wa.me/917354991432",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Laldiggi Rd, Ganga Darshan Colony, Saket Puri Colony, Mirzapur-cum-Vindhyachal, Mirzapur, Uttar Pradesh 231001",
+    "area": "Ganga Darshan Colony, Saket Puri Colony",
+    "latitude": 25.1459922,
+    "longitude": 82.5601026,
+    "place_id": "ChIJW2Y3uX_qjzkRVZarQOiJD7w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW2Y3uX_qjzkRVZarQOiJD7w",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:38:00"
+  }
+]

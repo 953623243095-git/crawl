@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SimplyBest Mart",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "276306",
+    "phone_number": "+91 80050 44080",
+    "website": "https://mydukaan.io/simplybest",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Front of vishesh vaibhav Marraige Hall, Ganga Nagar, Ramjanki Nagar, Gorakhpur, Uttar Pradesh 273003",
+    "area": "Ganga Nagar, Ramjanki Nagar",
+    "latitude": 26.7914493,
+    "longitude": 83.3793148,
+    "place_id": "ChIJocTXjUlFkTkReYbKyJI8Th8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJocTXjUlFkTkReYbKyJI8Th8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:22:37"
+  },
+  {
+    "business_name": "Laxmi Kirana Store",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "276306",
+    "phone_number": "+91 96218 39975",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "26WM+4JM, Jamuri, Uttar Pradesh 276406",
+    "area": "276306",
+    "latitude": 26.045333799999998,
+    "longitude": 83.2340392,
+    "place_id": "ChIJb3gF1Gu9kTkRf_k1pDTlfPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb3gF1Gu9kTkRf_k1pDTlfPY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:22:37"
+  }
+]

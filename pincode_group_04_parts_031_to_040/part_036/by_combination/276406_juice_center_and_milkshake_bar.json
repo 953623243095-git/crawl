@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Juicy Drink",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "276406",
+    "phone_number": "+91 87914 87515",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FMXP+H37, Tilak Dwar, Mathura, Uttar Pradesh 281001",
+    "area": "Tilak Dwar",
+    "latitude": 27.4989222,
+    "longitude": 77.6851834,
+    "place_id": "ChIJF6-L2BBxczkRXwbDizjHO7k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF6-L2BBxczkRXwbDizjHO7k",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:29:34"
+  },
+  {
+    "business_name": "Punjab Agro Juices Limited",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "276406",
+    "phone_number": "+91 172 464 0060",
+    "website": "https://punjuice.in/our-products.php",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "43 Bus Stand Rd, Sector 43, Chandigarh, 160043",
+    "area": "Sector 43",
+    "latitude": 30.7169429,
+    "longitude": 76.7430564,
+    "place_id": "ChIJAz1f2tLtDzkRRU1KASTzjg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAz1f2tLtDzkRRU1KASTzjg8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:29:35"
+  }
+]

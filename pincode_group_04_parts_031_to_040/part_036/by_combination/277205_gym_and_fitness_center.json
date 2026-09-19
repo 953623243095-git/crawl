@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "24/7 Gym fitness club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "277205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Ahirauli, Jyoti hardware, bazar, Kasia - Ramkola Rd, Kasia Bazaar, Uttar Pradesh 274402",
+    "area": "277205",
+    "latitude": 26.8014959,
+    "longitude": 83.88407029999999,
+    "place_id": "ChIJmfrJU0rtkzkRBVSIaWMNAhk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmfrJU0rtkzkRBVSIaWMNAhk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:45:22"
+  },
+  {
+    "business_name": "DP Fitness Freak Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "277205",
+    "phone_number": "+91 91359 12390",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "se utar ke disa, nehru chok, Bareja, Mane, Bihar 841201",
+    "area": "277205",
+    "latitude": 25.916318699999998,
+    "longitude": 84.5476996,
+    "place_id": "ChIJSUFQMR6VkjkRDVbPLO2MV5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSUFQMR6VkjkRDVbPLO2MV5E",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:45:23"
+  }
+]

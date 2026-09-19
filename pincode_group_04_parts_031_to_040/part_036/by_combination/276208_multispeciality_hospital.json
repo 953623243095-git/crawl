@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Yashlok Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "276208",
+    "phone_number": "+91 83170 39879",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "Lala Lajpatrai Marg, Pura Jodhi, Azamgarh, Uttar Pradesh 276001",
+    "area": "Pura Jodhi",
+    "latitude": 26.0793245,
+    "longitude": 83.1869567,
+    "place_id": "ChIJOYlq0DejkTkRxjF7vqHiD_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOYlq0DejkTkRxjF7vqHiD_A",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:09:00"
+  },
+  {
+    "business_name": "S.S HEART CARE HOSPITAL & MULTI SPECIALITY CENTER",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "276208",
+    "phone_number": "N/A",
+    "website": "https://ssheartcarehospital.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Petrol Pump, Gorakhpur Road, beside Hafizpur Road, Azamgarh, Sikrauna Or Sikraura, Uttar Pradesh 276001",
+    "area": "276208",
+    "latitude": 26.0979209,
+    "longitude": 83.2011287,
+    "place_id": "ChIJc86zdQCjkTkR68Wt77SgfbE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc86zdQCjkTkR68Wt77SgfbE",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:09:01"
+  }
+]

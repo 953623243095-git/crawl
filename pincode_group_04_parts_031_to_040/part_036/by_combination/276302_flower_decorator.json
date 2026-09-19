@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Flowers Decorator.",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "276302",
+    "phone_number": "+91 98350 72016",
+    "website": "http://flowersdecorator.co.in/",
+    "rating": 4,
+    "reviews_count": 16,
+    "address": "Raj Apartment, Bhramsthani Gali, Bailey Road Pin Code - 800014, Street Paya-68, near Ram, Patna, Bihar 800025",
+    "area": "Indrapuri",
+    "latitude": 25.613007,
+    "longitude": 85.08216999999999,
+    "place_id": "ChIJv60U9rxX7TkRzHEikv4hxIk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv60U9rxX7TkRzHEikv4hxIk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:14:56"
+  },
+  {
+    "business_name": "Shahenshah Florist",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "276302",
+    "phone_number": "+91 93351 58959",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 21,
+    "address": "18A, Mahatma Gandhi Marg, near Shahenshah Fast Food Restaurent, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Civil Lines",
+    "latitude": 25.45101,
+    "longitude": 81.83087069999999,
+    "place_id": "ChIJ6UYcCdvKmjkRWhARrX300a0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6UYcCdvKmjkRWhARrX300a0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:14:56"
+  }
+]

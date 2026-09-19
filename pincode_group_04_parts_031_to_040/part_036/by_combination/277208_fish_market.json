@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apna market",
+    "search_category": "Fish Market",
+    "primary_category": "Fishing",
+    "all_categories": "Fishing, Service establishment",
+    "pincode": "277208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Apna market, 277208, India",
+    "area": "277208",
+    "latitude": 25.9660482,
+    "longitude": 84.4583663,
+    "place_id": "ChIJU--HMniOkjkRmJ1O0TWEEcA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU--HMniOkjkRmJ1O0TWEEcA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:48:21"
+  },
+  {
+    "business_name": "Dipu Fish Shop",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "277208",
+    "phone_number": "+91 81021 39663",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dipu Fish Shop, Tajpur, Bihar 841209",
+    "area": "277208",
+    "latitude": 25.903651699999998,
+    "longitude": 84.5055434,
+    "place_id": "ChIJTQjmxjeTkjkRXtXGiAUqs1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTQjmxjeTkjkRXtXGiAUqs1U",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:48:21"
+  }
+]

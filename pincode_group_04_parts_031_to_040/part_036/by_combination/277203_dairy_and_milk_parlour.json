@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pankaj Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "277203",
+    "phone_number": "+91 70717 78747",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "Gandhi Nagar, Ballia, Uttar Pradesh 277001",
+    "area": "Gandhi Nagar",
+    "latitude": 25.7580949,
+    "longitude": 84.1433383,
+    "place_id": "ChIJ8am0299kkjkRAi-aUY_JtEI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8am0299kkjkRAi-aUY_JtEI",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:41:25"
+  },
+  {
+    "business_name": "Suraj Bakers & Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "277203",
+    "phone_number": "+91 84178 59685",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Mahadev Market, Hanumanganj, Jira Basti, Uttar Pradesh 277001",
+    "area": "277203",
+    "latitude": 25.798131599999998,
+    "longitude": 84.13622939999999,
+    "place_id": "ChIJw2nN1lZlkjkRg7oM97609bo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw2nN1lZlkjkRg7oM97609bo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:41:25"
+  }
+]

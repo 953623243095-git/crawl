@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Subham event",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "276404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "362H+HJ, Azamgarh, Mahalia, Uttar Pradesh 276406",
+    "area": "276404",
+    "latitude": 26.0512706,
+    "longitude": 83.2291317,
+    "place_id": "ChIJG9y5BwC9kTkRAU03LDyRfqU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG9y5BwC9kTkRAU03LDyRfqU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:27:12"
+  },
+  {
+    "business_name": "Chauhan Tent House and Services",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "276404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "476H+V9P, Bindmathiya, Chiraiyapar Urf Saraiya, Uttar Pradesh 276404",
+    "area": "276404",
+    "latitude": 26.1122035,
+    "longitude": 83.2784489,
+    "place_id": "ChIJk8FMWpuZkTkRw0saW5Krb7s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk8FMWpuZkTkRw0saW5Krb7s",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:27:15"
+  }
+]

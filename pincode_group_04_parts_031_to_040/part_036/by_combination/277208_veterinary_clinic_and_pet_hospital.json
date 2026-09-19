@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prince Kumar",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Emergency veterinarian service",
+    "all_categories": "Emergency veterinarian service",
+    "pincode": "277208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "WFF5+C89, Khajuhati, Manjhi Paschimi, Bihar 841209",
+    "area": "277208",
+    "latitude": 25.9235477,
+    "longitude": 84.4583644,
+    "place_id": "ChIJW_9Q4TiTkjkRAChTiZzamyw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW_9Q4TiTkjkRAChTiZzamyw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:48:46"
+  },
+  {
+    "business_name": "Animal Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "277208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Q43X+4XF, Kasim Bazar, Bahadurpur, Ballia, Uttar Pradesh 277001",
+    "area": "Bahadurpur",
+    "latitude": 25.752805499999997,
+    "longitude": 84.1499188,
+    "place_id": "ChIJCx4lCtxkkjkRgzgWqzjaz6M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCx4lCtxkkjkRgzgWqzjaz6M",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:48:46"
+  }
+]

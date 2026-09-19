@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahul Mobile",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "276305",
+    "phone_number": "+91 97949 05285",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jaisawal complex, near Police chauki, Sarai Meer, Chak Kamaluddin, Uttar Pradesh 276305",
+    "area": "276305",
+    "latitude": 26.0277122,
+    "longitude": 82.92049349999999,
+    "place_id": "ChIJO9iS9-OzkTkRvu3NOA4DIxo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO9iS9-OzkTkRvu3NOA4DIxo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:20:30"
+  },
+  {
+    "business_name": "Santosh Music Palace",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "276305",
+    "phone_number": "+91 70072 01544",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Taxi Stand, Main Road, near Taxi Stand, Chak Kamaluddin, Sarai Meer, Uttar Pradesh 276305",
+    "area": "276305",
+    "latitude": 26.027829999999998,
+    "longitude": 82.920248,
+    "place_id": "ChIJM6HxxLmzkTkRboKNOcrtWKs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM6HxxLmzkTkRboKNOcrtWKs",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:20:30"
+  }
+]

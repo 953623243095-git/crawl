@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahira grocery & General store",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "276201",
+    "phone_number": "+91 91617 15263",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Katauli kalan, Narayanpur Nevada, Uttar Pradesh 276202",
+    "area": "Katauli kalan",
+    "latitude": 25.7770156,
+    "longitude": 83.0013958,
+    "place_id": "ChIJYaF1ZwHPkTkROWucEzLm-iw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYaF1ZwHPkTkROWucEzLm-iw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 05:55:54"
+  },
+  {
+    "business_name": "V-Mart - Lalganj",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store, Convenience store, Clothing store, Variety store",
+    "pincode": "276201",
+    "phone_number": "+91 72890 06883",
+    "website": "https://stores.vmartretail.com/clothing-mart-lalganj-azamgarh-30893/home",
+    "rating": 4.9,
+    "reviews_count": 12891,
+    "address": "QXWW+FR9, Ground Floor, Lalganj bazar, Lalganj, Uttar Pradesh 276202",
+    "area": "276201",
+    "latitude": 25.7947311,
+    "longitude": 82.9973055,
+    "place_id": "ChIJOes0alnJkTkRztJJlqy4fZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOes0alnJkTkRztJJlqy4fZY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 05:55:55"
+  }
+]
