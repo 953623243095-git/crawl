@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Furniture Store",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "281122",
+    "phone_number": "+91 70787 48206",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sandhan Achhnera, Achhnera, Fatehpura, Uttar Pradesh 283101",
+    "area": "Achhnera",
+    "latitude": 27.225484299999998,
+    "longitude": 77.7116174,
+    "place_id": "ChIJzYyAe4CbczkRHCERM5qrzbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzYyAe4CbczkRHCERM5qrzbM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:35:53"
+  },
+  {
+    "business_name": "Kamla Furniture House",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "281122",
+    "phone_number": "+91 94131 74175",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6GJ9+V6R, New, Cimmco Staff Colony, RIICO Industrial Area, Bharatpur, Rajasthan 321001",
+    "area": "Cimmco Staff Colony, RIICO Industrial Area",
+    "latitude": 27.2323082,
+    "longitude": 77.5179823,
+    "place_id": "ChIJf8Vx4gqjczkRGyZuLcL3zvM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf8Vx4gqjczkRGyZuLcL3zvM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:35:54"
+  }
+]

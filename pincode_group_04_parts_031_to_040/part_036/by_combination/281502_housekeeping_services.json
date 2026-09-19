@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yamuna Kunj Homestay",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "281502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Radhe Dham Colony, near Bus Stand, Govardhan, Uttar Pradesh 281502",
+    "area": "281502",
+    "latitude": 27.4938793,
+    "longitude": 77.4715173,
+    "place_id": "ChIJX01ooZANczkRUazm92By58k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX01ooZANczkRUazm92By58k",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:14:05"
+  },
+  {
+    "business_name": "Home",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Home health care service",
+    "all_categories": "Home health care service",
+    "pincode": "281502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C-04Maharaja, Greens Rd, Salempur Mathura, Mathura, Uttar Pradesh 281004",
+    "area": "281502",
+    "latitude": 27.4769448,
+    "longitude": 77.6335003,
+    "place_id": "ChIJ5UG4MgBzczkROi5COZGvih0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5UG4MgBzczkROi5COZGvih0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:14:08"
+  }
+]

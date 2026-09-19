@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHUBHAM GENERAL STORE",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "277301",
+    "phone_number": "+91 93364 84335",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "MDR150E, Ballia, Uttar Pradesh 277001",
+    "area": "277301",
+    "latitude": 25.7617162,
+    "longitude": 84.1349777,
+    "place_id": "ChIJBx_R9GllkjkRYT47ckquOs4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBx_R9GllkjkRYT47ckquOs4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:02:16"
+  },
+  {
+    "business_name": "Mahadev general store (mohit)",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "277301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mulayam Nagar, garwar road, Ballia, Uttar Pradesh 277001",
+    "area": "277301",
+    "latitude": 25.762296799999998,
+    "longitude": 84.1321634,
+    "place_id": "ChIJc2F6IQBlkjkR7oOpvqHT37U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc2F6IQBlkjkR7oOpvqHT37U",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:02:16"
+  }
+]

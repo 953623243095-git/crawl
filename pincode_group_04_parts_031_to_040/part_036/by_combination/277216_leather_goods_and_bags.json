@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NEX Mall - K Shoe & Bags Services",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Shoe repair shop",
+    "all_categories": "Shoe repair shop, Key duplication service",
+    "pincode": "277216",
+    "phone_number": "N/A",
+    "website": "http://kshoe-bags.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "23 Serangoon Central, #04-44, Singapore 556083",
+    "area": "Serangoon",
+    "latitude": 1.3509338,
+    "longitude": 103.8717532,
+    "place_id": "ChIJTVXnsKYX2jERbjwI5kaDfxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTVXnsKYX2jERbjwI5kaDfxk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:59:11"
+  },
+  {
+    "business_name": "Gs bag workshop",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "277216",
+    "phone_number": "+91 95555 91294",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "320/5, opposite manav sikcha niketan school, barhamsthan, Lanka, Ghazipur, Uttar Pradesh 233001",
+    "area": "barhamsthan, Lanka",
+    "latitude": 25.5643779,
+    "longitude": 83.5481796,
+    "place_id": "ChIJ72t6nQP_kTkRAIo6hcXKojY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ72t6nQP_kTkRAIo6hcXKojY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:59:11"
+  }
+]

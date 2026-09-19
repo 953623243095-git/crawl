@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Godrej service centre",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Air conditioning repair service, Refrigerator repair service, Washer & dryer repair service",
+    "pincode": "281307",
+    "phone_number": "+91 63896 89439",
+    "website": "https://www.godrej.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "1/55, Lohia Park Rd, Vijay Khand, Ujariyaon, Vijay Khand 2, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vijay Khand, Ujariyaon, Vijay Khand 2, Gomti Nagar",
+    "latitude": 26.85782,
+    "longitude": 80.985348,
+    "place_id": "ChIJweUysvL9mzkRLjpB2JGwQ9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJweUysvL9mzkRLjpB2JGwQ9w",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:59:12"
+  },
+  {
+    "business_name": "Ac ,friz,washing machine service",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "281307",
+    "phone_number": "+91 99531 39522",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tigaon Karauli, mod, near Yes Bank, Haryana 121101",
+    "area": "281307",
+    "latitude": 28.3496094,
+    "longitude": 77.3987246,
+    "place_id": "ChIJtWxVMtDFDDkRDYXjFI_nk7I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtWxVMtDFDDkRDYXjFI_nk7I",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:59:12"
+  }
+]

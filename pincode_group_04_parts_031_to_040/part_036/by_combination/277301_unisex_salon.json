@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fresh Look",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "277301",
+    "phone_number": "+91 84297 41176",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Baleshwar Mandir Rd, near chote Hanuman mandir, Japlin Ganj, Bahadurpur, Ballia, Uttar Pradesh 277001",
+    "area": "Japlin Ganj, Bahadurpur",
+    "latitude": 25.7565013,
+    "longitude": 84.15527259999999,
+    "place_id": "ChIJ8-WU7utlkjkRBbDz6Vh_tnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8-WU7utlkjkRBbDz6Vh_tnc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:03:03"
+  },
+  {
+    "business_name": "Nail Affairs",
+    "search_category": "Unisex Salon",
+    "primary_category": "Nail salon",
+    "all_categories": "Nail salon",
+    "pincode": "277301",
+    "phone_number": "+91 83183 82980",
+    "website": "https://thenailaffair.vercel.app/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jaiswal Katra, Vijay Cinema Rd, Bahadurpur, Ballia, Uttar Pradesh 277001",
+    "area": "Bahadurpur",
+    "latitude": 25.7561581,
+    "longitude": 84.1519939,
+    "place_id": "ChIJqYcAwHRlkjkRII7Pn402J68",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqYcAwHRlkjkRII7Pn402J68",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:03:04"
+  }
+]

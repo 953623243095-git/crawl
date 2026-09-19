@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dileep kirana and cold drink store",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "277402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "Brahmpur Road, near of Koila Baba Mandir, Mahuar, Bihar 802112",
+    "area": "277402",
+    "latitude": 25.655403699999997,
+    "longitude": 84.3336625,
+    "place_id": "ChIJg7bF45eHkjkRQH7HDBXLiAU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg7bF45eHkjkRQH7HDBXLiAU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:10:49"
+  },
+  {
+    "business_name": "Shivam Enterprises",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "277402",
+    "phone_number": "+91 85531 51226",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Brahmpur, Mahuar Inglish, Bihar 802112",
+    "area": "277402",
+    "latitude": 25.662812499999998,
+    "longitude": 84.3419375,
+    "place_id": "ChIJAb-zkZOHkjkRTnEdOOQVedA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAb-zkZOHkjkRTnEdOOQVedA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:10:49"
+  }
+]

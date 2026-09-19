@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raviprakash Electric Shop",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "277210",
+    "phone_number": "+91 91256 62034",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No, Barhaj - Deoria Rd, Ballia, Goura, Uttar Pradesh 274601",
+    "area": "277210",
+    "latitude": 26.283630199999998,
+    "longitude": 83.72273609999999,
+    "place_id": "ChIJ5bfsVtnTkzkRItahN9Lzekc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5bfsVtnTkzkRItahN9Lzekc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:52:41"
+  },
+  {
+    "business_name": "CAR AC",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service",
+    "pincode": "277210",
+    "phone_number": "+91 87953 65306",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 10,
+    "address": "Madhav Park, Basti - Bansi Rd, Bansi, Uttar Pradesh 272153",
+    "area": "277210",
+    "latitude": 27.1714779,
+    "longitude": 82.92843909999999,
+    "place_id": "ChIJd3QzP8DXljkRsCDUBovLwvw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd3QzP8DXljkRsCDUBovLwvw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:52:43"
+  }
+]

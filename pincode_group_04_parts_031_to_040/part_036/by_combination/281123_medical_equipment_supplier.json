@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radharani Medical Store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "281123",
+    "phone_number": "+91 80770 99849",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Radharani Medical Store, Mathura, Radha Kund, Uttar Pradesh 281504",
+    "area": "281123",
+    "latitude": 27.5230662,
+    "longitude": 77.49071719999999,
+    "place_id": "ChIJUz8rDekNczkRn-feteJJxtg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUz8rDekNczkRn-feteJJxtg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:37:19"
+  },
+  {
+    "business_name": "Khandelwal medicals",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store, Pharmacy",
+    "pincode": "281123",
+    "phone_number": "N/A",
+    "website": "http://khandelwalmedicals.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sonkh - Kumher Rd, Kumher, Rajasthan 321201",
+    "area": "281123",
+    "latitude": 27.3111727,
+    "longitude": 77.3809318,
+    "place_id": "ChIJbdmXWqGnczkR5MHs4V0m2Nw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbdmXWqGnczkR5MHs4V0m2Nw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:37:20"
+  }
+]

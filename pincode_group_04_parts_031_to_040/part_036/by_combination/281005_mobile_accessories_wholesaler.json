@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ambesh Mobile Shop",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "281005",
+    "phone_number": "+91 82795 94344",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Raghunath Complex, Hanuman mandir, Railway Fatak, Farah, Uttar Pradesh 281122",
+    "area": "281005",
+    "latitude": 27.321406699999997,
+    "longitude": 77.75990829999999,
+    "place_id": "ChIJjwhAY4uDczkRMnipef67OyM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjwhAY4uDczkRMnipef67OyM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:29:20"
+  },
+  {
+    "business_name": "AAA Mobile Shop",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store, Cell phone store, Training center, Wholesaler",
+    "pincode": "281005",
+    "phone_number": "+91 96345 12345",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 58,
+    "address": "Gular Rd, New Ashok Nagar, Aligarh, Uttar Pradesh 202001",
+    "area": "New Ashok Nagar",
+    "latitude": 27.887172,
+    "longitude": 78.06191609999999,
+    "place_id": "ChIJ4wX_sWOkdDkRLum0zu4yGLI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4wX_sWOkdDkRLum0zu4yGLI",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:29:21"
+  }
+]

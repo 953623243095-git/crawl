@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gautam Pet World",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "281305",
+    "phone_number": "+91 99977 49509",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "12, Maruti Estate, Manas Nagar, Pandav Nagar, Jaipur House Colony, Agra, Uttar Pradesh 282010",
+    "area": "Maruti Estate, Manas Nagar, Pandav Nagar, Jaipur House Colony",
+    "latitude": 27.1834447,
+    "longitude": 77.97307889999999,
+    "place_id": "ChIJixJxjqd3dDkRZ6rjI6TNbx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJixJxjqd3dDkRZ6rjI6TNbx0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:54:48"
+  },
+  {
+    "business_name": "कार्ष्णि पहलवान पशु आहार",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store, Wholesaler",
+    "pincode": "281305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MAHAVAN, Hayatpur, Mathura, Uttar Pradesh 281306",
+    "area": "MAHAVAN",
+    "latitude": 27.466348699999998,
+    "longitude": 77.7600865,
+    "place_id": "ChIJxZnOTAB5czkRdcG_PU7rUVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxZnOTAB5czkRdcG_PU7rUVw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:54:48"
+  }
+]

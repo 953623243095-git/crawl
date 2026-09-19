@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Detailing Daddy",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "277213",
+    "phone_number": "+91 73558 87373",
+    "website": "https://www.detailingdaddy.com/",
+    "rating": 3.9,
+    "reviews_count": 19,
+    "address": "Plot No 7, Gali No 3, Rewari - Delhi Rd, Uttam Nagar, Dumawas, Rewari, Haryana 123401",
+    "area": "Uttam Nagar",
+    "latitude": 28.199926299999998,
+    "longitude": 76.6439247,
+    "place_id": "ChIJod8qnWdPDTkRJ3cuOeWg_X8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJod8qnWdPDTkRJ3cuOeWg_X8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:56:01"
+  },
+  {
+    "business_name": "Auto Glam",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto Accessories Wholesaler, Auto body shop, Auto painting, Auto repair shop, Auto window tinting service",
+    "pincode": "277213",
+    "phone_number": "+91 96863 63735",
+    "website": "https://www.agautoglam.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No.01 Bannigida Cross Madhura Colony, Kusugal Rd, opposite Temple, Keshwapur, Hubballi, Karnataka 580023",
+    "area": "Keshwapur",
+    "latitude": 15.363413399999999,
+    "longitude": 75.1553588,
+    "place_id": "ChIJ2_XMQWXZuDsRxnwZYVbstWE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2_XMQWXZuDsRxnwZYVbstWE",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:56:02"
+  }
+]

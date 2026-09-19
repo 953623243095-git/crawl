@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Road Serve",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Service establishment",
+    "pincode": "281403",
+    "phone_number": "N/A",
+    "website": "https://roadserve.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Road Serve, 281403, India",
+    "area": "281403",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJE-oQzcuVrocR4awu5XYx8gg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE-oQzcuVrocR4awu5XYx8gg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:04:28"
+  },
+  {
+    "business_name": "Bainsla crane services",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane service",
+    "all_categories": "Crane service",
+    "pincode": "281403",
+    "phone_number": "+91 70114 11198",
+    "website": "https://bainslacraneservice.justdial.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Agra chowk, Palwal, Khusropur, Haryana 121102",
+    "area": "281403",
+    "latitude": 28.1041314,
+    "longitude": 77.3335931,
+    "place_id": "ChIJtfvS4TPTDDkRzQ1eyAzDoRo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtfvS4TPTDDkRzQ1eyAzDoRo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:04:28"
+  }
+]

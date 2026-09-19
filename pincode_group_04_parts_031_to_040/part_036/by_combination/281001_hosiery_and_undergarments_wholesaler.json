@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M/s.Shyam Hosiery",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "281001",
+    "phone_number": "+91 82184 29944",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Seth Bara, Tilak Dwar, Mathura, Uttar Pradesh 281001",
+    "area": "Tilak Dwar",
+    "latitude": 27.4980916,
+    "longitude": 77.683268,
+    "place_id": "ChIJ-8Akf0NxczkRZdJ-evW6IVM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-8Akf0NxczkRZdJ-evW6IVM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:23:00"
+  },
+  {
+    "business_name": "Raj Collection",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Lingerie store",
+    "pincode": "281001",
+    "phone_number": "+91 98370 14474",
+    "website": "http://www.facebook.com/rajcollectionthecosmeticshop",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "C-10, Link Rd, Krishna Nagar, Mathura, Uttar Pradesh 281001",
+    "area": "Krishna Nagar",
+    "latitude": 27.4999729,
+    "longitude": 77.6604823,
+    "place_id": "ChIJWV9WuWRxczkRUeNH78Xf_Zs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWV9WuWRxczkRUeNH78Xf_Zs",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:23:00"
+  }
+]

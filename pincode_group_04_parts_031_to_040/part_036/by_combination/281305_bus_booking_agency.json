@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satish Bus Service",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "281305",
+    "phone_number": "+91 99170 68622",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "GP75+3F6, Laxmi Nagar, Raya Road, Yamuna Paar, Mathura, Uttar Pradesh 281204",
+    "area": "281305",
+    "latitude": 27.5126617,
+    "longitude": 77.7086455,
+    "place_id": "ChIJKzU9mvlwczkRswBwLNB7AV8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKzU9mvlwczkRswBwLNB7AV8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:55:25"
+  },
+  {
+    "business_name": "NOMADICEXPLORERS1",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "281305",
+    "phone_number": "+91 87557 17370",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Laxmi Nagar, in front of radhika sweets, pratap nagar, Mathura, Uttar Pradesh 281204",
+    "area": "pratap nagar",
+    "latitude": 27.5088959,
+    "longitude": 77.7022083,
+    "place_id": "ChIJnaTLsqRxczkRSBuXyf_2FYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnaTLsqRxczkRSBuXyf_2FYk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:55:28"
+  }
+]

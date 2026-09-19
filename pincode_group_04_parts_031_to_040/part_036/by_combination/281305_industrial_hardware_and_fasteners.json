@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fancy Enterprises",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "281305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6/402A, Sarai Rehman, Raghubir Puri, Aligarh, Uttar Pradesh 202001",
+    "area": "Sarai Rehman, Raghubir Puri",
+    "latitude": 27.890765599999998,
+    "longitude": 78.0678697,
+    "place_id": "ChIJDdCKMOyldDkRX_Y7_b0OW2A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDdCKMOyldDkRX_Y7_b0OW2A",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:56:19"
+  },
+  {
+    "business_name": "Naveen Hardware",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "281305",
+    "phone_number": "+91 98136 15700",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "old, Delhi - Jaipur Expy, Nuh Rural, Nuh, Haryana 122107",
+    "area": "281305",
+    "latitude": 28.1044177,
+    "longitude": 77.0069702,
+    "place_id": "ChIJw0h_L3kyDTkRYbrx4P3o1bw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw0h_L3kyDTkRYbrx4P3o1bw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:56:19"
+  }
+]

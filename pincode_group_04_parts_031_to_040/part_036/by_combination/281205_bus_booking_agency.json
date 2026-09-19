@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarai kale Khan bus adda",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "281205",
+    "phone_number": "+91 87081 22417",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "QPCC+F97, Surir, Uttar Pradesh 281205",
+    "area": "281205",
+    "latitude": 27.771165399999997,
+    "longitude": 77.72092219999999,
+    "place_id": "ChIJvx-mVEhDczkRBYp0IOGw_co",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvx-mVEhDczkRBYp0IOGw_co",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:46:25"
+  },
+  {
+    "business_name": "Vikas pathak",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "281205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VQ4R+WQ3, Ikhu Dahora Road, Ikhu, Uttar Pradesh 281205",
+    "area": "281205",
+    "latitude": 27.8573129,
+    "longitude": 77.7918153,
+    "place_id": "ChIJldCF3EBbczkRBPw0xqnAPr0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJldCF3EBbczkRBPw0xqnAPr0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:46:25"
+  }
+]

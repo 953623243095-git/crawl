@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Tour & Travel Agency",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency, Tour operator",
+    "pincode": "281004",
+    "phone_number": "+91 78955 61551",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Nh:19 Highway, Aduki Rd, Mathura, Uttar Pradesh 281006",
+    "area": "281004",
+    "latitude": 27.4290348,
+    "longitude": 77.6738677,
+    "place_id": "ChIJNyuGwM93czkRB37rrWMLvXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNyuGwM93czkRB37rrWMLvXU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:26:58"
+  },
+  {
+    "business_name": "Blessed Tour & Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Car leasing service, Two Wheeler Rental Agency, Scooter rental service, Tour operator, Taxi service",
+    "pincode": "281004",
+    "phone_number": "+91 96909 55000",
+    "website": "http://www.blessedtourandtravel.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "opp. BSA Office, near Mathura Junction, Dholi Pyau, Mathura, Uttar Pradesh 281001",
+    "area": "Dholi Pyau",
+    "latitude": 27.474108299999997,
+    "longitude": 77.673833,
+    "place_id": "ChIJb-l-K2txczkRQIZWiHnvrWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb-l-K2txczkRQIZWiHnvrWA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:26:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FROZENFOODWALA",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "277304",
+    "phone_number": "+91 99301 10044",
+    "website": "http://www.frozenfoodwala.online/",
+    "rating": 4.5,
+    "reviews_count": 114,
+    "address": "FROZENFOODWALA Mallika hospital building, next to AL MINA INTERNATIONAL HOTEL, Momin Nagar, Jogeshwari West, Mumbai, Maharashtra 400102",
+    "area": "Momin Nagar, Jogeshwari West",
+    "latitude": 19.1372817,
+    "longitude": 72.8465437,
+    "place_id": "ChIJy9f4m6u35zsRV_byC2l0S2A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy9f4m6u35zsRV_byC2l0S2A",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:07:31"
+  },
+  {
+    "business_name": "Green Basket",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier, Fast food restaurant, Food and beverage consultant, Food Processing Company, Frozen food manufacturer, Frozen food store, Wholesale Food Store",
+    "pincode": "277304",
+    "phone_number": "+91 87790 64682",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 115,
+    "address": "Mafco Market, A/4, opp. Yogi Executive, Sector 18, Turbhe, Navi Mumbai, Maharashtra 400705",
+    "area": "Sector 18, Turbhe",
+    "latitude": 19.0704259,
+    "longitude": 73.0072004,
+    "place_id": "ChIJC6XrbYzB5zsRDdhVXiR1W68",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC6XrbYzB5zsRDdhVXiR1W68",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:07:31"
+  }
+]

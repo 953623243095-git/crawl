@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Magic Food Zone",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "281205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": 51,
+    "address": "Yamuna Expy, Salarpur Kalan, Uttar Pradesh 281205",
+    "area": "281205",
+    "latitude": 27.829715099999998,
+    "longitude": 77.7272177,
+    "place_id": "ChIJVZHXjK5DczkRnAQmLAdRIPQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVZHXjK5DczkRnAQmLAdRIPQ",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:45:56"
+  },
+  {
+    "business_name": "cafe chennai",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "281205",
+    "phone_number": "+91 95990 41970",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 97,
+    "address": "4th floor, food court, mall of, Aravalli Golf Course, New Industrial Township, Faridabad, Haryana 121001",
+    "area": "Aravalli Golf Course, New Industrial Township",
+    "latitude": 28.386051799999997,
+    "longitude": 77.299058,
+    "place_id": "ChIJMYWQOqndDDkRz3nYF5HRrVE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMYWQOqndDDkRz3nYF5HRrVE",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:45:56"
+  }
+]

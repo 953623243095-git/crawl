@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govind jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "281005",
+    "phone_number": "+91 97190 48461",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Umrao Ganj Rd, near ladies hospital, Atrauli, Uttar Pradesh 202280",
+    "area": "281005",
+    "latitude": 28.028786,
+    "longitude": 78.2850174,
+    "place_id": "ChIJmWldduS3dDkRHsjjQE050iw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmWldduS3dDkRHsjjQE050iw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:28:23"
+  },
+  {
+    "business_name": "Manohar Lal Sarraf & Sons Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Jeweler",
+    "pincode": "281005",
+    "phone_number": "+91 81717 12121",
+    "website": "http://www.mlvaranium.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Eastern Kutchery Rd, opposite PNB ATM, Mohanpuri, Meerut, Uttar Pradesh 250001",
+    "area": "Mohanpuri",
+    "latitude": 28.982896999999998,
+    "longitude": 77.7087114,
+    "place_id": "ChIJGfLbEftkDDkRgnR1tWP6F3w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGfLbEftkDDkRgnR1tWP6F3w",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:28:24"
+  }
+]

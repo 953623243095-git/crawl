@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naeem Car Mechanic Ujhani",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "281303",
+    "phone_number": "+91 97615 44437",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Ujhani, Uttar Pradesh 243639",
+    "area": "281303",
+    "latitude": 28.0063633,
+    "longitude": 78.9991553,
+    "place_id": "ChIJKTf_sWc4dTkRAmXyundO3y0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKTf_sWc4dTkRAmXyundO3y0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:53:30"
+  },
+  {
+    "business_name": "A to Z Car Workshop",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto radiator repair service",
+    "all_categories": "Auto radiator repair service",
+    "pincode": "281303",
+    "phone_number": "+91 99714 68498",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Jewar, Uttar Pradesh 203135",
+    "area": "281303",
+    "latitude": 28.1058125,
+    "longitude": 77.5570625,
+    "place_id": "ChIJ1Yx8L3zLDDkRBmnNRDLWqbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1Yx8L3zLDDkRBmnNRDLWqbo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:53:30"
+  }
+]

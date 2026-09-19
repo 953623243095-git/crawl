@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sadguru Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "277504",
+    "phone_number": "+91 70842 75764",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 01, near Sabji Mandi, Laxmanpur, Buxar, Bihar 277504",
+    "area": "277504",
+    "latitude": 25.6593906,
+    "longitude": 84.01232069999999,
+    "place_id": "ChIJi6MpoC9zkjkRxTmbwCZz-P4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi6MpoC9zkjkRxTmbwCZz-P4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:19:37"
+  },
+  {
+    "business_name": "Vijay Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "277504",
+    "phone_number": "+91 91408 15042",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "P25C+QQ6, Ghazipur - Hajipur Rd, Narahi, Khamirpur, Uttar Pradesh 277502",
+    "area": "277504",
+    "latitude": 25.709424499999997,
+    "longitude": 84.021894,
+    "place_id": "ChIJ53-o7ZNxkjkRkQJFoW_9Ylk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ53-o7ZNxkjkRkQJFoW_9Ylk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:19:37"
+  }
+]

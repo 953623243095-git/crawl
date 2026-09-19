@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radha Rani Tour & Traval",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "281404",
+    "phone_number": "+91 83848 94450",
+    "website": "https://radharanitravalhub.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sainwa, Naugaon, Uttar Pradesh 281404",
+    "area": "281404",
+    "latitude": 27.7176644,
+    "longitude": 77.59307319999999,
+    "place_id": "ChIJawePlitrczkRZSWP_sV2Eks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJawePlitrczkRZSWP_sV2Eks",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:06:14"
+  },
+  {
+    "business_name": "KASANA TRAVELERS",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "281404",
+    "phone_number": "+91 96340 51914",
+    "website": "http://kasanatravelers.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rajpur Shergarh chhata, Uttar Pradesh 281404",
+    "area": "281404",
+    "latitude": 27.784688,
+    "longitude": 77.6411595,
+    "place_id": "ChIJEZKreaNBczkRC3HAAdSuZB8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEZKreaNBczkRC3HAAdSuZB8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:06:15"
+  }
+]

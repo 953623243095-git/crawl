@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maadhav Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "281403",
+    "phone_number": "+91 81785 67837",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 202,
+    "address": "NH2, Bamnikhera, Haryana 121102",
+    "area": "281403",
+    "latitude": 28.0720273,
+    "longitude": 77.3433175,
+    "place_id": "ChIJxesRKBktczkRTMacEFyQ69E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxesRKBktczkRTMacEFyQ69E",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:03:57"
+  },
+  {
+    "business_name": "Old Rao Hotel Kotwan",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "281403",
+    "phone_number": "+91 82728 26768",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 317,
+    "address": "Kotwan, Kosi, Uttar Pradesh 281403",
+    "area": "281403",
+    "latitude": 27.8498989,
+    "longitude": 77.40715349999999,
+    "place_id": "ChIJC39xCAA7czkRdcexTVdO_As",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC39xCAA7czkRdcexTVdO_As",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:03:57"
+  }
+]

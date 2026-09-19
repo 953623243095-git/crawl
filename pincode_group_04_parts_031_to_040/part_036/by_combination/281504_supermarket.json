@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaswant",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "281504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GJP2+PHW, Bati, Uttar Pradesh 281504",
+    "area": "281504",
+    "latitude": 27.536866999999997,
+    "longitude": 77.60144989999999,
+    "place_id": "ChIJ4wDxZgBzczkR-0H0zJwR7nI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4wDxZgBzczkR-0H0zJwR7nI",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:14:26"
+  },
+  {
+    "business_name": "Rcm store",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "281504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 13,
+    "address": "GM44+F6M, Captain Saheed Santosh Marg, Gopalpur Gaon, Dwarka Enclave, Krishna Nagar, Mathura, Uttar Pradesh 281001",
+    "area": "Gopalpur Gaon, Dwarka Enclave, Krishna Nagar",
+    "latitude": 27.506221099999998,
+    "longitude": 77.6555327,
+    "place_id": "ChIJA6IPo3txczkRb9tyFMfEkQo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA6IPo3txczkRb9tyFMfEkQo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:14:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "One Bite Mathura",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "281005",
+    "phone_number": "+91 99978 99853",
+    "website": "http://zoma.to/r/20415495",
+    "rating": 4.2,
+    "reviews_count": 104,
+    "address": "NH2 Highway, near baba ki bagichi, Tantura, Mathura, Uttar Pradesh 281006",
+    "area": "Tantura",
+    "latitude": 27.4569627,
+    "longitude": 77.6815257,
+    "place_id": "ChIJZ1n4hN5xczkR2GVtFM6v7uI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ1n4hN5xczkR2GVtFM6v7uI",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:28:14"
+  },
+  {
+    "business_name": "Ajit Vegetable",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "281005",
+    "phone_number": "+91 93895 11804",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop No 002, Pani Ki Tanki Ke Pas, Barauli Road, Baldeo, Nagla Ajam Khadar, Uttar Pradesh 281302",
+    "area": "281005",
+    "latitude": 27.3833327,
+    "longitude": 77.8279725,
+    "place_id": "ChIJ7SrRD8iDczkRf7-IgN-zNXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7SrRD8iDczkRf7-IgN-zNXc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:28:15"
+  }
+]

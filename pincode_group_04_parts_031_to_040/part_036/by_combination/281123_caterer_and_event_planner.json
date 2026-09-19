@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rakesh Halwai",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "281123",
+    "phone_number": "+91 84455 52876",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "00, Maholi Rd, Shanti Nagar, Mathura, Uttar Pradesh 281001",
+    "area": "Shanti Nagar",
+    "latitude": 27.480807499999997,
+    "longitude": 77.6575822,
+    "place_id": "ChIJwXZFIkJxczkRAAAAMJ7WEQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwXZFIkJxczkRAAAAMJ7WEQk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:37:56"
+  },
+  {
+    "business_name": "Jaiswal event planner&catering sarvices",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "281123",
+    "phone_number": "+91 87262 84650",
+    "website": "http://www.djstylelmp-com.webnode.in/",
+    "rating": 4.9,
+    "reviews_count": 96,
+    "address": "saidhary road, sardar nagar mohalla, Lakhimpur, Uttar Pradesh 262701",
+    "area": "sardar nagar mohalla",
+    "latitude": 27.967253,
+    "longitude": 80.778813,
+    "place_id": "ChIJwcwIXWXt9CERpRsI-zxBAH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwcwIXWXt9CERpRsI-zxBAH8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:37:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "United Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "281005",
+    "phone_number": "+91 99999 86757",
+    "website": "https://unitedcarsindia.com/",
+    "rating": 4.9,
+    "reviews_count": 781,
+    "address": "nehru apartment, K1/69, Road, opposite South park apartments, near B Block Road, Gurudwara, Chittaranjan Park, New Delhi, Delhi 110019",
+    "area": "Gurudwara, Chittaranjan Park",
+    "latitude": 28.540161299999998,
+    "longitude": 77.2507706,
+    "place_id": "ChIJURtyztDjDDkRX7aR7NvMdRg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJURtyztDjDDkRX7aR7NvMdRg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:28:42"
+  },
+  {
+    "business_name": "Mahindra Kalyan Sales Lip - SUV & Commercial Vehicle Showroom",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "281005",
+    "phone_number": "+91 82911 39324",
+    "website": "https://dealers-auto.mahindra.com/mahindra-kalyan-sales-lip-suv-commercial-vehicle-showroom-kalyan-sales-lip-car-dealer-nagla-jawahar-agra-471317/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Nagla Jawahar, Bhagwan talkies, Plot No. 7/52 -B, Bypass Rd, near Heritage Hospital, Jawaharnagar Colony, Khandari, Agra, Uttar Pradesh 282005",
+    "area": "Jawaharnagar Colony, Khandari",
+    "latitude": 27.2110733,
+    "longitude": 77.99637129999999,
+    "place_id": "ChIJdwGNq353dDkRhEkVvY8CMoM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdwGNq353dDkRhEkVvY8CMoM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:28:42"
+  }
+]

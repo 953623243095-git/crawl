@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suraj Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "281005",
+    "phone_number": "+91 98370 13960",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Township Aurangabad Road, Uttar Pradesh 281006",
+    "area": "Narsipuram Colony",
+    "latitude": 27.4324192,
+    "longitude": 77.6997612,
+    "place_id": "ChIJCcdeeQJ3czkRCxRbiiN-v7E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCcdeeQJ3czkRCxRbiiN-v7E",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:28:13"
+  },
+  {
+    "business_name": "Baby Fast Food And Bakers",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "281005",
+    "phone_number": "+91 94582 43735",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "03, Shanti Nagar Rd, Damodarpur, Aurangabad, Damodar Pura, Mathura, Uttar Pradesh 281001",
+    "area": "Damodarpur, Aurangabad",
+    "latitude": 27.4552095,
+    "longitude": 77.7052671,
+    "place_id": "ChIJV3-RnZF3czkRak56USwKq8E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV3-RnZF3czkRak56USwKq8E",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:28:15"
+  }
+]

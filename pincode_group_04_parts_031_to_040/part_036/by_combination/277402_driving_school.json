@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nagendra Singh",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "277402",
+    "phone_number": "+91 97719 69770",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mahuar, Bihar 802112",
+    "area": "277402",
+    "latitude": 25.666921499999997,
+    "longitude": 84.33596349999999,
+    "place_id": "ChIJJei-X3SHkjkRdyNOL8p9xnY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJei-X3SHkjkRdyNOL8p9xnY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:11:30"
+  },
+  {
+    "business_name": "Samir Motor Driving Training Institute",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "277402",
+    "phone_number": "+91 99733 82039",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Near, GD College Rd, Patel chowk, Begusarai, Bihar 851101",
+    "area": "Patel chowk",
+    "latitude": 25.416982299999997,
+    "longitude": 86.1263388,
+    "place_id": "ChIJh2_sRqAb8jkRloyXIrawW-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh2_sRqAb8jkRloyXIrawW-Y",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:11:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shukla Caterers events Planner",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event venue",
+    "all_categories": "Event venue",
+    "pincode": "281403",
+    "phone_number": "+91 90343 34070",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Old sabji mandi, Shyam Calloni, Hodal, Haryana 121106",
+    "area": "Shyam Calloni",
+    "latitude": 27.897551099999998,
+    "longitude": 77.3841197,
+    "place_id": "ChIJoYeTz5A7czkRSLQpIWuxlls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoYeTz5A7czkRSLQpIWuxlls",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:04:49"
+  },
+  {
+    "business_name": "Bansal Tent And Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "281403",
+    "phone_number": "+91 99963 79379",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Market, Pech Colony, Friends Colony, Hodal, Palwal Delhi, Haryana 121106",
+    "area": "Pech Colony, Friends Colony",
+    "latitude": 27.891851199999998,
+    "longitude": 77.371861,
+    "place_id": "ChIJsVIG8lElczkRZkTH85J8O_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsVIG8lElczkRZkTH85J8O_c",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:04:52"
+  }
+]

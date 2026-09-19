@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Medical store",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "277303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3W4G+84, Sikandarpur, Uttar Pradesh 221715",
+    "area": "277303",
+    "latitude": 26.0646779,
+    "longitude": 83.929433,
+    "place_id": "ChIJB2jBFwA5kjkRvLP7TwGN-JA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB2jBFwA5kjkRvLP7TwGN-JA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:06:01"
+  },
+  {
+    "business_name": "दांया आयुर्वेदिक चिकित्सा व पंचकर्म केंद्र",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic",
+    "pincode": "277303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "J7W5+3QP, Piprali, Rajasthan 332027",
+    "area": "277303",
+    "latitude": 27.6452243,
+    "longitude": 75.2594487,
+    "place_id": "ChIJR9kyWQC5bDkR6UeHaVEIZgY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR9kyWQC5bDkR6UeHaVEIZgY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:06:03"
+  }
+]

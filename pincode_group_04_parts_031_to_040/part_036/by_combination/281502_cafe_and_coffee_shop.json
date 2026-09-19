@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Grill and chill",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Hotel, Restaurant",
+    "pincode": "281502",
+    "phone_number": "+91 75057 25715",
+    "website": "https://grillandchill.inmyarea.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "BPCL petrol pump, Near, Barsana Rd, Deeg Adda, Govardhan, Uttar Pradesh 281001",
+    "area": "Deeg Adda",
+    "latitude": 27.4963949,
+    "longitude": 77.4582714,
+    "place_id": "ChIJ80vwukMPczkRTZ4Dn30BCJo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ80vwukMPczkRTZ4Dn30BCJo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:12:53"
+  },
+  {
+    "business_name": "Back Bencher's Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "281502",
+    "phone_number": "+91 79086 67413",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "New Sadak, Maheshwari Mohalla, Deeg, Dig, Rajasthan 321203",
+    "area": "Maheshwari Mohalla",
+    "latitude": 27.4776578,
+    "longitude": 77.32910679999999,
+    "place_id": "ChIJt5HaBzMFczkRVNcgBJ2P_es",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt5HaBzMFczkRVNcgBJ2P_es",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:12:53"
+  }
+]

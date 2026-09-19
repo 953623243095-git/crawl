@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SINGH SAHAB TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "281006",
+    "phone_number": "+91 90588 45207",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "near Hotel Lalita grand, Aurangabad, Mathura, Gokul Bangar, Uttar Pradesh 281006",
+    "area": "Aurangabad",
+    "latitude": 27.4515696,
+    "longitude": 77.7063027,
+    "place_id": "ChIJ7Uu4N353czkR_E6ZIXyUr7o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Uu4N353czkR_E6ZIXyUr7o",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:30:28"
+  },
+  {
+    "business_name": "SBT Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Airline ticket agency, Tour agency, Tour operator, Tourist information center",
+    "pincode": "281006",
+    "phone_number": "+91 99178 30465",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 7,
+    "address": "Shop No 2, Near State Bank, Junction Rd, Mathura, Uttar Pradesh 281001",
+    "area": "Mayur Vihar",
+    "latitude": 27.488792999999998,
+    "longitude": 77.67770399999999,
+    "place_id": "ChIJL2J8lz9xczkRv_GCS97X-Zk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL2J8lz9xczkRv_GCS97X-Zk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:30:30"
+  }
+]

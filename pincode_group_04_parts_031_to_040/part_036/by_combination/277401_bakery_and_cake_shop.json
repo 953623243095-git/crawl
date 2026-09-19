@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Bakery And Cake Shop",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "277401",
+    "phone_number": "+91 83035 51759",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Sawrubandh, Ballia, Uttar Pradesh 277001",
+    "area": "277401",
+    "latitude": 25.7601485,
+    "longitude": 84.1967702,
+    "place_id": "ChIJUXnXQgBjkjkRCGEAaBWnN8Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUXnXQgBjkjkRCGEAaBWnN8Q",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:09:12"
+  },
+  {
+    "business_name": "R B celebration point",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "277401",
+    "phone_number": "+91 96163 72370",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 18,
+    "address": "Q648+CGR, Beyasi Rd, Akhar, Janari, Uttar Pradesh 277401",
+    "area": "277401",
+    "latitude": 25.7561152,
+    "longitude": 84.21626669999999,
+    "place_id": "ChIJJR7YRwBjkjkRViD3jZaE8as",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJR7YRwBjkjkRViD3jZaE8as",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:09:14"
+  }
+]

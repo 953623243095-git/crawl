@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ardh sainik canteen",
+    "search_category": "Supermarket",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Indian grocery store",
+    "pincode": "277211",
+    "phone_number": "+91 70714 54965",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Q7PX+MM3, Bigahi, Sonwani, Sonbarsa Taluk Dumeria, Uttar Pradesh 277211",
+    "area": "Bigahi",
+    "latitude": 25.7869131,
+    "longitude": 84.29912499999999,
+    "place_id": "ChIJ4_wmb1uJkjkRd1YlN6ix0lU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4_wmb1uJkjkRd1YlN6ix0lU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:53:45"
+  },
+  {
+    "business_name": "Prakash Cold Drinks",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "277211",
+    "phone_number": "+91 99563 82499",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 19,
+    "address": "R8P3+84Q, Baleur, Uttar Pradesh 277211",
+    "area": "277211",
+    "latitude": 25.835843,
+    "longitude": 84.3028724,
+    "place_id": "ChIJg723GCiKkjkR6VmxvJtzw5k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg723GCiKkjkR6VmxvJtzw5k",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:53:46"
+  }
+]

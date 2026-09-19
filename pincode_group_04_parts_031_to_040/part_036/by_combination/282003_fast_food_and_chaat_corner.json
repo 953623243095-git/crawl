@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hunger's Delight",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Food court",
+    "all_categories": "Food court, Cafe",
+    "pincode": "282003",
+    "phone_number": "+91 87911 16649",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 49,
+    "address": "Shop No. 112, Block No. 29, LIC Road, Sanjay Palace, Sanjay Place, Civil Lines, Agra, Uttar Pradesh 282002",
+    "area": "Sanjay Palace, Sanjay Place, Civil Lines",
+    "latitude": 27.200437899999997,
+    "longitude": 78.0050698,
+    "place_id": "ChIJZ4rXtjV3dDkR1n5mjI9e1Ew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ4rXtjV3dDkR1n5mjI9e1Ew",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:20:18"
+  },
+  {
+    "business_name": "Mitra Food Court",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "282003",
+    "phone_number": "+91 75004 48897",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 32,
+    "address": "Central Bank Road, B Block Rd, Agra, Uttar Pradesh 282005",
+    "area": "Ghatwasan, Kamla Nagar",
+    "latitude": 27.212739,
+    "longitude": 78.0180675,
+    "place_id": "ChIJI6eBXZp3dDkRxQl6jFv1d54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI6eBXZp3dDkRxQl6jFv1d54",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:20:20"
+  }
+]

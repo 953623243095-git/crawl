@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gopal Talear",
+    "search_category": "Wellness Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center",
+    "pincode": "277301",
+    "phone_number": "+91 87951 00577",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Gopal, Hanumanganj, Jira Basti, Uttar Pradesh 277001",
+    "area": "277301",
+    "latitude": 25.800861899999997,
+    "longitude": 84.1347736,
+    "place_id": "ChIJsWfHVr5lkjkRWfqpoQpT7eE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsWfHVr5lkjkRWfqpoQpT7eE",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:03:06"
+  },
+  {
+    "business_name": "Ayushman Arogya Mandir",
+    "search_category": "Wellness Center",
+    "primary_category": "Community health center",
+    "all_categories": "Community health center",
+    "pincode": "277301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "R4V9+8WW, Apael, Uttar Pradesh 277304",
+    "area": "277301",
+    "latitude": 25.843845299999998,
+    "longitude": 84.120103,
+    "place_id": "ChIJr-ztcgBnkjkRL0BY3g0Jqvc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr-ztcgBnkjkRL0BY3g0Jqvc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:03:06"
+  }
+]

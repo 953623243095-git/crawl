@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonali's Designer Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "277214",
+    "phone_number": "+91 99379 81818",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 10,
+    "address": "Little Angel's School road, Brajrajnagar, Odisha 768225",
+    "area": "277214",
+    "latitude": 21.8084581,
+    "longitude": 83.92948609999999,
+    "place_id": "ChIJx0BRZi3fIDoRhAYzBOSS42o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx0BRZi3fIDoRhAYzBOSS42o",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:57:32"
+  },
+  {
+    "business_name": "Trendy Collection",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "277214",
+    "phone_number": "+91 98522 66778",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "main road, near SBI ATM, Dakshin Tola, Manjhi Paschimi, Bihar 841313",
+    "area": "Dakshin Tola",
+    "latitude": 25.8377175,
+    "longitude": 84.5750545,
+    "place_id": "ChIJ40iIGACXkjkRjopFyL1sWLU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ40iIGACXkjkRjopFyL1sWLU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:57:33"
+  }
+]

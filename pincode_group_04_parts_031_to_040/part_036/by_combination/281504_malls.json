@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pragati plaza",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "281504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "215, 64, Goverdhan Rd, Dwarka Enclave, Krishna Nagar, Mathura, Uttar Pradesh 281001",
+    "area": "Dwarka Enclave, Krishna Nagar",
+    "latitude": 27.5012083,
+    "longitude": 77.6554101,
+    "place_id": "ChIJiY-uCY5xczkRNC9E75vMPkE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiY-uCY5xczkRNC9E75vMPkE",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:16:12"
+  },
+  {
+    "business_name": "Market-Store",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "281504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "GM45+XPR, Krishnanagar Gandhinagar, Janambhoomi Link Rd, Mathura, Uttar Pradesh 281001",
+    "area": "Gopalpur Gaon, Bank Colony",
+    "latitude": 27.5074932,
+    "longitude": 77.6592761,
+    "place_id": "ChIJnXfcoKJxczkRyChG299CwzY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnXfcoKJxczkRyChG299CwzY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:16:12"
+  }
+]

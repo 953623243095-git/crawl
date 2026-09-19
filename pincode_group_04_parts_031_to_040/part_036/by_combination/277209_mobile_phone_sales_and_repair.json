@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Mobile Shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "277209",
+    "phone_number": "+91 88733 38001",
+    "website": "https://balajimobileshop.in/",
+    "rating": 4.8,
+    "reviews_count": 16,
+    "address": "XG7P+628 Block road, LAL KOTHI, Tajpur Rd, Ekma, Bihar 841208",
+    "area": "277209",
+    "latitude": 25.9629884,
+    "longitude": 84.5350483,
+    "place_id": "ChIJiTxITwfrkjkR23pR8LCLsTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiTxITwfrkjkR23pR8LCLsTU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:51:37"
+  },
+  {
+    "business_name": "Govind Mobile Shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "277209",
+    "phone_number": "+91 72339 32126",
+    "website": "https://govind-mobile-shop.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rampur, Chit, Mahidanawan, Uttar Pradesh 277502",
+    "area": "Chit",
+    "latitude": 25.7232412,
+    "longitude": 84.0382034,
+    "place_id": "ChIJ4wlX429vkjkRWRf9V-GF4yk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4wlX429vkjkRWRf9V-GF4yk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:51:38"
+  }
+]

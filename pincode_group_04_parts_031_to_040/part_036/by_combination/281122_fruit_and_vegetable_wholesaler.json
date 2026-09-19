@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vegetable and fruit store",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable wholesaler",
+    "all_categories": "Fruit and vegetable wholesaler",
+    "pincode": "281122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop no-05, Gokul, yamuna barrage bridge, near Nand chowk, Gokul, Mathura, Mahaban Bangar, Uttar Pradesh 281303",
+    "area": "Gokul",
+    "latitude": 27.442433599999998,
+    "longitude": 77.71936319999999,
+    "place_id": "ChIJc94p4Pd3czkRaVcngw_dQLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc94p4Pd3czkRaVcngw_dQLk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:35:03"
+  },
+  {
+    "business_name": "Digamber Singh Fruit",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "281122",
+    "phone_number": "+91 79062 23096",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1 1, Radha Nagar, Shankar Vihar, Krishna Nagar, New Delhi, Mathura, Delhi 281001",
+    "area": "Radha Nagar, Shankar Vihar, Krishna Nagar",
+    "latitude": 27.502468099999998,
+    "longitude": 77.66024639999999,
+    "place_id": "ChIJN4TAsH9xczkRk9OBLVGAVok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN4TAsH9xczkRk9OBLVGAVok",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:35:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govt. Wine and beer Shop Kumha",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "281204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 44,
+    "address": "HRGQ+P8C, Shivli, Uttar Pradesh 281204",
+    "area": "281204",
+    "latitude": 27.576807799999997,
+    "longitude": 77.83826119999999,
+    "place_id": "ChIJe-xZdLZjczkRCy8bKMxn_r4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe-xZdLZjczkRCy8bKMxn_r4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:44:09"
+  },
+  {
+    "business_name": "Rihan mansuri",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "281204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "881, Ghiya Mandi Rd, Chowk Bazar, Mathura, Uttar Pradesh 281001",
+    "area": "Chowk Bazar",
+    "latitude": 27.503678999999998,
+    "longitude": 77.679924,
+    "place_id": "ChIJ0QESXwBxczkRNcAjcRbf-ss",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0QESXwBxczkRNcAjcRbf-ss",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:44:13"
+  }
+]

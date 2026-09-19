@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wedding Clap",
+    "search_category": "Bridal Wear and Wedding Collection",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Designer Clothing Store, Festival, Jewelry store, Saree Shop, Tailor, Wedding store, Western apparel store",
+    "pincode": "281206",
+    "phone_number": "+91 84483 66554",
+    "website": "http://www.weddingclap.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "B103 Sector 72 Basement Level - Entry from gate no. 1, in front of Spectrum mall marketing office, Sector 72, Noida, Uttar Pradesh 201316",
+    "area": "Block B, Sector 72",
+    "latitude": 28.5805151,
+    "longitude": 77.380162,
+    "place_id": "ChIJyXmmIuTvDDkRHYxF4BuiZDg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyXmmIuTvDDkRHYxF4BuiZDg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:47:49"
+  },
+  {
+    "business_name": "Wedding Wardrobe",
+    "search_category": "Bridal Wear and Wedding Collection",
+    "primary_category": "Bridal shop",
+    "all_categories": "Bridal shop",
+    "pincode": "281206",
+    "phone_number": "+91 73007 50138",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "C-25, Arya Samaj Rd, near Grover sweets, Uttam Nagar West, Block C, Uttam Nagar, Delhi, 110059",
+    "area": "Uttam Nagar West, Block C, Uttam Nagar",
+    "latitude": 28.6209103,
+    "longitude": 77.05988789999999,
+    "place_id": "ChIJhdbsgtIFDTkRj3n1zHZrjg4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhdbsgtIFDTkRj3n1zHZrjg4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:47:52"
+  }
+]

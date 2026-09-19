@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bheem Shop",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Store",
+    "pincode": "281502",
+    "phone_number": "+91 84451 67079",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "1, Sakarwa, Goverdhan Gorwan, Uttar Pradesh 281502",
+    "area": "281502",
+    "latitude": 27.508146,
+    "longitude": 77.4316292,
+    "place_id": "ChIJO1ZVVTEOczkROjn0BZsXBZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO1ZVVTEOczkROjn0BZsXBZU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:12:41"
+  },
+  {
+    "business_name": "Divyansh general store",
+    "search_category": "Provision Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "281502",
+    "phone_number": "+91 99979 77667",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Govardhan, Aanyor, Uttar Pradesh 281502",
+    "area": "281502",
+    "latitude": 27.4940756,
+    "longitude": 77.4650284,
+    "place_id": "ChIJW0eE3vcPczkRBxBmWn9vih4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW0eE3vcPczkRBxBmWn9vih4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:12:42"
+  }
+]

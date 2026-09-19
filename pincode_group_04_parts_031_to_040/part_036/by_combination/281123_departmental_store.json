@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Radha Krishan Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "281123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Natwar Nagar, Hanuman Nagar, Mathura, Uttar Pradesh 281001",
+    "area": "Natwar Nagar, Hanuman Nagar",
+    "latitude": 27.4720363,
+    "longitude": 77.6780555,
+    "place_id": "ChIJ10LGojVxczkRa9h-tOhI1z4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ10LGojVxczkRa9h-tOhI1z4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:36:46"
+  },
+  {
+    "business_name": "prohit provision store",
+    "search_category": "Departmental Store",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "281123",
+    "phone_number": "+91 95572 05032",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Govardhan, Uttar Pradesh 281123",
+    "area": "281123",
+    "latitude": 27.497981499999998,
+    "longitude": 77.46125959999999,
+    "place_id": "ChIJoVv8AX0OczkRAAvi3NU1GHQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoVv8AX0OczkRAAvi3NU1GHQ",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:36:46"
+  }
+]

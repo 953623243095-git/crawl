@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DermaClinix",
+    "search_category": "Hair Transplant Clinic",
+    "primary_category": "Hair transplantation clinic",
+    "all_categories": "Hair transplantation clinic, Dermatologist, Doctor, Ear piercing service, Hair replacement service, Laser hair removal service, Plastic surgeon, Skin care clinic, Surgeon",
+    "pincode": "281201",
+    "phone_number": "+91 88822 27080",
+    "website": "https://www.dermaclinix.in/",
+    "rating": 4.6,
+    "reviews_count": 456,
+    "address": "Ground floor, 29, Ring Rd, Block L, Lajpat Nagar 4, Lajpat Nagar, New Delhi, Delhi 110024",
+    "area": "Block L, Lajpat Nagar 4, Lajpat Nagar",
+    "latitude": 28.5651311,
+    "longitude": 77.2478773,
+    "place_id": "ChIJ02Mg-U_iDDkRoRYESgK4GBc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ02Mg-U_iDDkRoRYESgK4GBc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:39:35"
+  },
+  {
+    "business_name": "LOOKS HAIR STUDIOS",
+    "search_category": "Hair Transplant Clinic",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital",
+    "pincode": "281201",
+    "phone_number": "+91 95099 23434",
+    "website": "http://www.lookshairstudios.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Looks hair studios, saras chowraha, near Solanki HOSPITAL, Pushp Vatika Colony, Bharatpur, Bharatpur Chak 2, Rajasthan 321001",
+    "area": "Pushp Vatika Colony",
+    "latitude": 27.206300799999998,
+    "longitude": 77.5124301,
+    "place_id": "ChIJg6Ve8lWjczkRMR-rJHhnH00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg6Ve8lWjczkRMR-rJHhnH00",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:39:35"
+  }
+]

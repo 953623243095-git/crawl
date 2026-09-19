@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agrawal Watch Company",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "281204",
+    "phone_number": "+91 92587 73914",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 27,
+    "address": "SH 33, Raya, Uttar Pradesh 281204",
+    "area": "281204",
+    "latitude": 27.5554982,
+    "longitude": 77.7923776,
+    "place_id": "ChIJSYC0aid7czkR1aOdDf1CVVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSYC0aid7czkR1aOdDf1CVVA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:44:21"
+  },
+  {
+    "business_name": "Goyal Watch Company",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "281204",
+    "phone_number": "+91 565 250 5357",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "335, Arya Samaj Marg, Tilak Dwar, Mathura, Uttar Pradesh 281001",
+    "area": "Tilak Dwar",
+    "latitude": 27.499115399999997,
+    "longitude": 77.6851775,
+    "place_id": "ChIJDSii3BBxczkRtabyOxiPaCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDSii3BBxczkRtabyOxiPaCk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:44:21"
+  }
+]

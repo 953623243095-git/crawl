@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Federal Bank",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Bank",
+    "all_categories": "Bank, Car finance and loan company, Financial institution, Investment service, Loan agency, Money transfer service, Private Sector Bank, Savings bank",
+    "pincode": "282002",
+    "phone_number": "+91 1800 425 1199",
+    "website": "https://www.federal.bank.in/?utm_source=branch_locator&utm_medium=brand_website",
+    "rating": 4.4,
+    "reviews_count": 49,
+    "address": "Ground Floor, No 6, Mahatma Gandhi Rd, near Malabar Gold & Diamonds, Raghunath Nagar, Civil Lines, Agra, Uttar Pradesh 282002",
+    "area": "Raghunath Nagar, Civil Lines",
+    "latitude": 27.2014046,
+    "longitude": 78.00387169999999,
+    "place_id": "ChIJG4-BvUZ3dDkRkO-GdSCKDJU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG4-BvUZ3dDkRkO-GdSCKDJU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:19:34"
+  },
+  {
+    "business_name": "myDevITSolutions Pvt LTD.",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Website designer",
+    "all_categories": "Website designer, Corporate office",
+    "pincode": "282002",
+    "phone_number": "+91 70600 11667",
+    "website": "https://www.mydevitsolutions.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "UG 2A, Bhagwati Plaza, Sector8, Sector 3B, Avas Vikas Colony, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Sector8, Sector 3B, Avas Vikas Colony, Sikandra",
+    "latitude": 27.1952392,
+    "longitude": 77.9633479,
+    "place_id": "ChIJTYbEM5h3dDkRx3vaRfSQfXQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTYbEM5h3dDkRx3vaRfSQfXQ",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:19:35"
+  }
+]

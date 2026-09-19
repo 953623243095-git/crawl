@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "U.N.Verma Guest House (Saurabh)",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "277301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Q4V5+3F7, Gurwa, Gurwan, Uttar Pradesh 277001",
+    "area": "277301",
+    "latitude": 25.792662699999997,
+    "longitude": 84.1086851,
+    "place_id": "ChIJnac4EwBlkjkR9PTlEXJGnyI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnac4EwBlkjkR9PTlEXJGnyI",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:03:12"
+  },
+  {
+    "business_name": "Kripashankar bhardwaj",
+    "search_category": "Guesthouse",
+    "primary_category": "Lodging",
+    "all_categories": "Lodging",
+    "pincode": "277301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 7,
+    "address": "R4X3+3CF, Sukhpura, Uttar Pradesh 277304",
+    "area": "277301",
+    "latitude": 25.847693399999997,
+    "longitude": 84.10355229999999,
+    "place_id": "ChIJfw8270RnkjkRySGqCLlu7Ew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfw8270RnkjkRySGqCLlu7Ew",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:03:13"
+  }
+]

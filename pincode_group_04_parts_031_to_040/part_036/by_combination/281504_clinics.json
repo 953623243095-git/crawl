@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashish Eye Care & Shree Krishna Chetanya Ultrasound Centre",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Eye care center, Gynecologist",
+    "pincode": "281504",
+    "phone_number": "+91 84392 90108",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop n.o. 9, Shri Radha City, Shopping Plaza, Mathura, Nagla Sadola, Uttar Pradesh 281004",
+    "area": "281504",
+    "latitude": 27.499662899999997,
+    "longitude": 77.6175887,
+    "place_id": "ChIJU3KehYdzczkRJd5O55qO6Xo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU3KehYdzczkRJd5O55qO6Xo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:14:53"
+  },
+  {
+    "business_name": "Surbhi Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Emergency care physician",
+    "all_categories": "Emergency care physician",
+    "pincode": "281504",
+    "phone_number": "+91 70375 32242",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "00, Nh 2, Shashtri Nagar, Mathura, Uttar Pradesh 281001",
+    "area": "Shashtri Nagar",
+    "latitude": 27.509381599999998,
+    "longitude": 77.65284059999999,
+    "place_id": "ChIJlW2vntBzczkR_5bgyYSGGu0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlW2vntBzczkR_5bgyYSGGu0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:14:56"
+  }
+]

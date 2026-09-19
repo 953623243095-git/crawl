@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Shringaar Shop",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "281303",
+    "phone_number": "+91 82731 61918",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gokul, , Mathura, Gokul Rd, Gokul, Mathura, Mahaban Bangar, Uttar Pradesh 281303",
+    "area": "Gokul",
+    "latitude": 27.440954599999998,
+    "longitude": 77.72130589999999,
+    "place_id": "ChIJz95dmKB3czkRhp0-Wpf6xks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz95dmKB3czkRhp0-Wpf6xks",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:53:17"
+  },
+  {
+    "business_name": "Radharani Ithar Bhandar",
+    "search_category": "Boutiques",
+    "primary_category": "Perfume store",
+    "all_categories": "Perfume store",
+    "pincode": "281303",
+    "phone_number": "+91 89418 02696",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "CPQC+G25, Nand Chowk, Gokul, Mathura, Uttar Pradesh 281303",
+    "area": "Gokul",
+    "latitude": 27.438768699999997,
+    "longitude": 77.7201209,
+    "place_id": "ChIJdT6QjRJ3czkRmCbgKwQvMHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdT6QjRJ3czkRmCbgKwQvMHU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:53:19"
+  }
+]

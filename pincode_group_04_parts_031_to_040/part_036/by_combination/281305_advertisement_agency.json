@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanvi Advertising",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "281305",
+    "phone_number": "+91 99970 94077",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Main City, Mathura - Hathras Rd, near Chowk, Civil Lines, Mathura Cantonment, Agra, Mathura, Uttar Pradesh 281001",
+    "area": "Civil Lines, Mathura Cantonment",
+    "latitude": 27.4735312,
+    "longitude": 77.702282,
+    "place_id": "ChIJAQAAANVwczkR-ievLReF1FA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAANVwczkR-ievLReF1FA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:56:25"
+  },
+  {
+    "business_name": "My First Opinion",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "281305",
+    "phone_number": "+91 95207 13731",
+    "website": "https://www.youtube.com/channel/UC6XJ0KS1Dnq68JWQt0QBm-Q",
+    "rating": null,
+    "reviews_count": null,
+    "address": "My First Opinion, 281305, India",
+    "area": "281305",
+    "latitude": 27.4743744,
+    "longitude": 77.6841546,
+    "place_id": "ChIJV87SrlVSFIkRGtCKAyyhrsw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV87SrlVSFIkRGtCKAyyhrsw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:56:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Misthi home decor",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "281307",
+    "phone_number": "+91 98085 81974",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "JP plaza, Agra bypass road, Sadabad, Uttar Pradesh 281306",
+    "area": "281307",
+    "latitude": 27.4329687,
+    "longitude": 78.0360036,
+    "place_id": "ChIJxdFe5caHdDkRwmQY551WCIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxdFe5caHdDkRwmQY551WCIY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:59:13"
+  },
+  {
+    "business_name": "Amit Interior and Decor",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "281307",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop no 10, Shiv market, Sadabad, Uttar Pradesh 281306",
+    "area": "281307",
+    "latitude": 27.4389574,
+    "longitude": 78.03025699999999,
+    "place_id": "ChIJr-ipHwCHdDkRWDSSNHvEZ2M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr-ipHwCHdDkRWDSSNHvEZ2M",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:59:13"
+  }
+]

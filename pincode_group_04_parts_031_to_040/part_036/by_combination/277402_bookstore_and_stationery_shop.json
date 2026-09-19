@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gyan book depot haldi",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "277402",
+    "phone_number": "+91 92367 96718",
+    "website": "https://jsdl.in/RSL-DJN1787037649",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sabji Mandi Rd, Haldi, Bharsouta, Uttar Pradesh 277402",
+    "area": "277402",
+    "latitude": 25.7374749,
+    "longitude": 84.30025429999999,
+    "place_id": "ChIJb-tNQY6HkjkRnpp8cICyZbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb-tNQY6HkjkRnpp8cICyZbM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:11:58"
+  },
+  {
+    "business_name": "Madhav Book Dipo",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "277402",
+    "phone_number": "+91 97931 51180",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Balia - Maji Marg Haldi, Uttar Pradesh 277402",
+    "area": "Pandey Tola",
+    "latitude": 25.7377127,
+    "longitude": 84.2990173,
+    "place_id": "ChIJVVVKANmHkjkRJDx3wl-0nP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVKANmHkjkRJDx3wl-0nP8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:11:58"
+  }
+]

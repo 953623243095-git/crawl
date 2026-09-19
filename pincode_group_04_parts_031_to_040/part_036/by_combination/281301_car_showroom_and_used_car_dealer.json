@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lalit",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "281301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sray sal vahan, Artauni, Uttar Pradesh 281301",
+    "area": "281301",
+    "latitude": 27.425765799999997,
+    "longitude": 77.8481628,
+    "place_id": "ChIJh6wSweR_czkREB-NxNS9Lrg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh6wSweR_czkREB-NxNS9Lrg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:49:48"
+  },
+  {
+    "business_name": "Kalyan Jeep",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer, Jeep dealer",
+    "pincode": "281301",
+    "phone_number": "+91 98370 45973",
+    "website": "https://kalyanauto.jeep-india.com/",
+    "rating": 4.8,
+    "reviews_count": 201,
+    "address": "near New Sabzi Mandi, Sikandra, Agra, Bainpur Mustkil, Uttar Pradesh 282007",
+    "area": "Sikandra",
+    "latitude": 27.220619799999998,
+    "longitude": 77.9303376,
+    "place_id": "ChIJk9xeOft3dDkR2FdDMNF4NrM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk9xeOft3dDkR2FdDMNF4NrM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:49:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "No 1 Murthal Dhaba & Restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "277301",
+    "phone_number": "+91 97185 81825",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Vrindavan Road, Yamuna Expy, Cut, Vrindavan, Uttar Pradesh 281205",
+    "area": "Cut",
+    "latitude": 27.824659399999998,
+    "longitude": 77.7257683,
+    "place_id": "ChIJC0TOpqxDczkR8B_E5WHtFUY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC0TOpqxDczkR8B_E5WHtFUY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:02:20"
+  },
+  {
+    "business_name": "Deepali family restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "277301",
+    "phone_number": "+91 95480 63635",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "NH 2, Agra Bypass, Raipura Jat, Shehzadpur Pauri, Uttar Pradesh 281122",
+    "area": "277301",
+    "latitude": 27.2918125,
+    "longitude": 77.7914375,
+    "place_id": "ChIJ_e4pGgCFczkR4p8PeTpdpxE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_e4pGgCFczkR4p8PeTpdpxE",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:02:20"
+  }
+]

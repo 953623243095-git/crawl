@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Diamond Tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "281205",
+    "phone_number": "+91 98085 31785",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Krishna Nagar, Mathura, Uttar Pradesh 281001",
+    "area": "Krishna Nagar",
+    "latitude": 27.500816999999998,
+    "longitude": 77.65921039999999,
+    "place_id": "ChIJt2PDx3xxczkR07v1F0uylo4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt2PDx3xxczkR07v1F0uylo4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:46:02"
+  },
+  {
+    "business_name": "S. K. Tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "281205",
+    "phone_number": "+91 97593 93479",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Jahidpur Kalan, Uttar Pradesh 203141",
+    "area": "281205",
+    "latitude": 28.190572999999997,
+    "longitude": 77.7551412,
+    "place_id": "ChIJM-VANY2tDDkRRVEDTNv5jBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM-VANY2tDDkRRVEDTNv5jBs",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:46:04"
+  }
+]

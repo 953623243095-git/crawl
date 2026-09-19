@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Studio Earth Architects",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "277209",
+    "phone_number": "+91 75074 87686",
+    "website": "https://studioeartharchitects.com/",
+    "rating": 4.9,
+    "reviews_count": 32,
+    "address": "B, first floor, om baba bhalchandra prasad apartment, opp. gas egency, near tahsildar karyalay, Kankavli, Maharashtra 416602",
+    "area": "Kankavli",
+    "latitude": 16.2608009,
+    "longitude": 73.7133236,
+    "place_id": "ChIJ2-Z0DTYXwDsR6jak5SPJWJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2-Z0DTYXwDsR6jak5SPJWJg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:51:11"
+  },
+  {
+    "business_name": "Satyam Communications",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect",
+    "pincode": "277209",
+    "phone_number": "+91 72959 50988",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Satyam Comunication, Gandhi Maidan, Tari, Bihar 841509",
+    "area": "277209",
+    "latitude": 25.9858272,
+    "longitude": 84.33771929999999,
+    "place_id": "ChIJYQSLnLP1kjkR-5Djz1Vzew0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYQSLnLP1kjkR-5Djz1Vzew0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:51:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dharmshala",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "277301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.6,
+    "reviews_count": 9,
+    "address": "V55W+89H, Mairitar, Uttar Pradesh 277301",
+    "area": "277301",
+    "latitude": 25.8583143,
+    "longitude": 84.19598189999999,
+    "place_id": "ChIJQxCAVT5hkjkRmOXbjdW7bp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQxCAVT5hkjkRmOXbjdW7bp0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:02:32"
+  },
+  {
+    "business_name": "Sai College of Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Education center",
+    "all_categories": "Education center, Service establishment",
+    "pincode": "277301",
+    "phone_number": "N/A",
+    "website": "https://saicollegeofpharmacy.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Sai College of Pharmacy, 277301, India",
+    "area": "277301",
+    "latitude": 25.9396578,
+    "longitude": 83.5626217,
+    "place_id": "ChIJ1ZeMX4kJ6UYRXTUWP1QqzrE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1ZeMX4kJ6UYRXTUWP1QqzrE",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:02:35"
+  }
+]

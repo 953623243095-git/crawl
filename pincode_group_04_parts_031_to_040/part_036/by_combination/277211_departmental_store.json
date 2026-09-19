@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ankit Grocery Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Store",
+    "pincode": "277211",
+    "phone_number": "+91 77030 67056",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "P7JQ 2XP, Paschim Tola, Haldi, Choubey Bala Gangbarar, Uttar Pradesh 277402",
+    "area": "Paschim Tola",
+    "latitude": 25.7273829,
+    "longitude": 84.2981212,
+    "place_id": "ChIJCRI342OHkjkRb5CLoMu4CH4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCRI342OHkjkRb5CLoMu4CH4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:53:46"
+  },
+  {
+    "business_name": "Tirnai Maularai bazaar",
+    "search_category": "Departmental Store",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "277211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Tirnai Moula Rai, Haibatpur, Uttar Pradesh 221716",
+    "area": "277211",
+    "latitude": 26.0410298,
+    "longitude": 83.7051129,
+    "place_id": "ChIJh89heyElkjkRx5Tya4Xr2Hc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh89heyElkjkRx5Tya4Xr2Hc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:53:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Clean",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Laundry",
+    "all_categories": "Laundry",
+    "pincode": "281005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ganesh Kunj, Plot-01, Mohanpur road, Navada, Mathura, Uttar Pradesh 281006",
+    "area": "281005",
+    "latitude": 27.4341764,
+    "longitude": 77.6787563,
+    "place_id": "ChIJ2y4qRVp3czkRu7L7BSF4kEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2y4qRVp3czkRu7L7BSF4kEA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:29:28"
+  },
+  {
+    "business_name": "PRATHAM WASHCARE",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Laundry service",
+    "all_categories": "Laundry service",
+    "pincode": "281005",
+    "phone_number": "N/A",
+    "website": "https://pratham-washcare.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Front Of, Techman City, Centre, Techman Nilgiri, Navada, Mathura, Uttar Pradesh 281006",
+    "area": "Techman Nilgiri",
+    "latitude": 27.4499627,
+    "longitude": 77.6801851,
+    "place_id": "ChIJiWyAQQB3czkRSVXBs9qsGQI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiWyAQQB3czkRSVXBs9qsGQI",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:29:28"
+  }
+]

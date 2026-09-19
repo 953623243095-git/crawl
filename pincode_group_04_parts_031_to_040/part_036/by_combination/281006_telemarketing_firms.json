@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yuvaan Enterprises",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "E - Commerce Agency",
+    "all_categories": "E - Commerce Agency, Wholesaler",
+    "pincode": "281006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "96, Keshav colony nh2, Chaudhary Digamber Singh Nagar, Maholi, Mathura, Uttar Pradesh 281004",
+    "area": "Chaudhary Digamber Singh Nagar",
+    "latitude": 27.4720843,
+    "longitude": 77.6592442,
+    "place_id": "ChIJidAqwUFxczkRQrPYGCsIl3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJidAqwUFxczkRQrPYGCsIl3g",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:31:29"
+  },
+  {
+    "business_name": "Narayan sharma",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Website designer",
+    "all_categories": "Website designer, Internet marketing service, Software company",
+    "pincode": "281006",
+    "phone_number": "+91 88688 17179",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Maholi Rd, Shakti Nagar, Madhavpuri, Mathura, Uttar Pradesh 281001",
+    "area": "Shakti Nagar, Madhavpuri",
+    "latitude": 27.482802999999997,
+    "longitude": 77.663754,
+    "place_id": "ChIJUxBpPltxczkRnYGOyWxPNyw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUxBpPltxczkRnYGOyWxPNyw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:31:30"
+  }
+]

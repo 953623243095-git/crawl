@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guddu General Store",
+    "search_category": "Kids Wear Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Baby store",
+    "pincode": "277506",
+    "phone_number": "+91 93196 22146",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": null,
+    "address": "Guddu General Store, near Primary School, Baheri, Ballia, Uttar Pradesh 277001",
+    "area": "277506",
+    "latitude": 25.7547388,
+    "longitude": 84.1412599,
+    "place_id": "ChIJjbgzPOplkjkR0uwgWrtpIBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjbgzPOplkjkR0uwgWrtpIBk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:21:12"
+  },
+  {
+    "business_name": "ShishuCart",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store, Service establishment",
+    "pincode": "277506",
+    "phone_number": "+91 81274 55857",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "ShishuCart, 277506, India",
+    "area": "277506",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJYYdih8n74UARHYtdQ4WytwQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYYdih8n74UARHYtdQ4WytwQ",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:21:15"
+  }
+]

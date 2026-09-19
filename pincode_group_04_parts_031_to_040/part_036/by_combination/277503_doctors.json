@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om prakash clinic",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "277503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Q3M5+6FX, Mithawar, Uttar Pradesh 277503",
+    "area": "277503",
+    "latitude": 25.7831148,
+    "longitude": 84.0587211,
+    "place_id": "ChIJ414zAwBvkjkRL1QGw3yrVak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ414zAwBvkjkRL1QGw3yrVak",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:18:02"
+  },
+  {
+    "business_name": "Sanjay Medical Hall",
+    "search_category": "Doctors",
+    "primary_category": "Local medical services",
+    "all_categories": "Local medical services",
+    "pincode": "277503",
+    "phone_number": "+91 95550 82133",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "National Highway, near Maa Kapileshwari Bhawani Mandir, Ghazipur, Ballia, Mithawar, Uttar Pradesh 277503",
+    "area": "Ghazipur",
+    "latitude": 25.7845628,
+    "longitude": 84.0643128,
+    "place_id": "ChIJO1gfXVRvkjkRt8GptahDBCw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO1gfXVRvkjkRt8GptahDBCw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:18:03"
+  }
+]

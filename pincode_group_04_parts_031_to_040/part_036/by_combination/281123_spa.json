@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Carecia Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "281123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 16,
+    "address": "GFCR+4HC, Radha Kund, Uttar Pradesh 281504",
+    "area": "281123",
+    "latitude": 27.5203125,
+    "longitude": 77.4913906,
+    "place_id": "ChIJt1DVPwANczkRGykGfRosWVI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt1DVPwANczkRGykGfRosWVI",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:37:42"
+  },
+  {
+    "business_name": "Anubhuti Spa",
+    "search_category": "Spa",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Massage spa, Massage therapist",
+    "pincode": "281123",
+    "phone_number": "+91 75004 20077",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 20,
+    "address": "SHRI Radha Brij Vasundhara Aanyor Govardhan, Govardhan Parikrama Marg, Mathura, Uttar Pradesh 281123",
+    "area": "281123",
+    "latitude": 27.48012,
+    "longitude": 77.454362,
+    "place_id": "ChIJIeXun5EOczkRLBPa85QEhWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIeXun5EOczkRLBPa85QEhWs",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:37:42"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gaju, Uttar Pradesh 281206",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "281206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gaju, Uttar Pradesh",
+    "area": "281206",
+    "latitude": 27.5665092,
+    "longitude": 77.8710285,
+    "place_id": "ChIJY_2nucJ8czkRf6wOC2wbMzQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY_2nucJ8czkRf6wOC2wbMzQ",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:47:33"
+  },
+  {
+    "business_name": "Noor Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "281206",
+    "phone_number": "+91 96471 32742",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 163,
+    "address": "Bansdroni Bridge, Hirendralal Sarkar Rd, Bansdroni, Kolkata, West Bengal 700070",
+    "area": "Bansdroni",
+    "latitude": 22.474097999999998,
+    "longitude": 88.35947619999999,
+    "place_id": "ChIJQSRImf5wAjoRveUYykzQP04",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQSRImf5wAjoRveUYykzQP04",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:47:33"
+  }
+]

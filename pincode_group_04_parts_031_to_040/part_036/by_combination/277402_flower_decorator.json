@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Preeti Flowers",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Cake shop, Dried flower shop, Flower delivery",
+    "pincode": "277402",
+    "phone_number": "+91 89573 45888",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "118/614, near Sanatan Dharam Mandi, Kaushalpuri, Darshan Purwa, Kanpur, Uttar Pradesh 208012",
+    "area": "Kaushalpuri, Darshan Purwa",
+    "latitude": 26.4701569,
+    "longitude": 80.31197949999999,
+    "place_id": "ChIJf1VVVYZHnDkRYbutg388ZqI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf1VVVYZHnDkRYbutg388ZqI",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:11:47"
+  },
+  {
+    "business_name": "Sapna Bag Nursery",
+    "search_category": "Flower Decorator",
+    "primary_category": "Plant nursery",
+    "all_categories": "Plant nursery",
+    "pincode": "277402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 54,
+    "address": "Bagara, Sikandarpur, Uttar Pradesh 277303",
+    "area": "277402",
+    "latitude": 26.0292209,
+    "longitude": 84.05588209999999,
+    "place_id": "ChIJM9sBr2NEkjkRrZiweol_9m8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM9sBr2NEkjkRrZiweol_9m8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:11:49"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AFZAL chicken shop",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Chicken shop",
+    "all_categories": "Chicken shop",
+    "pincode": "277506",
+    "phone_number": "+91 95696 69507",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Ballia Maldepur morha Haibatpur, road, Ballia, Uttar Pradesh 277001",
+    "area": "277506",
+    "latitude": 25.7455692,
+    "longitude": 84.1272941,
+    "place_id": "ChIJmeQ72c5lkjkReK6XukIvcpk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmeQ72c5lkjkReK6XukIvcpk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:21:05"
+  },
+  {
+    "business_name": "Bhojpuriya Dhaba And Chaudhary Line Hotel",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "277506",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 17,
+    "address": "Q4F8+332, Dharampura, baaspali, Middha, Ballia, Uttar Pradesh 277001",
+    "area": "Dharampura, baaspali",
+    "latitude": 25.7726264,
+    "longitude": 84.11513509999999,
+    "place_id": "ChIJ3dCrNZFlkjkRnEtZJg-WzYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3dCrNZFlkjkRnEtZJg-WzYs",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:21:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fancy Bag World",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Bag shop, Handbags shop, Luggage store, Repair service",
+    "pincode": "281201",
+    "phone_number": "+91 98112 92749",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 190,
+    "address": "Pillar no, D-12/204, Sai Baba Market, 409, Bhagwan Mahavir Marg, Sector 7, Rohini, New Delhi, Delhi 110085",
+    "area": "Pocket D-12, Pocket 12, Sector 7, Rohini",
+    "latitude": 28.710663399999998,
+    "longitude": 77.120823,
+    "place_id": "ChIJ1fGWu14BDTkRLczJA79HJhk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1fGWu14BDTkRLczJA79HJhk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:38:57"
+  },
+  {
+    "business_name": "Cabretta leather store",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store, Belt shop, Perfume store, Sunglasses store",
+    "pincode": "281201",
+    "phone_number": "+91 97177 07886",
+    "website": "https://thecabretta.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 4, Prem complex, near Khatri Studio, Krishna Nagar, Mathura, Uttar Pradesh 281001",
+    "area": "Krishna Nagar",
+    "latitude": 27.500337499999997,
+    "longitude": 77.6580767,
+    "place_id": "ChIJPfFJ0FN3czkRF_tCvQznPYc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPfFJ0FN3czkRF_tCvQznPYc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:38:58"
+  }
+]

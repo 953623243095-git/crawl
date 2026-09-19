@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tiwari Medical Store Chhata",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "277210",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "R6FW+J8M, Chaukani, Uttar Pradesh 277210",
+    "area": "277210",
+    "latitude": 25.824096299999997,
+    "longitude": 84.2458037,
+    "place_id": "ChIJJwusByNikjkR-plP-JlK8zc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJwusByNikjkR-plP-JlK8zc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:52:27"
+  },
+  {
+    "business_name": "Riddhi Pharmacy & Pharma Clinic",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "277210",
+    "phone_number": "+91 95650 70108",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Chhitauni, Chhata, Uttar Pradesh 277210",
+    "area": "277210",
+    "latitude": 25.8159933,
+    "longitude": 84.2669001,
+    "place_id": "ChIJ2T8woS5jkjkR89j2mawl9UQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2T8woS5jkjkR89j2mawl9UQ",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:52:28"
+  }
+]

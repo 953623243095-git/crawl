@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Grano Foods Industries Private Limited",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food manufacturer",
+    "all_categories": "Frozen food manufacturer",
+    "pincode": "281206",
+    "phone_number": "+91 99907 53456",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "K-260, Stite-5, Industrial Area, Kasna, Greater Noida, Uttar Pradesh 201312",
+    "area": "Stite-5, Industrial Area, Kasna",
+    "latitude": 28.4255772,
+    "longitude": 77.5387093,
+    "place_id": "ChIJg1d88jrADDkRcUrwk-mreAw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg1d88jrADDkRcUrwk-mreAw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:47:35"
+  },
+  {
+    "business_name": "Meat on Ice",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, Restaurant",
+    "pincode": "281206",
+    "phone_number": "+91 78270 46520",
+    "website": "https://meatonice.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Sector 1, Vasundhara, Ghaziabad, Uttar Pradesh 201012",
+    "area": "Sector 1, Vasundhara",
+    "latitude": 28.6668414,
+    "longitude": 77.3906705,
+    "place_id": "ChIJOQHiqfL7DDkRYko4e26N-PU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOQHiqfL7DDkRYko4e26N-PU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:47:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bigness Enterprises",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service, Air compressor repair service, Air conditioning contractor, Air conditioning store, Air conditioning system supplier, Auto air conditioning service",
+    "pincode": "277403",
+    "phone_number": "+91 91828 62920",
+    "website": "https://bignessentereprises.in/",
+    "rating": 4.9,
+    "reviews_count": 248,
+    "address": "HIG-S/10, near Tech Mahindra Lane, Maitri Vihar, Rail Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751023",
+    "area": "Maitri Vihar, Rail Vihar, Chandrasekharpur",
+    "latitude": 20.3112606,
+    "longitude": 85.81222149999999,
+    "place_id": "ChIJdwEydiDwTaERlQmYuG42qdc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdwEydiDwTaERlQmYuG42qdc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:13:17"
+  },
+  {
+    "business_name": "HMK service Centre",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Air conditioning repair service, Refrigerator repair service, Small appliance repair service, Washer & dryer store",
+    "pincode": "277403",
+    "phone_number": "+91 97404 08485",
+    "website": "https://www.hmkservicecentre.co.in/",
+    "rating": 4.9,
+    "reviews_count": 277,
+    "address": "Railway Station Rd, opposite Hubli, 3rd grade, Krupa Nagar, Hubballi, Karnataka 580020",
+    "area": "3rd grade, Krupa Nagar",
+    "latitude": 15.346711299999999,
+    "longitude": 75.15675519999999,
+    "place_id": "ChIJ01PtCYXZuDsR3agsfyddIhk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ01PtCYXZuDsR3agsfyddIhk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:13:17"
+  }
+]

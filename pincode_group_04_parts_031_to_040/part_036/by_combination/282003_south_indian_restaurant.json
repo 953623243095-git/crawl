@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Rameshwaram South Flavours",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "282003",
+    "phone_number": "+91 89096 20143",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 23,
+    "address": "F 258, opp. Janak Park, E Block, Ghatwasan, Kamla Nagar, Agra, Uttar Pradesh 282005",
+    "area": "E Block, Ghatwasan, Kamla Nagar",
+    "latitude": 27.2143715,
+    "longitude": 78.0229308,
+    "place_id": "ChIJR-lvcolxdDkR3z-qrxhC6Zo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR-lvcolxdDkR3z-qrxhC6Zo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:20:16"
+  },
+  {
+    "business_name": "Shri Maharaja Dosa Hut",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, South Indian restaurant",
+    "pincode": "282003",
+    "phone_number": "+91 93198 40380",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 19,
+    "address": "Shop No 1, 6B, St Johns Crossing, Raja ki Mandi, Agra, Uttar Pradesh 282002",
+    "area": "Raja ki Mandi",
+    "latitude": 27.1921058,
+    "longitude": 77.99977899999999,
+    "place_id": "ChIJB3JrFjd3dDkRTlNgsD4wNhk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB3JrFjd3dDkRTlNgsD4wNhk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:20:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pradeep Readymade Garment Store",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "281202",
+    "phone_number": "+91 89546 96705",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "00, Mant Rd, Raya, Mathura, Uttar Pradesh 281202",
+    "area": "281202",
+    "latitude": 27.6371193,
+    "longitude": 77.713168,
+    "place_id": "ChIJRWFR8DxvczkRAAAAsIZP100",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRWFR8DxvczkRAAAAsIZP100",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:40:35"
+  },
+  {
+    "business_name": "Prince cloth store",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "281202",
+    "phone_number": "+91 73514 16451",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Janta school market, Near, road, Naseeti, Mant, Uttar Pradesh 281202",
+    "area": "281202",
+    "latitude": 27.6374009,
+    "longitude": 77.7132297,
+    "place_id": "ChIJqxJPYgtvczkRyFgb0Yw08BY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqxJPYgtvczkRyFgb0Yw08BY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:40:35"
+  }
+]

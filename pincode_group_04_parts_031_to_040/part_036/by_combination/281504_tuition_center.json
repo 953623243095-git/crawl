@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Computer coaching center",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "281504",
+    "phone_number": "+91 63670 43709",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ratanlal phool katori school, Goverdhan Rd, Mathura, Uttar Pradesh 281004",
+    "area": "281504",
+    "latitude": 27.5141046,
+    "longitude": 77.615872,
+    "place_id": "ChIJ1QWM49hzczkRUPr3B1eqjec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1QWM49hzczkRUPr3B1eqjec",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:15:39"
+  },
+  {
+    "business_name": "Edu Empire Coaching centre",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "281504",
+    "phone_number": "+91 97604 77660",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "GM76+2H7, Mathura, Uttar Pradesh 281001",
+    "area": "281504",
+    "latitude": 27.5124703,
+    "longitude": 77.661507,
+    "place_id": "ChIJn6rjZABxczkRlJyArUqt_yY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn6rjZABxczkRlJyArUqt_yY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:15:42"
+  }
+]

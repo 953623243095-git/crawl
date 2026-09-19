@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radheshyam keshari General Store",
+    "search_category": "General Store",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "277216",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "durga mandir, near shakti Dham, Lalganj, Surya Bhanpur, Uttar Pradesh 277216",
+    "area": "277216",
+    "latitude": 25.7203172,
+    "longitude": 84.4786762,
+    "place_id": "ChIJ58QV-YabkjkRwJCWE36iUTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ58QV-YabkjkRwJCWE36iUTU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:58:54"
+  },
+  {
+    "business_name": "Vikash General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "277216",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": 6,
+    "address": "Post, Vill, Bahuara, Uttar Pradesh 277216",
+    "area": "Vill",
+    "latitude": 25.7183437,
+    "longitude": 84.4681075,
+    "place_id": "ChIJVdSQ_nybkjkRR_Ew6cxQCkY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVdSQ_nybkjkRR_Ew6cxQCkY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:58:54"
+  }
+]

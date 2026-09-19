@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nachiket School",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Nursery school",
+    "all_categories": "Nursery school",
+    "pincode": "281504",
+    "phone_number": "+91 82733 36481",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 2,
+    "address": "Krishna Nagar, Mathura, Uttar Pradesh 281001",
+    "area": "Krishna Nagar",
+    "latitude": 27.4983702,
+    "longitude": 77.6596555,
+    "place_id": "ChIJqaqqX2RxczkRV_te4Vz1NQM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqaqqX2RxczkRV_te4Vz1NQM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:15:36"
+  },
+  {
+    "business_name": "Curious Minds Playschool",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "281504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GM37+C2P, Bank Colony, Geeta Enclave, Mathura, Uttar Pradesh 281001",
+    "area": "Bank Colony, Geeta Enclave",
+    "latitude": 27.5035985,
+    "longitude": 77.6625686,
+    "place_id": "ChIJd6w5IQBxczkR9Di7wQ7dVuA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd6w5IQBxczkR9Di7wQ7dVuA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:15:36"
+  }
+]

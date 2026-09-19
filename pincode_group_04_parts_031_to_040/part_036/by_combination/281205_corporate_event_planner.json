@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "281205",
+    "phone_number": "N/A",
+    "website": "https://gaisa.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "events, 281205, India",
+    "area": "281205",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJw0jCmGzjLIIRR_3-jRbVEKw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw0jCmGzjLIIRR_3-jRbVEKw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:46:51"
+  },
+  {
+    "business_name": "AbhiRudra Events & Celebrity Management",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, DJ service, Event planner, Party planner, Tent House Supplier, Wedding planner, Wedding service, Wedding venue",
+    "pincode": "281205",
+    "phone_number": "+91 76652 77111",
+    "website": "http://abhirudraevents.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "First Floor, Sukham Tower, S-121, Alwar Bypass Rd, opp. MPS School, near Tata Showroom, Bhagat Singh Colony, U.I.T., Bhiwadi, Rajasthan 301019",
+    "area": "Bhagat Singh Colony, U.I.T.",
+    "latitude": 28.2080724,
+    "longitude": 76.8087539,
+    "place_id": "ChIJjZIo0w1IDTkR26lITreaR_I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjZIo0w1IDTkR26lITreaR_I",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:46:52"
+  }
+]

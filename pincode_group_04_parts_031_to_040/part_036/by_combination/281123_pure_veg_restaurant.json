@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gokul Delicacy",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "281123",
+    "phone_number": "+91 75796 22333",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Gokul complex, deeg road, Govardhan, Mathura, Uttar Pradesh 281502",
+    "area": "281123",
+    "latitude": 27.495377299999998,
+    "longitude": 77.4579083,
+    "place_id": "ChIJn7fVANwPczkRwhorLGQr2cA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn7fVANwPczkRwhorLGQr2cA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:36:54"
+  },
+  {
+    "business_name": "Brajdham Sweets and Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Beverage Store, Chinese restaurant, Chocolate shop, Fast food restaurant, Indian restaurant, Soup shop, South Indian restaurant",
+    "pincode": "281123",
+    "phone_number": "+91 90121 12312",
+    "website": "https://brajdhamsweetsandrestaurant.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "in front of PWD Gate number 2, Barsana, Uttar Pradesh 281405",
+    "area": "281123",
+    "latitude": 27.650176199999997,
+    "longitude": 77.37869529999999,
+    "place_id": "ChIJGRW9IGAXczkR5mCgy_NIaZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGRW9IGAXczkR5mCgy_NIaZs",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:36:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kanchan cosmetics",
+    "search_category": "Organic Food Store",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "281303",
+    "phone_number": "+91 93686 12487",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gokul bairaj, rd, Ronchi Bangar, Narsipuram Colony, Mathura, Uttar Pradesh 281006",
+    "area": "Ronchi Bangar, Narsipuram Colony",
+    "latitude": 27.4350912,
+    "longitude": 77.7045,
+    "place_id": "ChIJxZzkNaB3czkRz5so5beEAH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxZzkNaB3czkRz5so5beEAH8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:52:55"
+  },
+  {
+    "business_name": "Shri Hari Natural Farming Products Centre",
+    "search_category": "Organic Food Store",
+    "primary_category": "Natural goods store",
+    "all_categories": "Natural goods store",
+    "pincode": "281303",
+    "phone_number": "+91 99105 14018",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Village Katiyavali, Post, Katiyvali, Uttar Pradesh 203391",
+    "area": "281303",
+    "latitude": 28.3521994,
+    "longitude": 78.14259059999999,
+    "place_id": "ChIJ2RNy-ApFCzkR6QU3BwoVq5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2RNy-ApFCzkR6QU3BwoVq5o",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:52:55"
+  }
+]

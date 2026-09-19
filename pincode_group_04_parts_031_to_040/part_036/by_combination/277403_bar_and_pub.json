@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Di",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "277403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q9GC+J95, Majhauwa, Dighar, Rudrapur, Uttar Pradesh 277403",
+    "area": "Majhauwa",
+    "latitude": 25.776581699999998,
+    "longitude": 84.37090669999999,
+    "place_id": "ChIJP_PyOwCPkjkRglgIKEc3r3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP_PyOwCPkjkRglgIKEc3r3I",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:12:42"
+  },
+  {
+    "business_name": "Shiv shanker baba bhavan",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "277403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q9GF+F2M, Dighar, Rudrapur, Uttar Pradesh 277403",
+    "area": "277403",
+    "latitude": 25.776204099999998,
+    "longitude": 84.3725565,
+    "place_id": "ChIJY6OyEaiPkjkRpGMLOWkJkpQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY6OyEaiPkjkRpGMLOWkJkpQ",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:12:42"
+  }
+]

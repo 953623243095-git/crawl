@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LIC Agent Office",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "277213",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W5H6+M5H, Chor Kand, Uttar Pradesh 277213",
+    "area": "277213",
+    "latitude": 25.9291873,
+    "longitude": 84.1604826,
+    "place_id": "ChIJv2AhHABdkjkRVEC3X_kMPU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv2AhHABdkjkRVEC3X_kMPU4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:56:45"
+  },
+  {
+    "business_name": "Insurance Advisor Nikita",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Service establishment",
+    "pincode": "277213",
+    "phone_number": "N/A",
+    "website": "https://sites.google.com/view/insurancegurunikita/home",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Insurance Advisor Nikita, 277213, India",
+    "area": "277213",
+    "latitude": 27.213210999999998,
+    "longitude": 77.94479299999999,
+    "place_id": "ChIJLXlgFoEUCQIR0TUY448Vt0c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLXlgFoEUCQIR0TUY448Vt0c",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:56:45"
+  }
+]

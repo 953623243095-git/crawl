@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khushi general store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "281502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GF24+73H, Mathura, Uttar Pradesh 281502",
+    "area": "281502",
+    "latitude": 27.500698,
+    "longitude": 77.45523899999999,
+    "place_id": "ChIJrYssaY0PczkRANurXYUxsPU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrYssaY0PczkRANurXYUxsPU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:12:39"
+  },
+  {
+    "business_name": "Jitendra Sen",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "281502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 450, Bundi Goverdhan Road, Mathura, Devseras, Uttar Pradesh 281502",
+    "area": "281502",
+    "latitude": 27.526395899999997,
+    "longitude": 77.4027114,
+    "place_id": "ChIJmfU_nFQPczkR5LTV2hoiNio",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmfU_nFQPczkR5LTV2hoiNio",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:12:41"
+  }
+]

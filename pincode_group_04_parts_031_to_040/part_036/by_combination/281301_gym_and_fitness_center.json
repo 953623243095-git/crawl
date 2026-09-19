@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CMS Fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "281301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "CR88+MVV, Baldeo, Chhabirau, Uttar Pradesh 281301",
+    "area": "281301",
+    "latitude": 27.4167332,
+    "longitude": 77.817176,
+    "place_id": "ChIJfU-CLQB5czkRKIxVpt2tDOQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfU-CLQB5czkRKIxVpt2tDOQ",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:49:45"
+  },
+  {
+    "business_name": "Shri Ram health club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "281301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "CRCJ+3M6, Ridha Baldeo, Uttar Pradesh 281301",
+    "area": "281301",
+    "latitude": 27.4201539,
+    "longitude": 77.831631,
+    "place_id": "ChIJH-PEBwB5czkRdodAa9wsXGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH-PEBwB5czkRdodAa9wsXGY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:49:45"
+  }
+]

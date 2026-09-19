@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Oeconomicus Consultant LLP",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant, Accounting firm, Bookkeeping service, Consultant, Tax preparation, Tax preparation service",
+    "pincode": "281201",
+    "phone_number": "+91 99997 10161",
+    "website": "https://www.oeconomicus.in/",
+    "rating": 5,
+    "reviews_count": 118,
+    "address": "4th Floor, ARV Park, H-28, #405, H Block, Sector 63, Noida, Uttar Pradesh 201301",
+    "area": "H Block, Sector 63",
+    "latitude": 28.6299407,
+    "longitude": 77.3779222,
+    "place_id": "ChIJbVe1vn79DDkRyB5-lmz4Ti8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbVe1vn79DDkRyB5-lmz4Ti8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:39:55"
+  },
+  {
+    "business_name": "JJJ And Company LLP",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant, Accounting firm, Business management consultant, Tax preparation service",
+    "pincode": "281201",
+    "phone_number": "+91 99993 45811",
+    "website": "https://charteredaccountant.org.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "First Floor, D-29, Block C, Acharya Niketan, Mayur Vihar, Delhi, 110091",
+    "area": "Block C, Acharya Niketan, Mayur Vihar",
+    "latitude": 28.6088775,
+    "longitude": 77.2951641,
+    "place_id": "ChIJmYSmliHlDDkR33G4SBjxtk0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmYSmliHlDDkR33G4SBjxtk0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:39:56"
+  }
+]

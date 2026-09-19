@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "281204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "FMWM+PR6, Agra Road, opposite Bada Gandhi Ashram, Mathura, Uttar Pradesh 281001",
+    "area": "Choubey Para",
+    "latitude": 27.496789699999997,
+    "longitude": 77.6845285,
+    "place_id": "ChIJifJn2xZxczkRh7X4_FeobKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJifJn2xZxczkRh7X4_FeobKg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:44:22"
+  },
+  {
+    "business_name": "Guru Kripa Optical And Watch",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "281204",
+    "phone_number": "+91 93894 91048",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shyamlal Market, Katra Bazar, Raya, Uttar Pradesh 281204",
+    "area": "Katra Bazar",
+    "latitude": 27.555259699999997,
+    "longitude": 77.79079879999999,
+    "place_id": "ChIJlaX88Il7czkR7kkmwD3pcoc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlaX88Il7czkR7kkmwD3pcoc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:44:22"
+  }
+]

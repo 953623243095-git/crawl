@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pawan Singh",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "281502",
+    "phone_number": "+91 82735 65601",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Barsana Rd Govardhan, To, Barsana, Mathura, Uttar Pradesh 281502",
+    "area": "To",
+    "latitude": 27.502370799999998,
+    "longitude": 77.459329,
+    "place_id": "ChIJKV-o2xkPczkRQlFrW7aJdMQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKV-o2xkPczkRQlFrW7aJdMQ",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:13:23"
+  },
+  {
+    "business_name": "Baba",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "281502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H9WF+M29 Gandak mohla, Hathiya, Uttar Pradesh 281405",
+    "area": "281502",
+    "latitude": 27.596659,
+    "longitude": 77.3726192,
+    "place_id": "ChIJd4nG250bczkRihidCXdQ0WM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd4nG250bczkRihidCXdQ0WM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:13:23"
+  }
+]

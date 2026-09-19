@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shyam Baba Trader's",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler",
+    "pincode": "281121",
+    "phone_number": "+91 97586 98237",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gopi Nath, 099, Raman Reiti, Vrindavan, Uttar Pradesh 281121",
+    "area": "Raman Reiti",
+    "latitude": 27.5844041,
+    "longitude": 77.7010569,
+    "place_id": "ChIJ9fDyxhBvczkRBHNThzI4OZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9fDyxhBvczkRBHNThzI4OZc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:34:46"
+  },
+  {
+    "business_name": "edibleclays",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Scrapbooking store",
+    "all_categories": "Scrapbooking store",
+    "pincode": "281121",
+    "phone_number": "+91 70551 78500",
+    "website": "https://edibleclays.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "House 12, Madhuvan Colony, Sunrakh Rd, Vrindavan, Sunrakh Bangar, Uttar Pradesh 281121",
+    "area": "281121",
+    "latitude": 27.5797568,
+    "longitude": 77.66239039999999,
+    "place_id": "ChIJyzsBbTRvczkR9N11BOzL59o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyzsBbTRvczkR9N11BOzL59o",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:34:46"
+  }
+]

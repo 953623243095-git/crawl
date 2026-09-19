@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Brij Cafe, Pure Veg Family Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "281501",
+    "phone_number": "+91 80761 77599",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Radha Kund, Basonti, Uttar Pradesh 281504",
+    "area": "281501",
+    "latitude": 27.530113399999998,
+    "longitude": 77.4968185,
+    "place_id": "ChIJM7mK-AgNczkRTm2KJD5wZ2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM7mK-AgNczkRTm2KJD5wZ2Q",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:11:03"
+  },
+  {
+    "business_name": "The Foodies Dice",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "281501",
+    "phone_number": "+91 89235 64428",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 59,
+    "address": "near SBI bank, Mathura, Uttar Pradesh 281504",
+    "area": "281501",
+    "latitude": 27.521409199999997,
+    "longitude": 77.4885924,
+    "place_id": "ChIJSZipkOINczkRRW-0MmYFwEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSZipkOINczkRRW-0MmYFwEA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:11:03"
+  }
+]

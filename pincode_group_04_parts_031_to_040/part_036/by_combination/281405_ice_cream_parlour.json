@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "savir milk dery",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "281405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H9XG+82Q, Hathiya, Uttar Pradesh 281405",
+    "area": "281405",
+    "latitude": 27.5983652,
+    "longitude": 77.37510739999999,
+    "place_id": "ChIJM2rCYQAbczkRmb0tR8CsYfM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM2rCYQAbczkRmb0tR8CsYfM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:07:32"
+  },
+  {
+    "business_name": "Janu",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Store",
+    "pincode": "281405",
+    "phone_number": "N/A",
+    "website": "https://twitter.com/TiketRakesh?t=UipAH11zZtTIa0wbQ5Pe9g&s=09",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "mehroli, Janu, Uttar Pradesh 281502",
+    "area": "281405",
+    "latitude": 27.584088899999998,
+    "longitude": 77.3611549,
+    "place_id": "ChIJd1-l5BcbczkRX8Lola7CNvU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd1-l5BcbczkRX8Lola7CNvU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:07:32"
+  }
+]

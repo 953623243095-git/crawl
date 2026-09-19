@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Campus Exclusive Store",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Sportswear store, Store",
+    "pincode": "277216",
+    "phone_number": "+91 8071 178 281",
+    "website": "https://stores.campusshoes.com/bihar/patna/campus-exclusive-store-bakarganj-bari-path",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ward Number 38, Circle Number 13, Holding Number - 146/90, Bari Path, Dariyapur Gola, Salimpur Ahra, Bakarganj, Patna, Bihar 800004",
+    "area": "Dariyapur Gola, Salimpur Ahra, Bakarganj",
+    "latitude": 25.615398,
+    "longitude": 85.14990639999999,
+    "place_id": "ChIJHct0BKBZ7TkRonADjcvEF_I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHct0BKBZ7TkRonADjcvEF_I",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:59:09"
+  },
+  {
+    "business_name": "Harsh Foot Wear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "277216",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/harshstore_/",
+    "rating": 4.5,
+    "reviews_count": 13,
+    "address": "Mahabaleshwar, Maharashtra 412806",
+    "area": "277216",
+    "latitude": 17.9250673,
+    "longitude": 73.65767559999999,
+    "place_id": "ChIJYS8Ra1JlwjsR5xwyH-uhcO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYS8Ra1JlwjsR5xwyH-uhcO0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:59:10"
+  }
+]

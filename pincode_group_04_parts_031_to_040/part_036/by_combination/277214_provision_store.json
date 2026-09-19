@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alagu General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "277214",
+    "phone_number": "+91 63863 22514",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chand Diar, Uttar Pradesh 277214",
+    "area": "277214",
+    "latitude": 25.8046033,
+    "longitude": 84.5753017,
+    "place_id": "ChIJy9K0xFaXkjkRFUfRgzhBmv4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy9K0xFaXkjkRFUfRgzhBmv4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:57:09"
+  },
+  {
+    "business_name": "Suraj General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Service establishment",
+    "pincode": "277214",
+    "phone_number": "+91 87094 58778",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Suraj General Store, 277214, India",
+    "area": "277214",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJiWuozAKVkjkRtwFGq3lRYls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiWuozAKVkjkRtwFGq3lRYls",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:57:12"
+  }
+]

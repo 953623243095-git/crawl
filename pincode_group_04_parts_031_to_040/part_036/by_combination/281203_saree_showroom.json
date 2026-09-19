@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhardwaj Saree Showroom",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "281203",
+    "phone_number": "+91 99979 55137",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Men Bajaar, Naujhil, Nauhjheel Banger, Uttar Pradesh 281203",
+    "area": "281203",
+    "latitude": 27.8482958,
+    "longitude": 77.6486542,
+    "place_id": "ChIJr3pBZPNHczkRCOAXIClYtA0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr3pBZPNHczkRCOAXIClYtA0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:42:26"
+  },
+  {
+    "business_name": "Parvesh",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "281203",
+    "phone_number": "+91 85329 37999",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "Main Gali, Bajna - Jareliya Rd, Bajna, Uttar Pradesh 281201",
+    "area": "281203",
+    "latitude": 27.8977786,
+    "longitude": 77.67710579999999,
+    "place_id": "ChIJe4nuw6NFczkRwQaNlwFI1nA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe4nuw6NFczkRwQaNlwFI1nA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:42:27"
+  }
+]

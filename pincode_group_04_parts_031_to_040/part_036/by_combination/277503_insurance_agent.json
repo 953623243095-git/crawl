@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HDFC Bank",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance company",
+    "all_categories": "Insurance company, ATM, Business banking service, Car finance and loan company, Financial institution, Bank, Investment service, Loan agency, Private Sector Bank, Savings bank",
+    "pincode": "277503",
+    "phone_number": "+91 1800 1601",
+    "website": "https://www.hdfc.bank.in/branch-locator/madhyapradesh/indore/hdfcbank-branch-manpur",
+    "rating": 4.3,
+    "reviews_count": 8,
+    "address": "HDFC Bank LTD Manpur, Chidbadagaon, Uttar Pradesh 277503",
+    "area": "277503",
+    "latitude": 25.7451804,
+    "longitude": 84.0126848,
+    "place_id": "ChIJLyo8aA9ukjkRUe2FBREzdzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLyo8aA9ukjkRUe2FBREzdzc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:18:51"
+  },
+  {
+    "business_name": "LIC Office Chitbadagaon , Ballia",
+    "search_category": "Insurance Agent",
+    "primary_category": "Life insurance agency",
+    "all_categories": "Life insurance agency",
+    "pincode": "277503",
+    "phone_number": "+91 94545 47927",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "near HDFC Bank, Chitbaragaon, Uttar Pradesh 277503",
+    "area": "277503",
+    "latitude": 25.7451434,
+    "longitude": 84.0124572,
+    "place_id": "ChIJNbJ4Q1ltkjkRR_2111T2kMk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNbJ4Q1ltkjkRR_2111T2kMk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:18:51"
+  }
+]

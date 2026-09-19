@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Monginis Cake Shop",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop, Wedding bakery, Wholesale bakery",
+    "pincode": "277214",
+    "phone_number": "+91 88730 76061",
+    "website": "http://www.monginis.net/",
+    "rating": 3.9,
+    "reviews_count": 299,
+    "address": "Jila Parishad Market, Municipality Chowk, Sadhapur, Chapra, Bihar 841301",
+    "area": "Sadhapur",
+    "latitude": 25.7816753,
+    "longitude": 84.7427514,
+    "place_id": "ChIJ1fBRfAK7kjkRXoimu7FubkM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1fBRfAK7kjkRXoimu7FubkM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:57:17"
+  },
+  {
+    "business_name": "Winni Cakes & More",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "277214",
+    "phone_number": "N/A",
+    "website": "https://www.winni.in/cake/chapra",
+    "rating": 4.1,
+    "reviews_count": 15,
+    "address": "Sandha Khemaji Tola, Sandha Rd, Post, Chapra, Bihar 841301",
+    "area": "Post",
+    "latitude": 25.7892592,
+    "longitude": 84.7505271,
+    "place_id": "ChIJFQ6V7Oi7kjkR8bdBQijgwn4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFQ6V7Oi7kjkR8bdBQijgwn4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:57:17"
+  }
+]

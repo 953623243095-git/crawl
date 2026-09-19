@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Orthonova Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, Hospital",
+    "pincode": "281006",
+    "phone_number": "+91 95682 99245",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "7 Haridas Nagar, Nh19, near JAI GURU DEV Temple, Mathura, Uttar Pradesh 281001",
+    "area": "Madhavpuri",
+    "latitude": 27.473250099999998,
+    "longitude": 77.65869359999999,
+    "place_id": "ChIJC91thEtxczkRrZuLLjehuwU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC91thEtxczkRrZuLLjehuwU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:30:13"
+  },
+  {
+    "business_name": "Shri Krishna Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "281006",
+    "phone_number": "+91 565 240 4141",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 18,
+    "address": "A-8, NH19, Madhavpuri, Mathura, Uttar Pradesh 281001",
+    "area": "Madhavpuri",
+    "latitude": 27.481454499999998,
+    "longitude": 77.65757479999999,
+    "place_id": "ChIJVZJxaENxczkRuAtQeG4qRZo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVZJxaENxczkRuAtQeG4qRZo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:30:15"
+  }
+]

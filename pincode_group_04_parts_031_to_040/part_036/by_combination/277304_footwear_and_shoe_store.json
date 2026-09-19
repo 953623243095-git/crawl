@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akash Shoe Centre",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "277304",
+    "phone_number": "+91 99843 69985",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ballia Sikanderpur Road, Ballia Rd, Ballia, Uttar Pradesh 277001",
+    "area": "277304",
+    "latitude": 25.8010214,
+    "longitude": 84.13552639999999,
+    "place_id": "ChIJVwTRHbdlkjkRphhWDXMkSFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVwTRHbdlkjkRphhWDXMkSFo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:07:42"
+  },
+  {
+    "business_name": "RAJ FOOTWEAR",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "277304",
+    "phone_number": "+91 85458 66135",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hanumanganj, Jira Basti, Uttar Pradesh 277001",
+    "area": "277304",
+    "latitude": 25.7997575,
+    "longitude": 84.1352635,
+    "place_id": "ChIJTUFK1LplkjkRz1dqsXZEbcg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTUFK1LplkjkRz1dqsXZEbcg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:07:42"
+  }
+]

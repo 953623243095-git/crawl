@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri tulsi cloth store",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "281205",
+    "phone_number": "+91 97595 22052",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "MDR-123W, Tentigaon, Uttar Pradesh 281202",
+    "area": "281205",
+    "latitude": 27.7267148,
+    "longitude": 77.73725309999999,
+    "place_id": "ChIJ1QJXioppczkRSngqIlwi0IM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1QJXioppczkRSngqIlwi0IM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:45:59"
+  },
+  {
+    "business_name": "Classic Fashion Point & Readymade Garments",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "281205",
+    "phone_number": "+91 97589 76299",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tentigaon Bypass Rd, Malipura, Khair, Uttar Pradesh 202138",
+    "area": "Malipura",
+    "latitude": 27.9357784,
+    "longitude": 77.8416768,
+    "place_id": "ChIJe_1p09RZczkRcduNnSdMoGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe_1p09RZczkRcduNnSdMoGo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:45:59"
+  }
+]

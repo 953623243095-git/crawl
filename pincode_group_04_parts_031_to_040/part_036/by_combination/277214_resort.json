@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aranya Jungle Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "277214",
+    "phone_number": "+91 97330 05454",
+    "website": "http://www.aranyajungleresort.com/",
+    "rating": 4.5,
+    "reviews_count": 1149,
+    "address": "beside Telephone Exchange, Lataguri, West Bengal 735219",
+    "area": "277214",
+    "latitude": 26.715771,
+    "longitude": 88.7677965,
+    "place_id": "ChIJGSihCft15DkRFWRnWtGtnhw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGSihCft15DkRFWRnWtGtnhw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:58:11"
+  },
+  {
+    "business_name": "Hotel Riverfront",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "277214",
+    "phone_number": "+91 94304 50361",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 135,
+    "address": "PP Rd, Santh, Buxar, Bihar 802101",
+    "area": "Santh",
+    "latitude": 25.575793299999997,
+    "longitude": 83.9734546,
+    "place_id": "ChIJ0S2cdHN1kjkRCoLHlpHwCZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0S2cdHN1kjkRCoLHlpHwCZM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:58:11"
+  }
+]

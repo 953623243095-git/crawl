@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CRUSH CARS",
+    "search_category": "Scrap Dealer and Raddi Wholesaler",
+    "primary_category": "Recycling center",
+    "all_categories": "Recycling center",
+    "pincode": "281123",
+    "phone_number": "+91 98730 00573",
+    "website": "http://crushcars.in/",
+    "rating": 5,
+    "reviews_count": 500,
+    "address": "PP Tower, 8th, 2, Netaji Subhash Place, Pitampura, Delhi 110034",
+    "area": "Netaji Subhash Place, Pitampura",
+    "latitude": 28.6932847,
+    "longitude": 77.1517999,
+    "place_id": "ChIJq6r6TjMCDTkRJT5cI1Csaq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6r6TjMCDTkRJT5cI1Csaq4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:38:18"
+  },
+  {
+    "business_name": "Oxygen Auto",
+    "search_category": "Scrap Dealer and Raddi Wholesaler",
+    "primary_category": "Auto wrecker",
+    "all_categories": "Auto wrecker, Scrap metal dealer",
+    "pincode": "281123",
+    "phone_number": "+91 95609 96559",
+    "website": "https://oxygenauto.in/",
+    "rating": 4.9,
+    "reviews_count": 779,
+    "address": "Second Floor, The Office Pass (TOP, D-9, Block D, Noida Sector 3, Noida, Uttar Pradesh 201301",
+    "area": "Block D, Noida Sector 3",
+    "latitude": 28.5832026,
+    "longitude": 77.31869929999999,
+    "place_id": "ChIJmwDAw3L2MIERi3X3-Gy7e-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmwDAw3L2MIERi3X3-Gy7e-w",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:38:18"
+  }
+]

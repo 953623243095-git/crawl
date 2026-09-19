@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Array Line Studio",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "281205",
+    "phone_number": "+91 75051 35895",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "near Gandhi Park, Malipura, Khair, Uttar Pradesh 202138",
+    "area": "Malipura",
+    "latitude": 27.938701299999998,
+    "longitude": 77.842775,
+    "place_id": "ChIJxwDrSRpZczkRwmPxu5Gh3rI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxwDrSRpZczkRwmPxu5Gh3rI",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:46:35"
+  },
+  {
+    "business_name": "Archvinci & Associates",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect",
+    "pincode": "281205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FMVJ+888, in front of MVDA Office, Dampier Nagar, Mathura, Uttar Pradesh 281001",
+    "area": "Dampier Nagar",
+    "latitude": 27.493281699999997,
+    "longitude": 77.6808128,
+    "place_id": "ChIJAQAAwBVxczkRf56qY-NPynI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAwBVxczkRf56qY-NPynI",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:46:37"
+  }
+]

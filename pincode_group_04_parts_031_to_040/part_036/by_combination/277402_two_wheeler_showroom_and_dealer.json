@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anand Motors",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "277402",
+    "phone_number": "+91 91221 79179",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 18,
+    "address": "Brahmpur, Bihar 802112",
+    "area": "277402",
+    "latitude": 25.608256299999997,
+    "longitude": 84.3073871,
+    "place_id": "ChIJza3eWvqAkjkRFfTngJGiG-E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJza3eWvqAkjkRFfTngJGiG-E",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:11:23"
+  },
+  {
+    "business_name": "ANSARI MOTORS JOY E-BIKE BALLIA",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Electric motor store",
+    "all_categories": "Electric motor store",
+    "pincode": "277402",
+    "phone_number": "+91 84234 84311",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "Haibatpur, Rajdhani Rd, Ballia, Uttar Pradesh 277001",
+    "area": "277402",
+    "latitude": 25.747532999999997,
+    "longitude": 84.1288788,
+    "place_id": "ChIJC-3GA8xlkjkROHd8WowpL_k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC-3GA8xlkjkROHd8WowpL_k",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:11:25"
+  }
+]

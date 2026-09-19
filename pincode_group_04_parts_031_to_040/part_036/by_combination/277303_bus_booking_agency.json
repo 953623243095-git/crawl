@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Garun Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "277303",
+    "phone_number": "+91 88401 92600",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "jio petrol pump, Kasia Bypass Rd, Deoria, Raghwapur, Uttar Pradesh 274001",
+    "area": "277303",
+    "latitude": 26.522402399999997,
+    "longitude": 83.7922713,
+    "place_id": "ChIJAwm9murFkzkR49164MQYn60",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAwm9murFkzkR49164MQYn60",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:06:17"
+  },
+  {
+    "business_name": "S A ENTERPRISES",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer accessories store, Computer Hardware Company, Computer networking service, Computer repair service, Computer support and services, Security system installation service",
+    "pincode": "277303",
+    "phone_number": "+91 70584 43833",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "GANDHI ASHRAM, Sikanderpur - Maniyar Rd, Sikandarpur, Uttar Pradesh 277303",
+    "area": "277303",
+    "latitude": 26.037782099999998,
+    "longitude": 84.0574415,
+    "place_id": "ChIJPWiFjBpFkjkRbFRbEr8trIE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPWiFjBpFkjkRbFRbEr8trIE",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:06:19"
+  }
+]

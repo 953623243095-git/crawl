@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gokulesh Pharmacy",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "281303",
+    "phone_number": "+91 82660 07151",
+    "website": "http://www.gokuleshpharmacy.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ghiya Mandi Rd, in front of Sheetla Ghati, Chowk Bazar, Mathura, Uttar Pradesh 281001",
+    "area": "Chowk Bazar",
+    "latitude": 27.5040244,
+    "longitude": 77.6798448,
+    "place_id": "ChIJb9YYog1xczkRAAAAsIRV2Ho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb9YYog1xczkRAAAAsIRV2Ho",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:53:18"
+  },
+  {
+    "business_name": "Dr Ram Kumar Sharma",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic, Hospital",
+    "pincode": "281303",
+    "phone_number": "+91 94118 52390",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "26PP+8PQ, 101a, near brahmakumari ashram, Jagannath Puri, Mathura, Uttar Pradesh 281001",
+    "area": "Jagannath Puri",
+    "latitude": 27.5036423,
+    "longitude": 77.66664469999999,
+    "place_id": "ChIJy_HHdqxxczkRV92tO14kxfg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy_HHdqxxczkRV92tO14kxfg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:53:20"
+  }
+]

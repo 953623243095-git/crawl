@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R.K. BATTERY SERVICE",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "281303",
+    "phone_number": "+91 88993 28482",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sadabad, Uttar Pradesh 281306",
+    "area": "281303",
+    "latitude": 27.4394301,
+    "longitude": 78.0307375,
+    "place_id": "ChIJA8GweTCHdDkRpOBaIF-ryCU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA8GweTCHdDkRpOBaIF-ryCU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:53:35"
+  },
+  {
+    "business_name": "Electrio Ev",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Electric motor scooter dealer",
+    "all_categories": "Electric motor scooter dealer, Electric utility company",
+    "pincode": "281303",
+    "phone_number": "+91 74095 06360",
+    "website": "https://electrioev1.odoo.com/",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Gokul Bairaz Mod, near Indian oil fuel station, Indupuram Colony, township, Aurangabad, Mathura, Uttar Pradesh 281006",
+    "area": "Indupuram Colony, township, Aurangabad",
+    "latitude": 27.4356637,
+    "longitude": 77.700994,
+    "place_id": "ChIJ--y6isR3czkRcY9EDLR_ydc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ--y6isR3czkRcY9EDLR_ydc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:53:35"
+  }
+]

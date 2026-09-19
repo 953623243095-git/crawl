@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunduri Fish Market",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market",
+    "pincode": "277210",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 12,
+    "address": "FWGM+FRC, Sunduri, Balasore, Odisha 756002",
+    "area": "Sunduri",
+    "latitude": 21.4761994,
+    "longitude": 86.9345178,
+    "place_id": "ChIJbw9aCQD1HDoRDuimMJYk-mw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbw9aCQD1HDoRDuimMJYk-mw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:52:09"
+  },
+  {
+    "business_name": "Fisheries",
+    "search_category": "Fish Market",
+    "primary_category": "Fishery",
+    "all_categories": "Fishery",
+    "pincode": "277210",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q8R3+V9G, Ballia, Bagiya Taluk Dumeria, Uttar Pradesh 277211",
+    "area": "277210",
+    "latitude": 25.7921788,
+    "longitude": 84.3034641,
+    "place_id": "ChIJddUE98OJkjkRi8jGjbyUdVo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJddUE98OJkjkRi8jGjbyUdVo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:52:12"
+  }
+]

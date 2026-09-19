@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahul Taxi",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "281206",
+    "phone_number": "+91 75338 50715",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rahul Bulding, Rod, Sathini, Uttar Pradesh 202145",
+    "area": "281206",
+    "latitude": 27.6036729,
+    "longitude": 77.8726997,
+    "place_id": "ChIJ54DN5GhjczkRLpTQ3oqTZTo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ54DN5GhjczkRLpTQ3oqTZTo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:48:10"
+  },
+  {
+    "business_name": "BANSAL MOTOR DRIVING SCHOOL",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "281206",
+    "phone_number": "+91 94147 16464",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 12,
+    "address": "PLOT NO- 893, SPM Nagar, U.I.T Colony, Bharatpur, Rajasthan 321001",
+    "area": "SPM Nagar, U.I.T Colony",
+    "latitude": 27.227577,
+    "longitude": 77.4804624,
+    "place_id": "ChIJxYOi3YSjczkRf8_YU9Ms3z0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxYOi3YSjczkRf8_YU9Ms3z0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:48:10"
+  }
+]

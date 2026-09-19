@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Faruk Battery House",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Battery Store",
+    "pincode": "281206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "SH 63, Chhatari, Uttar Pradesh 203397",
+    "area": "281206",
+    "latitude": 28.1067684,
+    "longitude": 78.1435011,
+    "place_id": "ChIJgbDuhjCzdDkRtAUtHVF5VLY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgbDuhjCzdDkRtAUtHVF5VLY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:48:05"
+  },
+  {
+    "business_name": "Harman Batteries and Inverters",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Battery Store",
+    "all_categories": "Battery Store",
+    "pincode": "281206",
+    "phone_number": "+91 84473 29270",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 111,
+    "address": "Red Buildings, Punjabi Mkt Rd, Shyam Nagar Extension, Pocket B, Shyam Nagar, Vishnu Garden, New Delhi, Delhi, 110018",
+    "area": "Shyam Nagar Extension, Pocket B, Shyam Nagar, Vishnu Garden",
+    "latitude": 28.6449802,
+    "longitude": 77.1000974,
+    "place_id": "ChIJY88lfeAFDTkRZVKmPrztdug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY88lfeAFDTkRZVKmPrztdug",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:48:07"
+  }
+]

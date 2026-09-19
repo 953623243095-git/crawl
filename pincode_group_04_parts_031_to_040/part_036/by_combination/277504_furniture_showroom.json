@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivam Furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "277504",
+    "phone_number": "+91 93082 42081",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "R.K Avenue, Nala Road, Dariyapur, Machhua Toli, Patna, Narshing Pati Aujwal, Bihar 277504",
+    "area": "Dariyapur, Machhua Toli",
+    "latitude": 25.6312172,
+    "longitude": 84.0119912,
+    "place_id": "ChIJKfs02_NY7TkRkQLSZcS5T90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKfs02_NY7TkRkQLSZcS5T90",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:20:04"
+  },
+  {
+    "business_name": "Sharma furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "277504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gajipur - hajipur road Buxer, road, Ballia, Uttar Pradesh 277504",
+    "area": "277504",
+    "latitude": 25.6438022,
+    "longitude": 84.0102508,
+    "place_id": "ChIJfaQzkqBzkjkRwVCrqEwZfjw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfaQzkqBzkjkRwVCrqEwZfjw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:20:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "G. R. Hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Fertility physician, Gynecologist, Hospital, Surgeon",
+    "pincode": "281401",
+    "phone_number": "+91 70883 85608",
+    "website": "https://grhospitalkosi.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "1180, Arya Nagar Rd, Arya Nagar, Kosi Kalan, Uttar Pradesh 281403",
+    "area": "Arya Nagar",
+    "latitude": 27.787803399999998,
+    "longitude": 77.43990649999999,
+    "place_id": "ChIJqVCAjEM8czkRXsbw5ol1Jcg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqVCAjEM8czkRXsbw5ol1Jcg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:02:27"
+  },
+  {
+    "business_name": "Faridabad Medical Center",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Hospital",
+    "pincode": "281401",
+    "phone_number": "+91 98910 01441",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Plot No 458, Sec 21B, Ryan International School, Railway Rd, near Faridabad, Fatehpur Chandela, Sector 21B, Faridabad, Haryana 121001",
+    "area": "Fatehpur Chandela, Sector 21B",
+    "latitude": 28.4170151,
+    "longitude": 77.3016047,
+    "place_id": "ChIJrwbiT8TdDDkRRRp7l5zjITM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrwbiT8TdDDkRRRp7l5zjITM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:02:28"
+  }
+]

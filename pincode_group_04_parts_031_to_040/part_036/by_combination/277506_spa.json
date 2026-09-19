@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pandey Medical Agency",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "277506",
+    "phone_number": "+91 94528 31099",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "26, Ballia - Sikanderpur Rd, Bahadurpur, Ballia, Uttar Pradesh 277001",
+    "area": "Bahadurpur",
+    "latitude": 25.7790501,
+    "longitude": 84.1409551,
+    "place_id": "ChIJ31jMPIdlkjkRqqU9eB80Wuc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ31jMPIdlkjkRqqU9eB80Wuc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:21:48"
+  },
+  {
+    "business_name": "Shamini",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "277506",
+    "phone_number": "+91 63061 30481",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "LIG- 51, near Police station, Chandrasekhar Nagar, Ballia, Rampur Mahaval, Uttar Pradesh 277001",
+    "area": "Chandrasekhar Nagar",
+    "latitude": 25.752021,
+    "longitude": 84.1374221,
+    "place_id": "ChIJX2cDaNJlkjkRvGntTDFuDOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX2cDaNJlkjkRvGntTDFuDOI",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:21:48"
+  }
+]

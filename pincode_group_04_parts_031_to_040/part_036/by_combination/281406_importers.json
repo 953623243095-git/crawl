@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Karan",
+    "search_category": "Importers",
+    "primary_category": "Band",
+    "all_categories": "Band, Artist, Supplier, Manufacturer, Store",
+    "pincode": "281406",
+    "phone_number": "N/A",
+    "website": "https://youtube.com/KaranShorts",
+    "rating": 4.8,
+    "reviews_count": 15,
+    "address": "Chouk, Jait, Uttar Pradesh 281406",
+    "area": "281406",
+    "latitude": 27.5811958,
+    "longitude": 77.6074302,
+    "place_id": "ChIJ7QH4WWFtczkRQBi14rYo2D0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7QH4WWFtczkRQBi14rYo2D0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:10:44"
+  },
+  {
+    "business_name": "Awasiya Properties",
+    "search_category": "Importers",
+    "primary_category": "Property investment company",
+    "all_categories": "Property investment company",
+    "pincode": "281406",
+    "phone_number": "+91 89234 51574",
+    "website": "https://awasiyaproperties.in/",
+    "rating": 4.8,
+    "reviews_count": 11,
+    "address": "Iskon Gurukul Road, NH-19, Jait, Bharthia, Uttar Pradesh 281406",
+    "area": "281406",
+    "latitude": 27.587678699999998,
+    "longitude": 77.6036185,
+    "place_id": "ChIJ2S9FyL3fcE0R7pful19XHxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2S9FyL3fcE0R7pful19XHxI",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:10:44"
+  }
+]

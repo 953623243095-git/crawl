@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LOV LATTE CAFE",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "281205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GLA University, Near, Uttar Pradesh 281406",
+    "area": "281205",
+    "latitude": 27.6064987,
+    "longitude": 77.5915919,
+    "place_id": "ChIJ1fmrxYRtczkRiUvIPrenOMM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1fmrxYRtczkRiUvIPrenOMM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:45:58"
+  },
+  {
+    "business_name": "Coffee Machine Noida & Delhi",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee machine supplier",
+    "all_categories": "Coffee machine supplier",
+    "pincode": "281205",
+    "phone_number": "+91 99993 40371",
+    "website": "http://www.coffeewale.in/",
+    "rating": 4.9,
+    "reviews_count": 116,
+    "address": "24/18, Sharma market, 1st floor, Sangam complex, Harola, Sector-05, Noida, Uttar Pradesh 201301",
+    "area": "Harola, Sector-05",
+    "latitude": 28.587828,
+    "longitude": 77.31880199999999,
+    "place_id": "ChIJTy2UC5DlDDkRJnZeVUbIKtc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTy2UC5DlDDkRJnZeVUbIKtc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:46:00"
+  }
+]

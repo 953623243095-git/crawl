@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SP Motors",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "277504",
+    "phone_number": "+91 99172 84111",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "383, Surkha Chawni, Hartmann Flyover, Uttar Pradesh, Nainital Rd, Bareilly, Uttar Pradesh 243122",
+    "area": "Shastri Nagar, Izatnagar",
+    "latitude": 28.3784226,
+    "longitude": 79.41163689999999,
+    "place_id": "ChIJL9h2shcHoDkRYP7ArboF2-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL9h2shcHoDkRYP7ArboF2-8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:19:47"
+  },
+  {
+    "business_name": "Gopal Motor Services",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "277504",
+    "phone_number": "+91 95844 44071",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Front of Kali Mandir, Bada Mahadev Road, Near Gas Godown, Narsinghgarh, Madhya Pradesh 465669",
+    "area": "277504",
+    "latitude": 23.7019171,
+    "longitude": 77.0939035,
+    "place_id": "ChIJPXjTSrR7ezkRis3rhbewEDo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPXjTSrR7ezkRis3rhbewEDo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:19:47"
+  }
+]

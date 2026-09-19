@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "281307",
+    "phone_number": "+91 77988 07090",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "JXJV+5R4, Nagla Mani, Uttar Pradesh 204101",
+    "area": "281307",
+    "latitude": 27.6303806,
+    "longitude": 77.9945729,
+    "place_id": "ChIJk0nikfScdDkRZsGolFaNQIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk0nikfScdDkRZsGolFaNQIY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:58:47"
+  },
+  {
+    "business_name": "Dr. Ankit Gupta | Sree Dauji Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "281307",
+    "phone_number": "N/A",
+    "website": "https://www.eka.care/doctor/dr-ankit-gupta-orthopedics-hathras?utm_source=gmb&utm_medium=website&utm_campaign=032023",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "NayaGanj, Mahamaya Nagar NH-93, Agra, Aligarh Rd, Hathras, Uttar Pradesh 204101",
+    "area": "Khandari Garhi",
+    "latitude": 27.6082297,
+    "longitude": 78.0540953,
+    "place_id": "ChIJA9EpFoKbdDkReh-pjDu3X40",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA9EpFoKbdDkReh-pjDu3X40",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:58:47"
+  }
+]

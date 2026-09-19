@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RNS Services",
+    "search_category": "SEO Consultants",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "281401",
+    "phone_number": "N/A",
+    "website": "https://rnsservices.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "RNS Services, 281401, India",
+    "area": "281401",
+    "latitude": 27.787093,
+    "longitude": 77.73121429999999,
+    "place_id": "ChIJ-S1KSn4xSygRKNF_MqVQnfc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-S1KSn4xSygRKNF_MqVQnfc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:03:38"
+  },
+  {
+    "business_name": "SomSkillTech",
+    "search_category": "SEO Consultants",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "281401",
+    "phone_number": "+91 92362 07394",
+    "website": "https://somskilltech.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near by Kirti Mandir, Barsana, Uttar Pradesh 281405",
+    "area": "281401",
+    "latitude": 27.6464142,
+    "longitude": 77.37650529999999,
+    "place_id": "ChIJ3_HwtuMsMY0Rit0d2otosbc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3_HwtuMsMY0Rit0d2otosbc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:03:38"
+  }
+]

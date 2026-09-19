@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balloon Decor",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "281303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1402, Extension, Bisrakh Jalalpur, Noida, Uttar Pradesh 201318",
+    "area": "Sector 1, Extension, Bisrakh Jalalpur",
+    "latitude": 28.560047899999997,
+    "longitude": 77.4402946,
+    "place_id": "ChIJWeeZDCDvDDkRS4Sd4IEzu6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWeeZDCDvDDkRS4Sd4IEzu6E",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:53:58"
+  },
+  {
+    "business_name": "Dream’s Event & Balloon Decor",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist",
+    "pincode": "281303",
+    "phone_number": "+91 81782 13053",
+    "website": "https://yourdreamballoondecoration.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NSE society C52, NSG Society, Greater Noida, Uttar Pradesh 201315",
+    "area": "NSG Society",
+    "latitude": 28.4456141,
+    "longitude": 77.50259419999999,
+    "place_id": "ChIJB4DNS9PBDDkRQYd2EOycCKk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB4DNS9PBDDkRQYd2EOycCKk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:53:58"
+  }
+]

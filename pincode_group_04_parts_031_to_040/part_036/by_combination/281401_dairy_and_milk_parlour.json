@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FF Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "281401",
+    "phone_number": "+91 84459 78940",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "PG93+VC3, Unnamed Road, Chhata, Uttar Pradesh 281401",
+    "area": "281401",
+    "latitude": 27.719631699999997,
+    "longitude": 77.503546,
+    "place_id": "ChIJicuM7I8VczkRKWZI-oLEWCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJicuM7I8VczkRKWZI-oLEWCQ",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:01:58"
+  },
+  {
+    "business_name": "Bhola dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "281401",
+    "phone_number": "+91 98377 25640",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "107, Sonkh Rd, new mandi, Mathura, Uttar Pradesh 281004",
+    "area": "new mandi",
+    "latitude": 27.490436199999998,
+    "longitude": 77.65389569999999,
+    "place_id": "ChIJ0WNwHGBxczkRMy4TDLKimI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0WNwHGBxczkRMy4TDLKimI8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:01:59"
+  }
+]

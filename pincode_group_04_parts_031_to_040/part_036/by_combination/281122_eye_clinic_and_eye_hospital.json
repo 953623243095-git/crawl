@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gandhi Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Government hospital",
+    "pincode": "281122",
+    "phone_number": "+91 92194 45002",
+    "website": "http://www.gandhieyehospitalaligarh.in/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Ramghat Rd, New Vishnupuri, Aligarh, Uttar Pradesh 202001",
+    "area": "New Vishnupuri",
+    "latitude": 27.8893828,
+    "longitude": 78.0834098,
+    "place_id": "ChIJldV0xpakdDkR6iED__pCuoY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJldV0xpakdDkR6iED__pCuoY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:35:30"
+  },
+  {
+    "business_name": "Smriti Eyes Care centre",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Ophthalmologist",
+    "all_categories": "Ophthalmologist",
+    "pincode": "281122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mahaaban, Mahaban Bangar, Uttar Pradesh 281305",
+    "area": "Mahaaban",
+    "latitude": 27.418323299999997,
+    "longitude": 77.7692263,
+    "place_id": "ChIJa1MU6XJ5czkRgSjxbRn9dhM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa1MU6XJ5czkRgSjxbRn9dhM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:35:30"
+  }
+]

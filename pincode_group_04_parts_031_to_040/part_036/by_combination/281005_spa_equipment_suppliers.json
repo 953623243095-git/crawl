@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Metro wholesale",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "281005",
+    "phone_number": "+91 120 404 4000",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "refinery, opposite iocl mathura, Baburi Garbi, Mathura, Baburi Garbi, Uttar Pradesh 281005",
+    "area": "Baburi Garbi",
+    "latitude": 27.3832915,
+    "longitude": 77.6909265,
+    "place_id": "ChIJl-MJ1i52czkRwhvFR_b24SQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl-MJ1i52czkRwhvFR_b24SQ",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:29:01"
+  },
+  {
+    "business_name": "Green Body Spa",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa, Spa",
+    "pincode": "281005",
+    "phone_number": "+91 90271 95027",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "near Vikas market, Dampier Nagar, Mathura, Uttar Pradesh 281001",
+    "area": "Dampier Nagar",
+    "latitude": 27.494431,
+    "longitude": 77.68182329999999,
+    "place_id": "ChIJ0zdKGXdxczkRi9va6i3HDxQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0zdKGXdxczkRi9va6i3HDxQ",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:29:01"
+  }
+]

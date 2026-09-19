@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harsh dry fruits and General store",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "277214",
+    "phone_number": "+91 96088 05391",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "HWJF+W43, More, Kanhauli, Patna, Bihar 801111",
+    "area": "277214",
+    "latitude": 25.5823204,
+    "longitude": 84.92279909999999,
+    "place_id": "ChIJ6w-GaACrkjkRQrfOHbVKlEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6w-GaACrkjkRQrfOHbVKlEw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:57:11"
+  },
+  {
+    "business_name": "GS Traders",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store, Nut store, Spice store, Spices Wholesaler, Wholesaler",
+    "pincode": "277214",
+    "phone_number": "+91 94459 44588",
+    "website": "https://erode-gstraders.github.io/GS_TRADERS/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "550, NETAJI ROAD, Erode Fort, Erode, Tamil Nadu 638001",
+    "area": "Erode Fort",
+    "latitude": 11.344225699999999,
+    "longitude": 77.7272934,
+    "place_id": "ChIJ2ad0g55vqTsRtbnAs7kFTWE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ad0g55vqTsRtbnAs7kFTWE",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:57:13"
+  }
+]

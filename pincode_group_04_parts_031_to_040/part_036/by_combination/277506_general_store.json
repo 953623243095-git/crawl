@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "277506",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q488+2W7, garwar road, Bhagwanpur, Ballia, Uttar Pradesh 277001",
+    "area": "277506",
+    "latitude": 25.7650319,
+    "longitude": 84.1173067,
+    "place_id": "ChIJNe0ObAhlkjkRwc8v2Gd_4kA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNe0ObAhlkjkRwc8v2Gd_4kA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:21:00"
+  },
+  {
+    "business_name": "Shree general store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "277506",
+    "phone_number": "+91 73761 78940",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Mulayam Nagar, Garwar road, Ballia, Uttar Pradesh 277001",
+    "area": "277506",
+    "latitude": 25.7623122,
+    "longitude": 84.13103799999999,
+    "place_id": "ChIJ8XdcagBlkjkRvjy8Zs-PTYU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8XdcagBlkjkRvjy8Zs-PTYU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:21:02"
+  }
+]

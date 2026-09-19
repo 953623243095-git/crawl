@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhanu Vastralay",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "277504",
+    "phone_number": "+91 83405 82203",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Raju Keshri, 21, Ahirauli, Buxar, Bihar 802116",
+    "area": "277504",
+    "latitude": 25.5917608,
+    "longitude": 84.00332279999999,
+    "place_id": "ChIJtW9PRqJ1kjkRDDEXnmgaM1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtW9PRqJ1kjkRDDEXnmgaM1k",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:19:30"
+  },
+  {
+    "business_name": "Garious Shop's",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "277504",
+    "phone_number": "+91 89692 41077",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Gadni Grani, Guptaji Gadni, men Road, Buxar, Garani, Bihar 802116",
+    "area": "277504",
+    "latitude": 25.5987933,
+    "longitude": 84.04842699999999,
+    "place_id": "ChIJb2DqxhJ3kjkRvL55VejlxGc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb2DqxhJ3kjkRvL55VejlxGc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:19:30"
+  }
+]

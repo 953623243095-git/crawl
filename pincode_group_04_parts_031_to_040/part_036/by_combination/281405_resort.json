@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HOTEL RAMESHWARAM",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "281405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 42,
+    "address": "Masani Rd, Garravkendra, Mathura, Uttar Pradesh 281003",
+    "area": "Garravkendra",
+    "latitude": 27.5249116,
+    "longitude": 77.66482309999999,
+    "place_id": "ChIJMWn_3GFxczkR_K3odAzuL5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMWn_3GFxczkR_K3odAzuL5A",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:08:25"
+  },
+  {
+    "business_name": "Stay in barsana",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "281405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M93F+H8, Barsana, Uttar Pradesh 281405",
+    "area": "281405",
+    "latitude": 27.6538939,
+    "longitude": 77.373318,
+    "place_id": "ChIJN8VeaQAZczkRo6O6bmHckDw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN8VeaQAZczkRo6O6bmHckDw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:08:25"
+  }
+]

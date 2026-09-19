@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "One Stop Solution",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "281123",
+    "phone_number": "+91 95203 53873",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "537, Radha Kund, Mathura, Uttar Pradesh 281502",
+    "area": "281123",
+    "latitude": 27.5245954,
+    "longitude": 77.4866049,
+    "place_id": "ChIJKckwbWUNczkRdBfRvuaf7hM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKckwbWUNczkRdBfRvuaf7hM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:37:10"
+  },
+  {
+    "business_name": "davaindia GENERIC PHARMACY",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store, Health food store, Herbal medicine store, Medical supply store, Pharmaceutical company, Vitamin & supplements store",
+    "pincode": "281123",
+    "phone_number": "+91 94122 78322",
+    "website": "http://upkrishnanagar.davaindia.com/",
+    "rating": 3,
+    "reviews_count": 13,
+    "address": "No 39, Shri Square NH 2, Keshopur Manoharpur, Radhapuram Chauraha, near Ganeshra, Krishna Nagar, Mathura, Uttar Pradesh 281001",
+    "area": "Shri Radha Puram, Krishna Nagar",
+    "latitude": 27.506979299999998,
+    "longitude": 77.6525085,
+    "place_id": "ChIJ-RoCz_NzczkR6NT_VtvTMkw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-RoCz_NzczkR6NT_VtvTMkw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:37:12"
+  }
+]

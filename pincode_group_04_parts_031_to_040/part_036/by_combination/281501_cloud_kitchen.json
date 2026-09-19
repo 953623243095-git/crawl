@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KOOK DOO KU",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant",
+    "pincode": "281501",
+    "phone_number": "+91 84608 36764",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop number :- 28B, Unity Park, society, Custom Rd, Chala, Vapi, Gujarat 396191",
+    "area": "Chala",
+    "latitude": 20.3867238,
+    "longitude": 72.9064949,
+    "place_id": "ChIJvTsk53rP4DsRQRCxXl3E5i8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvTsk53rP4DsRQRCxXl3E5i8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:11:07"
+  },
+  {
+    "business_name": "Shri Balaji Appliances",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Appliance store",
+    "all_categories": "Appliance store",
+    "pincode": "281501",
+    "phone_number": "+91 87554 49191",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Goverdhan Chowk Road, Mathura, Uttar Pradesh 281001",
+    "area": "Chandrs Lok Colony, Krishna Nagar",
+    "latitude": 27.5008782,
+    "longitude": 77.6552677,
+    "place_id": "ChIJsdAAy2JxczkRMNbZMJMG8ik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsdAAy2JxczkRMNbZMJMG8ik",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:11:08"
+  }
+]

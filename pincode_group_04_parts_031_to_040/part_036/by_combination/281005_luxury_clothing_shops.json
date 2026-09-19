@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Poonam Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "281005",
+    "phone_number": "+91 84768 20722",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 9,
+    "address": "37, a Pass, near Rail Line, Indrapuri Colony, Chandrapuri Colony, Mathura, Tartura, Uttar Pradesh 281001",
+    "area": "Indrapuri Colony, Chandrapuri Colony",
+    "latitude": 27.4679084,
+    "longitude": 77.6732158,
+    "place_id": "ChIJEa8jmpF3czkR7MVqhYkqHr0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEa8jmpF3czkR7MVqhYkqHr0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:28:28"
+  },
+  {
+    "business_name": "Bhatnagar family wear store",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer",
+    "pincode": "281005",
+    "phone_number": "+91 91490 91595",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sanit Paul's phase 2, behind Sanjay public school, ATV, Mathura, Uttar Pradesh 281001",
+    "area": "281005",
+    "latitude": 27.4562405,
+    "longitude": 77.6591332,
+    "place_id": "ChIJP5IHqFJzczkR63ESyeJuDYU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP5IHqFJzczkR63ESyeJuDYU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:28:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laddu Gopal Makeup Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "281121",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/laddu.gopal.makeup.parlour?igsh=MXBicWZ1cGF4ZnV5OQ==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ashram ,Gyan Gudari, Goda Vihar, Vrindavan, Uttar Pradesh 281121",
+    "area": "Goda Vihar",
+    "latitude": 27.583987,
+    "longitude": 77.70398449999999,
+    "place_id": "ChIJhWB_2pNvczkR4cPSsWsbCLI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhWB_2pNvczkR4cPSsWsbCLI",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:34:08"
+  },
+  {
+    "business_name": "Rakesh Cosmetics Shop",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "281121",
+    "phone_number": "+91 63965 49251",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Atalla Chungi Rd, Gaura Nagar Colony, Mathura, Vrindavan, Uttar Pradesh 281121",
+    "area": "Gaura Nagar Colony",
+    "latitude": 27.5781736,
+    "longitude": 77.70133369999999,
+    "place_id": "ChIJHYnmq2NvczkRQBejgxjODeY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHYnmq2NvczkRQBejgxjODeY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:34:09"
+  }
+]

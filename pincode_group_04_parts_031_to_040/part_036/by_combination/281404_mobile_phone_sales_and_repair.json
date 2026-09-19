@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Airtel store",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "281404",
+    "phone_number": "N/A",
+    "website": "https://www.airtel.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PJ44+2HQ, Akbarpur - Shergarh Rd, Naugaon, Uttar Pradesh 281404",
+    "area": "281404",
+    "latitude": 27.7050894,
+    "longitude": 77.60649529999999,
+    "place_id": "ChIJySyqImxrczkRVGA4hSfuvfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJySyqImxrczkRVGA4hSfuvfA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:06:50"
+  },
+  {
+    "business_name": "Mobile Galaxy",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "281404",
+    "phone_number": "+91 90451 95050",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "58, VIKAS BAZAR, Vikash Bazar, Dampier Nagar, Mathura, Uttar Pradesh 281001",
+    "area": "Vikash Bazar, Dampier Nagar",
+    "latitude": 27.4945153,
+    "longitude": 77.68448599999999,
+    "place_id": "ChIJpS3rVhZxczkRN_dWkVVyPcI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpS3rVhZxczkRN_dWkVVyPcI",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:06:51"
+  }
+]

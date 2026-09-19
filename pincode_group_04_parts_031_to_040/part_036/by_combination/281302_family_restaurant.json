@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swastik fast food and family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "281302",
+    "phone_number": "+91 84452 59775",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 27,
+    "address": "Sikarwar market, near tampo stand, Runkata, Uttar Pradesh 282007",
+    "area": "281302",
+    "latitude": 27.2344416,
+    "longitude": 77.8754002,
+    "place_id": "ChIJgUsJCguHczkR7QpEMAPEpBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgUsJCguHczkR7QpEMAPEpBk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:51:12"
+  },
+  {
+    "business_name": "Gayatri mart",
+    "search_category": "Family Restaurant",
+    "primary_category": "Supplier",
+    "all_categories": "Supplier, Food products supplier, Hotel supply store",
+    "pincode": "281302",
+    "phone_number": "+91 93190 11777",
+    "website": "http://www.gayatrimart.com/",
+    "rating": 4.9,
+    "reviews_count": 31,
+    "address": "8247, moti kunj, Road, near ima bhawan, Billochpura, Lohamandi, Agra, Uttar Pradesh 282002",
+    "area": "Billochpura, Lohamandi",
+    "latitude": 27.196879799999998,
+    "longitude": 77.99014729999999,
+    "place_id": "ChIJhyeqCUNxdDkRi7cm9XSJBzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhyeqCUNxdDkRi7cm9XSJBzc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:51:13"
+  }
+]

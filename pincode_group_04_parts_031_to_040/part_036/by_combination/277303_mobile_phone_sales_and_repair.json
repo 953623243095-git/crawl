@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amit Mobile Center",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "277303",
+    "phone_number": "+91 99181 27648",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 78,
+    "address": "Sikanderpur - MAA Kalpa Mandir police chauki road, Sikandarpur, Uttar Pradesh 277303",
+    "area": "277303",
+    "latitude": 26.040719799999998,
+    "longitude": 84.0572481,
+    "place_id": "ChIJq6qqqmpEkjkRirh7Vg6kvww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqmpEkjkRirh7Vg6kvww",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:06:53"
+  },
+  {
+    "business_name": "S King Mobile Repairing",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "277303",
+    "phone_number": "+91 93356 69231",
+    "website": "http://www.skingcentre.blogspot.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chak Kalandar, Chandpur, Uttar Pradesh 277303",
+    "area": "277303",
+    "latitude": 26.0497277,
+    "longitude": 84.0368958,
+    "place_id": "ChIJoQBSDOVFkjkR_RFjreaBD7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoQBSDOVFkjkR_RFjreaBD7c",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:06:53"
+  }
+]

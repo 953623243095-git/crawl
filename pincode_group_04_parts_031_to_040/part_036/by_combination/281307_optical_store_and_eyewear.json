@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Optician",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "281307",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "959W+3VV, Barhan, Uttar Pradesh 283201",
+    "area": "281307",
+    "latitude": 27.3677483,
+    "longitude": 78.19716129999999,
+    "place_id": "ChIJU1QUZQBjdDkRkkuCiy4c3X8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU1QUZQBjdDkRkkuCiy4c3X8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:58:47"
+  },
+  {
+    "business_name": "Geeta Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "281307",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 191,
+    "address": "gujrowali road, near Bikaner sweet shop, Kalinga Colony, Tunwala, Nathuawala, Dehradun, Ranjhawala, Uttarakhand 248005",
+    "area": "Kalinga Colony, Tunwala, Nathuawala",
+    "latitude": 30.2903161,
+    "longitude": 78.1030789,
+    "place_id": "ChIJXxMjWMYpCTkRnWRZ_TvujzY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXxMjWMYpCTkRnWRZ_TvujzY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:58:47"
+  }
+]

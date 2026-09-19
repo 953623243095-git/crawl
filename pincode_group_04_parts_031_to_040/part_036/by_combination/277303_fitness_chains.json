@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KUNJ FITNESS",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "277303",
+    "phone_number": "+91 77529 37065",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 45,
+    "address": "Salempur, Deoria, Uttar Pradesh 274509",
+    "area": "Nayagaon",
+    "latitude": 26.297072399999998,
+    "longitude": 83.9200041,
+    "place_id": "ChIJ5YLy5YHLkzkRnj_s2rOxe7s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5YLy5YHLkzkRnj_s2rOxe7s",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:06:10"
+  },
+  {
+    "business_name": "Shiv mandir bhatola",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "277303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2V52+43H, Lahsani, Uttar Pradesh 221711",
+    "area": "277303",
+    "latitude": 26.007862199999998,
+    "longitude": 83.85026359999999,
+    "place_id": "ChIJ10MZZQA5kjkRYyA7TrdnokQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ10MZZQA5kjkRYyA7TrdnokQ",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:06:12"
+  }
+]

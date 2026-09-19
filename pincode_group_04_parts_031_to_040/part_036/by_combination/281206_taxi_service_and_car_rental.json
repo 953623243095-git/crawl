@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rino cab - One-way, roundtrip & outstation taxi service in Agra",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "281206",
+    "phone_number": "+91 96672 66620",
+    "website": "https://www.rinocab.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "52RR+Q9H, 16/95, Sushil Nagar, Nagla Kachhpura, Kuberpur, Agra, Uttar Pradesh 282006",
+    "area": "Sushil Nagar, Nagla Kachhpura",
+    "latitude": 27.1919154,
+    "longitude": 78.0408748,
+    "place_id": "ChIJT5OTwTxxdDkRVyu3oCcqZCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT5OTwTxxdDkRVyu3oCcqZCQ",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:48:08"
+  },
+  {
+    "business_name": "Delhi taxi hire",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "281206",
+    "phone_number": "+91 89290 48290",
+    "website": "https://delhitaxihire.in/",
+    "rating": 4.8,
+    "reviews_count": 12,
+    "address": "H-4, type 1, Kidwai Nagar West, Kidwai Nagar, New Delhi, Delhi 110023",
+    "area": "Kidwai Nagar West, Kidwai Nagar",
+    "latitude": 28.572453,
+    "longitude": 77.208232,
+    "place_id": "ChIJL7toE6DjDDkRXdhLuhubfPo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL7toE6DjDDkRXdhLuhubfPo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:48:09"
+  }
+]

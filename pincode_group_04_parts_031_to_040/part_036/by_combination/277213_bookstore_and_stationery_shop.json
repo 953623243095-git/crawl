@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gajanan Book Store",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "277213",
+    "phone_number": "+91 97777 77462",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Cinema Square, Town Hall Rd, Motiganj, Manikhamb, Balasore, Gopalgoan, Odisha 756001",
+    "area": "Motiganj, Manikhamb",
+    "latitude": 21.494437299999998,
+    "longitude": 86.9379711,
+    "place_id": "ChIJi-OkNgf1HDoR-3A5HGuX_qo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi-OkNgf1HDoR-3A5HGuX_qo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:56:38"
+  },
+  {
+    "business_name": "Officebazzar E-Store Private Limited",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Office equipment supplier",
+    "all_categories": "Office equipment supplier, Carpet wholesaler, Cleaning products supplier, Computer accessories store, Oxygen equipment supplier, Printer ink refill store, Printer repair service, Printing equipment supplier, Stationery store, Stationery wholesaler",
+    "pincode": "277213",
+    "phone_number": "+91 90438 49095",
+    "website": "http://www.officebazzar.com/",
+    "rating": 4.8,
+    "reviews_count": 616,
+    "address": "29, 15, Subedar Hussain St, Pudupakkam, Royapettah, Chennai, Tamil Nadu 600014",
+    "area": "Pudupakkam, Royapettah",
+    "latitude": 13.060745299999999,
+    "longitude": 80.26904189999999,
+    "place_id": "ChIJESBieCJmUjoR-14-dg_Szx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJESBieCJmUjoR-14-dg_Szx8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:56:40"
+  }
+]

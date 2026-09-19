@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dental Cilinc",
+    "search_category": "Dental Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "281305",
+    "phone_number": "+91 95366 56563",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3 Karav, Road, Shonkh, Mathura, Uttar Pradesh 281204",
+    "area": "Shonkh",
+    "latitude": 27.4821723,
+    "longitude": 77.7995699,
+    "place_id": "ChIJq3Pum1V7czkRZr1NswGwh-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq3Pum1V7czkRZr1NswGwh-M",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:55:09"
+  },
+  {
+    "business_name": "Bala ji Dental Clinic and Implant Centre laxminagar yamuna par mathura",
+    "search_category": "Dental Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "281305",
+    "phone_number": "+91 91197 78051",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mathura laxminagar, Yamuna Paar, Laxminagar, Mathura, Uttar Pradesh 281204",
+    "area": "Laxminagar",
+    "latitude": 27.511501,
+    "longitude": 77.70921349999999,
+    "place_id": "ChIJYzZeU-5xczkRuu7O6zEtqps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYzZeU-5xczkRuu7O6zEtqps",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:55:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Computer World",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service",
+    "pincode": "281305",
+    "phone_number": "+91 99820 77915",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 133,
+    "address": "Teacher Colony, Tapukara, Rajasthan 301707",
+    "area": "Teacher Colony",
+    "latitude": 28.1084444,
+    "longitude": 76.83087239999999,
+    "place_id": "ChIJjXTQcvQ1DTkRlBW2ZamPp1Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjXTQcvQ1DTkRlBW2ZamPp1Q",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:56:04"
+  },
+  {
+    "business_name": "COMPUTER SHOP - MB IT NETWORKS",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer accessories store, Computer store, Computer Wholesaler, Repair service",
+    "pincode": "281305",
+    "phone_number": "+91 97173 74040",
+    "website": "https://computer-shop-mb.grexa.site/",
+    "rating": 4.8,
+    "reviews_count": 121,
+    "address": "Shop No 32, Zara Aavaas, Shankar Vihar, Sector 104, Gurugram, Haryana 122006",
+    "area": "Shankar Vihar, Sector 104",
+    "latitude": 28.4861357,
+    "longitude": 77.0016909,
+    "place_id": "ChIJN45_ZFcXDTkR371cDkpTL8g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN45_ZFcXDTkR371cDkpTL8g",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:56:06"
+  }
+]

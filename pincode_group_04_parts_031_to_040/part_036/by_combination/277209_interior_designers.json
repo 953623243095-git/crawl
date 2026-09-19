@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ankit Home Decor",
+    "search_category": "Interior Designers",
+    "primary_category": "Furniture Manufacturer",
+    "all_categories": "Furniture Manufacturer, Fitted furniture supplier, Furniture store, Office furniture store",
+    "pincode": "277209",
+    "phone_number": "+91 94314 24735",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 78,
+    "address": "Bus stand, Bihari Babu Market, Ekma, Bihar 841208",
+    "area": "277209",
+    "latitude": 25.966679,
+    "longitude": 84.537815,
+    "place_id": "ChIJNdkIL1XrkjkRmVbD5rymuoY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNdkIL1XrkjkRmVbD5rymuoY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:51:12"
+  },
+  {
+    "business_name": "Ak interior",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "277209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chapra, Narpalia, Bihar 841313",
+    "area": "277209",
+    "latitude": 25.8575217,
+    "longitude": 84.5746243,
+    "place_id": "ChIJzxu5PFaVkjkRUjVjbmYqqw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzxu5PFaVkjkRUjVjbmYqqw4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:51:12"
+  }
+]

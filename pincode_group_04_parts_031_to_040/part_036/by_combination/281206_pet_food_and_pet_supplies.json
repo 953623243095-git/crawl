@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "International Dog Bazar",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Dog cafe, Dog day care center, Dog trainer, Pet adoption service, Pet boarding service, Pet groomer, Pet store, Pet trainer",
+    "pincode": "281206",
+    "phone_number": "+91 98290 51852",
+    "website": "http://www.dogbazar.org/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "C 3, Panch Batti, Jayanti Market, New Colony, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302001",
+    "area": "Panch Batti, Jayanti Market, New Colony",
+    "latitude": 26.9179821,
+    "longitude": 75.8104865,
+    "place_id": "ChIJKXwKvq22bTkRzsAvVo1lWHk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKXwKvq22bTkRzsAvVo1lWHk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:47:35"
+  },
+  {
+    "business_name": "Riganshi Pets Kennel",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Dog breeder",
+    "all_categories": "Dog breeder, Cat breeder, Pet store, Pet supply store, Veterinarian",
+    "pincode": "281206",
+    "phone_number": "+91 63953 93003",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Khushhalpur Road, near K.p milk dairy, opposite Family Bazar Krishnapuram colony, Majholi, Buddhi Vihar, Moradabad, Uttar Pradesh 244001",
+    "area": "Majholi, Buddhi Vihar",
+    "latitude": 28.838148699999998,
+    "longitude": 78.7426899,
+    "place_id": "ChIJBZqYy8P7CjkR1Dmi5f6y2o4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBZqYy8P7CjkR1Dmi5f6y2o4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:47:35"
+  }
+]

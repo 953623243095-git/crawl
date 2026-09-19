@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Malik Motor Works",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "277504",
+    "phone_number": "+91 98379 83007",
+    "website": "https://www.pbwheels.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "chungi, near hotel invitation, Rampur, Roorkee, Uttarakhand 247667",
+    "area": "Rampur",
+    "latitude": 29.8851533,
+    "longitude": 77.875061,
+    "place_id": "ChIJQ9vlBCS1DjkRrzopuVK-Pkw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ9vlBCS1DjkRrzopuVK-Pkw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:19:57"
+  },
+  {
+    "business_name": "ALMadad Cranes",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane service",
+    "all_categories": "Crane service",
+    "pincode": "277504",
+    "phone_number": "+91 70062 32397",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pantha Chowk, Srinagar, Jammu and Kashmir 191101",
+    "area": "Pantha Chowk",
+    "latitude": 34.0403101,
+    "longitude": 74.88797199999999,
+    "place_id": "ChIJwzJvpeiJ4TgRSS78gcNxX1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwzJvpeiJ4TgRSS78gcNxX1M",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:19:58"
+  }
+]

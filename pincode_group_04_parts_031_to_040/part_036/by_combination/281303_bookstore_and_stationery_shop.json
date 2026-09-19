@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Standard Stationery Mart",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Pen store, Shopping mall",
+    "pincode": "281303",
+    "phone_number": "+91 83848 81345",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "college road, in front of cow shed, Khurja, Uttar Pradesh 203131",
+    "area": "281303",
+    "latitude": 28.249815599999998,
+    "longitude": 77.8519175,
+    "place_id": "ChIJR4xPFDmpDDkR65Ycxsz-F9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR4xPFDmpDDkR65Ycxsz-F9c",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:54:10"
+  },
+  {
+    "business_name": "Love Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "281303",
+    "phone_number": "+91 98975 24224",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Haroda Rd, near Gali Number 2, Lodhi market, Simbhaoli, Uttar Pradesh 245207",
+    "area": "Lodhi market",
+    "latitude": 28.7600816,
+    "longitude": 77.9829326,
+    "place_id": "ChIJEYtP-Eh8CzkR5oX9VFJkT04",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEYtP-Eh8CzkR5oX9VFJkT04",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:54:10"
+  }
+]

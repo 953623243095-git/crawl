@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arman kapda Shop",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "281203",
+    "phone_number": "+91 93680 43409",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bajna, Naujhil, Nauhjheel Banger, Uttar Pradesh 281203",
+    "area": "Bajna",
+    "latitude": 27.8500205,
+    "longitude": 77.6498555,
+    "place_id": "ChIJK_MBDxRHczkRGds-iK2vIGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK_MBDxRHczkRGds-iK2vIGo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:42:36"
+  },
+  {
+    "business_name": "Munna Lal Gupta Book Store",
+    "search_category": "Boutiques",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "281203",
+    "phone_number": "+91 98087 52361",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Chamad chauraha, Naujhil, Nauhjheel Banger, Uttar Pradesh 281203",
+    "area": "281203",
+    "latitude": 27.8472741,
+    "longitude": 77.6480335,
+    "place_id": "ChIJB0RXDZ1HczkRs4s2ovFDAVM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB0RXDZ1HczkRs4s2ovFDAVM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:42:36"
+  }
+]

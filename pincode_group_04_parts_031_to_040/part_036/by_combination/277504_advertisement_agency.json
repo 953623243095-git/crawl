@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vikas Traders",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "277504",
+    "phone_number": "+91 91995 95241",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "near Midel School, Arjunpur, Buxar, Bihar 802116",
+    "area": "277504",
+    "latitude": 25.6029058,
+    "longitude": 84.019386,
+    "place_id": "ChIJIcUHowx3kjkRKkTyDrHTBuI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIcUHowx3kjkRKkTyDrHTBuI",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:20:49"
+  },
+  {
+    "business_name": "Sohaon",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Commercial agent",
+    "all_categories": "Commercial agent",
+    "pincode": "277504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NH 31, Sohaon, Shitalpatti, Uttar Pradesh 277504",
+    "area": "277504",
+    "latitude": 25.6265091,
+    "longitude": 84.0041564,
+    "place_id": "ChIJc2XNAwB1kjkRA_lwfncU6rA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc2XNAwB1kjkRA_lwfncU6rA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:20:51"
+  }
+]

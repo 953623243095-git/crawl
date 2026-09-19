@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "REHAN COMMUNICATION & GENERAL STORE",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "277213",
+    "phone_number": "+91 91515 35612",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Semri Rampur, Uttar Pradesh 277213",
+    "area": "277213",
+    "latitude": 25.8939854,
+    "longitude": 84.1556233,
+    "place_id": "ChIJOcCquX9nkjkR0DsVlboqAZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOcCquX9nkjkR0DsVlboqAZw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:55:32"
+  },
+  {
+    "business_name": "Santosh Singh General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "277213",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "V593+6P9, Surajpur, Bhimpur, Uttar Pradesh 277301",
+    "area": "277213",
+    "latitude": 25.868031799999997,
+    "longitude": 84.15436989999999,
+    "place_id": "ChIJyYAt0NhnkjkRyIvZtklgY3A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyYAt0NhnkjkRyIvZtklgY3A",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:55:33"
+  }
+]

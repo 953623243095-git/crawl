@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Upadhyaji Dhaba & Resturant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "281501",
+    "phone_number": "+91 73760 97921",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 67,
+    "address": "GF9R+FH9, Radha Kund Rd, Jikhangaon, Uttar Pradesh 281504",
+    "area": "281501",
+    "latitude": 27.5186739,
+    "longitude": 77.4914794,
+    "place_id": "ChIJ249EXMANczkRh3bRzUZwfsY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ249EXMANczkRh3bRzUZwfsY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:11:05"
+  },
+  {
+    "business_name": "Radha rani food services",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "281501",
+    "phone_number": "+91 76681 24606",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Maura post, Khamini, Mathura, Uttar Pradesh 281501",
+    "area": "281501",
+    "latitude": 27.5181486,
+    "longitude": 77.58556949999999,
+    "place_id": "ChIJ41t9poZzczkRGSzeGdilxCM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ41t9poZzczkRGSzeGdilxCM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:11:08"
+  }
+]

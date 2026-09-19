@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Invocon Electronics",
+    "search_category": "Industrial Estate / GIDC / MIDC / SIPCOT",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop, Electronics store",
+    "pincode": "281001",
+    "phone_number": "+91 98973 11888",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 5,
+    "address": "Mathura - Vrindavan Marg, Manoharpura, Mathura, Uttar Pradesh 281001",
+    "area": "Manoharpura",
+    "latitude": 27.5020247,
+    "longitude": 77.6702443,
+    "place_id": "ChIJBWmoBG5xczkRv6gX4k5eQSk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBWmoBG5xczkRv6gX4k5eQSk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:24:30"
+  },
+  {
+    "business_name": "GTM INDUSTRIES PVT LTD",
+    "search_category": "Industrial Estate / GIDC / MIDC / SIPCOT",
+    "primary_category": "Textile mill",
+    "all_categories": "Textile mill",
+    "pincode": "281001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 35,
+    "address": "NH 19, Hasanpur Nagla, Uttar Pradesh 281403",
+    "area": "281001",
+    "latitude": 27.819683899999998,
+    "longitude": 77.4242692,
+    "place_id": "ChIJ-71y3W47czkROtp90Y9ZG_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-71y3W47czkROtp90Y9ZG_E",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:24:30"
+  }
+]

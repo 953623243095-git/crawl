@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KK Enterprises",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Electrical supply store, Fastener supplier, Hardware store, Safety equipment supplier, Wholesaler",
+    "pincode": "281005",
+    "phone_number": "+91 94169 95545",
+    "website": "http://www.kkenterprise.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot no. 364, Village, near PNB Bank, Bans Hariya, Sector 8, IMT Manesar, Manesar, Gurugram, Haryana 122503",
+    "area": "Bans Hariya, Sector 8, IMT Manesar",
+    "latitude": 28.3750504,
+    "longitude": 76.8890481,
+    "place_id": "ChIJDQ3be_4_DTkRVJhsJw7x0PA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDQ3be_4_DTkRVJhsJw7x0PA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:29:34"
+  },
+  {
+    "business_name": "Aditya Fasteners Machinery Store",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Industrial equipment supplier, Industrial supermarket",
+    "pincode": "281005",
+    "phone_number": "+91 98910 71140",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "NCR Region, Main Market, Park, 9, Kasna, Uttar Pradesh 201312",
+    "area": "Kasna",
+    "latitude": 28.438885199999998,
+    "longitude": 77.5396013,
+    "place_id": "ChIJc3Cp0WnADDkRxC-k4JwGbVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc3Cp0WnADDkRxC-k4JwGbVk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:29:35"
+  }
+]

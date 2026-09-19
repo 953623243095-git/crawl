@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sudarshan Home Decor",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "281004",
+    "phone_number": "+91 90451 33005",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FMV3+FWF, Krishna Nagar, Mathura, Uttar Pradesh 281004",
+    "area": "Krishna Nagar",
+    "latitude": 27.493693,
+    "longitude": 77.6548111,
+    "place_id": "ChIJazyIwGFxczkR12AgcgwGFSE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJazyIwGFxczkR12AgcgwGFSE",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:27:24"
+  },
+  {
+    "business_name": "Home interiors",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Interior Decorator",
+    "pincode": "281004",
+    "phone_number": "+91 86302 41871",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Cp1/105, phase 2, Radhika Vihar, Mathura, Uttar Pradesh 281001",
+    "area": "phase 2, Radhika Vihar",
+    "latitude": 27.4938829,
+    "longitude": 77.65537239999999,
+    "place_id": "ChIJTSAPbFRxczkRX_YtNUYVWuo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTSAPbFRxczkRX_YtNUYVWuo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:27:25"
+  }
+]

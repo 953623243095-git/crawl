@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bansal Boot House & Readymade",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Clothing store",
+    "pincode": "281303",
+    "phone_number": "+91 98084 38136",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Aurangabad, Mathura, Uttar Pradesh 281006",
+    "area": "Aurangabad",
+    "latitude": 27.4416981,
+    "longitude": 77.7046913,
+    "place_id": "ChIJgesCAxx3czkRrD_-H7XUaD0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgesCAxx3czkRrD_-H7XUaD0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:53:14"
+  },
+  {
+    "business_name": "Variety Shoes",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "281303",
+    "phone_number": "+91 92598 50542",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shanti Nagar, Mathura, Uttar Pradesh 281001",
+    "area": "Shanti Nagar",
+    "latitude": 27.4911891,
+    "longitude": 77.6720766,
+    "place_id": "ChIJT4TwCmpxczkRTM9OD-ZoOZk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT4TwCmpxczkRTM9OD-ZoOZk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:53:15"
+  }
+]

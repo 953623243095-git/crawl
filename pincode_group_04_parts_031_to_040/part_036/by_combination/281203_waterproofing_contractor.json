@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ArpitEnterprises",
+    "search_category": "Waterproofing Contractor",
+    "primary_category": "Door manufacturer",
+    "all_categories": "Door manufacturer, Service establishment, Hardware store",
+    "pincode": "281203",
+    "phone_number": "+91 89799 39579",
+    "website": "https://www.vaidiklock.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "ArpitEnterprises, 281203, India",
+    "area": "281203",
+    "latitude": 27.785111999999998,
+    "longitude": 77.0595484,
+    "place_id": "ChIJg7AKt1MEYGARgbXs83TJP2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg7AKt1MEYGARgbXs83TJP2I",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:43:06"
+  },
+  {
+    "business_name": "Aqua Stars Marketing",
+    "search_category": "Waterproofing Contractor",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "281203",
+    "phone_number": "+91 72538 27520",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Daresi Rd, Manoharpura, Mathura, Uttar Pradesh 281001",
+    "area": "Manoharpura",
+    "latitude": 27.5024196,
+    "longitude": 77.67587,
+    "place_id": "ChIJe8JX1y5xczkRfIV3xreox8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe8JX1y5xczkRfIV3xreox8I",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:43:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Hair Salon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "281504",
+    "phone_number": "+91 83978 92138",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "3 Goverdhan Chouraha, Chhatikara, Uttar Pradesh 281504",
+    "area": "281504",
+    "latitude": 27.563468399999998,
+    "longitude": 77.6240784,
+    "place_id": "ChIJNcMPEPNtczkRK7PNj-PrHkw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNcMPEPNtczkRK7PNj-PrHkw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:15:23"
+  },
+  {
+    "business_name": "Raj hair dresser",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hair salon",
+    "pincode": "281504",
+    "phone_number": "+91 97197 12420",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 14,
+    "address": "HJ6H+C2V, vrindavan chauraha chhatikara, Chhatikara, Uttar Pradesh 281504",
+    "area": "281504",
+    "latitude": 27.5611186,
+    "longitude": 77.6275344,
+    "place_id": "ChIJVwYFnIttczkRt4Lrc4Is7wc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVwYFnIttczkRt4Lrc4Is7wc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:15:23"
+  }
+]

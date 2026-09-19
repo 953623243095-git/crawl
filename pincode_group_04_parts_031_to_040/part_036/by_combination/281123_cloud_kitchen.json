@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jagannath cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Takeout restaurant",
+    "all_categories": "Takeout restaurant",
+    "pincode": "281123",
+    "phone_number": "+91 96276 26007",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 7,
+    "address": "Radha kant temple Kusum Sarovar, Radha Kund Rd, Govardhan, Radhakund Rural, Uttar Pradesh 281123",
+    "area": "281123",
+    "latitude": 27.51337,
+    "longitude": 77.480473,
+    "place_id": "ChIJT00G8O9vczkRCNV-dW0z0Ds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT00G8O9vczkRCNV-dW0z0Ds",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:36:58"
+  },
+  {
+    "business_name": "Cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Soup kitchen",
+    "all_categories": "Soup kitchen",
+    "pincode": "281123",
+    "phone_number": "+91 76070 03991",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "PWQW+W4H cloud kitchen, 438, Rashmi Khand, Ekta Nagar, Lucknow, Kalli Pashchim, Uttar Pradesh 226301",
+    "area": "Rashmi Khand, Ekta Nagar",
+    "latitude": 26.7397431,
+    "longitude": 80.94554029999999,
+    "place_id": "ChIJ7YjpXQD7mzkRNieBCPvGEWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7YjpXQD7mzkRNieBCPvGEWQ",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:36:59"
+  }
+]

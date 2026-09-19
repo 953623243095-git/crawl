@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kings Fashion",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Formal Clothing Store, Men's clothing store",
+    "pincode": "282002",
+    "phone_number": "+91 97192 25670",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Dayal Bagh Rd, near Bhagat Halwai, Swamibagh, DayalBagh, Agra, Uttar Pradesh 282005",
+    "area": "Swamibagh, DayalBagh",
+    "latitude": 27.2193157,
+    "longitude": 78.0085344,
+    "place_id": "ChIJNboh_Fd3dDkRH104iTP8Bew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNboh_Fd3dDkRH104iTP8Bew",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:18:33"
+  },
+  {
+    "business_name": "Natkhat Fancy Dress",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Costume store",
+    "all_categories": "Costume store, Costume rental service",
+    "pincode": "282002",
+    "phone_number": "+91 82188 40275",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "106/5, Balkeshwar Rd, opposite BALDEV DHARAMSALA, Balkeshwar Colony, Ganesh Chowk, Agra, Uttar Pradesh 282005",
+    "area": "Balkeshwar Colony, Ganesh Chowk",
+    "latitude": 27.2141782,
+    "longitude": 78.03037119999999,
+    "place_id": "ChIJh7kLZ_ZxdDkRHVTmIMDxmPg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh7kLZ_ZxdDkRHVTmIMDxmPg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:18:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Decor Planner",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Party planner",
+    "all_categories": "Party planner, Balloon artist, Event planner, Wedding service",
+    "pincode": "277303",
+    "phone_number": "+91 83683 92166",
+    "website": "https://decorplanner.co.in/",
+    "rating": 5,
+    "reviews_count": 41,
+    "address": "SF 4, A-10, Ankur Vihar, DLF Ankur Vihar, Ghaziabad, Uttar Pradesh 201102",
+    "area": "Ankur Vihar, DLF Ankur Vihar",
+    "latitude": 28.741115399999998,
+    "longitude": 77.263212,
+    "place_id": "ChIJpQHVai-GmWERbM6an2EK4aY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpQHVai-GmWERbM6an2EK4aY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:06:37"
+  },
+  {
+    "business_name": "WOW Balloons Decoration- Haridwar",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist",
+    "pincode": "277303",
+    "phone_number": "N/A",
+    "website": "https://www.wowballoonsdecoration.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C-1, Road, near Sati Kund Mandir, Krishna Nagar, Jagjeetpur, Haridwar, Uttarakhand 249408",
+    "area": "Krishna Nagar, Jagjeetpur",
+    "latitude": 29.921621899999998,
+    "longitude": 78.1343507,
+    "place_id": "ChIJv0i-4MVHCTkR1kWLE_Ld6V0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv0i-4MVHCTkR1kWLE_Ld6V0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:06:39"
+  }
+]

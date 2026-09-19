@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pokarmal Enterprises",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Fabric wholesaler",
+    "all_categories": "Fabric wholesaler",
+    "pincode": "277303",
+    "phone_number": "+91 88200 77888",
+    "website": "http://www.pokarmal.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "75/2, Maulana Saukat Ali St, Kolutolla, Kolkata, West Bengal 700073",
+    "area": "Kolutolla",
+    "latitude": 22.5761994,
+    "longitude": 88.3568076,
+    "place_id": "ChIJVW7Zz7F3AjoRts0v-PEmL98",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVW7Zz7F3AjoRts0v-PEmL98",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:05:55"
+  },
+  {
+    "business_name": "AHMAD HANDLOOM",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Clothing wholesaler",
+    "all_categories": "Clothing wholesaler",
+    "pincode": "277303",
+    "phone_number": "+91 85390 67274",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NEW SHISH MAHAL MARKET, near BADI MASJID, Telhatta Bazar, Siwan, Bihar 841226",
+    "area": "Telhatta Bazar",
+    "latitude": 26.221339399999998,
+    "longitude": 84.3586242,
+    "place_id": "ChIJV1VVUQH8kjkRVK7paCCazjU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV1VVUQH8kjkRVK7paCCazjU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:05:55"
+  }
+]

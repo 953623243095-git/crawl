@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HDB Financial Service Ltd",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Business development service",
+    "all_categories": "Business development service, Financial institution, Car finance and loan company, Loan agency, Mortgage broker, Mortgage lender",
+    "pincode": "281004",
+    "phone_number": "+91 44 4298 4541",
+    "website": "https://www.hdbfs.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "No. C2/C3, City Centre Mall, AH1, Krishna Nagar, Mathura, Uttar Pradesh 281004",
+    "area": "Krishna Nagar",
+    "latitude": 27.495602599999998,
+    "longitude": 77.6544218,
+    "place_id": "ChIJiRQpKodxczkRMpb31uo59M8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiRQpKodxczkRMpb31uo59M8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:27:44"
+  },
+  {
+    "business_name": "Shree Bihari Ji Enterprises",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Appliance store, Furniture store",
+    "pincode": "281004",
+    "phone_number": "+91 98379 04111",
+    "website": "N/A",
+    "rating": 2.4,
+    "reviews_count": 14,
+    "address": "Govardhan Chouraha, opp. Police Station, Dwarka Enclave, Krishna Nagar, Mathura, Uttar Pradesh 281004",
+    "area": "Dwarka Enclave, Krishna Nagar",
+    "latitude": 27.5008946,
+    "longitude": 77.654076,
+    "place_id": "ChIJRV9Vq2JxczkRABe4xa_3Deg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRV9Vq2JxczkRABe4xa_3Deg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:27:45"
+  }
+]

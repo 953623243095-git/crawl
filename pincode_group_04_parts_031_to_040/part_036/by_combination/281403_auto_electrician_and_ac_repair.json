@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raju car workshop hodal",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "281403",
+    "phone_number": "+91 98133 10346",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "881, near sanjeevni hospital, Kartar Colony, Hodal, Haryana 121106",
+    "area": "Kartar Colony",
+    "latitude": 27.8896518,
+    "longitude": 77.380366,
+    "place_id": "ChIJ-fcF3uE7czkRSDf0Gh4NNDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-fcF3uE7czkRSDf0Gh4NNDM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:04:24"
+  },
+  {
+    "business_name": "VIDYA MOTORS (HODAL)",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "281403",
+    "phone_number": "+91 90505 60796",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Hodal, Haryana 121106",
+    "area": "281403",
+    "latitude": 27.8842057,
+    "longitude": 77.34047939999999,
+    "place_id": "ChIJo4hQhEslczkReDFhg6D5rtE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo4hQhEslczkReDFhg6D5rtE",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:04:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LIC of India, Satellite Office",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance company",
+    "all_categories": "Insurance company, Life insurance agency",
+    "pincode": "281306",
+    "phone_number": "N/A",
+    "website": "http://www.licindia.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Agra - Jalesar Rd, Sadabad, Uttar Pradesh 281306",
+    "area": "281306",
+    "latitude": 27.44101,
+    "longitude": 78.03336,
+    "place_id": "ChIJWS3I2zqHdDkRdAq0nTO2CQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWS3I2zqHdDkRdAq0nTO2CQw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:57:55"
+  },
+  {
+    "business_name": "LIC LIFE POINT",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance company",
+    "all_categories": "Insurance company",
+    "pincode": "281306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Private bus stand, Van Vibhag Gali, Sadabad, Uttar Pradesh 281306",
+    "area": "281306",
+    "latitude": 27.4407878,
+    "longitude": 78.0296821,
+    "place_id": "ChIJi_KpfsKHdDkRraw4rTDkeW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi_KpfsKHdDkRraw4rTDkeW0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:57:55"
+  }
+]

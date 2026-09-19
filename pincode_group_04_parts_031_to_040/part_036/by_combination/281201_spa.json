@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunlight spa senter",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "281201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VMQC+982, Saeo Patti Banger, Uttar Pradesh 281201",
+    "area": "281201",
+    "latitude": 27.8883901,
+    "longitude": 77.6707656,
+    "place_id": "ChIJt-4RZQBFczkR3szwkacqzxY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt-4RZQBFczkR3szwkacqzxY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:39:30"
+  },
+  {
+    "business_name": "Smile Body Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "281201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near by Hanuman Mandir, Dhauli Pyau, Chauraha, Mathura, Uttar Pradesh 281001",
+    "area": "Dhauli Pyau, Chauraha",
+    "latitude": 27.4705364,
+    "longitude": 77.6724036,
+    "place_id": "ChIJzYOCC0txczkRzeZWpkbohZg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzYOCC0txczkRzeZWpkbohZg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:39:31"
+  }
+]

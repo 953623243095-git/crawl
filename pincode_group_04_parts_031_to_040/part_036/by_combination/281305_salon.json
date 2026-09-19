@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Karan Hair Salon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "281305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CPMV+7FR, Mahaaban, Mathura, Uttar Pradesh 281305",
+    "area": "Mahaaban",
+    "latitude": 27.433237,
+    "longitude": 77.74365279999999,
+    "place_id": "ChIJzZ9CTQB3czkR7RaYs2hpW4M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzZ9CTQB3czkR7RaYs2hpW4M",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:55:38"
+  },
+  {
+    "business_name": "BEARD MENS GROOMS Hair Saloon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "281305",
+    "phone_number": "+91 90840 14103",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "FP43+8V3, Agra Rd, Aurangabad, Mathura, Uttar Pradesh 281001",
+    "area": "Aurangabad",
+    "latitude": 27.455773699999998,
+    "longitude": 77.7046841,
+    "place_id": "ChIJzSXphCZ3czkRrHZ44qEssl4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzSXphCZ3czkRrHZ44qEssl4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:55:41"
+  }
+]

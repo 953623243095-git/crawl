@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yogesh Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "281203",
+    "phone_number": "+91 99171 14720",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "1 Bass Amru, Hathras Road, Jarau, Uttar Pradesh 283126",
+    "area": "281203",
+    "latitude": 27.359309999999997,
+    "longitude": 78.0320716,
+    "place_id": "ChIJy257Ui99dDkR0d36lLE_FjA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy257Ui99dDkR0d36lLE_FjA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:42:52"
+  },
+  {
+    "business_name": "SHREE BALAJI CYCLE SHOWROOM",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "281203",
+    "phone_number": "+91 78381 54726",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Ahaar Rd, Anupshahar, Badshahpur Pauta, Uttar Pradesh 203394",
+    "area": "281203",
+    "latitude": 28.434593999999997,
+    "longitude": 78.1778664,
+    "place_id": "ChIJu0eZN7dFCzkR7SMzrKadd5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu0eZN7dFCzkR7SMzrKadd5o",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:42:52"
+  }
+]

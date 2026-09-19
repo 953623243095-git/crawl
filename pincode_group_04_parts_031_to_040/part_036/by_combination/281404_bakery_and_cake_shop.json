@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "सौरोत बेकरी",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Ice supplier",
+    "pincode": "281404",
+    "phone_number": "+91 90600 64090",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hodal Hasanpur Rd, Hasanpur, Haryana 121107",
+    "area": "281404",
+    "latitude": 27.965495699999998,
+    "longitude": 77.4877498,
+    "place_id": "ChIJ25Hm-T83czkRyxkJ3YA_2No",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ25Hm-T83czkRyxkJ3YA_2No",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:05:40"
+  },
+  {
+    "business_name": "Hiralal",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "281404",
+    "phone_number": "+91 76184 47127",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "30Jawali Mathura, Jawali, Dalota, Uttar Pradesh 281404",
+    "area": "281404",
+    "latitude": 27.725232499999997,
+    "longitude": 77.6517209,
+    "place_id": "ChIJ64yaQClrczkR-1yQrcgj4A4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ64yaQClrczkR-1yQrcgj4A4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:05:41"
+  }
+]

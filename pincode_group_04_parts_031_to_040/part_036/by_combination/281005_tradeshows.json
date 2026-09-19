@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "International Trade Expo Centre Limited",
+    "search_category": "Tradeshows",
+    "primary_category": "Convention center",
+    "all_categories": "Convention center, Event venue",
+    "pincode": "281005",
+    "phone_number": "+91 98718 43333",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "A-11 Expo Drive, A11, National Highway 24, Industrial Area, Sector 62, Noida, Uttar Pradesh 201309",
+    "area": "Block A, Industrial Area, Sector 62",
+    "latitude": 28.6307185,
+    "longitude": 77.3737409,
+    "place_id": "ChIJVVVVgbroDDkRzmumcL_tst8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVgbroDDkRzmumcL_tst8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:29:39"
+  },
+  {
+    "business_name": "Garment Technology Expo",
+    "search_category": "Tradeshows",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "281005",
+    "phone_number": "+91 11 4160 1663",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "C-17, 2nd Floor, DDA Sheds, Pocket A, Okhla Phase I, Okhla Industrial Estate, New Delhi, Delhi 110020",
+    "area": "DDA Sheds, Pocket A, Okhla Phase I, Okhla Industrial Estate",
+    "latitude": 28.5281028,
+    "longitude": 77.27465819999999,
+    "place_id": "ChIJx0i1X1DhDDkRAF3p-43VuJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx0i1X1DhDDkRAF3p-43VuJg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:29:39"
+  }
+]

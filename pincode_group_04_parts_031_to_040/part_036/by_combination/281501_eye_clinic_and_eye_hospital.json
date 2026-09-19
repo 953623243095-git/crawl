@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Eye Care",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "281501",
+    "phone_number": "+91 93106 72434",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "HH42+3WM, GT Rd, Dadri, Uttar Pradesh 203207",
+    "area": "281501",
+    "latitude": 28.555206499999997,
+    "longitude": 77.5522964,
+    "place_id": "ChIJI2tys9PrDDkRKqyQx25y7YA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI2tys9PrDDkRKqyQx25y7YA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:11:24"
+  },
+  {
+    "business_name": "Shri radhe krishna eye care",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "281501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "27, Sonkh Rd, Om Nagar Colony, Mathura, Unchagaon, Uttar Pradesh 281123",
+    "area": "Om Nagar Colony",
+    "latitude": 27.4353117,
+    "longitude": 77.5921193,
+    "place_id": "ChIJ34-WLFh1czkRWyuo8Ui-GIQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ34-WLFh1czkRWyuo8Ui-GIQ",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:11:25"
+  }
+]

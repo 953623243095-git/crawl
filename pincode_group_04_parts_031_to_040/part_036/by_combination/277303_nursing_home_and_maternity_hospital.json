@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "D N Surya Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "277303",
+    "phone_number": "+91 94154 97662",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Main Road, Belthara, Choukia, Uttar Pradesh 221715",
+    "area": "277303",
+    "latitude": 26.1245241,
+    "longitude": 83.86411509999999,
+    "place_id": "ChIJ02TZRD83kjkRaoBuD9YlumM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ02TZRD83kjkRaoBuD9YlumM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:06:04"
+  },
+  {
+    "business_name": "New muskan hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "277303",
+    "phone_number": "+91 73884 41244",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ghosi Rd, Khanwar, Nagra, Bhandari, Uttar Pradesh 221711",
+    "area": "Khanwar",
+    "latitude": 25.970474799999998,
+    "longitude": 83.8695085,
+    "place_id": "ChIJuW_v2N0_kjkRce5RlAulqHM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuW_v2N0_kjkRce5RlAulqHM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:06:04"
+  }
+]

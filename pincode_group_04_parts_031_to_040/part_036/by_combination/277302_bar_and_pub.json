@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ram ram",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "277302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "235P+P9Q, Masumpur, Sikandarpur, Uttar Pradesh 277303",
+    "area": "277302",
+    "latitude": 26.0094948,
+    "longitude": 84.087263,
+    "place_id": "ChIJOda9fQBDkjkRXX2mmcIawM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOda9fQBDkjkRXX2mmcIawM8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:04:07"
+  },
+  {
+    "business_name": "Bharat Traders",
+    "search_category": "Bar and Pub",
+    "primary_category": "Fire protection system supplier",
+    "all_categories": "Fire protection system supplier",
+    "pincode": "277302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ballia - Sikanderpur Rd, Ballia, Majhauba, Uttar Pradesh 277302",
+    "area": "277302",
+    "latitude": 25.8860288,
+    "longitude": 84.08685659999999,
+    "place_id": "ChIJI-WqCy1pkjkRsyPcTtnMXLg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI-WqCy1pkjkRsyPcTtnMXLg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:04:10"
+  }
+]

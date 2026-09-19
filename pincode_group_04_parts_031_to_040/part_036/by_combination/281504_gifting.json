@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cosmetic and Gifts shop",
+    "search_category": "Gifting",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "281504",
+    "phone_number": "+91 88817 77677",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Roadways Colony, Goverdhan Rd, Surya Nagar, Mathura, Mathura Bangar, Uttar Pradesh 281004",
+    "area": "Surya Nagar",
+    "latitude": 27.4987334,
+    "longitude": 77.6388735,
+    "place_id": "ChIJGxlezkVzczkRN3IbWXw5XxA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGxlezkVzczkRN3IbWXw5XxA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:15:34"
+  },
+  {
+    "business_name": "Vanshika Cosmetic And Gift Center",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "281504",
+    "phone_number": "+91 76185 31213",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "1, Ral, Uttar Pradesh 281504",
+    "area": "281504",
+    "latitude": 27.5569831,
+    "longitude": 77.5621342,
+    "place_id": "ChIJcRkMqC1tczkRJPHvn5sTyus",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcRkMqC1tczkRJPHvn5sTyus",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:15:34"
+  }
+]

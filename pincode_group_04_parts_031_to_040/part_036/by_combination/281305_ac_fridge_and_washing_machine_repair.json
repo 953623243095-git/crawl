@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Krishna Cooling Centre",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service, Refrigerator repair service, Washer & dryer repair service",
+    "pincode": "281305",
+    "phone_number": "+91 96753 72275",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "CPV4+V7R, Opposite Primary School, Aurangabad, Mathura, Uttar Pradesh 281006",
+    "area": "Aurangabad",
+    "latitude": 27.4447497,
+    "longitude": 77.705649,
+    "place_id": "ChIJy9sBKRl3czkRhw25x78wB8o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy9sBKRl3czkRhw25x78wB8o",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:55:36"
+  },
+  {
+    "business_name": "Radha Krishna Home Appliances { Ek Vishwas }",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service, Air conditioning contractor, Gas shop, Pressure washing service, Refrigerator repair service, Washer & dryer repair service, Washer & dryer store",
+    "pincode": "281305",
+    "phone_number": "+91 98129 98947",
+    "website": "http://radha-krishna-home-appliances.odoo.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chock, near Balwan Tractor Agency, Mohlla Khatikan, Satnali, Mahendragarh, Haryana 123029",
+    "area": "Mohlla Khatikan",
+    "latitude": 28.2635124,
+    "longitude": 76.1406451,
+    "place_id": "ChIJJ5Geq5m_EjkR-P0FIoNySw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ5Geq5m_EjkR-P0FIoNySw4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:55:36"
+  }
+]

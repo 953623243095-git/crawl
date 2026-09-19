@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat security services",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security service",
+    "all_categories": "Security service",
+    "pincode": "281121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "office no 203, Omex gopala B6, Vrindavan, Uttar Pradesh 281121",
+    "area": "281121",
+    "latitude": 27.5650566,
+    "longitude": 77.659342,
+    "place_id": "ChIJoVCH4xVvczkR8-ZG9R_9mjo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoVCH4xVvczkR8-ZG9R_9mjo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:34:40"
+  },
+  {
+    "business_name": "SAI SERVICE SECURITY AGENCY PVT LTD.",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service",
+    "pincode": "281121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "46, Burja, colony, Vrindavan, Uttar Pradesh 281121",
+    "area": "Burja, colony",
+    "latitude": 27.561027799999998,
+    "longitude": 77.6672334,
+    "place_id": "ChIJf1PAB_xvczkRUY5N8ZdLAGk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf1PAB_xvczkRUY5N8ZdLAGk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:34:40"
+  }
+]

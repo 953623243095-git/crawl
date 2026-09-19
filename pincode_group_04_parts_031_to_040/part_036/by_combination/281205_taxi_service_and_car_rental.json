@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Garima taxi service vrindavn mathura",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service",
+    "pincode": "281205",
+    "phone_number": "+91 84397 85071",
+    "website": "http://www.garimataxi.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chaitanya Vihar, Vrindavan, Uttar Pradesh 281121",
+    "area": "Chaitanya Vihar",
+    "latitude": 27.5709302,
+    "longitude": 77.6727616,
+    "place_id": "ChIJERvaF7VvczkR5rmtaLaxBcI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJERvaF7VvczkR5rmtaLaxBcI",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:46:24"
+  },
+  {
+    "business_name": "Vrindavan Mathura Taxi Services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Tour operator",
+    "pincode": "281205",
+    "phone_number": "+91 92867 86032",
+    "website": "https://www.vrindavanmathurataxiservices.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot no 497 Kaimarvan Davanal kund, Bengar, Vrindavan, Mathura, Uttar Pradesh 281003",
+    "area": "Bengar",
+    "latitude": 27.5587627,
+    "longitude": 77.6500824,
+    "place_id": "ChIJJTWRKMNtczkRpyPJ2_2asNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJTWRKMNtczkRpyPJ2_2asNk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:46:27"
+  }
+]

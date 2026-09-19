@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dev Mobile.",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "281403",
+    "phone_number": "+91 99922 35429",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "121106, Ward No. 3, Ward.3, Friends Colony, Hodal, Haryana 121106",
+    "area": "Ward No. 3, Ward.3, Friends Colony",
+    "latitude": 27.8921326,
+    "longitude": 77.37635929999999,
+    "place_id": "ChIJT0WZkVIlczkRftDf2nYOokk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT0WZkVIlczkRftDf2nYOokk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:05:03"
+  },
+  {
+    "business_name": "Mobile Guru",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "281403",
+    "phone_number": "+91 90242 24224",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "bus stand, Main, Teh, Kaman, Jurhera, Rajasthan 321023",
+    "area": "Kaman",
+    "latitude": 27.7823437,
+    "longitude": 77.2084019,
+    "place_id": "ChIJ1VMVeXwhczkRO985hBWTDc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1VMVeXwhczkRO985hBWTDc8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:05:04"
+  }
+]

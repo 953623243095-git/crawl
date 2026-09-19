@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Home Furniture & Interiors",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture Manufacturer",
+    "all_categories": "Furniture Manufacturer, Furniture store",
+    "pincode": "281504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Madhuvan Enclave, 11, Goverdhan Chauraha, near Highway Gate of Jain Mandir, Dwarka Enclave, Krishna Nagar, Mathura, Uttar Pradesh 281004",
+    "area": "Dwarka Enclave, Krishna Nagar",
+    "latitude": 27.504406499999998,
+    "longitude": 77.6535123,
+    "place_id": "ChIJ2dBWOQBxczkRwU3qdyC_pEU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2dBWOQBxczkRwU3qdyC_pEU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:15:22"
+  },
+  {
+    "business_name": "Maa Trading Company (furniture and electronics)",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "281504",
+    "phone_number": "+91 97193 50423",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "FJPX+GWW, Narsi Vihar, Transport Nagar, Mathura, Uttar Pradesh 281004",
+    "area": "Surya Nagar",
+    "latitude": 27.486371199999997,
+    "longitude": 77.6498287,
+    "place_id": "ChIJr0uaZuFzczkRSMD7j3-OgqI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr0uaZuFzczkRSMD7j3-OgqI",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:15:23"
+  }
+]

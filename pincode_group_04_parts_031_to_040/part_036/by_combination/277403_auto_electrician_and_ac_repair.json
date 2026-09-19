@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ved Enterprises",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto machine shop",
+    "all_categories": "Auto machine shop",
+    "pincode": "277403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Maldepur, Khori Pakar, Uttar Pradesh 277001",
+    "area": "277403",
+    "latitude": 25.7500204,
+    "longitude": 84.121084,
+    "place_id": "ChIJL-eGvwhlkjkRtVgIesmwXEs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL-eGvwhlkjkRtVgIesmwXEs",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:13:07"
+  },
+  {
+    "business_name": "CARFACTORY Xpert Pvt. Ltd.",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto body shop, Auto painting, Car wash",
+    "pincode": "277403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "NH 31, Maranga, Purnia, Rudrapur, Uttar Pradesh 277403",
+    "area": "Maranga",
+    "latitude": 25.7732931,
+    "longitude": 84.3641798,
+    "place_id": "ChIJvdKljduPkjkRlEbp9QG_E0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvdKljduPkjkRlEbp9QG_E0Y",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:13:08"
+  }
+]

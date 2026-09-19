@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SBS CAR WASH AND DRY CLEANING",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "277402",
+    "phone_number": "+91 74810 74035",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Dumraon, Bihar 802112",
+    "area": "277402",
+    "latitude": 25.607062499999998,
+    "longitude": 84.2935625,
+    "place_id": "ChIJc9Fh9RiBkjkRjmc5k4XsHHM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc9Fh9RiBkjkRjmc5k4XsHHM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:11:22"
+  },
+  {
+    "business_name": "Shyam Car Washing Center",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "277402",
+    "phone_number": "+91 95077 65631",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Karnamepur Rd, Shahpur, Parsonda, Bihar 802112",
+    "area": "277402",
+    "latitude": 25.660603,
+    "longitude": 84.3603278,
+    "place_id": "ChIJI__bMACFkjkRUnYyab7Qmnk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI__bMACFkjkRUnYyab7Qmnk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:11:22"
+  }
+]

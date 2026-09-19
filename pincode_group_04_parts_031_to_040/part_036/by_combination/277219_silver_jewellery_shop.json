@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kalash Jewellery Shop",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "277219",
+    "phone_number": "+91 75499 38280",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Raghunathpur - Darauli Rd, Moti Chak, Raghunath Pur, Bihar 841504",
+    "area": "277219",
+    "latitude": 26.0018536,
+    "longitude": 84.270455,
+    "place_id": "ChIJQ1DEzoL1kjkRHE76QG2UCVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ1DEzoL1kjkRHE76QG2UCVU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:00:49"
+  },
+  {
+    "business_name": "नन्द कुमारी ज्वेलर्स",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "277219",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Hardattpur, Uttar Pradesh 277219",
+    "area": "277219",
+    "latitude": 25.9163164,
+    "longitude": 84.237841,
+    "place_id": "ChIJb1-VpHpgkjkRvTrakv2iGO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb1-VpHpgkjkRvTrakv2iGO0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:00:49"
+  }
+]

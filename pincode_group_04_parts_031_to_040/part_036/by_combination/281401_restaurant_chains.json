@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pizza home cafe",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "281401",
+    "phone_number": "+91 79823 53289",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "opposite radha madhav hospital, Barsana, Uttar Pradesh 281405",
+    "area": "281401",
+    "latitude": 27.6508137,
+    "longitude": 77.3783443,
+    "place_id": "ChIJu-N5uAIZczkRqZlePExB2D0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu-N5uAIZczkRqZlePExB2D0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:02:11"
+  },
+  {
+    "business_name": "Pizza Hut | Mathura Expressway, Mathura",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Italian restaurant, Pizza delivery, Pizza takeaway, Restaurant",
+    "pincode": "281401",
+    "phone_number": "+91 89583 96656",
+    "website": "https://restaurants.pizzahut.co.in/pizza-hut-mathura-highway-pizza-takeaway-mathura-highway-mathura-22989/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "DIL, Food Street, Mathura Highway, Mauza Chamuha, Chhata Rural, Mathura, Uttar Pradesh 281406",
+    "area": "Mauza Chamuha",
+    "latitude": 27.593935499999997,
+    "longitude": 77.6043617,
+    "place_id": "ChIJ5b1J2gZtczkRdLV0H91HX24",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5b1J2gZtczkRdLV0H91HX24",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:02:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BLUE DART DHL",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, Service establishment",
+    "pincode": "281122",
+    "phone_number": "N/A",
+    "website": "https://www.bluedart.com/",
+    "rating": 2,
+    "reviews_count": 4,
+    "address": "BLUE DART DHL, 281122, India",
+    "area": "281122",
+    "latitude": 27.2399468,
+    "longitude": 77.5211783,
+    "place_id": "ChIJ5TNMtmWjczkRmOTezY319fc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5TNMtmWjczkRmOTezY319fc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:36:24"
+  },
+  {
+    "business_name": "DEVI COURIER (INTERNATIONAL SERVICE)",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "281122",
+    "phone_number": "+91 84301 50683",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "189, Swami Para, Budhana Rd, opp. Arya Samaj Mandir, Jattiwara, Meerut, Uttar Pradesh 250002",
+    "area": "Jattiwara",
+    "latitude": 28.979211399999997,
+    "longitude": 77.70497139999999,
+    "place_id": "ChIJwWBV-PlkDDkRBMleQe-HWAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwWBV-PlkDDkRBMleQe-HWAk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:36:24"
+  }
+]

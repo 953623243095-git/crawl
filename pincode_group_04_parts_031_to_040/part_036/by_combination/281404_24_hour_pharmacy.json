@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr_nikhil pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "281404",
+    "phone_number": "+91 93892 68159",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kosi, Husaini, Uttar Pradesh 281404",
+    "area": "281404",
+    "latitude": 27.7946061,
+    "longitude": 77.565269,
+    "place_id": "ChIJO5u2zyxBczkRvJX5v9j7has",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO5u2zyxBczkRvJX5v9j7has",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:05:57"
+  },
+  {
+    "business_name": "Sanskriti University School of Pharmacy Campus II",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "University",
+    "all_categories": "University",
+    "pincode": "281404",
+    "phone_number": "N/A",
+    "website": "https://www.sanskriti.edu.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "MGV9+88C, NH 19, Semri, Uttar Pradesh 281401",
+    "area": "281404",
+    "latitude": 27.693321899999997,
+    "longitude": 77.5182694,
+    "place_id": "ChIJTa_AnF4VczkREfm9ueyOy5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTa_AnF4VczkREfm9ueyOy5s",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:06:00"
+  }
+]

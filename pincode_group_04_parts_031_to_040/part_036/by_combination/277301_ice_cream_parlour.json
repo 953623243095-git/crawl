@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sweet Action ice cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "277301",
+    "phone_number": "+91 82990 15722",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mairitar, Bansdih, Uttar Pradesh 277301",
+    "area": "277301",
+    "latitude": 25.8628319,
+    "longitude": 84.1933554,
+    "place_id": "ChIJF468eoRhkjkRJzoYqms7SRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF468eoRhkjkRJzoYqms7SRw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:02:24"
+  },
+  {
+    "business_name": "Vaishnavi bakery & ice cream Parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "277301",
+    "phone_number": "+91 95826 48678",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mahadev market and resort, Ballia - Sikanderpur Rd, Hanumanganj, Ballia, Uttar Pradesh 277001",
+    "area": "277301",
+    "latitude": 25.7981704,
+    "longitude": 84.1356938,
+    "place_id": "ChIJbYy4UQBlkjkR_3h9q8AsOkQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbYy4UQBlkjkR_3h9q8AsOkQ",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:02:24"
+  }
+]

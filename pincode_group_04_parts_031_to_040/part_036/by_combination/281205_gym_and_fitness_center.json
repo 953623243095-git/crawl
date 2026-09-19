@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ravi Singh",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "281205",
+    "phone_number": "+91 82739 00977",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ravi Fitness Point, Mant Road, Surir, Bhadanwara, Uttar Pradesh 281205",
+    "area": "281205",
+    "latitude": 27.7753962,
+    "longitude": 77.7239652,
+    "place_id": "ChIJQWUm4VlDczkRf3aon-CdCsI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQWUm4VlDczkRf3aon-CdCsI",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:46:18"
+  },
+  {
+    "business_name": "A K KUNTAL GYM CENTRE",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "281205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "VQRM+W2, Eidelpur, Uttar Pradesh 202135",
+    "area": "281205",
+    "latitude": 27.8930002,
+    "longitude": 77.78364049999999,
+    "place_id": "ChIJO-U8YQBbczkRU8LspYth7fo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO-U8YQBbczkRU8LspYth7fo",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:46:18"
+  }
+]

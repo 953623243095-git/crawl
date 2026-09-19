@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Scrutiny Security Solution",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service",
+    "pincode": "281204",
+    "phone_number": "+91 73022 77677",
+    "website": "http://scrutinysecuritysolution.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Building 152,Near Mandi Chauraha,Sonkh Road Ghiya Mandi Road, Mandi Ramdas Road, Mathura, Uttar Pradesh 281001",
+    "area": "Chowk Bazar",
+    "latitude": 27.5061809,
+    "longitude": 77.6797206,
+    "place_id": "ChIJZRpJqw1xczkRjfalitpb3vE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZRpJqw1xczkRjfalitpb3vE",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:45:24"
+  },
+  {
+    "business_name": "Next Level Services",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security system installation service",
+    "all_categories": "Security system installation service, Service establishment",
+    "pincode": "281204",
+    "phone_number": "+91 75997 72299",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "Next Level Services, 281204, India",
+    "area": "281204",
+    "latitude": 27.5970618,
+    "longitude": 77.79015199999999,
+    "place_id": "ChIJ10RTCZK6h68RISEQ_FSsTNU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ10RTCZK6h68RISEQ_FSsTNU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:45:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Toto",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "277209",
+    "phone_number": "+91 73522 92851",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Road, Ramgar, Ramgarh, Mahamadpur, Bihar 841203",
+    "area": "Ramgar",
+    "latitude": 25.970996,
+    "longitude": 84.42093899999999,
+    "place_id": "ChIJ09tpV83zkjkRo3s5I6hvQJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ09tpV83zkjkRo3s5I6hvQJA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:51:04"
+  },
+  {
+    "business_name": "Gopal Ji Mahavidyalaya Reoti-Ballia",
+    "search_category": "Driving School",
+    "primary_category": "College",
+    "all_categories": "College, College of agriculture, Teachers college",
+    "pincode": "277209",
+    "phone_number": "+91 94542 41201",
+    "website": "https://gopaljimahavidyalaya.org/",
+    "rating": 4.5,
+    "reviews_count": 92,
+    "address": "Kuanpipar, Reoti, Uttar Pradesh 277209",
+    "area": "Kuanpipar",
+    "latitude": 25.837265499999997,
+    "longitude": 84.382454,
+    "place_id": "ChIJTfyHlp2OkjkRdLr1g0yg8cU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTfyHlp2OkjkRdLr1g0yg8cU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:51:05"
+  }
+]

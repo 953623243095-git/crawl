@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anshi Flour/oil mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "281302",
+    "phone_number": "+91 96274 70709",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "nh-19, near Yamuna Expressway, Dhaurau, Agra, Uttar Pradesh 283126",
+    "area": "281302",
+    "latitude": 27.260882,
+    "longitude": 78.07444749999999,
+    "place_id": "ChIJD8hZlyt7dDkRaYqY8DFeEeI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD8hZlyt7dDkRaYqY8DFeEeI",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:52:40"
+  },
+  {
+    "business_name": "Pathak Aatta chakki and oil mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "281302",
+    "phone_number": "+91 99175 34246",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "road, hathras road, near RVP cold storage, pilipokhar, Nagla Maharam, Agra, Uttar Pradesh 283126",
+    "area": "pilipokhar",
+    "latitude": 27.271512899999998,
+    "longitude": 78.0432996,
+    "place_id": "ChIJwydAExJ7dDkRfPeh73-7Ch8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwydAExJ7dDkRfPeh73-7Ch8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:52:40"
+  }
+]

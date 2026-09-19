@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aanandmukh Flour & oil Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "277502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "PWHH+F3X, Uttar Pradesh 233228",
+    "area": "277502",
+    "latitude": 25.7287319,
+    "longitude": 83.9277433,
+    "place_id": "ChIJVcbmE70TkjkRGehm7pMOXpc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVcbmE70TkjkRGehm7pMOXpc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:17:23"
+  },
+  {
+    "business_name": "Ramakant flour & oil Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "277502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PWGJ+RC8, Bhat Sarai, Uttar Pradesh 233228",
+    "area": "277502",
+    "latitude": 25.7270465,
+    "longitude": 83.9310708,
+    "place_id": "ChIJXcFEo0kTkjkRVE9z5XFW4tg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXcFEo0kTkjkRVE9z5XFW4tg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:17:23"
+  }
+]

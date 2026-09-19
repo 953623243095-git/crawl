@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Imran Chicken Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "277214",
+    "phone_number": "+91 79050 72975",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Raniganj Purab Fatak, Purab Fatak, Raniganj, Sonbarsa, Bihar 841313",
+    "area": "Raniganj",
+    "latitude": 25.8422394,
+    "longitude": 84.57426869999999,
+    "place_id": "ChIJ-XkVRsOXkjkRNUn6pC8sCk8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-XkVRsOXkjkRNUn6pC8sCk8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:57:14"
+  },
+  {
+    "business_name": "Bruno Pets",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "277214",
+    "phone_number": "+91 79030 91899",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "near Sahyog Hospital, Gopeshwar Nagar, Sadhapur, Chapra, Bihar 841301",
+    "area": "Gopeshwar Nagar, Sadhapur",
+    "latitude": 25.7835228,
+    "longitude": 84.73634589999999,
+    "place_id": "ChIJnccCfOe7kjkR_dQGryQves8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnccCfOe7kjkR_dQGryQves8",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 06:57:15"
+  }
+]

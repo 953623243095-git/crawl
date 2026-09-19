@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ValYOU Suites And Spa Resort",
+    "search_category": "Spa",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution, Resort hotel",
+    "pincode": "281406",
+    "phone_number": "+91 98102 90101",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "NH-2, Jait, near GLA University, Vrindavan, Uttar Pradesh 281406",
+    "area": "281406",
+    "latitude": 27.5990859,
+    "longitude": 77.5951891,
+    "place_id": "ChIJtZzi4zRtczkRMTVPIUhRF_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtZzi4zRtczkRMTVPIUhRF_A",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:10:02"
+  },
+  {
+    "business_name": "Gold Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "281406",
+    "phone_number": "+91 97607 01560",
+    "website": "https://www.goldspa.org/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Police Station, Hotel Clarks Inn Krishna Valley Resort, near Jait, Mathura, Uttar Pradesh 281406",
+    "area": "281406",
+    "latitude": 27.575417299999998,
+    "longitude": 77.6145169,
+    "place_id": "ChIJoaQ9ckVtczkRpFts7FMxV8A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoaQ9ckVtczkRpFts7FMxV8A",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:10:02"
+  }
+]

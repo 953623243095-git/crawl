@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tax Regima",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant, Service establishment",
+    "pincode": "281203",
+    "phone_number": "+91 96391 95627",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Tax Regima, 281203, India",
+    "area": "281203",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJYVVVVSVxczkRGTSjgdJFaCU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYVVVVSVxczkRGTSjgdJFaCU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:43:30"
+  },
+  {
+    "business_name": "GSTBOY.COM",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm, Service establishment",
+    "pincode": "281203",
+    "phone_number": "+91 93184 05050",
+    "website": "https://www.gstboy.com/",
+    "rating": 5,
+    "reviews_count": 23,
+    "address": "GSTBOY.COM, 281203, India",
+    "area": "281203",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJb7GcrHpgA44RgmFhx5x-j0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb7GcrHpgA44RgmFhx5x-j0E",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:43:33"
+  }
+]

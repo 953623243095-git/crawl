@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Fish Shop",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "281122",
+    "phone_number": "+91 93303 31259",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 925,
+    "address": "Fish market, Kalyani Expy, Naihati, Rajendrapur, West Bengal 743166",
+    "area": "Naihati",
+    "latitude": 22.8950809,
+    "longitude": 88.4350292,
+    "place_id": "ChIJ5wFn0oOW-DkRcJ1POFqHKW4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5wFn0oOW-DkRcJ1POFqHKW4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:35:06"
+  },
+  {
+    "business_name": "Maharajganj Bazar Fish Market",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "281122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 250,
+    "address": "Maharaj Ganj Bazar, Dhaleswar, Agartala, Tripura 799001",
+    "area": "Maharaj Ganj Bazar, Dhaleswar",
+    "latitude": 23.8264116,
+    "longitude": 91.2841495,
+    "place_id": "ChIJo9qUTs71UzcRfgPkTkDMrdE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo9qUTs71UzcRfgPkTkDMrdE",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:35:06"
+  }
+]

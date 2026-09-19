@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna health care hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "281104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 9,
+    "address": "Hahras Krishna health care, Mathura - Hathras Rd, near Sundarvan Colony, Sundarvan Colony, Hathras, Hatisa Bhagawantpur, Uttar Pradesh 204101",
+    "area": "Sundarvan Colony",
+    "latitude": 27.592107,
+    "longitude": 78.019731,
+    "place_id": "ChIJqzdoaDebdDkRjGfLpwYv7Ek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqzdoaDebdDkRjGfLpwYv7Ek",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:32:09"
+  },
+  {
+    "business_name": "Krishna Healthcare",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "281104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "J23X+C5H, Ramanpur Rd, Jogia, Ramanpur, Hathras, Uttar Pradesh 204101",
+    "area": "Jogia, Ramanpur",
+    "latitude": 27.603556599999997,
+    "longitude": 78.0479787,
+    "place_id": "ChIJ-8ASRACbdDkRope4SEyXcSE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-8ASRACbdDkRope4SEyXcSE",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:32:09"
+  }
+]

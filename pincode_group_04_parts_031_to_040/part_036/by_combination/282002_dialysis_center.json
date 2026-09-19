@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arihant Kidney Clinic",
+    "search_category": "Dialysis Center",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "282002",
+    "phone_number": "+91 84491 92767",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 40,
+    "address": "Axis Imaging 2 72, Church Road, near Hanuman temple crossing, Khandari, Agra, Uttar Pradesh 282002",
+    "area": "Surya Nagar, Khandari",
+    "latitude": 27.205849699999998,
+    "longitude": 77.9985088,
+    "place_id": "ChIJ_3WcUkJ3dDkRvMYopPS8IJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_3WcUkJ3dDkRvMYopPS8IJY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:18:42"
+  },
+  {
+    "business_name": "Agra Kidney and Andrology Center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "282002",
+    "phone_number": "+91 88650 80349",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1st floor, Ram Raghu Plaza, UG 04, Church Rd, opposite V K Bartan bhandar, Ramnagar Colony, Civil Lines, Agra, Uttar Pradesh 282002",
+    "area": "Ramnagar Colony, Civil Lines",
+    "latitude": 27.202729299999998,
+    "longitude": 78.0019952,
+    "place_id": "ChIJLRW-DVF3dDkRMoN6Zmoh69w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLRW-DVF3dDkRMoN6Zmoh69w",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 08:18:45"
+  }
+]

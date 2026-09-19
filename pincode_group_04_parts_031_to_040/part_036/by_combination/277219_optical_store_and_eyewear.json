@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "277219",
+    "phone_number": "+91 98974 90649",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "near Punjab National Bank, Gabhana, Uttar Pradesh 202136",
+    "area": "277219",
+    "latitude": 28.049003199999998,
+    "longitude": 77.9612198,
+    "place_id": "ChIJVW0zrbmrdDkRbtVNTne1vPs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVW0zrbmrdDkRbtVNTne1vPs",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:00:52"
+  },
+  {
+    "business_name": "Poonam optical",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "277219",
+    "phone_number": "+91 85296 96911",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "road nougoan, opposite SBI Bank, Sherpur, Naugawan, Rajasthan 301025",
+    "area": "277219",
+    "latitude": 27.656989499999998,
+    "longitude": 76.8886015,
+    "place_id": "ChIJo-gRLS7rcjkRVWQ8vgvC_28",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo-gRLS7rcjkRVWQ8vgvC_28",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:00:53"
+  }
+]

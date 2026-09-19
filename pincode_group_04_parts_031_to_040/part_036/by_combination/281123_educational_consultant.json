@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Business consultant BADA BUSINESS",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Service establishment",
+    "pincode": "281123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Business consultant BADA BUSINESS, 281123, India",
+    "area": "281123",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJM5hnEHt0A68R-uboVuoaUEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM5hnEHt0A68R-uboVuoaUEw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:38:03"
+  },
+  {
+    "business_name": "Paraakhya Education Foundation",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "281123",
+    "phone_number": "+91 91161 57067",
+    "website": "https://www.paraakhyaeducation.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "galleria, Office no. 9A block 4th floor R tech Capital, Manu Marg, Alwar, Rajasthan 301001",
+    "area": "Kabir Colony",
+    "latitude": 27.5614329,
+    "longitude": 76.60452699999999,
+    "place_id": "ChIJJXO-x9WZcjkRAqqoNLw9TW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJXO-x9WZcjkRAqqoNLw9TW0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:38:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manvi motors car garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "281123",
+    "phone_number": "+91 82795 38953",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 51,
+    "address": "Goverdhan Rd, near Mahesh tractors, Barsana, Bharnakalan, Uttar Pradesh 281502",
+    "area": "281123",
+    "latitude": 27.602210799999998,
+    "longitude": 77.4701008,
+    "place_id": "ChIJOXFI18kRczkR-TC_4j7SpLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOXFI18kRczkR-TC_4j7SpLk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:37:21"
+  },
+  {
+    "business_name": "Kuku motors",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "281123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C/18, Shanti Nagar, Mathura, Uttar Pradesh 281001",
+    "area": "Shanti Nagar",
+    "latitude": 27.4886828,
+    "longitude": 77.67207599999999,
+    "place_id": "ChIJ8QHYJbJxczkRzVJ49aRBCsA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8QHYJbJxczkRzVJ49aRBCsA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:37:23"
+  }
+]

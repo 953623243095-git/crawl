@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Takeout restaurant",
+    "all_categories": "Takeout restaurant",
+    "pincode": "277401",
+    "phone_number": "+91 91546 28110",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "C8JG+Q6M, Gowlidoddy Rd, Gachibowli, Hyderabad, Telangana 500032",
+    "area": "Gachibowli",
+    "latitude": 17.431972599999998,
+    "longitude": 78.32553709999999,
+    "place_id": "ChIJ7yuovm-TyzsRdv7rzLCA9wY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7yuovm-TyzsRdv7rzLCA9wY",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:09:19"
+  },
+  {
+    "business_name": "MYCLOUDKITCHEN - CLOUDKITCHEN CONSULTANTS",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food and beverage consultant",
+    "all_categories": "Food and beverage consultant, Business management consultant",
+    "pincode": "277401",
+    "phone_number": "+91 83558 42620",
+    "website": "http://www.mycloudkitchen.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "5A3- B, Khairani Road GUNDECHA ONCLAVE, ANDHERI EAST, Saki Naka, Mumbai, Maharashtra 400072",
+    "area": "Ansa Industrial Estate, Chandivali, Saki Naka",
+    "latitude": 19.106458399999998,
+    "longitude": 72.8890236,
+    "place_id": "ChIJ_YjvgXzJ5zsRJvEAht45k-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_YjvgXzJ5zsRJvEAht45k-g",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:09:19"
+  }
+]

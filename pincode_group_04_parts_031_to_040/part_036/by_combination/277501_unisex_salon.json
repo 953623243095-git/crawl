@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MG saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "277501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Q46Q+7MX, Baheri, Ballia, Uttar Pradesh 277001",
+    "area": "277501",
+    "latitude": 25.7607264,
+    "longitude": 84.1392458,
+    "place_id": "ChIJAXPT0_ZlkjkRHXrOAI9khKs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAXPT0_ZlkjkRHXrOAI9khKs",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:15:04"
+  },
+  {
+    "business_name": "Studio maxx unisex salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "277501",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/studio_maxx_?stkn=Zm5jZnhmM3ZjN2l6",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Golambar, Babanagar, Buxar, Bihar 802101",
+    "area": "Golambar, Babanagar",
+    "latitude": 25.578636499999998,
+    "longitude": 83.990679,
+    "place_id": "ChIJZVW3YgB1kjkRDmQ3vteUrcs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZVW3YgB1kjkRDmQ3vteUrcs",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:15:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lawaniya sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "281202",
+    "phone_number": "+91 95571 70618",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near state bank of india, parshuram chowk, Tentigaon, Uttar Pradesh 281202",
+    "area": "parshuram chowk",
+    "latitude": 27.7275265,
+    "longitude": 77.7369877,
+    "place_id": "ChIJLQHt5mRpczkRFwkYE0_CwlU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLQHt5mRpczkRFwkYE0_CwlU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:40:27"
+  },
+  {
+    "business_name": "Shri Hari Seth sweet corner",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "281202",
+    "phone_number": "+91 99173 13649",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "main market, near Radha Govind tample, Tarauli Janubi, Uttar Pradesh 281406",
+    "area": "281202",
+    "latitude": 27.6797315,
+    "longitude": 77.5873857,
+    "place_id": "ChIJZUTJvERrczkRRmZMNut9z98",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZUTJvERrczkRRmZMNut9z98",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:40:29"
+  }
+]

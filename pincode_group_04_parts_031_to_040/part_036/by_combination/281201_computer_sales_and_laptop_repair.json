@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Computer Planet",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer accessories store, Computer service, Computer software store, Computer store, Lamination service, Repair service, Screen repair service",
+    "pincode": "281201",
+    "phone_number": "+91 98738 86878",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 623,
+    "address": "Shop No. 4, First Floor, Pal Ji Place, opp. Apollo Pharmacy, Jagat Farm, Block E, Chandila, Gamma 1, Greater Noida, Uttar Pradesh 201310",
+    "area": "Jagat Farm, Block E, Chandila, Gamma 1",
+    "latitude": 28.4811865,
+    "longitude": 77.4995308,
+    "place_id": "ChIJ8aC0nm7qDDkRiDGhb-sjTFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8aC0nm7qDDkRiDGhb-sjTFg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:39:53"
+  },
+  {
+    "business_name": "Parth Laptop Repair",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer accessories store, Printer ink refill store",
+    "pincode": "281201",
+    "phone_number": "+91 80770 24408",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 11,
+    "address": "DD Plaza, B-3, Junction Rd, Manoharpura, Mathura, Uttar Pradesh 281001",
+    "area": "Manoharpura",
+    "latitude": 27.4946925,
+    "longitude": 77.6765741,
+    "place_id": "ChIJRdE51RRxczkR_DTorXpL-Ek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRdE51RRxczkR_DTorXpL-Ek",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:39:53"
+  }
+]

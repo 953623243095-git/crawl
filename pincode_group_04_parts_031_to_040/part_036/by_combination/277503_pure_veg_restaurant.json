@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amritsari rasoi restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant",
+    "pincode": "277503",
+    "phone_number": "+91 70177 71909",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Dholi Piau Rd, Mathura Cantonment, Mathura, Uttar Pradesh 281001",
+    "area": "Mathura Cantonment",
+    "latitude": 27.4768857,
+    "longitude": 77.6754256,
+    "place_id": "ChIJxz12kU9xczkRXNOUVEtvNq0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxz12kU9xczkRXNOUVEtvNq0",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:17:44"
+  },
+  {
+    "business_name": "Desi Dinning Restaurent and Marriage Hall",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "277503",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/desidinning/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gadhwar, road, near Essar petrol pump, Fefana, Uttar Pradesh 277121",
+    "area": "277503",
+    "latitude": 25.8176919,
+    "longitude": 84.0419934,
+    "place_id": "ChIJN2yFdNlvkjkRAgJPgFWh7pg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN2yFdNlvkjkRAgJPgFWh7pg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:17:46"
+  }
+]

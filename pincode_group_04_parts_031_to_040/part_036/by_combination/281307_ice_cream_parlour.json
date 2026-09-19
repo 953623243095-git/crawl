@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Himanshu",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "281307",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "F2RW+8MC, Bisana, Uttar Pradesh 204101",
+    "area": "281307",
+    "latitude": 27.4908139,
+    "longitude": 78.0466484,
+    "place_id": "ChIJHwkxcQCHdDkRxMDYIpAej04",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHwkxcQCHdDkRxMDYIpAej04",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:58:35"
+  },
+  {
+    "business_name": "Ravendra Icecream Stall",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "281307",
+    "phone_number": "+91 75990 92025",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jawahar Bajar, Road, Agra, Khandauli, Uttar Pradesh 281306",
+    "area": "Karkauli",
+    "latitude": 27.433837,
+    "longitude": 78.0368982,
+    "place_id": "ChIJa0448BeHdDkRaLsQbSZHi6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa0448BeHdDkRaLsQbSZHi6Y",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:58:35"
+  }
+]

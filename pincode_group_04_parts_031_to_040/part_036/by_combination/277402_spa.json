@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apna cllinic",
+    "search_category": "Spa",
+    "primary_category": "Medical spa",
+    "all_categories": "Medical spa",
+    "pincode": "277402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Badilpur, Uttar Pradesh 277402",
+    "area": "277402",
+    "latitude": 25.7434598,
+    "longitude": 84.3088377,
+    "place_id": "ChIJV_nX69KJkjkRuv-GBEF0d6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV_nX69KJkjkRuv-GBEF0d6Y",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:11:41"
+  },
+  {
+    "business_name": "Chhoti Beauty parlour",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "277402",
+    "phone_number": "+91 99310 58612",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shiv, Bhawani Mandir Rd, near by kargil mobile shop, Brahmpur, Bihar 802112",
+    "area": "277402",
+    "latitude": 25.606253,
+    "longitude": 84.3026108,
+    "place_id": "ChIJORbNhMuBkjkRxomKfBqGV9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJORbNhMuBkjkRxomKfBqGV9A",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:11:44"
+  }
+]

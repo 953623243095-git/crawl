@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Siyara",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "281204",
+    "phone_number": "+91 84455 19020",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "HQ2Q+MXM, Baldev Rd, Raya, Saras, Uttar Pradesh 281204",
+    "area": "281204",
+    "latitude": 27.5517233,
+    "longitude": 77.7899157,
+    "place_id": "ChIJZUKPDQB7czkRoInjkO7E_iA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZUKPDQB7czkRoInjkO7E_iA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:45:43"
+  },
+  {
+    "business_name": "maholi mathura",
+    "search_category": "Commercial Complex",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "281204",
+    "phone_number": "+91 90849 85085",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FM83+XHQ, Maholi, Mathura, Uttar Pradesh 281004",
+    "area": "281204",
+    "latitude": 27.467453199999998,
+    "longitude": 77.65398069999999,
+    "place_id": "ChIJ91JsQgBxczkR3tqYyQxs8yM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ91JsQgBxczkR3tqYyQxs8yM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:45:46"
+  }
+]

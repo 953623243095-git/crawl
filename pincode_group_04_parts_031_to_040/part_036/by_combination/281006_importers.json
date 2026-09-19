@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaudhary Enterprises",
+    "search_category": "Importers",
+    "primary_category": "Beverage Store",
+    "all_categories": "Beverage Store",
+    "pincode": "281006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pragati Kunj, phase 2, Mathura, Uttar Pradesh 281006",
+    "area": "phase 2",
+    "latitude": 27.4321487,
+    "longitude": 77.6866598,
+    "place_id": "ChIJmU793u53czkRewftQUp736E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmU793u53czkRewftQUp736E",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:31:24"
+  },
+  {
+    "business_name": "Murga chaap patakhe Mohit crackers agency",
+    "search_category": "Importers",
+    "primary_category": "Fireworks store",
+    "all_categories": "Fireworks store",
+    "pincode": "281006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Nh19 4bc5, Krishna Vihar Colony, Janakpuri, Mathura, Uttar Pradesh 281001",
+    "area": "Krishna Vihar Colony, Janakpuri",
+    "latitude": 27.4850675,
+    "longitude": 77.6567101,
+    "place_id": "ChIJeeAiAwBxczkRBwTv5BLYZec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeeAiAwBxczkRBwTv5BLYZec",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:31:26"
+  }
+]

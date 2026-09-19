@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saalim Chicken Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken shop",
+    "all_categories": "Chicken shop",
+    "pincode": "277501",
+    "phone_number": "+91 79799 37885",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "Naya Bazar, Buxar, Bihar 802103",
+    "area": "Naya Bazar",
+    "latitude": 25.5544935,
+    "longitude": 83.96377919999999,
+    "place_id": "ChIJU3_abSF1kjkRdUobOUWa6fA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU3_abSF1kjkRdUobOUWa6fA",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:14:14"
+  },
+  {
+    "business_name": "Biryani pot",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "277501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "HX8G+8PM, Station Rd, Civil Lines, Buxar, Bihar 802101",
+    "area": "Civil Lines",
+    "latitude": 25.5658475,
+    "longitude": 83.9768122,
+    "place_id": "ChIJwVhxZAB1kjkRxT0PO4nGrcM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwVhxZAB1kjkRxT0PO4nGrcM",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:14:14"
+  }
+]

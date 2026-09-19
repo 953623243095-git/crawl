@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dostana Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "281205",
+    "phone_number": "+91 98978 71290",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "VP46+38P, Yamuna Expy, Ram Nagla, Uttar Pradesh 281205",
+    "area": "281205",
+    "latitude": 27.8552102,
+    "longitude": 77.7108429,
+    "place_id": "ChIJYYbteNBFczkRXv80SJIJEP4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYYbteNBFczkRXv80SJIJEP4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:45:56"
+  },
+  {
+    "business_name": "Highway Masala",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "281205",
+    "phone_number": "+91 96505 26111",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 64,
+    "address": "RPHG+VVP, Yamuna Expy, Sikanderpur, Uttar Pradesh 281205",
+    "area": "281205",
+    "latitude": 27.8297168,
+    "longitude": 77.7272054,
+    "place_id": "ChIJq7BlQ0NDczkRpukoriuR8Yw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq7BlQ0NDczkRpukoriuR8Yw",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:45:58"
+  }
+]

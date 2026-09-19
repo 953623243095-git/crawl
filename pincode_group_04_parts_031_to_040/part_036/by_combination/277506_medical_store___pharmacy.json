@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KGN Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "277506",
+    "phone_number": "+91 89340 24505",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ballia Ballia Road, Ballia, Teekha, Uttar Pradesh 277506",
+    "area": "277506",
+    "latitude": 25.7688322,
+    "longitude": 84.0480256,
+    "place_id": "ChIJC-qUHzlvkjkR-FpSy0AO62k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC-qUHzlvkjkR-FpSy0AO62k",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:21:18"
+  },
+  {
+    "business_name": "Rb Pharma& Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "277506",
+    "phone_number": "+91 73984 90600",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Garwar, Road, Bhagwanpur, Uttar Pradesh 277001",
+    "area": "277506",
+    "latitude": 25.7639057,
+    "longitude": 84.12015459999999,
+    "place_id": "ChIJCTrYvcZlkjkRccqOFbUidEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCTrYvcZlkjkRccqOFbUidEE",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:21:18"
+  }
+]

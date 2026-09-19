@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Leasing 4 India",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "281206",
+    "phone_number": "+91 98972 82227",
+    "website": "http://leasing4india.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "216, IInd Floor, Link Rd, Krishna Nagar, Mathura, Uttar Pradesh 281001",
+    "area": "Krishna Nagar",
+    "latitude": 27.501018499999997,
+    "longitude": 77.6570177,
+    "place_id": "ChIJIRz3LGNxczkRc966COgN9nU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIRz3LGNxczkRc966COgN9nU",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:48:57"
+  },
+  {
+    "business_name": "DS Properties",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Real estate consultant",
+    "pincode": "281206",
+    "phone_number": "+91 92544 74747",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "बामनीखेड़ा, Khera Sarai, Haryana 121105",
+    "area": "281206",
+    "latitude": 28.055687499999998,
+    "longitude": 77.34548439999999,
+    "place_id": "ChIJq8ZdJgAtczkREYUHIweJBZg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq8ZdJgAtczkREYUHIweJBZg",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:48:57"
+  }
+]

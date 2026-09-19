@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rindu Enterprises",
+    "search_category": "Organic Food Store",
+    "primary_category": "Health food store",
+    "all_categories": "Health food store",
+    "pincode": "277219",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ragunathpur, Raghunath Pur, Moti Chak, Bihar 841504",
+    "area": "Ragunathpur",
+    "latitude": 26.000687,
+    "longitude": 84.273967,
+    "place_id": "ChIJ-xlSqYD1kjkRGHme5KrFNzk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-xlSqYD1kjkRGHme5KrFNzk",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:00:31"
+  },
+  {
+    "business_name": "Dhaked organic product",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Agricultural production, Organic farm",
+    "pincode": "277219",
+    "phone_number": "+91 80584 66270",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "8- visa, Beerampura, Birampur, Rajasthan 321302",
+    "area": "277219",
+    "latitude": 27.0285668,
+    "longitude": 77.34497089999999,
+    "place_id": "ChIJIbwkM1-3czkRzWitVT9_MW4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIbwkM1-3czkRzWitVT9_MW4",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:00:32"
+  }
+]

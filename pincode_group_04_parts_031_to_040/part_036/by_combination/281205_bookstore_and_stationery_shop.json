@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agrawal Mini Mall",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Cosmetics store, Jeweler, Men's clothing store, Sports school, Sportswear store, Book store, Toy store, Women's clothing store",
+    "pincode": "281205",
+    "phone_number": "+91 94108 00000",
+    "website": "https://www.instagram.com/agrawal.mall.1984?igsh=M2M1dDRtdWpkcDV0",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Bharai Chowk, Chota Choraha 1, Khair - Aligarh Rd, Khair, Uttar Pradesh 202138",
+    "area": "281205",
+    "latitude": 27.9423939,
+    "longitude": 77.8431521,
+    "place_id": "ChIJc-z8gjFZczkRSBRoLubpbhc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc-z8gjFZczkRSBRoLubpbhc",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:46:57"
+  },
+  {
+    "business_name": "Rakesh Book Depo",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "281205",
+    "phone_number": "+91 82735 65535",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Agrasen Market Rd, Khair, Uttar Pradesh 202138",
+    "area": "281205",
+    "latitude": 27.9408423,
+    "longitude": 77.8416101,
+    "place_id": "ChIJESFYQDxZczkRj2C3DE-9vaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJESFYQDxZczkRj2C3DE-9vaE",
+    "part_id": "part_036",
+    "crawled_at": "2026-09-19 07:46:58"
+  }
+]
