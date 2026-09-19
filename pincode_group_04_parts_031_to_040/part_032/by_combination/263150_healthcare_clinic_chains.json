@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anmol Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "263150",
+    "phone_number": "+91 87552 38150",
+    "website": "https://anmolhospital.co.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Moradabad Rd, near INDIAN OIL PETROL PUMP, Kashipur, Sarwar Khera, Uttarakhand 244713",
+    "area": "263150",
+    "latitude": 29.210890199999998,
+    "longitude": 78.93455879999999,
+    "place_id": "ChIJJf7sMX1DCjkR18z_tdz8aTo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJf7sMX1DCjkR18z_tdz8aTo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:52:47"
+  },
+  {
+    "business_name": "Max Lab | Diagnostic Centre & Blood Test in Haldwani",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service, HIV testing center, Medical laboratory, Pathologist, STD testing service",
+    "pincode": "263150",
+    "phone_number": "+91 96757 63476",
+    "website": "https://www.maxlab.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nainital Rampur Road, near Punjab & Sindh Bank, Bazpur, Haldwani, Bazpur, Uttarakhand 262401",
+    "area": "Bazpur",
+    "latitude": 29.1552652,
+    "longitude": 79.1464733,
+    "place_id": "ChIJ66dHopVlCjkRBOvhZ2yjV0o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ66dHopVlCjkRBOvhZ2yjV0o",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:52:49"
+  }
+]

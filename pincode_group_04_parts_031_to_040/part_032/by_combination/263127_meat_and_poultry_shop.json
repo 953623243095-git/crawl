@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bisht Chicken Center",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken shop",
+    "all_categories": "Chicken shop",
+    "pincode": "263127",
+    "phone_number": "+91 73380 31994",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Khaniya, Ranikhet, Ranikhet Range, Uttarakhand 263645",
+    "area": "Khaniya",
+    "latitude": 29.64921,
+    "longitude": 79.4442598,
+    "place_id": "ChIJl3H9QKyroDkRVjNojF81bc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl3H9QKyroDkRVjNojF81bc8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:26:38"
+  },
+  {
+    "business_name": "Meat Market",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat wholesaler",
+    "all_categories": "Meat wholesaler",
+    "pincode": "263127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "X9FW+8X8, NH 87, Telephone Exchange Colony, Gandhi Colony, Rudrapur, Uttarakhand 263153",
+    "area": "Telephone Exchange Colony, Gandhi Colony",
+    "latitude": 28.973294499999998,
+    "longitude": 79.3974583,
+    "place_id": "ChIJ3UtHoJR_oDkRTnoM960g1M4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3UtHoJR_oDkRTnoM960g1M4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:26:39"
+  }
+]

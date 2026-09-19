@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Travelwise Pvt Ltd | Travel Agency Hyderabad",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "262908",
+    "phone_number": "+91 72071 71864",
+    "website": "https://travelwisee.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "2nd Floor, Besides RTO Office, H.No-167, Nagole Rd, Adarsh Nagar Colony, Nagole, Hyderabad, Telangana 500068",
+    "area": "Adarsh Nagar Colony, Nagole",
+    "latitude": 17.3690905,
+    "longitude": 78.55763999999999,
+    "place_id": "ChIJ1fZWrimZyzsRcYAQKkoTha4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1fZWrimZyzsRcYAQKkoTha4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:21:41"
+  },
+  {
+    "business_name": "Abha Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Bus tour agency",
+    "pincode": "262908",
+    "phone_number": "+91 72368 67272",
+    "website": "http://omsaibababus.com/",
+    "rating": 3.2,
+    "reviews_count": 442,
+    "address": "S 21/116 , F-1, Pared Kothi, Cantt, Varanasi, Uttar Pradesh 221002",
+    "area": "Pared Kothi, Vijay Nagar Colony, Cantt",
+    "latitude": 25.3274713,
+    "longitude": 82.9891378,
+    "place_id": "ChIJZ0rITuEtjjkR2LbNgE-m4MM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ0rITuEtjjkR2LbNgE-m4MM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:21:43"
+  }
+]

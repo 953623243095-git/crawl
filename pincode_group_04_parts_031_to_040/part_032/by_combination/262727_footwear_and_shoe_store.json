@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Haroon Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "262727",
+    "phone_number": "+91 63922 19898",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Kasta Rd, Sikandrabad Kheri, Sikandarabad, Uttar Pradesh 262805",
+    "area": "262727",
+    "latitude": 27.9513623,
+    "longitude": 80.4971585,
+    "place_id": "ChIJD8d6CmU_nzkR-w7h-Lj1jUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD8d6CmU_nzkR-w7h-Lj1jUQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:57:48"
+  },
+  {
+    "business_name": "सोहन लाल शू सेंटर ,पकरिया",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "262727",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RHH2+CJX, Sitapur Rd, Kasta, Achhraul, Uttar Pradesh 261501",
+    "area": "262727",
+    "latitude": 27.8286247,
+    "longitude": 80.55160939999999,
+    "place_id": "ChIJY77UIgA7nzkRWMDPlFMiH0w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY77UIgA7nzkRWMDPlFMiH0w",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:57:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Anil Kumar Mahesh Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Doctor",
+    "pincode": "262904",
+    "phone_number": "+91 591 232 5623",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 41,
+    "address": "RQP9+JQ3, chadda complex GMD road hotel pratiksha, Kuan Wali Gali, main, Moradabad, Uttar Pradesh 244001",
+    "area": "main",
+    "latitude": 28.8365117,
+    "longitude": 78.7694228,
+    "place_id": "ChIJ0wSHGur7CjkRNhU4u5H6M-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0wSHGur7CjkRNhU4u5H6M-c",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:14:50"
+  },
+  {
+    "business_name": "Dr. MurlidharAtasniya",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Children's hospital",
+    "all_categories": "Children's hospital",
+    "pincode": "262904",
+    "phone_number": "+91 93928 40931",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 35,
+    "address": "Begum Bazar Rd, Begum Bazaar Chatri, Fish Market, Begum Bazar, Afzal Gunj, Hyderabad, Telangana 500012",
+    "area": "Begum Bazaar Chatri, Fish Market, Begum Bazar, Afzal Gunj",
+    "latitude": 17.3736371,
+    "longitude": 78.4692726,
+    "place_id": "ChIJ51lZFISXyzsRv6_MbpPrkwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ51lZFISXyzsRv6_MbpPrkwM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:14:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fish Zone",
+    "search_category": "Fish Market",
+    "primary_category": "Aquarium shop",
+    "all_categories": "Aquarium shop",
+    "pincode": "263134",
+    "phone_number": "+91 73510 57078",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Amel, Uttarakhand 263134",
+    "area": "263134",
+    "latitude": 29.5579458,
+    "longitude": 79.3200469,
+    "place_id": "ChIJJVeRM9oHCjkRsgCW92RjjaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJVeRM9oHCjkRsgCW92RjjaQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:32:06"
+  },
+  {
+    "business_name": "Fresh chicken mutton and fish shop",
+    "search_category": "Fish Market",
+    "primary_category": "Meat products store",
+    "all_categories": "Meat products store",
+    "pincode": "263134",
+    "phone_number": "+91 97612 18717",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhiyasan, Ramnagar Road, near Machhor, Market, Ghate Section, Machhor, Uttarakhand 263646",
+    "area": "Market",
+    "latitude": 29.595308799999998,
+    "longitude": 79.2331663,
+    "place_id": "ChIJC7JOGiQFCjkROuiXb3mZ7C0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC7JOGiQFCjkROuiXb3mZ7C0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:32:06"
+  }
+]

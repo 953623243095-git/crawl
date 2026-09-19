@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cold Storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "263145",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H2PF+G8M, NH 84, Churamanpur, Bihar 802116",
+    "area": "263145",
+    "latitude": 25.58634,
+    "longitude": 84.02331029999999,
+    "place_id": "ChIJVVVlx312kjkRDFMYYt231NQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVlx312kjkRDFMYYt231NQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:48:26"
+  },
+  {
+    "business_name": "Penso industries",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Air conditioning store",
+    "all_categories": "Air conditioning store, Mitsubishi dealer",
+    "pincode": "263145",
+    "phone_number": "+91 90686 08999",
+    "website": "https://www.pensoindustries.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "A-4, Kashipur Bypass Rd, near district co-operative bank, Adarsh Colony, Rudrapur, Jagatpura, Uttarakhand 263153",
+    "area": "Adarsh Colony",
+    "latitude": 28.9770722,
+    "longitude": 79.3922353,
+    "place_id": "ChIJ8aH3ZGd_oDkROhxfEAFBVqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8aH3ZGd_oDkROhxfEAFBVqA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:48:26"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "STAR Bike Garage",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop, Electrician, Oil change service",
+    "pincode": "263158",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Cidkul road, Transit Camp Rd, Rudrapur, Tanda, Uttarakhand 244925",
+    "area": "263158",
+    "latitude": 28.9689798,
+    "longitude": 78.94646279999999,
+    "place_id": "ChIJ9wl4us9_oDkRTYQzzRWPFQs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9wl4us9_oDkRTYQzzRWPFQs",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:03:40"
+  },
+  {
+    "business_name": "Mukteshwar Rentals",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service",
+    "pincode": "263158",
+    "phone_number": "+91 74568 11469",
+    "website": "https://mukteshwarbikerentals.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ginwal Garments, Bhatelia, Mukteshwar, Uttarakhand 263138",
+    "area": "263158",
+    "latitude": 29.4368026,
+    "longitude": 79.6496842,
+    "place_id": "ChIJJZ6Ccg-9oDkR1pqFt9CRU08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJZ6Ccg-9oDkR1pqFt9CRU08",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:03:42"
+  }
+]

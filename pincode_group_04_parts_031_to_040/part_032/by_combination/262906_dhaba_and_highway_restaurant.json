@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pappu dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "262906",
+    "phone_number": "+91 82106 75005",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 248,
+    "address": "Mahatma Gandhi Setu, path,below Sri ram finance, Chhoti Pahari, Patna, Bihar 800030",
+    "area": "path,below Sri ram finance, Chhoti Pahari",
+    "latitude": 25.590003499999998,
+    "longitude": 85.1904675,
+    "place_id": "ChIJLb7PjDdf7TkRVEXiPaIrFr8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLb7PjDdf7TkRVEXiPaIrFr8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:17:52"
+  },
+  {
+    "business_name": "Sai Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Dhaba",
+    "pincode": "262906",
+    "phone_number": "+91 98206 38086",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 149,
+    "address": "D/3, 62, Sardar Vallabhbhai Patel Nagar Rd, SV Patel Nagar, Andheri West, Mumbai, Maharashtra 400053",
+    "area": "SV Patel Nagar, Andheri West",
+    "latitude": 19.138521,
+    "longitude": 72.82087,
+    "place_id": "ChIJpVK-rhC25zsR_YDkVkRsmOk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpVK-rhC25zsR_YDkVkRsmOk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:17:52"
+  }
+]

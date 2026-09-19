@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TALLITAL",
+    "search_category": "Polyclinic",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "263136",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 16,
+    "address": "8HP5+C4W, Bhowali-Bhimtal-Haldwani Rd, Bhimtal, Uttarakhand 263136",
+    "area": "263136",
+    "latitude": 29.3361031,
+    "longitude": 79.5578134,
+    "place_id": "ChIJiV4Wcb6ZoDkReseqAbl1g-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiV4Wcb6ZoDkReseqAbl1g-M",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:36:15"
+  },
+  {
+    "business_name": "Government Polytechnic Bhimtal",
+    "search_category": "Polyclinic",
+    "primary_category": "Polytechnic College",
+    "all_categories": "Polytechnic College",
+    "pincode": "263136",
+    "phone_number": "+91 5942 247 777",
+    "website": "https://gpbhimtal.org.in/",
+    "rating": 4.2,
+    "reviews_count": 11,
+    "address": "Government Polytechnic, Bhimtal, Siloti Pant, Uttarakhand 263136",
+    "area": "263136",
+    "latitude": 29.329923299999997,
+    "longitude": 79.5726225,
+    "place_id": "ChIJqbBkNZaXoDkRSyXRtKy4HvA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqbBkNZaXoDkRSyXRtKy4HvA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:36:15"
+  }
+]

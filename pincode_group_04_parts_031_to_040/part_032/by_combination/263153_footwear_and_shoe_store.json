@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chanda Fashion",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "263153",
+    "phone_number": "+91 75359 93019",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 2, Gandhi Colony, Rudrapur, Uttarakhand 263153",
+    "area": "Gandhi Colony",
+    "latitude": 28.9747028,
+    "longitude": 79.3952714,
+    "place_id": "ChIJu-8DV_p_oDkRJQ7zi8S-iXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu-8DV_p_oDkRJQ7zi8S-iXU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:57:52"
+  },
+  {
+    "business_name": "Pink street",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "263153",
+    "phone_number": "+91 99175 37000",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 9,
+    "address": "Durga Mandir Gali, Rudrapur, Uttarakhand 263153",
+    "area": "263153",
+    "latitude": 28.9771942,
+    "longitude": 79.3974581,
+    "place_id": "ChIJr214fut_oDkRNla8hg0GvKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr214fut_oDkRNla8hg0GvKg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:57:53"
+  }
+]

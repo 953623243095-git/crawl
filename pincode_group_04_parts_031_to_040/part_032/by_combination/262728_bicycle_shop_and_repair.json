@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zankar bicycles stores",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "262728",
+    "phone_number": "+91 77096 92613",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main, Bazarpeth, Khopoli, Maharashtra 410203",
+    "area": "Bazarpeth, Laxminagar",
+    "latitude": 18.789894399999998,
+    "longitude": 73.342382,
+    "place_id": "ChIJ72XUrKMH6DsRJsOgkqHRcoY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ72XUrKMH6DsRJsOgkqHRcoY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:59:50"
+  },
+  {
+    "business_name": "Moter Cycle Shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Chauffeur service",
+    "all_categories": "Chauffeur service",
+    "pincode": "262728",
+    "phone_number": "+91 73808 79952",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Raod, Ramapur, Meerpur, Uttar Pradesh 262701",
+    "area": "262728",
+    "latitude": 27.9213491,
+    "longitude": 80.8206503,
+    "place_id": "ChIJY5YKWyzLmDkRllgXwZ27IDQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY5YKWyzLmDkRllgXwZ27IDQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:59:52"
+  }
+]

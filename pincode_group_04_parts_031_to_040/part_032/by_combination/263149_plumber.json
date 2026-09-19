@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GOVIND ELECTRICALS",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Electrical repair shop, Electrician, Electronics store",
+    "pincode": "263149",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Railway Station, Jawahar Nagar Near Pantnagar, Nagla, Uttarakhand 263149",
+    "area": "263149",
+    "latitude": 29.0179056,
+    "longitude": 79.5217916,
+    "place_id": "ChIJC78K0W-HoDkRgDacK6QGeds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC78K0W-HoDkRgDacK6QGeds",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:51:18"
+  },
+  {
+    "business_name": "Jai Balaji Electricals",
+    "search_category": "Plumber",
+    "primary_category": "Electrical repair shop",
+    "all_categories": "Electrical repair shop",
+    "pincode": "263149",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Tiwari Nagar, 1, Bindukhatt, Lalkuan, Uttarakhand 262402",
+    "area": "Tiwari Nagar, 1",
+    "latitude": 29.0378063,
+    "longitude": 79.5449174,
+    "place_id": "ChIJfdqahV2HoDkRBiWCoydd10o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfdqahV2HoDkRBiWCoydd10o",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:51:18"
+  }
+]

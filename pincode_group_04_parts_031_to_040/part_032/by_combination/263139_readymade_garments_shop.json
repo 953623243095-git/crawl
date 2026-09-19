@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MIDAS MALL",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "263139",
+    "phone_number": "+91 98370 67396",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 44,
+    "address": "131 Durgapalpur Parma, Beriparao, PO. Motahaldu, Haldwani, Uttarakhand 263142",
+    "area": "263139",
+    "latitude": 29.1248634,
+    "longitude": 79.5206895,
+    "place_id": "ChIJzSmcbA-FoDkRHmavOtcOrl0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzSmcbA-FoDkRHmavOtcOrl0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:41:26"
+  },
+  {
+    "business_name": "Iris Outfits Haldwani",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "263139",
+    "phone_number": "N/A",
+    "website": "https://www.irisoutfits.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Bareilly - Nainital Rd, near andhra bank, Civil Lines, thandi sadak, Bhotia Parao, Haldwani, Uttarakhand 263139",
+    "area": "Civil Lines, thandi sadak, Bhotia Parao",
+    "latitude": 29.2340262,
+    "longitude": 79.532404,
+    "place_id": "ChIJg0y5yVqboDkRAHLjb-BgVFM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg0y5yVqboDkRAHLjb-BgVFM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:41:29"
+  }
+]

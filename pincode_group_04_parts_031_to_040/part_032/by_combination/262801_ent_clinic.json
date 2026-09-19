@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. UMENDRA AGRAHARI",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Otolaryngology clinic",
+    "pincode": "262801",
+    "phone_number": "+91 99243 30380",
+    "website": "http://www.amchealth.in/",
+    "rating": 4.8,
+    "reviews_count": 440,
+    "address": "XL PLAZA, IIT Market, GROUND FLOOR, Hare Krishna Rd, Tirandaz, Powai, Mumbai, Maharashtra 400076",
+    "area": "Tirandaz, Powai",
+    "latitude": 19.125188599999998,
+    "longitude": 72.9180811,
+    "place_id": "ChIJncmTLVvH5zsRzl3WBkPgivY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJncmTLVvH5zsRzl3WBkPgivY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:01:22"
+  },
+  {
+    "business_name": "New Maa Medical and Surgical Store",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "262801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jarauli, Kanpur, Uttar Pradesh 208027",
+    "area": "Jarauli",
+    "latitude": 26.408860699999998,
+    "longitude": 80.2935538,
+    "place_id": "ChIJ0bjHxnZHnDkRXTmgxwn5AXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0bjHxnZHnDkRXTmgxwn5AXw",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:01:24"
+  }
+]

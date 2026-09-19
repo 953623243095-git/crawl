@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Himtattva Boutique Homestay Hartola",
+    "search_category": "Boutiques",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "263158",
+    "phone_number": "N/A",
+    "website": "https://www.himtattvahartola.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "FGJP+GG4 Rupsingh dhura, Hartola, Ata Britta, Uttarakhand 263158",
+    "area": "263158",
+    "latitude": 29.4812664,
+    "longitude": 79.5363268,
+    "place_id": "ChIJ8fnVgVmloDkRAQbaN80G7Mw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8fnVgVmloDkRAQbaN80G7Mw",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:03:28"
+  },
+  {
+    "business_name": "Himtattva Boutique Himalayan Homestay",
+    "search_category": "Boutiques",
+    "primary_category": "Cottage",
+    "all_categories": "Cottage",
+    "pincode": "263158",
+    "phone_number": "+91 87006 80121",
+    "website": "http://www.himtalcottage.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Himtattva Boutique Himalayan Homestay, Village Roopsinghdhura, Hartola, Ata Britta, Uttarakhand 263135",
+    "area": "263158",
+    "latitude": 29.4814051,
+    "longitude": 79.536457,
+    "place_id": "ChIJqXpLezqloDkRgYU67KHJOOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqXpLezqloDkRgYU67KHJOOo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:03:29"
+  }
+]

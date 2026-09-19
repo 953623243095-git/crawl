@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sah Restaurant",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Breakfast restaurant",
+    "pincode": "263127",
+    "phone_number": "+91 70173 07064",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 11,
+    "address": "Ghorakhal, Mahargaon, Uttarakhand 263156",
+    "area": "263127",
+    "latitude": 29.378947999999998,
+    "longitude": 79.5448703,
+    "place_id": "ChIJl2cSFqeioDkR09LvDX5HE7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl2cSFqeioDkR09LvDX5HE7c",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:26:47"
+  },
+  {
+    "business_name": "Deepu Da Maggie Point",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Noodle shop",
+    "all_categories": "Noodle shop, Restaurant",
+    "pincode": "263127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Sattal Bypass Rd, HMT, Smanora Range, Uttarakhand 263126",
+    "area": "HMT",
+    "latitude": 29.304017599999998,
+    "longitude": 79.5384139,
+    "place_id": "ChIJY9IJVJSZoDkR45GACEPAWiA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY9IJVJSZoDkR45GACEPAWiA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:26:48"
+  }
+]

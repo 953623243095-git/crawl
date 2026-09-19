@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gagneja Traders",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Farmers' market",
+    "all_categories": "Farmers' market",
+    "pincode": "263150",
+    "phone_number": "+91 98375 47571",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.58, Anaj mandi NH 74, Gadarpur, Uttarakhand 263152",
+    "area": "263150",
+    "latitude": 29.022305799999998,
+    "longitude": 79.2652026,
+    "place_id": "ChIJAYw1xTx9CjkRUlx00mhI3uk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAYw1xTx9CjkRUlx00mhI3uk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:53:58"
+  },
+  {
+    "business_name": "Gadarpur mandi",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "263150",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 21,
+    "address": "27G8+5X9, Bhaisia, Uttarakhand 263152",
+    "area": "263150",
+    "latitude": 29.0253706,
+    "longitude": 79.26652299999999,
+    "place_id": "ChIJYSB8F1F9CjkR2qF-PRY67wo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYSB8F1F9CjkR2qF-PRY67wo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:53:59"
+  }
+]

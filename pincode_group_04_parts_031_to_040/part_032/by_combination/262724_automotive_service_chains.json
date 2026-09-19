@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bosch Car Service - Sitapur Service Station",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Car repair and maintenance service",
+    "pincode": "262724",
+    "phone_number": "+91 99360 29988",
+    "website": "https://ap.boschcarservice.com/in/en/book-a-car-service#/booking/classic/landing?customerId=76281236",
+    "rating": 4.9,
+    "reviews_count": 83,
+    "address": "Lucknow - Sitapur Expy, opp. Maruti Suzuki Showroom, Jammiyatpur, Sitapur, Dhanipur, Uttar Pradesh 261131",
+    "area": "Jammiyatpur",
+    "latitude": 27.536824199999998,
+    "longitude": 80.72696119999999,
+    "place_id": "ChIJfY7CIm7VnjkRH1BXz5QXJ1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfY7CIm7VnjkRH1BXz5QXJ1U",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:53:02"
+  },
+  {
+    "business_name": "Tata Authorised Car Service Center - Krishna Automobiles, Sitapur (Multi Brand Car service Center)",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "262724",
+    "phone_number": "+91 95986 12345",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 107,
+    "address": "1021, 500, Narayan Nagar Rd, near Galla Mandi, Hempurwa, Narayan Nagar, Sitapur, Uttar Pradesh 261001",
+    "area": "Hempurwa, Narayan Nagar",
+    "latitude": 27.576156299999997,
+    "longitude": 80.6599672,
+    "place_id": "ChIJG-7JorzXnjkRgdFd3fIgHxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG-7JorzXnjkRgdFd3fIgHxc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:53:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Gurunanak hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "263152",
+    "phone_number": "+91 70552 24485",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Itwar bazar, Kashipur Rd, Gadarpur, Ramjiwanpur, Uttarakhand 263152",
+    "area": "263152",
+    "latitude": 29.0493971,
+    "longitude": 79.23884269999999,
+    "place_id": "ChIJqUkd9UR9CjkRXqcvJWAJYMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqUkd9UR9CjkRXqcvJWAJYMs",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:56:10"
+  },
+  {
+    "business_name": "Tarai hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital, Hospital",
+    "pincode": "263152",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.7,
+    "reviews_count": null,
+    "address": "Awas Vikas Colony, Gadarpur, Uttarakhand 263152",
+    "area": "Awas Vikas Colony",
+    "latitude": 29.0416682,
+    "longitude": 79.2497916,
+    "place_id": "ChIJQa9vOVd8CjkRYepFgT4kO80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQa9vOVd8CjkRYepFgT4kO80",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:56:10"
+  }
+]

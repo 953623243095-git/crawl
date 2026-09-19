@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Indian Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "262908",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "H.no.B1, 233, Sattibara, Assi, Dumraon Colony, Varanasi, Uttar Pradesh 221005",
+    "area": "Assi, Anandbagh, Dumraon Colony",
+    "latitude": 25.2879413,
+    "longitude": 83.0035572,
+    "place_id": "ChIJK3aOam4xjjkRHV30OCePwSI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK3aOam4xjjkRHV30OCePwSI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:21:12"
+  },
+  {
+    "business_name": "Kashi Malanna South Indian Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "262908",
+    "phone_number": "+91 75659 30999",
+    "website": "https://www.zomato.com/varanasi/kashi-malanna-south-indian-meals-and-tiffins-bhelupur/order",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "N-16/51-B-1-J, Kamachha Rd, Vinayaka Kolhwa, Kamchchha, Bhelupur, Varanasi, Uttar Pradesh 221010",
+    "area": "Vinayaka Kolhwa, Kamchchha, Bhelupur",
+    "latitude": 25.3008661,
+    "longitude": 82.9904737,
+    "place_id": "ChIJ52JAkqQzjjkRwCAW06QuElw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ52JAkqQzjjkRwCAW06QuElw",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:21:13"
+  }
+]

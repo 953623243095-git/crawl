@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Big Mama - Aroma",
+    "search_category": "Guesthouse",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "263149",
+    "phone_number": "+91 97737 36540",
+    "website": "https://bigmamacorbett.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Jim Corbett, Royaltaj Aroma Big Mama, Shivlalpur Joshi, Bail Pokhra, Ramnagar, Uttarakhand 263140",
+    "area": "263149",
+    "latitude": 29.3095188,
+    "longitude": 79.2310565,
+    "place_id": "ChIJe1uZB59zCjkRsfmNitdGO3M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe1uZB59zCjkRsfmNitdGO3M",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:51:33"
+  },
+  {
+    "business_name": "Darshan Homestay",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house, Bed & breakfast, Extended stay hotel, Home Stay, Hotel, Lodge",
+    "pincode": "263149",
+    "phone_number": "+91 78178 71577",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 561,
+    "address": "Anand Vihar Dhalwala Colony, Ashutosh Nagar, Rishikesh, Uttarakhand 249137",
+    "area": "Anand Vihar Dhalwala Colony, Ashutosh Nagar",
+    "latitude": 30.1144215,
+    "longitude": 78.29763609999999,
+    "place_id": "ChIJeeQeRwAXCTkRt7FTBpwhRTA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeeQeRwAXCTkRt7FTBpwhRTA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:51:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhishek Singh Software Engineer House",
+    "search_category": "SEO Agencies",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Business development service, Website designer",
+    "pincode": "262901",
+    "phone_number": "N/A",
+    "website": "https://abhi-web-solutions.vercel.app/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FH8M+W8, Mujaha, Uttar Pradesh 262902",
+    "area": "262901",
+    "latitude": 28.466495799999997,
+    "longitude": 80.5832741,
+    "place_id": "ChIJB8p6FQDloTkRibfyxDwcFtI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB8p6FQDloTkRibfyxDwcFtI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:10:51"
+  },
+  {
+    "business_name": "SS Web Designing",
+    "search_category": "SEO Agencies",
+    "primary_category": "Website designer",
+    "all_categories": "Website designer, Service establishment",
+    "pincode": "262901",
+    "phone_number": "N/A",
+    "website": "https://jagrisantos.com/",
+    "rating": 4.8,
+    "reviews_count": 11,
+    "address": "SS Web Designing, 262901, India",
+    "area": "262901",
+    "latitude": 28.6754432,
+    "longitude": 80.6472252,
+    "place_id": "ChIJFeYTP_7lcgwRVr5Alpg38EI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFeYTP_7lcgwRVr5Alpg38EI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:10:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Uttaranchal Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "263135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FFVH+HC9, Chhara, Uttarakhand 263135",
+    "area": "263135",
+    "latitude": 29.4939295,
+    "longitude": 79.4785686,
+    "place_id": "ChIJWW7NCgCloDkRB51i_WloLhQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWW7NCgCloDkRB51i_WloLhQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:34:18"
+  },
+  {
+    "business_name": "Himalaya Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "263135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "9GJC+RCV, Bhowali, Sukha, Uttarakhand 263132",
+    "area": "Bhowali",
+    "latitude": 29.3821032,
+    "longitude": 79.52104659999999,
+    "place_id": "ChIJBUUXHoSioDkRZsMf0shn1Pg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBUUXHoSioDkRZsMf0shn1Pg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:34:20"
+  }
+]

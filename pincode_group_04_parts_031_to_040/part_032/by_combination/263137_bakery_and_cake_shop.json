@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kumaun Bakers",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Event management company",
+    "pincode": "263137",
+    "phone_number": "+91 99101 70986",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 49,
+    "address": "near Nainital, Corporative Bank, Bailparao, Bailparo, Uttarakhand 262401",
+    "area": "Corporative Bank",
+    "latitude": 29.3111744,
+    "longitude": 79.1992791,
+    "place_id": "ChIJu1NrpD1tCjkRNtRsZHRf2mc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu1NrpD1tCjkRNtRsZHRf2mc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:37:46"
+  },
+  {
+    "business_name": "Gouriya Baker's,cake & flowers",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "263137",
+    "phone_number": "+91 97202 14031",
+    "website": "https://gouriyabakers.com/",
+    "rating": 4.5,
+    "reviews_count": 125,
+    "address": "neem ka ped choraha, chhedel rod, Badi Mukhani, Pilikothi, Haldwani, Mukhani, Uttarakhand 263139",
+    "area": "Badi Mukhani, Pilikothi",
+    "latitude": 29.206941099999998,
+    "longitude": 79.5026271,
+    "place_id": "ChIJMamFGl2boDkR_AqApWlag7w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMamFGl2boDkR_AqApWlag7w",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:37:46"
+  }
+]

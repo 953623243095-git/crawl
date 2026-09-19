@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Advait HR Solutions",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Employment consultant, Recruiter",
+    "pincode": "263152",
+    "phone_number": "+91 98999 79034",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Block E, Mohan Cooperative Industrial Estate, Badarpur, New Delhi, Delhi 110044",
+    "area": "Block E, Mohan Cooperative Industrial Estate, Badarpur",
+    "latitude": 28.5102495,
+    "longitude": 77.2985884,
+    "place_id": "ChIJ63Ok5RjnDDkRnFQfyOckRrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ63Ok5RjnDDkRnFQfyOckRrc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:57:09"
+  },
+  {
+    "business_name": "91HR",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting",
+    "pincode": "263152",
+    "phone_number": "+91 88061 21926",
+    "website": "https://91hr.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "5th Floor, Star, Gera Imperium Patto Plaza, 523, patto, Patto Centre, Panaji, Goa 403001",
+    "area": "Patto Centre",
+    "latitude": 15.4953322,
+    "longitude": 73.8337368,
+    "place_id": "ChIJr7Ot_I-zvzsRUMf5oCkL264",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr7Ot_I-zvzsRUMf5oCkL264",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:57:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KALRA MEDICAL STORE",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "263152",
+    "phone_number": "+91 90126 64666",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mod, Mahtosh, Pipalia, Uttarakhand 263152",
+    "area": "263152",
+    "latitude": 29.0183944,
+    "longitude": 79.2827488,
+    "place_id": "ChIJq6i1UM19CjkR9QEz0d88YYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6i1UM19CjkR9QEz0d88YYk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:56:14"
+  },
+  {
+    "business_name": "Arushi Diagnostic Center",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "263152",
+    "phone_number": "+91 89790 85995",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dineshpur Road, Jafarpur, Rudrapur, Amarpur, Uttarakhand 263153",
+    "area": "Jafarpur",
+    "latitude": 28.9989197,
+    "longitude": 79.3208622,
+    "place_id": "ChIJuaTGVf5_CjkR4KI9IEaWJu8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuaTGVf5_CjkR4KI9IEaWJu8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:56:15"
+  }
+]

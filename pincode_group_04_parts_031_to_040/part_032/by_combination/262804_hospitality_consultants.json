@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khaansama",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Human resource consulting, Recruiter",
+    "pincode": "262804",
+    "phone_number": "+91 99991 68592",
+    "website": "http://khaansama.com/",
+    "rating": 4.3,
+    "reviews_count": 26,
+    "address": "605, 3rd Floor, Sector 42, Gurugram, Haryana 122009",
+    "area": "Sector 42",
+    "latitude": 28.4625791,
+    "longitude": 77.1042136,
+    "place_id": "ChIJtQp-vQ8eDTkRr1LpkPfeOfY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtQp-vQ8eDTkRr1LpkPfeOfY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:06:59"
+  },
+  {
+    "business_name": "Aptitude Academy",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Education center",
+    "all_categories": "Education center, Educational consultant",
+    "pincode": "262804",
+    "phone_number": "+91 63079 36934",
+    "website": "http://aptitudeacademy.in.net/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VW3Q+72X, sitapur Bypass Roza, near mezabaan hotel, Shahjahanpur, Ahmadpur Niwazpur, Uttar Pradesh 242406",
+    "area": "262804",
+    "latitude": 27.8532494,
+    "longitude": 79.93760639999999,
+    "place_id": "ChIJlTxDt_6jnzkRDyF5mjEiUWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlTxDt_6jnzkRDyF5mjEiUWg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:07:00"
+  }
+]

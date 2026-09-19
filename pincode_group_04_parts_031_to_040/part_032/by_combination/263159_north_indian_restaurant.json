@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "पहाड़ी खाना",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "263159",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ground Floor, Pangoot, Uttarakhand 263159",
+    "area": "263159",
+    "latitude": 29.424418199999998,
+    "longitude": 79.4275025,
+    "place_id": "ChIJFbLeNEWhoDkRHqRO5s4QXB8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFbLeNEWhoDkRHqRO5s4QXB8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:05:04"
+  },
+  {
+    "business_name": "DHIKALA ZONE RESTAURANT",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "263159",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "NH121, Bijrani-Dhikala Road, Laduachaur, PO-Dhikuli, Ramnagar, Uttarakhand 244715",
+    "area": "263159",
+    "latitude": 29.457016999999997,
+    "longitude": 79.1443303,
+    "place_id": "ChIJD3CjJd8RCjkRWWcfKZZIMqU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD3CjJd8RCjkRWWcfKZZIMqU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:05:05"
+  }
+]

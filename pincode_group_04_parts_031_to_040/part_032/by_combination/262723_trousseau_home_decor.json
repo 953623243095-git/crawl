@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Floral Art",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Design agency, Flower designer, Jewelry designer, Jewelry store, Packaging company, Wedding service, Wedding store",
+    "pincode": "262723",
+    "phone_number": "+91 98339 89613",
+    "website": "http://floralart.co.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "National building, LIC Colony, Suresh Colony, Vile Parle West, Mumbai, Maharashtra 400056",
+    "area": "LIC Colony, Suresh Colony, Vile Parle West",
+    "latitude": 19.093832499999998,
+    "longitude": 72.8412532,
+    "place_id": "ChIJoyHU68PJ5zsRkTyye30wsWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoyHU68PJ5zsRkTyye30wsWQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:51:40"
+  },
+  {
+    "business_name": "Home - Decora",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "262723",
+    "phone_number": "+91 95358 52140",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "I Floor, Front Entry, 79/5, Ranga Rao Rd, Shankarpuram, Bengaluru, Karnataka 560004",
+    "area": "Shankarpuram",
+    "latitude": 12.953923099999999,
+    "longitude": 77.5687087,
+    "place_id": "ChIJ2VKAv_IVrjsR9hDfBFbXXUA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2VKAv_IVrjsR9hDfBFbXXUA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:51:40"
+  }
+]

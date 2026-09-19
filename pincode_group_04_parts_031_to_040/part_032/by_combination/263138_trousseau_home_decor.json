@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Trousseau Packing",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "263138",
+    "phone_number": "+91 70098 82052",
+    "website": "https://www.instagram.com/trousseau_packing0819?igsh=MTlodTc4ZnQ0YW5x&igsi=MTlodTc4ZnQ0YW5x",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "House no. 28, Sector 26, Panchkula Extension, Panchkula, Haryana 134116",
+    "area": "Sector 26, Panchkula Extension",
+    "latitude": 30.6582749,
+    "longitude": 76.87947369999999,
+    "place_id": "ChIJLzf24UuVDzkRkfxcRurV2IQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLzf24UuVDzkRkfxcRurV2IQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:40:31"
+  },
+  {
+    "business_name": "Pure Home + Living",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "263138",
+    "phone_number": "+91 79 4002 9696",
+    "website": "http://www.purehomeandliving.com/",
+    "rating": 4.9,
+    "reviews_count": 1024,
+    "address": "Vastrapur, Ahmedabad, Gujarat 380054",
+    "area": "Vastrapur",
+    "latitude": 23.039887,
+    "longitude": 72.5318152,
+    "place_id": "ChIJqZhPWreEXjkRHBFOHVZqGH4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqZhPWreEXjkRHBFOHVZqGH4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:40:32"
+  }
+]

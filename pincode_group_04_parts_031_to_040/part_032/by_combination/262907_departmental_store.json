@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neeraj Kirana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "262907",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1/2, Lalapur, Sujanpur, Uttar Pradesh 262907",
+    "area": "Lalapur",
+    "latitude": 28.171506599999997,
+    "longitude": 81.0714368,
+    "place_id": "ChIJt-mZoDu7mDkRSki6fXY0WPs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt-mZoDu7mDkRSki6fXY0WPs",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:19:20"
+  },
+  {
+    "business_name": "Kirana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "262907",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "1st Floor, near Aryavart Bank, Darery, Uttar Pradesh 262907",
+    "area": "262907",
+    "latitude": 28.2207179,
+    "longitude": 80.95558009999999,
+    "place_id": "ChIJ8eLXnAavmDkRil246vgkT9k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8eLXnAavmDkRil246vgkT9k",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:19:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AN Catering service",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Catering food and drink supplier, Event management company, Restaurant supply store, Wedding planner",
+    "pincode": "262802",
+    "phone_number": "+91 91294 90254",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 50,
+    "address": "Bazar, Vidyanagar sector A Near SBI Bank Mallakh Road Mallakh Road Nilmatha, Cantonment, Lucknow, Uttar Pradesh 226002",
+    "area": "Cantonment",
+    "latitude": 26.788527,
+    "longitude": 80.9786955,
+    "place_id": "ChIJH_-czlj9mzkRf2RrtgqUivQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH_-czlj9mzkRf2RrtgqUivQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:03:34"
+  },
+  {
+    "business_name": "Green View Marriage Lawn",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Entertainer",
+    "all_categories": "Entertainer",
+    "pincode": "262802",
+    "phone_number": "+91 94159 54197",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 56,
+    "address": "Mohammadi, Uttar Pradesh 262804",
+    "area": "262802",
+    "latitude": 27.9545705,
+    "longitude": 80.2040657,
+    "place_id": "ChIJpUP1CExznzkR3xMWS26heR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpUP1CExznzkR3xMWS26heR0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:03:36"
+  }
+]

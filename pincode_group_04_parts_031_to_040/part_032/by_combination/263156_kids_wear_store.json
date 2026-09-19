@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kids Wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "263156",
+    "phone_number": "+91 84334 95800",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Market, near Gopal Bhawan, Nand Colony, Pital Nagar, Moradabad, Uttar Pradesh 244001",
+    "area": "Nand Colony, Pital Nagar",
+    "latitude": 28.815367799999997,
+    "longitude": 78.7954725,
+    "place_id": "ChIJt_iK0YH7CjkRbOhCQ--S98o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt_iK0YH7CjkRbOhCQ--S98o",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:59:41"
+  },
+  {
+    "business_name": "V-Mart - Rampur",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Convenience store, Department store, Variety store",
+    "pincode": "263156",
+    "phone_number": "+91 97739 89145",
+    "website": "https://stores.vmartretail.com/clothing-mart-civil-lines-rampur-30917/home",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ground Floor, Shaukat Ali Rd, opp. Shiv Cinema, Gangapur Avas Vikas, Civil Lines, Rampur, Uttar Pradesh 244901",
+    "area": "Gangapur Avas Vikas, Civil Lines",
+    "latitude": 28.790088599999997,
+    "longitude": 79.02131299999999,
+    "place_id": "ChIJIT2Tb1ONCjkR1x030RwX7WM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIT2Tb1ONCjkR1x030RwX7WM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:59:41"
+  }
+]

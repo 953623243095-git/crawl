@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yes Medical Store",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Health and beauty shop",
+    "all_categories": "Health and beauty shop",
+    "pincode": "263152",
+    "phone_number": "+91 74174 91464",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1, Shamashan Bhumi Road, Ward Number-2, Shiv Nagar, Rudrapur, Uttarakhand 263153",
+    "area": "Ward Number-2, Shiv Nagar",
+    "latitude": 28.977881,
+    "longitude": 79.40773949999999,
+    "place_id": "ChIJh2qGO5R_oDkRg7UKek--cBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh2qGO5R_oDkRg7UKek--cBo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:56:41"
+  },
+  {
+    "business_name": "Lovely Beauty Centre",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "263152",
+    "phone_number": "+91 97569 41755",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop 2, Sanatan Mandir Gali, Main Market, Gadarpur, Udham Singh Nagar, Uttarakhand 263152",
+    "area": "Awas Vikas Colony",
+    "latitude": 29.0432365,
+    "longitude": 79.2469844,
+    "place_id": "ChIJx5cqiFd8CjkRXZnrecs7bQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx5cqiFd8CjkRXZnrecs7bQg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:56:41"
+  }
+]

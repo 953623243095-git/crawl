@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Precision Print",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Screen printing shop",
+    "all_categories": "Screen printing shop, Blueprint service, Custom t-shirt store, Screen printer, T-shirt store, Uniform store",
+    "pincode": "262727",
+    "phone_number": "+91 90823 85004",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Francis villa, Yari Rd, near Gulmohar Gd, Yagna Nagar, Versova, Andheri West, Mumbai, Maharashtra 400061",
+    "area": "Yagna Nagar, Versova, Andheri West",
+    "latitude": 19.1415394,
+    "longitude": 72.8104865,
+    "place_id": "ChIJdxGJC7635zsR4cRCjKEaclg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdxGJC7635zsR4cRCjKEaclg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:58:41"
+  },
+  {
+    "business_name": "Allwyn Jumbo Zerox",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Digital printing service",
+    "all_categories": "Digital printing service",
+    "pincode": "262727",
+    "phone_number": "+91 22 6699 2300",
+    "website": "http://www.allwynjumbo.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "10, Vertex Vikas Building, Shopping Centre, B Wing Rd, Railway Colony, Andheri East, Mumbai, Maharashtra 400069",
+    "area": "Railway Colony, Andheri East",
+    "latitude": 19.119919799999998,
+    "longitude": 72.8487287,
+    "place_id": "ChIJWWsi05nH5zsRn-twbS-wYXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWWsi05nH5zsRn-twbS-wYXE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:58:41"
+  }
+]

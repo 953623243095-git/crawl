@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "B. N. P. Restaurant And Tandoori",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "262908",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 12,
+    "address": "PH4G+PF, Dhangadhi, Sudurpashchim Province 10900, Nepal",
+    "area": "Uttar Behandi",
+    "latitude": 28.706879899999997,
+    "longitude": 80.5760415,
+    "place_id": "ChIJBbzzPQDtoTkRG1ZfBxrXBjg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBbzzPQDtoTkRG1ZfBxrXBjg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:21:09"
+  },
+  {
+    "business_name": "Chicken Station Dhangadi",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "262908",
+    "phone_number": "091-417073",
+    "website": "https://m.facebook.com/chickenstationdhangadi",
+    "rating": 3.5,
+    "reviews_count": 121,
+    "address": "H14, Dhangadhi, Sudurpashchim Province 10900, Nepal",
+    "area": "Uttar Behandi",
+    "latitude": 28.7089122,
+    "longitude": 80.5689586,
+    "place_id": "ChIJ0Xvgq1jtoTkRjlztmLmY5hM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Xvgq1jtoTkRjlztmLmY5hM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:21:09"
+  }
+]

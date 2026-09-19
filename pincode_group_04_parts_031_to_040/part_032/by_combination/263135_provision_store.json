@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dinesh Provision Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Indian grocery store",
+    "pincode": "263135",
+    "phone_number": "+91 98379 21558",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "008, Mukteshwar, Uttarakhand 263136",
+    "area": "263135",
+    "latitude": 29.433542199999998,
+    "longitude": 79.64457019999999,
+    "place_id": "ChIJ4bruIg69oDkRLeRXCH7B4OY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4bruIg69oDkRLeRXCH7B4OY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:33:50"
+  },
+  {
+    "business_name": "Ganga provision store",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Store",
+    "pincode": "263135",
+    "phone_number": "+91 97568 91999",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "ramgarh mukteshwar road, near Neel kanth family resturant, Kasiyalekh, Muketshwar, Uttarakhand 263136",
+    "area": "263135",
+    "latitude": 29.4277573,
+    "longitude": 79.6340432,
+    "place_id": "ChIJj6Bmhcy9oDkRSK44RHhRnDg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj6Bmhcy9oDkRSK44RHhRnDg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:33:52"
+  }
+]

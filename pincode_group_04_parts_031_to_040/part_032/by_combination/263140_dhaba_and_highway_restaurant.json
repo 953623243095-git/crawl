@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Himalaya Delux Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "263140",
+    "phone_number": "+91 93193 89989",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "83VC+QJ6, Chandrapur Tiwari, Gangapur Pahari, Uttarakhand 244715",
+    "area": "Chandrapur Tiwari",
+    "latitude": 29.3444231,
+    "longitude": 79.0715134,
+    "place_id": "ChIJz0umbqEVCjkR9MACVGHVNWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz0umbqEVCjkR9MACVGHVNWA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:43:18"
+  },
+  {
+    "business_name": "Balli Da Dhaba(Pure Veg)",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Indian restaurant",
+    "pincode": "263140",
+    "phone_number": "+91 72172 87187",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "NH 734, near Parmanandpur, Kashipur, Uttarakhand 244713",
+    "area": "263140",
+    "latitude": 29.1605729,
+    "longitude": 79.0071052,
+    "place_id": "ChIJR3cinNBDCjkR2ZDsjzXH7dA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR3cinNBDCjkR2ZDsjzXH7dA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:43:18"
+  }
+]

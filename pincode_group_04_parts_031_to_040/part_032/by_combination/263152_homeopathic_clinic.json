@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Anand Gangwar",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "263152",
+    "phone_number": "+91 99173 33307",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "25 Indira Colony Gali No.1 Before PAC gate, Rudrapur, Uttarakhand 263153",
+    "area": "Indra Colony",
+    "latitude": 28.983905099999998,
+    "longitude": 79.3913608,
+    "place_id": "ChIJxS120nt_oDkROwHZeSq4teA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxS120nt_oDkROwHZeSq4teA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:56:08"
+  },
+  {
+    "business_name": "Dr. Srishti's Homeopathic Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath, Alternative medicine practitioner, Holistic medicine practitioner, Homeopathic pharmacy, Women's health clinic, Skin care clinic",
+    "pincode": "263152",
+    "phone_number": "+91 95570 57641",
+    "website": "https://www.drsrishtihomeopathy.com/",
+    "rating": 4.9,
+    "reviews_count": 135,
+    "address": "102, Karanpur Rd, near Survey Chowk, Survey Chowk, Karanpur, Dehradun, Uttarakhand 248001",
+    "area": "Survey Chowk, Karanpur",
+    "latitude": 30.325744399999998,
+    "longitude": 78.0529413,
+    "place_id": "ChIJ72FHInkpCTkRKGSWijZiKug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ72FHInkpCTkRKGSWijZiKug",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:56:09"
+  }
+]

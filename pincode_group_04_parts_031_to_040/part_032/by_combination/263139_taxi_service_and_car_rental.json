@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pankaj Cab Services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Transportation service, Tour agency, Tour operator",
+    "pincode": "263139",
+    "phone_number": "+91 85279 22231",
+    "website": "http://www.pankajcabservices.com/",
+    "rating": 5,
+    "reviews_count": 85,
+    "address": "near Gurukul International School, Kamaluaganja, Bhagwanpur Vichla, Haldwani, Uttarakhand 263139",
+    "area": "Kamaluaganja, Bhagwanpur Vichla",
+    "latitude": 29.2115823,
+    "longitude": 79.4665816,
+    "place_id": "ChIJs6fp87-doDkRmAnzaoWfPa0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs6fp87-doDkRmAnzaoWfPa0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:41:56"
+  },
+  {
+    "business_name": "Hill heart taxi",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Tour operator, Transportation service, Travel agency",
+    "pincode": "263139",
+    "phone_number": "+91 79064 53712",
+    "website": "https://hillhearttaxi.com/",
+    "rating": 5,
+    "reviews_count": 54,
+    "address": "Rampur Rd, near omkar banquet hall, Dahariya, Haripur Sukha, Haldwani, Uttarakhand 263139",
+    "area": "Dahariya",
+    "latitude": 29.2018317,
+    "longitude": 79.5136129,
+    "place_id": "ChIJRfpmiXaboDkRzLyz8-8YOmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRfpmiXaboDkRzLyz8-8YOmg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:41:56"
+  }
+]

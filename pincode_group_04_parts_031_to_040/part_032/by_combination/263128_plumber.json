@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mr.raj plumber and waterproof",
+    "search_category": "Plumber",
+    "primary_category": "Contractor",
+    "all_categories": "Contractor",
+    "pincode": "263128",
+    "phone_number": "+91 96959 59857",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Little rose acadme, parasiya, Chhitani Singh, Uttar Pradesh 274704",
+    "area": "263128",
+    "latitude": 26.3125428,
+    "longitude": 84.1193486,
+    "place_id": "ChIJP9eOf16tkzkRPUbMil-wZ30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP9eOf16tkzkRPUbMil-wZ30",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:29:13"
+  },
+  {
+    "business_name": "Sanjeev plumber service",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "263128",
+    "phone_number": "+91 91626 92782",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Madhubani, Bihar 847211",
+    "area": "263128",
+    "latitude": 26.3454899,
+    "longitude": 86.0860891,
+    "place_id": "ChIJFVKkLQHN7TkR7eKtYqOh-4I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFVKkLQHN7TkR7eKtYqOh-4I",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:29:13"
+  }
+]

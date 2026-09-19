@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bankey Bihari Traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Grain elevator",
+    "all_categories": "Grain elevator, Rice shop",
+    "pincode": "263150",
+    "phone_number": "+91 98370 50582",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "27F8+C3X, Bhaisia, Uttarakhand 263152",
+    "area": "263150",
+    "latitude": 29.024070899999998,
+    "longitude": 79.26599209999999,
+    "place_id": "ChIJ6SYiaQB9CjkR4uwpGQC9UuQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6SYiaQB9CjkR4uwpGQC9UuQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:52:17"
+  },
+  {
+    "business_name": "Maa Banbhori industries",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "263150",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lakhanur, Bazpur, Uttarakhand 262401",
+    "area": "263150",
+    "latitude": 29.1494078,
+    "longitude": 79.17264449999999,
+    "place_id": "ChIJM7NaKw9lCjkReUZM9vEYqWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM7NaKw9lCjkReUZM9vEYqWs",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:52:17"
+  }
+]

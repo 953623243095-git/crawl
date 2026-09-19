@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhishek Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "262903",
+    "phone_number": "+91 99846 76724",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nighasan, Rakehti, Uttar Pradesh 262903",
+    "area": "262903",
+    "latitude": 28.216618,
+    "longitude": 80.9092488,
+    "place_id": "ChIJhWPJr0OvmDkRDXJOXHf_NXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhWPJr0OvmDkRDXJOXHf_NXc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:13:22"
+  },
+  {
+    "business_name": "Mamta Electronics",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "262903",
+    "phone_number": "+91 96644 55912",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Shop No.1,2, Bhardawadi Rd, opp. Y.W.C.A. Hostel, Andheri, Fish Market Area, Navneeth Colony, Andheri West, Mumbai, Maharashtra 400058",
+    "area": "Andheri, Fish Market Area, Navneeth Colony, Andheri West",
+    "latitude": 19.1252811,
+    "longitude": 72.8423775,
+    "place_id": "ChIJ81OMrdfJ5zsRyQcU_gbpHvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ81OMrdfJ5zsRyQcU_gbpHvk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:13:24"
+  }
+]

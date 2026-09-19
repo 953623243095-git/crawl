@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Party Celebration Restaurant",
+    "search_category": "Banquet Hall",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "263157",
+    "phone_number": "+91 97606 44251",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 25,
+    "address": "Haldwani Byp Rd, Dewala Malla, Uttarakhand 263139",
+    "area": "263157",
+    "latitude": 29.206428,
+    "longitude": 79.5627593,
+    "place_id": "ChIJcQw0KTyRoDkRg8w-eTkKDuw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcQw0KTyRoDkRg8w-eTkKDuw",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:02:12"
+  },
+  {
+    "business_name": "S S Rautela House Rautelakot",
+    "search_category": "Banquet Hall",
+    "primary_category": "Village hall",
+    "all_categories": "Village hall",
+    "pincode": "263157",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9RP3+G6, Devidhura Range, Uttarakhand 263157",
+    "area": "263157",
+    "latitude": 29.386370999999997,
+    "longitude": 79.803069,
+    "place_id": "ChIJY0RJfwDroDkRPj8EVvxUKao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY0RJfwDroDkRPj8EVvxUKao",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:02:14"
+  }
+]

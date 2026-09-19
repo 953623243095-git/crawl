@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DrP.C Singh",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "263151",
+    "phone_number": "+91 98372 76641",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "WPH7+WHH, Sitarganj - Nanakmatta Rd, Sitarganj, Uttarakhand 262405",
+    "area": "263151",
+    "latitude": 28.929807,
+    "longitude": 79.7139782,
+    "place_id": "ChIJ9QM0zjRnoDkR-rrskMtHYJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9QM0zjRnoDkR-rrskMtHYJM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:54:30"
+  },
+  {
+    "business_name": "Bharat Bhushan Singh Clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "263151",
+    "phone_number": "+91 92195 95049",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "WPH2+HRF, Near Boring., Sitarganj, Uttarakhand 262405",
+    "area": "263151",
+    "latitude": 28.928946399999997,
+    "longitude": 79.702034,
+    "place_id": "ChIJfX1AtixnoDkR9dBcrXJp0YM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfX1AtixnoDkR9dBcrXJp0YM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:54:30"
+  }
+]

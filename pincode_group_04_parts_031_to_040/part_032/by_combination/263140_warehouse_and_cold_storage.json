@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Always fresh fruits C.A. store",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "263140",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Zulfikar, Naya Gaon, Kaladhungi, Nayagaon Julfikar, Uttarakhand 263140",
+    "area": "Naya Gaon",
+    "latitude": 29.276520599999998,
+    "longitude": 79.3061268,
+    "place_id": "ChIJfRhh5Nx1CjkRARx0wIdouxQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfRhh5Nx1CjkRARx0wIdouxQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:44:45"
+  },
+  {
+    "business_name": "Bharat storage warehouse",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Storage facility",
+    "all_categories": "Storage facility",
+    "pincode": "263140",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Unnamed Road, Dangra, Haryana 125120",
+    "area": "263140",
+    "latitude": 29.6652317,
+    "longitude": 75.8233997,
+    "place_id": "ChIJicllIIubETkRADJVIQVjaRo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJicllIIubETkRADJVIQVjaRo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:44:45"
+  }
+]

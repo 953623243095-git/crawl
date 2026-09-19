@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Majestic Pets",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store, Dog trainer, Pet groomer, Pet trainer",
+    "pincode": "263128",
+    "phone_number": "+91 93688 18185",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 101,
+    "address": "Kashipur Bypass Rd, near Balajii dwar, opp. S.B.I.Atm, Adarsh Colony, Rudrapur, Jagatpura, Uttarakhand 263153",
+    "area": "Adarsh Colony",
+    "latitude": 28.9777028,
+    "longitude": 79.3925904,
+    "place_id": "ChIJRyKjWOR_oDkRcphyncvrn7M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRyKjWOR_oDkRcphyncvrn7M",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:28:30"
+  },
+  {
+    "business_name": "All pets solutions",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Pet boarding service, Pet groomer, Pet store, Pet trainer, Veterinarian",
+    "pincode": "263128",
+    "phone_number": "+91 74174 86132",
+    "website": "https://www.justdial.com/Moradabad/All-Pet-Solutions-Near-Dr-Sanjeev-Lal-Moradabad-City/9999PX591-X591-220905174207-G1H4_BZDET",
+    "rating": 4.9,
+    "reviews_count": 49,
+    "address": "Shanker Vihar Colony, Civil Lines, Moradabad, Uttar Pradesh 244001",
+    "area": "Shanker Vihar Colony, Civil Lines",
+    "latitude": 28.849952199999997,
+    "longitude": 78.77208689999999,
+    "place_id": "ChIJj8gKY_v7CjkRjFH3j890sXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj8gKY_v7CjkRjFH3j890sXU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:28:31"
+  }
+]

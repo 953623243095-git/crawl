@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Store My Goods",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Self-storage facility",
+    "all_categories": "Self-storage facility, Automobile storage facility, Luggage storage facility, Storage facility, Warehouse",
+    "pincode": "263126",
+    "phone_number": "+91 93118 06600",
+    "website": "https://www.storemygoods.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Store my goods, A-23, A Block, Sector 83, Noida, Uttar Pradesh 201304",
+    "area": "A Block, Sector 83",
+    "latitude": 28.528710399999998,
+    "longitude": 77.3976849,
+    "place_id": "ChIJU5TV_YfpDDkRqC1jSjCM6oM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU5TV_YfpDDkRqC1jSjCM6oM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:26:19"
+  },
+  {
+    "business_name": "Aura Gaming",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Game store",
+    "all_categories": "Game store",
+    "pincode": "263126",
+    "phone_number": "+91 92597 57724",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "opposite hero showroom, Kusumkhera, Haldwani, Haripur Nayak, Uttarakhand 263139",
+    "area": "Kusumkhera",
+    "latitude": 29.2246377,
+    "longitude": 79.50088989999999,
+    "place_id": "ChIJ3XAbMZ6boDkR4yUHsVU4B_U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3XAbMZ6boDkR4yUHsVU4B_U",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:26:22"
+  }
+]

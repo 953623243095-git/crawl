@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Afsar Hair Saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "263151",
+    "phone_number": "+91 97564 48937",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "23, near State Bank Of India, Shaktifarm, Uttarakhand 263151",
+    "area": "263151",
+    "latitude": 29.009930599999997,
+    "longitude": 79.6484339,
+    "place_id": "ChIJhR0zuBxjoDkRegxVvNIDcGM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhR0zuBxjoDkRegxVvNIDcGM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:54:54"
+  },
+  {
+    "business_name": "Touch &Glow makeover & hair treatment",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "263151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "WPH3+487, RamLeela Galli, Sitarganj, Uttarakhand 262405",
+    "area": "263151",
+    "latitude": 28.927790599999998,
+    "longitude": 79.7032876,
+    "place_id": "ChIJBQc8m1dnoDkRccHVXsicFyk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBQc8m1dnoDkRccHVXsicFyk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:54:57"
+  }
+]

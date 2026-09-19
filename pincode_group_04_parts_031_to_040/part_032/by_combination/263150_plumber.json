@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anuj Plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "263150",
+    "phone_number": "+91 95289 24713",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gadarpur ramjeevanpur no3, Gadarpur, Uttarakhand 263152",
+    "area": "263150",
+    "latitude": 29.048591499999997,
+    "longitude": 79.2364403,
+    "place_id": "ChIJfZroyAN9CjkRpxazoWkdtvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfZroyAN9CjkRpxazoWkdtvY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:53:03"
+  },
+  {
+    "business_name": "Rajpal saini",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "263150",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Uttarakhand263150. Barzpur, Kelakhera",
+    "area": "263150",
+    "latitude": 29.086154099999998,
+    "longitude": 79.17460539999999,
+    "place_id": "ChIJSR1sbABlCjkRIRD4vvWzLbA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSR1sbABlCjkRIRD4vvWzLbA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:53:03"
+  }
+]

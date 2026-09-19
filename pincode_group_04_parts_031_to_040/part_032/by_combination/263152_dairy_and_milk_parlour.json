@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HANSRAJ DAIRY",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "263152",
+    "phone_number": "+91 98971 62626",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vidvani Market, Rudrapur, Uttarakhand 263153",
+    "area": "Vidvani Market",
+    "latitude": 28.9756675,
+    "longitude": 79.3969261,
+    "place_id": "ChIJh0qlpux_oDkRc_c-4G5XjaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh0qlpux_oDkRc_c-4G5XjaE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:55:48"
+  },
+  {
+    "business_name": "Mother Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "263152",
+    "phone_number": "+91 74098 09009",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "1, Gotia Rudarpur, Rudrapur, Uttarakhand 263153",
+    "area": "263152",
+    "latitude": 28.977370699999998,
+    "longitude": 79.3762663,
+    "place_id": "ChIJmUHRzlKBCjkRaJyfAxq1HmE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmUHRzlKBCjkRaJyfAxq1HmE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:55:48"
+  }
+]

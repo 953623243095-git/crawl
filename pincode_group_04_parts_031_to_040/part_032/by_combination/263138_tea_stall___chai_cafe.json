@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cafe D'Heights",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "263138",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 154,
+    "address": "Bhatelia-Dhanachuli-BhimtalRoad, Dhanachuli, Uttarakhand 263136",
+    "area": "263138",
+    "latitude": 29.397326399999997,
+    "longitude": 79.6658787,
+    "place_id": "ChIJlW9Gase_oDkRBK3Dw_8Vx_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlW9Gase_oDkRBK3Dw_8Vx_M",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:39:34"
+  },
+  {
+    "business_name": "View Point Pahadi Snack Chai Point",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "263138",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 49,
+    "address": "FM33+CQX, Mukteshwar Rd, Mukteshwar, South Gola Range, Uttarakhand 263138",
+    "area": "263138",
+    "latitude": 29.453618,
+    "longitude": 79.654495,
+    "place_id": "ChIJxUBNLnC_oDkRkeSt1pANcKY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxUBNLnC_oDkRkeSt1pANcKY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:39:34"
+  }
+]

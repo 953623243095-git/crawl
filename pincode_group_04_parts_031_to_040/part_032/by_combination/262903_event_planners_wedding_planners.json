@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Elite Wedding Planner",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event management company, Wedding service",
+    "pincode": "262903",
+    "phone_number": "+91 98202 15215",
+    "website": "https://www.eliteweddingplanner.in/",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "A402, Crystal Enclave, Military Rd, Bhavani Nagar, Marol, Andheri East, Mumbai, Maharashtra 400059",
+    "area": "Bhavani Nagar, Marol, Andheri East",
+    "latitude": 19.1191638,
+    "longitude": 72.8835549,
+    "place_id": "ChIJR03wP9C25zsRSxctNfWN8lw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR03wP9C25zsRSxctNfWN8lw",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:13:39"
+  },
+  {
+    "business_name": "Universe Marriage - A Wedding Planner",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event management company, Event planner, Event venue, Florist, Wedding service, Wedding venue",
+    "pincode": "262903",
+    "phone_number": "+91 98892 30366",
+    "website": "https://www.universemarriage.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "J-12/6 A-13 nati Imli, opp-Thakur Press, Near-Kidzee School, Varanasi, Uttar Pradesh 221001",
+    "area": "Piplani Katra, Jaitpura",
+    "latitude": 25.3251761,
+    "longitude": 83.0054822,
+    "place_id": "ChIJgZoylhEujjkRq99LQieI3l8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgZoylhEujjkRq99LQieI3l8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:13:41"
+  }
+]

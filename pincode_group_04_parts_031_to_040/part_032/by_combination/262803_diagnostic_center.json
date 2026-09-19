@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dummy.prabhat",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "262803",
+    "phone_number": "+91 95170 21055",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Raja Mandi Rd, Gola, Suwabojh, Uttar Pradesh 262802",
+    "area": "262803",
+    "latitude": 28.2300723,
+    "longitude": 80.32321069999999,
+    "place_id": "ChIJTU91fjllnzkRxUvIFPUVbH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTU91fjllnzkRxUvIFPUVbH8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:04:43"
+  },
+  {
+    "business_name": "D.K Pathology lab Mailani",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "262803",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Market, near State Bank, Mailani, Uttar Pradesh 262803",
+    "area": "262803",
+    "latitude": 28.2870712,
+    "longitude": 80.3463754,
+    "place_id": "ChIJxZ8lcABjnzkRh9KbbMKr71Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxZ8lcABjnzkRh9KbbMKr71Q",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:04:43"
+  }
+]

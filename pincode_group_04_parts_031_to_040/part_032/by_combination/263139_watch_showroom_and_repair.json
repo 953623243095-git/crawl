@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THE GADGET WORLD",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "263139",
+    "phone_number": "+91 83077 11900",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 16,
+    "address": "HDFC bank, Bareilly - Nainital Rd, behind uttar ujala press, Indira Nagar, Haldwani, Uttarakhand 263139",
+    "area": "Indira Nagar",
+    "latitude": 29.1994623,
+    "longitude": 79.5261981,
+    "place_id": "ChIJHREuOkiboDkRV5L-W694u98",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHREuOkiboDkRV5L-W694u98",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:41:35"
+  },
+  {
+    "business_name": "M.S watch sale & service",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch repair service",
+    "all_categories": "Watch repair service",
+    "pincode": "263139",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sidcul Rd, Ward Number 5, Sitarganj, Uttarakhand 262405",
+    "area": "Ward Number 5",
+    "latitude": 28.9324601,
+    "longitude": 79.703532,
+    "place_id": "ChIJm5UxIqNhoDkRPx7w_ut8_ww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm5UxIqNhoDkRPx7w_ut8_ww",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:41:38"
+  }
+]

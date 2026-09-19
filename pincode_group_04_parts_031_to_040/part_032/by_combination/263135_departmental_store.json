@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Negi general store",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store, General store",
+    "pincode": "263135",
+    "phone_number": "+91 93682 25695",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bajuthiya, gulabghati, near Nathuakhan, Uttarakhand 263158",
+    "area": "263135",
+    "latitude": 29.491509699999998,
+    "longitude": 79.5976295,
+    "place_id": "ChIJ19wgIwC7oDkRxcIteV2XiXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ19wgIwC7oDkRxcIteV2XiXY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:33:49"
+  },
+  {
+    "business_name": "SUPER 99",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store, Discount supermarket, Hypermarket, Kitchen supply store, Shopping mall, Supermarket, Toy store",
+    "pincode": "263135",
+    "phone_number": "+91 11 4949 5656",
+    "website": "https://www.super99.in/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Shop No 09-12/21-24 Ground Floor, Raghunath City Mall Almora, Almora Road, Khatyari, Khagmara Kote, Uttarakhand 263601",
+    "area": "Khatyari",
+    "latitude": 29.5900362,
+    "longitude": 79.6433392,
+    "place_id": "ChIJjWPzdLawoDkRlR4eGUE98CA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjWPzdLawoDkRlR4eGUE98CA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:33:52"
+  }
+]

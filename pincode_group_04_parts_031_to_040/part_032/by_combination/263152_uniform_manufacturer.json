@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jatin Tailors",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "263152",
+    "phone_number": "+91 95480 89035",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "275V+VMX, Mohanpur No 1, Buranagar, Amarpur, Mahtosh, Uttarakhand 263152",
+    "area": "Mohanpur No 1, Buranagar",
+    "latitude": 29.009749499999998,
+    "longitude": 79.2942423,
+    "place_id": "ChIJT0mi9VF_CjkRB4kypEIOFnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT0mi9VF_CjkRB4kypEIOFnc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:56:05"
+  },
+  {
+    "business_name": "Mem Sahab Collection",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "263152",
+    "phone_number": "+91 96391 52555",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "A-14,15, Durga Mandir Gali, Rudrapur, Uttarakhand 263153",
+    "area": "263152",
+    "latitude": 28.977938299999998,
+    "longitude": 79.39725399999999,
+    "place_id": "ChIJmxoVHbp_oDkR3ewG5q3QY8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmxoVHbp_oDkR3ewG5q3QY8I",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:56:05"
+  }
+]

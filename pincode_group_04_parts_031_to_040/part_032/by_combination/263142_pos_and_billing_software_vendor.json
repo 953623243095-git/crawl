@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HMS Enterprises",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "263142",
+    "phone_number": "+91 99529 59595",
+    "website": "https://www.hmsenterprises.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "93/4, Jeenis Rd, Saidapet East, Periyapet, Saidapet, Chennai, Tamil Nadu 600015",
+    "area": "Saidapet East, Periyapet, Saidapet",
+    "latitude": 13.0244869,
+    "longitude": 80.224531,
+    "place_id": "ChIJN3JkOeFnUjoRM0jka5Bte0A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN3JkOeFnUjoRM0jka5Bte0A",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:46:19"
+  },
+  {
+    "business_name": "Software Kadai",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Computer software store",
+    "all_categories": "Computer software store",
+    "pincode": "263142",
+    "phone_number": "+91 98949 61240",
+    "website": "https://softwarekadai.com/",
+    "rating": 4.9,
+    "reviews_count": 65,
+    "address": "No 26 Pookara Street, near Mela Avani Moola Street, opp. Manoraj Kalyana Mahal, Madurai, Tamil Nadu 625001",
+    "area": "Madurai Main",
+    "latitude": 9.9192362,
+    "longitude": 78.1169917,
+    "place_id": "ChIJEwiTIzHFADsRC_wEaYmSLak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEwiTIzHFADsRC_wEaYmSLak",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:46:20"
+  }
+]

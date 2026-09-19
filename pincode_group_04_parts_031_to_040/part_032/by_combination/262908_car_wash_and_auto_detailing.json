@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishnu Car Care",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto repair shop, Auto restoration service",
+    "pincode": "262908",
+    "phone_number": "+91 90906 76763",
+    "website": "https://www.vishnucarcare.com/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "3-142, Gudivada Junction, Gudavalli, Vijayawada, Gudavali, Andhra Pradesh 521104",
+    "area": "Gudavalli",
+    "latitude": 16.5129344,
+    "longitude": 80.7499565,
+    "place_id": "ChIJS2lbQaz9NToRqggkXrXoe5U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS2lbQaz9NToRqggkXrXoe5U",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:21:35"
+  },
+  {
+    "business_name": "The perfect car wash &dry clean center",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "262908",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "shop no -2, Bhati market, behind supertech, near Arihant Arden, Sector 1, Bisrakh Jalalpur, Greater Noida, Uttar Pradesh 201318",
+    "area": "Sector 1, Bisrakh Jalalpur",
+    "latitude": 28.577647,
+    "longitude": 77.4402308,
+    "place_id": "ChIJyeIHUHTvDDkRXsyNVgJ1wV0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyeIHUHTvDDkRXsyNVgJ1wV0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:21:37"
+  }
+]

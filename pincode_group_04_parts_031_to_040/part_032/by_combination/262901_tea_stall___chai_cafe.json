@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khalid Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Tea store",
+    "pincode": "262901",
+    "phone_number": "+91 63871 92493",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Maigran Mohala, Palia Kalan, Uttar Pradesh 262902",
+    "area": "262901",
+    "latitude": 28.437911399999997,
+    "longitude": 80.5836125,
+    "place_id": "ChIJUaLHTPTjoTkRQ4IF0-3YW_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUaLHTPTjoTkRQ4IF0-3YW_c",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:09:25"
+  },
+  {
+    "business_name": "Close up chai wala",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "262901",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/closeup.chaiwala?igsh=MXBmcXUwcnoxMXltMw==",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Close up chai wala, Dhangadhi, Sudurpashchim Province 10900, Nepal",
+    "area": "Uttar Behandi",
+    "latitude": 28.711396099999998,
+    "longitude": 80.5776841,
+    "place_id": "ChIJ5zuzVADtoTkRILef32moh7Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5zuzVADtoTkRILef32moh7Q",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:09:25"
+  }
+]

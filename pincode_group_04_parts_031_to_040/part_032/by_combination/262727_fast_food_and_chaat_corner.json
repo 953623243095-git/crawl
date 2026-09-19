@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arun Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "262727",
+    "phone_number": "+91 80815 74131",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Maholi, Road, Sitapur, Uttar Pradesh 261001",
+    "area": "262727",
+    "latitude": 27.7307223,
+    "longitude": 80.62627429999999,
+    "place_id": "ChIJb0I1j2AlnzkRM0W0GcxMWf0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb0I1j2AlnzkRM0W0GcxMWf0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:57:42"
+  },
+  {
+    "business_name": "श्री श्याम चाट कॉर्नर एण्ड मिष्ठान भण्डार",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "262727",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhagwanpura, Rajasthan 303901",
+    "area": "262727",
+    "latitude": 26.6361611,
+    "longitude": 75.97609469999999,
+    "place_id": "ChIJpR8m7mnbbTkR08rOa4jcq1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpR8m7mnbbTkR08rOa4jcq1E",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:57:43"
+  }
+]

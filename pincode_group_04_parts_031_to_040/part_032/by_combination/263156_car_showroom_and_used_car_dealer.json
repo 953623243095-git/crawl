@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganga Car Bazar",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Auto painting, Auto repair shop, Car finance and loan company, Car stereo store, Car wash",
+    "pincode": "263156",
+    "phone_number": "+91 86307 30168",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 26,
+    "address": "Haridwar Main Rd, Arya Nagar, Jwalapur, Uttarakhand 249407",
+    "area": "Arya Nagar",
+    "latitude": 29.925137,
+    "longitude": 78.11970699999999,
+    "place_id": "ChIJZ3zbfSNGCTkR1YuxFMZftSY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ3zbfSNGCTkR1YuxFMZftSY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:00:03"
+  },
+  {
+    "business_name": "Car Shoppe",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "263156",
+    "phone_number": "+91 98370 70225",
+    "website": "http://cashpppe.in/",
+    "rating": 4.8,
+    "reviews_count": 34,
+    "address": "Old Industrial Area Tibri Fatak Near Hnuman Mandir Bilkeshwar Road, Hill Bypass, Haridwar, Uttarakhand 249401",
+    "area": "forest colony",
+    "latitude": 29.939083,
+    "longitude": 78.13904,
+    "place_id": "ChIJJQgDkP1GCTkRCoFB_tg1mN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJQgDkP1GCTkRCoFB_tg1mN4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:00:03"
+  }
+]

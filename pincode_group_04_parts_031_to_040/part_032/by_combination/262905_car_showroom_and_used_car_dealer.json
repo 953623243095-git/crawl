@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Car Bazar(old)",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "262905",
+    "phone_number": "+91 94122 93710",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "gupta car bazar Ahead Of Satellite, Bus Stand, 341, Shri Ganpati Bhavan, old, Pilibhit Bypass Rd, Bareilly, Uttar Pradesh 243005",
+    "area": "Gulzar Nagar",
+    "latitude": 28.3550373,
+    "longitude": 79.4455548,
+    "place_id": "ChIJsyYKJTUBoDkR3MuP3fBgrjo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsyYKJTUBoDkR3MuP3fBgrjo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:16:36"
+  },
+  {
+    "business_name": "ASIAN MOTORS",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "262905",
+    "phone_number": "+91 93910 37686",
+    "website": "http://www.asianmotors.co.in/",
+    "rating": 4.8,
+    "reviews_count": 132,
+    "address": "Pillar No : 68, Kings Kohinoor Covention, Ground Floor, PV Narasimha Rao Expy, Attapur, Hyderabad, Telangana 500006",
+    "area": "Attapur, Noor Ghat, Gudi Malkapur, Gudimalkapur",
+    "latitude": 17.3873685,
+    "longitude": 78.43020299999999,
+    "place_id": "ChIJL0SZhkyXyzsRlKTyPyj9PzE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL0SZhkyXyzsRlKTyPyj9PzE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:16:38"
+  }
+]

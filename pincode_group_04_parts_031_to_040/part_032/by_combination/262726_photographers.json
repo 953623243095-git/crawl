@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Haidar Photography",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio, Service establishment",
+    "pincode": "262726",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/haidar_photography72?igsh=MWUydTIyYXF0eWNpNg==",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Haidar Photography, 262726, India",
+    "area": "262726",
+    "latitude": null,
+    "longitude": null,
+    "place_id": "ChIJY9P7QJKUDooRR15EkAWaHYI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY9P7QJKUDooRR15EkAWaHYI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:56:46"
+  },
+  {
+    "business_name": "The Ananya Movies",
+    "search_category": "Photographers",
+    "primary_category": "Wedding photographer",
+    "all_categories": "Wedding photographer, Photography studio, Wedding Portrait Studio",
+    "pincode": "262726",
+    "phone_number": "+91 91618 88036",
+    "website": "http://theananyamovies.in/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Phardhan, Nardawal, Uttar Pradesh 262701",
+    "area": "262726",
+    "latitude": 27.9900967,
+    "longitude": 80.6464563,
+    "place_id": "ChIJc1iAhS5JnzkRsH7eYYFYvHc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc1iAhS5JnzkRsH7eYYFYvHc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:56:46"
+  }
+]

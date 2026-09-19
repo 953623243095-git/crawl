@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Burger Point",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Hamburger restaurant",
+    "all_categories": "Hamburger restaurant, Fast food restaurant",
+    "pincode": "263152",
+    "phone_number": "+91 90455 53528",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "National Highway 87, near SGAD Complex, Rudrapur, Jagatpura, Uttarakhand 263153",
+    "area": "263152",
+    "latitude": 28.981736299999998,
+    "longitude": 79.3996392,
+    "place_id": "ChIJw17jc-l_oDkRVeze0AhsDt0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw17jc-l_oDkRVeze0AhsDt0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:55:58"
+  },
+  {
+    "business_name": "UK06 CAFE & RESTAURANT",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Cafe, Food court",
+    "pincode": "263152",
+    "phone_number": "+91 93409 01639",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "123, EWS-514, Dashmesh Nagar Rd, near HOLI CHOWK, Awas Vikas, Rudrapur, Jagatpura, Uttarakhand 263153",
+    "area": "Awas Vikas",
+    "latitude": 28.984692,
+    "longitude": 79.40361639999999,
+    "place_id": "ChIJmb24ykl_oDkR1dAj-hN0lMQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmb24ykl_oDkR1dAj-hN0lMQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:55:58"
+  }
+]

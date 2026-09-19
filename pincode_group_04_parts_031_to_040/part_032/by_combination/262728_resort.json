@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Holiday Resort",
+    "search_category": "Resort",
+    "primary_category": "Wine store",
+    "all_categories": "Wine store",
+    "pincode": "262728",
+    "phone_number": "+91 88815 42538",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "babusarvan734 Iffa4472, Lakhimpur, Singaniya, Uttar Pradesh 262701",
+    "area": "babusarvan734 Iffa4472",
+    "latitude": 27.9622839,
+    "longitude": 80.810136,
+    "place_id": "ChIJ9fhHdcnLmDkR6pn_-1rGDsc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9fhHdcnLmDkR6pn_-1rGDsc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:00:12"
+  },
+  {
+    "business_name": "Club Platinum Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Amusement park, Banquet hall, Event venue, Hotel, Picnic ground, Restaurant, Serviced accommodation, Water park, Wedding venue",
+    "pincode": "262728",
+    "phone_number": "+91 98739 19103",
+    "website": "http://www.clubplatinumresort.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Assaudha Turn, Rohtak - Delhi Rd, Bahadurgarh, Haryana 124507",
+    "area": "262728",
+    "latitude": 28.7331583,
+    "longitude": 76.8496645,
+    "place_id": "ChIJcc4_KG8EDTkR4zJt8puaXqY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcc4_KG8EDTkR4zJt8puaXqY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:00:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pandey Enterprises",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "263137",
+    "phone_number": "+91 63968 02123",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "011, Bhowali-Ramgarh Rd, Bhowali, Sukha, Uttarakhand 263132",
+    "area": "Bhowali",
+    "latitude": 29.3829022,
+    "longitude": 79.5202996,
+    "place_id": "ChIJRYlVzYmjoDkRjc0mPtVP5Bk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRYlVzYmjoDkRjc0mPtVP5Bk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:38:23"
+  },
+  {
+    "business_name": "Asian Paints EzyColour - Hari Glass & Ply",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store, Painter, Waterproofing service",
+    "pincode": "263137",
+    "phone_number": "+91 96617 10240",
+    "website": "https://www.asianpaints.com/store-locator.html?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Dak Bunglow Chowk, Benipatti, Bihar 847223",
+    "area": "263137",
+    "latitude": 26.4432798,
+    "longitude": 85.90395,
+    "place_id": "ChIJbwAbVNpL7DkRv7uu8EbtCug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbwAbVNpL7DkRv7uu8EbtCug",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:38:25"
+  }
+]

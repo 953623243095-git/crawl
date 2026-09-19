@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TOWNLY ICE CREAM",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "263128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 3, Awas Vikas, Bareilly - Nainital Rd, near HDFC Bank, Awas Vikas, Rudrapur, Jagatpura, Uttarakhand 263153",
+    "area": "Awas Vikas",
+    "latitude": 28.9864458,
+    "longitude": 79.4004641,
+    "place_id": "ChIJHTNs9o17oDkRnoO91JZ4PaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHTNs9o17oDkRnoO91JZ4PaU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:28:38"
+  },
+  {
+    "business_name": "Naturals Ice Cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Sweet shop, Dessert restaurant, Dessert shop, Frozen dessert supplier",
+    "pincode": "263128",
+    "phone_number": "+91 731 400 0097",
+    "website": "https://naturalicecreams.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "1, 2, Sapphire Heights, AB Rd, opp. C21 Mall, Opposite C-21 Mall, Vijay Nagar, Scheme No 54, Indore, Madhya Pradesh 452010",
+    "area": "Opposite C-21 Mall, Vijay Nagar, Scheme No 54",
+    "latitude": 22.7442638,
+    "longitude": 75.892983,
+    "place_id": "ChIJsZUblCb9YjkRMDdhhQ0j7iM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsZUblCb9YjkRMDdhhQ0j7iM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:28:40"
+  }
+]

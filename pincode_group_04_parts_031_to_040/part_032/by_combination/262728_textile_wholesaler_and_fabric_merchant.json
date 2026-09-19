@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FabricKart",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Clothes and fabric manufacturer",
+    "all_categories": "Clothes and fabric manufacturer, Clothes and fabric wholesaler, Clothing manufacturer, Clothing store, Clothing supplier, Clothing wholesaler, Fabric wholesaler",
+    "pincode": "262728",
+    "phone_number": "+91 70142 44944",
+    "website": "https://fabrickart.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "1st Floor, Udita Tower, Shop 5 & 6, Radha Ballabh Marg, beside Udita Tower, Sanganer, Jaipur, Rajasthan 302029",
+    "area": "Boharon Ka Mohalla, Dada Gurudev Nagar, Sanganer",
+    "latitude": 26.8181802,
+    "longitude": 75.788465,
+    "place_id": "ChIJJx3fQaVLbDkRu1z96WNDNO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJx3fQaVLbDkRu1z96WNDNO0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:59:29"
+  },
+  {
+    "business_name": "RAJADHANI FABRICS",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "262728",
+    "phone_number": "+91 99954 61860",
+    "website": "https://wa.me/+919995461860",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "67/8425-ABCD, Market Rd, Marine Drive, Ernakulam, Keralam 682011",
+    "area": "Marine Drive",
+    "latitude": 9.9773914,
+    "longitude": 76.27947619999999,
+    "place_id": "ChIJkxWw8AoNCDsRTCc61Sjxpg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkxWw8AoNCDsRTCc61Sjxpg8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:59:29"
+  }
+]

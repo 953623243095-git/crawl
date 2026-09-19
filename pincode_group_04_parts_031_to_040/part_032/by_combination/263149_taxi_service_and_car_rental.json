@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taxi Service in Ramnagar",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Airport Shuttle Service Provider, Car leasing service, Car rental agency, Minibus taxi service, Taxi stand, Tour operator, Transportation service, Travel agency",
+    "pincode": "263149",
+    "phone_number": "+91 94103 07590",
+    "website": "https://sites.google.com/view/taxiserviceinramnagar",
+    "rating": 4.9,
+    "reviews_count": 105,
+    "address": "Near Easta School Kaniya, Ramnagar, Uttarakhand 244715",
+    "area": "263149",
+    "latitude": 29.392656799999997,
+    "longitude": 79.0880359,
+    "place_id": "ChIJ3TZodTAVCjkR5iu404g8Q5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3TZodTAVCjkR5iu404g8Q5w",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:51:09"
+  },
+  {
+    "business_name": "Texy Cab",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "263149",
+    "phone_number": "+91 94101 01287",
+    "website": "https://www.texycab.com/",
+    "rating": 5,
+    "reviews_count": 31,
+    "address": "Dehradun-Rishikesh Rd, opposite Nayara Petrol Pump, Beerpur, Ranipokhari, Barkot Mafi, Uttarakhand 248145",
+    "area": "Beerpur",
+    "latitude": 30.176866999999998,
+    "longitude": 78.2334418,
+    "place_id": "ChIJBdBjIjufgaURK_IwAEcIlpg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBdBjIjufgaURK_IwAEcIlpg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:51:10"
+  }
+]

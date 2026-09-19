@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arif beauty and general hub",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "262905",
+    "phone_number": "+91 79779 92695",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "284 Villege Dandoori, post, Sarptha, Semra, Uttar Pradesh 262907",
+    "area": "262905",
+    "latitude": 28.2537488,
+    "longitude": 80.98486439999999,
+    "place_id": "ChIJWdzztuavmDkRWHgpqV4vqX0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWdzztuavmDkRWHgpqV4vqX0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:16:53"
+  },
+  {
+    "business_name": "Shivani beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "262905",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CWPJ+6HG, Kadeya, Uttar Pradesh 262906",
+    "area": "262905",
+    "latitude": 28.435568099999998,
+    "longitude": 80.93144509999999,
+    "place_id": "ChIJEbozGwAHojkRgE_59TebjA8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEbozGwAHojkRgE_59TebjA8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:16:54"
+  }
+]

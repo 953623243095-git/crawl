@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jadish Kirana Store",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "262906",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9XHM+3MH, Station Rd, Jain Colony, Barsola Kalan, Kolluri, Uttar Pradesh 262906",
+    "area": "Jain Colony",
+    "latitude": 28.3776992,
+    "longitude": 80.9842409,
+    "place_id": "ChIJr8ZV-P4HojkRMk2QNFSil8M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr8ZV-P4HojkRMk2QNFSil8M",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:19:17"
+  },
+  {
+    "business_name": "Fashion Point",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "262906",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "9XFM+WFV, Tikunia Bypass Rd, Barsola Kalan, Kolluri, Uttar Pradesh 262906",
+    "area": "262906",
+    "latitude": 28.374868199999998,
+    "longitude": 80.9836851,
+    "place_id": "ChIJpw3kev8HojkRWayPEfznxnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpw3kev8HojkRWayPEfznxnc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:19:17"
+  }
+]

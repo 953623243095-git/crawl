@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Daisy The pet shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "262903",
+    "phone_number": "+91 83559 37573",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 111,
+    "address": "Daisy the pet Shop, Orlem Tank Rd, near Surana Hospital, opp. Suman Apt, Kandivali, Paras Nagar, Bhagat Colony, Malad West, Mumbai, Maharashtra 400064",
+    "area": "Kandivali, Paras Nagar, Bhagat Colony, Malad West",
+    "latitude": 19.1987192,
+    "longitude": 72.83861759999999,
+    "place_id": "ChIJta3BouG35zsRCNi1xgf2jUU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJta3BouG35zsRCNi1xgf2jUU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:12:49"
+  },
+  {
+    "business_name": "Taily Affairs",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "262903",
+    "phone_number": "+91 98197 13033",
+    "website": "https://tailyaffairs.com/",
+    "rating": 4.4,
+    "reviews_count": 30,
+    "address": "Shop no. 4, Neelgagan CHS, Lane, opp. Apna Bazar Road, next to Krishna dairy, D.N.Nagar, Andheri West, Mumbai, Maharashtra 400053",
+    "area": "D.N.Nagar, Andheri West",
+    "latitude": 19.1260233,
+    "longitude": 72.8332709,
+    "place_id": "ChIJCUNrgY7I5zsRsliUSDQ1RR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCUNrgY7I5zsRsliUSDQ1RR0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:12:49"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naturals Ice Cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Sweet shop, Dessert restaurant, Dessert shop, Frozen dessert supplier, Indian sweets shop",
+    "pincode": "263157",
+    "phone_number": "+91 93727 47652",
+    "website": "https://naturalicecreams.in/",
+    "rating": 4.5,
+    "reviews_count": 1684,
+    "address": "GROUND FLOOR, 292-A, 12 TH CROSS IDEAL HOME TOWN SHIP RR NAGAR, B.B, M.P West, Bengaluru, Karnataka 560098",
+    "area": "Remco Bhel Layout, Ideal Homes Township, M.P West",
+    "latitude": 12.926079999999999,
+    "longitude": 77.5162898,
+    "place_id": "ChIJYcJSxig_rjsRH9sNajleoNU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYcJSxig_rjsRH9sNajleoNU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:01:28"
+  },
+  {
+    "business_name": "Naturals Ice Cream Kozhikode",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Sweet shop, Dessert restaurant, Dessert shop, Frozen dessert supplier",
+    "pincode": "263157",
+    "phone_number": "+91 81290 43999",
+    "website": "https://naturalicecreams.in/",
+    "rating": 4.5,
+    "reviews_count": 4882,
+    "address": "A1, GKW Building, 28/236, Mavoor Rd, near ICICI Bank, Kottooli, Kozhikode, Keralam 673017",
+    "area": "Kottooli",
+    "latitude": 11.261047999999999,
+    "longitude": 75.808346,
+    "place_id": "ChIJBYEjFf1bpjsRUWi17AO0wrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBYEjFf1bpjsRUWi17AO0wrI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:01:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star electricals",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "263138",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CJPX+JMV, Bhatelia-Mukteshwar Rd, South Gola Range, Uttarakhand 263138",
+    "area": "263138",
+    "latitude": 29.454669199999998,
+    "longitude": 79.6545438,
+    "place_id": "ChIJRXkq2e2_oDkRZfmJLh8l3Lg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRXkq2e2_oDkRZfmJLh8l3Lg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:40:13"
+  },
+  {
+    "business_name": "Bhumika Traders And Supplier",
+    "search_category": "Electrician",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "263138",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "HJPV+234, Almora - Barechhina Rd, Officers Colony, New Colony, Satyadi Village, Almora, Uttarakhand 263601",
+    "area": "Officers Colony, New Colony, Satyadi Village",
+    "latitude": 29.5850029,
+    "longitude": 79.6427044,
+    "place_id": "ChIJB7Qfzc-xoDkROYP_bN_8yeU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB7Qfzc-xoDkROYP_bN_8yeU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:40:15"
+  }
+]

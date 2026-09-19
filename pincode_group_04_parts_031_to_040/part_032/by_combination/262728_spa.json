@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Istiyak Ali",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "262728",
+    "phone_number": "+91 99847 94959",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sekhanapur Laharpur Sitapur Sekhanapur Laharpur, Uttar Pradesh 261135",
+    "area": "262728",
+    "latitude": 27.8255835,
+    "longitude": 80.95654449999999,
+    "place_id": "ChIJJXxK9x_PmDkR7AgPxXoGRRk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJXxK9x_PmDkR7AgPxXoGRRk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:00:03"
+  },
+  {
+    "business_name": "Aero Orchid Family Spa & Salon",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "262728",
+    "phone_number": "+91 99200 71322",
+    "website": "https://www.aeroorchidfamilyspa.in/",
+    "rating": 4.4,
+    "reviews_count": 29,
+    "address": "NIBR Corporate Park, 1 Aerocity,2nd Floor, 204 Andheri Kurla Road, Safed Pool, Shivaji Nagar Jarimari, Sakinaka, Andheri East, Mumbai, Maharashtra 400072",
+    "area": "Safed Pul, Andheri East",
+    "latitude": 19.0974458,
+    "longitude": 72.88369639999999,
+    "place_id": "ChIJsTStKJfJ5zsRpWdGOjyLB8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsTStKJfJ5zsRpWdGOjyLB8I",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:00:04"
+  }
+]

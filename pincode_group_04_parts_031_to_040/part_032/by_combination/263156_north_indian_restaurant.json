@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madhuban Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Restaurant, Vegetarian restaurant",
+    "pincode": "263156",
+    "phone_number": "+91 84769 29077",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 452,
+    "address": "near, Ram Brg, Sattal, Uttarakhand 263127",
+    "area": "263156",
+    "latitude": 29.348159199999998,
+    "longitude": 79.5301728,
+    "place_id": "ChIJP1hemUOYoDkRFvA6Fpjj2qI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP1hemUOYoDkRFvA6Fpjj2qI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:59:33"
+  },
+  {
+    "business_name": "KUMAON LAKE'S HOME STAY & RESTAURANT",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Bird watching area, Indian grocery store, Home Stay",
+    "pincode": "263156",
+    "phone_number": "+91 84158 92090",
+    "website": "https://kumaonlakesview.com/",
+    "rating": 4.9,
+    "reviews_count": 131,
+    "address": "Ghorakhal Road, Dugna, Mahargaon, Uttarakhand 263156",
+    "area": "263156",
+    "latitude": 29.377625,
+    "longitude": 79.54121959999999,
+    "place_id": "ChIJ4ftCxgujoDkROz74qp22P4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4ftCxgujoDkROz74qp22P4s",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:59:34"
+  }
+]

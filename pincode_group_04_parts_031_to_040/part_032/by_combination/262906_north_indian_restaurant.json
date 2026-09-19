@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandar Hotel",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "262906",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "G4J9+CRM, Tikapur, Sudurpashchim Province 10901, Nepal",
+    "area": "262906",
+    "latitude": 28.531084699999997,
+    "longitude": 81.1195541,
+    "place_id": "ChIJ1TrmKqgNojkRfHugmGZSxeU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1TrmKqgNojkRfHugmGZSxeU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:17:51"
+  },
+  {
+    "business_name": "Dudhwa Canteen",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "262906",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 40,
+    "address": "FJQW+WRH, Gadeneya, Uttar Pradesh 262902",
+    "area": "262906",
+    "latitude": 28.489804399999997,
+    "longitude": 80.6471232,
+    "place_id": "ChIJWzj8eif7oTkRwK1NH79W82s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWzj8eif7oTkRwK1NH79W82s",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:17:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Omkar Service Centre",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "262803",
+    "phone_number": "+91 89574 15339",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2 Navadiya, Uttar Pradesh 242405",
+    "area": "262803",
+    "latitude": 28.3065453,
+    "longitude": 80.2967609,
+    "place_id": "ChIJRaaTfzVjnzkRIHGKbZW3IYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRaaTfzVjnzkRIHGKbZW3IYo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:05:34"
+  },
+  {
+    "business_name": "Shiwam Gupta",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Mailing machine supplier",
+    "all_categories": "Mailing machine supplier",
+    "pincode": "262803",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shiwam, Mailani, Suwabojh, Uttar Pradesh 262803",
+    "area": "262803",
+    "latitude": 28.247113,
+    "longitude": 80.3253465,
+    "place_id": "ChIJk1dGzjJjnzkR91eQiYIY73Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk1dGzjJjnzkR91eQiYIY73Y",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:05:37"
+  }
+]

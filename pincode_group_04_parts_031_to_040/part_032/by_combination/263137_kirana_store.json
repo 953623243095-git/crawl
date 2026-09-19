@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Stores, Ramgarh (Malla)",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "263137",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Krishna Stores Ramgarh, Malla, Uttarakhand 263137",
+    "area": "263137",
+    "latitude": 29.4228579,
+    "longitude": 79.5520351,
+    "place_id": "ChIJfXfPYuajoDkRazQkpLFcH-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfXfPYuajoDkRazQkpLFcH-o",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:37:37"
+  },
+  {
+    "business_name": "Sijwali Ganrel Store",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "263137",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "No.1, Ramgarh Rd, Bhimtal, Ramgarh, Uttarakhand 263137",
+    "area": "263137",
+    "latitude": 29.4268117,
+    "longitude": 79.5511014,
+    "place_id": "ChIJcaRK5c-joDkRHXK1Ytn0ho4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcaRK5c-joDkRHXK1Ytn0ho4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:37:37"
+  }
+]

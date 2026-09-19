@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaunal General Store",
+    "search_category": "General Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "263156",
+    "phone_number": "+91 80776 97346",
+    "website": "https://chaunalgeneralstore.vercel.app/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ghingrani, Chanfi, Bhimtal, Bhowali Range, Uttarakhand 263136",
+    "area": "Ghingrani, Chanfi",
+    "latitude": 29.3709487,
+    "longitude": 79.5701468,
+    "place_id": "ChIJnQKyhCqXoDkR_WSRWud3hhY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnQKyhCqXoDkR_WSRWud3hhY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:59:27"
+  },
+  {
+    "business_name": "Sati General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "263156",
+    "phone_number": "+91 96343 31946",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 79,
+    "address": "Pant Colony, Shivlalpur Pandey, Ramnagar, Uttarakhand 244715",
+    "area": "Pant Colony",
+    "latitude": 29.3873492,
+    "longitude": 79.1205363,
+    "place_id": "ChIJIZbzgegTCjkRsiiYZUOq1Gc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIZbzgegTCjkRsiiYZUOq1Gc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:59:28"
+  }
+]

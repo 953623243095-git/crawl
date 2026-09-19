@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Worldsight Holidays",
+    "search_category": "Media and Event",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "263134",
+    "phone_number": "+91 97191 52531",
+    "website": "http://www.worldsightholidays.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "1st Floor, Bajaja Lane, near Allahabad Bank, TP Nagar, Line, Ramnagar, Uttarakhand 244715",
+    "area": "TP Nagar, Line",
+    "latitude": 29.3934797,
+    "longitude": 79.1281336,
+    "place_id": "ChIJE4lbk54TCjkR618O5XZJ6TI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE4lbk54TCjkR618O5XZJ6TI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:33:12"
+  },
+  {
+    "business_name": "Sarmang Dehradun Marathon",
+    "search_category": "Media and Event",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Event planner",
+    "pincode": "263134",
+    "phone_number": "+91 94121 49669",
+    "website": "https://sarmangdehradunmarathon.sarmang.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Sarmang Adventure Tours (Site Office, Kesarwala, Asthal, Uttarakhand 248008",
+    "area": "Raipur",
+    "latitude": 30.329602599999998,
+    "longitude": 78.1086821,
+    "place_id": "ChIJh12OX20pCTkRWXvdA4fvCTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh12OX20pCTkRWXvdA4fvCTk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:33:12"
+  }
+]

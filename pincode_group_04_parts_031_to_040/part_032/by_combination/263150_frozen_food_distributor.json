@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GOPAL FOODS",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "263150",
+    "phone_number": "+91 5949 281 245",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Beria Road, Bazpur, Uttarakhand 262401",
+    "area": "263150",
+    "latitude": 29.158070799999997,
+    "longitude": 79.1607049,
+    "place_id": "ChIJJUuwts56CjkRYA26KLQ9Hc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJUuwts56CjkRYA26KLQ9Hc8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:52:18"
+  },
+  {
+    "business_name": "Geeta frozen foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "263150",
+    "phone_number": "+91 99184 19554",
+    "website": "http://www.geetafrozenfoods.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "A41, A42, mini industrial area, Mau Rd, Mohanlalganj, Mau, Uttar Pradesh 226301",
+    "area": "263150",
+    "latitude": 26.6929017,
+    "longitude": 80.9856673,
+    "place_id": "ChIJ_2BN667xmzkR3ZglvR5OGzk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_2BN667xmzkR3ZglvR5OGzk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:52:19"
+  }
+]

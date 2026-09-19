@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Generator rental service",
+    "search_category": "Generator Sales and Rental",
+    "primary_category": "Electric generator shop",
+    "all_categories": "Electric generator shop",
+    "pincode": "262727",
+    "phone_number": "+91 94002 45858",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Mariyapuram, Nehru Nagar, Kuriachira, Thrissur, Keralam 680014",
+    "area": "Mariyapuram, Nehru Nagar, Kuriachira",
+    "latitude": 10.501272,
+    "longitude": 76.2458443,
+    "place_id": "ChIJt92sQLPvpzsRK3KXNNpv2Fc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt92sQLPvpzsRK3KXNNpv2Fc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:58:59"
+  },
+  {
+    "business_name": "Generator DG rental service",
+    "search_category": "Generator Sales and Rental",
+    "primary_category": "Electric generator shop",
+    "all_categories": "Electric generator shop",
+    "pincode": "262727",
+    "phone_number": "+91 86387 07310",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Sunday Market Road, Makum, Assam 786170",
+    "area": "262727",
+    "latitude": 27.4877656,
+    "longitude": 95.4396842,
+    "place_id": "ChIJqxXe8rMVPzcR4OoceS1lGZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqxXe8rMVPzcR4OoceS1lGZI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:59:02"
+  }
+]

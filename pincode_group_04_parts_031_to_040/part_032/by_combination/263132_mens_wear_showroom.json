@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Raymond shop",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Designer Clothing Store, Dress store, Fabric store, Clothing Accessories Store, Formal Clothing Store, Clothing store, Tuxedo shop, Youth clothing store",
+    "pincode": "263132",
+    "phone_number": "+91 80 4493 9354",
+    "website": "https://bareillynainitalroad-subhash-nagar.myraymond.com/",
+    "rating": 3.7,
+    "reviews_count": 93,
+    "address": "3/355, Subhash Nagar Rd, Bhotia Parao, Haldwani, Uttarakhand 263139",
+    "area": "Bhotia Parao",
+    "latitude": 29.238986099999998,
+    "longitude": 79.5337417,
+    "place_id": "ChIJJX64WOGaoDkRkdBio-vlod8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJX64WOGaoDkRkdBio-vlod8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:30:30"
+  },
+  {
+    "business_name": "Sai Collection",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store, Designer Clothing Store",
+    "pincode": "263132",
+    "phone_number": "+91 87556 04567",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 82,
+    "address": "Brihaspati Dev, New Brihaspati Dev Rudrapurnew, Awas vikas Rd, Rudrapur, Uttarakhand 263153",
+    "area": "Awas Vikas",
+    "latitude": 28.983104599999997,
+    "longitude": 79.40391799999999,
+    "place_id": "ChIJq4wHb8J_oDkR-8-kyyEQEr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq4wHb8J_oDkR-8-kyyEQEr4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:30:32"
+  }
+]

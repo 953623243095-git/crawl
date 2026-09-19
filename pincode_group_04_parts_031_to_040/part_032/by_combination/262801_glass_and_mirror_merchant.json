@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kanch Mall",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass & mirror shop",
+    "all_categories": "Glass & mirror shop",
+    "pincode": "262801",
+    "phone_number": "+91 98673 26928",
+    "website": "https://wa.me/919867326928",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Shop No. 2 & 3, Billeshwar Tower, Panch Rasta, MG Road, Mulund, Mulund West, Mumbai, Maharashtra 400080",
+    "area": "Mulund, Mulund West",
+    "latitude": 19.1762779,
+    "longitude": 72.9521698,
+    "place_id": "ChIJC4yg2v-45zsR6rDES_LWsYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC4yg2v-45zsR6rDES_LWsYo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:01:36"
+  },
+  {
+    "business_name": "Glass Zone",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass & mirror shop",
+    "all_categories": "Glass & mirror shop",
+    "pincode": "262801",
+    "phone_number": "+91 98699 30014",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "Glass Zone Shop No 2 Aawez Heights Building Near Union Bank S.V.road, Naka, Amboli, Andheri West, Mumbai, Maharashtra 400058",
+    "area": "Fish Market Area, Amboli, Andheri West",
+    "latitude": 19.1265151,
+    "longitude": 72.8468425,
+    "place_id": "ChIJh288wNXJ5zsRI9NSBn7psvE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh288wNXJ5zsRI9NSBn7psvE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:01:38"
+  }
+]

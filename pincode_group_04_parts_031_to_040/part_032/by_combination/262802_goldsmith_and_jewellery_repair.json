@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tola & Carat",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "262802",
+    "phone_number": "+91 11 3555 9746",
+    "website": "https://tolaandcarat.com/",
+    "rating": 5,
+    "reviews_count": 90,
+    "address": "C/23, Block C, Lajpat Nagar II, Lajpat Nagar, New Delhi, Delhi, 110024",
+    "area": "Block C, Lajpat Nagar II, Lajpat Nagar",
+    "latitude": 28.5710013,
+    "longitude": 77.2390872,
+    "place_id": "ChIJUwF0PnrjDDkRURCVCDhKFjc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUwF0PnrjDDkRURCVCDhKFjc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:02:50"
+  },
+  {
+    "business_name": "Raj Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Store",
+    "pincode": "262802",
+    "phone_number": "+91 93053 14193",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "00, Gola, Uttar Pradesh 262802",
+    "area": "262802",
+    "latitude": 28.080158899999997,
+    "longitude": 80.4630437,
+    "place_id": "ChIJy4NpTQxCnzkRtnoqNMPLCOU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy4NpTQxCnzkRtnoqNMPLCOU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:02:50"
+  }
+]

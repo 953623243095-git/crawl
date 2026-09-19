@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ROORKEE HOME DECOR",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Antique store",
+    "all_categories": "Antique store, Manufacturer",
+    "pincode": "263149",
+    "phone_number": "+91 87914 49868",
+    "website": "https://rhdantiques.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "House No. 241, First Floor , Sot Street, near Police Chowki, Sot B, Roorkee, Uttarakhand 247667",
+    "area": "Sot B, Bharat Nagar",
+    "latitude": 29.881642,
+    "longitude": 77.89129059999999,
+    "place_id": "ChIJUWmnn3SzDjkREpDle9XsLUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUWmnn3SzDjkREpDle9XsLUQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:51:36"
+  },
+  {
+    "business_name": "HnB Home Decor",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "263149",
+    "phone_number": "+91 63978 31930",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "No 3, Railway Crossing, near Badripur Road, Jogiwala, Badripur, Dehradun, Uttarakhand 248005",
+    "area": "Jogiwala, Badripur",
+    "latitude": 30.2836279,
+    "longitude": 78.06373769999999,
+    "place_id": "ChIJrdaJdCMpCTkRvB4wPVIUYnY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrdaJdCMpCTkRvB4wPVIUYnY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:51:36"
+  }
+]

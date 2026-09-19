@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chopstix Multi Cuisine Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "263138",
+    "phone_number": "+91 70171 91428",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Village, Dhela Rd, Jhirna road, Himmatpur Dotiyal, Ramnagar, Uttarakhand 244715",
+    "area": "Jhirna road",
+    "latitude": 29.397931399999997,
+    "longitude": 79.0804586,
+    "place_id": "ChIJjS1NI8IVCjkRYaJXbPXMEzs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjS1NI8IVCjkRYaJXbPXMEzs",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:39:40"
+  },
+  {
+    "business_name": "Blue Lotus by M - Resort & Camps",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Campground, Hotel",
+    "pincode": "263138",
+    "phone_number": "+91 96256 01563",
+    "website": "https://mitsustays.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Blue Lotus Post Office, Sargakhet, Mukteshwar Rd, near Sai Mandir, Mukteshwar, South Gola Range, Uttarakhand 263138",
+    "area": "263138",
+    "latitude": 29.4520335,
+    "longitude": 79.6552942,
+    "place_id": "ChIJh1oqxmuZoDkR9Z54ZzXjv0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh1oqxmuZoDkR9Z54ZzXjv0Y",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:39:41"
+  }
+]

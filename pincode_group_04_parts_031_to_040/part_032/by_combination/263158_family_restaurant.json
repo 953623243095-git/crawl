@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Frozen Woods Resto Cafe",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "263158",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "FJW9+JXM, Satkhol, Uttarakhand 263158",
+    "area": "263158",
+    "latitude": 29.4965989,
+    "longitude": 79.61990639999999,
+    "place_id": "ChIJRc98PgC7oDkRktD8IQAyxg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRc98PgC7oDkRktD8IQAyxg8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:03:14"
+  },
+  {
+    "business_name": "Annapurna rasoi",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "263158",
+    "phone_number": "+91 63958 06213",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhowali - Almora Rd, Sirsa, Bhowali, Uttarakhand 263135",
+    "area": "263158",
+    "latitude": 29.543496899999997,
+    "longitude": 79.58087689999999,
+    "place_id": "ChIJkY3FDya7oDkRaSRZ6tKWtd4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkY3FDya7oDkRaSRZ6tKWtd4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:03:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Roshan Auto Service",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Bicycle Shop",
+    "pincode": "263145",
+    "phone_number": "+91 72486 21886",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1, Shiv Nagar, Lamara, Rudrapur, Uttarakhand 263153",
+    "area": "Shiv Nagar",
+    "latitude": 28.9799889,
+    "longitude": 79.4093795,
+    "place_id": "ChIJz8HKgsd_oDkRVh6bjaBNbZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz8HKgsd_oDkRVh6bjaBNbZc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:47:33"
+  },
+  {
+    "business_name": "Cholamandalam Investment and Finance Company Limited",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency, Car finance and loan company, Finance broker, Financial consultant, Financial institution, Mortgage lender",
+    "pincode": "263145",
+    "phone_number": "+91 80 4869 5727",
+    "website": "https://www.cholamandalam.com/branch/rudrapur",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "No. 13, RB Ranbro's Complex, Bilaspur - Haldwani, opposite IndianOil, Awas Vikas, Rudrapur, Jagatpura, Uttarakhand 263153",
+    "area": "Awas Vikas",
+    "latitude": 28.9886198,
+    "longitude": 79.4004841,
+    "place_id": "ChIJS3-YjqN_oDkRDEPg7zuTzEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS3-YjqN_oDkRDEPg7zuTzEE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:47:34"
+  }
+]

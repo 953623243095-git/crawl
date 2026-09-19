@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Car Bazar",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "263149",
+    "phone_number": "+91 80776 51762",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shimla bypass, near ISBT Flyover, Dehradun, Uttarakhand 248171",
+    "area": "Majra",
+    "latitude": 30.291567399999998,
+    "longitude": 77.9989287,
+    "place_id": "ChIJ01ZmehYrCTkRxKQcxLeL_94",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ01ZmehYrCTkRxKQcxLeL_94",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:51:07"
+  },
+  {
+    "business_name": "FURIOUS CARS",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "263149",
+    "phone_number": "+91 89686 28168",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "near Toyota Showroom, Khas Kachhiari, Kangra, Himachal Pradesh 176001",
+    "area": "263149",
+    "latitude": 32.1108963,
+    "longitude": 76.3028011,
+    "place_id": "ChIJm9F5rDRPGzkRi6x2aBr8qkM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm9F5rDRPGzkRi6x2aBr8qkM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:51:07"
+  }
+]

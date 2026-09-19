@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Diti physiotherapy centre",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "262727",
+    "phone_number": "+91 85271 72234",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pisawn road, near Anshu kirana Store, Neri, Uttar Pradesh 261141",
+    "area": "262727",
+    "latitude": 27.691417299999998,
+    "longitude": 80.3934499,
+    "place_id": "ChIJ78F-jlAZnzkRImfwgKqSsP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ78F-jlAZnzkRImfwgKqSsP0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:58:26"
+  },
+  {
+    "business_name": "Creative Minds Rehabilitation and Mental Health Counselling Centre",
+    "search_category": "Therapy Center",
+    "primary_category": "Rehabilitation center",
+    "all_categories": "Rehabilitation center, Mental health service",
+    "pincode": "262727",
+    "phone_number": "+91 788 056 2443",
+    "website": "https://www.creativeminds-india.com/",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "Moghala, Post - Jhungiya Bazaar, behind City Hospital, Mughala, Gorakhpur, Uttar Pradesh 273013",
+    "area": "Mughala",
+    "latitude": 26.8079324,
+    "longitude": 83.3971267,
+    "place_id": "ChIJF2UhOgBFkTkRewSdmh3ohUM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF2UhOgBFkTkRewSdmh3ohUM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:58:26"
+  }
+]

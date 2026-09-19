@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Padam Singh Genral Store",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "263127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Baldiyakhan, Nainital-Jeliokot-Haldwani Rd, Smanora Range, Uttarakhand 263128",
+    "area": "263127",
+    "latitude": 29.3499098,
+    "longitude": 79.4505239,
+    "place_id": "ChIJS0CBqUGfoDkRzKBJw0n2ves",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS0CBqUGfoDkRzKBJw0n2ves",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:28:22"
+  },
+  {
+    "business_name": "AAGYA's",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "263127",
+    "phone_number": "+91 5942 235 316",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No 108, Bazaar, Tallital, Nainital, Uttarakhand 263001",
+    "area": "Tallital",
+    "latitude": 29.378902699999998,
+    "longitude": 79.4639521,
+    "place_id": "ChIJkzsIoAShoDkRQsq-XO8sGEo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkzsIoAShoDkRQsq-XO8sGEo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:28:22"
+  }
+]

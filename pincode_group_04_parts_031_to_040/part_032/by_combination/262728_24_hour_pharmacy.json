@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Subhashini hospital",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "262728",
+    "phone_number": "+91 86184 19119",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Nakaha, Uttar Pradesh 262728",
+    "area": "262728",
+    "latitude": 27.884717499999997,
+    "longitude": 80.9466231,
+    "place_id": "ChIJhbRfLwDPmDkR6W33HsvAJQo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhbRfLwDPmDkR6W33HsvAJQo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:59:36"
+  },
+  {
+    "business_name": "माँ मेडीकल स्टोर्स",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "262728",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ए.बी. रोड़, Banmore, मुरेना, म.प्र 934V+5Q4",
+    "area": "262728",
+    "latitude": 26.355377299999997,
+    "longitude": 78.0944493,
+    "place_id": "ChIJOcZO7XG3djkRrs8CKjHpy7U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOcZO7XG3djkRrs8CKjHpy7U",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:59:36"
+  }
+]

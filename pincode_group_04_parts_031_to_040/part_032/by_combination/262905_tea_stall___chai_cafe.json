@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Famous Chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "262905",
+    "phone_number": "+91 62815 68767",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Apj implex, Ayyappa Society Main Rd, Ayyappa Society, Mega Hills, Madhapur, Hyderabad, Telangana 500081",
+    "area": "Ayyappa Society, Mega Hills, Madhapur",
+    "latitude": 17.4470603,
+    "longitude": 78.39213199999999,
+    "place_id": "ChIJ5fM0I9qRyzsROQfWzDFGPXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5fM0I9qRyzsROQfWzDFGPXw",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:16:11"
+  },
+  {
+    "business_name": "Tea Post",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "262905",
+    "phone_number": "+91 88798 38778",
+    "website": "https://www.teapost.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No.9, Bhattad Tower, CHSL, RM Bhattad Rd, opposite Korakendra Ground 1, Dalvi Nagar, Borivali West, Mumbai, Maharashtra 400092",
+    "area": "Dalvi Nagar, Borivali West",
+    "latitude": 19.2207579,
+    "longitude": 72.85018629999999,
+    "place_id": "ChIJF5nbSGWx5zsRxXm-thyGel8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF5nbSGWx5zsRxXm-thyGel8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:16:12"
+  }
+]

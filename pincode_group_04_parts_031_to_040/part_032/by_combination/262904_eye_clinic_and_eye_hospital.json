@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R.K. Eye Centre",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "262904",
+    "phone_number": "+91 89399 41585",
+    "website": "http://www.rkeyecentre.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "14/20, chari street, N Usman Rd, near Vivek & Co, T. Nagar, Chennai, Tamil Nadu 600017",
+    "area": "T. Nagar",
+    "latitude": 13.0486852,
+    "longitude": 80.2311539,
+    "place_id": "ChIJWy-Ta1hmUjoRuGn7zEwggdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWy-Ta1hmUjoRuGn7zEwggdU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:14:49"
+  },
+  {
+    "business_name": "Dr P Siva Reddy Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Contact lenses supplier, Lasik surgeon, Ophthalmologist, Ophthalmology clinic, Optician, Optometrist, Sunglasses store, Surgeon",
+    "pincode": "262904",
+    "phone_number": "+91 80966 65550",
+    "website": "https://psreyehospital.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "3-5-886, Himayat Nagar Rd, near old MLA quarters, beside KIA showroom, Vittalwadi, Himayatnagar, Hyderabad, Telangana 500029",
+    "area": "Vittalwadi, Himayatnagar",
+    "latitude": 17.397806799999998,
+    "longitude": 78.48431649999999,
+    "place_id": "ChIJ_3G-cduZyzsRatQsCXlBSsE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_3G-cduZyzsRatQsCXlBSsE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:14:49"
+  }
+]

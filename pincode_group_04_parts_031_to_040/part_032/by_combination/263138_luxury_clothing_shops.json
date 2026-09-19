@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shanus Boutique, Ambattur",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store, Boutique",
+    "pincode": "263138",
+    "phone_number": "+91 95000 30000",
+    "website": "https://www.shanusboutique.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "4, Vijayalakshmipuram Main Rd, Rajiv Gandhi Nagar, Vijayalakshmi Puram, Ambattur, Chennai, Tamil Nadu 600053",
+    "area": "Rajiv Gandhi Nagar, Vijayalakshmi Puram, Ambattur",
+    "latitude": 13.1252287,
+    "longitude": 80.15286929999999,
+    "place_id": "ChIJjYwLhcBjUjoRY9n-VegiAaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjYwLhcBjUjoRY9n-VegiAaQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:39:49"
+  },
+  {
+    "business_name": "Shree Parijat Resort",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "263138",
+    "phone_number": "+91 95280 54419",
+    "website": "https://www.shreeparijatresort.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Seetla, Mukteshwar, Uttarakhand 263138",
+    "area": "263138",
+    "latitude": 29.493521899999998,
+    "longitude": 79.6279108,
+    "place_id": "ChIJq9DAOe67oDkRNTfznN17o0M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq9DAOe67oDkRNTfznN17o0M",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:39:49"
+  }
+]

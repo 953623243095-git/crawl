@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bajaj Capital",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Financial planner",
+    "all_categories": "Financial planner",
+    "pincode": "263139",
+    "phone_number": "+91 1800 212 123 123",
+    "website": "https://www.bajajcapitalinsurance.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "H.P petrol pump, Himmatpur Talla, Road, near om jhankar tent house, Kamaluwaganja Mehta, Haldwani, Uttarakhand 263139",
+    "area": "Pilikothi",
+    "latitude": 29.2182644,
+    "longitude": 79.5129767,
+    "place_id": "ChIJOzbWweiboDkRtrh93zFpaYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOzbWweiboDkRtrh93zFpaYE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:42:48"
+  },
+  {
+    "business_name": "Rawat Associates",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant, Consultant, Legal services, Tax attorney",
+    "pincode": "263139",
+    "phone_number": "+91 89547 12043",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WSC 41, T.P. Nagar, nearby Vidhyut Vibhag Office, behind Neel Diesel, Transport Nagar, Haldwani, Haldwani Talli, Uttarakhand 263139",
+    "area": "Transport Nagar",
+    "latitude": 29.1782988,
+    "longitude": 79.51940669999999,
+    "place_id": "ChIJF0u01wSFoDkRWyzw6HrAgHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF0u01wSFoDkRWyzw6HrAgHo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:42:48"
+  }
+]

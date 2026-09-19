@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer store",
+    "pincode": "263127",
+    "phone_number": "+91 97594 97509",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "9GM8+HWR, Malli Bazaar Rd, Bhowali, Sukha, Uttarakhand 263132",
+    "area": "Bhowali",
+    "latitude": 29.383992499999998,
+    "longitude": 79.5172576,
+    "place_id": "ChIJrWQppIeioDkRcQD3N-UOyVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrWQppIeioDkRcQD3N-UOyVg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:27:52"
+  },
+  {
+    "business_name": "Genius Infoway Bangalore",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "263127",
+    "phone_number": "+91 99000 30045",
+    "website": "http://www.teamgenius.in/",
+    "rating": 3.3,
+    "reviews_count": 224,
+    "address": "Jyothi Building, 78/5, Nagarabhavi Main Rd, Govindaraja Nagar Ward, Govindaraja Nagar, Vijayanagar, Bengaluru, Karnataka 560040",
+    "area": "Govindaraja Nagar Ward, Govindaraja Nagar, Vijayanagar",
+    "latitude": 12.975678499999999,
+    "longitude": 77.5357962,
+    "place_id": "ChIJtbHsw9A9rjsRF1EjyMtLwIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtbHsw9A9rjsRF1EjyMtLwIM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:27:52"
+  }
+]

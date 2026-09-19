@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Uma Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Chemical Manufacturer, Chemical plant",
+    "pincode": "262906",
+    "phone_number": "+91 80 4604 2571",
+    "website": "http://www.umachemicals.com/",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "19, Ashwamegh Industrial Estate, Sarkhej-Bavla Rd, Changodar, Gujarat 382213",
+    "area": "262906",
+    "latitude": 22.929177799999998,
+    "longitude": 72.4548645,
+    "place_id": "ChIJ____P_iEXjkROq2jwpocLY4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____P_iEXjkROq2jwpocLY4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:19:06"
+  },
+  {
+    "business_name": "Shree Mahabir Chemical",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler, Agrochemicals Supplier, Chemical Exporter, Chemical Manufacturer, Chemical plant, Household chemicals supplier, Industrial chemicals wholesaler, Suppliers",
+    "pincode": "262906",
+    "phone_number": "+91 87897 65588",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 301,
+    "address": "Bada Gurudwara Tekriwal Complex, Near, Patna Sahib, Jhauganj, Patna, Bihar 800008",
+    "area": "Patna Sahib, Jhauganj, Hajiganj",
+    "latitude": 25.5966941,
+    "longitude": 85.23061,
+    "place_id": "ChIJAQAAAIRf7TkRonvAsOPZ740",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAIRf7TkRonvAsOPZ740",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:19:07"
+  }
+]

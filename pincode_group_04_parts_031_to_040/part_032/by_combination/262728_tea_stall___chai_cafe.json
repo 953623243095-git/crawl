@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Puneri Amruttulya",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "262728",
+    "phone_number": "+91 98234 08200",
+    "website": "https://www.youtube.com/watch?v=7La_1m1XOrg",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Shop no 1, Shushrut complex, Ring Rd, Ganesh Colony, Jalgaon, Maharashtra 425001",
+    "area": "Ganesh Colony",
+    "latitude": 21.007908699999998,
+    "longitude": 75.5551947,
+    "place_id": "ChIJ-Zs48aYP2TsRc6pClKe7BP4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Zs48aYP2TsRc6pClKe7BP4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:59:19"
+  },
+  {
+    "business_name": "Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "262728",
+    "phone_number": "+91 99834 15715",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Post, Badolas, Ninoni, Rajasthan 322034",
+    "area": "262728",
+    "latitude": 26.1829266,
+    "longitude": 76.484391,
+    "place_id": "ChIJgReSnM_hcTkRvvFvAWIyA4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgReSnM_hcTkRvvFvAWIyA4Y",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:59:19"
+  }
+]

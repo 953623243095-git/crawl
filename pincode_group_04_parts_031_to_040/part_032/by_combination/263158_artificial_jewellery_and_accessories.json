@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucky Jewellers",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "263158",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "FJF4+H34, Unnamed Road, Nathuwakhan, Uttarakhand 263158",
+    "area": "263158",
+    "latitude": 29.473891599999998,
+    "longitude": 79.6051932,
+    "place_id": "ChIJA2EsW_W7oDkRdOM3uCsFdEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA2EsW_W7oDkRdOM3uCsFdEA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:03:21"
+  },
+  {
+    "business_name": "Rakhi jewellers",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "263158",
+    "phone_number": "+91 98379 02296",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "GHQ4+86C, Bhowali - Almora Rd, Suyalbari, Chaphi, Uttarakhand 263135",
+    "area": "263158",
+    "latitude": 29.5383094,
+    "longitude": 79.5555284,
+    "place_id": "ChIJmc3RVbCloDkRwv-qWyJx_Lc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmc3RVbCloDkRwv-qWyJx_Lc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:03:21"
+  }
+]

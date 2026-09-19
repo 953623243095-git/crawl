@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Azeem Cycle Repair",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "263148",
+    "phone_number": "+91 80062 13274",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Siroli, Kichha, Uttarakhand 263148",
+    "area": "Siroli",
+    "latitude": 28.895057299999998,
+    "longitude": 79.5143712,
+    "place_id": "ChIJxQEh7uV7oDkROHvuCJTzN6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxQEh7uV7oDkROHvuCJTzN6c",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:49:19"
+  },
+  {
+    "business_name": "Deepak Cycle & Auto Spare",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Auto parts store, Tire shop",
+    "pincode": "263148",
+    "phone_number": "+91 70373 34795",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Super market Post office road, Baheri, Uttar Pradesh 243201",
+    "area": "263148",
+    "latitude": 28.7776605,
+    "longitude": 79.4989425,
+    "place_id": "ChIJBWeunuBxoDkRxCfC4B92fjE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBWeunuBxoDkRxCfC4B92fjE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:49:21"
+  }
+]

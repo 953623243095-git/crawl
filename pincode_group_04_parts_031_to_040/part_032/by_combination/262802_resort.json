@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Resort",
+    "search_category": "Resort",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "262802",
+    "phone_number": "+91 90443 31000",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ganna center, Shri Ram chandra Mandir, Bhira, Uttar Pradesh 262901",
+    "area": "262802",
+    "latitude": 28.322733799999998,
+    "longitude": 80.4827074,
+    "place_id": "ChIJYaklXz9fnzkRrncXZKwQb44",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYaklXz9fnzkRrncXZKwQb44",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:03:35"
+  },
+  {
+    "business_name": "Guru Ji Mobile Accessories",
+    "search_category": "Resort",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "262802",
+    "phone_number": "+91 97947 21920",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shyam Nagar Colony, Jahanpur Road, Gola, Uttar Pradesh 262802",
+    "area": "262802",
+    "latitude": 28.0689684,
+    "longitude": 80.4740515,
+    "place_id": "ChIJM93CLE5DnzkR1HEfH_8Kx6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM93CLE5DnzkR1HEfH_8Kx6c",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:03:36"
+  }
+]

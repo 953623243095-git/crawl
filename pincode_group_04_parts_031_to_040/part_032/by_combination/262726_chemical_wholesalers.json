@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAGINI COSMETICS",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Cosmetics wholesaler",
+    "pincode": "262726",
+    "phone_number": "+91 93366 09852",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "sahu gali, tharavaranganj, Lakhimpur, Uttar Pradesh 262701",
+    "area": "tharavaranganj",
+    "latitude": 27.947916199999998,
+    "longitude": 80.78147659999999,
+    "place_id": "ChIJ2SGsGhw1nzkRUlMeCtHdNTM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2SGsGhw1nzkRUlMeCtHdNTM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:57:14"
+  },
+  {
+    "business_name": "NeoChem Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "262726",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "RPQJ+MG6, Buddhi Vihar Phase 2, Moradabad, Uttar Pradesh 244103",
+    "area": "Buddhi Vihar Phase 2",
+    "latitude": 28.8391603,
+    "longitude": 78.7312654,
+    "place_id": "ChIJOSR2rxD8CjkRJvoDGEfj0HA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOSR2rxD8CjkRJvoDGEfj0HA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:57:15"
+  }
+]

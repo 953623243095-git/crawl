@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OYO Happy Homes",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "263128",
+    "phone_number": "+91 124 620 1531",
+    "website": "https://www.oyorooms.com/5956/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Mall Rd, Tallital, Nainital, Uttarakhand 263001",
+    "area": "Tallital",
+    "latitude": 29.382496,
+    "longitude": 79.463819,
+    "place_id": "ChIJ-wKcpvChoDkR9HCh0pb0-4Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-wKcpvChoDkR9HCh0pb0-4Q",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:29:51"
+  },
+  {
+    "business_name": "Alaya Stays Amara",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "263128",
+    "phone_number": "N/A",
+    "website": "http://www.alayastays.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "9FFP+6VQ &, Villa Address- Khupi , Bhumiadhar Disit, Tehsil, Uttarakhand 263002",
+    "area": "263128",
+    "latitude": 29.373083899999997,
+    "longitude": 79.4872209,
+    "place_id": "ChIJpYjjaACjoDkRXbSN2MinbLA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpYjjaACjoDkRXbSN2MinbLA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:29:51"
+  }
+]

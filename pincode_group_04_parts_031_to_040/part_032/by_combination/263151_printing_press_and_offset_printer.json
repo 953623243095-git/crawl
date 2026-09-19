@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "City Printers",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Commercial printer",
+    "all_categories": "Commercial printer",
+    "pincode": "263151",
+    "phone_number": "+91 90123 14607",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 11,
+    "address": "Khatima Bypass Rd, Bypass Colony Side, opp. Ashok Aara Machine, Sitarganj, Uttarakhand 262405",
+    "area": "263151",
+    "latitude": 28.9266398,
+    "longitude": 79.709546,
+    "place_id": "ChIJO-NMRy9noDkRXiqk3AgBXB8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO-NMRy9noDkRXiqk3AgBXB8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:55:13"
+  },
+  {
+    "business_name": "Mahashakti Printing Press",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Offset Printer",
+    "all_categories": "Offset Printer",
+    "pincode": "263151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kichha - Sitarganj Rd, near Sanatan Dharm Mandir, Sitarganj, Uttarakhand 262405",
+    "area": "263151",
+    "latitude": 28.9275493,
+    "longitude": 79.70206979999999,
+    "place_id": "ChIJqx3D7mdnoDkRHFserFwElac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqx3D7mdnoDkRHFserFwElac",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:55:13"
+  }
+]

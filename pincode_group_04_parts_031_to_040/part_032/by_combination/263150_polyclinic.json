@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apex polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "263150",
+    "phone_number": "+91 79068 72054",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kashipur Rd, near Shan e Punjab Restaurant, Ramnagar, Kelakhera, Uttarakhand 244715",
+    "area": "263150",
+    "latitude": 29.0941944,
+    "longitude": 79.17991359999999,
+    "place_id": "ChIJpfQaGC9lCjkRD81_0cOq2uU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpfQaGC9lCjkRD81_0cOq2uU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:52:42"
+  },
+  {
+    "business_name": "Tuli Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Hospital",
+    "pincode": "263150",
+    "phone_number": "+91 99275 08973",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tuli Medical Store, Baskheri, Bazpur, Chandanpura, Uttarakhand 262401",
+    "area": "Baskheri",
+    "latitude": 29.131944599999997,
+    "longitude": 79.22971179999999,
+    "place_id": "ChIJqZGq8D57CjkR-OKXcv8247o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqZGq8D57CjkR-OKXcv8247o",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:52:42"
+  }
+]

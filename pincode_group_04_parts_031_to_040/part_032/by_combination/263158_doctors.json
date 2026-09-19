@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jagga Aashram",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "263158",
+    "phone_number": "+91 99991 02641",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "468, Double Storey II, New Rajinder Nagar, New Delhi, Bhowali Range, Delhi 263137",
+    "area": "Double Storey II, New Rajinder Nagar",
+    "latitude": 29.4499143,
+    "longitude": 79.5892193,
+    "place_id": "ChIJMwg_TpO8oDkRaF_Kpsrm5w0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMwg_TpO8oDkRaF_Kpsrm5w0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:03:31"
+  },
+  {
+    "business_name": "Gahtori Women's Hospital Kashipur",
+    "search_category": "Doctors",
+    "primary_category": "Women's health clinic",
+    "all_categories": "Women's health clinic, Birth center, Child health care center, Fertility physician, Obstetrician-gynecologist, Gynecologist, Health counselor, Hospital, Maternity Centre, Pregnancy care center",
+    "pincode": "263158",
+    "phone_number": "+91 97566 00831",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 278,
+    "address": "Ramnagar Rd, near STATE BANK OF INDIA, Kashipur, Uttarakhand 244713",
+    "area": "263158",
+    "latitude": 29.2218727,
+    "longitude": 78.9665334,
+    "place_id": "ChIJhZ4U3M5DCjkR_pFhcgdgE8o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhZ4U3M5DCjkR_pFhcgdgE8o",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:03:32"
+  }
+]

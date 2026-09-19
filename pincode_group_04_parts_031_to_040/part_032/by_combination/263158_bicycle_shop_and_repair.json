@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gaurav cycle store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "263158",
+    "phone_number": "+91 79067 04775",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "kashipur road, Ramnagar, Peerumadara, Uttarakhand 244715",
+    "area": "Ramnagar",
+    "latitude": 29.336971799999997,
+    "longitude": 79.0620028,
+    "place_id": "ChIJ6TVWDvVrCjkRURaKvt5Qc2A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6TVWDvVrCjkRURaKvt5Qc2A",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:03:47"
+  },
+  {
+    "business_name": "New Rajveer Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "263158",
+    "phone_number": "+91 79835 42263",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Main Rd, Rudrapur, Uttarakhand 263153",
+    "area": "263158",
+    "latitude": 28.976291699999997,
+    "longitude": 79.4184406,
+    "place_id": "ChIJoePCH7Z_oDkRADbxqO2bBLI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoePCH7Z_oDkRADbxqO2bBLI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:03:47"
+  }
+]

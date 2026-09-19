@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat Garments",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "262805",
+    "phone_number": "+91 73184 72700",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "04 Karanpur, Gola Rd, Razaganj, Lakhimpur, Uttar Pradesh 262701",
+    "area": "262805",
+    "latitude": 28.017672599999997,
+    "longitude": 80.58676,
+    "place_id": "ChIJbSTLgvJHnzkRsYmMs3KRfe4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbSTLgvJHnzkRsYmMs3KRfe4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:07:52"
+  },
+  {
+    "business_name": "Hari Om",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "262805",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2HFC+V4F, Lakhimpur Rd, Southan, Uttar Pradesh 262701",
+    "area": "262805",
+    "latitude": 28.0246867,
+    "longitude": 80.5703016,
+    "place_id": "ChIJ90VsPlZHnzkR1cd0xJMddWM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ90VsPlZHnzkR1cd0xJMddWM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:07:54"
+  }
+]

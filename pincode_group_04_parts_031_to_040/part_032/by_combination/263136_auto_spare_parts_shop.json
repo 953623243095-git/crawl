@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hind Motors",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Motorcycle parts store",
+    "pincode": "263136",
+    "phone_number": "+91 84758 01739",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sitarganj Road, Chhatri Chauraha, Banbhoolpura, Haldwani, Uttarakhand 263139",
+    "area": "Chhatri Chauraha, Banbhoolpura",
+    "latitude": 29.2134637,
+    "longitude": 79.5307672,
+    "place_id": "ChIJpcJRWgCboDkRKbT__tNw4Hs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpcJRWgCboDkRKbT__tNw4Hs",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:36:25"
+  },
+  {
+    "business_name": "Battery Mart Haldwani’s Shree Krishna enterprises",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Car battery store",
+    "all_categories": "Car battery store, Battery Store, Electrical supply store, Electrical products wholesaler, Solar energy equipment supplier, Solar panel maintenance service",
+    "pincode": "263136",
+    "phone_number": "+91 88001 38409",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 75,
+    "address": "Trimurti Mandir, Kamalwaganja Rd, near reliance mall, near Thiru Murthy Mandir, Kamaluaganja, Himmatpur Malla, Haldwani, Uttarakhand 263139",
+    "area": "Kamaluaganja, Himmatpur Malla",
+    "latitude": 29.213189699999997,
+    "longitude": 79.47505699999999,
+    "place_id": "ChIJH75YlNWboDkR4R2HZyZfxZo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH75YlNWboDkR4R2HZyZfxZo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:36:25"
+  }
+]

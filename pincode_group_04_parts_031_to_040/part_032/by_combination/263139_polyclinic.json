@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SEEMANT POLYCLINIC",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "263139",
+    "phone_number": "N/A",
+    "website": "https://seemantsewafoundation.org/",
+    "rating": 4.5,
+    "reviews_count": 11,
+    "address": "near Amrapali University, Naripur Lamachaur, Haldwani, Uttarakhand 263139",
+    "area": "263139",
+    "latitude": 29.226601499999997,
+    "longitude": 79.42224379999999,
+    "place_id": "ChIJyV9j4iOdoDkR9c2rHKZ_21g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyV9j4iOdoDkR9c2rHKZ_21g",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:41:43"
+  },
+  {
+    "business_name": "Seemant Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Service establishment",
+    "pincode": "263139",
+    "phone_number": "+91 84399 17018",
+    "website": "https://seemantsewafoundation.org/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Seemant Polyclinic, 263139, India",
+    "area": "263139",
+    "latitude": 28.347095,
+    "longitude": 79.8817756,
+    "place_id": "ChIJO6vUeHgDmYURt9XNi0Qbwo8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO6vUeHgDmYURt9XNi0Qbwo8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:41:43"
+  }
+]

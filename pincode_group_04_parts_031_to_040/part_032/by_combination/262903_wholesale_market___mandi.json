@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taranagar market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "262903",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 43,
+    "address": "5W33+PCP, Taranagar Chauraha, Mudan Bujurg, Uttar Pradesh 262903",
+    "area": "Taranagar Chauraha",
+    "latitude": 28.1543255,
+    "longitude": 80.90357809999999,
+    "place_id": "ChIJo8-GrfyxmDkRzrR9tjvvewI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo8-GrfyxmDkRzrR9tjvvewI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:14:20"
+  },
+  {
+    "business_name": "Mudan bujurg market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "262903",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 4,
+    "address": "5V6R+FJ6, Mudan Bujurg, Uttar Pradesh 262903",
+    "area": "262903",
+    "latitude": 28.1611725,
+    "longitude": 80.89153069999999,
+    "place_id": "ChIJCeVy2jCzmDkRnnqz3HPXHBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCeVy2jCzmDkRnnqz3HPXHBo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:14:20"
+  }
+]

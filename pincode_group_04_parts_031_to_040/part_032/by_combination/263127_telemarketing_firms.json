@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VDT Enterprises",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment, Website designer",
+    "pincode": "263127",
+    "phone_number": "+91 82186 75282",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VDT Enterprises, 263127, India",
+    "area": "263127",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJG6OLS42hoDkRWNdfo7BcPjg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG6OLS42hoDkRWNdfo7BcPjg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:28:18"
+  },
+  {
+    "business_name": "Prakash Peanut Shop",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "263127",
+    "phone_number": "+91 74098 36011",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhowali, Bhawanipur, Uttarakhand 263132",
+    "area": "Bhowali",
+    "latitude": 29.3867165,
+    "longitude": 79.5144384,
+    "place_id": "ChIJ1aKxuRijoDkRSkIE_Jm3H0U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1aKxuRijoDkRSkIE_Jm3H0U",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:28:19"
+  }
+]

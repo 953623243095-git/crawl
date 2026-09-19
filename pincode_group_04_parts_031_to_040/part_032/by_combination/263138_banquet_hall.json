@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Golden Castle Hotel",
+    "search_category": "Banquet Hall",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Conference center, Fine dining restaurant",
+    "pincode": "263138",
+    "phone_number": "+91 81919 99933",
+    "website": "https://thegoldencastlehotels.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Bhatelia-Mukteshwar Rd, Letibunga, Mukteshwar, South Gola Range, Uttarakhand 263136",
+    "area": "Letibunga",
+    "latitude": 29.4359266,
+    "longitude": 79.6565478,
+    "place_id": "ChIJB7JifgC_oDkRsttgh-S7uF0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB7JifgC_oDkRsttgh-S7uF0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:40:27"
+  },
+  {
+    "business_name": "Satoli Homes",
+    "search_category": "Banquet Hall",
+    "primary_category": "Event venue",
+    "all_categories": "Event venue, Children's party service, Cottage, Home Stay, Holiday home, Hotel, Resort hotel, Restaurant, Villa, Wedding venue",
+    "pincode": "263138",
+    "phone_number": "+91 86989 12358",
+    "website": "http://satolihomes.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Satoli Homes, Sona Pani Road, near Shri Ram Chandra Mission Himalayan Ashram, Saitoli, Uttarakhand 263158",
+    "area": "263138",
+    "latitude": 29.505758,
+    "longitude": 79.6234786,
+    "place_id": "ChIJyYc8sbS7oDkRdw8YCqfOIOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyYc8sbS7oDkRdw8YCqfOIOI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:40:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mr.Swad restorent",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "262802",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "3FH7+G28, Mill Rd, Gola, Uttar Pradesh 262802",
+    "area": "262802",
+    "latitude": 28.078779599999997,
+    "longitude": 80.462577,
+    "place_id": "ChIJEaoydABDnzkRxcnBr7MobPE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEaoydABDnzkRxcnBr7MobPE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:02:45"
+  },
+  {
+    "business_name": "Dubai wale rehmat restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "262802",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3FM7+82R, Bankeyganj Rd, Mohalla Paschimi Dixitana, Gola, Uttar Pradesh 262802",
+    "area": "Mohalla Paschimi Dixitana",
+    "latitude": 28.083354099999998,
+    "longitude": 80.4625126,
+    "place_id": "ChIJr1BvCgBDnzkR0txbbPE4McE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr1BvCgBDnzkR0txbbPE4McE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:02:45"
+  }
+]

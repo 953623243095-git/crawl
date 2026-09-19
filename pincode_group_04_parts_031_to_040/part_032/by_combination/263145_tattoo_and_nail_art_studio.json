@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohan Tattoo Shop",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "263145",
+    "phone_number": "+91 63904 85251",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 89 Deoria Road, Market, Rudrapur, Uttar Pradesh 274204",
+    "area": "263145",
+    "latitude": 26.437726899999998,
+    "longitude": 83.5970739,
+    "place_id": "ChIJFVgwWaTXkzkRANGrEj5NBdk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFVgwWaTXkzkRANGrEj5NBdk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:47:49"
+  },
+  {
+    "business_name": "Dadson tattoo",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo shop",
+    "all_categories": "Tattoo shop",
+    "pincode": "263145",
+    "phone_number": "+91 87915 21384",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "stediyam road, near dramand college gate, Ashok Colony, Ekta Nagar, Pilibhit, Uttar Pradesh 262001",
+    "area": "Ashok Colony, Ekta Nagar",
+    "latitude": 28.626548099999997,
+    "longitude": 79.8174178,
+    "place_id": "ChIJUXdoMXo_oDkR5LkcgHuaS1Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUXdoMXo_oDkR5LkcgHuaS1Q",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:47:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bisht General Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "263140",
+    "phone_number": "+91 94121 30226",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 81,
+    "address": "6C9P+XXP, Devpur Devka, Rampur Lamachaur, Prempur Nawar, Uttarakhand 263139",
+    "area": "Devpur Devka",
+    "latitude": 29.2199694,
+    "longitude": 79.4374541,
+    "place_id": "ChIJn7xzi_ucoDkRxwUJszInXsA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn7xzi_ucoDkRxwUJszInXsA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:43:08"
+  },
+  {
+    "business_name": "The Shopper's Basket",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "263140",
+    "phone_number": "+91 97186 36935",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Haidakhan smriti bazaar, 8, By Pass Road, Kathghariya, Haldwani, Ramari Chhoti, Uttarakhand 263139",
+    "area": "Kathghariya",
+    "latitude": 29.237057999999998,
+    "longitude": 79.4696609,
+    "place_id": "ChIJAUKI9KmboDkRcsnZNSBsCIk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAUKI9KmboDkRcsnZNSBsCIk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:43:11"
+  }
+]

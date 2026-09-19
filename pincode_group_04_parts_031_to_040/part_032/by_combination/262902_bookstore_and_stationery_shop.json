@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anand Stationers",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "262902",
+    "phone_number": "+91 98388 04994",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mela Rd, Palia Kalan, Uttar Pradesh 262902",
+    "area": "262902",
+    "latitude": 28.429956899999997,
+    "longitude": 80.5806375,
+    "place_id": "ChIJ7QBHPsvjoTkRLIKlWYHg1lg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7QBHPsvjoTkRLIKlWYHg1lg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:12:10"
+  },
+  {
+    "business_name": "Pragya Pustak Bhandar",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "262902",
+    "phone_number": "+91 79052 15469",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Pragya Pustak Bhankar, Kadeya, Lalapur, Uttar Pradesh 262906",
+    "area": "262902",
+    "latitude": 28.3713779,
+    "longitude": 80.9227935,
+    "place_id": "ChIJm3ErPx8HojkRzaoKK5VMRN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm3ErPx8HojkRzaoKK5VMRN4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:12:13"
+  }
+]

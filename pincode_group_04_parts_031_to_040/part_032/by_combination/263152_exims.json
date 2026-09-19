@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aman Telecom",
+    "search_category": "EXIMS",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "263152",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Aman telecom, near hdfc bank, Ward Number 1, Saraswati Vihar, Gadarpur, Uttarakhand 263152",
+    "area": "Ward Number 1, Saraswati Vihar",
+    "latitude": 29.0396462,
+    "longitude": 79.2504589,
+    "place_id": "ChIJEQsS2ZF9CjkR3Fbrrpu-Lgk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEQsS2ZF9CjkR3Fbrrpu-Lgk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:57:21"
+  },
+  {
+    "business_name": "vivo & iQOO Authorised Service Center",
+    "search_category": "EXIMS",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop, Cell phone accessory store, Electronics repair shop, Electronics store, Phone repair service",
+    "pincode": "263152",
+    "phone_number": "+91 90128 86139",
+    "website": "https://www.vivo.com/in/support",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "First Floor, Sgad Complex, Shop No -10,11, Rudrapur, Uttarakhand 263153",
+    "area": "263152",
+    "latitude": 28.981529,
+    "longitude": 79.3992363,
+    "place_id": "ChIJD7MJa-x_oDkRpbK-04xpXjU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD7MJa-x_oDkRpbK-04xpXjU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:57:23"
+  }
+]

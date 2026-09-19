@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Salon World",
+    "search_category": "Salon",
+    "primary_category": "Beauty supply store",
+    "all_categories": "Beauty supply store, Beauty product supplier, Beauty Products Wholesaler, Cosmetics wholesaler, Cosmetics store",
+    "pincode": "263132",
+    "phone_number": "+91 95966 46562",
+    "website": "http://www.salonworld.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Salon World, Supplier Of Parlour Products, Plot no 34, adjoining lane of SBI ATM, opp. Municipal Park Viren Satti, Resham Ghar Colony, Jammu, Jammu and Kashmir 180001",
+    "area": "Resham Ghar Colony",
+    "latitude": 32.730947199999996,
+    "longitude": 74.85579489999999,
+    "place_id": "ChIJ47AtxYuEHjkRY3zl-UDU4sM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ47AtxYuEHjkRY3zl-UDU4sM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:31:09"
+  },
+  {
+    "business_name": "Mohd Intzar Salmani",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "263132",
+    "phone_number": "+91 97580 71064",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Haldwani - Bhowali Rd, Bhowali, Sukha, Uttarakhand 263132",
+    "area": "Bhowali",
+    "latitude": 29.3832253,
+    "longitude": 79.51784889999999,
+    "place_id": "ChIJm0Z_FhSjoDkRaoWlu0MQRUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm0Z_FhSjoDkRaoWlu0MQRUQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:31:10"
+  }
+]

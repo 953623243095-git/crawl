@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Crossway Restaurant & Cafe",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "263156",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "9G6J+CV3, Suriyagaon Rd, Bhimtal, Bhowali Range, Uttarakhand 263127",
+    "area": "263156",
+    "latitude": 29.361013699999997,
+    "longitude": 79.5321797,
+    "place_id": "ChIJlfddLgCZoDkRqE4H9AcNTQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlfddLgCZoDkRqE4H9AcNTQ0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:59:36"
+  },
+  {
+    "business_name": "Singh family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant, Fast food restaurant",
+    "pincode": "263156",
+    "phone_number": "+91 84239 52634",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 15,
+    "address": "Jhangha Rd, Motiram Adda, Uttar Pradesh 273202",
+    "area": "263156",
+    "latitude": 26.6840871,
+    "longitude": 83.4986978,
+    "place_id": "ChIJiWEdbwBdkTkRfHfdXQRCBZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiWEdbwBdkTkRfHfdXQRCBZw",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:59:37"
+  }
+]

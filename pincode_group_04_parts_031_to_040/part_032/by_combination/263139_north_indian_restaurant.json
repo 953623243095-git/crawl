@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dilli Tandoor Uttarakhand",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Mughlai restaurant",
+    "all_categories": "Mughlai restaurant",
+    "pincode": "263139",
+    "phone_number": "+91 88264 97641",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 144,
+    "address": "Rampur Rd, opposite Sachin Hyundai Showroom, adjacent to Katha factory, Haldwani, Karayalpur Chatursingh, Uttarakhand 263139",
+    "area": "263139",
+    "latitude": 29.1902899,
+    "longitude": 79.50499409999999,
+    "place_id": "ChIJf45LA-6foDkRbDB1N0G-GHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf45LA-6foDkRbDB1N0G-GHo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:41:22"
+  },
+  {
+    "business_name": "Gupta Ji Ke Mashoor Chole Bhature",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "263139",
+    "phone_number": "+91 84395 81688",
+    "website": "N/A",
+    "rating": 1.7,
+    "reviews_count": null,
+    "address": "Unchapul, Haldwani, Uttarakhand 263139",
+    "area": "Unchapul",
+    "latitude": 29.2251899,
+    "longitude": 79.4984814,
+    "place_id": "ChIJD2oD7yCboDkRsZ0HcoJrP40",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD2oD7yCboDkRsZ0HcoJrP40",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:41:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pragati Resort & Restaurant",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Bed & breakfast",
+    "pincode": "263156",
+    "phone_number": "+91 95362 51311",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Bhowali - Gorkhakhal Rd, near air force station, Sukha, Kalahpeera, Uttarakhand 263132",
+    "area": "263156",
+    "latitude": 29.3794701,
+    "longitude": 79.5374717,
+    "place_id": "ChIJG9VsCg-joDkRdL0Ou7Xir1Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG9VsCg-joDkRdL0Ou7Xir1Q",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:00:29"
+  },
+  {
+    "business_name": "The Jungle Joy Resort & Spa",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Conference center, Event venue, Hotel, Restaurant, Wedding venue",
+    "pincode": "263156",
+    "phone_number": "+91 70555 28285",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 77,
+    "address": "Semalkhaliya, Sawaldey Flyover, Dhela Rd, Ramnagar, Uttarakhand 244715",
+    "area": "263156",
+    "latitude": 29.4009485,
+    "longitude": 79.06765469999999,
+    "place_id": "ChIJK4wSPW4VCjkRAEWC40HffwQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK4wSPW4VCjkRAEWC40HffwQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:00:32"
+  }
+]

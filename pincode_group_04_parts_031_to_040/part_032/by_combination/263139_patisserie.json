@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eclair Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop, Bakery and Cake Shop",
+    "pincode": "263139",
+    "phone_number": "+91 98379 30202",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 157,
+    "address": "Rampur Rd, Haldwani, Uttarakhand 263139",
+    "area": "263139",
+    "latitude": 29.2046346,
+    "longitude": 79.5167659,
+    "place_id": "ChIJfzvxrb6boDkReXBKgQlR3EU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfzvxrb6boDkReXBKgQlR3EU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:41:19"
+  },
+  {
+    "business_name": "Cakes by manvi",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop, Service establishment",
+    "pincode": "263139",
+    "phone_number": "+91 93683 93871",
+    "website": "https://www.instagram.com/cakes_by_manvi_?igsh=MWhuZXZpNzA4ZTI4aQ==",
+    "rating": 5,
+    "reviews_count": 43,
+    "address": "Cakes by manvi, 263139, India",
+    "area": "263139",
+    "latitude": 29.2135276,
+    "longitude": 79.51815959999999,
+    "place_id": "ChIJe0Y_JunLw4IRjmQy8j0pCyo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe0Y_JunLw4IRjmQy8j0pCyo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:41:22"
+  }
+]

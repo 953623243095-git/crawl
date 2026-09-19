@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prince Verma Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "263149",
+    "phone_number": "+91 80776 44362",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "golgate jawahar nagar, Pantnagar, Uttarakhand 263149",
+    "area": "263149",
+    "latitude": 29.0092935,
+    "longitude": 79.5198808,
+    "place_id": "ChIJIZ-DeL2HoDkRmwiFTmzm5Rk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIZ-DeL2HoDkRmwiFTmzm5Rk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:50:48"
+  },
+  {
+    "business_name": "Jewellery shop",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "263149",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Purana bindukhera, Lalkuan, Tanda Range, Uttarakhand 262402",
+    "area": "263149",
+    "latitude": 29.0408358,
+    "longitude": 79.5378856,
+    "place_id": "ChIJo6Q0LpiHoDkR16P91a1Xycw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo6Q0LpiHoDkR16P91a1Xycw",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:50:48"
+  }
+]

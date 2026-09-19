@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yogesh Kumar Fruit Shop",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "262803",
+    "phone_number": "+91 72751 67730",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6, Mailani Main Rd, Market, Shahjahanpur, Uttar Pradesh 262803",
+    "area": "Market",
+    "latitude": 28.2877828,
+    "longitude": 80.3410043,
+    "place_id": "ChIJJ3BfZi5jnzkRiq6JnNXruVI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ3BfZi5jnzkRiq6JnNXruVI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:04:18"
+  },
+  {
+    "business_name": "Suraj Vegetables Shop",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "262803",
+    "phone_number": "+91 70840 09260",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Khutar Rd, Gola, Grant No 11, Uttar Pradesh 262802",
+    "area": "262803",
+    "latitude": 28.111523299999998,
+    "longitude": 80.3987851,
+    "place_id": "ChIJj4XaxpBpnzkRHVYSM6apMkI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj4XaxpBpnzkRHVYSM6apMkI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:04:19"
+  }
+]

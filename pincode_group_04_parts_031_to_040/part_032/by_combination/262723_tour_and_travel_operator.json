@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mr N kumar",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "262723",
+    "phone_number": "+91 77058 59877",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Taranagar Chauraha PO, Nighasan, Mudan Bujurg, Uttar Pradesh 262903",
+    "area": "Nighasan",
+    "latitude": 28.152905999999998,
+    "longitude": 80.9065062,
+    "place_id": "ChIJj3pGShCxmDkRNacbk3Qvt5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj3pGShCxmDkRNacbk3Qvt5w",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:51:14"
+  },
+  {
+    "business_name": "Gupta Travel Agency",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "262723",
+    "phone_number": "+91 73559 45410",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "05 Siddiqui Dharam Kanta Main Road Bichiya, Road, Paduwa, Chourha, Uttar Pradesh 262907",
+    "area": "262723",
+    "latitude": 28.2076668,
+    "longitude": 80.99798489999999,
+    "place_id": "ChIJo2_V00mlmDkR6j92vKStKUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo2_V00mlmDkR6j92vKStKUQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:51:17"
+  }
+]

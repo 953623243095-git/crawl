@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "B.M. Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "262901",
+    "phone_number": "+91 91291 14547",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "5X9R+WQ4, Dhakerwa, Chauraha, Uttar Pradesh 262907",
+    "area": "262901",
+    "latitude": 28.1697517,
+    "longitude": 80.991942,
+    "place_id": "ChIJ-zzkVAC7mDkRvTZZe8a6ZfQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-zzkVAC7mDkRvTZZe8a6ZfQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:09:50"
+  },
+  {
+    "business_name": "Satish Medical Store",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "262901",
+    "phone_number": "+91 70541 35103",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khajuriya Rd Khajuriya Road Sampurna Nagar Khire, Sampurna Nagar, Uttar Pradesh 262904",
+    "area": "262901",
+    "latitude": 28.596475299999998,
+    "longitude": 80.4057957,
+    "place_id": "ChIJO2x5v2_DoTkRixXPcA078kI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO2x5v2_DoTkRixXPcA078kI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:09:51"
+  }
+]

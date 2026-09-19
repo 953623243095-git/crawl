@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nine Star Broking Pvt Ltd",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Finance broker, Financial consultant, Financial planner, Insurance broker",
+    "pincode": "262728",
+    "phone_number": "+91 96724 99999",
+    "website": "http://www.9star.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "112, 2nd Floor, Parvati Shiv Kripa Tower,, 1st A-B Road,, Sardarpura, Jodhpur, Rajasthan 342001",
+    "area": "Sardarpura",
+    "latitude": 26.280606,
+    "longitude": 73.0105027,
+    "place_id": "ChIJA8QmoImLQTkRC93jW8doLCo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA8QmoImLQTkRC93jW8doLCo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:00:31"
+  },
+  {
+    "business_name": "Kumar Investment Services",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service, Insurance broker",
+    "pincode": "262728",
+    "phone_number": "+91 88246 63992",
+    "website": "http://kumarinvestmentservices.in/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "3rd Floor, Jtm Mall, Office No, KA 27, Jagatpura, Jaipur, Rajasthan 302017",
+    "area": "Model Town, Jagatpura",
+    "latitude": 26.8374535,
+    "longitude": 75.8336039,
+    "place_id": "ChIJE8Kt4cW3bTkRkLFXVfYWn5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE8Kt4cW3bTkRkLFXVfYWn5w",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:00:33"
+  }
+]

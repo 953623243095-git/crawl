@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aquilo - Corporate Office",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Bathroom supply store",
+    "all_categories": "Bathroom supply store",
+    "pincode": "263128",
+    "phone_number": "+91 712 272 1196",
+    "website": "http://www.aquilo.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "2nd Floor, Radhakrishna Mangal Karyalaya, Naalsaheb Chowk, Hansapuri, Nagpur, Maharashtra 440018",
+    "area": "Hansapuri",
+    "latitude": 21.1538737,
+    "longitude": 79.10089289999999,
+    "place_id": "ChIJWRCkHM_A1DsRHutoDuAi-0s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWRCkHM_A1DsRHutoDuAi-0s",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:29:09"
+  },
+  {
+    "business_name": "Adlakha Bath Assets",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store",
+    "pincode": "263128",
+    "phone_number": "+91 98374 15757",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 155,
+    "address": "Railway crossing, Bhura Rani Road, Singh Colony, Rudrapur, Uttarakhand 263153",
+    "area": "Singh Colony",
+    "latitude": 28.9846586,
+    "longitude": 79.3867294,
+    "place_id": "ChIJ101qZPOBCjkRWviYy0gmcos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ101qZPOBCjkRWviYy0gmcos",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:29:10"
+  }
+]

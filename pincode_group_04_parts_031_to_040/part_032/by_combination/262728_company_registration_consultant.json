@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Incorporation",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "262728",
+    "phone_number": "+91 98210 50495",
+    "website": "http://www.shreeincorporation.com/",
+    "rating": 4.6,
+    "reviews_count": 22,
+    "address": "BHAVESHWAR ARCADE, B/524, Lal Bahadur Shastri Marg, opp. Shreyas Cinema Road, Nityanand Nagar, Ghatkopar West, Mumbai, Maharashtra 400086",
+    "area": "Nityanand Nagar, Ghatkopar West",
+    "latitude": 19.092862,
+    "longitude": 72.91252879999999,
+    "place_id": "ChIJlTgtwc3H5zsRZBfMMf7Fxig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlTgtwc3H5zsRZBfMMf7Fxig",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:00:31"
+  },
+  {
+    "business_name": "R K Management Consultant",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services",
+    "pincode": "262728",
+    "phone_number": "+91 99102 21154",
+    "website": "https://rkmanagementconsultant.com/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Court, Chamber no 112, Block C, Lawyers chamber, Distt, Gurugram, Haryana 122001",
+    "area": "Raj Nagar, New Anaj Mandi, Hari Nagar, Sector 10A",
+    "latitude": 28.4458648,
+    "longitude": 77.0183152,
+    "place_id": "ChIJs2aaA80ZDTkRhjwapc-dDyo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs2aaA80ZDTkRhjwapc-dDyo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:00:32"
+  }
+]

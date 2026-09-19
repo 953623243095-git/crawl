@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Libas",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Clothes and fabric manufacturer",
+    "all_categories": "Clothes and fabric manufacturer, Clothing store",
+    "pincode": "262902",
+    "phone_number": "+91 70800 55624",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Govt Hospital Road Infront of Central Bank of India, Suthana Barsola, Kolluri, Uttar Pradesh 262906",
+    "area": "262902",
+    "latitude": 28.3757801,
+    "longitude": 80.9810334,
+    "place_id": "ChIJ_dzEMQAHojkR15TNnQbKMw8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_dzEMQAHojkR15TNnQbKMw8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:11:17"
+  },
+  {
+    "business_name": "Mishra General Store",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Clothes and fabric wholesaler",
+    "all_categories": "Clothes and fabric wholesaler",
+    "pincode": "262902",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Bus Park Road, Dhangadhi, Sudurpashchim Province 10900, Nepal",
+    "area": "Uttar Behandi",
+    "latitude": 28.705359599999998,
+    "longitude": 80.5739876,
+    "place_id": "ChIJbbaAhMXsoTkRA02-NAx7N24",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbbaAhMXsoTkRA02-NAx7N24",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:11:19"
+  }
+]

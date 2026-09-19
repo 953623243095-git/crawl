@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chintu Battery",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "262805",
+    "phone_number": "+91 97212 90596",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mawar, Uttar Pradesh 209101",
+    "area": "262805",
+    "latitude": 26.3214072,
+    "longitude": 79.9492425,
+    "place_id": "ChIJ_8QgEOmwnTkRGWO7Mle1diE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_8QgEOmwnTkRGWO7Mle1diE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:08:13"
+  },
+  {
+    "business_name": "New Modern Battery",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Battery Store",
+    "all_categories": "Battery Store",
+    "pincode": "262805",
+    "phone_number": "+91 99221 08055",
+    "website": "https://new-modern-battery.grexa.site/",
+    "rating": 5,
+    "reviews_count": 93,
+    "address": "Shinde Vasti, Pipeline Rd, Mauli Park, Ganesh Nagar, Ravet, Pimpri-Chinchwad, Maharashtra 412101",
+    "area": "Mauli Park, Ganesh Nagar, Ravet",
+    "latitude": 18.655458499999998,
+    "longitude": 73.7536478,
+    "place_id": "ChIJiXn4fmO5wjsRRDRo3MXgDyY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiXn4fmO5wjsRRDRo3MXgDyY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:08:13"
+  }
+]

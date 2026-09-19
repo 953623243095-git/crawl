@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ensemble Dance Studios",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school",
+    "pincode": "262907",
+    "phone_number": "+91 86555 56600",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Gate No 1, Behind Bhaktivedanta Swami Mission School Shastri Nagar, Lokhandwala Complex, Andheri West, Mumbai, Maharashtra 400053",
+    "area": "Lokhandwala Complex, Andheri West",
+    "latitude": 19.138261099999998,
+    "longitude": 72.8299656,
+    "place_id": "ChIJ-cPcLyO25zsRTF6FYCJigLg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-cPcLyO25zsRTF6FYCJigLg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:20:28"
+  },
+  {
+    "business_name": "Royal Academy of Musico",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Music school",
+    "all_categories": "Music school",
+    "pincode": "262907",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 12,
+    "address": "WWHG+F2W, IIM Rd, near Maharishi University, Sai City, Madiyanva, Lucknow, Uttar Pradesh 226013",
+    "area": "Sai City, Madiyanva",
+    "latitude": 26.9287389,
+    "longitude": 80.9250917,
+    "place_id": "ChIJrWUkl8tXmTkRR9zxceJT6rs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrWUkl8tXmTkRR9zxceJT6rs",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:20:28"
+  }
+]

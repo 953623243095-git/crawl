@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Khaira Tpt Sitarganj",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "263151",
+    "phone_number": "+91 88689 10098",
+    "website": "http://www.newkhaira.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "New, Mandi Rd, Sitarganj, Uttarakhand 262405",
+    "area": "263151",
+    "latitude": 28.915028799999998,
+    "longitude": 79.701719,
+    "place_id": "ChIJB-VUrIhnoDkR5PNHwoHMAOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB-VUrIhnoDkR5PNHwoHMAOI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:54:40"
+  },
+  {
+    "business_name": "Sitarganj Bus Stand",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus depot",
+    "all_categories": "Bus depot",
+    "pincode": "263151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 925,
+    "address": "WPG5+GHJ, Khatima Bypass Rd, Sitarganj, Uttarakhand 262405",
+    "area": "263151",
+    "latitude": 28.92635,
+    "longitude": 79.708885,
+    "place_id": "ChIJX5Tk8Q1noDkRDhK2hhKIdPQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX5Tk8Q1noDkRDhK2hhKIdPQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:54:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DR. ASHWINI ENT CLINIC",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Allergist",
+    "pincode": "262726",
+    "phone_number": "+91 83560 83837",
+    "website": "https://drashwinientclinic.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Rm no:307,3rd floor, Karani Ln, near Telephone Exchange Road, Ghatkopar West, Mumbai, Maharashtra 400086",
+    "area": "Ghatkopar West",
+    "latitude": 19.087564099999998,
+    "longitude": 72.904506,
+    "place_id": "ChIJYexcl2XH5zsR0CdNRyFm90s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYexcl2XH5zsR0CdNRyFm90s",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:56:14"
+  },
+  {
+    "business_name": "Medical Supply",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "262726",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Narendra Dev Nagar, Faizabad, Uttar Pradesh 224001",
+    "area": "Narendra Dev Nagar",
+    "latitude": 26.7799363,
+    "longitude": 82.15358379999999,
+    "place_id": "ChIJFZM8yjwGmjkRpuLO4tfmcjE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZM8yjwGmjkRpuLO4tfmcjE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:56:16"
+  }
+]

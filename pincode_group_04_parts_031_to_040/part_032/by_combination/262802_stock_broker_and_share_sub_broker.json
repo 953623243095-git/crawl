@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S K Trading Academy",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "262802",
+    "phone_number": "+91 92345 32445",
+    "website": "https://www.sktradingacademy.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1st floor, 70 Feet BPCL Rd, above Reliance Smart Point, BC Colony, Dasratha, Saristabad, Patna, Bihar 800032",
+    "area": "BC Colony, Dasratha, Saristabad",
+    "latitude": 25.583026399999998,
+    "longitude": 85.1189413,
+    "place_id": "ChIJ30t8sjS-cIMRR7imQ-18ytY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ30t8sjS-cIMRR7imQ-18ytY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:03:55"
+  },
+  {
+    "business_name": "Mangal Keshav Financial Services LLP",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Finance broker, Financial consultant, Online Share Trading Center",
+    "pincode": "262802",
+    "phone_number": "+91 22 6190 8040",
+    "website": "https://www.mangalkeshav.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Heritage Plaza, Metro Station, 501, JP Rd, behind D. N. Nagar, Sahayog Nagar, Bhudargarh Colony, Andheri West, Mumbai, Maharashtra 400053",
+    "area": "Sahayog Nagar, Bhudargarh Colony, Andheri West",
+    "latitude": 19.1286556,
+    "longitude": 72.82981509999999,
+    "place_id": "ChIJ-YdI_CG25zsRvyPuD9XHl8w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-YdI_CG25zsRvyPuD9XHl8w",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:03:56"
+  }
+]

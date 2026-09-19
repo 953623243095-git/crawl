@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kohli Sanitary Store",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "263135",
+    "phone_number": "+91 5946 254 323",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Kaladhungi Rd, Heera Nagar, Haldwani, Uttarakhand 263139",
+    "area": "Heera Nagar",
+    "latitude": 29.214899499999998,
+    "longitude": 79.5273441,
+    "place_id": "ChIJcd_LCOGaoDkR4kzfjAl0e6A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcd_LCOGaoDkR4kzfjAl0e6A",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:34:36"
+  },
+  {
+    "business_name": "Sukhatal Nainital",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "263135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9CVW+5FP, Nainital Rd, Sherwani, Nainital, Naina Range, Uttarakhand 263001",
+    "area": "Sherwani",
+    "latitude": 29.3929618,
+    "longitude": 79.4462109,
+    "place_id": "ChIJ4-eRagChoDkRJnr2mz-UN0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4-eRagChoDkRJnr2mz-UN0I",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:34:38"
+  }
+]

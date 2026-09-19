@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maurya gym centre",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "262903",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6V9W+FW7, Nighasan, Uttar Pradesh 262903",
+    "area": "262903",
+    "latitude": 28.218654299999997,
+    "longitude": 80.897284,
+    "place_id": "ChIJ8QUdfACtmDkRiVzUYz2LFyI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8QUdfACtmDkRiVzUYz2LFyI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:13:12"
+  },
+  {
+    "business_name": "Moosa Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "262903",
+    "phone_number": "+91 80094 04834",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Nighasan Rd, Lakhimpur, Mahewa, Uttar Pradesh 261506",
+    "area": "262903",
+    "latitude": 27.9916861,
+    "longitude": 80.79247389999999,
+    "place_id": "ChIJl2Yj5CdLnzkRO-shF2_awio",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl2Yj5CdLnzkRO-shF2_awio",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:13:15"
+  }
+]

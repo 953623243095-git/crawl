@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Himalaya Darshan",
+    "search_category": "Exhibitions",
+    "primary_category": "Tourist attraction",
+    "all_categories": "Tourist attraction",
+    "pincode": "263128",
+    "phone_number": "N/A",
+    "website": "http://uttarakhandtourism.gov.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Kilbury Rd, Naina Range, Uttarakhand 263001",
+    "area": "263128",
+    "latitude": 29.4028426,
+    "longitude": 79.4514396,
+    "place_id": "ChIJaWuecpehoDkR1WJH7xAn88M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaWuecpehoDkR1WJH7xAn88M",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:30:03"
+  },
+  {
+    "business_name": "StarGazing Uttarakhand",
+    "search_category": "Exhibitions",
+    "primary_category": "Tourist attraction",
+    "all_categories": "Tourist attraction",
+    "pincode": "263128",
+    "phone_number": "+91 95571 46692",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Near, High Ct Rd, Mallital, Nainital, Uttarakhand 263001",
+    "area": "Mallital",
+    "latitude": 29.394305,
+    "longitude": 79.44783129999999,
+    "place_id": "ChIJz-U9kK2hoDkRHAF4BDqhvJk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz-U9kK2hoDkRHAF4BDqhvJk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:30:03"
+  }
+]

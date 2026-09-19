@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paridhan Bazaar Clothing Store",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Baby clothing store, Clothes market, Clothing wholesaler, Men's clothing store, Youth clothing store",
+    "pincode": "263127",
+    "phone_number": "+91 93683 73028",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kaladhungi Rd, near Krazy Noodles, Kathghariya, Haldwani, Uttarakhand 263139",
+    "area": "Kathghariya",
+    "latitude": 29.233023,
+    "longitude": 79.48226,
+    "place_id": "ChIJMc9Gx5SboDkRaAtKgcWRgcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMc9Gx5SboDkRaAtKgcWRgcc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:26:58"
+  },
+  {
+    "business_name": "Nainital Road, Haldwani",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "263127",
+    "phone_number": "+91 98186 75152",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 2, New Khurana Complex, Mohhala -Bamori Road Mall, Louis Philippe, Bareilly - Nainital Rd, Haldwani, Uttarakhand 263139",
+    "area": "Brij Vihar, Bhotia Parao",
+    "latitude": 29.238646,
+    "longitude": 79.533363,
+    "place_id": "ChIJ_2QXfDiboDkRXFHaxaGpO8Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_2QXfDiboDkRXFHaxaGpO8Y",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:27:00"
+  }
+]

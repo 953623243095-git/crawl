@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Salman ali",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "262801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6F9C+3JP, Grant No 3, Uttar Pradesh 262802",
+    "area": "262801",
+    "latitude": 28.217717099999998,
+    "longitude": 80.4715866,
+    "place_id": "ChIJay5ODgBdnzkRcHWhcxMnSwk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJay5ODgBdnzkRcHWhcxMnSwk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:01:33"
+  },
+  {
+    "business_name": "UMAR EDUCATIONAL COMPUTER INSTITUTE",
+    "search_category": "Driving School",
+    "primary_category": "Computer training school",
+    "all_categories": "Computer training school",
+    "pincode": "262801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "MAIN CHOURAHA, JATPURA ROAD, Kukra, Gola Gokaran Nath, Uttar Pradesh 262801",
+    "area": "262801",
+    "latitude": 28.2031925,
+    "longitude": 80.438244,
+    "place_id": "ChIJGYuvirpnnzkRaNHcw831vEI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGYuvirpnnzkRaNHcw831vEI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:01:33"
+  }
+]

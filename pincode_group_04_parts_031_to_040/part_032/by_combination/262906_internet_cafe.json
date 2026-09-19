@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Danish Common Service Center",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "262906",
+    "phone_number": "+91 73104 92150",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Azamgarhpurwa, Kari Kot, Uttar Pradesh 271855",
+    "area": "Azamgarhpurwa",
+    "latitude": 28.259618699999997,
+    "longitude": 81.15981099999999,
+    "place_id": "ChIJs4lOHxSjmDkRpDYoYwfR3kE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs4lOHxSjmDkRpDYoYwfR3kE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:18:52"
+  },
+  {
+    "business_name": "Hari Sharan Internet Cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "262906",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C59R+GGP, Lumbini Province 21800, Nepal",
+    "area": "262906",
+    "latitude": 28.4188381,
+    "longitude": 81.1913368,
+    "place_id": "ChIJZbkyzRZ1ojkRgRGV3qTOpfs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZbkyzRZ1ojkRgRGV3qTOpfs",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:18:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "iTrust Family Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "262801",
+    "phone_number": "+91 97695 24585",
+    "website": "http://www.itrustfamilyclinic.com/",
+    "rating": 4.8,
+    "reviews_count": 119,
+    "address": "Shop No - 6, 7, Commercial, Panchvati Apartment 2, 8 & 9, Chandivali, Powai, Mumbai, Maharashtra 400072",
+    "area": "Chandivali, Powai",
+    "latitude": 19.1151177,
+    "longitude": 72.9035916,
+    "place_id": "ChIJfSCPvKjH5zsRbgBfIAScky8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfSCPvKjH5zsRbgBfIAScky8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:01:25"
+  },
+  {
+    "business_name": "स्कीन केयर क्लीनिक",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "262801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Galla mandi, Bhind, Madhya Pradesh 477001",
+    "area": "Galla mandi",
+    "latitude": 26.5714494,
+    "longitude": 78.789473,
+    "place_id": "ChIJn0BiMBx7djkRVcCanIO9NXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn0BiMBx7djkRVcCanIO9NXY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:01:26"
+  }
+]

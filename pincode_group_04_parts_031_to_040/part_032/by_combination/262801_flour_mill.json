@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sawariya grain products",
+    "search_category": "Flour Mill",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "262801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5C6F+XM7, Bankeyganj Rd, Grantno 10, Uttar Pradesh 262801",
+    "area": "262801",
+    "latitude": 28.1615443,
+    "longitude": 80.4236227,
+    "place_id": "ChIJ62-gHABnnzkRE017cC-mUWM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ62-gHABnnzkRE017cC-mUWM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:00:55"
+  },
+  {
+    "business_name": "Lala Jogidhan Aatta Chaki",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "262801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "H6JP+4QH, Sudkan Khurad, Haryana 126116",
+    "area": "262801",
+    "latitude": 29.580323,
+    "longitude": 76.2369902,
+    "place_id": "ChIJd5AF5lnwETkR_gdj_VGEK4g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd5AF5lnwETkR_gdj_VGEK4g",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:00:55"
+  }
+]

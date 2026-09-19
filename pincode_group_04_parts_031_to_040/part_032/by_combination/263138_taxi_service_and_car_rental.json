@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rana Travel and Tours",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "263138",
+    "phone_number": "+91 81781 63656",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 107,
+    "address": "Mauna, Chapar, Uttarakhand 263138",
+    "area": "263138",
+    "latitude": 29.5287923,
+    "longitude": 79.6508594,
+    "place_id": "ChIJZSdgXYO5oDkRIAzj2ZFF2Jc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZSdgXYO5oDkRIAzj2ZFF2Jc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:40:05"
+  },
+  {
+    "business_name": "NARASIMHA TAXI SERVICE (NAUKUCHIATAL)",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "263138",
+    "phone_number": "+91 73008 44315",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 60,
+    "address": "near Ramleela Ground, Naukuchiatal, Siloti Pant, Uttarakhand 263136",
+    "area": "Naukuchiatal",
+    "latitude": 29.326583799999998,
+    "longitude": 79.5832399,
+    "place_id": "ChIJdYrj0T2ZoDkRK4Q4H1bkhbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdYrj0T2ZoDkRK4Q4H1bkhbU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:40:05"
+  }
+]

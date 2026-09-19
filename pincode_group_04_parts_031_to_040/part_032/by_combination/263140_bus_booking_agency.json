@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manas tour and travel",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "263140",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Haldwani, Narpatpur Urf Sangatpur, Uttarakhand 263139",
+    "area": "263140",
+    "latitude": 29.2371466,
+    "longitude": 79.3533819,
+    "place_id": "ChIJlze3vqp3CjkRgK6VQrhjAhA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlze3vqp3CjkRgK6VQrhjAhA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:43:50"
+  },
+  {
+    "business_name": "Corbett Kumaon Explorer",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "263140",
+    "phone_number": "N/A",
+    "website": "https://corbettkumaonexplorer.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ramnagar, Kotabagh, Uttarakhand 263159",
+    "area": "Ramnagar",
+    "latitude": 29.3991272,
+    "longitude": 79.30004629999999,
+    "place_id": "ChIJiUrIvHALCjkR7ESQgmWLv6k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiUrIvHALCjkR7ESQgmWLv6k",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:43:50"
+  }
+]

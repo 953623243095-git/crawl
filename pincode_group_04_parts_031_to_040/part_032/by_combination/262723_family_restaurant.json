@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rasid Ahamad",
+    "search_category": "Family Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "262723",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "0755, Jodhapurwa, Abhyapur, Gularia Talukey Amethi, Uttar Pradesh 262724",
+    "area": "Jodhapurwa",
+    "latitude": 28.120792599999998,
+    "longitude": 81.0771724,
+    "place_id": "ChIJ07-2ayy9mDkReIga8qFVEhc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ07-2ayy9mDkReIga8qFVEhc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:50:47"
+  },
+  {
+    "business_name": "कान्हा जलपान गृह",
+    "search_category": "Family Restaurant",
+    "primary_category": "Breakfast restaurant",
+    "all_categories": "Breakfast restaurant",
+    "pincode": "262723",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "56FV+QRM, Dharmpur, Uttar Pradesh 271855",
+    "area": "262723",
+    "latitude": 28.1745624,
+    "longitude": 81.2446253,
+    "place_id": "ChIJVyK4PwCXmDkRFRCKOJdmQaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVyK4PwCXmDkRFRCKOJdmQaE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:50:48"
+  }
+]

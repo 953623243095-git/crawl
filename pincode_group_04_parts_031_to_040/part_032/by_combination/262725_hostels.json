@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chakala Dormitory",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "262725",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "amar estate, metro station, Cross Rd B, chakala, J B Nagar, Andheri East, Mumbai, Maharashtra 400059",
+    "area": "chakala, J B Nagar, Andheri East",
+    "latitude": 19.1149724,
+    "longitude": 72.8683353,
+    "place_id": "ChIJBxEGOVbJ5zsRGW4TFxhiDng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBxEGOVbJ5zsRGW4TFxhiDng",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:55:05"
+  },
+  {
+    "business_name": "SS Hostels",
+    "search_category": "Hostels",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel, Girls' hostel, Home Stay, Student dormitory, Working women's hostel, Youth Hostel",
+    "pincode": "262725",
+    "phone_number": "+91 95682 27111",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Old Match Factory, 161 Madhobari, Nai Basti, Marwari Ganj, Bareilly, Uttar Pradesh 243005",
+    "area": "Marwari Ganj",
+    "latitude": 28.3635842,
+    "longitude": 79.4271294,
+    "place_id": "ChIJ7VSpx9AHoDkRpLFQ3GL2_ZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7VSpx9AHoDkRpLFQ3GL2_ZQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:55:05"
+  }
+]

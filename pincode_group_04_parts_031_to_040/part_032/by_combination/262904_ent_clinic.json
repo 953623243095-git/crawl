@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Vishal Tyagi",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Surgeon",
+    "pincode": "262904",
+    "phone_number": "+91 90040 30558",
+    "website": "https://www.drvishaltyagi.com/",
+    "rating": 4.7,
+    "reviews_count": 87,
+    "address": "Holy Spirit Hospital & Research Centre, Mahakali Caves Rd, Sher E Punjab Colony, Andheri East, Mumbai, Maharashtra 400093",
+    "area": "Sher E Punjab Colony, Andheri East",
+    "latitude": 19.1283441,
+    "longitude": 72.866653,
+    "place_id": "ChIJr5xxH4rJ5zsRGIDc1SaD0UM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr5xxH4rJ5zsRGIDc1SaD0UM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:14:52"
+  },
+  {
+    "business_name": "Birajdar ENT Clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "262904",
+    "phone_number": "+91 96652 62162",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Shop no. 5, Rohan Commercial Complex, opposite Vijay Clinic, near Old RTO Office, Railway lines, Solapur, Maharashtra 413001",
+    "area": "Railway lines",
+    "latitude": 17.6651739,
+    "longitude": 75.9000731,
+    "place_id": "ChIJX1n5m3TbxTsRjUdNjAz6Mk0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX1n5m3TbxTsRjUdNjAz6Mk0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:14:52"
+  }
+]

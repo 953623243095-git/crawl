@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Punjab Computers Rudrapur",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer accessories store, Computer consultant, Computer Hardware Company, Computer Rental Agency, Electronics store, Computer Wholesaler, Used computer store",
+    "pincode": "263153",
+    "phone_number": "+91 90129 00860",
+    "website": "https://punjabcomputers.com/",
+    "rating": 3.6,
+    "reviews_count": 24,
+    "address": "City square complex, road, Kashipur Bypass Rd, Rudrapur, Jagatpura, Uttarakhand 263153",
+    "area": "263153",
+    "latitude": 28.9787049,
+    "longitude": 79.3961643,
+    "place_id": "ChIJJQfHa-x_oDkRAvLzw5daDA4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJQfHa-x_oDkRAvLzw5daDA4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:58:51"
+  },
+  {
+    "business_name": "Mindtech Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer Wholesaler, E-commerce service, Web hosting company, Website designer",
+    "pincode": "263153",
+    "phone_number": "+91 99276 14523",
+    "website": "https://mindtechcomputers.in/",
+    "rating": 4.2,
+    "reviews_count": 32,
+    "address": "Ward no. 17, Janta School Rd, Adarsh Colony, Rudrapur, Jagatpura, Uttarakhand 263153",
+    "area": "Adarsh Colony",
+    "latitude": 28.982122099999998,
+    "longitude": 79.3951051,
+    "place_id": "ChIJlfIP8u5_oDkRihLTr1fpK9o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlfIP8u5_oDkRihLTr1fpK9o",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:58:53"
+  }
+]

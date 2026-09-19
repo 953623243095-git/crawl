@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cake Bake Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "262801",
+    "phone_number": "+91 70550 16655",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Ganesh chowk, bypass road, Lakhna, Manpura, Uttar Pradesh 206127",
+    "area": "262801",
+    "latitude": 26.6511678,
+    "longitude": 79.14589099999999,
+    "place_id": "ChIJWbN41-UPdjkRG_rRck1uZ_0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWbN41-UPdjkRG_rRck1uZ_0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:01:02"
+  },
+  {
+    "business_name": "Krishna Baker's",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "262801",
+    "phone_number": "+91 70078 36447",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Sampurna Nagar Rd, near palia montessry school, Palia Kalan, Uttar Pradesh 262902",
+    "area": "262801",
+    "latitude": 28.4335903,
+    "longitude": 80.5737192,
+    "place_id": "ChIJfTsY1UrloTkRkR9zsKgvBqc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfTsY1UrloTkRkR9zsKgvBqc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:01:02"
+  }
+]

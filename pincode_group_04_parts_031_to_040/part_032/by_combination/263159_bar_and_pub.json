@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Riyansh",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "263159",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "98X2+M23, Kotabagh, Uttarakhand 263159",
+    "area": "263159",
+    "latitude": 29.3991272,
+    "longitude": 79.30004629999999,
+    "place_id": "ChIJo0VrXwALCjkR3Bxis7WGEys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo0VrXwALCjkR3Bxis7WGEys",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:05:07"
+  },
+  {
+    "business_name": "Tusker Bar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "263159",
+    "phone_number": "+91 5947 266 600",
+    "website": "https://www.tajhotels.com/en-in/hotels/taj-corbett-uttarakhand/restaurants/tusker-bar?utm_source=google&utm_medium=local&utm_campaign=taj-corbett-uttarakhand-tusker-bar",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Taj Corbett Resort & Spa, Ramnagar, Dhikuli, Garjiya, Uttarakhand 244715",
+    "area": "Ramnagar",
+    "latitude": 29.4783279,
+    "longitude": 79.1490721,
+    "place_id": "ChIJZagb4QMRCjkROy4Nk5ncqBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZagb4QMRCjkROy4Nk5ncqBs",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:05:09"
+  }
+]

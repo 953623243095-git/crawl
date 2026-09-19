@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Happy Stay Rooms Andheri East",
+    "search_category": "PG",
+    "primary_category": "Student housing center",
+    "all_categories": "Student housing center, Student dormitory",
+    "pincode": "262903",
+    "phone_number": "+91 93241 27468",
+    "website": "https://happystayrooms.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Navratan building, Mahakali Caves Rd, behind Ginger Hotel, Sunder Nagar, Andheri East, Mumbai, Maharashtra 400093",
+    "area": "Sunder Nagar, Andheri East",
+    "latitude": 19.128308,
+    "longitude": 72.8699158,
+    "place_id": "ChIJN2lh5HrJ5zsRCCbHTOBolxM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN2lh5HrJ5zsRCCbHTOBolxM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:13:43"
+  },
+  {
+    "business_name": "Paying Guest",
+    "search_category": "PG",
+    "primary_category": "Lodging",
+    "all_categories": "Lodging, Vacation rental",
+    "pincode": "262903",
+    "phone_number": "N/A",
+    "website": "https://br.bluepillow.com/search/69498c020c60a53fb7d44cb8?dest=nuit&cat=Bed+and+breakfast&lat=19.10153&lng=72.88918&language=pt",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lokmanya Tilak Nagar, Saki Naka, Mumbai, Maharashtra 400072",
+    "area": "Lokmanya Tilak Nagar, Saki Naka",
+    "latitude": 19.101530099999998,
+    "longitude": 72.8891831,
+    "place_id": "ChIJswo3u3HI5zsRonOL98BxkCo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJswo3u3HI5zsRonOL98BxkCo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:13:43"
+  }
+]

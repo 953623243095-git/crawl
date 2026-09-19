@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Golden Fitness Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "262804",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W8XR+87X, Amir Nagar, Munda Khalsa, Uttar Pradesh 262804",
+    "area": "262804",
+    "latitude": 27.9483611,
+    "longitude": 80.3407276,
+    "place_id": "ChIJyVhTHAATnzkRrbymgmayDZ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyVhTHAATnzkRrbymgmayDZ8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:06:26"
+  },
+  {
+    "business_name": "Prime GYM",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "262804",
+    "phone_number": "+91 85739 95135",
+    "website": "https://www.instagram.com/prime_gym___?igsh=MTQ3dGU3NzhybXhzMg==",
+    "rating": 4.9,
+    "reviews_count": 90,
+    "address": "Saraikaiyan, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Saraikaiyan",
+    "latitude": 27.851222399999997,
+    "longitude": 79.92137559999999,
+    "place_id": "ChIJJwZAliGjnzkRpByUkLbiwDg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJwZAliGjnzkRpByUkLbiwDg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:06:29"
+  }
+]

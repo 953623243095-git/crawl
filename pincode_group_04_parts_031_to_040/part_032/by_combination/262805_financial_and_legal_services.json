@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Finnovate Financial Services",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant, Financial audit, Financial planner, Investment service, Tax consultant",
+    "pincode": "262805",
+    "phone_number": "+91 92288 53607",
+    "website": "http://www.finnovate.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "7th Floor, The Summit Business Park, Unit no. 703, Andheri - Kurla Rd, Gundavali, Andheri East, Mumbai, Maharashtra 400093",
+    "area": "Gundavali, Andheri East",
+    "latitude": 19.1166038,
+    "longitude": 72.8571745,
+    "place_id": "ChIJU1jDVNa35zsRlo2im1aqvLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU1jDVNa35zsRlo2im1aqvLo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:08:59"
+  },
+  {
+    "business_name": "Adv. Vivek Singh",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services",
+    "pincode": "262805",
+    "phone_number": "+91 93047 25339",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 18,
+    "address": "BAZAR, Tilatand, Katras, Jharkhand 828113",
+    "area": "Tilatand",
+    "latitude": 23.811469,
+    "longitude": 86.2867733,
+    "place_id": "ChIJSY9UtGuh9jkRBt7u6O4S7BY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSY9UtGuh9jkRBt7u6O4S7BY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:09:00"
+  }
+]

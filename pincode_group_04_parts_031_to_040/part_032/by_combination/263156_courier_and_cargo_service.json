@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Maruti - Arora Courier Service",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, Shipping service",
+    "pincode": "263156",
+    "phone_number": "+91 84390 46329",
+    "website": "https://shreemaruti.com/",
+    "rating": 2.5,
+    "reviews_count": null,
+    "address": "Shop No 59, Pawan Bela Market, Court Rd, opposite Income Tax Office, Chander Nagar, Saharanpur, Uttar Pradesh 247001",
+    "area": "Chander Nagar",
+    "latitude": 29.9503624,
+    "longitude": 77.54704149999999,
+    "place_id": "ChIJ5zdOmLvqDjkRJincwXWNN9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5zdOmLvqDjkRJincwXWNN9g",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:00:51"
+  },
+  {
+    "business_name": "DTDC - Raj Telecom",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "263156",
+    "phone_number": "+91 89233 30161",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "Mata Mandir Rd, Anand Vihar, Ajabpur Khurd, Dehradun, Uttarakhand 248121",
+    "area": "Anand Vihar, Ajabpur Khurd",
+    "latitude": 30.296098399999998,
+    "longitude": 78.04170289999999,
+    "place_id": "ChIJlaud0HQpCTkRc2eR7hqn_Tw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlaud0HQpCTkRc2eR7hqn_Tw",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:00:51"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anviyaa hospitality",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "262725",
+    "phone_number": "+91 98199 52811",
+    "website": "https://www.anviyaahospitality.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2062,gr, RUSTOMJEE EAZE ZONE MALL, Eaze Zone Mall, Malad, Sunder Nagar, Malad West, Mumbai, Maharashtra 400064",
+    "area": "Malad, Sunder Nagar, Malad West",
+    "latitude": 19.1743553,
+    "longitude": 72.8413538,
+    "place_id": "ChIJDcRouyu35zsRHoFy8Ao5j6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDcRouyu35zsRHoFy8Ao5j6E",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:55:07"
+  },
+  {
+    "business_name": "Acumenz Consultants",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "262725",
+    "phone_number": "+91 5871 233 161",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Infront of Kamal Talkies,, Indira Nagar,, Palia Kalan, Uttar Pradesh 262902",
+    "area": "262725",
+    "latitude": 28.42466,
+    "longitude": 80.579062,
+    "place_id": "ChIJd7R2WZrjoTkR_HCCKXKL8oE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd7R2WZrjoTkR_HCCKXKL8oE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:55:08"
+  }
+]

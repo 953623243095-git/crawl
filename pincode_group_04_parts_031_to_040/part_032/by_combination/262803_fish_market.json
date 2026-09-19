@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yaarana Fish And Chicken Corner",
+    "search_category": "Fish Market",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Non Vegetarian Restaurant",
+    "pincode": "262803",
+    "phone_number": "+91 99359 84204",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Road, Palia Road, Khutar, Uttar Pradesh 242405",
+    "area": "262803",
+    "latitude": 28.2872281,
+    "longitude": 80.3402689,
+    "place_id": "ChIJT-DcDHpjnzkRJCnW5avChlo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT-DcDHpjnzkRJCnW5avChlo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:04:21"
+  },
+  {
+    "business_name": "Vinod Chat Corner",
+    "search_category": "Fish Market",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "262803",
+    "phone_number": "+91 96213 07026",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "W.No 9, Dhram Sala, Dharm Sala, Road Malani, Mailani, Uttar Pradesh 262803",
+    "area": "262803",
+    "latitude": 28.2840627,
+    "longitude": 80.3470889,
+    "place_id": "ChIJ52ocabtjnzkRcEN22YRfFbc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ52ocabtjnzkRcEN22YRfFbc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:04:21"
+  }
+]

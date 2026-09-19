@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa amul ice cream parlor",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "263149",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gole gate, Jawahar nagar, coraha, no1, road, near mk mini mart, Kicha, Uttarakhand 263149",
+    "area": "263149",
+    "latitude": 29.008106299999998,
+    "longitude": 79.5222071,
+    "place_id": "ChIJVzWuLk2HoDkR9lnYGeC_2hc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVzWuLk2HoDkR9lnYGeC_2hc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:50:44"
+  },
+  {
+    "business_name": "Deepak",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "263149",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VI/1637, Ta Colony, Pantnagar, Tanda Range, Uttarakhand 263145",
+    "area": "Ta Colony",
+    "latitude": 29.0276107,
+    "longitude": 79.4967803,
+    "place_id": "ChIJewx5b3eHoDkRehknPhTZXgM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJewx5b3eHoDkRehknPhTZXgM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:50:44"
+  }
+]

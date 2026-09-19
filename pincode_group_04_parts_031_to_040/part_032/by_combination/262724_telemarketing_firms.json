@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ZAAR MARKETING SOLUTION",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "BPO Company",
+    "all_categories": "BPO Company, Call center",
+    "pincode": "262724",
+    "phone_number": "+91 94522 85822",
+    "website": "http://www.zaarmark.com/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "3rd, Pandey Bhawan, Rani Laxmi Bai Marg, Near, Parivartan Chowk, opposite Begum Hazrat Mahal Park Ticket Counter, Hazratganj, Lucknow, Uttar Pradesh 226018",
+    "area": "Hazratganj",
+    "latitude": 26.855658,
+    "longitude": 80.9332812,
+    "place_id": "ChIJn8rPqQ79mzkRnT3i46PD-Dc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn8rPqQ79mzkRnT3i46PD-Dc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:53:56"
+  },
+  {
+    "business_name": "DialDesk",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "BPO Company",
+    "all_categories": "BPO Company",
+    "pincode": "262724",
+    "phone_number": "+91 92661 08888",
+    "website": "https://www.dialdesk.in/",
+    "rating": 4.6,
+    "reviews_count": 92,
+    "address": "T1 - 301, 3rd Floor, Okaya Towers, B5, Block B, Industrial Area, Sector 62, Noida, Uttar Pradesh 201309",
+    "area": "Block B, Industrial Area, Sector 62",
+    "latitude": 28.6222107,
+    "longitude": 77.3611531,
+    "place_id": "ChIJ4yMO0W3lDDkRP8dtcW8bszQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4yMO0W3lDDkRP8dtcW8bszQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:53:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhagwati Tour and Taxi Service",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Bus tour agency, Car rental agency, Minibus taxi service, Resort hotel, Sightseeing Tour Operator, Tour agency, Tour operator, Taxi service",
+    "pincode": "263127",
+    "phone_number": "+91 74094 36419",
+    "website": "https://bhagwatitour.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bareilly - Nainital Rd, Jeolikote, Nainital, Uttarakhand 263127",
+    "area": "263127",
+    "latitude": 29.340543,
+    "longitude": 79.4871395,
+    "place_id": "ChIJXRJ16qKZoDkRlbTjTjqOKHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXRJ16qKZoDkRlbTjTjqOKHE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:27:15"
+  },
+  {
+    "business_name": "Green Valley Tour & Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "263127",
+    "phone_number": "+91 94107 64060",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 120,
+    "address": "9H33+V7H, To Sanguri Gaon, Mallital, Bhimtal, Uttarakhand 263136",
+    "area": "Mallital",
+    "latitude": 29.3546868,
+    "longitude": 79.5532211,
+    "place_id": "ChIJndIVdSKYoDkRwd5qivU4i9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJndIVdSKYoDkRwd5qivU4i9A",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:27:16"
+  }
+]

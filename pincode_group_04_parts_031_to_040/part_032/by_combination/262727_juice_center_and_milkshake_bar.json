@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Juice&Co.",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Bubble tea store, Sandwich shop",
+    "pincode": "262727",
+    "phone_number": "+91 75680 02024",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "36, Dalda Factory Rd, near reliance smart point, Maharani Farm, Prithviraj Nagar, Durgapura, Jaipur, Rajasthan 302018",
+    "area": "Maharani Farm, Prithviraj Nagar, Durgapura",
+    "latitude": 26.8526612,
+    "longitude": 75.781369,
+    "place_id": "ChIJ3RWp49i1bTkRiLhxPSaU4OY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3RWp49i1bTkRiLhxPSaU4OY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:57:38"
+  },
+  {
+    "business_name": "Amit Juice Center",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "262727",
+    "phone_number": "+91 90015 30153",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Amit juice centre, shop no.S-398 Adarsh bazar, barkat nagar, main, Tonk Phatak, Jaipur, Rajasthan 302015",
+    "area": "Telephone Colony, Bank Colony, Tonk Phatak",
+    "latitude": 26.8774971,
+    "longitude": 75.79747189999999,
+    "place_id": "ChIJm0MBxi20bTkRbs5yDOmhCck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm0MBxi20bTkRbs5yDOmhCck",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:57:40"
+  }
+]

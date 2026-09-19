@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samraat Tailors",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "263138",
+    "phone_number": "+91 99272 20956",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "007, Bhatelia, Uttarakhand 263138",
+    "area": "263138",
+    "latitude": 29.4366053,
+    "longitude": 79.649481,
+    "place_id": "ChIJ2QAwlNS9oDkRVddGLoY5zbE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2QAwlNS9oDkRVddGLoY5zbE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:39:46"
+  },
+  {
+    "business_name": "सलीम रफू",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "263138",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "CJPX+JMV, Bhatelia-Dhanachuli-BhimtalRoad, South Gola Range, Bhatelia, Uttarakhand 263138",
+    "area": "263138",
+    "latitude": 29.4366339,
+    "longitude": 79.6491951,
+    "place_id": "ChIJV1LoOgC9oDkRTqs3g3CnuWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV1LoOgC9oDkRTqs3g3CnuWk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:39:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Punjabi haveli",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Asian restaurant",
+    "all_categories": "Asian restaurant",
+    "pincode": "262801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 21,
+    "address": "4C44+3VX, Kunwarpur Mafi, Uttar Pradesh 262802",
+    "area": "262801",
+    "latitude": 28.105289799999998,
+    "longitude": 80.4070323,
+    "place_id": "ChIJJQF6UwBpnzkR4kwSSBT40oY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJQF6UwBpnzkR4kwSSBT40oY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:01:03"
+  },
+  {
+    "business_name": "Hira kashyap",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "262801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5CVX+6P6, Khanjanpur, Kukra, Uttar Pradesh 262801",
+    "area": "Khanjanpur",
+    "latitude": 28.193045599999998,
+    "longitude": 80.4492762,
+    "place_id": "ChIJt0DOdwBnnzkRIH8teoAYtfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt0DOdwBnnzkRIH8teoAYtfA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:01:03"
+  }
+]

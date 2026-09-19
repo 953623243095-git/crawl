@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vivekanand Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "263139",
+    "phone_number": "+91 5946 282 828",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Heera Nagar, opp. k.v.m. school, Heera Nagar, Mukhani, Haldwani, Uttarakhand 263139",
+    "area": "Heera Nagar",
+    "latitude": 29.2125241,
+    "longitude": 79.51708289999999,
+    "place_id": "ChIJwehGYOGaoDkR3lf7OyjD6Nc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwehGYOGaoDkR3lf7OyjD6Nc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:41:38"
+  },
+  {
+    "business_name": "Kailash Multispeciality Clinic",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Doctor, Health consultant, Herbal medicine store, Medical Center, Medical clinic, Public medical center",
+    "pincode": "263139",
+    "phone_number": "+91 95577 55533",
+    "website": "http://www.youtube.com/drfulara",
+    "rating": 4.6,
+    "reviews_count": 41,
+    "address": "Near TVS Golju, Bachi Dharma Road, Gumti Chauraha Bachidharma, Halduchaur, Lalkuan, Haldwani, Uttarakhand 263142",
+    "area": "Lalkuan",
+    "latitude": 29.095892199999998,
+    "longitude": 79.5233812,
+    "place_id": "ChIJfzT7DHmGoDkReO6aG6HrXKc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfzT7DHmGoDkReO6aG6HrXKc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:41:40"
+  }
+]

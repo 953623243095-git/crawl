@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHILLY BAR",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "263156",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Rampur Rd, Dahariya, Haldwani, Dewarchaur Kham, Uttarakhand 263139",
+    "area": "Dahariya",
+    "latitude": 29.1966112,
+    "longitude": 79.51178349999999,
+    "place_id": "ChIJjfXmc9CboDkRdZgsQehUr5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjfXmc9CboDkRdZgsQehUr5w",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:59:38"
+  },
+  {
+    "business_name": "POP UP BAR",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "263156",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Kamalwaganja Rd, Shiv Puram Phase -I, Himmatpur Malla, Haldwani, Himmatpur Talla, Uttarakhand 263139",
+    "area": "Shiv Puram Phase -I, Himmatpur Malla",
+    "latitude": 29.219265099999998,
+    "longitude": 79.4930428,
+    "place_id": "ChIJRcE8O1iboDkRP9x5Da6M0mY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRcE8O1iboDkRP9x5Da6M0mY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:59:38"
+  }
+]

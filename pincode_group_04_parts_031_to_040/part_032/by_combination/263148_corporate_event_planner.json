@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vibe connect",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "263148",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "53/2 54/2, Adarsh Colony, Rudrapur, Jagatpura, Uttarakhand 263153",
+    "area": "Adarsh Colony",
+    "latitude": 28.9776031,
+    "longitude": 79.3924918,
+    "place_id": "ChIJXQ56Sqx_oDkRblunjC8pdMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXQ56Sqx_oDkRblunjC8pdMI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:49:52"
+  },
+  {
+    "business_name": "Himalaya event management company",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "263148",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Uttrakhand, Uttarakhand 263153",
+    "area": "263148",
+    "latitude": 29.0087308,
+    "longitude": 79.391605,
+    "place_id": "ChIJfWeowhyBoDkRPVODzNb_VUg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfWeowhyBoDkRPVODzNb_VUg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:49:54"
+  }
+]

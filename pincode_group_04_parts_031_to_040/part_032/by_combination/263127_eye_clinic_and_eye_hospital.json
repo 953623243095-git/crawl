@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sight Care Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "263127",
+    "phone_number": "+91 62644 75399",
+    "website": "https://sightcareeyehospital.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "118, Kailash Vihar Main Rd, City Center, Tulsi Vihar Colony, Gwalior, Madhya Pradesh 474002",
+    "area": "City Center, Tulsi Vihar Colony",
+    "latitude": 26.2070403,
+    "longitude": 78.193376,
+    "place_id": "ChIJ13sbmi7EdjkRMKqkI6CrZRU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ13sbmi7EdjkRMKqkI6CrZRU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:27:03"
+  },
+  {
+    "business_name": "Sankara Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Hospital, Private hospital",
+    "pincode": "263127",
+    "phone_number": "+91 73574 44473",
+    "website": "http://www.sankaraeye.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "6, Central Spine Rd, Sector 2, Sector 6, Vidyadhar Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302039",
+    "area": "Sector 2, Sector 6, Vidyadhar Nagar",
+    "latitude": 26.9657476,
+    "longitude": 75.78035679999999,
+    "place_id": "ChIJAR-HBEuybTkRiDRvyY1lWgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAR-HBEuybTkRiDRvyY1lWgw",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:27:03"
+  }
+]

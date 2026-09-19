@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Developers",
+    "search_category": "Property Developers",
+    "primary_category": "Real estate developer",
+    "all_categories": "Real estate developer",
+    "pincode": "262804",
+    "phone_number": "N/A",
+    "website": "https://sites.google.com/view/guptadevelopers/home",
+    "rating": null,
+    "reviews_count": null,
+    "address": "City park Colony, Mohammadi, Alinagar, Uttar Pradesh 262804",
+    "area": "262804",
+    "latitude": 27.9367552,
+    "longitude": 80.2276727,
+    "place_id": "ChIJbWRSoe0NnzkRrcCaWsBsNbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbWRSoe0NnzkRrcCaWsBsNbY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:07:18"
+  },
+  {
+    "business_name": "Chhaturi",
+    "search_category": "Property Developers",
+    "primary_category": "Housing development",
+    "all_categories": "Housing development",
+    "pincode": "262804",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "W8MJ+PWR, Bahadaur Gang, Uttar Pradesh 262804",
+    "area": "262804",
+    "latitude": 27.9343512,
+    "longitude": 80.3322609,
+    "place_id": "ChIJ74XRSgATnzkRfIYYu_64Dyo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ74XRSgATnzkRfIYYu_64Dyo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:07:18"
+  }
+]

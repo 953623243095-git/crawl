@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arvind Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "262904",
+    "phone_number": "+91 70806 42707",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "J9W, JCFQ, SSB ROAD, Rani Nagar Colony, Uttar Pradesh 262904",
+    "area": "262904",
+    "latitude": 28.6251857,
+    "longitude": 80.4373458,
+    "place_id": "ChIJ95A9ZTzBoTkRnyq9myJdulg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ95A9ZTzBoTkRnyq9myJdulg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:14:59"
+  },
+  {
+    "business_name": "Ashoka Cycles (One Stop Wholesale Shop)",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Childrens Store, Toy store",
+    "pincode": "262904",
+    "phone_number": "+91 89587 15354",
+    "website": "https://www.facebook.com/ashokacycles",
+    "rating": 4.9,
+    "reviews_count": 72,
+    "address": "Ghanta Ghar, Kutubkhana polie chowki, Kutub Khana Rd, Bareilly, Uttar Pradesh 243001",
+    "area": "Gangapur",
+    "latitude": 28.3632238,
+    "longitude": 79.41499209999999,
+    "place_id": "ChIJM5zScwwHoDkRffzEsDXFlNE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM5zScwwHoDkRffzEsDXFlNE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:15:01"
+  }
+]

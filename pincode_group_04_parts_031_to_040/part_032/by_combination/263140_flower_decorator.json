@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Eco Business",
+    "search_category": "Flower Decorator",
+    "primary_category": "Wholesale plant nursery",
+    "all_categories": "Wholesale plant nursery, Farm, Florist, Gardener, Landscaper",
+    "pincode": "263140",
+    "phone_number": "+91 80778 69641",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Kamaluwaganja Road, Bhagwanpur Vichla, Haldwani, Bharatpurno2, Uttarakhand 263139",
+    "area": "Bhagwanpur Vichla",
+    "latitude": 29.212311,
+    "longitude": 79.4581003,
+    "place_id": "ChIJpz9YcQOdoDkRAV0KvDzhS90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpz9YcQOdoDkRAV0KvDzhS90",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:44:11"
+  },
+  {
+    "business_name": "Pawan Khadh Bhander",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "263140",
+    "phone_number": "+91 79832 89634",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Main, Market, Bail Parao, Uttarakhand 263140",
+    "area": "263140",
+    "latitude": 29.3099629,
+    "longitude": 79.2050672,
+    "place_id": "ChIJNcFVsTBzCjkRgg2YM9CBrQo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNcFVsTBzCjkRgg2YM9CBrQo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:44:12"
+  }
+]

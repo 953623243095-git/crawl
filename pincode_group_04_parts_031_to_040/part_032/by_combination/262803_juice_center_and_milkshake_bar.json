@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mustafa Juice Center",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "262803",
+    "phone_number": "+91 91670 36919",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop No 3, Raughunath Dadaji St, Borabazar Precinct, Fort, Mumbai, Maharashtra 400001",
+    "area": "Borabazar Precinct, Fort",
+    "latitude": 18.9358046,
+    "longitude": 72.8340714,
+    "place_id": "ChIJx2U8i9vR5zsRFzfIV6bPCMY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx2U8i9vR5zsRFzfIV6bPCMY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:04:25"
+  },
+  {
+    "business_name": "Super Juice And Shake",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "262803",
+    "phone_number": "+91 72358 58242",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Road, Mohanpuri Colony, Susuwahi, Varanasi, Uttar Pradesh 221005",
+    "area": "Mohanpuri Colony, Susuwahi",
+    "latitude": 25.264861999999997,
+    "longitude": 82.9816881,
+    "place_id": "ChIJNaR84EYzjjkRT90CHO7Od3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNaR84EYzjjkRT90CHO7Od3I",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:04:25"
+  }
+]

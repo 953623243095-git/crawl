@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Smart Hair Saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "262802",
+    "phone_number": "+91 95545 57974",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Cinema Road, near V Bazaar, Ahmad Nagar, Gola, Uttar Pradesh 262802",
+    "area": "262802",
+    "latitude": 28.0781116,
+    "longitude": 80.4774831,
+    "place_id": "ChIJLQXiFG1DnzkRDT1D0ZimadI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLQXiFG1DnzkRDT1D0ZimadI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:03:25"
+  },
+  {
+    "business_name": "Chand Jents Parlour",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hair salon",
+    "pincode": "262802",
+    "phone_number": "+91 83186 97119",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Mohammadi Road Doctor ghir Dharilal, 21, Munnu Ganj, Gola, Uttar Pradesh, 262802",
+    "area": "Munnu Ganj",
+    "latitude": 28.076963499999998,
+    "longitude": 80.46790229999999,
+    "place_id": "ChIJkQNJN8xDnzkRZ3FdNTL475I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkQNJN8xDnzkRZ3FdNTL475I",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:03:27"
+  }
+]

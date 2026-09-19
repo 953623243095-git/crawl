@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MOHD SAKIB",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "262801",
+    "phone_number": "+91 93353 62905",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MAIN BAZAR, INDIAN BANK ROAD, Khanjanpur, Kukra, Uttar Pradesh 262801",
+    "area": "Khanjanpur",
+    "latitude": 28.1951167,
+    "longitude": 80.44808479999999,
+    "place_id": "ChIJVV-FNn9nnzkRkY_LieVzoXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVV-FNn9nnzkRkY_LieVzoXM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:01:08"
+  },
+  {
+    "business_name": "Imtiyaz Governments Shop",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "262801",
+    "phone_number": "+91 80814 32484",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "00, Palia Kalan, Uttar Pradesh 262902",
+    "area": "262801",
+    "latitude": 28.428026,
+    "longitude": 80.5802923,
+    "place_id": "ChIJyWXjFA_joTkRP9VcH7dZDTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyWXjFA_joTkRP9VcH7dZDTU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:01:08"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HAMDARD DIALYSIS",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center, Diagnostic center, Dietitian, Doctor, Internist, Medical Center, Medical clinic, Nephrologist, Specialized clinic",
+    "pincode": "263142",
+    "phone_number": "+91 78638 41059",
+    "website": "https://hamdarddialysis.com/",
+    "rating": 5,
+    "reviews_count": 59,
+    "address": "Hamdard Dialysis Sanjivni hospital, Plot No 284, Sector 6, Pocket 5, Jasola Vihar, New Delhi, Delhi 110025",
+    "area": "Sector 6, Pocket 5, Jasola Vihar",
+    "latitude": 28.544379,
+    "longitude": 77.295465,
+    "place_id": "ChIJrUF5xMThDDkRQTeg-jcC4yc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrUF5xMThDDkRQTeg-jcC4yc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:45:28"
+  },
+  {
+    "business_name": "Nephrine Kidney Care & Dialysis Centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "263142",
+    "phone_number": "+91 11 4100 9286",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 9,
+    "address": "H2, Hauz Khas Rd, Hauz Khas Market Rd, opp. Nili Masjid Road, Block H, Hauz Khas, New Delhi, Delhi 110016",
+    "area": "Block H, Hauz Khas",
+    "latitude": 28.553633299999998,
+    "longitude": 77.2063095,
+    "place_id": "ChIJH95ZnIodDTkRG2HaK0WNG7M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH95ZnIodDTkRG2HaK0WNG7M",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:45:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mobile World",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store",
+    "pincode": "263132",
+    "phone_number": "+91 74340 41292",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lucky Mobile Wholesale, Main Market, near by Konark Hotel, Bara Bazar, Mallital, Nainital, Uttarakhand 263001",
+    "area": "Bara Bazar, Mallital",
+    "latitude": 29.3921933,
+    "longitude": 79.451893,
+    "place_id": "ChIJ1ftndJChoDkRkTNr9oSIwaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1ftndJChoDkRkTNr9oSIwaE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:31:35"
+  },
+  {
+    "business_name": "Nokia Service Center",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Electronics repair shop",
+    "pincode": "263132",
+    "phone_number": "+91 98370 38268",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 165,
+    "address": "Tikonia Churaha, Haldwani, Uttarakhand 263139",
+    "area": "Tikonia Churaha",
+    "latitude": 29.223372599999998,
+    "longitude": 79.5302171,
+    "place_id": "ChIJa8q38O6aoDkRM9T2x8exBtw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa8q38O6aoDkRM9T2x8exBtw",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:31:36"
+  }
+]

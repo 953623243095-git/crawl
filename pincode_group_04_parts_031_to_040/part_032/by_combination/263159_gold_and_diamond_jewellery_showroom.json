@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pashupatti Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Jewelry designer, Jewelry repair service",
+    "pincode": "263159",
+    "phone_number": "+91 82660 12200",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nanda Lane, TP Nagar, Ramnagar, Uttarakhand 244715",
+    "area": "TP Nagar",
+    "latitude": 29.392931599999997,
+    "longitude": 79.1285151,
+    "place_id": "ChIJgz-EOZETCjkRvXw4l1UuXEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgz-EOZETCjkRvXw4l1UuXEE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:05:11"
+  },
+  {
+    "business_name": "Shree Balaji Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "263159",
+    "phone_number": "+91 98374 16166",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Jwala Lane, TP Nagar, Ramnagar, Uttarakhand 244715",
+    "area": "TP Nagar",
+    "latitude": 29.393679199999998,
+    "longitude": 79.1277219,
+    "place_id": "ChIJcdc8C00TCjkR0k8RFZ5p-C4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcdc8C00TCjkR0k8RFZ5p-C4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:05:14"
+  }
+]

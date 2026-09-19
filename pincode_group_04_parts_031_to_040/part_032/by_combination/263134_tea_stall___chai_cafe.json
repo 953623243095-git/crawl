@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohna Da Ki chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "263134",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M6M5+9Q3, Dabhara Rd, Srinagar, Quairala, Uttarakhand 263667",
+    "area": "Srinagar",
+    "latitude": 29.683383799999998,
+    "longitude": 79.20941739999999,
+    "place_id": "ChIJp66qUwADCjkRQIHKMT7HE8s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp66qUwADCjkRQIHKMT7HE8s",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:32:11"
+  },
+  {
+    "business_name": "The Wall Street Cafe & Restaurant",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Cafe",
+    "pincode": "263134",
+    "phone_number": "+91 63982 55976",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "The Wall Street Cafe, Bhowali - Bhimtal Rd, Bhowali, Sukha, Uttarakhand 263132",
+    "area": "Bhowali",
+    "latitude": 29.3802871,
+    "longitude": 79.5191822,
+    "place_id": "ChIJ7fAmkg-joDkR5Ap35iUKhuo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7fAmkg-joDkR5Ap35iUKhuo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:32:14"
+  }
+]

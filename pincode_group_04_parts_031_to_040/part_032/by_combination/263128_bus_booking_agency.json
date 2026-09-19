@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hill Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Sightseeing Tour Operator, Taxi service, Tour agency, Tour operator, Tourist attraction, Tourist information center, Transportation service",
+    "pincode": "263128",
+    "phone_number": "+91 75055 07875",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Manas Vihar, Kathgharia, Bithoria No. 2, Paniyali, Haldwani, Uttarakhand 263139",
+    "area": "Kathgharia, Bithoria No. 2",
+    "latitude": 29.2435084,
+    "longitude": 79.4884869,
+    "place_id": "ChIJxdh9WZOboDkRfP7EZ6lB_E8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxdh9WZOboDkRfP7EZ6lB_E8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:29:05"
+  },
+  {
+    "business_name": "Office-Shubhyatra Sriyanksha Private Limited",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "263128",
+    "phone_number": "+91 84454 24309",
+    "website": "https://subhyatrasriyanksha.com/",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "Krishna Colony Rd, Chouraha, Rampur, Mukhani, Haldwani, Uttarakhand 263139",
+    "area": "Chouraha, Rampur",
+    "latitude": 29.2174375,
+    "longitude": 79.5183125,
+    "place_id": "ChIJ5QXzlt6boDkR2Ld02dtER8Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5QXzlt6boDkR2Ld02dtER8Y",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:29:08"
+  }
+]

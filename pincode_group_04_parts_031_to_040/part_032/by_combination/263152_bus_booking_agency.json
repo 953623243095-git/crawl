@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHEEMA TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Airline ticket agency",
+    "all_categories": "Airline ticket agency",
+    "pincode": "263152",
+    "phone_number": "+91 95284 03703",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gaba Chowk, near Lahoria Motors, Dashmesh Nagar, Rudrapur, Jagatpura, Uttarakhand 263153",
+    "area": "Dashmesh Nagar",
+    "latitude": 28.973909799999998,
+    "longitude": 79.3860527,
+    "place_id": "ChIJ9e7wwQt_oDkRuavMDM1NIyo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9e7wwQt_oDkRuavMDM1NIyo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:56:27"
+  },
+  {
+    "business_name": "GAIN COMPUTERS, DTDC Courier Services",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Airline ticket agency, Money transfer service, Railway Ticket Agent",
+    "pincode": "263152",
+    "phone_number": "+91 89378 66284",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "near SBI Branch Dineshpur, Dineshpur, Uttarakhand 263160",
+    "area": "263152",
+    "latitude": 29.0498223,
+    "longitude": 79.3200574,
+    "place_id": "ChIJ7W0Gyb1_CjkRedMB9lNSBBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7W0Gyb1_CjkRedMB9lNSBBU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:56:28"
+  }
+]

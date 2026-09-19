@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rinku's Bawarchi",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant, Fast food restaurant",
+    "pincode": "263139",
+    "phone_number": "+91 98975 62213",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Arjun Complex, Kaladhungi Rd, Ganesh Vihar, Heera Nagar, Haldwani, Uttarakhand 263139",
+    "area": "Ganesh Vihar, Heera Nagar",
+    "latitude": 29.2186241,
+    "longitude": 79.51556599999999,
+    "place_id": "ChIJ8zsY4uGaoDkRnhUvMqmu5zM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8zsY4uGaoDkRnhUvMqmu5zM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:41:26"
+  },
+  {
+    "business_name": "The Oriental Pavillion",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Pan-Asian restaurant",
+    "all_categories": "Pan-Asian restaurant",
+    "pincode": "263139",
+    "phone_number": "N/A",
+    "website": "https://www.itchotels.com/in/en/fortunewalkwaymall-haldwani",
+    "rating": 4.5,
+    "reviews_count": 17,
+    "address": "3rd floor, Fortune Walkway Mall, Bareilly - Nainital Rd, Bhotia Parao, Haldwani, Uttarakhand 263126",
+    "area": "Bhotia Parao",
+    "latitude": 29.2455179,
+    "longitude": 79.535805,
+    "place_id": "ChIJ04YOLVaboDkRrXZoy2z1cdc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ04YOLVaboDkRrXZoy2z1cdc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:41:26"
+  }
+]

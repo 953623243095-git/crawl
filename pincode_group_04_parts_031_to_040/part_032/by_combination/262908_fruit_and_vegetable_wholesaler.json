@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "O S Fruits",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Produce market",
+    "all_categories": "Produce market",
+    "pincode": "262908",
+    "phone_number": "+91 98730 56794",
+    "website": "https://www.osfruits.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "D-11, opposite Vishal Mega Mart, Chhatarpur Enclave Phase 2, Chattarpur Enclave, Chhatarpur, New Delhi, Delhi 110074",
+    "area": "Chhatarpur Enclave Phase 2, Chattarpur Enclave, Chhatarpur",
+    "latitude": 28.501806799999997,
+    "longitude": 77.187944,
+    "place_id": "ChIJWXSAdCgfDTkRiVR8Q2XT0Zc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWXSAdCgfDTkRiVR8Q2XT0Zc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:21:02"
+  },
+  {
+    "business_name": "Pramukh Foods",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "262908",
+    "phone_number": "+91 72270 70148",
+    "website": "http://www.pramukhfoods.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SHED NO 39, Raghuvir industrial estate, Dibiyapur, Vatva, Ahmedabad, Gujarat 382445",
+    "area": "Dibiyapur, Vatva",
+    "latitude": 22.9591617,
+    "longitude": 72.62779909999999,
+    "place_id": "ChIJff4SJUqDXjkRQl0QpJH5U-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJff4SJUqDXjkRQl0QpJH5U-o",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:21:05"
+  }
+]

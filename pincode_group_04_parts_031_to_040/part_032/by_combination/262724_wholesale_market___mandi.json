@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kapda Mandi",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "262724",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 55,
+    "address": "HM9H+RP7, Nai Basti, Sitapur, Uttar Pradesh 261001",
+    "area": "Nai Basti",
+    "latitude": 27.5695335,
+    "longitude": 80.67928669999999,
+    "place_id": "ChIJzS1hfH_XnjkR4lPi-TIv6f0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzS1hfH_XnjkR4lPi-TIv6f0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:53:59"
+  },
+  {
+    "business_name": "Sitapur Mandi",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Produce market",
+    "all_categories": "Produce market",
+    "pincode": "262724",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 855,
+    "address": "HMH6+MC5, Tareenpur Rd, Munshigunj, Sitapur, Uttar Pradesh 261001",
+    "area": "Munshigunj",
+    "latitude": 27.5680156,
+    "longitude": 80.6789519,
+    "place_id": "ChIJJcrHD57NoTkR635ghG1yXeI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJcrHD57NoTkR635ghG1yXeI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:53:59"
+  }
+]

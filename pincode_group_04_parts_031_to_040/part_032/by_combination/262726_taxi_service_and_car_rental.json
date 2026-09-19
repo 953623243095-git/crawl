@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cab service mumbai",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service",
+    "pincode": "262726",
+    "phone_number": "+91 97694 96984",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Balaji Arcade, 110B, Swami Vivekanand Rd, Kandivali, Jethava Nagar, Kandivali West, Mumbai, Maharashtra 400067",
+    "area": "Kandivali, Jethava Nagar, Kandivali West",
+    "latitude": 19.201614199999998,
+    "longitude": 72.84944879999999,
+    "place_id": "ChIJ0-Ja5KLJ5zsRKsoPWUBH0GI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0-Ja5KLJ5zsRKsoPWUBH0GI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:56:24"
+  },
+  {
+    "business_name": "Mumbai Airport Taxi",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Car rental agency",
+    "pincode": "262726",
+    "phone_number": "+91 96995 17981",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Nehru Chawl, Pipe Line, Sanjay Nager, Marol, Andheri East, Mumbai, Maharashtra 400102",
+    "area": "Sanjay Nager, Marol, Andheri East",
+    "latitude": 19.1486943,
+    "longitude": 72.83605949999999,
+    "place_id": "ChIJf5mTcBa35zsRCrH8YYNCd28",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf5mTcBa35zsRCrH8YYNCd28",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:56:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Movex Warehousing Pvt Ltd",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "263139",
+    "phone_number": "+91 90151 76971",
+    "website": "https://www.movexwarehousing.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "19th floor, SVH Metro Street 83, 1915, Dwarka Expressway, Sector 83, Gurugram, Haryana 122004",
+    "area": "Sector 83",
+    "latitude": 28.4033512,
+    "longitude": 76.9733305,
+    "place_id": "ChIJxWMfAlc9DTkRLZbKp3ZYHB8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxWMfAlc9DTkRLZbKp3ZYHB8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:42:53"
+  },
+  {
+    "business_name": "Hari Krishna Mini Mart & Beauty Parlour",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Grocery delivery service",
+    "all_categories": "Grocery delivery service",
+    "pincode": "263139",
+    "phone_number": "+91 75790 07026",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 12,
+    "address": "Kishnapur Sakuliya Motahaldu, Haldwani, Uttarakhand 263139",
+    "area": "263139",
+    "latitude": 29.138137699999998,
+    "longitude": 79.5268114,
+    "place_id": "ChIJF1itHqWFoDkRsyO5EfLoV44",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF1itHqWFoDkRsyO5EfLoV44",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:42:56"
+  }
+]

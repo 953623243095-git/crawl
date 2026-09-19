@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Allure Thai Spa & Wellness",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Day spa, Facial spa, Massage spa, Thai massage therapist",
+    "pincode": "262801",
+    "phone_number": "+91 77770 49450",
+    "website": "https://allurethaispa.in/spa-in-andheri-west/",
+    "rating": 4.9,
+    "reviews_count": 97,
+    "address": "First Floor, Laxmi Business Park, Unit No 142, A Wing, New Link Rd, above Sshri Anugrah Jewels, Laxmi Industrial Estate, Andheri West, Mumbai, Maharashtra 400053",
+    "area": "Laxmi Industrial Estate, Suresh Nagar, Andheri West",
+    "latitude": 19.1361959,
+    "longitude": 72.8307769,
+    "place_id": "ChIJM5W7qFy35zsRUm9TAOgvnfw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM5W7qFy35zsRUm9TAOgvnfw",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:01:45"
+  },
+  {
+    "business_name": "Andheri Massage Center",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "262801",
+    "phone_number": "+91 93268 51244",
+    "website": "https://royalspaandheri.com/",
+    "rating": 4.9,
+    "reviews_count": 262,
+    "address": "Redisson Blue, SN23A, Marol Maroshi Rd, near HOTEL, Gamdevi, Marol, Andheri East, Mumbai, Maharashtra 400059",
+    "area": "Gamdevi, Marol, Andheri East",
+    "latitude": 19.108193099999998,
+    "longitude": 72.8823489,
+    "place_id": "ChIJcc02bFTJ5zsRsmQIwxlo1Hk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcc02bFTJ5zsRsmQIwxlo1Hk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:01:45"
+  }
+]

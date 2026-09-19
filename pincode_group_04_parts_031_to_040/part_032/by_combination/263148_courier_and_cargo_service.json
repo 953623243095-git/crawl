@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bluedart courier express ltd",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "263148",
+    "phone_number": "+91 84750 91858",
+    "website": "https://www.bluedart.com/",
+    "rating": 2.3,
+    "reviews_count": 18,
+    "address": "Kichha - Sitarganj Rd, OPP-AXIS BANK, Sitarganj, Baheri, Uttarakhand 263148",
+    "area": "OPP-AXIS BANK",
+    "latitude": 28.8731543,
+    "longitude": 79.59071089999999,
+    "place_id": "ChIJK836vMdloDkR7YttkcebLlk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK836vMdloDkR7YttkcebLlk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:50:08"
+  },
+  {
+    "business_name": "DTDC",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, Logistics service",
+    "pincode": "263148",
+    "phone_number": "+91 83848 95685",
+    "website": "https://www.dtdc.in/tracking/shipment-tracking.asp",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "GAD complex, near vishal megamart, rudrapur, Sutuiya, Uttarakhand 263153",
+    "area": "263148",
+    "latitude": 28.8653999,
+    "longitude": 79.5162789,
+    "place_id": "ChIJzeg8Lwp_oDkRc6DFsbegYD0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzeg8Lwp_oDkRc6DFsbegYD0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:50:08"
+  }
+]

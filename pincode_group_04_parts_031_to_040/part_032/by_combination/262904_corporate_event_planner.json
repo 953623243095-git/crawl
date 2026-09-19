@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivam Tent House",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "262904",
+    "phone_number": "+91 87388 33500",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mill Road, Sampurna Nagar, Singahi Khurd, Uttar Pradesh 262904",
+    "area": "262904",
+    "latitude": 28.5969318,
+    "longitude": 80.40570009999999,
+    "place_id": "ChIJSVHUsgvDoTkRq_q-m5UkawA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSVHUsgvDoTkRq_q-m5UkawA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:15:30"
+  },
+  {
+    "business_name": "Shukla Fartilizer",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Medical Book Store",
+    "pincode": "262904",
+    "phone_number": "+91 99184 78745",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shukla Fartilizer Paduwa Road Village Paduwa, Post, Trikolia, Uttar Pradesh 262902",
+    "area": "262904",
+    "latitude": 28.473501499999998,
+    "longitude": 80.4885231,
+    "place_id": "ChIJ9zfU2WxfnzkRA_G0xsoR4YM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9zfU2WxfnzkRA_G0xsoR4YM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:15:30"
+  }
+]

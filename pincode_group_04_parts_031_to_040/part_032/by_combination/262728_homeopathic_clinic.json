@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Narayan Homeo Pharma Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "262728",
+    "phone_number": "+91 91401 03791",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ramapur, Kheri, Uttar Pradesh 262701",
+    "area": "262728",
+    "latitude": 27.921409999999998,
+    "longitude": 80.82164949999999,
+    "place_id": "ChIJrTKFrFHLmDkRHVl3XcpguGU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrTKFrFHLmDkRHVl3XcpguGU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:59:35"
+  },
+  {
+    "business_name": "Homeopathic Family Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "262728",
+    "phone_number": "+91 63885 72788",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chakeri Ward, Kanpur, Uttar Pradesh 208007",
+    "area": "Chakeri Ward",
+    "latitude": 26.3942707,
+    "longitude": 80.41389939999999,
+    "place_id": "ChIJ1c7775xBnDkRWhpvJOVpLCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1c7775xBnDkRWhpvJOVpLCk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:59:35"
+  }
+]

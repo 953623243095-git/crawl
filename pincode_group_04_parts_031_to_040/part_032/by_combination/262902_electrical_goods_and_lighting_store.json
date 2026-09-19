@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mishra Electronic",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "262902",
+    "phone_number": "+91 99196 00242",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "45, Singahi Bhiraura, Uttar Pradesh 262905",
+    "area": "Main Bazar",
+    "latitude": 28.3116333,
+    "longitude": 80.8987345,
+    "place_id": "ChIJR5du9GWrmDkRse2r7-WgMXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR5du9GWrmDkRse2r7-WgMXY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:11:42"
+  },
+  {
+    "business_name": "Lalit Electricals And Computers",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "262902",
+    "phone_number": "+91 83184 86538",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Palia - Nighasan Rd, Nighasan, Uttar Pradesh 262903",
+    "area": "262902",
+    "latitude": 28.233971399999998,
+    "longitude": 80.8587304,
+    "place_id": "ChIJ-dPAVm2tmDkRQpxDmMXxBi4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-dPAVm2tmDkRQpxDmMXxBi4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:11:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bardia Eco-Friendly Homestay",
+    "search_category": "Resort",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house, Cottage, Tour operator",
+    "pincode": "262906",
+    "phone_number": "N/A",
+    "website": "https://bardiaecofriendlyhomestay.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Thakudwara, Lumbini Province 21800, Nepal",
+    "area": "262906",
+    "latitude": 28.4358814,
+    "longitude": 81.2400799,
+    "place_id": "ChIJKTdJaM11ojkRWcYA0nQ_F1I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKTdJaM11ojkRWcYA0nQ_F1I",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:18:43"
+  },
+  {
+    "business_name": "Burhan Wilderness Camps",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Bed & breakfast, Bird watching area, Campground, Hotel, Lodge, National park, Nature preserve, Travel agency, Wildlife and safari park",
+    "pincode": "262906",
+    "phone_number": "N/A",
+    "website": "https://burhancamps.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Kailashi, Lumbini Province 21800, Nepal",
+    "area": "262906",
+    "latitude": 28.4077241,
+    "longitude": 81.2126122,
+    "place_id": "ChIJI3_bk-iBmDkRtpNNuN12aAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI3_bk-iBmDkRtpNNuN12aAI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:18:43"
+  }
+]

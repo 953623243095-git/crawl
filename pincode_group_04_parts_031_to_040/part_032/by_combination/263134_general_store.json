@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Negi Janral Stor",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "263134",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Betalghat Chapar Chapar, Uttarakhand 263134",
+    "area": "263134",
+    "latitude": 29.558034199999998,
+    "longitude": 79.3402308,
+    "place_id": "ChIJ-2HMgUQHCjkRtJCPGj9MD-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-2HMgUQHCjkRtJCPGj9MD-g",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:32:08"
+  },
+  {
+    "business_name": "राजू पंत जनरल स्टोर",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "263134",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Betalghat, Ghoria Halson, Uttarakhand 263134",
+    "area": "263134",
+    "latitude": 29.555954699999997,
+    "longitude": 79.34340019999999,
+    "place_id": "ChIJbRnj1dEHCjkRHau3Ud53RzY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbRnj1dEHCjkRHau3Ud53RzY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:32:09"
+  }
+]

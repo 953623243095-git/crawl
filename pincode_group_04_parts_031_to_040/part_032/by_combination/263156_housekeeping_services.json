@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The cliff house on the ridge",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "263156",
+    "phone_number": "+91 88593 83202",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 72,
+    "address": "p.o, Vill-Dulai, bhowali, Ghorakhal, Uttarakhand 263132",
+    "area": "bhowali",
+    "latitude": 29.374968499999998,
+    "longitude": 79.5419735,
+    "place_id": "ChIJkyVEc5eZoDkRa9mKsCcFkbQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkyVEc5eZoDkRa9mKsCcFkbQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:00:51"
+  },
+  {
+    "business_name": "Handy Hands Cleaning Solutions",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Service establishment",
+    "pincode": "263156",
+    "phone_number": "N/A",
+    "website": "https://handycleaningsolutions.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Handy Hands Cleaning Solutions, 263156, India",
+    "area": "263156",
+    "latitude": 33.5241466,
+    "longitude": -84.226353,
+    "place_id": "ChIJY4bUPOxuqYMRxjRvrSl1bOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY4bUPOxuqYMRxjRvrSl1bOI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:00:53"
+  }
+]

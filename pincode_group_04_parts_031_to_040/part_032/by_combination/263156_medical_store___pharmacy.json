@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wellcare pharma",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Delivery service, Drug store, Health food store, Herbal medicine store, Medical supply store, Pharmaceutical Products Wholesaler, Veterinary pharmacy, Vitamin & supplements store",
+    "pincode": "263156",
+    "phone_number": "+91 99380 14142",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "392/1091, Lewis Rd, beside Goutam Filling Station, BJB Nagar, Bhubaneswar, Odisha 751014",
+    "area": "BJB Nagar",
+    "latitude": 20.249604299999998,
+    "longitude": 85.84132919999999,
+    "place_id": "ChIJGScSAVKnGToRkhHe3iC3otU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGScSAVKnGToRkhHe3iC3otU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:59:47"
+  },
+  {
+    "business_name": "Amit Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "263156",
+    "phone_number": "+91 99366 93227",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "P3QV+XR6, station road uttri, Pura, Uttar Pradesh 209210",
+    "area": "263156",
+    "latitude": 26.7399068,
+    "longitude": 80.09451349999999,
+    "place_id": "ChIJTdpdRKzUnTkRIeYIDPOUMyI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTdpdRKzUnTkRIeYIDPOUMyI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:59:47"
+  }
+]

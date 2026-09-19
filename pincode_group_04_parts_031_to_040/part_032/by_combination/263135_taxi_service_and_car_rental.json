@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Annu Taxi service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "263135",
+    "phone_number": "+91 97561 09579",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "road, Chhtota, Uttarakhand 263138",
+    "area": "263135",
+    "latitude": 29.497165799999998,
+    "longitude": 79.636608,
+    "place_id": "ChIJxRf_Gqi7oDkReKIA_s-Qoqw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxRf_Gqi7oDkReKIA_s-Qoqw",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:34:31"
+  },
+  {
+    "business_name": "Devbhoomi taxi- kainchi dham",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Car rental agency, Hotel, Sightseeing Tour Operator, Sport tour agency, Tour agency, Tour operator",
+    "pincode": "263135",
+    "phone_number": "+91 79003 10318",
+    "website": "https://devbhoomitaxi.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Garam pani, near MITS Common Service, Garam Pani, Khairna, Chhara, Uttarakhand 263135",
+    "area": "Khairna",
+    "latitude": 29.483240499999997,
+    "longitude": 79.47830069999999,
+    "place_id": "ChIJXYEEVquloDkRvamTqSLasto",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXYEEVquloDkRvamTqSLasto",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:34:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tabreaj Khan Ice cream factory",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "262805",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XGG5+H8W, Rampur, Uttar Pradesh 262805",
+    "area": "262805",
+    "latitude": 27.976480499999997,
+    "longitude": 80.5083293,
+    "place_id": "ChIJW94GcwBBnzkRm-W4uC3M-Po",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW94GcwBBnzkRm-W4uC3M-Po",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:07:49"
+  },
+  {
+    "business_name": "Alice in Gelatoland",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "262805",
+    "phone_number": "+91 96194 34981",
+    "website": "https://www.instagram.com/aliceingelatoland_official/?hl=en",
+    "rating": 4.5,
+    "reviews_count": 606,
+    "address": "Shop No 5, Sai Elegance, Mahakali Caves Rd, near Mc Donald's, next to Belgian Waffle, Subhash Nagar, Andheri East, Mumbai, Maharashtra 400093",
+    "area": "Subhash Nagar, Andheri East",
+    "latitude": 19.122694199999998,
+    "longitude": 72.86429849999999,
+    "place_id": "ChIJEZMuuefJ5zsRMIieB82lwtc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEZMuuefJ5zsRMIieB82lwtc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:07:49"
+  }
+]

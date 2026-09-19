@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "World advertising",
+    "search_category": "Media and Event",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop",
+    "pincode": "263153",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1.7,
+    "reviews_count": null,
+    "address": "Rudrapur, Uttarakhand 263153",
+    "area": "263153",
+    "latitude": 28.977486,
+    "longitude": 79.3988179,
+    "place_id": "ChIJZf9t-hF_oDkRo_TsfZVUTIQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZf9t-hF_oDkRo_TsfZVUTIQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:58:41"
+  },
+  {
+    "business_name": "Shine media solution",
+    "search_category": "Media and Event",
+    "primary_category": "Digital printing service",
+    "all_categories": "Digital printing service",
+    "pincode": "263153",
+    "phone_number": "+91 79006 00080",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Location, Kichha Bypass Rd, near Shani Mandir, Rudrapur, Uttarakhand 263153",
+    "area": "263153",
+    "latitude": 28.9725444,
+    "longitude": 79.4108431,
+    "place_id": "ChIJZexaUiB_oDkR36dEvsFBFzM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZexaUiB_oDkR36dEvsFBFzM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:58:43"
+  }
+]

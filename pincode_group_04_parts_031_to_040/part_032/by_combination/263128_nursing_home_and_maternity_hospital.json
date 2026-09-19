@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dindigul Hospital Supplier",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store, Dollar store, Health and beauty shop, Hospital department, Oxygen equipment supplier, Patients support association, Surgical Products Wholesaler",
+    "pincode": "263128",
+    "phone_number": "+91 96003 77788",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "86 B&C, Annamalaiyar School Rd, near TSA MEDICAL, Dindigul, Tamil Nadu 624003",
+    "area": "263128",
+    "latitude": 10.3546316,
+    "longitude": 77.97740979999999,
+    "place_id": "ChIJn-sdrlaqADsRmxgPHQr0mMQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn-sdrlaqADsRmxgPHQr0mMQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:28:53"
+  },
+  {
+    "business_name": "Lake Town Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Nursing home",
+    "all_categories": "Nursing home, Hospital",
+    "pincode": "263128",
+    "phone_number": "+91 74399 72347",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 252,
+    "address": "224, Lake Town Rd, Block B, Sreebhumi, Lake Town, South Dumdum, West Bengal 700089",
+    "area": "Block B, Sreebhumi, Lake Town",
+    "latitude": 22.6015283,
+    "longitude": 88.4056312,
+    "place_id": "ChIJAQAAAP11AjoRWbbt6_pdLag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAP11AjoRWbbt6_pdLag",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:28:54"
+  }
+]

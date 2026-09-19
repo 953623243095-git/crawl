@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Medicine Store",
+    "search_category": "Wellness Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "263137",
+    "phone_number": "+91 97593 65999",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhowali, Sukha, Bhawanipur, Uttarakhand 263132",
+    "area": "Bhowali",
+    "latitude": 29.386008,
+    "longitude": 79.5145395,
+    "place_id": "ChIJD8MHTX2ioDkRvMofNGEueP4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD8MHTX2ioDkRvMofNGEueP4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:38:40"
+  },
+  {
+    "business_name": "Aan Singh market ramghar road",
+    "search_category": "Wellness Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "263137",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Aan Singh Market, Bhowali-Ramgarh-Mukteshwar Rd, Bhowali, Sukha, Uttarakhand 263132",
+    "area": "Bhowali",
+    "latitude": 29.3829098,
+    "longitude": 79.52149279999999,
+    "place_id": "ChIJA8YIZgCjoDkRGwVspH-Hvjk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA8YIZgCjoDkRGwVspH-Hvjk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:38:42"
+  }
+]

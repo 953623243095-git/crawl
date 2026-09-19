@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MyBeautician.in",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Beautician",
+    "pincode": "263128",
+    "phone_number": "+91 88593 64058",
+    "website": "https://mybeautician.in/",
+    "rating": 5,
+    "reviews_count": 18,
+    "address": "Sirari Bhawan, Chaufula Chauraha, near H Kitchen Chaufula, Shiv Puri, Haldwani, Uttarakhand 263139",
+    "area": "Shiv Puri",
+    "latitude": 29.2378659,
+    "longitude": 79.5141323,
+    "place_id": "ChIJ7xCRTN2doDkR8266YJqLGDs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7xCRTN2doDkR8266YJqLGDs",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:29:18"
+  },
+  {
+    "business_name": "Naini Beauty Center and cloak room service",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "263128",
+    "phone_number": "+91 94111 97605",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "84/4, Tallital, Nainital, Uttarakhand 263001",
+    "area": "Tallital",
+    "latitude": 29.3801879,
+    "longitude": 79.463961,
+    "place_id": "ChIJ-6LgU1uhoDkRl3U-pVBm2h8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-6LgU1uhoDkRl3U-pVBm2h8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:29:21"
+  }
+]

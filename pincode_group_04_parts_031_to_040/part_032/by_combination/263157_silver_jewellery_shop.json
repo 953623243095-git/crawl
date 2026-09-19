@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Sanjay Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "263157",
+    "phone_number": "+91 95488 30777",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Saket Coloney Ward, 02, Naukuchiatal Rd, Daat, Bhimtal, Harinagar Chanddeva, Uttarakhand 263136",
+    "area": "Daat",
+    "latitude": 29.3442495,
+    "longitude": 79.5634816,
+    "place_id": "ChIJS1EbJSeYoDkRDbK1py6C_-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS1EbJSeYoDkRDbK1py6C_-I",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:01:31"
+  },
+  {
+    "business_name": "Tirupati Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler, Jewelry store, Wholesale jeweler",
+    "pincode": "263157",
+    "phone_number": "+91 97607 77220",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 118,
+    "address": "Shambhu Dayal Chauraha, near Chaurassi Ghanta Mandir, Sadar Bazar, Bijnor, Uttar Pradesh 246701",
+    "area": "Sadar Bazar",
+    "latitude": 29.3721601,
+    "longitude": 78.13547989999999,
+    "place_id": "ChIJB1z-5ATvCzkRfIMa7mOdCYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB1z-5ATvCzkRfIMa7mOdCYk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:01:32"
+  }
+]

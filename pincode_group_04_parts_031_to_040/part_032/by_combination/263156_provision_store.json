@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aashirwad retail shop",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "263156",
+    "phone_number": "+91 75007 65838",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Dhanachuli - Kutani Rd, Kutani, Bhimtal, Mahargaon, Uttarakhand 263136",
+    "area": "Kutani",
+    "latitude": 29.366061799999997,
+    "longitude": 79.5532284,
+    "place_id": "ChIJ2VHWHKeZoDkRF0dgPI1tJso",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2VHWHKeZoDkRF0dgPI1tJso",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:59:23"
+  },
+  {
+    "business_name": "Manshi General Store And Jalpan Garh",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "263156",
+    "phone_number": "+91 94107 32995",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "9GHV+HWG Temple, near Ghorakhal, Bhowali, Sukha, Mahargaon, Uttarakhand 263156",
+    "area": "Bhowali",
+    "latitude": 29.378941299999997,
+    "longitude": 79.54482039999999,
+    "place_id": "ChIJQY6FeqqjoDkR-s4fdK_guMQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQY6FeqqjoDkR-s4fdK_guMQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:59:26"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Own Journey",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Service establishment",
+    "pincode": "262728",
+    "phone_number": "+91 81685 41096",
+    "website": "http://myownjourney.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "My Own Journey, 262728, India",
+    "area": "262728",
+    "latitude": 28.1990804,
+    "longitude": 76.40102929999999,
+    "place_id": "ChIJ31bi57EMYggRD5JBgHFREFE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ31bi57EMYggRD5JBgHFREFE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:59:49"
+  },
+  {
+    "business_name": "YOGI TRAVELS",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "262728",
+    "phone_number": "+91 96946 70318",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Dr, nr. Meena makan ke piche, Saloda, Gangapur, Rajasthan 322201",
+    "area": "Saloda",
+    "latitude": 26.4871025,
+    "longitude": 76.74870469999999,
+    "place_id": "ChIJKyW1wDX1cTkR_mDwKvO7dps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKyW1wDX1cTkR_mDwKvO7dps",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:59:51"
+  }
+]

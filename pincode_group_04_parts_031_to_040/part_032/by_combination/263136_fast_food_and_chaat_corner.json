@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Food Lover's Cafe",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Cafe",
+    "pincode": "263136",
+    "phone_number": "+91 88590 80503",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Jagdamba nagar Old chuna bhatti, Bhotiya, Parao, Haldwani, Uttarakhand 263139",
+    "area": "Bhotiya, Parao",
+    "latitude": 29.229696599999997,
+    "longitude": 79.5289366,
+    "place_id": "ChIJgRIArh6boDkRE5RdYbOOqjk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgRIArh6boDkRE5RdYbOOqjk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:35:57"
+  },
+  {
+    "business_name": "Maggi Point",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "263136",
+    "phone_number": "+91 94101 17564",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "GJFP+979, Kumati, Uttarakhand 263138",
+    "area": "263136",
+    "latitude": 29.5234249,
+    "longitude": 79.63573079999999,
+    "place_id": "ChIJIVxCa_y7oDkRDwRT9DqVO64",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIVxCa_y7oDkRDwRT9DqVO64",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:35:57"
+  }
+]

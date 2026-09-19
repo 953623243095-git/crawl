@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "All star driving school",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "262728",
+    "phone_number": "+91 70047 51223",
+    "website": "http://www.allstardriving.com/",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "Harlakhi, Bihar 847240",
+    "area": "262728",
+    "latitude": 26.6398038,
+    "longitude": 85.9840268,
+    "place_id": "ChIJ1eWe5hg57DkR3J9kA0R-IMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1eWe5hg57DkR3J9kA0R-IMI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:59:52"
+  },
+  {
+    "business_name": "Chohan Motor Driving School",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school, Drivers license training school, Driving test center, School",
+    "pincode": "262728",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 332,
+    "address": "Shop No. 9, Nehru Rd, next to Upadhyay Cycle Mart, CHS, Navpada, Vile Parle East, Vile Parle, Mumbai, Maharashtra 400057",
+    "area": "CHS, Navpada, Vile Parle East, Vile Parle",
+    "latitude": 19.098175599999998,
+    "longitude": 72.8457091,
+    "place_id": "ChIJ7QY-GbPJ5zsRW-0-Ppzos3k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7QY-GbPJ5zsRW-0-Ppzos3k",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:59:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Garg Agency",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "262906",
+    "phone_number": "+91 96480 30808",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Station Rd, Suthana Barsola, Kolluri, Uttar Pradesh 262906",
+    "area": "262906",
+    "latitude": 28.377732199999997,
+    "longitude": 80.9786641,
+    "place_id": "ChIJ5a3uCwoHojkRf8j6jLieMyE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5a3uCwoHojkRf8j6jLieMyE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:18:34"
+  },
+  {
+    "business_name": "Idrishi cosmatics shop",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Beauty product supplier",
+    "all_categories": "Beauty product supplier",
+    "pincode": "262906",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gulariya Patthar Shah, Uttar Pradesh 262906",
+    "area": "262906",
+    "latitude": 28.419957099999998,
+    "longitude": 80.9371208,
+    "place_id": "ChIJB5C9bJsHojkRyA53wflxhoc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB5C9bJsHojkRyA53wflxhoc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:18:34"
+  }
+]

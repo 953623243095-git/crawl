@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ambition Furniture Mall",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store, Furniture accessories",
+    "pincode": "263139",
+    "phone_number": "+91 93191 64365",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "First Floor, Truvic Home Designer Pvt. Limited, Ambition Furniture Mall, Teen Pani, Bareilly - Nainital Rd, Haldwani, Uttarakhand 263139",
+    "area": "Transport Nagar",
+    "latitude": 29.180520899999998,
+    "longitude": 79.51954289999999,
+    "place_id": "ChIJP2cJ3RKFoDkRu19gBS2vjjw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP2cJ3RKFoDkRu19gBS2vjjw",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:42:12"
+  },
+  {
+    "business_name": "Martolia Furniture Haldwani",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "263139",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Pilikothi Rd, Badi Mukhani, Pilikothi, Haldwani, Mukhani, Uttarakhand 263139",
+    "area": "Badi Mukhani, Pilikothi",
+    "latitude": 29.211703699999997,
+    "longitude": 79.50626,
+    "place_id": "ChIJczfQZQCboDkRCQS6aLdAm0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJczfQZQCboDkRCQS6aLdAm0Y",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 07:42:12"
+  }
+]
