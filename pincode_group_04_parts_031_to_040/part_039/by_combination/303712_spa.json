@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Marcus Bath",
+    "search_category": "Spa",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Bathroom supply store, Hot tub store, Sauna store, Swimming pool",
+    "pincode": "303712",
+    "phone_number": "+91 95994 59779",
+    "website": "https://marcusbath.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Khasra No 144, near Om green Farm, Sikandrapur, Sahibabad, Sikanderpur, Ghaziabad, Uttar Pradesh 201006",
+    "area": "Sikandrapur, Sahibabad",
+    "latitude": 28.7035768,
+    "longitude": 77.3437376,
+    "place_id": "ChIJLZoztlj7DDkRl5Tk5jtpJio",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLZoztlj7DDkRl5Tk5jtpJio",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:35:08"
+  },
+  {
+    "business_name": "Ceeyak",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa, Massage therapist, Spa, Thai massage therapist",
+    "pincode": "303712",
+    "phone_number": "+91 63787 11629",
+    "website": "https://www.thegoldenoaks.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "2nd floor, Ceeyak Mansion, pillar no. 100, near Vivek Vihar Metro Station Shyam Nagar, Sodala, Jaipur, Rajasthan 302019",
+    "area": "Sodala",
+    "latitude": 26.8921358,
+    "longitude": 75.76910269999999,
+    "place_id": "ChIJv_07Mym1bTkRaIH3HJdwXjg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv_07Mym1bTkRaIH3HJdwXjg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:35:08"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pink Star Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "303604",
+    "phone_number": "+91 82909 02526",
+    "website": "https://pinkstarhospital.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "5,6, Hanuman city, opposite New Haveli Hotel, Manyawas, Mansarovar extension, Jaipur, Rajasthan 302020",
+    "area": "Manyawas, Mansarovar extension",
+    "latitude": 26.863290799999998,
+    "longitude": 75.74115309999999,
+    "place_id": "ChIJhYPPOwC1bTkRMIxPT2rznM0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhYPPOwC1bTkRMIxPT2rznM0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:25:18"
+  },
+  {
+    "business_name": "Nivik Neuro Trauma & Multispeciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Diagnostic center, Hospital department, Private hospital",
+    "pincode": "303604",
+    "phone_number": "+91 96029 94307",
+    "website": "https://www.nivikhospital.com/",
+    "rating": 4.7,
+    "reviews_count": 1386,
+    "address": "Uday Nagar B, Metro Station, PN. 9, opposite Pillar No.1, Manyawas, Mohru Nagar, Mansarovar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302020",
+    "area": "Manyawas, Mohru Nagar, Mansarovar",
+    "latitude": 26.878926999999997,
+    "longitude": 75.74476849999999,
+    "place_id": "ChIJizbmxF21bTkRG6Df6IL-skc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJizbmxF21bTkRG6Df6IL-skc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:25:19"
+  }
+]

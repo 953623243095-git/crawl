@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FreeCog Cycling Store (FCC Racing)",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle rental service, Bicycle wholesaler, Used bicycle shop",
+    "pincode": "303805",
+    "phone_number": "+91 82099 38356",
+    "website": "http://www.fccracing.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "behind Manipal Hospital, Sector 8, Sector 5, Vidyadhar Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302039",
+    "area": "Sector 8, Sector 5, Vidyadhar Nagar",
+    "latitude": 26.959324,
+    "longitude": 75.78941499999999,
+    "place_id": "ChIJOzg7qlizbTkRWfgOeQiVEB0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOzg7qlizbTkRWfgOeQiVEB0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:42:13"
+  },
+  {
+    "business_name": "Krishna Cycles",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Store",
+    "pincode": "303805",
+    "phone_number": "+91 89552 30499",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Sita Ram Mandir K Pass Jodhla Power House, Road No. 14, Jaipur, Rajasthan 302013",
+    "area": "Harmada",
+    "latitude": 27.002295999999998,
+    "longitude": 75.7705003,
+    "place_id": "ChIJ85xSpHSzbTkRIYrlXUnUay0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ85xSpHSzbTkRIYrlXUnUay0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:42:13"
+  }
+]

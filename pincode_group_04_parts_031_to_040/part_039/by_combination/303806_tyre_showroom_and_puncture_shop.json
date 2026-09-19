@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bihar Tyre Shop",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "303806",
+    "phone_number": "+91 73398 49853",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Main Market, Balochi, Jaipur, Bilaunchi, Rajasthan 303805",
+    "area": "Main Market, Balochi",
+    "latitude": 27.1383698,
+    "longitude": 75.8604289,
+    "place_id": "ChIJJ-sqwBipbTkRJWRRBTb6TLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ-sqwBipbTkRJWRRBTb6TLs",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:44:08"
+  },
+  {
+    "business_name": "K D TYRES",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop, Auto repair shop",
+    "pincode": "303806",
+    "phone_number": "+91 98293 71482",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chomu road, near SBI Bank, Chandwaji, Rajasthan 303104",
+    "area": "303806",
+    "latitude": 27.2212489,
+    "longitude": 75.9444451,
+    "place_id": "ChIJEUBCHAAJbTkRcNeaMYwedhE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEUBCHAAJbTkRcNeaMYwedhE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:44:10"
+  }
+]

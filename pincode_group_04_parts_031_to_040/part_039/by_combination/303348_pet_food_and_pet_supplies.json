@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pet Shoppe",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store, Pet groomer, Store",
+    "pincode": "303348",
+    "phone_number": "+91 99280 59594",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "B-6, Amrapali Marg, Amrapali Circle, Vaishali Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "Amrapali Circle, Vaishali Nagar",
+    "latitude": 26.9114348,
+    "longitude": 75.7446088,
+    "place_id": "ChIJAQAAQJy0bTkRg0mtcLC8Uow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAQJy0bTkRg0mtcLC8Uow",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 05:58:10"
+  },
+  {
+    "business_name": "RDW (ROYAL DOG WORLD)",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "303348",
+    "phone_number": "+91 82094 94156",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Shop No 12, Hare Krishna Marg, Shiv Shakti Nagar, Model Town, Jagatpura, Jaipur, Rajasthan 302017",
+    "area": "Shiv Shakti Nagar, Model Town, Jagatpura",
+    "latitude": 26.8397056,
+    "longitude": 75.8329256,
+    "place_id": "ChIJzywf4yK2bTkRrGAOQAzdXlo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzywf4yK2bTkRrGAOQAzdXlo",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 05:58:12"
+  }
+]

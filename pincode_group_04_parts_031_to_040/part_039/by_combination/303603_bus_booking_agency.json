@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "बाघावास मोड़ बस स्टैंड",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "303603",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "5F43+6VC, Road, opposite Bright carrer sen sec school, Renwal, Jaipur, Rajasthan 303603",
+    "area": "303603",
+    "latitude": 27.155570299999997,
+    "longitude": 75.4546397,
+    "place_id": "ChIJw3aE3YFZbDkRFs9ztChY6wE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw3aE3YFZbDkRFs9ztChY6wE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:23:42"
+  },
+  {
+    "business_name": "Sewar Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "303603",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "48Q8+723, Naya Bas, Naya Baas, Rajasthan 341507",
+    "area": "303603",
+    "latitude": 27.1381399,
+    "longitude": 75.3150501,
+    "place_id": "ChIJzcd2RABhbDkRp-yGqqd8ZhU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzcd2RABhbDkRp-yGqqd8ZhU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:23:44"
+  }
+]

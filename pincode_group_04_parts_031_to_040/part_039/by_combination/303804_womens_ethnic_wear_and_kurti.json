@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Karaj Jaipur Store",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "303804",
+    "phone_number": "+91 97733 86470",
+    "website": "https://www.karajjaipur.com/",
+    "rating": 2.6,
+    "reviews_count": null,
+    "address": "Basement, Building Gap store, Plot. 177/178, Amrapali Marg, near iconic showroom, Rathore Nagar, D - Block, Hanuman Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "Rathore Nagar, D - Block, Hanuman Nagar",
+    "latitude": 26.9116628,
+    "longitude": 75.7509127,
+    "place_id": "ChIJnxL0fQW1bTkRVnpEirgzFxM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnxL0fQW1bTkRVnpEirgzFxM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:39:56"
+  },
+  {
+    "business_name": "Jaipur Morni",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Clothing manufacturer",
+    "all_categories": "Clothing manufacturer",
+    "pincode": "303804",
+    "phone_number": "+91 91169 30540",
+    "website": "http://jaipurmorni.com/",
+    "rating": 3.2,
+    "reviews_count": 10,
+    "address": "Hans Vihar, RIICO Industrial Area, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Hans Vihar, RIICO Industrial Area, Mansarovar",
+    "latitude": 26.831824299999997,
+    "longitude": 75.77639769999999,
+    "place_id": "ChIJ07J46la3bTkRX6ULNRGllNQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ07J46la3bTkRX6ULNRGllNQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:39:58"
+  }
+]

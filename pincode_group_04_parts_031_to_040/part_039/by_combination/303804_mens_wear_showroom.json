@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SR COLLECTION SAMOD",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "303804",
+    "phone_number": "+91 82337 53706",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "6R26+VV4, Samod, Rajasthan 303806",
+    "area": "303804",
+    "latitude": 27.202148599999997,
+    "longitude": 75.8121887,
+    "place_id": "ChIJIbI1WAAHbTkRabNFpQgn6z8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIbI1WAAHbTkRabNFpQgn6z8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:39:56"
+  },
+  {
+    "business_name": "Stardom Clothing Tigariya",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "303804",
+    "phone_number": "+91 77424 44746",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Tigariya, Rajasthan 303804",
+    "area": "303804",
+    "latitude": 27.2833109,
+    "longitude": 75.7727979,
+    "place_id": "ChIJX38QawABbTkRvsHB6Omg7ds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX38QawABbTkRvsHB6Omg7ds",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:39:56"
+  }
+]

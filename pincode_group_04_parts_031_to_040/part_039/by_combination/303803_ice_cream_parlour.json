@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VISHAL ICECREAM FACTORY",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "303803",
+    "phone_number": "+91 98292 00453",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9H9J+JGP, Sikar Rd, Dheerajpura, Rngus, Rajasthan 332404",
+    "area": "303803",
+    "latitude": 27.369104399999998,
+    "longitude": 75.5812813,
+    "place_id": "ChIJezqgRgDlbDkR6P5RNhySbnA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJezqgRgDlbDkR6P5RNhySbnA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:38:02"
+  },
+  {
+    "business_name": "Crazy Foods",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Cafe, Coffee shop",
+    "pincode": "303803",
+    "phone_number": "+91 93525 20180",
+    "website": "https://wa.me/918949984996",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "buy pass, NH 52, near Galaxy Institute, Jaipur, Reengus, Rajasthan 332404",
+    "area": "303803",
+    "latitude": 27.3724588,
+    "longitude": 75.5777347,
+    "place_id": "ChIJrVnrdm7lbDkRxnfdl16KKJo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrVnrdm7lbDkRxnfdl16KKJo",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:38:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hospitality Consulting Services",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Service establishment",
+    "pincode": "303706",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hospitality Consulting Services, 303706, India",
+    "area": "303706",
+    "latitude": 41.703293599999995,
+    "longitude": -87.9357745,
+    "place_id": "ChIJlW_dwIltD4gRwZ-9KjcxSIE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlW_dwIltD4gRwZ-9KjcxSIE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:33:25"
+  },
+  {
+    "business_name": "Chef Hospitality Service",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Breakfast restaurant",
+    "pincode": "303706",
+    "phone_number": "+91 96942 15653",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Apna Angan, 3, Sirsi - Hanuman Nagar Rd, Hanuman Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302041",
+    "area": "Hanuman Nagar",
+    "latitude": 26.9304985,
+    "longitude": 75.6920226,
+    "place_id": "ChIJB2Wm8r9MbDkRRXF87Un2oxM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB2Wm8r9MbDkRRXF87Un2oxM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:33:27"
+  }
+]

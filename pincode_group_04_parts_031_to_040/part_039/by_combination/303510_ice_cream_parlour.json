@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tesla Fast Food Cold drinks",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "303510",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "J7C9+364, Ramgarh Pachwara, Amarabad, Rajasthan 303510",
+    "area": "303510",
+    "latitude": 26.6202975,
+    "longitude": 76.2678376,
+    "place_id": "ChIJY3bEIwDlbTkRFHo7vlpbwGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY3bEIwDlbTkRFHo7vlpbwGY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:16:00"
+  },
+  {
+    "business_name": "Sanwasa Wala",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "303510",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 240,
+    "address": "Lalsot, Rajasthan 303503",
+    "area": "303510",
+    "latitude": 26.5613463,
+    "longitude": 76.3279515,
+    "place_id": "ChIJ0XKoEFL8bTkR6ZABeCkc2pQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0XKoEFL8bTkR6ZABeCkc2pQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:16:01"
+  }
+]

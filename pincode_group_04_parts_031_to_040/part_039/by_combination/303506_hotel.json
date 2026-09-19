@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HOTAL S. DREAM & RESTAURANT",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Restaurant",
+    "pincode": "303506",
+    "phone_number": "+91 99825 43233",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "collectorate railway puliya, Agra-Jaipur Rd, se aage, nh21, jaipur, Dausa, Rajasthan 303303",
+    "area": "se aage, nh21",
+    "latitude": 26.9149988,
+    "longitude": 76.3459984,
+    "place_id": "ChIJ6XdRxL2NbTkR3NLm__IV3m8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6XdRxL2NbTkR3NLm__IV3m8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:09:50"
+  },
+  {
+    "business_name": "Hotel Dausa Place",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "303506",
+    "phone_number": "+91 97856 17619",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 8,
+    "address": "Sainthal Rd, Ayodhya Nagar, Mod, Madhuvan Vihar Colony, Dausa, Dausa Rural, Rajasthan 303303",
+    "area": "Ayodhya Nagar, Mod, Madhuvan Vihar Colony",
+    "latitude": 26.905148,
+    "longitude": 76.3187057,
+    "place_id": "ChIJfWOiQUuNbTkRogPO-o1nnLg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfWOiQUuNbTkRogPO-o1nnLg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:09:50"
+  }
+]

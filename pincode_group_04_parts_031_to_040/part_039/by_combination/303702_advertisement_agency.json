@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhagwati Advertising",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Graphic designer",
+    "all_categories": "Graphic designer, Invitation printing service, Interior designer",
+    "pincode": "303702",
+    "phone_number": "+91 87419 17297",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dholi mandi, near Jindal Agency, Khadi Bagh, Chomu, Rajasthan 303702",
+    "area": "Khadi Bagh",
+    "latitude": 27.1652685,
+    "longitude": 75.7174095,
+    "place_id": "ChIJi_mDSAurbTkRpNGVOJiLA20",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi_mDSAurbTkRpNGVOJiLA20",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:30:15"
+  },
+  {
+    "business_name": "Arun publicity",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "303702",
+    "phone_number": "+91 93090 82759",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "A-2 Balaji vihar-6 prem nagar near rampura, Sikar Rd, Jaipur, Rajasthan 303704",
+    "area": "303702",
+    "latitude": 27.104051899999998,
+    "longitude": 75.77261709999999,
+    "place_id": "ChIJ3wJO6pGrbTkRAkwDwubRjDs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3wJO6pGrbTkRAkwDwubRjDs",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:30:16"
+  }
+]

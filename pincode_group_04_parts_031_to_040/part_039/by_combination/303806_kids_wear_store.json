@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wearhouse",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "303806",
+    "phone_number": "+91 99291 08785",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 77,
+    "address": "2, 366, near Axis Bank, Raja Park, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302004",
+    "area": "Raja Park",
+    "latitude": 26.8951621,
+    "longitude": 75.82786639999999,
+    "place_id": "ChIJH0qV8ZS2bTkRXl5-fVUI3sw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH0qV8ZS2bTkRXl5-fVUI3sw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:43:47"
+  },
+  {
+    "business_name": "The Little Trunk",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby clothing store",
+    "all_categories": "Baby clothing store",
+    "pincode": "303806",
+    "phone_number": "+91 97993 99809",
+    "website": "https://thelittletrunk.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "G-108, Hans Vihar, RIICO Industrial Area, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Hans Vihar, RIICO Industrial Area, Mansarovar",
+    "latitude": 26.8327061,
+    "longitude": 75.7763099,
+    "place_id": "ChIJh8EIFOdsdIAR7cR1vfgMNUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh8EIFOdsdIAR7cR1vfgMNUk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:43:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Diagnostic centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Laboratory",
+    "all_categories": "Laboratory",
+    "pincode": "303508",
+    "phone_number": "+91 99290 38458",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "XH2H+995, RJ SH 25, Sikandra, Rajasthan 303326",
+    "area": "303508",
+    "latitude": 26.950887899999998,
+    "longitude": 76.5784779,
+    "place_id": "ChIJP0G1JABzcjkR2QtKG2HLWVQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP0G1JABzcjkR2QtKG2HLWVQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:12:51"
+  },
+  {
+    "business_name": "Shree Shyam Diagnostic centre Sikandra",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical diagnostic imaging center",
+    "all_categories": "Medical diagnostic imaging center",
+    "pincode": "303508",
+    "phone_number": "+91 99290 38458",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XH2H+FC5, RJ SH 25, Sikandra, Rajasthan 303326",
+    "area": "303508",
+    "latitude": 26.9511421,
+    "longitude": 76.57860869999999,
+    "place_id": "ChIJT2I5NFtzcjkRDcpcGmvqHJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT2I5NFtzcjkRDcpcGmvqHJg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:12:51"
+  }
+]

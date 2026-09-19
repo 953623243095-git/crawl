@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Darwin Pet Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "303704",
+    "phone_number": "+91 94615 96439",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "B-24, Shyam Vihar Extension, Harmada, Jaipur, Jaipur Greater (M Corp.) (Part), Rajasthan 302013",
+    "area": "Shyam Vihar Extension, Harmada",
+    "latitude": 27.008440999999998,
+    "longitude": 75.7634143,
+    "place_id": "ChIJM4Cnx2WtbTkR2tVm686Fl7A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM4Cnx2WtbTkR2tVm686Fl7A",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:30:57"
+  },
+  {
+    "business_name": "The Animals World Pet Shop & Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "303704",
+    "phone_number": "+91 88243 19180",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sikar Rd, Rajawas, Jaipur, Rajasthan 302048",
+    "area": "303704",
+    "latitude": 27.0651893,
+    "longitude": 75.7506748,
+    "place_id": "ChIJUa_EXwCtbTkRx8CjniRaUhM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUa_EXwCtbTkRx8CjniRaUhM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:30:57"
+  }
+]

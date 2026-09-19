@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Triveni Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "303601",
+    "phone_number": "+91 75686 97882",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 46,
+    "address": "Ajeetgarh, Road, opposite Panchayat Samiti, Shahpura, Rajasthan 303103",
+    "area": "303601",
+    "latitude": 27.3934997,
+    "longitude": 75.94378619999999,
+    "place_id": "ChIJM_2fW3cPbTkR2IWP5EFvVEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM_2fW3cPbTkR2IWP5EFvVEw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:19:45"
+  },
+  {
+    "business_name": "Triveni eye hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "303601",
+    "phone_number": "+91 99295 15347",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 44,
+    "address": "near, bus stand, Neemka thana road, Ajeetgarh, Rajasthan 332701",
+    "area": "303601",
+    "latitude": 27.425011599999998,
+    "longitude": 75.8184533,
+    "place_id": "ChIJcwzztj0bbTkRfIHcuSChOnQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcwzztj0bbTkRfIHcuSChOnQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:19:45"
+  }
+]

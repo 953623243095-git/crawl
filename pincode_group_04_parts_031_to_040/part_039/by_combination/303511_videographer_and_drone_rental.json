@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gadget Rental India",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Business center",
+    "all_categories": "Business center, Movie rental store",
+    "pincode": "303511",
+    "phone_number": "+91 99156 36434",
+    "website": "https://gadgetrentalindia.com/",
+    "rating": 4.9,
+    "reviews_count": 233,
+    "address": "Plot No. A-28 (J, Phase 7, Industrial Area, Sector 73, Sahibzada Ajit Singh Nagar, Punjab 160055",
+    "area": "Phase 7, Industrial Area, Sector 73",
+    "latitude": 30.714691,
+    "longitude": 76.7039442,
+    "place_id": "ChIJRb_Z5S7vDzkRX1PTR8L6738",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRb_Z5S7vDzkRX1PTR8L6738",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:18:39"
+  },
+  {
+    "business_name": "RAYNAS TECH",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Videographer and Drone Rental",
+    "all_categories": "Videographer and Drone Rental",
+    "pincode": "303511",
+    "phone_number": "+91 96367 23732",
+    "website": "http://raynastech.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "M-32 Basement, Abul Fazal Enclave Part 2, Jamia Nagar, Okhla, New Delhi, Delhi 110025",
+    "area": "Abul Fazal Enclave Part 2, Jamia Nagar, Okhla",
+    "latitude": 28.553852799999998,
+    "longitude": 77.295553,
+    "place_id": "ChIJu5giUQ7kDDkRqs2y6VBSeI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu5giUQ7kDDkRqs2y6VBSeI8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:18:39"
+  }
+]

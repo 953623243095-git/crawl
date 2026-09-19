@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Welcome Chat Bhandar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "303509",
+    "phone_number": "+91 99887 79092",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 17,
+    "address": "HRPW+CMG, Bhagat Singh Nagar, Sheikhpur Khurd, Dera Bassi, Punjab 140507",
+    "area": "Bhagat Singh Nagar",
+    "latitude": 30.586070499999998,
+    "longitude": 76.8466897,
+    "place_id": "ChIJ76qK0OC_DzkRC_V2RsZJf0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ76qK0OC_DzkRC_V2RsZJf0Y",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:14:19"
+  },
+  {
+    "business_name": "CHATORA CHAAT POINT",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "303509",
+    "phone_number": "+91 97563 34467",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 47,
+    "address": "Shiv Kunj Colony, Tehri Nagar, Ajabpur Khurd, Haridwar, Jwalapur, Uttarakhand 248121",
+    "area": "Shiv Kunj Colony, Tehri Nagar, Ajabpur Khurd",
+    "latitude": 30.285671999999998,
+    "longitude": 78.0391406,
+    "place_id": "ChIJicQGC_opCTkRnxUnVwQ4Y9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJicQGC_opCTkRnxUnVwQ4Y9M",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:14:19"
+  }
+]

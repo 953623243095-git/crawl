@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The brother's Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "303506",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "V8XJ+VX6, Mariyara Wale, Dausa, Rajasthan 303303",
+    "area": "Mariyara Wale",
+    "latitude": 26.8996741,
+    "longitude": 76.3323996,
+    "place_id": "ChIJoRCHcwCNbTkRzjXjIc8Ba74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoRCHcwCNbTkRzjXjIc8Ba74",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:09:00"
+  },
+  {
+    "business_name": "The Coffee Creators",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe",
+    "pincode": "303506",
+    "phone_number": "N/A",
+    "website": "https://thecoffeecreators.com/",
+    "rating": 3.3,
+    "reviews_count": 7,
+    "address": "A26, 27, New Mandi Rd, near Vijayvargiya Loan, Sangam Vihar Colony, Agarsen Colony, Dausa, Rajasthan 303303",
+    "area": "Sangam Vihar Colony, Agarsen Colony",
+    "latitude": 26.896447799999997,
+    "longitude": 76.3239706,
+    "place_id": "ChIJbbrEXWaNbTkRc0EBxrnlzWE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbbrEXWaNbTkRc0EBxrnlzWE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:09:00"
+  }
+]

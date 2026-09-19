@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhinandan Dresses",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "303507",
+    "phone_number": "+91 63676 15005",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pal Wale, Mariyara Wale, Dausa, Rajasthan 303303",
+    "area": "Mariyara Wale",
+    "latitude": 26.8983881,
+    "longitude": 76.3342661,
+    "place_id": "ChIJa90j-8OMbTkR-nOzmj0zj08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa90j-8OMbTkR-nOzmj0zj08",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:10:50"
+  },
+  {
+    "business_name": "Kuldeep Kumar Saini",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "303507",
+    "phone_number": "+91 81048 92325",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "19, Rajasthan 303303",
+    "area": "303507",
+    "latitude": 26.920710399999997,
+    "longitude": 76.3263104,
+    "place_id": "ChIJDU8kg_mMbTkRAAAAMCv2PU8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDU8kg_mMbTkRAAAAMCv2PU8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:10:52"
+  }
+]

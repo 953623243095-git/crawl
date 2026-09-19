@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pratap Sons",
+    "search_category": "Saree Showroom",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "303601",
+    "phone_number": "+91 141 270 6161",
+    "website": "http://www.pratapsonsjaipur.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No-1, Saraogi Mansion, Mirza Ismail Rd, Jaipur, Rajasthan 302015",
+    "area": "Bapu Bazar, Biseswarji",
+    "latitude": 26.915882,
+    "longitude": 75.8222096,
+    "place_id": "ChIJc6QDtZ-2bTkRAUgWF4yvz5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc6QDtZ-2bTkRAUgWF4yvz5w",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:19:34"
+  },
+  {
+    "business_name": "New collection saree center amarsar",
+    "search_category": "Saree Showroom",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "303601",
+    "phone_number": "+91 99290 65733",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pani ki tanki, ke pass, Amarsar, Rajasthan 303601",
+    "area": "303601",
+    "latitude": 27.3726822,
+    "longitude": 75.8303183,
+    "place_id": "ChIJ4aduIwAFbTkRfx4_yNa6680",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4aduIwAFbTkRfx4_yNa6680",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:19:35"
+  }
+]

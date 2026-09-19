@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Krishna Pesticides",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Pest control service",
+    "all_categories": "Pest control service",
+    "pincode": "303701",
+    "phone_number": "+91 141 246 0552",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "A-335 (E1, Rd Number 17, Vishwakarma Industrial Area, Jaipur, Rajasthan 302017",
+    "area": "Vishwakarma Industrial Area",
+    "latitude": 26.9973526,
+    "longitude": 75.7962946,
+    "place_id": "ChIJVVVVVRKybTkRaQI2bZEY9ro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVRKybTkRaQI2bZEY9ro",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:28:23"
+  },
+  {
+    "business_name": "Aeran Khad Beej Bhandar",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Agricultural Seed Store",
+    "all_categories": "Agricultural Seed Store, Fertilizer Store",
+    "pincode": "303701",
+    "phone_number": "+91 1423 450 800",
+    "website": "https://aeranbazaar.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Grain Market, New, Gate, Morija Rd, Chomu, Rajasthan 303702",
+    "area": "303701",
+    "latitude": 27.167026,
+    "longitude": 75.7283702,
+    "place_id": "ChIJN9z19biqbTkRebzI5-JrnEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN9z19biqbTkRebzI5-JrnEE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:28:25"
+  }
+]

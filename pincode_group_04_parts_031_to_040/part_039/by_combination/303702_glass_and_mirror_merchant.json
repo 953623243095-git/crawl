@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agrawal Sales Corporation",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass & mirror shop",
+    "all_categories": "Glass & mirror shop, Hardware store",
+    "pincode": "303702",
+    "phone_number": "+91 93145 16984",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "M.D.G. Market, b-16, Aatish Market Exit, Gangori Bazaar, Tripolia Bazar, Pink City, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302002",
+    "area": "Gangori Bazaar, Tripolia Bazar, Pink City",
+    "latitude": 26.925097599999997,
+    "longitude": 75.8204106,
+    "place_id": "ChIJ4T1vu02xbTkRoUbt51QTZ6I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4T1vu02xbTkRoUbt51QTZ6I",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:29:23"
+  },
+  {
+    "business_name": "AIS Windshield Experts - Chomu",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Auto glass shop",
+    "all_categories": "Auto glass shop",
+    "pincode": "303702",
+    "phone_number": "+91 98188 66364",
+    "website": "https://www.windshieldexperts.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No. 1-2, NH 52, Sikar Rd, near KTL Maruti Showroom Bhojlava, Chomu, Morija, Rajasthan 303805",
+    "area": "303702",
+    "latitude": 27.157776799999997,
+    "longitude": 75.7358751,
+    "place_id": "ChIJcS2mmz2rbTkRwDKY-bZLgFM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcS2mmz2rbTkRwDKY-bZLgFM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:29:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Markt POS",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "303704",
+    "phone_number": "N/A",
+    "website": "https://www.marktpos.com/",
+    "rating": 5,
+    "reviews_count": 61,
+    "address": "Markt POS, 303704, India",
+    "area": "303704",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJow1rBKxXSgcRLynCdUH7f7k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJow1rBKxXSgcRLynCdUH7f7k",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:31:47"
+  },
+  {
+    "business_name": "Digital Retail Systems",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "303704",
+    "phone_number": "N/A",
+    "website": "http://dretailsys.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Digital Retail Systems, 303704, India",
+    "area": "303704",
+    "latitude": 26.949868,
+    "longitude": -81.0159685,
+    "place_id": "ChIJvzIhQuHAwIgR0d0ShKuV2cY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvzIhQuHAwIgR0d0ShKuV2cY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:31:47"
+  }
+]

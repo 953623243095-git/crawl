@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Crazy Coffee | Jawahar Nagar",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "303510",
+    "phone_number": "+91 89054 44299",
+    "website": "https://www.crazycoffeeindia.com/",
+    "rating": 4.4,
+    "reviews_count": 823,
+    "address": "5-Jha-16A, Lane 7, Sector 5, Jawahar Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302004",
+    "area": "Sector 5, Jawahar Nagar",
+    "latitude": 26.888025,
+    "longitude": 75.829475,
+    "place_id": "ChIJr6LlqJK2bTkRoEgZwLcpBQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr6LlqJK2bTkRoEgZwLcpBQc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:16:02"
+  },
+  {
+    "business_name": "Keshav tea shop",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "303510",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "J8VF+F2F, Salempura, Rajasthan 303511",
+    "area": "303510",
+    "latitude": 26.6436952,
+    "longitude": 76.3225449,
+    "place_id": "ChIJg2b7BAD7bTkRIfCHpkU3A-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg2b7BAD7bTkRIfCHpkU3A-M",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:16:02"
+  }
+]

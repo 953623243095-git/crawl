@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MR Dance Studio",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school, Fitness center",
+    "pincode": "303348",
+    "phone_number": "+91 76197 33556",
+    "website": "https://youtube.com/MRDanceStudio",
+    "rating": 4.6,
+    "reviews_count": 33,
+    "address": "MR Dance Studio, Rd Number 6, behind Jagdamba Jwellers, Vishwakarma Industrial Area, Murlipura, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302039",
+    "area": "Vishwakarma Industrial Area, Murlipura",
+    "latitude": 26.9825508,
+    "longitude": 75.7712067,
+    "place_id": "ChIJB2hixMazbTkRexvbE6CceNI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB2hixMazbTkRexvbE6CceNI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 05:59:24"
+  },
+  {
+    "business_name": "TOP STAR DANCE STUDIO",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school",
+    "pincode": "303348",
+    "phone_number": "+91 90791 44674",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 14,
+    "address": "TOP STAR DANCE STUDIO, Rajbeni Nagar, Vishwakarma Industrial Area, Jaipur, Jaipur Greater (M Corp.) (Part), Rajasthan 302013",
+    "area": "Rajbeni Nagar, Vishwakarma Industrial Area",
+    "latitude": 27.0028227,
+    "longitude": 75.7929643,
+    "place_id": "ChIJNWIGDcmzbTkRApYe78GEHCM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNWIGDcmzbTkRApYe78GEHCM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 05:59:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TripsNest Travel Company",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "303801",
+    "phone_number": "+91 96949 04097",
+    "website": "https://tripsnest.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mangalam, Ambition Tower, 701, Agrasen Cir, C Scheme, Ashok Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302001",
+    "area": "C Scheme, Ashok Nagar",
+    "latitude": 26.913141699999997,
+    "longitude": 75.8030033,
+    "place_id": "ChIJb4ZVjCa1bTkRCoH1M-StZC4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb4ZVjCa1bTkRCoH1M-StZC4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:36:40"
+  },
+  {
+    "business_name": "Shri Balaji tour and travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "303801",
+    "phone_number": "+91 94610 98000",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hadrampura, Khejroli, Rajasthan 303803",
+    "area": "Hadrampura",
+    "latitude": 27.334061499999997,
+    "longitude": 75.6965249,
+    "place_id": "ChIJISSutDP9bDkRrf-iHLk9Izk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJISSutDP9bDkRrf-iHLk9Izk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:36:40"
+  }
+]

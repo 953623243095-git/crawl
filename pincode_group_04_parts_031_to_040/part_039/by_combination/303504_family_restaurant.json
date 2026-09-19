@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jay Bajrang hotal and family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "303504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "F9FG+C42, Mahariya, Bilona Kalan, Rajasthan 303503",
+    "area": "303504",
+    "latitude": 26.4733745,
+    "longitude": 76.3751726,
+    "place_id": "ChIJZUM7AAABbjkRSqCd2zAqwfQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZUM7AAABbjkRSqCd2zAqwfQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:05:33"
+  },
+  {
+    "business_name": "बगड़ी स्पेशल कचोरी",
+    "search_category": "Family Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "303504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Rajasthan State Highway 24, Bagdi, Rajasthan 303503",
+    "area": "303504",
+    "latitude": 26.4501714,
+    "longitude": 76.3746621,
+    "place_id": "ChIJwwCjQAABbjkR53urTIm78KE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwwCjQAABbjkR53urTIm78KE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:05:33"
+  }
+]

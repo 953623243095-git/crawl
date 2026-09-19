@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "zen spa",
+    "search_category": "Spa Consultants",
+    "primary_category": "Spa and health club",
+    "all_categories": "Spa and health club",
+    "pincode": "303348",
+    "phone_number": "+91 97842 70607",
+    "website": "https://zenspaonline.com/",
+    "rating": 4.8,
+    "reviews_count": 22,
+    "address": "Walking, A-52, Bus Stand, Station Rd, opposite Metro Station Sindhi Camp, Shri Ram Colony, Sindhi Camp, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302006",
+    "area": "Shri Ram Colony, Sindhi Camp",
+    "latitude": 26.9226451,
+    "longitude": 75.8005948,
+    "place_id": "ChIJWe628GizbTkRsgY-v30SGdE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWe628GizbTkRsgY-v30SGdE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 05:59:10"
+  },
+  {
+    "business_name": "The Heritage Spa",
+    "search_category": "Spa Consultants",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "303348",
+    "phone_number": "+91 63671 30682",
+    "website": "https://polospa.in/",
+    "rating": 4.5,
+    "reviews_count": 84,
+    "address": "D-59, Madho Singh Rd, near by hotel zone, Bani Park, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302016",
+    "area": "Bani Park",
+    "latitude": 26.9318323,
+    "longitude": 75.7940898,
+    "place_id": "ChIJAwBp8123bTkRJ6zIM-BN4uM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAwBp8123bTkRJ6zIM-BN4uM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 05:59:10"
+  }
+]

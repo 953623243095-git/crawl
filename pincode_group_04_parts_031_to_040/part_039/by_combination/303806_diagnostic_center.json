@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree shyam diagnostic centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Blood testing service",
+    "all_categories": "Blood testing service",
+    "pincode": "303806",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dholi Agitharg chomu, road, near by government hospital, Dholi, Rajasthan 303301",
+    "area": "303806",
+    "latitude": 27.2294235,
+    "longitude": 75.8313895,
+    "place_id": "ChIJQTOpE7sHbTkR2nXWgeKBkJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQTOpE7sHbTkR2nXWgeKBkJ8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:44:00"
+  },
+  {
+    "business_name": "Shri Ram diagnostic centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "303806",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7WWW+QCV, Unnamed Road, Manoharpur, Rajasthan 303104",
+    "area": "303806",
+    "latitude": 27.296977499999997,
+    "longitude": 75.9460581,
+    "place_id": "ChIJJUzEP8oJbTkRhTkB1b0ekeQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJUzEP8oJbTkRhTkB1b0ekeQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:44:01"
+  }
+]

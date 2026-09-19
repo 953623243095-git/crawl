@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NILE Hospitality",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant",
+    "pincode": "303502",
+    "phone_number": "+91 98749 39103",
+    "website": "https://nilehospitality.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "CHIRAG COMPLEX, 47, Ganpati Vihar, Pulan, Pulla Bhuwana, Panerion Ki Madri, Udaipur, Udaipur (M Corp.) (Part), Rajasthan 313002",
+    "area": "Pulan, Pulla Bhuwana, Panerion Ki Madri",
+    "latitude": 24.602665599999998,
+    "longitude": 73.7007083,
+    "place_id": "ChIJJa_1fPyBXjkR-fddRwPhnnI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJa_1fPyBXjkR-fddRwPhnnI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:02:54"
+  },
+  {
+    "business_name": "Balaji Hotel And Restaurant",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "303502",
+    "phone_number": "+91 79765 81835",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Giraj Mandir Ke Pass, Dausa, Kherli, Rajasthan 303303",
+    "area": "303502",
+    "latitude": 26.9071049,
+    "longitude": 76.3823484,
+    "place_id": "ChIJpxNOTc6LbTkRwHYkJShb1dA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpxNOTc6LbTkRwHYkJShb1dA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:02:54"
+  }
+]

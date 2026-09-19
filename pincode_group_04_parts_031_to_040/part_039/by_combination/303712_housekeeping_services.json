@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pristine plus cleaning services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Carpet cleaning service, Service establishment, Floor refinishing service, Janitorial service",
+    "pincode": "303712",
+    "phone_number": "N/A",
+    "website": "https://www.pristineplus.net/",
+    "rating": 4.9,
+    "reviews_count": 57,
+    "address": "Pristine plus cleaning services, 303712, India",
+    "area": "303712",
+    "latitude": 37.7331735,
+    "longitude": -121.8614085,
+    "place_id": "ChIJNdmhvgBV0oERWtiKgfm8LcU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNdmhvgBV0oERWtiKgfm8LcU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:35:39"
+  },
+  {
+    "business_name": "Alexandra's Home Cleaning Service",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services, Service establishment",
+    "pincode": "303712",
+    "phone_number": "N/A",
+    "website": "https://www.alexandrashomecleaning.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Alexandra's Home Cleaning Service, 303712, India",
+    "area": "303712",
+    "latitude": 34.710578999999996,
+    "longitude": -92.3761215,
+    "place_id": "ChIJRYuIg18QE4gRBFkl2S6e7HY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRYuIg18QE4gRBFkl2S6e7HY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:35:39"
+  }
+]

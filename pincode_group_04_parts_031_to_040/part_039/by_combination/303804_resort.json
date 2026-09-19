@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vision Clarks Inn, Samode",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "303804",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Chomu Bypass Rd, near Police Station, Samod, Rajasthan 303806",
+    "area": "303804",
+    "latitude": 27.190704699999998,
+    "longitude": 75.797665,
+    "place_id": "ChIJUQAiZAaqbTkRIdNYg1J0KHI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUQAiZAaqbTkRIdNYg1J0KHI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:40:46"
+  },
+  {
+    "business_name": "Aapno Heritage",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "303804",
+    "phone_number": "+91 77920 54700",
+    "website": "http://www.aapnoheritage.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "5RW3+PF4, Vpo-Teh, Jaipur Rd, Shilp Colony, Samod, Rajasthan 303806",
+    "area": "Shilp Colony",
+    "latitude": 27.1968776,
+    "longitude": 75.8038085,
+    "place_id": "ChIJ31ImY6oAbTkR3hg3NCOJNoo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ31ImY6oAbTkR3hg3NCOJNoo",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:40:46"
+  }
+]

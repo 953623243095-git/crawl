@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HDB Financial Services Ltd",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution",
+    "pincode": "303507",
+    "phone_number": "+91 44 4298 4541",
+    "website": "https://www.hdbfs.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "V8XC+9WG, Kherwal Tower, First Floor, Jaipur Road, Near Pannu Petrol Pump, behind Bank Of Baroda, Rajasthan 303303",
+    "area": "Agarsen Colony",
+    "latitude": 26.8984433,
+    "longitude": 76.3223302,
+    "place_id": "ChIJefokkd6MbTkRKXJv9WvAkY8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJefokkd6MbTkRKXJv9WvAkY8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:11:57"
+  },
+  {
+    "business_name": "HDFC Bank",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Bank",
+    "all_categories": "Bank",
+    "pincode": "303507",
+    "phone_number": "+91 1800 1601",
+    "website": "https://www.hdfc.bank.in/branch-locator/rajasthan/dausa/hdfcbank-branch-dausa",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Shri Radhey, Agra Rd, opposite Prabhat Lawn, Saraswati Nagar, Dausa, Rajasthan 303303",
+    "area": "Saraswati Nagar",
+    "latitude": 26.9002663,
+    "longitude": 76.33552639999999,
+    "place_id": "ChIJu1KccMGMbTkR3NR6tkYH9P4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu1KccMGMbTkR3NR6tkYH9P4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:11:57"
+  }
+]

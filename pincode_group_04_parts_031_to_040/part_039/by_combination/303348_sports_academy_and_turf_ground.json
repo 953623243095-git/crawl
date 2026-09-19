@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kodai Box Cricket",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Cricket ground",
+    "all_categories": "Cricket ground, Playground",
+    "pincode": "303348",
+    "phone_number": "+91 99280 74605",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shanti Nagar Rd, Santi Nagar, Narendra Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302019",
+    "area": "Santi Nagar, Narendra Nagar",
+    "latitude": 26.883449499999998,
+    "longitude": 75.7729736,
+    "place_id": "ChIJ4RqMHi61bTkR8HG2P15WlUc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4RqMHi61bTkR8HG2P15WlUc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 05:59:26"
+  },
+  {
+    "business_name": "PlaySpace",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Sports complex",
+    "all_categories": "Sports complex, Cricket ground, Soccer club, Soccer field",
+    "pincode": "303348",
+    "phone_number": "+91 63777 26739",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "C-5 A, Lodha Enclave, Hanuman Marg, opposite Dhanwantri Hospital, Mansarover, Jaipur, Rajasthan 302020",
+    "area": "Mansarover, Mansarovar",
+    "latitude": 26.8544283,
+    "longitude": 75.7550752,
+    "place_id": "ChIJLcMOND-1bTkRrydPsED6gHI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLcMOND-1bTkRrydPsED6gHI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 05:59:26"
+  }
+]

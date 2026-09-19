@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vitromed HEALTHCARE",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Public medical center",
+    "all_categories": "Public medical center",
+    "pincode": "303704",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "QVP2+5PC, Sitapura Industrial Area, Sitapura, Jaipur, Ramchandpura, Rajasthan 303905",
+    "area": "Sitapura Industrial Area, Sitapura",
+    "latitude": 26.785434199999997,
+    "longitude": 75.8517524,
+    "place_id": "ChIJn1x-cgDJbTkRnPI4pLyFNJo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn1x-cgDJbTkRnPI4pLyFNJo",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:30:58"
+  },
+  {
+    "business_name": "Khejri Healthcare Center",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Community health center",
+    "all_categories": "Community health center",
+    "pincode": "303704",
+    "phone_number": "+91 89552 06949",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RVP4+CW8, Tilak vihar Rd, Indira Gandhi Nagar, Ghati Karolan, Jaipur, Rajasthan 302017",
+    "area": "Indira Gandhi Nagar, Ghati Karolan",
+    "latitude": 26.836038,
+    "longitude": 75.8573325,
+    "place_id": "ChIJZW3KkxS3bTkRxU8V_2_sJOw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZW3KkxS3bTkRxU8V_2_sJOw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:31:00"
+  }
+]

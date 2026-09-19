@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "namaste caterers and events",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Catering food and drink supplier, Event management company, Fast food restaurant, Party planner, Wedding planner, Wedding service",
+    "pincode": "303706",
+    "phone_number": "+91 93593 33337",
+    "website": "https://namastecaterers.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Anil Vihar, Plot No. 14, Chopra Farm Rd, Manyawas, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Manyawas, Mansarovar",
+    "latitude": 26.8577332,
+    "longitude": 75.7409282,
+    "place_id": "ChIJA1MyhB61bTkRQeCkg5agnZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA1MyhB61bTkRQeCkg5agnZE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:33:21"
+  },
+  {
+    "business_name": "CHANDRA FOOD CATERERS GODAM",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "303706",
+    "phone_number": "+91 93513 84897",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot no. 242, near Abhishek hotel, balaji vihar, Bindayaka, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302041",
+    "area": "balaji vihar, Bindayaka",
+    "latitude": 26.9298663,
+    "longitude": 75.6438375,
+    "place_id": "ChIJry1vh7FNbDkR2m1pW1jZWIU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJry1vh7FNbDkR2m1pW1jZWIU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:33:21"
+  }
+]

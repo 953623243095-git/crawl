@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hair Haven Unisex Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "303348",
+    "phone_number": "+91 63501 76872",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 38,
+    "address": "127, Kamla Nehru Nagar Rd, Kana Vihar, Jaipur, Rajasthan 302021",
+    "area": "Kana Vihar",
+    "latitude": 26.8831955,
+    "longitude": 75.7157162,
+    "place_id": "ChIJLWWrcFy1bTkRKzXViBmwRdE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLWWrcFy1bTkRKzXViBmwRdE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 05:59:05"
+  },
+  {
+    "business_name": "N'RICH UNISEX SALON",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Barber shop, Beautician, Facial spa, Make-up artist, Stylist, Hairdresser, Waxing hair removal service",
+    "pincode": "303348",
+    "phone_number": "+91 76656 90281",
+    "website": "http://nrichunisexsalon.com/",
+    "rating": 4.8,
+    "reviews_count": 421,
+    "address": "Cross Road Mall, G-54 55, behind monte Carlo, Sector 2, Central Spine, Vidyadhar Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302039",
+    "area": "Sector 2, Central Spine, Vidyadhar Nagar",
+    "latitude": 26.9620541,
+    "longitude": 75.7807349,
+    "place_id": "ChIJAwMrf86zbTkRfQIVWoWLftc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAwMrf86zbTkRfQIVWoWLftc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 05:59:07"
+  }
+]

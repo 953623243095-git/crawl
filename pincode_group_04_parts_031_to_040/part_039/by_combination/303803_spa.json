@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spa center",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "303803",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CRG8+PF, Ajeetgarh, Phootala, Rajasthan 332701",
+    "area": "303803",
+    "latitude": 27.42679,
+    "longitude": 75.72806,
+    "place_id": "ChIJMT9vKwAdbTkR7zpbu8lUQAU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMT9vKwAdbTkR7zpbu8lUQAU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:38:46"
+  },
+  {
+    "business_name": "Royal night spa",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa, Day spa, Massage therapist, Spa, Thai massage therapist",
+    "pincode": "303803",
+    "phone_number": "+91 89493 33619",
+    "website": "https://www.royalmassagespajaipur.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "A-16 vidhyut nagar, Ajmer Rd, near Diamond Tower, near Punjab National Bank, Vaishali Nagar, Jaipur, Rajasthan 302021",
+    "area": "Neelkanth Colony, Vaishali Nagar",
+    "latitude": 26.8988603,
+    "longitude": 75.75668139999999,
+    "place_id": "ChIJBwuPSxxN7mkR6KsZuDm_Si4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBwuPSxxN7mkR6KsZuDm_Si4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:38:49"
+  }
+]

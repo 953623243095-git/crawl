@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Burger farm",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Pizza restaurant",
+    "pincode": "303712",
+    "phone_number": "+91 73000 07063",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "XRV+FM3, opp Jal Mahal palace, Amer Rd, Gujarghati, Parasrampuri, Jaipur, Rajasthan 302002",
+    "area": "Gujarghati, Parasrampuri",
+    "latitude": 26.954006,
+    "longitude": 75.84199389999999,
+    "place_id": "ChIJrYUAGgCxbTkReJOj_-aTN6I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrYUAGgCxbTkReJOj_-aTN6I",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:34:20"
+  },
+  {
+    "business_name": "Nosh 24*7",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Cafe",
+    "pincode": "303712",
+    "phone_number": "+91 92516 67439",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "holiday inn, express and suites, Gopalpura Bypass Rd, Shanthi Nagar, Mansarovar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302019",
+    "area": "Shanthi Nagar, Mansarovar",
+    "latitude": 26.8790585,
+    "longitude": 75.7686367,
+    "place_id": "ChIJP6lRzYS1bTkRD3-76ZMJ0bg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP6lRzYS1bTkRD3-76ZMJ0bg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:34:22"
+  }
+]

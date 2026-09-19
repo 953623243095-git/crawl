@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alankar Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "303807",
+    "phone_number": "+91 70148 39435",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 19,
+    "address": "A-178, 80 Feet Rd, opposite O.P. Jewellers, Mahesh Nagar, Tonk Phatak, Jaipur, Rajasthan 302006",
+    "area": "Mahesh Nagar, Tonk Phatak",
+    "latitude": 26.881167299999998,
+    "longitude": 75.7829831,
+    "place_id": "ChIJs59JSUi0bTkRAJLqcCSzf9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs59JSUi0bTkRAJLqcCSzf9w",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:45:47"
+  },
+  {
+    "business_name": "Shalimar Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "303807",
+    "phone_number": "+91 98293 45777",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 38,
+    "address": "J.171, opp. ayesha masjid, Fateh Tibba, Adarsh Nagar, Jaipur, Rajasthan 302004",
+    "area": "Fateh Tibba, Adarsh Nagar",
+    "latitude": 26.908368,
+    "longitude": 75.82829149999999,
+    "place_id": "ChIJSaajl_q3bTkR_xGrl4opV54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSaajl_q3bTkR_xGrl4opV54",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:45:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahul General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "303505",
+    "phone_number": "+91 63672 02416",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rt567rajb Market, Nichooniya, Singpura, Rajasthan 303505",
+    "area": "303505",
+    "latitude": 26.7379528,
+    "longitude": 76.3981526,
+    "place_id": "ChIJQ33hWcz3bTkRtfOiNldeMpA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ33hWcz3bTkRtfOiNldeMpA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:07:03"
+  },
+  {
+    "business_name": "Mishra provision Store, Sunil Kumar",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "303505",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "PCVC+6RH Mishro ki dhani, Jaun, Rajasthan 303506",
+    "area": "303505",
+    "latitude": 26.7430743,
+    "longitude": 76.42211619999999,
+    "place_id": "ChIJE4kta5T3bTkRyPl0grn8zuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE4kta5T3bTkRyPl0grn8zuU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:07:05"
+  }
+]

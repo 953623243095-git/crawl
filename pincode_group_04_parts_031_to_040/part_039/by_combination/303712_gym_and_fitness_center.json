@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kalyan fitness club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "303712",
+    "phone_number": "+91 96803 72008",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Thakur kalyan singh ji ki dhani, near JNU hospital, Jagatpura, Jaipur, Rajasthan 302017",
+    "area": "Jagatpura",
+    "latitude": 26.8529792,
+    "longitude": 75.8709815,
+    "place_id": "ChIJ95pPwW3JbTkRbvQQn7cPPWY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ95pPwW3JbTkRbvQQn7cPPWY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:34:41"
+  },
+  {
+    "business_name": "REGENERATION Fitness & wellness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "303712",
+    "phone_number": "+91 74108 49919",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 104,
+    "address": "Rathore Tower, 1st & 2nd floor, Gandhi Path Rd, Jaipur, Rajasthan 302021",
+    "area": "Lalarpura",
+    "latitude": 26.900547399999997,
+    "longitude": 75.7054608,
+    "place_id": "ChIJtwEvafdLbDkRdL0EAph6D_k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtwEvafdLbDkRdL0EAph6D_k",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:34:44"
+  }
+]

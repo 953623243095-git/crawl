@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Oil mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Oil refinery",
+    "all_categories": "Oil refinery",
+    "pincode": "303503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "W2J5+533, Sawai Madhopur Rd, Unaira, Uniara, Rajasthan 304024",
+    "area": "303503",
+    "latitude": 25.930391699999998,
+    "longitude": 76.0076699,
+    "place_id": "ChIJZ1bWmBtGbjkRiwX5o6AdcRE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ1bWmBtGbjkRiwX5o6AdcRE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:05:07"
+  },
+  {
+    "business_name": "Ganesh Aata Chakki & Oil Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "303503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "B89-90, RIICO Shopping Complex, Sadar Bazaar, Bhiwadi, Rajasthan 301019",
+    "area": "Sadar Bazaar",
+    "latitude": 28.212750699999997,
+    "longitude": 76.8392956,
+    "place_id": "ChIJlSlxxX43DTkRcN0KD0ZKH1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlSlxxX43DTkRcN0KD0ZKH1M",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:05:08"
+  }
+]

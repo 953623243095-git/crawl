@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Residace",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "303712",
+    "phone_number": "+91 80036 36699",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5HWR+3WC, Kanarpura, Kaladera, Rajasthan 303801",
+    "area": "303712",
+    "latitude": 27.1951844,
+    "longitude": 75.592277,
+    "place_id": "ChIJ1SpPmpT4bDkR3QXmWK_qDu8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1SpPmpT4bDkR3QXmWK_qDu8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:34:33"
+  },
+  {
+    "business_name": "Shree parshuram medicos Khejroli",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Veterinary pharmacy",
+    "all_categories": "Veterinary pharmacy, Auto spring shop",
+    "pincode": "303712",
+    "phone_number": "+91 77280 49782",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7M22+69W, Khejroli, Rajasthan 303803",
+    "area": "303712",
+    "latitude": 27.3237672,
+    "longitude": 75.7085139,
+    "place_id": "ChIJPamf5nP_bDkRa5ISZaOjlts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPamf5nP_bDkRa5ISZaOjlts",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:34:34"
+  }
+]

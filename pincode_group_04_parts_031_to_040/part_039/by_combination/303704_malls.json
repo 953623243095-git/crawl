@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Subechhu",
+    "search_category": "Malls",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler, Baby store, Cookie shop, Water Filter Supplier, Water works",
+    "pincode": "303704",
+    "phone_number": "+91 99826 12125",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "29, 30, near coconut restaurant, Subash Nagar, Shastri Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302016",
+    "area": "Subash Nagar, Shastri Nagar",
+    "latitude": 26.9392765,
+    "longitude": 75.7964611,
+    "place_id": "ChIJXxvzIrOzbTkRo6G42yCvqVM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXxvzIrOzbTkRo6G42yCvqVM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:32:14"
+  },
+  {
+    "business_name": "Agarwal Store",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "303704",
+    "phone_number": "+91 96022 41856",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 16,
+    "address": "Gokul Pura, 302013 22, Kalwar Road, New Karni Colony, Kishan Vatika, Harmada, Jaipur, Jaipur Greater (M Corp.) (Part), Rajasthan 302002",
+    "area": "New Karni Colony, Kishan Vatika, Harmada",
+    "latitude": 27.010630799999998,
+    "longitude": 75.7722118,
+    "place_id": "ChIJZ7AKd4itbTkR9q0BtGy-MdE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ7AKd4itbTkR9q0BtGy-MdE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:32:14"
+  }
+]

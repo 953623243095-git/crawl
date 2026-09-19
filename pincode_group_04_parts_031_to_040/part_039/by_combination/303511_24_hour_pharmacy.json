@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hariom Medical And Junral Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "303511",
+    "phone_number": "+91 99285 87476",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "opp. Govt.hospital, Ramgarh Pachwara, Rajasthan 303502",
+    "area": "303511",
+    "latitude": 26.6357376,
+    "longitude": 76.2537024,
+    "place_id": "ChIJV7eqqt7kbTkRAAAAMEbiE1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV7eqqt7kbTkRAAAAMEbiE1A",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:17:58"
+  },
+  {
+    "business_name": "Jagdamba X-ray Lalsot",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store",
+    "pincode": "303511",
+    "phone_number": "+91 97851 70416",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "govt hospital, by, nrae, Lalsot, Rajasthan 303503",
+    "area": "nrae",
+    "latitude": 26.560617399999998,
+    "longitude": 76.3281212,
+    "place_id": "ChIJUQml5Zz9bTkRaO0XSH78IaI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUQml5Zz9bTkRaO0XSH78IaI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:17:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BABA PALACE AND HOTEL",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "303508",
+    "phone_number": "+91 96103 52870",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 109,
+    "address": "WRG6+4F5, Mehendipur Balaji Temple Rd, Parla, Todabhim, Rajasthan 321611",
+    "area": "Parla",
+    "latitude": 26.9252608,
+    "longitude": 76.81122789999999,
+    "place_id": "ChIJiTF1fAAVcjkRqqhl_CaPCX0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiTF1fAAVcjkRqqhl_CaPCX0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:13:25"
+  },
+  {
+    "business_name": "Haryana Hotel and Restorent",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "303508",
+    "phone_number": "+91 97992 02552",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Agra Rd, Bawanpara, Sikandra, Rajasthan 303326",
+    "area": "303508",
+    "latitude": 26.950666199999997,
+    "longitude": 76.6061375,
+    "place_id": "ChIJYTXFbu9zcjkRrOTWek1CGXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYTXFbu9zcjkRrOTWek1CGXk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:13:26"
+  }
+]

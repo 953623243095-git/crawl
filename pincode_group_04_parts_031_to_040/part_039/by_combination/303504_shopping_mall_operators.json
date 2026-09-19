@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Garg Readymade",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "303504",
+    "phone_number": "+91 80580 53904",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 17,
+    "address": "FCMP+JVW, Raigran Mohalla, Mandawari, Rajasthan 303504",
+    "area": "Raigran Mohalla",
+    "latitude": 26.4841129,
+    "longitude": 76.4372149,
+    "place_id": "ChIJv4wxFDcAbjkR09WDapNLpFY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv4wxFDcAbjkR09WDapNLpFY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:06:59"
+  },
+  {
+    "business_name": "Pacific Mall Dehradun",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "303504",
+    "phone_number": "+91 89799 39144",
+    "website": "https://pacificmalls.in/dehradun",
+    "rating": 4.4,
+    "reviews_count": 42177,
+    "address": "Pacific mall, Rajpur Rd, Jakhan, Dehradun, Uttarakhand 248009",
+    "area": "Jakhan",
+    "latitude": 30.366464999999998,
+    "longitude": 78.07031219999999,
+    "place_id": "ChIJG51u3MvXCDkRt71ww_r5gnA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG51u3MvXCDkRt71ww_r5gnA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:07:00"
+  }
+]

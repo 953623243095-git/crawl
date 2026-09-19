@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tilak Tea Corner",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "303508",
+    "phone_number": "+91 98107 24209",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "181, New Gandhi Nagar, Gandhi Nagar, Nehru Nagar III, Nehru Nagar, Ghaziabad, Uttar Pradesh 201001",
+    "area": "New Gandhi Nagar, Gandhi Nagar, Nehru Nagar III, Nehru Nagar",
+    "latitude": 28.6562314,
+    "longitude": 77.4360798,
+    "place_id": "ChIJoS-gcynxDDkR3xzrik-wkZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoS-gcynxDDkR3xzrik-wkZw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:12:31"
+  },
+  {
+    "business_name": "Karamveer Amrittulya Chai, Sikar",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "303508",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "J5HH+5FV, Piprali Rd, near by Shekhawati shooting range, Ghorana Ki Dhani, Sikar, Samrathpura, Rajasthan 332001",
+    "area": "Ghorana Ki Dhani",
+    "latitude": 27.6279991,
+    "longitude": 75.1786636,
+    "place_id": "ChIJ5UfewI27bDkRkUpGnKLO8u8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5UfewI27bDkRkUpGnKLO8u8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:12:31"
+  }
+]

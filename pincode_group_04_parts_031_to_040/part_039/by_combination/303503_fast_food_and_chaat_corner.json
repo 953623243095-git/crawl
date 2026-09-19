@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Divya Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "303503",
+    "phone_number": "+91 99289 57603",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "R3M2+4JQ, Bassi Chak, Rajasthan 303301",
+    "area": "303503",
+    "latitude": 26.832836699999998,
+    "longitude": 76.05162109999999,
+    "place_id": "ChIJwwe8j2jAbTkR7faE0OcHeck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwwe8j2jAbTkR7faE0OcHeck",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:03:47"
+  },
+  {
+    "business_name": "Chaat Chatore",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "303503",
+    "phone_number": "+91 62685 82772",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Ratan mega mall, near new district court, Datia, Chituwa, Madhya Pradesh 475661",
+    "area": "303503",
+    "latitude": 25.6294287,
+    "longitude": 78.4728864,
+    "place_id": "ChIJgSy50GcTdzkRGNSppC7skp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgSy50GcTdzkRGNSppC7skp0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:03:47"
+  }
+]

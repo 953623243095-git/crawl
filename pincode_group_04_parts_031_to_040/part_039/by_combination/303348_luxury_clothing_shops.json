@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "STORE IN JAIPUR LALKOTHI",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "303348",
+    "phone_number": "+91 77930 31456",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "South Gate, c-23 302007, Pankaj Singhvi Marg, near Dakshinam Sarees, opp. SMS STADIUM, Satya Vihar, Indra Puri, Vidhayak Nagar, Lalkothi, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302015",
+    "area": "Satya Vihar, Indra Puri, Vidhayak Nagar, Lalkothi",
+    "latitude": 26.891553199999997,
+    "longitude": 75.80121369999999,
+    "place_id": "ChIJTYVoufG1bTkRjxGgwBTei-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTYVoufG1bTkRjxGgwBTei-A",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 05:58:29"
+  },
+  {
+    "business_name": "The Choice Fashions",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing manufacturer",
+    "all_categories": "Clothing manufacturer",
+    "pincode": "303348",
+    "phone_number": "+91 99833 38222",
+    "website": "http://www.thechoicefashions.com/",
+    "rating": 4.5,
+    "reviews_count": 48,
+    "address": "E-97, EPIP, Sitapura Industrial Area, Jaipur, Rajasthan 302022",
+    "area": "Sitapura Industrial Area, Sitapura",
+    "latitude": 26.783331399999998,
+    "longitude": 75.8358203,
+    "place_id": "ChIJmd9dHArJbTkRqrKtYH_usFM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmd9dHArJbTkRqrKtYH_usFM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 05:58:31"
+  }
+]

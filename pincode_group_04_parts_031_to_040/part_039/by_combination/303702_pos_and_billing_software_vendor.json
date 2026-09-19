@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Federal Bank",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Bank",
+    "all_categories": "Bank, Business banking service, Car finance and loan company, Financial advisor, Financial institution, Investment service, Loan agency, Money transfer service, Private Sector Bank, Savings bank",
+    "pincode": "303702",
+    "phone_number": "+91 1800 425 1199",
+    "website": "https://www.federal.bank.in/?utm_source=branch_locator&utm_medium=brand_website",
+    "rating": 4.5,
+    "reviews_count": 27,
+    "address": "Gagan Tower, Jaipur Rd, near Gopal Tractor, Chomu, Jaipur, Rajasthan 303702",
+    "area": "303702",
+    "latitude": 27.165658,
+    "longitude": 75.72361719999999,
+    "place_id": "ChIJZzfvKMiqbTkR1qLrsL_fFV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZzfvKMiqbTkR1qLrsL_fFV4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:29:53"
+  },
+  {
+    "business_name": "TEEM COMPUTERS",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Computer consultant",
+    "all_categories": "Computer consultant",
+    "pincode": "303702",
+    "phone_number": "+91 94140 58438",
+    "website": "http://teemcomputers.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "1687,Baba Harish Chandra Marg ChandPole Bazar, Jaipur, Rajasthan 302001",
+    "area": "Chandpole, Purani Basti",
+    "latitude": 26.926875199999998,
+    "longitude": 75.81631089999999,
+    "place_id": "ChIJnxsvhlGxbTkR1pgHqSsu0ps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnxsvhlGxbTkR1pgHqSsu0ps",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:29:55"
+  }
+]

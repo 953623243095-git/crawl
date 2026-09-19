@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navaprarambh Event",
+    "search_category": "Tradeshows",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "303702",
+    "phone_number": "+91 80006 91942",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khari khoti ka mohalla, Naya BaJar, Chomu, Rajasthan 303702",
+    "area": "Naya BaJar",
+    "latitude": 27.1684481,
+    "longitude": 75.7192391,
+    "place_id": "ChIJxx-K-cmrbTkROqEiAgO_KTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxx-K-cmrbTkROqEiAgO_KTU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:30:12"
+  },
+  {
+    "business_name": "IndianYellowPages",
+    "search_category": "Tradeshows",
+    "primary_category": "Business to business service",
+    "all_categories": "Business to business service",
+    "pincode": "303702",
+    "phone_number": "+91 89291 75322",
+    "website": "https://www.indianyellowpages.com/",
+    "rating": 4.9,
+    "reviews_count": 72,
+    "address": "Metro Station, 33 & 33A, Rama Rd, near Kirti Nagar, Industrial Area, Najafgarh Road Industrial Area, New Delhi, Delhi, 110015",
+    "area": "Industrial Area, Najafgarh Road Industrial Area",
+    "latitude": 28.6601961,
+    "longitude": 77.1515817,
+    "place_id": "ChIJBZlmZNk8W0ARpgLHVe_1adI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBZlmZNk8W0ARpgLHVe_1adI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:30:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "D Mart",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "303338",
+    "phone_number": "N/A",
+    "website": "http://www.dmartindia.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "D-2, Kardhani Govindpura, Govindpura, Jhotwara, Jaipur, Rajasthan 302044",
+    "area": "Kardhani Govindpura, Govindpura, Jhotwara",
+    "latitude": 26.955512499999998,
+    "longitude": 75.70945069999999,
+    "place_id": "ChIJDYeN_OBNbDkRbn7F2PFEDwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDYeN_OBNbDkRbn7F2PFEDwo",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 05:58:01"
+  },
+  {
+    "business_name": "Vinayak mart",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "303338",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Vinayak mart 9dukan, RANGOLI GARDENS, Panchyawala, Jaipur, Rajasthan 302034",
+    "area": "Panchyawala",
+    "latitude": 26.908227399999998,
+    "longitude": 75.7132398,
+    "place_id": "ChIJV4gYc-i1bTkRyNJB96hLLYc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV4gYc-i1bTkRyNJB96hLLYc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 05:58:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Annam South Indian Food",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Food producer",
+    "all_categories": "Food producer",
+    "pincode": "303704",
+    "phone_number": "+91 81188 12122",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 12,
+    "address": "Vinayak Tower, Ramnagariya, Jaipur, Rajasthan 302017",
+    "area": "Ramnagariya",
+    "latitude": 26.8114086,
+    "longitude": 75.8703391,
+    "place_id": "ChIJbXy22cnJbTkRGItzY9MFw7U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbXy22cnJbTkRGItzY9MFw7U",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:30:34"
+  },
+  {
+    "business_name": "Chouhan Dhaba",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Dhaba, Vegetarian restaurant",
+    "pincode": "303704",
+    "phone_number": "+91 88907 59260",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 187,
+    "address": "Shop NO. 42, Sharma Hostel Rd, Kukas, Rajasthan 302038",
+    "area": "303704",
+    "latitude": 27.030307399999998,
+    "longitude": 75.89235,
+    "place_id": "ChIJdY6lRvqvbTkR8WjOhcgSydE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdY6lRvqvbTkR8WjOhcgSydE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:30:34"
+  }
+]

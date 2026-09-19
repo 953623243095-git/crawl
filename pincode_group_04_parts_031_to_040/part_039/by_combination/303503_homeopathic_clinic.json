@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Yogendra Meena clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Local medical services",
+    "all_categories": "Local medical services",
+    "pincode": "303503",
+    "phone_number": "+91 99683 57133",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Dr yogendra meena clinic, Kothun Rd, opposite khandelwal dharmshala, Lalsot, Rajasthan 303503",
+    "area": "303503",
+    "latitude": 26.5615904,
+    "longitude": 76.3249891,
+    "place_id": "ChIJRS1Anjb9bTkRk4TTM6NhhIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRS1Anjb9bTkRk4TTM6NhhIY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:03:57"
+  },
+  {
+    "business_name": "Ram's Homoeo Clinic & Research centre",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "303503",
+    "phone_number": "+91 94134 50489",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gangadham mod, Hospital road, near Purani gas agency, Bassi, Bassi Chak, Rajasthan 303301",
+    "area": "303503",
+    "latitude": 26.838663399999998,
+    "longitude": 76.0514902,
+    "place_id": "ChIJtWp446rBbTkRg_TecDFYs9E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtWp446rBbTkRg_TecDFYs9E",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:04:01"
+  }
+]

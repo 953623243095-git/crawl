@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Floreto Foods",
+    "search_category": "Organic Food Store",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "303803",
+    "phone_number": "+91 63770 63565",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 14,
+    "address": "near Bheruji Mandir, Reengus, Rngus, Rajasthan 332404",
+    "area": "303803",
+    "latitude": 27.3611133,
+    "longitude": 75.5798859,
+    "place_id": "ChIJ8W3tIgDlbDkRN8bo7nyYx40",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8W3tIgDlbDkRN8bo7nyYx40",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:37:51"
+  },
+  {
+    "business_name": "Shiv Foods & Kulhad Chai",
+    "search_category": "Organic Food Store",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "303803",
+    "phone_number": "+91 89469 36577",
+    "website": "https://wa.me/918946936577",
+    "rating": 4.6,
+    "reviews_count": 195,
+    "address": "By Pass Road, Reengus, Rajasthan 332404",
+    "area": "303803",
+    "latitude": 27.3723377,
+    "longitude": 75.5766823,
+    "place_id": "ChIJx82UtlvlbDkRyAF5WPNDJnM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx82UtlvlbDkRyAF5WPNDJnM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:37:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akash Ganga Courier",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "303702",
+    "phone_number": "+91 94148 22497",
+    "website": "http://www.akashganga.info/",
+    "rating": 4.5,
+    "reviews_count": 6,
+    "address": "Brahampuri Main Road,, Chomu, Rajasthan 303702",
+    "area": "Naya BaJar",
+    "latitude": 27.1701171,
+    "longitude": 75.71967719999999,
+    "place_id": "ChIJVVVVVbGqbTkR6GKOHba6Abs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVbGqbTkR6GKOHba6Abs",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:30:00"
+  },
+  {
+    "business_name": "Post office Chomu",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "303702",
+    "phone_number": "+91 1423 220 002",
+    "website": "N/A",
+    "rating": 2.6,
+    "reviews_count": null,
+    "address": "5P95+8V3, Keshav Nagar, Chomu, Rajasthan 303702",
+    "area": "Keshav Nagar",
+    "latitude": 27.1682626,
+    "longitude": 75.7096705,
+    "place_id": "ChIJ24KZkktVbDkRkUjcGO0sqFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ24KZkktVbDkRkUjcGO0sqFI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:30:01"
+  }
+]

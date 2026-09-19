@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govind Department Store",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Milk delivery service",
+    "all_categories": "Milk delivery service",
+    "pincode": "303801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 30,
+    "address": "WQG2+X65, Bhartendu Nagar, Khatipura, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302012",
+    "area": "Bhartendu Nagar, Khatipura",
+    "latitude": 26.927380199999998,
+    "longitude": 75.7505951,
+    "place_id": "ChIJW2koC9uzbTkRe9FjUh3iNDI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW2koC9uzbTkRe9FjUh3iNDI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:36:02"
+  },
+  {
+    "business_name": "Nathudoodh Wala",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "303801",
+    "phone_number": "+91 93094 58880",
+    "website": "http://www.nathudoodhwala.com/",
+    "rating": 4,
+    "reviews_count": 202,
+    "address": "Central Spine Rd, Sector 2, Central Spine, Vidyadhar Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302039",
+    "area": "Sector 2, Central Spine, Vidyadhar Nagar",
+    "latitude": 26.9645537,
+    "longitude": 75.78273159999999,
+    "place_id": "ChIJ-3hpvYCzbTkR-jeuJYkdyNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-3hpvYCzbTkR-jeuJYkdyNw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:36:02"
+  }
+]

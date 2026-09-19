@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yadav car washing centre",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "303604",
+    "phone_number": "+91 79760 99480",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Near, Yadav Hotel Rd, Mahlan, Rajasthan 303007",
+    "area": "303604",
+    "latitude": 26.810997,
+    "longitude": 75.4875421,
+    "place_id": "ChIJ4f6i1KJHbDkROwfjVPpgWgs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4f6i1KJHbDkROwfjVPpgWgs",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:25:27"
+  },
+  {
+    "business_name": "वीर तेजा सर्विस सेंटर रूपनगढ़",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "303604",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "RR3M+CQ3, Roopangarh, Dardoond, Rajasthan 305814",
+    "area": "303604",
+    "latitude": 26.8031428,
+    "longitude": 74.83439,
+    "place_id": "ChIJcZXXbgCNazkR3Nz36ziXiFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcZXXbgCNazkR3Nz36ziXiFo",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:25:30"
+  }
+]

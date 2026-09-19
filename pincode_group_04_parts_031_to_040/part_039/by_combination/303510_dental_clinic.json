@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj dental clinic Ramgarh pachwara",
+    "search_category": "Dental Clinic",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "303510",
+    "phone_number": "+91 94147 05041",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "J7M8+6H5, Ramgarh, Ramgarh Pachwara, Rajasthan 303510",
+    "area": "Ramgarh",
+    "latitude": 26.6330158,
+    "longitude": 76.26647899999999,
+    "place_id": "ChIJVV9zPwDlbTkR7EJAu5GaLgc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVV9zPwDlbTkR7EJAu5GaLgc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:16:14"
+  },
+  {
+    "business_name": "Raj Dental Hospital",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dentist",
+    "all_categories": "Dentist",
+    "pincode": "303510",
+    "phone_number": "+91 94147 05041",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Front of Govt hospital, Ramgarh Pachwara, Rajasthan 303511",
+    "area": "303510",
+    "latitude": 26.6235584,
+    "longitude": 76.2621123,
+    "place_id": "ChIJad44fwDlbTkRyMlFYDDvhto",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJad44fwDlbTkRyMlFYDDvhto",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:16:14"
+  }
+]

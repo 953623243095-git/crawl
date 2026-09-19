@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajshree Events & Tent Decor",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "303712",
+    "phone_number": "+91 99502 11802",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Prerana paradise, road, Dhoblai, Govindgarh, Rajasthan 303712",
+    "area": "303712",
+    "latitude": 27.2555181,
+    "longitude": 75.6540586,
+    "place_id": "ChIJ24Dt8Yj_bDkRGCU3Gx0BirE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ24Dt8Yj_bDkRGCU3Gx0BirE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:35:11"
+  },
+  {
+    "business_name": "DJ Peacock & Tent Events",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "303712",
+    "phone_number": "+91 96363 75342",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 27,
+    "address": "Kaladera Rd, Malikpur, Govindgarh, Malikpur, Rajasthan 303712",
+    "area": "Malikpur",
+    "latitude": 27.2322061,
+    "longitude": 75.6478771,
+    "place_id": "ChIJZUaqOg3_bDkRvW_cp5-Icqo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZUaqOg3_bDkRvW_cp5-Icqo",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:35:11"
+  }
+]

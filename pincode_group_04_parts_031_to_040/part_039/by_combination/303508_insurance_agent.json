@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Insurance Advisor Nikita",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Service establishment",
+    "pincode": "303508",
+    "phone_number": "N/A",
+    "website": "https://sites.google.com/view/insurancegurunikita/home",
+    "rating": 4.8,
+    "reviews_count": 13,
+    "address": "Insurance Advisor Nikita, 303508, India",
+    "area": "303508",
+    "latitude": 27.213210999999998,
+    "longitude": 77.94479299999999,
+    "place_id": "ChIJLXlgFoEUCQIR0TUY448Vt0c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLXlgFoEUCQIR0TUY448Vt0c",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:13:43"
+  },
+  {
+    "business_name": "JSS fingrowth solutions",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "303508",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sikrai, Rajasthan 303508",
+    "area": "303508",
+    "latitude": 26.9175525,
+    "longitude": 76.68809639999999,
+    "place_id": "ChIJybnQZwBtcjkRJ45CFY3jdg4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJybnQZwBtcjkRJ45CFY3jdg4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:13:44"
+  }
+]

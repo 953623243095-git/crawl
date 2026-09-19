@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Anupam Chaturvedi",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician and Child Clinic",
+    "all_categories": "Pediatrician and Child Clinic",
+    "pincode": "303603",
+    "phone_number": "+91 98290 62864",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "A11, Vijay Path, Tilak Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302004",
+    "area": "Tilak Nagar",
+    "latitude": 26.892437299999997,
+    "longitude": 75.8193929,
+    "place_id": "ChIJJcXuXtO3bTkR0xFoctAhtFE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJcXuXtO3bTkR0xFoctAhtFE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:23:31"
+  },
+  {
+    "business_name": "Dr Ashok Khandelwal (Pediatrician)",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "303603",
+    "phone_number": "+91 94130 88201",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "A 5, RPA Rd, Dhani Jalpali, Sanjay Colony, Nehru Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302016",
+    "area": "Dhani Jalpali, Sanjay Colony, Nehru Nagar",
+    "latitude": 26.948490399999997,
+    "longitude": 75.7890745,
+    "place_id": "ChIJk6F5u8azbTkRHWrVvS_bFQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk6F5u8azbTkRHWrVvS_bFQA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:23:32"
+  }
+]

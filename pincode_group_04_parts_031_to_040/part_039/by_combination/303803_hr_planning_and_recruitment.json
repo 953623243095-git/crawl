@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HR Support Plus",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "303803",
+    "phone_number": "07753 414334",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "HR Support Plus, 303803, India",
+    "area": "303803",
+    "latitude": 47.73855,
+    "longitude": 12.508827499999999,
+    "place_id": "ChIJgeF2HI_EdUgR--dUg0rqTXg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgeF2HI_EdUgR--dUg0rqTXg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:39:19"
+  },
+  {
+    "business_name": "HR People Solutions",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "303803",
+    "phone_number": "07711 339021",
+    "website": "https://www.systematised.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HR People Solutions, 303803, India",
+    "area": "303803",
+    "latitude": 50.913820699999995,
+    "longitude": -1.4004929,
+    "place_id": "ChIJqz8plwR2dEgRmnoZsz94lEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqz8plwR2dEgRmnoZsz94lEM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:39:19"
+  }
+]

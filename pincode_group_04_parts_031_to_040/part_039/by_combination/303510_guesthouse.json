@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Kishan Singh Lalsotya Palace",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "303510",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 11,
+    "address": "M594+2JC, Damodar Ka Bas, Chandawas, Rajasthan 303510",
+    "area": "303510",
+    "latitude": 26.6675626,
+    "longitude": 76.1565218,
+    "place_id": "ChIJK9qiNNPnbTkR9PK1H2xBiPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK9qiNNPnbTkR9PK1H2xBiPY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:16:50"
+  },
+  {
+    "business_name": "Farm",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "303510",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Madhayawala, Akhaipura, Rajasthan 303302",
+    "area": "303510",
+    "latitude": 26.7134051,
+    "longitude": 76.1808396,
+    "place_id": "ChIJQakacZPvbTkRnct4X0ofrkg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQakacZPvbTkRnct4X0ofrkg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:16:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Soniya Medical",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "303704",
+    "phone_number": "+91 80032 87914",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "866, Sikar Rd, Nindar, Udaipuriya, Rajasthan 303805",
+    "area": "303704",
+    "latitude": 27.0289772,
+    "longitude": 75.7693702,
+    "place_id": "ChIJH8ENV5itbTkRWbKQNGLYztk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH8ENV5itbTkRWbKQNGLYztk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:30:57"
+  },
+  {
+    "business_name": "New life health care",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier",
+    "pincode": "303704",
+    "phone_number": "+91 88901 32892",
+    "website": "http://www.newlifehealthcare.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ayodhyapuri colony, Plot no 2A, Sikar Rd, Jai karni Nagar, Harmada, Jaipur, Jaipur Greater (M Corp.) (Part), Rajasthan 302013",
+    "area": "Jai karni Nagar, Harmada",
+    "latitude": 27.0083481,
+    "longitude": 75.7693154,
+    "place_id": "ChIJzUKKMwCzbTkR0q_dp1IOipQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzUKKMwCzbTkR0q_dp1IOipQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:30:58"
+  }
+]

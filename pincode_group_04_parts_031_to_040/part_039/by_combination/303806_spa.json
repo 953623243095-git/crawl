@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Keemaya Resorts and Spas",
+    "search_category": "Spa",
+    "primary_category": "Health resort",
+    "all_categories": "Health resort",
+    "pincode": "303806",
+    "phone_number": "N/A",
+    "website": "http://www.keemayaresortsandspas.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Shree Ramam', 58, 3rd Floor, Bye pass Road, Shri Gopal Nagar, Gopal Pura Mode, Jaipur, Rajasthan 302019",
+    "area": "Shri Gopal Nagar, Gopal Pura Mode",
+    "latitude": 27.157191299999997,
+    "longitude": 75.91007809999999,
+    "place_id": "ChIJoWYCVFmnbTkRk3rze5dG3S8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoWYCVFmnbTkRk3rze5dG3S8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:44:29"
+  },
+  {
+    "business_name": "Dream Lite Spa",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa, Day spa, Massage therapist, Spa, Spa and health club, Thai massage therapist",
+    "pincode": "303806",
+    "phone_number": "+91 76655 60055",
+    "website": "https://www.dreamlitemassagespa.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "13-14, opposite K.S Ford, Shiva Colony, Shyam Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302019",
+    "area": "Shiva Colony, Shyam Nagar",
+    "latitude": 26.896597699999997,
+    "longitude": 75.7708802,
+    "place_id": "ChIJA-CvXQC1bTkRBJBuXwfgFZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA-CvXQC1bTkRBJBuXwfgFZY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:44:29"
+  }
+]

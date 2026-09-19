@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Titbit Pure Veg Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Restaurant",
+    "pincode": "303511",
+    "phone_number": "+91 79834 43030",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Devi Chod village, Girija Devi Temple, Road, near Girija Devi Temple, Garjiya, Ramnagar, Uttarakhand 244715",
+    "area": "303511",
+    "latitude": 29.494940999999997,
+    "longitude": 79.1353381,
+    "place_id": "ChIJt8P2QwARCjkRHKxQheKsE48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt8P2QwARCjkRHKxQheKsE48",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:17:44"
+  },
+  {
+    "business_name": "hotel pandit sawan lalsot",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "303511",
+    "phone_number": "+91 98874 46458",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "road, Sedulai colony, Lalsot, Rajasthan 303503",
+    "area": "Sedulai colony",
+    "latitude": 26.5386427,
+    "longitude": 76.3446441,
+    "place_id": "ChIJ054aK8f9bTkRxCHAw2hgx7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ054aK8f9bTkRxCHAw2hgx7c",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:17:46"
+  }
+]

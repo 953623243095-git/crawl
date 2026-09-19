@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vickey enterprises",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "303506",
+    "phone_number": "+91 99280 96565",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dhani Pandey Ki Kaledi, Rajasthan 303506",
+    "area": "303506",
+    "latitude": 26.7283443,
+    "longitude": 76.4331698,
+    "place_id": "ChIJF0_I2D_3bTkRp8PhGa-VG-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF0_I2D_3bTkRp8PhGa-VG-o",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:09:50"
+  },
+  {
+    "business_name": "बृज कुल गेस्ट हाउस",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "303506",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": 3,
+    "address": "W827+5X8, Vinayak Nagar, Dausa, Rajasthan 303303",
+    "area": "Vinayak Nagar",
+    "latitude": 26.9004087,
+    "longitude": 76.3149602,
+    "place_id": "ChIJi_iSNiCNbTkRAwoHV1Koj8o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi_iSNiCNbTkRAwoHV1Koj8o",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:09:53"
+  }
+]

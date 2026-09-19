@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manoj Hotel & Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Dhaba",
+    "pincode": "303706",
+    "phone_number": "+91 72969 29620",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 13,
+    "address": "Shop No. 26 Sinwar Mode, Jaipur, Rajasthan 302017",
+    "area": "303706",
+    "latitude": 26.916982599999997,
+    "longitude": 75.64305809999999,
+    "place_id": "ChIJg9WY2xJMbDkRSzzIbywF5Ak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg9WY2xJMbDkRSzzIbywF5Ak",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:32:27"
+  },
+  {
+    "business_name": "Masala Pot",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Takeout restaurant",
+    "all_categories": "Takeout restaurant",
+    "pincode": "303706",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "2nd-A, Ganpati Vihar, A-31, Kunda Rd, Sirsi, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302041",
+    "area": "Sirsi",
+    "latitude": 26.9094092,
+    "longitude": 75.6839177,
+    "place_id": "ChIJQdh-ZoZNbDkRXe7c-X5KaLA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQdh-ZoZNbDkRXe7c-X5KaLA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:32:28"
+  }
+]

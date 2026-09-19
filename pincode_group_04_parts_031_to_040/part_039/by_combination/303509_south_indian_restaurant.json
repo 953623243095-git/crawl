@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pooja South Indian",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "303509",
+    "phone_number": "+91 88775 39906",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "E,9, gurudwara, near gurudwara, Aarti Nagar, Railway Colony, Jagatpura, Jaipur, Rajasthan 302017",
+    "area": "Aarti Nagar, Railway Colony, Jagatpura",
+    "latitude": 26.831318099999997,
+    "longitude": 75.8425743,
+    "place_id": "ChIJv7W7xCa2bTkRAAAAMFHQ9Fk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv7W7xCa2bTkRAAAAMFHQ9Fk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:14:17"
+  },
+  {
+    "business_name": "Goyal's (Food Circle)",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Family restaurant",
+    "pincode": "303509",
+    "phone_number": "+91 96944 54776",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Ranthambore Cir, New Colony, Sawai Madhopur, Rajasthan 322001",
+    "area": "New Colony",
+    "latitude": 26.012556,
+    "longitude": 76.3554478,
+    "place_id": "ChIJk6kEbCAlbjkRSZhP-E8fK8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk6kEbCAlbjkRSZhP-E8fK8U",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:14:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nagana Tours and Travel Jaipur",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "303704",
+    "phone_number": "+91 75686 16234",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "SETHI COLONY, 32, Anokha Gaon Rd, Sethi Colony Machada, Harmada, Jaipur, Jaipur Greater (M Corp.) (Part), Rajasthan 302013",
+    "area": "Sethi Colony Machada, Harmada",
+    "latitude": 27.0082608,
+    "longitude": 75.7650772,
+    "place_id": "ChIJxcOOAYGtbTkRVisfXYgZoMg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxcOOAYGtbTkRVisfXYgZoMg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:31:06"
+  },
+  {
+    "business_name": "Shekhawat Tours & Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "303704",
+    "phone_number": "+91 72200 00429",
+    "website": "http://cabjaipur.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Plot no 43, 8, near prince school, Bhagwan Nagar, Harmada, Jaipur, Rajasthan 302013",
+    "area": "Bhagwan Nagar, Pipali Wali Dhani, Harmada",
+    "latitude": 27.015202499999997,
+    "longitude": 75.776909,
+    "place_id": "ChIJM6ShiPCtbTkRByT8x_rRnrE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM6ShiPCtbTkRByT8x_rRnrE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:31:06"
+  }
+]

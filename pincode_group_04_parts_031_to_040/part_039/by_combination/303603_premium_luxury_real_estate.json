@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajasthan Realtors",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Service establishment",
+    "pincode": "303603",
+    "phone_number": "+91 88244 45550",
+    "website": "https://www.rajasthanrealtors.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Rajasthan Realtors, 303603, India",
+    "area": "303603",
+    "latitude": 26.8852108,
+    "longitude": 75.7905578,
+    "place_id": "ChIJd07ZjSPXAwcRraN3UgvZOjM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd07ZjSPXAwcRraN3UgvZOjM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:24:32"
+  },
+  {
+    "business_name": "I Kan Housing Pvt Ltd",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Condominium rental agency, Industrial real estate agency, Property management company, Real estate developer",
+    "pincode": "303603",
+    "phone_number": "+91 95099 05502",
+    "website": "https://www.ikanhousing.com/",
+    "rating": 4.3,
+    "reviews_count": 35,
+    "address": "B-128, Sanganer, Vidhyadhar Nagar, Shiksha Vihar, Jagatpura, Jaipur, Rajasthan 302017",
+    "area": "Vidhyadhar Nagar, Shiksha Vihar, Jagatpura",
+    "latitude": 26.828839499999997,
+    "longitude": 75.8552163,
+    "place_id": "ChIJ740oC9_JbTkRZ8NvguljeRI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ740oC9_JbTkRZ8NvguljeRI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:24:33"
+  }
+]

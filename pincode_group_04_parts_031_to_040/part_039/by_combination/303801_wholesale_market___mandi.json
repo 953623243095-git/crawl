@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bengali Bazaar",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "303801",
+    "phone_number": "+91 81074 39335",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 222,
+    "address": "37-K-FF, Sahakar Marg, Jyoti Nagar Housing Board Flats, Lalkothi, Jaipur, Rajasthan 302005",
+    "area": "Jyoti Nagar Housing Board Flats, Lalkothi",
+    "latitude": 26.8958011,
+    "longitude": 75.79414729999999,
+    "place_id": "ChIJUxTiXz20bTkRDYUxwcwy5Vc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUxTiXz20bTkRDYUxwcwy5Vc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:37:48"
+  },
+  {
+    "business_name": "M Mart Wholesale",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Wholesale Market / Mandi",
+    "all_categories": "Wholesale Market / Mandi",
+    "pincode": "303801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WMWH+Q83, Sirsi - Hathoj Rd, Jaipur, Rajasthan 302044",
+    "area": "303801",
+    "latitude": 26.946881599999998,
+    "longitude": 75.67829329999999,
+    "place_id": "ChIJt5B4V_tMbDkR5xgNiP7ULu0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt5B4V_tMbDkR5xgNiP7ULu0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:37:49"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BuildBazaarX",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "303507",
+    "phone_number": "+91 95212 59456",
+    "website": "https://buildbazaaarx.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nangal Bersi, Nangal Bohra, Rajasthan 303303",
+    "area": "303507",
+    "latitude": 26.9437756,
+    "longitude": 76.24501529999999,
+    "place_id": "ChIJy5HBb9STbTkRf1fZ2yDQqVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy5HBb9STbTkRf1fZ2yDQqVU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:11:24"
+  },
+  {
+    "business_name": "Jagdamba stone architect",
+    "search_category": "Interior Designers",
+    "primary_category": "Architectural designer",
+    "all_categories": "Architectural designer",
+    "pincode": "303507",
+    "phone_number": "+91 86903 05561",
+    "website": "https://www.jagdambastonearchitect.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Nh 21, Jaipur Rd, Dausa, Bhandana, Rajasthan 303303",
+    "area": "303507",
+    "latitude": 26.8933677,
+    "longitude": 76.2594359,
+    "place_id": "ChIJuY1qs-6TbTkRq7R0UqG83iY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuY1qs-6TbTkRq7R0UqG83iY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:11:24"
+  }
+]

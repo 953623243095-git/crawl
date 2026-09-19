@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pet Love - Pet Care Services",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Pet groomer, Pet store",
+    "pincode": "303601",
+    "phone_number": "+91 89553 63183",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no .8, M.B. Plaza, Jaipur Rd, near Goushala, Ajeetgarh, Rajasthan 332701",
+    "area": "303601",
+    "latitude": 27.421471399999998,
+    "longitude": 75.8203355,
+    "place_id": "ChIJ9Sr6SJwbbTkRivVHDwkU_7o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Sr6SJwbbTkRivVHDwkU_7o",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:19:25"
+  },
+  {
+    "business_name": "The dog mart & care",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Bird shop, Animal feed store, Pet groomer, Pet sitter, Pet store",
+    "pincode": "303601",
+    "phone_number": "+91 99280 48508",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Ram Gali No.8, Namak Ki Mandi, Raja Park, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302004",
+    "area": "Namak Ki Mandi, Raja Park",
+    "latitude": 26.896385,
+    "longitude": 75.835692,
+    "place_id": "ChIJ9zSRUpS2bTkRb_pRq6iDfEo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9zSRUpS2bTkRb_pRq6iDfEo",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:19:27"
+  }
+]

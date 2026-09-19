@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Gym Eagles",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "303804",
+    "phone_number": "+91 94688 87279",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "hotel City home, 338-A, Gali No. 4, Gurunanakpura, Raja Park, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302004",
+    "area": "Gurunanakpura, Raja Park",
+    "latitude": 26.8940213,
+    "longitude": 75.826087,
+    "place_id": "ChIJpQPybpS2bTkRIDVgQQi6wjQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpQPybpS2bTkRIDVgQQi6wjQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:40:15"
+  },
+  {
+    "business_name": "Fitline - Harish Stores",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness Equipment Wholesaler",
+    "all_categories": "Fitness Equipment Wholesaler",
+    "pincode": "303804",
+    "phone_number": "+91 95713 88889",
+    "website": "https://www.fitlineindia.com/",
+    "rating": 4.6,
+    "reviews_count": 172,
+    "address": "F - 21 (A1, Malviya Nagar Industrial Area, Malviya Nagar, Jaipur, Rajasthan 302017",
+    "area": "Malviya Nagar Industrial Area, Malviya Nagar",
+    "latitude": 26.854596599999997,
+    "longitude": 75.83105599999999,
+    "place_id": "ChIJnwCqVB23bTkRgHAkOXzwxcg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnwCqVB23bTkRgHAkOXzwxcg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:40:16"
+  }
+]

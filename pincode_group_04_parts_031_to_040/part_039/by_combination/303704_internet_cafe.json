@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi computer and printers",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "303704",
+    "phone_number": "+91 63506 09704",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "VIA MORIJA, VPO, TEH, AMER, Bagwara, Rajasthan 303805",
+    "area": "AMER",
+    "latitude": 27.0930792,
+    "longitude": 75.8531502,
+    "place_id": "ChIJPRVN826vbTkRRm-gvM5Cq_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPRVN826vbTkRRm-gvM5Cq_8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:31:45"
+  },
+  {
+    "business_name": "GURUKRIPA EMITRA & mobile center",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "303704",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bheru khejda, near Bharat farm), vill:hanumanpura, Sewapura, Luriyawas, Rajasthan 303805",
+    "area": "303704",
+    "latitude": 27.0491933,
+    "longitude": 75.78820999999999,
+    "place_id": "ChIJ-8prRQCtbTkR9G1RwelZ3pU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-8prRQCtbTkR9G1RwelZ3pU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:31:48"
+  }
+]

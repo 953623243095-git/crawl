@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaipur cleaning maintenance",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "303506",
+    "phone_number": "+91 95888 91691",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4, Amrit Nagar, Sunder Nagar, Jaipur, Rajasthan 302020",
+    "area": "Amrit Nagar, Sunder Nagar",
+    "latitude": 26.843589899999998,
+    "longitude": 75.7615986,
+    "place_id": "ChIJ1delNAC1bTkRAlzZPvSdWhg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1delNAC1bTkRAlzZPvSdWhg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:10:14"
+  },
+  {
+    "business_name": "Royal Shine home cleaning",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "303506",
+    "phone_number": "+91 88247 98482",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "Vinay Nagar, Topdara, Ajmer, Rajasthan 305001",
+    "area": "Vinay Nagar, Topdara",
+    "latitude": 26.4557742,
+    "longitude": 74.6438603,
+    "place_id": "ChIJ-9raHJnnazkRpbblmVwASnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-9raHJnnazkRpbblmVwASnc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:10:15"
+  }
+]

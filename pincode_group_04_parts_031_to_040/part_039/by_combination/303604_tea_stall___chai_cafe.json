@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LAJAWAB CHAI WALA",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "303604",
+    "phone_number": "+91 74260 80717",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Khatedi Mode Triveni Road RJ SH 13, Shahpura, Rajasthan 303103",
+    "area": "303604",
+    "latitude": 27.387106,
+    "longitude": 75.95647629999999,
+    "place_id": "ChIJR8DDny8ObTkRne5esmmBrD0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR8DDny8ObTkRne5esmmBrD0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:24:59"
+  },
+  {
+    "business_name": "Rajwadi chai cafe Gidani",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "303604",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P79P+X99, Gidani, Rajasthan 303348",
+    "area": "303604",
+    "latitude": 26.719901999999998,
+    "longitude": 75.28598199999999,
+    "place_id": "ChIJT-RVUAAVbDkRMbZo4mSqUdw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT-RVUAAVbDkRMbZo4mSqUdw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:25:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "L.S. & Sons Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "303504",
+    "phone_number": "+91 98871 96514",
+    "website": "https://sites.google.com/view/lsandsonsjewellers/home",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no 1, Golden Plaza, Clock Tower , New Dujod, Gate, Sikar, Rajasthan 332001",
+    "area": "Chandpol",
+    "latitude": 27.608346599999997,
+    "longitude": 75.1384218,
+    "place_id": "ChIJf_rgFmalbDkRtMLWfEh5b_0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf_rgFmalbDkRtMLWfEh5b_0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:05:39"
+  },
+  {
+    "business_name": "Silver Jewellery Empire",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry manufacturer",
+    "all_categories": "Jewelry manufacturer",
+    "pincode": "303504",
+    "phone_number": "+91 80586 16660",
+    "website": "http://silverjewelrydoctor.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2, KB, Keshav Path, Ahinsa Cir, Patrakar Colony, C Scheme, Ashok Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302001",
+    "area": "Patrakar Colony, C Scheme, Ashok Nagar",
+    "latitude": 26.9152694,
+    "longitude": 75.80466059999999,
+    "place_id": "ChIJq6o-mAG0bTkRz_s4rU_Glqs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6o-mAG0bTkRz_s4rU_Glqs",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:05:40"
+  }
+]

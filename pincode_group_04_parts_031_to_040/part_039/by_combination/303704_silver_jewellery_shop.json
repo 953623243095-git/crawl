@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Fashion Jewellery",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "303704",
+    "phone_number": "+91 99299 35607",
+    "website": "https://shreefashionjewellery.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Plot No. 31, New Karni Colony, Kishan Vatika, Harmada, Jaipur, Jaipur Greater (M Corp.) (Part), Rajasthan 302013",
+    "area": "New Karni Colony, Kishan Vatika, Harmada",
+    "latitude": 27.010371199999998,
+    "longitude": 75.77431399999999,
+    "place_id": "ChIJJWDA5RGtbTkRAL52TH2tovU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJWDA5RGtbTkRAL52TH2tovU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:30:41"
+  },
+  {
+    "business_name": "जगदम्बा ज्वैलर्स",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "303704",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2P7X+XX9, Jairampura Rd, Jaipur, Jaipur Greater (M Corp.) (Part), Rajasthan 302048",
+    "area": "303704",
+    "latitude": 27.014921299999997,
+    "longitude": 75.74997789999999,
+    "place_id": "ChIJY3Fk33qtbTkRnH6Od6IQbEU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY3Fk33qtbTkRnH6Od6IQbEU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:30:42"
+  }
+]

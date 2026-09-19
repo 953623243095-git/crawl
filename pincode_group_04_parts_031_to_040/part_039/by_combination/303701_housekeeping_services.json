@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Douse Laundry",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Laundry service",
+    "all_categories": "Laundry service",
+    "pincode": "303701",
+    "phone_number": "+91 78787 55530",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Balaji Sarovar IInd, P.N. 5 & 5A, near Sikar Road, Jaipur, Chakur, Rajasthan 303704",
+    "area": "303701",
+    "latitude": 27.0750437,
+    "longitude": 75.7301717,
+    "place_id": "ChIJIyVk-OOtbTkRHuCvl3XAzMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIyVk-OOtbTkRHuCvl3XAzMI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:28:14"
+  },
+  {
+    "business_name": "Aditya Villa And Resort",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "303701",
+    "phone_number": "N/A",
+    "website": "http://www.adityavillaandresort.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4M82+JVJ, Jahota, Deogudha, Rajasthan 303701",
+    "area": "303701",
+    "latitude": 27.116329099999998,
+    "longitude": 75.6512011,
+    "place_id": "ChIJf-2KLQBVbDkRy-6RvpMatLM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf-2KLQBVbDkRy-6RvpMatLM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:28:14"
+  }
+]

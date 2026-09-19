@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Mohan Kulhari",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Medical clinic",
+    "pincode": "303804",
+    "phone_number": "+91 94131 66152",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "83/35, Arawali Marg, Ward 27, Mansarovar Sector 8, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Ward 27, Mansarovar Sector 8, Mansarovar",
+    "latitude": 26.855840399999998,
+    "longitude": 75.76303659999999,
+    "place_id": "ChIJ34B6Y2O1bTkRtx6hQnn1ky4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ34B6Y2O1bTkRtx6hQnn1ky4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:40:12"
+  },
+  {
+    "business_name": "Dr. Ashok Gupta - Best ENT Specialist Doctor in Mohali | Fortis Mohali",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Doctor, Family practice physician, General practitioner, Health consultant, Immunologist, Otolaryngology clinic",
+    "pincode": "303804",
+    "phone_number": "+91 172 469 2222",
+    "website": "https://www.fortishealthcare.com/doctors/dr-dr-ashok-gupta-team-396",
+    "rating": 4.9,
+    "reviews_count": 502,
+    "address": "Fortis hospital, Jail Rd, Sector 62, Sahibzada Ajit Singh Nagar, Punjab 160062",
+    "area": "Sector 62",
+    "latitude": 30.6954468,
+    "longitude": 76.7333283,
+    "place_id": "ChIJN9I14lrvDzkRsV0zoOXNuLw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN9I14lrvDzkRsV0zoOXNuLw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:40:13"
+  }
+]

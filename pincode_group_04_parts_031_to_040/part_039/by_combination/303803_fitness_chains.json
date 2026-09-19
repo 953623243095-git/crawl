@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "V3 Fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "303803",
+    "phone_number": "+91 93148 88000",
+    "website": "http://www.v3fitness.com/",
+    "rating": 4.1,
+    "reviews_count": 134,
+    "address": "2177, Raja Shiv Das Ji Ka Rasta, Chandpole, Pink City, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302001",
+    "area": "Chandpole, Pink City",
+    "latitude": 26.9285534,
+    "longitude": 75.8186185,
+    "place_id": "ChIJRSRt21GxbTkR5-Dp4Xeko4k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRSRt21GxbTkR5-Dp4Xeko4k",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:38:23"
+  },
+  {
+    "business_name": "Paradise gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "303803",
+    "phone_number": "+91 70148 78955",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 71,
+    "address": "QR7R+WQ9, mod, Goner Rd, Sitapura, Jaipur, Rajasthan 302022",
+    "area": "Saraswati Vihar, Sitapura",
+    "latitude": 26.7647931,
+    "longitude": 75.8419864,
+    "place_id": "ChIJne3QdJ_JbTkRlDvMxEb88wg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJne3QdJ_JbTkRlDvMxEb88wg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:38:23"
+  }
+]

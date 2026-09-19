@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Readymade",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store, Cosmetics store, Foot care, Soft drinks shop",
+    "pincode": "303507",
+    "phone_number": "+91 75682 91509",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "38JC+PC6, Gola ka Bas-Gur ka Khera Road, Birkari, Rajasthan 301410",
+    "area": "303507",
+    "latitude": 27.0812396,
+    "longitude": 76.324585,
+    "place_id": "ChIJv_Nb05uFbTkRIX7rWEkECPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv_Nb05uFbTkRIX7rWEkECPY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:10:50"
+  },
+  {
+    "business_name": "Tip-Top Kids Wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "303507",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Agarsen Colony, Dausa, Dausa Municipal Area, Rajasthan 303303",
+    "area": "Agarsen Colony",
+    "latitude": 26.8982368,
+    "longitude": 76.33139539999999,
+    "place_id": "ChIJlcyRcMOMbTkRo7JKQYb1VF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlcyRcMOMbTkRo7JKQYb1VF4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:10:50"
+  }
+]

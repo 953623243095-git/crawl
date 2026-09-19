@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree balaji hotel & Restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "303507",
+    "phone_number": "+91 96601 10778",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 56,
+    "address": "NH 148, Jhera, Bapi, Rajasthan 303507",
+    "area": "303507",
+    "latitude": 26.999935299999997,
+    "longitude": 76.2777789,
+    "place_id": "ChIJscsqcz6PbTkRaFymhxO5m5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJscsqcz6PbTkRaFymhxO5m5w",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:10:44"
+  },
+  {
+    "business_name": "GuruJi Non-veg Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant",
+    "pincode": "303507",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NH-148, Kotun, Manoharpur - Dausa Hwy, near Hindustan Petroleum Corporation Limited, Sanko, Sankotra, Rajasthan 303001",
+    "area": "Sanko",
+    "latitude": 27.0738983,
+    "longitude": 76.1650798,
+    "place_id": "ChIJf0MJ2XOZbTkR57CjDUP6QRg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf0MJ2XOZbTkR57CjDUP6QRg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:10:46"
+  }
+]

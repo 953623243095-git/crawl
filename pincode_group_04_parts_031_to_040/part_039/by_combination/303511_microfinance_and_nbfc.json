@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bank of India",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Bank",
+    "all_categories": "Bank, ATM",
+    "pincode": "303511",
+    "phone_number": "+91 1427 220 136",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 17,
+    "address": "Lalsot, Dausa, NH-11A, Lalsot Road, Dausa, Dausa, Rajasthan 303303",
+    "area": "Tudiyana",
+    "latitude": 26.893999299999997,
+    "longitude": 76.3349561,
+    "place_id": "ChIJiWGtd8aMbTkR6Vp5vrS-9H8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiWGtd8aMbTkR6Vp5vrS-9H8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:18:55"
+  },
+  {
+    "business_name": "Axis Bank - Bandikui",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Bank",
+    "all_categories": "Bank, Financial institution, Investment bank, Investment service, Savings bank",
+    "pincode": "303511",
+    "phone_number": "+91 1860 500 5555",
+    "website": "https://branch.axisbank.com/axis-bank-bandikui-bank-branch-dausa-rajasthan-38349/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.9,
+    "reviews_count": 51,
+    "address": "Tambi Oil Mills, Sikandara Road, near Railway Station, Bandikui, Syalawas Khurd Rural, Rajasthan 303313",
+    "area": "303511",
+    "latitude": 27.038377,
+    "longitude": 76.5673692,
+    "place_id": "ChIJId2UqN9wcjkR2LwbR58GnxY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJId2UqN9wcjkR2LwbR58GnxY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:18:55"
+  }
+]

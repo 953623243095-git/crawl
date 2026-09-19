@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prime Edu Hub",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Educational institution",
+    "pincode": "303712",
+    "phone_number": "+91 95885 03253",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dodhsar - Singod Rd, near Maruti Dharam kanta, Barhawali Dhani, Rajasthan 303712",
+    "area": "303712",
+    "latitude": 27.291342699999998,
+    "longitude": 75.6273317,
+    "place_id": "ChIJgZO94-z9bDkRz09HEIsy4Dk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgZO94-z9bDkRz09HEIsy4Dk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:35:25"
+  },
+  {
+    "business_name": "New Microtech Group of Education Trust",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Education center",
+    "pincode": "303712",
+    "phone_number": "+91 94688 70545",
+    "website": "https://www.newmicrotechgroup.org/",
+    "rating": 4.1,
+    "reviews_count": 33,
+    "address": "1st floor, Venkateshwar Colony, Ramnagar Extension, Sodala, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302019",
+    "area": "Venkateshwar Colony, Ramnagar Extension, Sodala",
+    "latitude": 26.9014717,
+    "longitude": 75.77273679999999,
+    "place_id": "ChIJgUyLiG-0bTkRpdlgBOEvLHY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgUyLiG-0bTkRpdlgBOEvLHY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:35:26"
+  }
+]

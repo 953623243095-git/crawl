@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunil Tea Stall",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "303801",
+    "phone_number": "+91 63763 57653",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5GH3+J9, Doongri Khurd, Rajasthan 303801",
+    "area": "303801",
+    "latitude": 27.179062499999997,
+    "longitude": 75.50343749999999,
+    "place_id": "ChIJ7-LWRQD3bDkR0gcDkVpdxHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7-LWRQD3bDkR0gcDkVpdxHo",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:36:14"
+  },
+  {
+    "business_name": "Pk general& Tea stall",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "303801",
+    "phone_number": "+91 63763 57653",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Doongri Khurd, Rajasthan 303801",
+    "area": "303801",
+    "latitude": 27.1790518,
+    "longitude": 75.5034541,
+    "place_id": "ChIJ4X33_CD3bDkRtd2SAxyClyU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4X33_CD3bDkRtd2SAxyClyU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:36:14"
+  }
+]

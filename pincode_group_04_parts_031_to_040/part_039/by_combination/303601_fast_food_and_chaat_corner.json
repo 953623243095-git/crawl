@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaipur Chaupati Mansarovar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "303601",
+    "phone_number": "+91 79761 44311",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "SFS Agarwal Farm, Mansarovar Sector 11, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Mansarovar Sector 11, Mansarovar",
+    "latitude": 26.8406335,
+    "longitude": 75.774017,
+    "place_id": "ChIJq5DB_361bTkRxcWOSB4L2PU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq5DB_361bTkRxcWOSB4L2PU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:19:31"
+  },
+  {
+    "business_name": "Khushboo Chat",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "303601",
+    "phone_number": "+91 96945 01313",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 3317,
+    "address": "6, Sheopur Rd, Sanganer, Sector 6, Pratap Nagar, Jaipur, Rajasthan 302033",
+    "area": "Sanganer, Sector 6, Pratap Nagar",
+    "latitude": 26.810759899999997,
+    "longitude": 75.8072443,
+    "place_id": "ChIJn-mu_h3KbTkRvrFe_rRsdrQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn-mu_h3KbTkRvrFe_rRsdrQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:19:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "303604",
+    "phone_number": "+91 99826 46825",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "23P7+7PW, Rajas, Rajasthan 341509",
+    "area": "303604",
+    "latitude": 27.0357371,
+    "longitude": 75.06431359999999,
+    "place_id": "ChIJZewXHAN8bDkRAvxd58YHz2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZewXHAN8bDkRAvxd58YHz2Q",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:25:16"
+  },
+  {
+    "business_name": "R.K. Homoeopathy Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopathic pharmacy",
+    "all_categories": "Homeopathic pharmacy",
+    "pincode": "303604",
+    "phone_number": "+91 99507 99434",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 9,
+    "address": "V6GP+J89, Phulera, Rajasthan 303338",
+    "area": "303604",
+    "latitude": 26.876548,
+    "longitude": 75.23587289999999,
+    "place_id": "ChIJO5V-DLpubDkRH-FYnhfqXns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO5V-DLpubDkRH-FYnhfqXns",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:25:16"
+  }
+]

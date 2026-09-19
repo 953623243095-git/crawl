@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shekhawati hotel and restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "303702",
+    "phone_number": "+91 91663 39669",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Chomu, Rajasthan 303702",
+    "area": "303702",
+    "latitude": 27.147714999999998,
+    "longitude": 75.73217249999999,
+    "place_id": "ChIJLe0wegCrbTkRYFikKxelQCs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLe0wegCrbTkRYFikKxelQCs",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:28:46"
+  },
+  {
+    "business_name": "HOTAL M B PLAZA",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "303702",
+    "phone_number": "+91 98285 92494",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Jaipur Rd, Near HDFC Bank, Chomu, Rajasthan 303702",
+    "area": "303702",
+    "latitude": 27.166152,
+    "longitude": 75.7237206,
+    "place_id": "ChIJvVXGx7eqbTkRqqO0yYxEe40",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvVXGx7eqbTkRqqO0yYxEe40",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:28:47"
+  }
+]

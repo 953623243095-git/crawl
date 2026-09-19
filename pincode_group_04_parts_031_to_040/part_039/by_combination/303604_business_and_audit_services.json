@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Solutions Consulting LTD",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm, Service establishment, Immigration attorney",
+    "pincode": "303604",
+    "phone_number": "07404 804887",
+    "website": "https://bsconsultingltd.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Best Solutions Consulting LTD, 303604, India",
+    "area": "303604",
+    "latitude": null,
+    "longitude": null,
+    "place_id": "ChIJG7fh6RwTdkgR-EMrAoO40hM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG7fh6RwTdkgR-EMrAoO40hM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:26:22"
+  },
+  {
+    "business_name": "Business and Accounting Solutions (Private.) Limited",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm, Service establishment",
+    "pincode": "303604",
+    "phone_number": "0316 5843011",
+    "website": "https://businessandaccounting.net/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Business and Accounting Solutions (Private.) Limited, 303604, India",
+    "area": "303604",
+    "latitude": 33.6161162,
+    "longitude": 73.086108,
+    "place_id": "ChIJRy_cuOpAyYIRrQRFcvckanQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRy_cuOpAyYIRrQRFcvckanQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:26:24"
+  }
+]

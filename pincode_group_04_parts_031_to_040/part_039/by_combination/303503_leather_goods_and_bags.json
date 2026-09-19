@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajay Leather Shop",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "303503",
+    "phone_number": "+91 96943 07055",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 129,
+    "address": "Shop No.181, Fort Road, Amar Sagar Pol, Gopa Chowk, Jaisalmer, Rajasthan 345001",
+    "area": "Amar Sagar Pol",
+    "latitude": 26.914497899999997,
+    "longitude": 70.9135924,
+    "place_id": "ChIJ0WUJKS-8RzkRy5T3tcKf3lg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0WUJKS-8RzkRy5T3tcKf3lg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:03:55"
+  },
+  {
+    "business_name": "Multi Bags Work",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store, Bag shop, Leather repair service",
+    "pincode": "303503",
+    "phone_number": "+91 70143 14529",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "LalBot Choraha, opposite jyoti school street, Bedla, Udaipur, Bedala, Rajasthan 313001",
+    "area": "Bedla",
+    "latitude": 24.6363365,
+    "longitude": 73.6960878,
+    "place_id": "ChIJzbQduXDlZzkRcVVG7e68NnU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzbQduXDlZzkRcVVG7e68NnU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:03:56"
+  }
+]

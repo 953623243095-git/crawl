@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Chinese restaurant, Vegetarian restaurant",
+    "pincode": "303704",
+    "phone_number": "+91 89479 93204",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 19,
+    "address": "2VQV+XH2, NH11C, Kukas, Kookas, Rajasthan 302038",
+    "area": "303704",
+    "latitude": 27.0398958,
+    "longitude": 75.8938926,
+    "place_id": "ChIJg2P_ivOvbTkRv89TqGYPT40",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg2P_ivOvbTkRv89TqGYPT40",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:30:34"
+  },
+  {
+    "business_name": "Manas Cafe and restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "303704",
+    "phone_number": "+91 93512 26165",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 194,
+    "address": "2VQV+H2F, NH11C, near Bank Of India, Sai Dham Colony, Kookas, Rajasthan 302038",
+    "area": "Sai Dham Colony",
+    "latitude": 27.038932499999998,
+    "longitude": 75.8925373,
+    "place_id": "ChIJsSGvYvGvbTkRwBBhNo1N_G8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsSGvYvGvbTkRwBBhNo1N_G8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:30:34"
+  }
+]

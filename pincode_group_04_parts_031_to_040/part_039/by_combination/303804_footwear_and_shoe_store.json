@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahalaxmi Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "303804",
+    "phone_number": "+91 78386 19086",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 693 Itwa, Road, Chomu, Rajasthan 303804",
+    "area": "303804",
+    "latitude": 27.254794099999998,
+    "longitude": 75.7204945,
+    "place_id": "ChIJXcGYBK0BbTkRp0ZbXQIa3-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXcGYBK0BbTkRp0ZbXQIa3-g",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:40:00"
+  },
+  {
+    "business_name": "kanha shoes samod",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "303804",
+    "phone_number": "+91 99500 58994",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "khana shoes, bus stand, Samod, Rajasthan 303806",
+    "area": "303804",
+    "latitude": 27.200805,
+    "longitude": 75.8120218,
+    "place_id": "ChIJq6FsWwABbTkR1-ig091VLw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6FsWwABbTkR1-ig091VLw4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:40:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chhat Chaukhat",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "303702",
+    "phone_number": "N/A",
+    "website": "https://play.google.com/store/apps/details?id=com.fx.user",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "opposite HDFC Bank, Thana Mode, Chomu, Rajasthan 303702",
+    "area": "Thana Mode",
+    "latitude": 27.1653132,
+    "longitude": 75.72311599999999,
+    "place_id": "ChIJR92_Ma-rbTkRhdRYpo-rR14",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR92_Ma-rbTkRhdRYpo-rR14",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:28:47"
+  },
+  {
+    "business_name": "SAI CHAAP CORNER",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "303702",
+    "phone_number": "N/A",
+    "website": "https://mehtafooddelivery.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Ringus Rd, opposite FIRE STATION, Ward No.30, Chomu, Rajasthan 303702",
+    "area": "Ward No.30",
+    "latitude": 27.178606,
+    "longitude": 75.71915,
+    "place_id": "ChIJyRMPCaSrbTkRqA_HsM2n53o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyRMPCaSrbTkRqA_HsM2n53o",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:28:47"
+  }
+]

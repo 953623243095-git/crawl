@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yogmaya Institute",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio, Fitness center, Weight loss service, Yoga Retreat Center",
+    "pincode": "303603",
+    "phone_number": "+91 95711 12304",
+    "website": "http://www.yogmaya.org/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "504, Basement, B-2, Vijay Path, near Chitrakoot Stadium, Sector 2, Vaishali Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "Sector 2, Vaishali Nagar",
+    "latitude": 26.9023364,
+    "longitude": 75.73316799999999,
+    "place_id": "ChIJ1QQex6a1bTkRnXUcI4xMGA8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1QQex6a1bTkRnXUcI4xMGA8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:23:34"
+  },
+  {
+    "business_name": "Five organs yoga studio",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "303603",
+    "phone_number": "+91 94615 46389",
+    "website": "https://jaashu625.wixsite.com/fiveorganyogastudio",
+    "rating": 5,
+    "reviews_count": 150,
+    "address": "20 A, Ashok Vihar, Dada Gurudev Nagar, Sanganer, Jaipur, Rajasthan 302029",
+    "area": "Ashok Vihar, Dada Gurudev Nagar, Sanganer",
+    "latitude": 26.8027826,
+    "longitude": 75.7774311,
+    "place_id": "ChIJk_tTh2PLbTkRVgYfQtJw05A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk_tTh2PLbTkRVgYfQtJw05A",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:23:35"
+  }
+]

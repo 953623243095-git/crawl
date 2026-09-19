@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Stylish Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Gents Tailor",
+    "all_categories": "Gents Tailor, Tailor",
+    "pincode": "303601",
+    "phone_number": "+91 141 257 2840",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 10,
+    "address": "82, Haldion Ka Rasta, Dara Market, Johari Bazar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302003",
+    "area": "Dara Market, Johari Bazar",
+    "latitude": 26.9204844,
+    "longitude": 75.8289353,
+    "place_id": "ChIJ1UPubLW2bTkRVFXgtVRFgI4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1UPubLW2bTkRVFXgtVRFgI4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:19:35"
+  },
+  {
+    "business_name": "Dk tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "303601",
+    "phone_number": "+91 85029 62480",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near bhajandash ji, Dhanota, Ranipura, Rajasthan 303804",
+    "area": "303601",
+    "latitude": 27.3340471,
+    "longitude": 75.7890858,
+    "place_id": "ChIJU1pE3fEDbTkRXtbR__lsuaA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU1pE3fEDbTkRXtbR__lsuaA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:19:35"
+  }
+]

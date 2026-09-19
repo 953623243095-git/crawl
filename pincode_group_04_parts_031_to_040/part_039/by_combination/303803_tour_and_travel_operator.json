@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swastik Tour & Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "303803",
+    "phone_number": "N/A",
+    "website": "https://www.swastiktour.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shree Shyam complex, bheru ji mod, 2nd floor, near deputy office, Reengus, Rngus, Rajasthan 332404",
+    "area": "303803",
+    "latitude": 27.3686126,
+    "longitude": 75.5852287,
+    "place_id": "ChIJHyjVf3jlbDkR5NvQIS2q7r8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHyjVf3jlbDkR5NvQIS2q7r8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:38:30"
+  },
+  {
+    "business_name": "Mahadeva Holidays",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator, Bus tour agency, Car leasing service, Sightseeing Tour Operator, Taxi service, Travel agency",
+    "pincode": "303803",
+    "phone_number": "+91 92167 31973",
+    "website": "https://sites.google.com/view/mahadevholidays/",
+    "rating": 5,
+    "reviews_count": 61,
+    "address": "Reengus, Rngus, Rajasthan 332404",
+    "area": "303803",
+    "latitude": 27.3713114,
+    "longitude": 75.57792049999999,
+    "place_id": "ChIJsSTJzuflbDkR64yaeCcC9GM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsSTJzuflbDkR64yaeCcC9GM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:38:32"
+  }
+]

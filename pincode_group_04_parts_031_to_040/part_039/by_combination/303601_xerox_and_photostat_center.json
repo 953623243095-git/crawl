@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chatrapati xerox centre",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Service establishment",
+    "pincode": "303601",
+    "phone_number": "+91 99226 53015",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Chatrapati xerox centre, 303601, India",
+    "area": "303601",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ1QvS1czFxTsRrj9uy0ciWKA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1QvS1czFxTsRrj9uy0ciWKA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:20:37"
+  },
+  {
+    "business_name": "xerox point",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "303601",
+    "phone_number": "+91 72083 20301",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SHOP NO 11, Kohinoor Residency, PLOT NO 2, opposite AXIS BANK, Sector 11, Kamothe, Panvel, Maharashtra 410209",
+    "area": "Sector 11, Kamothe, Panvel",
+    "latitude": 19.0217486,
+    "longitude": 73.0912331,
+    "place_id": "ChIJgYim_dbp5zsR8MEht2MnTWI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgYim_dbp5zsR8MEht2MnTWI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:20:37"
+  }
+]

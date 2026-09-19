@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GFC gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "303801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 18,
+    "address": "vilandarpur rd, Khejroli, Rajasthan 303803",
+    "area": "303801",
+    "latitude": 27.3259792,
+    "longitude": 75.7101301,
+    "place_id": "ChIJxfYoyJj9bDkRpU2hfZTeyNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxfYoyJj9bDkRpU2hfZTeyNY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:36:35"
+  },
+  {
+    "business_name": "CARDIO EXPRESS FITNESS (GYM)",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "303801",
+    "phone_number": "+91 91666 61116",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "1 floor, 88, Gurunanakpura, Raja Park, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302004",
+    "area": "Gurunanakpura, Raja Park",
+    "latitude": 26.8965079,
+    "longitude": 75.82465069999999,
+    "place_id": "ChIJ--AN15W2bTkRXoOQPQt-hIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ--AN15W2bTkRXoOQPQt-hIM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:36:36"
+  }
+]

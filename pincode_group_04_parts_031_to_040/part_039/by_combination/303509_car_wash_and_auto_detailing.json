@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Detailing Daddy",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto bodywork mechanic, Auto parts store, Auto restoration service, Car alarm supplier, Car security system installer, Car stereo store",
+    "pincode": "303509",
+    "phone_number": "+91 70660 77667",
+    "website": "https://www.detailingdaddy.com/",
+    "rating": 4.9,
+    "reviews_count": 81,
+    "address": "60, Gangabai Ghat Rd, near Baba Nanak High School, beside GS Tyres, Block Number 8, Mangalwari, Nagpur, Maharashtra 440008",
+    "area": "Block Number 8, Mangalwari",
+    "latitude": 21.144684599999998,
+    "longitude": 79.1195498,
+    "place_id": "ChIJ5Sd8vNLH1DsRbSDh3ot76bk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Sd8vNLH1DsRbSDh3ot76bk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:14:40"
+  },
+  {
+    "business_name": "Pooran Diesel Repairing Works",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Engine Rebuilding Service Station, Engineer",
+    "pincode": "303509",
+    "phone_number": "+91 94142 38708",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 51,
+    "address": "Nikatpuri, Manpur, Rajasthan 303509",
+    "area": "303509",
+    "latitude": 26.969693799999998,
+    "longitude": 76.6828044,
+    "place_id": "ChIJxbq2yK1tcjkRlt9HSPpgyvM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxbq2yK1tcjkRlt9HSPpgyvM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:14:43"
+  }
+]

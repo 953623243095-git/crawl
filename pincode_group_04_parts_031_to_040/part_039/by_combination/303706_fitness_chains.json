@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Elite Fitness World",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "303706",
+    "phone_number": "+91 98877 36132",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "M-29, JP Phatak Under Pass Rd, Mahesh Colony, Ambedkar Nagar, Tonk Phatak, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302015",
+    "area": "Mahesh Colony, Ambedkar Nagar, Tonk Phatak",
+    "latitude": 26.881971999999998,
+    "longitude": 75.795496,
+    "place_id": "ChIJpahuwi-0bTkRRVskjygOCl0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpahuwi-0bTkRRVskjygOCl0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:32:51"
+  },
+  {
+    "business_name": "Sports Galaxy",
+    "search_category": "Fitness Chains",
+    "primary_category": "Sporting goods store",
+    "all_categories": "Sporting goods store",
+    "pincode": "303706",
+    "phone_number": "+91 96029 44665",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 103,
+    "address": "Shop No G 1 2 Sector 10 Plot No 55 Opp Chitrkoot Stadium Chitikoot, Vaishali Nagar, Jaipur, Rajasthan 302021",
+    "area": "Vaishali Nagar",
+    "latitude": 26.900641999999998,
+    "longitude": 75.7368602,
+    "place_id": "ChIJVQ3NUL20bTkRUyQPpUQI-gE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVQ3NUL20bTkRUyQPpUQI-gE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:32:52"
+  }
+]

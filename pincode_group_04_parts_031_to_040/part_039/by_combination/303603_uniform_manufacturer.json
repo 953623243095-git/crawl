@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhawka Enterprises",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing supplier",
+    "all_categories": "Clothing supplier, Clothing manufacturer, Clothing wholesaler",
+    "pincode": "303603",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 8,
+    "address": "212, Kheri Milak, Rajasthan 303123",
+    "area": "303603",
+    "latitude": 27.073997799999997,
+    "longitude": 75.4303662,
+    "place_id": "ChIJAQAAAMxebDkRXKP2VYU3ZrY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAMxebDkRXKP2VYU3ZrY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:23:22"
+  },
+  {
+    "business_name": "Fixa Branch-Renwal",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothes and fabric manufacturer",
+    "all_categories": "Clothes and fabric manufacturer",
+    "pincode": "303603",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5926+QF9 चौमू रोड़ कि, Renwal, Rainwal, Rajasthan 303603",
+    "area": "303603",
+    "latitude": 27.151885999999998,
+    "longitude": 75.36124149999999,
+    "place_id": "ChIJuTPhQgD1bDkR5Kdwxw5WawY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuTPhQgD1bDkR5Kdwxw5WawY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:23:22"
+  }
+]

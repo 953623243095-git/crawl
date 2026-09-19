@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Pet Glow",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Pet groomer",
+    "all_categories": "Pet groomer",
+    "pincode": "303806",
+    "phone_number": "+91 90793 02650",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 46,
+    "address": "Plot number - 204, Ram Gali Number 2, Raja Park, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302004",
+    "area": "Raja Park",
+    "latitude": 26.893673399999997,
+    "longitude": 75.8322556,
+    "place_id": "ChIJvYXlwlS3bTkRjDy7kLdn5d4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvYXlwlS3bTkRjDy7kLdn5d4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:44:05"
+  },
+  {
+    "business_name": "Sun Remedies",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company",
+    "pincode": "303806",
+    "phone_number": "+91 86190 46113",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "Riddhi Siddhi Tower, 24, Sikar Rd, Sector 2, Sector 5, Vidyadhar Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302039",
+    "area": "Sector 2, Sector 5, Vidyadhar Nagar",
+    "latitude": 26.970225499999998,
+    "longitude": 75.7743838,
+    "place_id": "ChIJibSHXE6ybTkR-5OmzLzTTjY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJibSHXE6ybTkR-5OmzLzTTjY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:44:05"
+  }
+]

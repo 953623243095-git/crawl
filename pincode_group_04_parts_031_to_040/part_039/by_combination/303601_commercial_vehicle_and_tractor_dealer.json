@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "91trucks Store - Buy Used Commercial Vehicles",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Used truck dealer",
+    "all_categories": "Used truck dealer",
+    "pincode": "303601",
+    "phone_number": "+91 93119 57413",
+    "website": "https://www.91trucks.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "91Trucks Ambika Estates, Near Navjeevan Hospital, Sarkhej Chowkdi, Ahmedabad- 382210 91Trucks, Ahmedabad, Gujarat 382210",
+    "area": "Sarkhej",
+    "latitude": 22.9849452,
+    "longitude": 72.500658,
+    "place_id": "ChIJhVFL1qubXjkRsSoIceiTdMc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhVFL1qubXjkRsSoIceiTdMc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:19:56"
+  },
+  {
+    "business_name": "JAYANT MOTORS",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer, Repair service, Tractor repair shop",
+    "pincode": "303601",
+    "phone_number": "+91 98123 85204",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 48,
+    "address": "Near- Poswal Chowk, Bye Pass Road, Kalaka Rd, Rewari, Haryana 123401",
+    "area": "Vijay Nagar",
+    "latitude": 28.190483,
+    "longitude": 76.63702099999999,
+    "place_id": "ChIJxzyceANQDTkRUeFwx_Z549A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxzyceANQDTkRUeFwx_Z549A",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:19:58"
+  }
+]

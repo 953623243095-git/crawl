@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Stockifi",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant",
+    "pincode": "303801",
+    "phone_number": "+91 93212 30520",
+    "website": "http://stockifi.in/",
+    "rating": 4.9,
+    "reviews_count": 649,
+    "address": "Kewal Nagar, Stockifi, Borivali, Mumbai, Maharashtra 400092",
+    "area": "Kewal Nagar, Stockifi, Borivali",
+    "latitude": 19.2365617,
+    "longitude": 72.8526821,
+    "place_id": "ChIJkeVtCxux5zsR7clCiFCR-7o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkeVtCxux5zsR7clCiFCR-7o",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:37:27"
+  },
+  {
+    "business_name": "STOCKWISE INDIA PVT LTD.",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "303801",
+    "phone_number": "+91 70309 42020",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 40,
+    "address": "Above Hotel Visava, Malavarchi Devi Road, Indapur Rd, Baramati, Maharashtra 413102",
+    "area": "303801",
+    "latitude": 18.1464073,
+    "longitude": 74.5887091,
+    "place_id": "ChIJXxqY-ZehwzsR2KptjQdHlU8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXxqY-ZehwzsR2KptjQdHlU8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:37:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Super home decor",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Sofa store",
+    "all_categories": "Sofa store",
+    "pincode": "303704",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Badpipli stand, Near suncity mangalam vihar road bad people stand, Sikar Rd, near Suncity Township, Jaipur, Rajasthan 302048",
+    "area": "303704",
+    "latitude": 27.041224099999997,
+    "longitude": 75.7556365,
+    "place_id": "ChIJkXZIYwCtbTkR8IKBw3kTmI0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkXZIYwCtbTkR8IKBw3kTmI0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:31:20"
+  },
+  {
+    "business_name": "Loccus Furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Outdoor furniture store",
+    "all_categories": "Outdoor furniture store, Cane furniture store, Furniture store, Furniture wholesaler, Garden Furniture Store",
+    "pincode": "303704",
+    "phone_number": "+91 98758 04733",
+    "website": "https://www.loccusfurniture.com/",
+    "rating": 5,
+    "reviews_count": 39,
+    "address": "Plot No. 33, Gautam Vihar, Second, Mansa Mata Rd, Harmada, Jaipur, Jaipur Greater (M Corp.) (Part), Rajasthan 302013",
+    "area": "Harmada",
+    "latitude": 27.0155927,
+    "longitude": 75.7760813,
+    "place_id": "ChIJrxZGqWStbTkRO8bJ_tMPj3M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrxZGqWStbTkRO8bJ_tMPj3M",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:31:21"
+  }
+]

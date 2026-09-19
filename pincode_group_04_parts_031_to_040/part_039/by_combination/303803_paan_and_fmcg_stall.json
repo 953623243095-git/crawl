@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paan Aroma",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop, Bakery and Cake Shop, Cafe, Chocolate cafe",
+    "pincode": "303803",
+    "phone_number": "+91 80581 37809",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 36,
+    "address": "in front of Nagar Nigam Jagatpura Zone, Sector 13, Siddharth Nagar, Nandpuri Colony, Malviya Nagar, Jaipur, Rajasthan 302017",
+    "area": "Sector 13, Siddharth Nagar, Nandpuri Colony, Malviya Nagar",
+    "latitude": 26.8465514,
+    "longitude": 75.8106779,
+    "place_id": "ChIJ177bd-G3bTkR7StSfcLAGfU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ177bd-G3bTkR7StSfcLAGfU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:37:54"
+  },
+  {
+    "business_name": "Pathak Ji Paan Bhandaar",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop",
+    "pincode": "303803",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jaitpur Nala Rd, Saurabh Vihar, Jaitpur, New Delhi, Delhi 110044",
+    "area": "Saurabh Vihar, Jaitpur",
+    "latitude": 28.5107383,
+    "longitude": 77.3206503,
+    "place_id": "ChIJY2FkxC_nDDkRUq4wSjXX9V0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY2FkxC_nDDkRUq4wSjXX9V0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:37:55"
+  }
+]

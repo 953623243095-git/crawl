@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiv Medical & Telemedicine Center",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "303807",
+    "phone_number": "+91 97821 04738",
+    "website": "https://smtcshiv-medical-telemedicine-center.business/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "siddhi vinayak multispecialty hospital and Research center, ke paas, Samod Rd, Chomu, Rajasthan 303805",
+    "area": "303807",
+    "latitude": 27.1774491,
+    "longitude": 75.7414144,
+    "place_id": "ChIJqyM0q02rbTkRC6aCA5-QmJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqyM0q02rbTkRC6aCA5-QmJI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:45:48"
+  },
+  {
+    "business_name": "Balaji Cure & Care Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "303807",
+    "phone_number": "+91 94621 34373",
+    "website": "https://www.balajihospitals.co.in/",
+    "rating": 4.8,
+    "reviews_count": 1217,
+    "address": "Kanak Vihar, plot no.-1 2 3, Meena Wala -Sirsi Rd, Roshan Nagar, Kanakpura, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302041",
+    "area": "Roshan Nagar, Kanakpura",
+    "latitude": 26.9242861,
+    "longitude": 75.6987284,
+    "place_id": "ChIJXz6IV_9NbDkRgjC4s1xybDg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXz6IV_9NbDkRgjC4s1xybDg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:45:49"
+  }
+]

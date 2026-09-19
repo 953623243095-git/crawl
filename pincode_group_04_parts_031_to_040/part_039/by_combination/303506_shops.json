@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nanda ki thadi (नंदा की थड़ी",
+    "search_category": "Shops",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "303506",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "QC8H+RC9, Hapawas Rd, Dharanwas, Hapawas, Rajasthan 303506",
+    "area": "303506",
+    "latitude": 26.767049999999998,
+    "longitude": 76.4285991,
+    "place_id": "ChIJU_acPgD3bTkREEv2n7vryIc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU_acPgD3bTkREEv2n7vryIc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:10:33"
+  },
+  {
+    "business_name": "SHIVAM BANSAL",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "303506",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Paparda, Rajasthan 303506",
+    "area": "303506",
+    "latitude": 26.781463799999997,
+    "longitude": 76.440035,
+    "place_id": "ChIJowE0lwX3bTkRlPJLaGDKdhk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJowE0lwX3bTkRlPJLaGDKdhk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:10:34"
+  }
+]

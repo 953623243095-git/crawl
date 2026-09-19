@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The English Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "303348",
+    "phone_number": "+91 135 265 5192",
+    "website": "https://www.englishbookdepot.com/",
+    "rating": 4.5,
+    "reviews_count": 356,
+    "address": "15A, C\\O English Book Depot, 15, Rajpur Rd, Ghanta Ghar, Chukkuwala, Dehradun, Uttarakhand 248001",
+    "area": "Ghanta Ghar, Chukkuwala",
+    "latitude": 30.326932099999997,
+    "longitude": 78.0447782,
+    "place_id": "ChIJ7R86mcEpCTkRksAYIP--Ey4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7R86mcEpCTkRksAYIP--Ey4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 05:59:25"
+  },
+  {
+    "business_name": "Jaipur Stationers",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop, Envelope supplier, Gift basket store, Packaging supply store, Pen store",
+    "pincode": "303348",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "209, Tripolia Bazar, Pink City, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302003",
+    "area": "Tripolia Bazar, Pink City",
+    "latitude": 26.9230833,
+    "longitude": 75.82557249999999,
+    "place_id": "ChIJ2WX0OEuxbTkRkQDpfCEk_Rs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2WX0OEuxbTkRkQDpfCEk_Rs",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 05:59:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Shyam Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "303604",
+    "phone_number": "+91 98877 49701",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 8,
+    "address": "Bus Stand, Main, Boraj, Rajasthan 303338",
+    "area": "303604",
+    "latitude": 26.8653947,
+    "longitude": 75.4444619,
+    "place_id": "ChIJB_V4UEtHbDkROZ_9nVLnNyg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB_V4UEtHbDkROZ_9nVLnNyg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:26:10"
+  },
+  {
+    "business_name": "Unique Computer IT Solutions",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service",
+    "pincode": "303604",
+    "phone_number": "+91 70144 56767",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 46,
+    "address": "8/120, sec. 8, Malviya Nagar, Jaipur, Rajasthan 302017",
+    "area": "sec. 8, Malviya Nagar",
+    "latitude": 26.843663,
+    "longitude": 75.8055421,
+    "place_id": "ChIJJwr5FeK1bTkRxG8P0HprlNA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJwr5FeK1bTkRxG8P0HprlNA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:26:10"
+  }
+]

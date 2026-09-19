@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat Coldrink Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "303506",
+    "phone_number": "+91 96940 10596",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Papda Main Market Hapawas Choraya, Rajasthan 303506",
+    "area": "303506",
+    "latitude": 26.7785752,
+    "longitude": 76.4393375,
+    "place_id": "ChIJPSg9ecf3bTkR6aNFIrTfBVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPSg9ecf3bTkR6aNFIrTfBVw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:08:48"
+  },
+  {
+    "business_name": "Ipsa ishan",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "303506",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "P9HV+J7C, Baijwari, Rajasthan 303505",
+    "area": "303506",
+    "latitude": 26.7290679,
+    "longitude": 76.3931346,
+    "place_id": "ChIJB4NSAT33bTkRC4o8QyRTOp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB4NSAT33bTkRC4o8QyRTOp4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:08:51"
+  }
+]

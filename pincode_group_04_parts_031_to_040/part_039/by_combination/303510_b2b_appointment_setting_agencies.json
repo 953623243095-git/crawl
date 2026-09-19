@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Travel BPO",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Service establishment",
+    "pincode": "303510",
+    "phone_number": "+91 98910 57170",
+    "website": "http://www.travelsbpo.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Travel BPO, 303510, India",
+    "area": "303510",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ_3SC5BcbDTkRMBAm3wRJgLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_3SC5BcbDTkRMBAm3wRJgLk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:17:31"
+  },
+  {
+    "business_name": "Maid Connect India",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Employment center",
+    "all_categories": "Employment center, Service establishment",
+    "pincode": "303510",
+    "phone_number": "N/A",
+    "website": "https://www.maidconnectindia.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Maid Connect India, 303510, India",
+    "area": "303510",
+    "latitude": 23.054287799999997,
+    "longitude": 83.6587605,
+    "place_id": "ChIJsxoTsD7Fl40R6Hle5UXXEEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsxoTsD7Fl40R6Hle5UXXEEA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:17:31"
+  }
+]

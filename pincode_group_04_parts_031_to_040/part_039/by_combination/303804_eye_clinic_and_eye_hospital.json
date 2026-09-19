@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Eye hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Ophthalmologist",
+    "all_categories": "Ophthalmologist",
+    "pincode": "303804",
+    "phone_number": "+91 77372 40422",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "opposite government hospital, Shahpura, Rajasthan 303103",
+    "area": "303804",
+    "latitude": 27.3854282,
+    "longitude": 75.95857339999999,
+    "place_id": "ChIJ-3PxFWoPbTkRrIBUX2tKqp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-3PxFWoPbTkRrIBUX2tKqp0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:40:08"
+  },
+  {
+    "business_name": "GOLDEN EYE HOSPITAL",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "303804",
+    "phone_number": "+91 77920 47756",
+    "website": "http://goldeneyehospital.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "A-2, opp. Calgary eye hospital, near apex circle, Malviya Nagar, Jaipur, Rajasthan 302017",
+    "area": "Sector 1, Malviya Nagar",
+    "latitude": 26.855281899999998,
+    "longitude": 75.8220386,
+    "place_id": "ChIJv2UKN8-3bTkRcXzUgOENSx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv2UKN8-3bTkRcXzUgOENSx4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:40:08"
+  }
+]
