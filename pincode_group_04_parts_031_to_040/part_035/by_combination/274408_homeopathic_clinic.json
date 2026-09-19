@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adarsh homeo clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "274408",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PR45+3J3, Bhatni Dadan, Haraiya, Uttar Pradesh 274206",
+    "area": "274408",
+    "latitude": 26.705148599999998,
+    "longitude": 83.8090375,
+    "place_id": "ChIJZzF0hfPpkzkRrb7eIQdDoDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZzF0hfPpkzkRrb7eIQdDoDc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:04:19"
+  },
+  {
+    "business_name": "Usha Homeo clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Medical group",
+    "all_categories": "Medical group",
+    "pincode": "274408",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PR45+2HQ, Haraiya, Uttar Pradesh 274206",
+    "area": "274408",
+    "latitude": 26.7050992,
+    "longitude": 83.8089707,
+    "place_id": "ChIJJW51ENnpkzkRm7q2CUSHnW4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJW51ENnpkzkRm7q2CUSHnW4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:04:19"
+  }
+]

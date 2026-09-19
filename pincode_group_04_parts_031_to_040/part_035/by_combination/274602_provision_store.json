@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sahani General Store",
+    "search_category": "Provision Store",
+    "primary_category": "Outlet mall",
+    "all_categories": "Outlet mall",
+    "pincode": "274602",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Primary School Road, Narayanpur Pandey, Uttar Pradesh 274602",
+    "area": "274602",
+    "latitude": 26.1364974,
+    "longitude": 83.9026243,
+    "place_id": "ChIJ20VsnEk3kjkRK5tuKZ2t6Dc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ20VsnEk3kjkRK5tuKZ2t6Dc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:21:01"
+  },
+  {
+    "business_name": "Khetan Provision Store",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "274602",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Purani Sabji Mandi, Katra Road, opposite Marwadi Dharamshala, GuruTola, Azamgarh, Araji Man Kunwar, Uttar Pradesh 276001",
+    "area": "GuruTola",
+    "latitude": 26.0680667,
+    "longitude": 83.1807716,
+    "place_id": "ChIJE1cNXrO8kTkR_HUmmdTxQsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE1cNXrO8kTkR_HUmmdTxQsU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:21:03"
+  }
+]

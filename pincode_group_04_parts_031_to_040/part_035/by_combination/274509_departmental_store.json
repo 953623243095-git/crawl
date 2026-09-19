@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ansari general Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "274509",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Railway station road, gandhi chowk, Salempur, Deoria, Uttar Pradesh 274509",
+    "area": "gandhi chowk",
+    "latitude": 26.298233399999997,
+    "longitude": 83.8997581,
+    "place_id": "ChIJ4ZbBWFLLkzkRQkw48Otxq08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4ZbBWFLLkzkRQkw48Otxq08",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:17:15"
+  },
+  {
+    "business_name": "Sri Nav Durga Vastralay",
+    "search_category": "Departmental Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "274509",
+    "phone_number": "+91 94156 29830",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "7WWC+6H8, Salempur - Deoria Rd, Nayagaon, Salempur, Uttar Pradesh 274509",
+    "area": "Nayagaon",
+    "latitude": 26.295548999999998,
+    "longitude": 83.9214566,
+    "place_id": "ChIJVcZACrLKkzkR8CFwsTL5TYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVcZACrLKkzkR8CFwsTL5TYs",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:17:18"
+  }
+]

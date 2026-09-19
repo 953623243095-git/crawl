@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kakka Ji Food Products",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "274404",
+    "phone_number": "+91 98391 32668",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "K - 57/128, near Maidagin Crossing, Navapura, Kotwali, Varanasi, Uttar Pradesh 221001",
+    "area": "Navapura, Kotwali",
+    "latitude": 25.318846999999998,
+    "longitude": 83.0128319,
+    "place_id": "ChIJCcsfdRcujjkRnvAGGgp1ZrA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCcsfdRcujjkRnvAGGgp1ZrA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:56:30"
+  },
+  {
+    "business_name": "Mayur Mart",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "274404",
+    "phone_number": "+91 542 239 0456",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Jalapa Devi Rd, Kashipura, Bulanala, Varanasi, Uttar Pradesh 221001",
+    "area": "Kashipura, Bulanala",
+    "latitude": 25.3178488,
+    "longitude": 83.00886849999999,
+    "place_id": "ChIJV9ndIhoujjkRaXwfzpIDZ2c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV9ndIhoujjkRaXwfzpIDZ2c",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:56:31"
+  }
+]

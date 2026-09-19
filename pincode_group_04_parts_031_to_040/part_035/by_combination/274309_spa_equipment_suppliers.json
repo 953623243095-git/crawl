@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Midas Beauty Mart",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Store",
+    "all_categories": "Store, Beauty Products Wholesaler",
+    "pincode": "274309",
+    "phone_number": "+91 98466 15552",
+    "website": "http://www.midasbeautymarts.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Pandit Karuppan Complex Behind BPCL Petrol Pump High Court, Abraham Madamakkal Rd, Marine Drive, Gosree, Kochi, Keralam 682018",
+    "area": "Marine Drive",
+    "latitude": 9.9905226,
+    "longitude": 76.2720202,
+    "place_id": "ChIJEVcdC1QNCDsRoqkwulHlS2k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEVcdC1QNCDsRoqkwulHlS2k",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:50:18"
+  },
+  {
+    "business_name": "Prosperon Industries",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "274309",
+    "phone_number": "+91 77448 88222",
+    "website": "https://www.prosperonindia.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Navnath Nagar, near Pranay Stamping Company, MIDC Ambad, Nashik, Maharashtra 422010",
+    "area": "Krishna Nagar, MIDC Ambad",
+    "latitude": 19.9660333,
+    "longitude": 73.73983869999999,
+    "place_id": "ChIJoaqqqraU3TsRGU0cpgzqBCU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoaqqqraU3TsRGU0cpgzqBCU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:50:18"
+  }
+]

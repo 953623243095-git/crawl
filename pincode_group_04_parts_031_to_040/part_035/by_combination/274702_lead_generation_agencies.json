@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Leads N Latte",
+    "search_category": "Lead Generation Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "274702",
+    "phone_number": "+91 81300 81298",
+    "website": "https://leadsnlatte.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "ITHUM TOWER, C-615, Block A, Industrial Area, Sector 62, Noida, Uttar Pradesh 201301",
+    "area": "Block A, Industrial Area, Sector 62",
+    "latitude": 28.6265678,
+    "longitude": 77.3724117,
+    "place_id": "ChIJYW0Kb0ADDTkRBgU4Qk06R6w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYW0Kb0ADDTkRBgU4Qk06R6w",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:30:31"
+  },
+  {
+    "business_name": "SHRI RAMDHANI ENTERPRISES",
+    "search_category": "Lead Generation Agencies",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service",
+    "pincode": "274702",
+    "phone_number": "+91 75085 04460",
+    "website": "https://ajivainfotech.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhopatpura, Sisai Road, near Lalachapar Bazar, Bhorey, Bhopatpura, Bihar 841426",
+    "area": "274702",
+    "latitude": 26.390846099999997,
+    "longitude": 84.1317698,
+    "place_id": "ChIJU8QhL_6tkzkRviq_m4Q4B0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU8QhL_6tkzkRviq_m4Q4B0g",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:30:31"
+  }
+]

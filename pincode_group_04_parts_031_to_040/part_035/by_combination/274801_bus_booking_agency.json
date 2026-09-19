@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madanpur mode bus stand",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "274801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Madanpur More Bus Stop, NH 28B, SH 64, Madanpur, Bihar 845105",
+    "area": "274801",
+    "latitude": 27.23321,
+    "longitude": 83.99951899999999,
+    "place_id": "ChIJ8dY9H7JzlDkRjxTcPQYn5Uw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8dY9H7JzlDkRjxTcPQYn5Uw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:37:04"
+  },
+  {
+    "business_name": "Gorakhdham Express Bus Service",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "274801",
+    "phone_number": "+91 84292 72520",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Gali Number 3, Chhalera, Chhalera Bangar, Sector 44, Noida, Uttar Pradesh 201303",
+    "area": "Chhalera, Chhalera Bangar, Sector 44",
+    "latitude": 28.5601831,
+    "longitude": 77.3443544,
+    "place_id": "ChIJ89Bh-8XlDDkR8nvxV06u4V8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ89Bh-8XlDDkR8nvxV06u4V8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:37:05"
+  }
+]

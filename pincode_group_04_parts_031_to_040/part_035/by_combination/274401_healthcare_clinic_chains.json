@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mamta Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "274401",
+    "phone_number": "+91 94152 70135",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 8,
+    "address": "Chauraha, Hariharpur, Uttar Pradesh 274407",
+    "area": "274401",
+    "latitude": 26.6876754,
+    "longitude": 84.1847155,
+    "place_id": "ChIJizPyJwuZkzkRZZccdLbZLrE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJizPyJwuZkzkRZZccdLbZLrE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:51:40"
+  },
+  {
+    "business_name": "Community Health Centre CHC Fazilnagar",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital",
+    "pincode": "274401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 10,
+    "address": "M2JW+FCJ, Fazilnagar, Uttar Pradesh 274401",
+    "area": "274401",
+    "latitude": 26.6812054,
+    "longitude": 84.0460264,
+    "place_id": "ChIJjWQrByWWkzkRroRCQuZZnOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjWQrByWWkzkRroRCQuZZnOI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:51:42"
+  }
+]

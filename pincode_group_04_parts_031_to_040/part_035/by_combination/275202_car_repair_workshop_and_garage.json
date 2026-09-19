@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satish Auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "275202",
+    "phone_number": "+91 63901 57012",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Satish Kumar, Horil Patti, Uttar Pradesh 275203",
+    "area": "275202",
+    "latitude": 25.7409257,
+    "longitude": 83.361571,
+    "place_id": "ChIJu3juy-zvkTkRvMsew-Lvvl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu3juy-zvkTkRvMsew-Lvvl8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:57:24"
+  },
+  {
+    "business_name": "Kgn Bike Auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "275202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rekwardih, Uttar Pradesh 275103",
+    "area": "275202",
+    "latitude": 25.8600684,
+    "longitude": 83.4705702,
+    "place_id": "ChIJhx-QRRvzkTkRn60_iOBPwnI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhx-QRRvzkTkRn60_iOBPwnI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:57:24"
+  }
+]

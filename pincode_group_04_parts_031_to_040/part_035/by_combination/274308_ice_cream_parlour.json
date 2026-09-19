@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Garden Ice Cream Restaurant",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Restaurant",
+    "pincode": "274308",
+    "phone_number": "+91 2168 261 052",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Panchgani - Mahabaleshwar Rd, Lingmala, Mahabaleshwar, Maharashtra 412806",
+    "area": "Lingmala",
+    "latitude": 17.9355755,
+    "longitude": 73.6880546,
+    "place_id": "ChIJrRXc7G1lwjsReAWEkRK_1Zc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrRXc7G1lwjsReAWEkRK_1Zc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:47:40"
+  },
+  {
+    "business_name": "Cream Town",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Catering food and drink supplier, Caterer, Party store, Restaurant, Restaurant supply store",
+    "pincode": "274308",
+    "phone_number": "+91 95025 83254",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Yadayya Complex, 9-139, Sai Ram Theatre Rd, South Venkateshwara Nagar, Sathya Reddy Colony, Malkajgiri, Secunderabad, Telangana 500047",
+    "area": "South Venkateshwara Nagar, Sathya Reddy Colony, Malkajgiri",
+    "latitude": 17.445411399999998,
+    "longitude": 78.535142,
+    "place_id": "ChIJgbWIhJSbyzsRNU3M_teCFEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgbWIhJSbyzsRNU3M_teCFEE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:47:41"
+  }
+]

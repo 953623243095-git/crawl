@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bra House",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Lingerie store",
+    "all_categories": "Lingerie store",
+    "pincode": "275202",
+    "phone_number": "+91 99103 09787",
+    "website": "http://www.brahouse.in/",
+    "rating": 4.9,
+    "reviews_count": 1120,
+    "address": "G 20, 1, Block G, Rajouri Garden, Delhi, 110027",
+    "area": "Block G, Rajouri Garden",
+    "latitude": 28.644284799999998,
+    "longitude": 77.12122099999999,
+    "place_id": "ChIJBc9-7m0DDTkRue_MLvFd7Js",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBc9-7m0DDTkRue_MLvFd7Js",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:57:11"
+  },
+  {
+    "business_name": "Pragya Hosiery (Meem/Moomin)",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "275202",
+    "phone_number": "+91 87509 88779",
+    "website": "http://www.indiamart.com/pragya-hosiery/",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "8/35, G.F, GEETA COLONY, Geeta Colony, New Delhi, Delhi, 110031",
+    "area": "G.F, GEETA COLONY, Geeta Colony",
+    "latitude": 28.655179999999998,
+    "longitude": 77.26992249999999,
+    "place_id": "ChIJC4Gk5pH9DDkR2Es885oLK68",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC4Gk5pH9DDkR2Es885oLK68",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:57:13"
+  }
+]

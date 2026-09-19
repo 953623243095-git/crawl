@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sengar dhaba & family restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "274705",
+    "phone_number": "+91 95284 65940",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "SH 33, Nagla Keson, Uttar Pradesh 204102",
+    "area": "274705",
+    "latitude": 27.633653199999998,
+    "longitude": 78.151901,
+    "place_id": "ChIJ6T1eOvaRdDkRkgOhQQAuolY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6T1eOvaRdDkRkgOhQQAuolY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:34:38"
+  },
+  {
+    "business_name": "Bihar line hotel (Dhaba)",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "274705",
+    "phone_number": "+91 90062 26786",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 94,
+    "address": "Itwa, Mirganj, Bihar 841438",
+    "area": "274705",
+    "latitude": 26.383741,
+    "longitude": 84.353004,
+    "place_id": "ChIJT8kQSAwBkzkRxCGaKHS1UIA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT8kQSAwBkzkRxCGaKHS1UIA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:34:38"
+  }
+]

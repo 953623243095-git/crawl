@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hamsafar Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "274602",
+    "phone_number": "N/A",
+    "website": "https://hamsafartravels.blogspot.com/2021/01/luxury-ac-bus.html",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4V94+HH8, Belthara, Uttar Pradesh 221715",
+    "area": "274602",
+    "latitude": 26.118916199999997,
+    "longitude": 83.85645219999999,
+    "place_id": "ChIJr_K_UDI3kjkR34wbb_lyFag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr_K_UDI3kjkR34wbb_lyFag",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:21:46"
+  },
+  {
+    "business_name": "Desire Yatra",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "274602",
+    "phone_number": "+91 70656 66240",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 25,
+    "address": "Azimullah Chauraha, Bata Gali, near Ansari Tent Hause, Chedibeer, Bhadohi, Piyari, Uttar Pradesh 221401",
+    "area": "Chedibeer",
+    "latitude": 25.397537,
+    "longitude": 82.5670579,
+    "place_id": "ChIJQVvsh4PfjzkRRPx8ItQXml8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQVvsh4PfjzkRRPx8ItQXml8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:21:47"
+  }
+]

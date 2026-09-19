@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RCM Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "275204",
+    "phone_number": "+91 95190 73695",
+    "website": "https://www.rcmworld.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "BC Prasad WWQ, Unnamed Road, Moudhia, Uttar Pradesh 275204",
+    "area": "275204",
+    "latitude": 25.6251255,
+    "longitude": 83.3286212,
+    "place_id": "ChIJnTo4zO7nkTkR2I6KIpUKs30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnTo4zO7nkTkR2I6KIpUKs30",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:00:27"
+  },
+  {
+    "business_name": "Grocery Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "275204",
+    "phone_number": "+91 98898 24932",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1002, sugar Mill Shadiabad Road, Ghazipur, Barhat, Uttar Pradesh 233311",
+    "area": "275204",
+    "latitude": 25.637897199999998,
+    "longitude": 83.39572989999999,
+    "place_id": "ChIJU7Fs9rPlkTkRHIC5ef6kz2k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU7Fs9rPlkTkRHIC5ef6kz2k",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:00:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dabbu Chacha Coffee Shop",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store, Coffee shop",
+    "pincode": "274604",
+    "phone_number": "+91 70194 99331",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Mathura - Govardhan Rd, near Deeg Road, Govardhan, Mathura, Uttar Pradesh 281123",
+    "area": "274604",
+    "latitude": 27.489093999999998,
+    "longitude": 77.4716873,
+    "place_id": "ChIJ2ckobgAPczkRi0dhkHtJi3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ckobgAPczkRi0dhkHtJi3Q",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:24:52"
+  },
+  {
+    "business_name": "Pandit ji tea & coffee cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "274604",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "FFRH+HV5, MDR94W, Govardhan, Jamunavata, Uttar Pradesh 281123",
+    "area": "274604",
+    "latitude": 27.491388699999998,
+    "longitude": 77.4797194,
+    "place_id": "ChIJs7kBuN0NczkRbgoEMQjt52A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs7kBuN0NczkRbgoEMQjt52A",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:24:52"
+  }
+]

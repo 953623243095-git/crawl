@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lari Health Care Centre",
+    "search_category": "Wellness Center",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "274508",
+    "phone_number": "+91 96210 84786",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 5, Police Station, Pindi - Lar Rd, near Central Bank Of India, Lar, Uttar Pradesh 274502",
+    "area": "274508",
+    "latitude": 26.2077833,
+    "longitude": 83.9679537,
+    "place_id": "ChIJxQwC7sdLkjkRSUv1XW1M3FU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxQwC7sdLkjkRSUv1XW1M3FU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:16:24"
+  },
+  {
+    "business_name": "AMARPUSHP HEALTH CARE CENTER",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "274508",
+    "phone_number": "+91 88967 71700",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Navratanpur Sisotar Rd, Koth, Sikandarpur, Uttar Pradesh 221717",
+    "area": "274508",
+    "latitude": 26.068304599999998,
+    "longitude": 84.0050862,
+    "place_id": "ChIJAQqaImVGkjkRsta-Z5zS_LQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQqaImVGkjkRsta-Z5zS_LQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:16:27"
+  }
+]

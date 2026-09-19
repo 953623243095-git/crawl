@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "बिहारी चाय",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "274405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "JR99+F5Q, Baijnathpur Chauraha Bus Stop, Uttar Pradesh 274405",
+    "area": "274405",
+    "latitude": 26.618706699999997,
+    "longitude": 83.81799629999999,
+    "place_id": "ChIJg9ehVvXDkzkRgRk7HXugWsI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg9ehVvXDkzkRgRk7HXugWsI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:58:25"
+  },
+  {
+    "business_name": "Veeru Egg Center",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "274405",
+    "phone_number": "+91 78004 74469",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kailashpuri, Deoria, Uttar Pradesh 274001",
+    "area": "Kailashpuri",
+    "latitude": 26.514883899999997,
+    "longitude": 83.7861281,
+    "place_id": "ChIJue4QhxTFkzkRBXFFtYedYyE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJue4QhxTFkzkRBXFFtYedYyE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:58:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "vishal eye clinic and singh chasma ghar",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "274407",
+    "phone_number": "+91 91257 45245",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rd, Salemgarh, Uttar Pradesh 274409",
+    "area": "274407",
+    "latitude": 26.6192462,
+    "longitude": 84.2568529,
+    "place_id": "ChIJiXm-sZGgkzkRt2gchU7RtNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiXm-sZGgkzkRt2gchU7RtNY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:02:28"
+  },
+  {
+    "business_name": "Abdul Sajjad Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "274407",
+    "phone_number": "+91 99191 71990",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "P6GG+49J, Sewarhi, Uttar Pradesh 274406",
+    "area": "274407",
+    "latitude": 26.7253267,
+    "longitude": 84.22588019999999,
+    "place_id": "ChIJTwjpcwCfkzkR2XuMYeZZrNU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTwjpcwCfkzkR2XuMYeZZrNU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:02:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anandi Plumbing Work",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Service establishment",
+    "pincode": "275103",
+    "phone_number": "+91 96575 79557",
+    "website": "https://anandiplumbing.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Anandi Plumbing Work, 275103, India",
+    "area": "275103",
+    "latitude": 18.5035801,
+    "longitude": 73.8746239,
+    "place_id": "ChIJHZnkdST1KAcRNQ4B-REJmxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHZnkdST1KAcRNQ4B-REJmxk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:52:17"
+  },
+  {
+    "business_name": "Ehsan Khan plumber and electrician",
+    "search_category": "Plumber",
+    "primary_category": "Home help",
+    "all_categories": "Home help",
+    "pincode": "275103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Al nomani enter callege ke samne, wali gali, Mohalla Domanpura, Aurangabad, Mau, Uttar Pradesh 275101",
+    "area": "Mohalla Domanpura, Aurangabad",
+    "latitude": 25.959924299999997,
+    "longitude": 83.5355148,
+    "place_id": "ChIJEwhDFMqLkTkRJcbg9jRR1To",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEwhDFMqLkTkRJcbg9jRR1To",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:52:18"
+  }
+]

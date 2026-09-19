@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Delhi Diagnostic Center",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "274807",
+    "phone_number": "+91 99849 81234",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "New Colony, Saket Nagar, Deoria, Uttar Pradesh 274001",
+    "area": "New Colony, Saket Nagar",
+    "latitude": 26.4977931,
+    "longitude": 83.7884163,
+    "place_id": "ChIJ9YjxpBTFkzkRZN1_pUgqcyc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9YjxpBTFkzkRZN1_pUgqcyc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:44:25"
+  },
+  {
+    "business_name": "Sarvodaya Diagnostic Centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "274807",
+    "phone_number": "+91 95650 68787",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "New Colony, behind Gurudwara, Deoria, Uttar Pradesh 274001",
+    "area": "Tube Well Colony, Saket Nagar",
+    "latitude": 26.4966865,
+    "longitude": 83.7876136,
+    "place_id": "ChIJQbhfNWvFkzkRBqBB0iryY74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQbhfNWvFkzkRBqBB0iryY74",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:44:25"
+  }
+]

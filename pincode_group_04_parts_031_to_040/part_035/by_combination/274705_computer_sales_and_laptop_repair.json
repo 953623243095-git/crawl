@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhishek Online Point",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "274705",
+    "phone_number": "+91 91615 11152",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Siwan, Bihar 274705",
+    "area": "274705",
+    "latitude": 26.3859384,
+    "longitude": 84.0598213,
+    "place_id": "ChIJCSy6o6mzkzkRtjl6zu3mwFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCSy6o6mzkzkRtjl6zu3mwFA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:35:49"
+  },
+  {
+    "business_name": "Computer world",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer accessories store, Computer service, Computer support and services, Security system supplier",
+    "pincode": "274705",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Opposite to Sales Berry, Imadol Krishna Mandir Rd, Lalitpur, Bagmati Province, Nepal",
+    "area": "Imadol",
+    "latitude": 27.6614117,
+    "longitude": 85.34304499999999,
+    "place_id": "ChIJHbQ9hiIZ6zkRW83oEi1mJ0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHbQ9hiIZ6zkRW83oEi1mJ0Y",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:35:50"
+  }
+]

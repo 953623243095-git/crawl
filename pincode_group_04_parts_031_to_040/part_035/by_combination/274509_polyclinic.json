@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maddeshiya clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "274509",
+    "phone_number": "+91 98071 65122",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "no 5, lala ward, Main Rd, Harriya, Salempur, Uttar Pradesh 274509",
+    "area": "274509",
+    "latitude": 26.290628299999998,
+    "longitude": 83.927133,
+    "place_id": "ChIJz5LFkE41kjkRAS_U2nmGnFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz5LFkE41kjkRAS_U2nmGnFw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:17:47"
+  },
+  {
+    "business_name": "Dr Sachish Prakash Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "274509",
+    "phone_number": "+91 94542 39750",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7WWC+632, Salempur, Uttar Pradesh 274509",
+    "area": "274509",
+    "latitude": 26.295516199999998,
+    "longitude": 83.9201557,
+    "place_id": "ChIJsa7BFbLKkzkRU3ZLRQuA7uE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsa7BFbLKkzkRU3ZLRQuA7uE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:17:47"
+  }
+]

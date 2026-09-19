@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "edoni SHOES",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "274308",
+    "phone_number": "N/A",
+    "website": "https://edoni-shoes.odoo.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "SK Height, 1-2, opposite Kamalam Garden, near City Center, Ankleshwar GIDC, Ankleshwar, Gujarat 393002",
+    "area": "Ankleshwar GIDC",
+    "latitude": 21.6064313,
+    "longitude": 73.0302896,
+    "place_id": "ChIJPYfEb1Yj4DsRW3mYdpKqzYM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPYfEb1Yj4DsRW3mYdpKqzYM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:47:48"
+  },
+  {
+    "business_name": "Camber Shoe Store",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "274308",
+    "phone_number": "+91 96063 81507",
+    "website": "https://www.instagram.com/camber_shoe_store?igsh=aDc0ejl3aGU0M2g2",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "opposite Prince Jewellery, Ettumanoor, Keralam 686631",
+    "area": "274308",
+    "latitude": 9.6705987,
+    "longitude": 76.55891559999999,
+    "place_id": "ChIJu0s_ewDTBzsR9sKU6QynMvM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu0s_ewDTBzsR9sKU6QynMvM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:47:48"
+  }
+]

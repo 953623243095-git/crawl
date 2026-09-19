@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Priya Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "274703",
+    "phone_number": "+91 85219 70011",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Majhauli chauk, near Hanuman Mandir, in front of Hira Mart, Mairwa, Bihar 841239",
+    "area": "274703",
+    "latitude": 26.2347318,
+    "longitude": 84.1518779,
+    "place_id": "ChIJe8X2oGNTkjkRZcIKA38skyo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe8X2oGNTkjkRZcIKA38skyo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:31:32"
+  },
+  {
+    "business_name": "Glow Beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "274703",
+    "phone_number": "+91 70339 27630",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Sakara Rd, Mairwa, Sakara Village, Bihar 841239",
+    "area": "274703",
+    "latitude": 26.2399344,
+    "longitude": 84.15733379999999,
+    "place_id": "ChIJ-WrZQw5TkjkRwpI4-E44l7M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-WrZQw5TkjkRwpI4-E44l7M",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:31:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madheshiya Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "274703",
+    "phone_number": "+91 88777 80932",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Mairwa - Nautan Rd, near sabji mandi, Nautan, Bihar 841243",
+    "area": "274703",
+    "latitude": 26.326129899999998,
+    "longitude": 84.2145851,
+    "place_id": "ChIJN4fMoT6rkzkRBWTX1TeY1A8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN4fMoT6rkzkRBWTX1TeY1A8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:30:47"
+  },
+  {
+    "business_name": "Kriti Fast Food And Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "274703",
+    "phone_number": "+91 62040 34324",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 4, near State Bank, Bhatpar Rani, Siwan, Bihar 841239",
+    "area": "274703",
+    "latitude": 26.230427199999998,
+    "longitude": 84.1518818,
+    "place_id": "ChIJVSaHs1ZTkjkRtkB1SOL9bMM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVSaHs1ZTkjkRtkB1SOL9bMM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:30:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "274502",
+    "phone_number": "+91 99182 23228",
+    "website": "http://laxmitraders.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "आईटीआई गवर्नमेंट आईटीआई, near, 203, Ward No 15, Uman Nagar, Vidya Mandir Rd, Deoria, Uttar Pradesh 274001",
+    "area": "Pathar Deva, Raghav Nagar",
+    "latitude": 26.5023679,
+    "longitude": 83.7792197,
+    "place_id": "ChIJ6_wEHTzFkzkRQzojIYjYa-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6_wEHTzFkzkRQzojIYjYa-g",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:09:44"
+  },
+  {
+    "business_name": "Gupta Rice Mill",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "274502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "CVH3+25H, Tharhi, Bihar 845107",
+    "area": "274502",
+    "latitude": 27.427553399999997,
+    "longitude": 83.8529949,
+    "place_id": "ChIJiUuFy98_lDkRUynq9fRId8Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiUuFy98_lDkRUynq9fRId8Y",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:09:44"
+  }
+]

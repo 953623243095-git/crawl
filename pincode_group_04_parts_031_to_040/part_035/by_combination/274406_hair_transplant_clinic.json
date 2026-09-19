@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Aditya Shah's Aura Laser & Cosmetic Clinic",
+    "search_category": "Hair Transplant Clinic",
+    "primary_category": "Hair transplantation clinic",
+    "all_categories": "Hair transplantation clinic, Dermatologist, Hair replacement service, Skin care clinic, Laser hair removal service",
+    "pincode": "274406",
+    "phone_number": "+91 90810 90555",
+    "website": "https://auralaser.co.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "hotel welcome, A/3 &4 SF,5 & 6 TF, Bihari Apartment, Above Khazana Jewellers behind Dwarkesh compelex Besides, RC Dutt Rd, Vadodara, Gujarat 390007",
+    "area": "Vadiwadi",
+    "latitude": 22.3100709,
+    "longitude": 73.1668333,
+    "place_id": "ChIJJ6F-I7vIXzkRN6vZteeU53o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ6F-I7vIXzkRN6vZteeU53o",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:01:00"
+  },
+  {
+    "business_name": "Hair Doctors",
+    "search_category": "Hair Transplant Clinic",
+    "primary_category": "Hair transplantation clinic",
+    "all_categories": "Hair transplantation clinic, Hair replacement service, Surgeon",
+    "pincode": "274406",
+    "phone_number": "+91 70875 55556",
+    "website": "https://www.hairdoctors.in/hair-transplant-patiala/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "A 12, Ranbir Marg, Model Town, Patiala, Punjab 147001",
+    "area": "Model Town",
+    "latitude": 30.3442194,
+    "longitude": 76.37235969999999,
+    "place_id": "ChIJJ-s71tApEDkRlqc5lf4zGVE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ-s71tApEDkRlqc5lf4zGVE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:01:00"
+  }
+]

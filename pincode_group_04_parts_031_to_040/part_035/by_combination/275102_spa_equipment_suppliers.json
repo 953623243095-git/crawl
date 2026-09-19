@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Marina Enterprises",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Cosmetic Products Manufacturer",
+    "all_categories": "Cosmetic Products Manufacturer",
+    "pincode": "275102",
+    "phone_number": "+91 99565 57666",
+    "website": "https://www.luxeknot.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "95, near Arya Samaj, Yusuf Pura, Astupura, Mau, Uttar Pradesh 275101",
+    "area": "Yusuf Pura, Astupura",
+    "latitude": 25.952477599999998,
+    "longitude": 83.55486359999999,
+    "place_id": "ChIJr7DCIV2LkTkRiJnWFZ9lZVQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr7DCIV2LkTkRiJnWFZ9lZVQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:50:36"
+  },
+  {
+    "business_name": "Standard Sales",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Plastic Wholesaler",
+    "all_categories": "Plastic Wholesaler",
+    "pincode": "275102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NH-29, Bypass road, near Bhiti Road, chowk, Mau, Uttar Pradesh 275101",
+    "area": "chowk",
+    "latitude": 25.9414041,
+    "longitude": 83.57729719999999,
+    "place_id": "ChIJAUwwkCuLkTkR8pZ-WmEveOU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAUwwkCuLkTkR8pZ-WmEveOU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:50:36"
+  }
+]

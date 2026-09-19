@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "INJMAM",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "274306",
+    "phone_number": "+91 81758 11676",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near mdmg convent school, Bandhu Chhapra, Barwa Ratanpur, Uttar Pradesh 274802",
+    "area": "274306",
+    "latitude": 27.0954667,
+    "longitude": 83.8377071,
+    "place_id": "ChIJUeoTW_wJlDkRx8uWSi9Shq8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUeoTW_wJlDkRx8uWSi9Shq8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:44:56"
+  },
+  {
+    "business_name": "Nilesh Singh House",
+    "search_category": "Guesthouse",
+    "primary_category": "Serviced accommodation",
+    "all_categories": "Serviced accommodation",
+    "pincode": "274306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": null,
+    "address": "Kusmaha, Ramkola, Pipra Buzurg, Uttar Pradesh 274305",
+    "area": "Kusmaha",
+    "latitude": 26.967954499999998,
+    "longitude": 83.8364366,
+    "place_id": "ChIJPfdciIn3kzkRLiARry6SKZg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPfdciIn3kzkRLiARry6SKZg",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:44:58"
+  }
+]

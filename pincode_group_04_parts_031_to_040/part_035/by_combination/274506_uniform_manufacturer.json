@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HeatPrint",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Store",
+    "all_categories": "Store, Customs warehouse, T-shirt store",
+    "pincode": "274506",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ward No 5 Bhatwa Dharampur, near Government Hospital, Salempur, Uttar Pradesh 274509",
+    "area": "Salempur, Nayagaon",
+    "latitude": 26.3017595,
+    "longitude": 83.9224079,
+    "place_id": "ChIJ-xPhbMTLkzkRhVR3NALHWmQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-xPhbMTLkzkRhVR3NALHWmQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:13:52"
+  },
+  {
+    "business_name": "Fashion Hut",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor, Clothing store",
+    "pincode": "274506",
+    "phone_number": "+91 88403 60419",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Salempur Rd, Deoria, Salempur, Uttar Pradesh 274509",
+    "area": "274506",
+    "latitude": 26.295799,
+    "longitude": 83.9198828,
+    "place_id": "ChIJyTvMx-jLkzkR-ak5PQn2axw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyTvMx-jLkzkR-ak5PQn2axw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:13:54"
+  }
+]

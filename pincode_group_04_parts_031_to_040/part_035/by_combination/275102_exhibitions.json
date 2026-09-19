@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Asna",
+    "search_category": "Exhibitions",
+    "primary_category": "Arena",
+    "all_categories": "Arena",
+    "pincode": "275102",
+    "phone_number": "+91 84294 95327",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "2J69+2CW गाँव, सिंह द्वार इंदारा, Shahpur, Uttar Pradesh 275102",
+    "area": "275102",
+    "latitude": 26.0101203,
+    "longitude": 83.618578,
+    "place_id": "ChIJUU_fPmUnkjkRg6M-oyP4Z78",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUU_fPmUnkjkRg6M-oyP4Z78",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:51:16"
+  },
+  {
+    "business_name": "Gram Panchayat Bhavan Budhave {ग्राम पंचायत भवन बुढ़ावे}",
+    "search_category": "Exhibitions",
+    "primary_category": "Community center",
+    "all_categories": "Community center",
+    "pincode": "275102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "XJ2J+V6H, Budhave, Alinagar, Mau, Uttar Pradesh 275102",
+    "area": "Budhave",
+    "latitude": 25.952190299999998,
+    "longitude": 83.6305955,
+    "place_id": "ChIJeQ3BYAAhkjkRNUUFGcCQzX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeQ3BYAAhkjkRNUUFGcCQzX4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:51:16"
+  }
+]

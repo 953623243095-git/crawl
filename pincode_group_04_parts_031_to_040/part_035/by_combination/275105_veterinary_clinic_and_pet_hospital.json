@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "La Pet - The Pet Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "275105",
+    "phone_number": "+91 99205 20712",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 100,
+    "address": "Shop No. 2, 1st Floor, Mewalal Market, in front of V-Mart, Police Colony, Anisabad, Patna, Bihar 800002",
+    "area": "Police Colony, Anisabad",
+    "latitude": 25.582010999999998,
+    "longitude": 85.0889356,
+    "place_id": "ChIJiazKQxlZ7TkR8Fw_SBnUoHk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiazKQxlZ7TkR8Fw_SBnUoHk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:53:48"
+  },
+  {
+    "business_name": "Petvets Veterinary Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Animal hospital, Hospital",
+    "pincode": "275105",
+    "phone_number": "+91 98192 81559",
+    "website": "http://www.petvets.in/",
+    "rating": 4.8,
+    "reviews_count": 553,
+    "address": "Bldg C1, Soham Plaza, 125, Service Rd, Manpada Flyover, Manpada, Thane West, Thane, Maharashtra 400607",
+    "area": "Manpada Flyover, Manpada, Thane West",
+    "latitude": 19.2343288,
+    "longitude": 72.97568389999999,
+    "place_id": "ChIJ__9vKOK75zsR9lgXoXQn8sw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__9vKOK75zsR9lgXoXQn8sw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:53:48"
+  }
+]

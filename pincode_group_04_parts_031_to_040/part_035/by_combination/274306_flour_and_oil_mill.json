@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mukul Enterprises",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Food machinery supplier",
+    "all_categories": "Food machinery supplier, Machine construction, Machining manufacturer",
+    "pincode": "274306",
+    "phone_number": "+91 98971 42327",
+    "website": "http://www.mukulenterprises.com/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "mala roller flour mill, Delhi Rd, Partapur, Meerut, Uttar Pradesh 250103",
+    "area": "Partapur",
+    "latitude": 28.9247701,
+    "longitude": 77.6518305,
+    "place_id": "ChIJd9ewXlhhDDkRSB4SzLW3J0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd9ewXlhhDDkRSB4SzLW3J0I",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:45:25"
+  },
+  {
+    "business_name": "Vinayaka Organic Oil Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "274306",
+    "phone_number": "+91 81799 05310",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 19,
+    "address": "H.NO: 2, 5-109, Kaloji Street, Nakkala Gutta, Hanamkonda, Telangana 506001",
+    "area": "Nakkala Gutta",
+    "latitude": 17.9997684,
+    "longitude": 79.55378759999999,
+    "place_id": "ChIJHah-bWFPMzoRdhS4Ofrq9wI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHah-bWFPMzoRdhS4Ofrq9wI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:45:25"
+  }
+]

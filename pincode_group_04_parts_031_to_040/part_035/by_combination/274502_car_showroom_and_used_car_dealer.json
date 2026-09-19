@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Velocity Motors",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "274502",
+    "phone_number": "+91 87976 33899",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lar road, Lar, Uttar Pradesh 274502",
+    "area": "274502",
+    "latitude": 26.1963498,
+    "longitude": 83.9796227,
+    "place_id": "ChIJcY4NzvdJkjkRZVhm2c-2F_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcY4NzvdJkjkRZVhm2c-2F_8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:10:20"
+  },
+  {
+    "business_name": "LP Auto Sales",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Showroom",
+    "all_categories": "Showroom",
+    "pincode": "274502",
+    "phone_number": "+91 63940 17992",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sutawar Chauraha Road, Lar, Chordiha, Uttar Pradesh 274502",
+    "area": "274502",
+    "latitude": 26.192607,
+    "longitude": 83.9818727,
+    "place_id": "ChIJl1tI50BJkjkRO_NAN9hbRNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl1tI50BJkjkRO_NAN9hbRNk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:10:21"
+  }
+]

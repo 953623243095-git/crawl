@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jeevan Buy N Save Supermarket",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Grocery delivery service",
+    "pincode": "275103",
+    "phone_number": "+91 44 2489 3880",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 1176,
+    "address": "52, 10th Ave, Sarvamangala Colony, Manthope Colony, Ashok Nagar, Chennai, Tamil Nadu 600083",
+    "area": "Sarvamangala Colony, Manthope Colony, Ashok Nagar",
+    "latitude": 13.0342916,
+    "longitude": 80.21720549999999,
+    "place_id": "ChIJObDOiB1nUjoRhb8U8b4E5P0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJObDOiB1nUjoRhb8U8b4E5P0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:53:14"
+  },
+  {
+    "business_name": "Reliance SMART Bazaar",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Hypermarket",
+    "all_categories": "Hypermarket, Appliance store, Beverage Store, Convenience store, Dairy store, Gourmet grocery store, Health food store, Home goods store, Indian grocery store, Produce market",
+    "pincode": "275103",
+    "phone_number": "+91 1800 891 0001",
+    "website": "https://stores.reliancesmartbazaar.com/reliance-smart-bazaar-hypermarket-kandivali-mumbai-280355/Home",
+    "rating": 4,
+    "reviews_count": 10021,
+    "address": "Ground floor, Growels 101 Mall, Akurli Rd, near HT Interiors by HomeTown, Kandivali, Akurli Industry Estate, Kandivali East, Mumbai, Maharashtra 400101",
+    "area": "Kandivali, Akurli Industry Estate, Kandivali East",
+    "latitude": 19.2024485,
+    "longitude": 72.8601229,
+    "place_id": "ChIJd1VVVeW55zsRE8k0GSYPYNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd1VVVeW55zsRE8k0GSYPYNM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:53:14"
+  }
+]

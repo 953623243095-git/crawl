@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ranjan Mediplex Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "275105",
+    "phone_number": "+91 91295 44094",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jameen baramadpur muhammadbad, Vidyashram wali gali, Muhammadabad Gohna, Mau, Uttar Pradesh 276403",
+    "area": "275105",
+    "latitude": 26.0296006,
+    "longitude": 83.372238,
+    "place_id": "ChIJHTenIYCRkTkRJZyvDVE_seQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHTenIYCRkTkRJZyvDVE_seQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:53:48"
+  },
+  {
+    "business_name": "kalpanath medical ghosi",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "275105",
+    "phone_number": "+91 85040 69769",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "mau gorakhpur road ghosi, Mau-Gorakhpur Rd, Jamalpur, Mirzapur, Uttar Pradesh 275105",
+    "area": "Jamalpur",
+    "latitude": 26.095190199999998,
+    "longitude": 83.54577359999999,
+    "place_id": "ChIJlVM6tS2GkTkRLPqVx5Xki3M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlVM6tS2GkTkRLPqVx5Xki3M",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:53:49"
+  }
+]

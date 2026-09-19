@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suraj travels",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "275102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nizamuddin, Railway Colony, Mau, Uttar Pradesh 275101",
+    "area": "Nizamuddin, Railway Colony",
+    "latitude": 25.9409572,
+    "longitude": 83.5686297,
+    "place_id": "ChIJ6WXaifuLkTkRuh8igNYgjSw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6WXaifuLkTkRuh8igNYgjSw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:50:17"
+  },
+  {
+    "business_name": "Lucky CAR AC SERVICE AND ELECTRICAL",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "275102",
+    "phone_number": "+91 97199 23124",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Budaun, SH-43, Chandausi Badaun Road, Bisauli, Bisauli, Uttar Pradesh 243720",
+    "area": "275102",
+    "latitude": 28.311,
+    "longitude": 78.93209999999999,
+    "place_id": "ChIJwewh5P7LCjkRavYuPK8i9L0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwewh5P7LCjkRavYuPK8i9L0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:50:18"
+  }
+]

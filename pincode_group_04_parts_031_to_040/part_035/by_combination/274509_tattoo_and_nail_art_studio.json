@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neo Tattoo Inc Studio",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo artist",
+    "all_categories": "Tattoo artist",
+    "pincode": "274509",
+    "phone_number": "+91 88508 08814",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "B.B.D Smart Bazaar, Belthara Road, Uttar Pradesh 221715",
+    "area": "274509",
+    "latitude": 26.1188222,
+    "longitude": 83.84636429999999,
+    "place_id": "ChIJM--bst4xkjkR6k28XUOhp2A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM--bst4xkjkR6k28XUOhp2A",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:18:16"
+  },
+  {
+    "business_name": "Jaiswal Tattoo studio",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo and piercing shop",
+    "all_categories": "Tattoo and piercing shop",
+    "pincode": "274509",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "987P+W96, Narainian, Mirganj, Bihar 841438",
+    "area": "Narainian",
+    "latitude": 26.364811699999997,
+    "longitude": 84.3357133,
+    "place_id": "ChIJwSs8WgABkzkRTV015Gfwen4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwSs8WgABkzkRTV015Gfwen4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:18:16"
+  }
+]

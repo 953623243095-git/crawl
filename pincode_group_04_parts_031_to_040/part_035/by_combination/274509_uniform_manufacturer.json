@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amita silai centre",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "274509",
+    "phone_number": "N/A",
+    "website": "https://manage-russet-09417115.figma.site/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "8W28+3XF, Nayagaon, Salempur, Uttar Pradesh 274509",
+    "area": "Nayagaon",
+    "latitude": 26.3001911,
+    "longitude": 83.9174251,
+    "place_id": "ChIJ01QrEADLkzkRqQQ70x7kRWw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ01QrEADLkzkRqQQ70x7kRWw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:17:36"
+  },
+  {
+    "business_name": "Ganesh Garments",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Warehouse",
+    "pincode": "274509",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhagat singh marg, Nayagaon, Salempur, Uttar Pradesh 274509",
+    "area": "Nayagaon",
+    "latitude": 26.2963339,
+    "longitude": 83.9214506,
+    "place_id": "ChIJZ6G4aQDLkzkRafdufPM_CXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ6G4aQDLkzkRafdufPM_CXM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:17:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The boy zone",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "274501",
+    "phone_number": "+91 70804 42664",
+    "website": "https://www.instagram.com/theboyzone_sonughat?igsh=MWN1dTl3eTgwOW01eg==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nev jivan mission school, opposite the boy zone, Sonughat, Deoria, Uttar Pradesh 274001",
+    "area": "274501",
+    "latitude": 26.4591614,
+    "longitude": 83.80747509999999,
+    "place_id": "ChIJ47g0HqDPkzkR2dWFFhy6U6A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ47g0HqDPkzkR2dWFFhy6U6A",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:07:57"
+  },
+  {
+    "business_name": "Mangalam Sports & men's wear",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store",
+    "pincode": "274501",
+    "phone_number": "+91 79050 13358",
+    "website": "https://www.instagram.com/mangalam_mens_wear_01?igsh=bThqeTVrYnZkN3R0",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mod, Hydel Colony, Ram Naath Nagar, Rudrapur, Deoria, Uttar Pradesh 274001",
+    "area": "Hydel Colony, Ram Naath Nagar",
+    "latitude": 26.4834814,
+    "longitude": 83.7803054,
+    "place_id": "ChIJyw-magDFkzkRviLBJmv6SSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyw-magDFkzkRviLBJmv6SSs",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:07:57"
+  }
+]

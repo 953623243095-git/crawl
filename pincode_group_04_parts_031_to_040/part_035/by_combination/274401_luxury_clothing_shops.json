@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion Bazaar",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer",
+    "pincode": "274401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 4,
+    "address": "Uttar Pradesh Jora bazar men road, Kushinagar, Uttar Pradesh 274408",
+    "area": "274401",
+    "latitude": 26.6454301,
+    "longitude": 83.9863592,
+    "place_id": "ChIJOZ9bEfW_kzkRiKnwVR12shM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOZ9bEfW_kzkRiKnwVR12shM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:51:29"
+  },
+  {
+    "business_name": "Gorkhpur Bhagat chauraha",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "274401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 62,
+    "address": "Fashion Gharana, Sapaha, Road, Kasia Bazaar, Uttar Pradesh 274402",
+    "area": "274401",
+    "latitude": 26.756398899999997,
+    "longitude": 83.96026379999999,
+    "place_id": "ChIJtScLF8qVkzkRtt7-SkkCH5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtScLF8qVkzkRtt7-SkkCH5w",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:51:29"
+  }
+]

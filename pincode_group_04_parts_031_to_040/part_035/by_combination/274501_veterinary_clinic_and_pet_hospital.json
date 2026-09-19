@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAJAT PHARMA AND PET SHOP SALEMPUR",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "274501",
+    "phone_number": "+91 94515 79559",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Station Rd, Nayagaon, Salempur, Chakra Nadawar, Uttar Pradesh 274509",
+    "area": "Nayagaon",
+    "latitude": 26.2989122,
+    "longitude": 83.9228916,
+    "place_id": "ChIJR66-ra7LkzkRwF7loS6Oe0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR66-ra7LkzkRwF7loS6Oe0Y",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:08:17"
+  },
+  {
+    "business_name": "The Cochin Pet Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital, Cat boarding service, Pet boarding service, Pet groomer, Pet moving service, Pet store",
+    "pincode": "274501",
+    "phone_number": "+91 484 232 2177",
+    "website": "https://www.cochinpetspecialities.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "27/2739 E, Vidya Nagar Jct Rd, behind Passport Office, Vidya Nagar, Kadavanthra, Kochi, Ernakulam, Keralam 682020",
+    "area": "Vidya Nagar, Kadavanthra",
+    "latitude": 9.9549615,
+    "longitude": 76.29968439999999,
+    "place_id": "ChIJJWYIgsFyCDsRrDds6aMATJc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJWYIgsFyCDsRrDds6aMATJc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:08:18"
+  }
+]

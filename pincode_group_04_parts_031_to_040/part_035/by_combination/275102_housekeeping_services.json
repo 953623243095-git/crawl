@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kashyap CoolCare Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Service establishment",
+    "pincode": "275102",
+    "phone_number": "N/A",
+    "website": "https://sites.google.com/view/raja-kashyap-services/home",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kashyap CoolCare Services, 275102, India",
+    "area": "275102",
+    "latitude": 26.3206916,
+    "longitude": 82.7385145,
+    "place_id": "ChIJsxRHcAahhisRVeKUBKhDgFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsxRHcAahhisRVeKUBKhDgFU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:51:07"
+  },
+  {
+    "business_name": "Suraksha Facility Management Service",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "275102",
+    "phone_number": "+91 90090 75915",
+    "website": "http://www.surakshafacilitymanagementservice.in/",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "ganga ghati, Garipipliya Rd, Khandelwal Compound, Mangliya, Indore, Madhya Pradesh 452001",
+    "area": "Khandelwal Compound, Mangliya",
+    "latitude": 22.779436,
+    "longitude": 75.9052075,
+    "place_id": "ChIJQUavpngdYzkRoyqnak7jNgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQUavpngdYzkRoyqnak7jNgw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:51:07"
+  }
+]

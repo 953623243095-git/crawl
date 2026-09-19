@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Elite fitnesse gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "274506",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "825J+RFH, Belpar Pandit, Bhatpar Rani, Uttar Pradesh 274702",
+    "area": "274506",
+    "latitude": 26.309585199999997,
+    "longitude": 84.0314305,
+    "place_id": "ChIJnVRbHACzkzkRow89XHIHvVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnVRbHACzkzkRow89XHIHvVk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:14:06"
+  },
+  {
+    "business_name": "Fitness 99",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "274506",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "822J+R8H, near HDFC Bank, Ratasiya Mod, Bhatpar Rani, Uttar Pradesh 274702",
+    "area": "Ratasiya Mod",
+    "latitude": 26.3020686,
+    "longitude": 84.0308445,
+    "place_id": "ChIJQQsbAgCzkzkRfqVx8_jC1Do",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQQsbAgCzkzkRfqVx8_jC1Do",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:14:06"
+  }
+]

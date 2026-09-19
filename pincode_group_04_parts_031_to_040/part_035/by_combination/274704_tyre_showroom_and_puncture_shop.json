@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tokyo Tyre Station",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop, Wheel alignment service",
+    "pincode": "274704",
+    "phone_number": "+91 79070 58766",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 11,
+    "address": "Metro Pillar No.133, NH 544, Ambattukavu, Choornikkara, Kochi, Aluva, Keralam 683106",
+    "area": "Ambattukavu, Choornikkara",
+    "latitude": 10.082448999999999,
+    "longitude": 76.340475,
+    "place_id": "ChIJu1ADQgAPCDsRcpW8ZmEYu50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu1ADQgAPCDsRcpW8ZmEYu50",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:33:12"
+  },
+  {
+    "business_name": "Teenu Tyre Services",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire repair shop",
+    "all_categories": "Tire repair shop",
+    "pincode": "274704",
+    "phone_number": "+91 98953 53787",
+    "website": "https://teenutyres.mystrikingly.com/",
+    "rating": 4.2,
+    "reviews_count": 243,
+    "address": "Kaloor - Kadavanthara Road, Kumaranasan Rd, Kathrikadavu, Elamkulam, Kochi, Keralam 682017",
+    "area": "Kathrikadavu, Elamkulam",
+    "latitude": 9.977769499999999,
+    "longitude": 76.2970824,
+    "place_id": "ChIJXxO2tDUNCDsRHPNdBR17fGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXxO2tDUNCDsRHPNdBR17fGY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:33:12"
+  }
+]

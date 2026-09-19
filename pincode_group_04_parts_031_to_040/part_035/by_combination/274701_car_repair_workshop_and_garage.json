@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sachin Auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "274701",
+    "phone_number": "+91 93363 25084",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Laxmi Auto Sales, Bhatni Bazar, Mishrouli Diksit, Uttar Pradesh 274701",
+    "area": "274701",
+    "latitude": 26.3879558,
+    "longitude": 83.9440955,
+    "place_id": "ChIJiZr-5we3kzkRpG28qyu27oY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiZr-5we3kzkRpG28qyu27oY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:27:19"
+  },
+  {
+    "business_name": "Pragati Automobile",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Two Wheeler Dealer",
+    "pincode": "274701",
+    "phone_number": "+91 72101 04242",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Hero Agency, Bazar, Bhingari, Uttar Pradesh 274702",
+    "area": "274701",
+    "latitude": 26.3743049,
+    "longitude": 84.0765916,
+    "place_id": "ChIJMR04ioazkzkRWMGlPhredoo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMR04ioazkzkRWMGlPhredoo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:27:19"
+  }
+]

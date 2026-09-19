@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KHOOBSURAT EVENTS",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Entertainment agency, Event planner, Party planner, Wedding planner, Wedding venue",
+    "pincode": "274703",
+    "phone_number": "+91 76076 10033",
+    "website": "https://www.instagram.com/khoobsurat.events/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "SS II 1682, Kanpur - Lucknow Rd, Sector D1, LDA Colony, Lucknow, Uttar Pradesh 226012",
+    "area": "Sector D1, LDA Colony",
+    "latitude": 26.785451,
+    "longitude": 80.90338899999999,
+    "place_id": "ChIJMftzRv_7mzkRLHzRs3bFVqg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMftzRv_7mzkRLHzRs3bFVqg",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:31:47"
+  },
+  {
+    "business_name": "Eventsetups",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "274703",
+    "phone_number": "N/A",
+    "website": "https://eventsetups.in/",
+    "rating": 4.9,
+    "reviews_count": 18,
+    "address": "Phase 3, H no. 2129, near neem kali mandir, JJ Colony, Madanpur Khadar, New Delhi, Delhi 110076",
+    "area": "JJ Colony, Madanpur Khadar",
+    "latitude": 28.528062,
+    "longitude": 77.3133301,
+    "place_id": "ChIJkf40AoXnDDkRZVWneMcQcfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkf40AoXnDDkRZVWneMcQcfE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:31:50"
+  }
+]

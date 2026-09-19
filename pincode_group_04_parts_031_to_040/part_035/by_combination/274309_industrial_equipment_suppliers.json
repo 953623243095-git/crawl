@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Industries",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Machinery parts manufacturer",
+    "all_categories": "Machinery parts manufacturer",
+    "pincode": "274309",
+    "phone_number": "+91 93522 13039",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SH 13, Ajeetgarh, Rajasthan 332701",
+    "area": "274309",
+    "latitude": 27.424232,
+    "longitude": 75.8196143,
+    "place_id": "ChIJmwyVcXcbbTkRE0WMi44PHxg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmwyVcXcbbTkRE0WMi44PHxg",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:50:55"
+  },
+  {
+    "business_name": "OEM India - B.E Bearings ( House Of Power tools , Agriculture Sprayers And Agriculture Equipments)",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Tool manufacturer",
+    "all_categories": "Tool manufacturer, Agricultural machinery manufacturer",
+    "pincode": "274309",
+    "phone_number": "+91 95571 83993",
+    "website": "http://www.oem-india.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "38/29 D, Billochpura, Moti Kunj, Agra, Uttar Pradesh 282002",
+    "area": "Billochpura, Moti Kunj",
+    "latitude": 27.1975318,
+    "longitude": 77.9887826,
+    "place_id": "ChIJq6qqqm53dDkRKhdHOREl2pQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqm53dDkRKhdHOREl2pQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:50:55"
+  }
+]

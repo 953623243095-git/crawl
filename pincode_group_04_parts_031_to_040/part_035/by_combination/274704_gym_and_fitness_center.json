@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JP GYM & FITNESS CLUB",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "274704",
+    "phone_number": "+91 89469 34770",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "jai palace marriage home, Langade Hanuman Colony, Deeg, Dig, Rajasthan 321203",
+    "area": "Langade Hanuman Colony",
+    "latitude": 27.4763372,
+    "longitude": 77.3219592,
+    "place_id": "ChIJv_QZh2AFczkRbfDvaokjzh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv_QZh2AFczkRbfDvaokjzh0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:33:07"
+  },
+  {
+    "business_name": "Gym centre",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "274704",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.6,
+    "reviews_count": 5,
+    "address": "8443+69, Baraipar Pandey, Uttar Pradesh 274704",
+    "area": "274704",
+    "latitude": 26.3055699,
+    "longitude": 84.1034511,
+    "place_id": "ChIJTazpWgmtkzkRTakbV7gq_HY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTazpWgmtkzkRTakbV7gq_HY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:33:08"
+  }
+]

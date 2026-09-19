@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mother Dairy",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "274403",
+    "phone_number": "+91 81400 79082",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kasia Bazaar, Sonbarsa, Uttar Pradesh 274403",
+    "area": "274403",
+    "latitude": 26.7332212,
+    "longitude": 83.88554309999999,
+    "place_id": "ChIJ41DBI-brkzkRse721IV_2oI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ41DBI-brkzkRse721IV_2oI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:54:52"
+  },
+  {
+    "business_name": "Aditya Lodge & Biriyani corner",
+    "search_category": "Bar and Pub",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Hotel",
+    "pincode": "274403",
+    "phone_number": "+91 91400 26427",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NH 27, Kasia Bazaar, Kushinagar, Uttar Pradesh 274402",
+    "area": "274403",
+    "latitude": 26.739633599999998,
+    "longitude": 83.91531479999999,
+    "place_id": "ChIJDQYJLcTrkzkRsy8Hr4vyM8M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDQYJLcTrkzkRsy8Hr4vyM8M",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:54:55"
+  }
+]

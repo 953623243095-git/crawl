@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAGHUNATH PALACE",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "275203",
+    "phone_number": "+91 94553 77298",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SAIDPUR, Nasirpur, Holipur, Uttar Pradesh 233304",
+    "area": "SAIDPUR",
+    "latitude": 25.5418125,
+    "longitude": 83.2740625,
+    "place_id": "ChIJBwhSHADhkTkRHQVYlDIbvWY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBwhSHADhkTkRHQVYlDIbvWY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:59:44"
+  },
+  {
+    "business_name": "Hotel Balwant",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "275203",
+    "phone_number": "+91 89570 11827",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "gazipur highway, Nandganj, Varanasi, Rampur Bantara, Uttar Pradesh 233302",
+    "area": "Nandganj",
+    "latitude": 25.5481113,
+    "longitude": 83.39476669999999,
+    "place_id": "ChIJcWZ88ifjkTkRxMJpYkYmyxY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcWZ88ifjkTkRxMJpYkYmyxY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:59:44"
+  }
+]

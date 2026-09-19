@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mishra space",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Bike wash, Pressure washing service",
+    "pincode": "275203",
+    "phone_number": "+91 82998 34447",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "DLW Rd, B.H.U. Road, DLW, Near Newada Petrol Pump, Sundarpur, Newada, Varanasi, Uttar Pradesh 221005",
+    "area": "Near Newada Petrol Pump, Sundarpur, Newada",
+    "latitude": 25.2837806,
+    "longitude": 82.9737567,
+    "place_id": "ChIJt8tqKWgzjjkRU3354OIcA6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt8tqKWgzjjkRU3354OIcA6c",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:59:16"
+  },
+  {
+    "business_name": "SRS MOTO CORP",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto air conditioning service, Auto bodywork mechanic, Auto Dent Removal Service Station, Auto electrical service, Auto glass repair service, Auto parts store, Car repair and maintenance service, Vehicle wrapping service",
+    "pincode": "275203",
+    "phone_number": "+91 93369 36505",
+    "website": "https://www.srsmotocorp.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Sh.15/182, Olympian Vivek Singh Marg, Bharlai, Shivpur, Varanasi, Uttar Pradesh 221003",
+    "area": "Bharlai, Shivpur",
+    "latitude": 25.3630255,
+    "longitude": 82.946837,
+    "place_id": "ChIJ-72l3PksjjkRZk4SODccK10",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-72l3PksjjkRZk4SODccK10",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:59:16"
+  }
+]

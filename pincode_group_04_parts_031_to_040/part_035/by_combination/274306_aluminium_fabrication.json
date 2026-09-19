@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubhansh aluminium and steel shop",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Steel fabricator",
+    "all_categories": "Steel fabricator",
+    "pincode": "274306",
+    "phone_number": "+91 81820 83894",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rampur Baldiha, Pokhar Bhinda, Uttar Pradesh 273151",
+    "area": "274306",
+    "latitude": 27.0609616,
+    "longitude": 83.6880389,
+    "place_id": "ChIJ-92hj3kHlDkR72DBjB-f_ME",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-92hj3kHlDkR72DBjB-f_ME",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:45:20"
+  },
+  {
+    "business_name": "Noor ali house",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Welder",
+    "all_categories": "Welder",
+    "pincode": "274306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Narkatia Khurd, Parsahwa, Uttar Pradesh 274402",
+    "area": "274306",
+    "latitude": 26.766448399999998,
+    "longitude": 83.89157689999999,
+    "place_id": "ChIJFcsE0oTtkzkROfdswrV-_Y8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFcsE0oTtkzkROfdswrV-_Y8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:45:23"
+  }
+]

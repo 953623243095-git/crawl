@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tejashvi Fitness",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "274502",
+    "phone_number": "+91 70527 46535",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 13,
+    "address": "Lar, Uttar Pradesh 274502",
+    "area": "274502",
+    "latitude": 26.213664899999998,
+    "longitude": 83.96539179999999,
+    "place_id": "ChIJ8cwXAxJLkjkRgOmpCIYSuwQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8cwXAxJLkjkRgOmpCIYSuwQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:10:14"
+  },
+  {
+    "business_name": "Sawan Kirpal Ruhani Mission (SKRM) - Kirpal Ashram",
+    "search_category": "Yoga Center",
+    "primary_category": "Meditation center",
+    "all_categories": "Meditation center, Meditation Class, Non-profit organization",
+    "pincode": "274502",
+    "phone_number": "+91 78974 77245",
+    "website": "https://www.sos.org/",
+    "rating": 2,
+    "reviews_count": 2,
+    "address": "Khata No. 260, Lar Ghari, Khasra No. 0234, Lar, Uttar Pradesh 274502",
+    "area": "274502",
+    "latitude": 26.214132499999998,
+    "longitude": 83.95926329999999,
+    "place_id": "ChIJ0TomkjtKkjkRDkLstY4TkyA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0TomkjtKkjkRDkLstY4TkyA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:10:14"
+  }
+]

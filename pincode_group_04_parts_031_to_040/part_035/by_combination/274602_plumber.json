@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adarsh Plywood",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "274602",
+    "phone_number": "+91 81749 70938",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No Tikampar, Bhatparrani, Akhop, Uttar Pradesh 274602",
+    "area": "274602",
+    "latitude": 26.1474193,
+    "longitude": 83.88145279999999,
+    "place_id": "ChIJI4QeAsQ3kjkR5A21RxFQOto",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI4QeAsQ3kjkR5A21RxFQOto",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:21:55"
+  },
+  {
+    "business_name": "Ajeet Traders",
+    "search_category": "Plumber",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "274602",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5VGC+3C3, Bhagal Pur, Uttar Pradesh 274602",
+    "area": "274602",
+    "latitude": 26.175133799999998,
+    "longitude": 83.8710406,
+    "place_id": "ChIJ7agxbZ43kjkRtrH8pnJEE68",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7agxbZ43kjkRtrH8pnJEE68",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:21:57"
+  }
+]

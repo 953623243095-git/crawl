@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunil Traders",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Weighing Scale Supplier",
+    "all_categories": "Weighing Scale Supplier, Electronics store",
+    "pincode": "274806",
+    "phone_number": "+91 93692 23418",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Malviya Rd, Kailashpuri, Deoria, Uttar Pradesh 274806",
+    "area": "Kailashpuri",
+    "latitude": 26.5036444,
+    "longitude": 83.7827573,
+    "place_id": "ChIJmeLLLDzFkzkR2zjTpoW3D-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmeLLLDzFkzkR2zjTpoW3D-s",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:43:41"
+  },
+  {
+    "business_name": "Nihal Desals",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Tractor repair shop",
+    "all_categories": "Tractor repair shop",
+    "pincode": "274806",
+    "phone_number": "+91 63914 20258",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GQ6G+8Q8, Kailashpuri, Deoria, Uttar Pradesh 274001",
+    "area": "Kailashpuri",
+    "latitude": 26.5107821,
+    "longitude": 83.7769675,
+    "place_id": "ChIJj5FnLwDFkzkRgBJfNAFydT4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj5FnLwDFkzkRgBJfNAFydT4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:43:42"
+  }
+]

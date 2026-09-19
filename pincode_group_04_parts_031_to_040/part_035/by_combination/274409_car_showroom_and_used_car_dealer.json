@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shriram automall india limited",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "274409",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhatwa Prashuram, Kuchaikote, Bihar 841501",
+    "area": "274409",
+    "latitude": 26.557482399999998,
+    "longitude": 84.3394824,
+    "place_id": "ChIJUbopTlUJkzkRvyZcM19hFZg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUbopTlUJkzkRvyZcM19hFZg",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:06:29"
+  },
+  {
+    "business_name": "ARYAN AUTO POINT",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "274409",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kuchaikote bagauch, road, near petrol pump, Kuchaikote, Bihar 841501",
+    "area": "274409",
+    "latitude": 26.5462226,
+    "longitude": 84.3186388,
+    "place_id": "ChIJyVOjm7gJkzkRICuSUJC9Kdw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyVOjm7gJkzkRICuSUJC9Kdw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:06:29"
+  }
+]

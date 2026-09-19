@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bagicha Restaurant",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "274407",
+    "phone_number": "+91 96512 46331",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tamkuhi Road, Main, Road, Uttar Pradesh 274407",
+    "area": "274407",
+    "latitude": 26.7256799,
+    "longitude": 84.19680439999999,
+    "place_id": "ChIJ-_jHPZmfkzkR-EaNCFv_7gU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-_jHPZmfkzkR-EaNCFv_7gU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:02:08"
+  },
+  {
+    "business_name": "Gupta Hotel",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "274407",
+    "phone_number": "+91 70803 34427",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dawnaha Tamkuhi Raj, Ahirauli Raja, Uttar Pradesh 274407",
+    "area": "274407",
+    "latitude": 26.702293899999997,
+    "longitude": 84.2061325,
+    "place_id": "ChIJUaMokdWfkzkRhafrPLj09i0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUaMokdWfkzkRhafrPLj09i0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:02:08"
+  }
+]

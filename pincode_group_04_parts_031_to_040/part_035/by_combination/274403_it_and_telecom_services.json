@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "274403",
+    "phone_number": "+91 87652 76917",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kasia Bazaar, Kushinagar, Uttar Pradesh 274402",
+    "area": "274403",
+    "latitude": 26.7493183,
+    "longitude": 83.9147392,
+    "place_id": "ChIJCXT91pnrkzkRo3WH0Q7Ypo0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCXT91pnrkzkRo3WH0Q7Ypo0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:56:00"
+  },
+  {
+    "business_name": "Mobile Point",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "274403",
+    "phone_number": "+91 99362 01385",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Amar shaheed complex, Gandhi Chowk, Kasia Bazaar, Kushinagar, Uttar Pradesh 274402",
+    "area": "Gandhi Chowk",
+    "latitude": 26.750237199999997,
+    "longitude": 83.91423739999999,
+    "place_id": "ChIJK-PMjIXrkzkRHt4Gbs7ofUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK-PMjIXrkzkRHt4Gbs7ofUI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:56:01"
+  }
+]

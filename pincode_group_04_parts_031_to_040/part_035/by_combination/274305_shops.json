@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dipu Chaurasia",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "274305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XV99+WCR, Ramkola, Babhnauli, Uttar Pradesh 274305",
+    "area": "274305",
+    "latitude": 26.969855499999998,
+    "longitude": 83.8685072,
+    "place_id": "ChIJz_qQHAD1kzkRfdKNo9e47A4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz_qQHAD1kzkRfdKNo9e47A4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:43:51"
+  },
+  {
+    "business_name": "Mujffar Shop",
+    "search_category": "Shops",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "274305",
+    "phone_number": "+91 74080 58833",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mujffar Shop, Surynagar, Uttar Pradesh 274305",
+    "area": "Suraj Nagar Bajar",
+    "latitude": 26.9812707,
+    "longitude": 83.91286459999999,
+    "place_id": "ChIJdW2EvX71kzkR5HxSZnjb6bw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdW2EvX71kzkR5HxSZnjb6bw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:43:53"
+  }
+]

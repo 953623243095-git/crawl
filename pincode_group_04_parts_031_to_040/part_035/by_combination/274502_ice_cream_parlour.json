@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "IQRA RO & ICECREAM",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "274502",
+    "phone_number": "+91 73796 20171",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "Ram Janki Marg Chaurdiha, Uttar Pradesh 274508",
+    "area": "274502",
+    "latitude": 26.191775699999997,
+    "longitude": 83.9813607,
+    "place_id": "ChIJSQvrLq5JkjkRZOiS8wtYFig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSQvrLq5JkjkRZOiS8wtYFig",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:09:53"
+  },
+  {
+    "business_name": "Nuri Csc Centre",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "274502",
+    "phone_number": "+91 84239 60960",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Deoria Ramnagar Canuki, Road, Uttar Pradesh 274502",
+    "area": "274502",
+    "latitude": 26.2222129,
+    "longitude": 83.9820651,
+    "place_id": "ChIJZ5TOMeZLkjkRmb5j6Gjyqws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ5TOMeZLkjkRmb5j6Gjyqws",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:09:53"
+  }
+]

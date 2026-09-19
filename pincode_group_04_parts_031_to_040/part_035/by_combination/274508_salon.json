@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Soni kumari",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "274508",
+    "phone_number": "+91 81061 22215",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4WMP+PM5, Dumari, Uttar Pradesh 274508",
+    "area": "274508",
+    "latitude": 26.1342251,
+    "longitude": 83.9367683,
+    "place_id": "ChIJj7XhdgBJkjkR62MeO2bMkDI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj7XhdgBJkjkR62MeO2bMkDI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:16:19"
+  },
+  {
+    "business_name": "GULASAN HAIRE CUTTING",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "274508",
+    "phone_number": "+91 95172 47274",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Pindi, Uttar Pradesh 274508",
+    "area": "274508",
+    "latitude": 26.159503899999997,
+    "longitude": 83.96291509999999,
+    "place_id": "ChIJQyzdKstJkjkR0eBNZCVRUpM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQyzdKstJkjkR0eBNZCVRUpM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:16:19"
+  }
+]

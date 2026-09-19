@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radhika Radhika",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "274703",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "95C7+28R, Bhawani Chhapar - Jagtauli - Pararauna Rd, Korya Katiharia, Uttar Pradesh 274703",
+    "area": "274703",
+    "latitude": 26.3701002,
+    "longitude": 84.1632745,
+    "place_id": "ChIJQxpXKACtkzkRU0kjulk8TiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQxpXKACtkzkRU0kjulk8TiQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:31:44"
+  },
+  {
+    "business_name": "Ambedkar Boys Hostel Langarpura Mairwa",
+    "search_category": "Hostels",
+    "primary_category": "Student housing center",
+    "all_categories": "Student housing center",
+    "pincode": "274703",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Pandey Tola Langarpura SH47, Bihar 841239",
+    "area": "274703",
+    "latitude": 26.227432,
+    "longitude": 84.14848479999999,
+    "place_id": "ChIJZbbhuLRTkjkRR09JiIWQ1ik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZbbhuLRTkjkRR09JiIWQ1ik",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:31:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akhilesh Sharma",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "274409",
+    "phone_number": "+91 75239 26265",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "J7QQ+MCM, Tarya Baikunth, Uttar Pradesh 274409",
+    "area": "274409",
+    "latitude": 26.639265599999998,
+    "longitude": 84.28849699999999,
+    "place_id": "ChIJoTGXLwALkzkRbME9zoF-IYQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoTGXLwALkzkRbME9zoF-IYQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:06:04"
+  },
+  {
+    "business_name": "Vijay Mishthaan Bhandar",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "274409",
+    "phone_number": "+91 95194 95995",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Bathna, Bihar 274409",
+    "area": "274409",
+    "latitude": 26.6079942,
+    "longitude": 84.26458749999999,
+    "place_id": "ChIJ_blLQKqhkzkR9py1YNGkALA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_blLQKqhkzkR9py1YNGkALA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:06:04"
+  }
+]

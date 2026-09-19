@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maddeshiya restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "274702",
+    "phone_number": "+91 73793 75005",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 52,
+    "address": "Belpar dhala, Mehrauna, Bhatpar Rani, Uttar Pradesh 274702",
+    "area": "Mehrauna",
+    "latitude": 26.3130544,
+    "longitude": 84.0294806,
+    "place_id": "ChIJ3w4QGFCzkzkRphtdFSOVdo4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3w4QGFCzkzkRphtdFSOVdo4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:28:49"
+  },
+  {
+    "business_name": "Chaurasia food Bhatpar Rani",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "274702",
+    "phone_number": "+91 91983 89311",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 17,
+    "address": "825J+8W6, Malviya Rd, Bhatpar Rani, Uttar Pradesh 274702",
+    "area": "274702",
+    "latitude": 26.3083274,
+    "longitude": 84.0323746,
+    "place_id": "ChIJGSwgFXizkzkRj1uUlDh84Rc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGSwgFXizkzkRj1uUlDh84Rc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:28:49"
+  }
+]

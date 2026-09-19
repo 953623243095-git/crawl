@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashrafi, The Car Spa",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "274502",
+    "phone_number": "+91 72339 66283",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Village Patna, Post Mehrauna Ghat, Uttar Pradesh 274502",
+    "area": "274502",
+    "latitude": 26.1794594,
+    "longitude": 83.99959319999999,
+    "place_id": "ChIJRbxDl51JkjkRlT0E0SdfsyU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRbxDl51JkjkRlT0E0SdfsyU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:10:16"
+  },
+  {
+    "business_name": "Raj Washing Centre",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "274502",
+    "phone_number": "+91 95699 51166",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ghat pathardewa road, Baghauch, Deoria, Uttar Pradesh 274404",
+    "area": "274502",
+    "latitude": 26.5677935,
+    "longitude": 83.94151839999999,
+    "place_id": "ChIJZzUMGFO5kzkRMrXkYrKO-24",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZzUMGFO5kzkRMrXkYrKO-24",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:10:20"
+  }
+]

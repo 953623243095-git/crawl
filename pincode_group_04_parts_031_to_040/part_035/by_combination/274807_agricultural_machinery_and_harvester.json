@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sabin Enterprises",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Agricultural machinery manufacturer",
+    "all_categories": "Agricultural machinery manufacturer",
+    "pincode": "274807",
+    "phone_number": "+91 99201 54283",
+    "website": "https://sabinenterprises.net/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "28, 3, SUCHETA NIWAS, 285, Shahid Bhagat Singh Rd, Ballard Estate, Fort, Mumbai, Maharashtra 400001",
+    "area": "Ballard Estate, Fort",
+    "latitude": 18.9366409,
+    "longitude": 72.8378297,
+    "place_id": "ChIJU22FR9rR5zsRLxywX1L6kK4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU22FR9rR5zsRLxywX1L6kK4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:45:34"
+  },
+  {
+    "business_name": "Maa Krishi Yantra",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "274807",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GQJF+9FQ, Deoria Hata Marg, Mehra, Awara Chauri, Uttar Pradesh 274001",
+    "area": "274807",
+    "latitude": 26.530960399999998,
+    "longitude": 83.7737495,
+    "place_id": "ChIJI6h-sXfFkzkRzS1zGNcUdSI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI6h-sXfFkzkRzS1zGNcUdSI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:45:36"
+  }
+]

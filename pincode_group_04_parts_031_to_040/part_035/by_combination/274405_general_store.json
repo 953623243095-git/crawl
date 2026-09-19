@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonu General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "274405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "JRP5+P4X, Pipra Madangopal, Uttar Pradesh 274405",
+    "area": "274405",
+    "latitude": 26.6368628,
+    "longitude": 83.807932,
+    "place_id": "ChIJsy1qHADDkzkRzoj-9uZ9tgk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsy1qHADDkzkRzoj-9uZ9tgk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:58:15"
+  },
+  {
+    "business_name": "Hania general stores",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "274405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "130, Kesharpur, Rampur Karkhana, Uttar Pradesh 274405",
+    "area": "274405",
+    "latitude": 26.5969452,
+    "longitude": 83.800101,
+    "place_id": "ChIJF9D9EADDkzkRAXxNAIvsnug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF9D9EADDkzkRAXxNAIvsnug",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:58:15"
+  }
+]

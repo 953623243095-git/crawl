@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Payal Beauty Parlour",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "274704",
+    "phone_number": "+91 96210 16966",
+    "website": "http://www.susony4fackbook.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Salempur - Mairwa Rd, Salempur, Sohanpur, Uttar Pradesh 274704",
+    "area": "274704",
+    "latitude": 26.255666299999998,
+    "longitude": 84.06919769999999,
+    "place_id": "ChIJKS7aBgZNkjkRSAwUu-PCdkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKS7aBgZNkjkRSAwUu-PCdkA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:33:32"
+  },
+  {
+    "business_name": "Sejal Beauty Salon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "274704",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "625Q+FHH, Tarawa Rd, Tarawa Khurd, Bihar 841239",
+    "area": "274704",
+    "latitude": 26.2086936,
+    "longitude": 84.0389998,
+    "place_id": "ChIJCV78RQBNkjkRL1ytWvTXRcI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCV78RQBNkjkRL1ytWvTXRcI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:33:33"
+  }
+]

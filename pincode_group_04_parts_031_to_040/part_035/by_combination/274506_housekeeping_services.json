@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Washmart Laundry & Dry Clean",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Dry cleaner",
+    "all_categories": "Dry cleaner, Carpet cleaning service, Cleaning Services, Laundry service",
+    "pincode": "274506",
+    "phone_number": "+91 72177 97548",
+    "website": "https://washmart.in/laundry-and-dry-cleaning-services-in-salempur/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward No. 6, Salahabad, Sugahi, Salempur, Uttar Pradesh 274509",
+    "area": "274506",
+    "latitude": 26.2987935,
+    "longitude": 83.9155612,
+    "place_id": "ChIJqwY7SILLkzkRtLgeoIEjxiU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqwY7SILLkzkRtLgeoIEjxiU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:15:04"
+  },
+  {
+    "business_name": "Tanush house cleaning services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "274506",
+    "phone_number": "+91 83769 75760",
+    "website": "http://www.tanushcleaningservices.in/",
+    "rating": 4.7,
+    "reviews_count": 37,
+    "address": "j469, Dr.Ambedkar Nagar, Krishna Park Colony, Dakshinpuri, New Delhi, Delhi 110080",
+    "area": "Doctor Ambedkar Nagar, Krishna Park Colony, Dakshinpuri",
+    "latitude": 28.5095289,
+    "longitude": 77.233616,
+    "place_id": "ChIJfWN2HJDhDDkR_JvuaDonaqc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfWN2HJDhDDkR_JvuaDonaqc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:15:05"
+  }
+]

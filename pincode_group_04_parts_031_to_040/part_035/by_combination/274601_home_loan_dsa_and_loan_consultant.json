@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dev associates",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency",
+    "pincode": "274601",
+    "phone_number": "+91 87911 71720",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Shop no, 127, Link Rd, Krishna Nagar, Mathura, Uttar Pradesh 281001",
+    "area": "Krishna Nagar",
+    "latitude": 27.500782299999997,
+    "longitude": 77.6568906,
+    "place_id": "ChIJqd8d9vVxczkRoRyBbMB_Y_0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqd8d9vVxczkRoRyBbMB_Y_0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:20:34"
+  },
+  {
+    "business_name": "HSR Finserv",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency, Investment service",
+    "pincode": "274601",
+    "phone_number": "+91 90308 18058",
+    "website": "https://hsrfinserv.in/",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Anjana Enclave, 50-80-7/A, Gurudwara Junction, behind Vijaya Medical Centre, Near GVK Plaza, Balayya Sastri Layout, Seethammadara, Visakhapatnam, Andhra Pradesh 530013",
+    "area": "Near GVK Plaza, Balayya Sastri Layout, Seethammadara",
+    "latitude": 17.7368113,
+    "longitude": 83.307687,
+    "place_id": "ChIJ4Q21LDdDOToRJ7aZRL8E6zA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Q21LDdDOToRJ7aZRL8E6zA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:20:35"
+  }
+]

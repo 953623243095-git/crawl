@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonmati Hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Hospital",
+    "pincode": "274306",
+    "phone_number": "+91 73553 40733",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 8,
+    "address": "082, Kasia Bazaar, Uttar Pradesh 274402",
+    "area": "274306",
+    "latitude": 26.7614754,
+    "longitude": 83.9156543,
+    "place_id": "ChIJK19kN_ztkzkRHPzeCoykDi4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK19kN_ztkzkRHPzeCoykDi4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:44:22"
+  },
+  {
+    "business_name": "Baby health clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "274306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "93M2+3XR, Lachhimanpur, Uttar Pradesh 261206",
+    "area": "274306",
+    "latitude": 27.382732899999997,
+    "longitude": 81.0523821,
+    "place_id": "ChIJ8UhbGAA7mTkRuKOK4NFRABo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8UhbGAA7mTkRuKOK4NFRABo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:44:22"
+  }
+]

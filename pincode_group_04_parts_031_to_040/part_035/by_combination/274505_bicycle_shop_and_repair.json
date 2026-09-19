@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucky Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Bicycle Shop",
+    "pincode": "274505",
+    "phone_number": "+91 83829 53820",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Salempur Road, Lar, Uttar Pradesh 274502",
+    "area": "274505",
+    "latitude": 26.2105435,
+    "longitude": 83.9652855,
+    "place_id": "ChIJZ9MAehdLkjkRhrrvWm4-h60",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ9MAehdLkjkRhrrvWm4-h60",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:12:19"
+  },
+  {
+    "business_name": "Vikash Cycle Shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "274505",
+    "phone_number": "+91 95655 03615",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No Lar, Road, Belthara, Uttar Pradesh 274502",
+    "area": "274505",
+    "latitude": 26.2053419,
+    "longitude": 83.9724628,
+    "place_id": "ChIJYavbe5lLkjkRz6b4gYaccCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYavbe5lLkjkRz6b4gYaccCg",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:12:19"
+  }
+]

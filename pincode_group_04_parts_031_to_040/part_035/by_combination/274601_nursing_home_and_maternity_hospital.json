@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kashi Hospital Dr. Sameer Yadav",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "274601",
+    "phone_number": "+91 98892 33364",
+    "website": "http://www.khashihospitalcampus.com/",
+    "rating": 3.5,
+    "reviews_count": 38,
+    "address": "Tube Well Colony, Saket Nagar, Deoria, Uttar Pradesh 274001",
+    "area": "Tube Well Colony, Saket Nagar",
+    "latitude": 26.492648199999998,
+    "longitude": 83.78659499999999,
+    "place_id": "ChIJ5d8EtGvFkzkRxj4ZXl80_ko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5d8EtGvFkzkRxj4ZXl80_ko",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:19:37"
+  },
+  {
+    "business_name": "Shivam Chaurasia Near Kamhria Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital",
+    "pincode": "274601",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 4,
+    "address": "9V7Q+FPQ, Kamharia, Uttar Pradesh 274701",
+    "area": "274601",
+    "latitude": 26.3637162,
+    "longitude": 83.88935579999999,
+    "place_id": "ChIJhev9LcvLkzkRUqx91fJrSHY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhev9LcvLkzkRUqx91fJrSHY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:19:39"
+  }
+]

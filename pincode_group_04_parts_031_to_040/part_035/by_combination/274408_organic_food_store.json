@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samiksha Grocery Shop",
+    "search_category": "Organic Food Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "274408",
+    "phone_number": "+91 87078 36591",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ratanpura, Uttar Pradesh 274502",
+    "area": "274408",
+    "latitude": 26.198763699999997,
+    "longitude": 84.01957379999999,
+    "place_id": "ChIJvUS5agBPkjkRM-y1STKAJPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvUS5agBPkjkRM-y1STKAJPY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:03:55"
+  },
+  {
+    "business_name": "Padari Market",
+    "search_category": "Organic Food Store",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "274408",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Unnamed Road, 274703, Navada, Uttar Pradesh 274703",
+    "area": "274408",
+    "latitude": 26.695712699999998,
+    "longitude": 84.0142637,
+    "place_id": "ChIJ0eFCXBKtkzkRkovQgO0EuAQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0eFCXBKtkzkRkovQgO0EuAQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:03:55"
+  }
+]

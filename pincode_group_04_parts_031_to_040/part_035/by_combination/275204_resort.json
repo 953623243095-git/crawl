@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "rj mcs",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "275204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q6CJ+46C, Tandwa, Uttar Pradesh 276123",
+    "area": "275204",
+    "latitude": 25.7703025,
+    "longitude": 83.2305248,
+    "place_id": "ChIJCWZX363DkTkRfSJBnEL7qAs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCWZX363DkTkRfSJBnEL7qAs",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:01:32"
+  },
+  {
+    "business_name": "Pandey Bhawan Saurabh Pandey",
+    "search_category": "Resort",
+    "primary_category": "Cottage rental",
+    "all_categories": "Cottage rental",
+    "pincode": "275204",
+    "phone_number": "+91 94531 00298",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "near gautam buddha private iti, Chhawani Line, Tulsipur, Ghazipur, Uttar Pradesh 233002",
+    "area": "Tulsipur",
+    "latitude": 25.5741913,
+    "longitude": 83.54153649999999,
+    "place_id": "ChIJYzWV1Pv-kTkRSvPfmjp4cys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYzWV1Pv-kTkRSvPfmjp4cys",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:01:33"
+  }
+]

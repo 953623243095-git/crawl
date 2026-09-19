@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepu Yadav Auto Part Garage",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "274703",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "FX2M+48G, Unnamed Road, Darmpur Karmahepur, Uttar Pradesh 224147",
+    "area": "274703",
+    "latitude": 26.4503111,
+    "longitude": 82.98332479999999,
+    "place_id": "ChIJB5n7FRgdkTkRR2htTYFUwVE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB5n7FRgdkTkRR2htTYFUwVE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:31:23"
+  },
+  {
+    "business_name": "चाँद शौकर रिपेयरिंग सेन्टर",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "274703",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chawar Gate, Hathras, Uttar Pradesh 204101",
+    "area": "Chawar Gate",
+    "latitude": 27.5919135,
+    "longitude": 78.0474119,
+    "place_id": "ChIJ1UnOZ8uEdDkR_ZL3GMCGnwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1UnOZ8uEdDkR_ZL3GMCGnwI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:31:25"
+  }
+]

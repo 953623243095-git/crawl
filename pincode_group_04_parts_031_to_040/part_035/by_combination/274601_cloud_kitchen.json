@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CloudKitchen MIX",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Delivery service",
+    "pincode": "274601",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "P874+H6J, Yapikhya Marg, Kathmandu, Bagmati Province 44600, Nepal",
+    "area": "Dhobichaur",
+    "latitude": 27.713956099999997,
+    "longitude": 85.30550889999999,
+    "place_id": "ChIJR0u-k44Z6zkRGdv4HmlZUNQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR0u-k44Z6zkRGdv4HmlZUNQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:19:24"
+  },
+  {
+    "business_name": "Cloud Foods Pvt ltd",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant supply store",
+    "all_categories": "Restaurant supply store",
+    "pincode": "274601",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "P8HF+2HV, Kathmandu, Bagmati Province 44600, Nepal",
+    "area": "274601",
+    "latitude": 27.727624499999997,
+    "longitude": 85.3239334,
+    "place_id": "ChIJZTA6q9wZ6zkRqAOM7o8iaSc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZTA6q9wZ6zkRqAOM7o8iaSc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:19:24"
+  }
+]

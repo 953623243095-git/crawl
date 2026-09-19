@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "China Rose Food Point",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "275103",
+    "phone_number": "+91 98056 14282",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 165,
+    "address": "P5JG+CFJ, Gaderan, Himachal Pradesh 173024",
+    "area": "275103",
+    "latitude": 30.7310771,
+    "longitude": 77.17613709999999,
+    "place_id": "ChIJ_TBMQ-mdDzkRFLmcEyvX2kY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_TBMQ-mdDzkRFLmcEyvX2kY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:51:39"
+  },
+  {
+    "business_name": "Ajinkya AC Veg Restaurant and Lodging",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Breakfast restaurant, Family restaurant, Restaurant, Vegetarian restaurant",
+    "pincode": "275103",
+    "phone_number": "+91 91127 26655",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "131, Lucky Chowk, Murarji Peth, Solapur, Maharashtra 413001",
+    "area": "Murarji Peth",
+    "latitude": 17.6750684,
+    "longitude": 75.90035189999999,
+    "place_id": "ChIJ040n8JjbxTsRLZEoZW0hvWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ040n8JjbxTsRLZEoZW0hvWQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:51:41"
+  }
+]

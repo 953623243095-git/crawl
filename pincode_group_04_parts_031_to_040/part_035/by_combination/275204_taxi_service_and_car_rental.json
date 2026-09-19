@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taxi Yatri - Taxi Service in Varanasi",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "275204",
+    "phone_number": "+91 98180 22467",
+    "website": "https://www.taxiyatri.com/varanasi",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Dashashwamedh Plaza, L-2/53, Dashashwamedh Ghat Rd, Near Dashaswmedh Ghat, Bangali Tola, Varanasi, Uttar Pradesh 221001",
+    "area": "Near Dashaswmedh Ghat, Bangali Tola",
+    "latitude": 25.3062364,
+    "longitude": 83.00989179999999,
+    "place_id": "ChIJacDt23UxjjkRp2nta2cZTOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJacDt23UxjjkRp2nta2cZTOo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:01:06"
+  },
+  {
+    "business_name": "Chandan Cyber",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "275204",
+    "phone_number": "+91 86517 27547",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kamalpur Kwmwlpur, Uttar Pradesh 232106",
+    "area": "275204",
+    "latitude": 25.3877225,
+    "longitude": 83.3776486,
+    "place_id": "ChIJ3xdDOTwbjjkR9HNRPy_6fDk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3xdDOTwbjjkR9HNRPy_6fDk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:01:06"
+  }
+]

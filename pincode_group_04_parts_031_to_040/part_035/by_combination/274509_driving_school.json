@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tez singh motor training center",
+    "search_category": "Driving School",
+    "primary_category": "Training center",
+    "all_categories": "Training center",
+    "pincode": "274509",
+    "phone_number": "+91 81728 30795",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nawalpur Road, near reena fuel ,Belpar Agency, Salempur, Kasba Bag, Uttar Pradesh 274509",
+    "area": "274509",
+    "latitude": 26.2846264,
+    "longitude": 83.9347856,
+    "place_id": "ChIJO7py_VpLkjkR4OWvEtoQnQo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO7py_VpLkjkR4OWvEtoQnQo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:18:00"
+  },
+  {
+    "business_name": "Laxmi Motor Part And Singar",
+    "search_category": "Driving School",
+    "primary_category": "Chauffeur service",
+    "all_categories": "Chauffeur service, Auto Accessories Store",
+    "pincode": "274509",
+    "phone_number": "+91 93691 91180",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Bapu School, Salempur, Sonbarsa, Uttar Pradesh 274509",
+    "area": "274509",
+    "latitude": 26.301545899999997,
+    "longitude": 83.9131293,
+    "place_id": "ChIJkbWAPm3LkzkRZ_4wnUm_AWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkbWAPm3LkzkRZ_4wnUm_AWA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:18:02"
+  }
+]

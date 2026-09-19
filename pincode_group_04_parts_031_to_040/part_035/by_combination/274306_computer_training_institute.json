@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "National Computer Education Institute (NCEI)",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "274306",
+    "phone_number": "+91 99181 33051",
+    "website": "https://www.ncei.in/",
+    "rating": 4.8,
+    "reviews_count": 17,
+    "address": "Ward No 9, Naurangiya Road, Town Area, Ghughuli, Uttar Pradesh 273151",
+    "area": "Town Area",
+    "latitude": 27.0523468,
+    "longitude": 83.72343769999999,
+    "place_id": "ChIJWRN2Vb8HlDkROLrWWGYAZ64",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWRN2Vb8HlDkROLrWWGYAZ64",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:45:02"
+  },
+  {
+    "business_name": "X-LENT TECHNICAL INSTITUTE",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "274306",
+    "phone_number": "+91 86010 07926",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Kasia - Ramkola Rd, Tekuatar, Kushinagar, Uttar Pradesh 274305",
+    "area": "274306",
+    "latitude": 26.8347005,
+    "longitude": 83.8587723,
+    "place_id": "ChIJLXLHeHntkzkRlHLG9sXMYKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLXLHeHntkzkRlHLG9sXMYKg",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:45:02"
+  }
+]

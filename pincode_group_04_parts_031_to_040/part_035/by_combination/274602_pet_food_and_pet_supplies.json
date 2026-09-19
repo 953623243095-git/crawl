@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhagalpur Royal Kennel",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "274602",
+    "phone_number": "+91 95720 27617",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 74,
+    "address": "Swami Vivekanand Rd, Budhanath, Goshalla, Bhagalpur, Bihar 812001",
+    "area": "Budhanath, Goshalla",
+    "latitude": 25.2517148,
+    "longitude": 86.97497039999999,
+    "place_id": "ChIJT9SSdQdK8DkRUQ3StD_8hcE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT9SSdQdK8DkRUQ3StD_8hcE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:21:08"
+  },
+  {
+    "business_name": "Singh Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Pet store",
+    "pincode": "274602",
+    "phone_number": "+91 87891 20221",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 188,
+    "address": "Purana gurudwara road, Jhumri Telaiya, Jharkhand 825409",
+    "area": "274602",
+    "latitude": 24.438855099999998,
+    "longitude": 85.53092649999999,
+    "place_id": "ChIJjzV43l518zkRYj2TgAOByMk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjzV43l518zkRYj2TgAOByMk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:21:08"
+  }
+]

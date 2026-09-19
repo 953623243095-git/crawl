@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ravi",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "274601",
+    "phone_number": "+91 89488 97422",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Barhaj - Lar Rd, Ballia, Lahchhua, Uttar Pradesh 274601",
+    "area": "274601",
+    "latitude": 26.289935699999997,
+    "longitude": 83.7273347,
+    "place_id": "ChIJOTGjmVPTkzkRlXGtAMpyYJo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOTGjmVPTkzkRlXGtAMpyYJo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:19:54"
+  },
+  {
+    "business_name": "WISDOM COMPUTER CENTRE",
+    "search_category": "Driving School",
+    "primary_category": "Institute of technology",
+    "all_categories": "Institute of technology, Electronics store",
+    "pincode": "274601",
+    "phone_number": "+91 98386 41038",
+    "website": "https://wisdominstitution.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shakti Colony, Barhaj, Goura, Uttar Pradesh 274601",
+    "area": "Shakti Colony",
+    "latitude": 26.2823396,
+    "longitude": 83.7227806,
+    "place_id": "ChIJheXA1NTSkzkRfAPg9Groqow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJheXA1NTSkzkRfAPg9Groqow",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:19:55"
+  }
+]

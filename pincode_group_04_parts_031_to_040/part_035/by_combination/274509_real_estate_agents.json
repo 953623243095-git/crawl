@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pakri lala",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "274509",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Salempur, Pakri Lala, Madhwapur, Uttar Pradesh 274509",
+    "area": "Salempur",
+    "latitude": 26.291021699999998,
+    "longitude": 83.8945253,
+    "place_id": "ChIJsxTZTADLkzkRWtLEYbDdk7E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsxTZTADLkzkRWtLEYbDdk7E",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:18:49"
+  },
+  {
+    "business_name": "GURU VIRAT GROUP AND GURU VIRAT UMEED PVT LTD",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Home builder",
+    "all_categories": "Home builder",
+    "pincode": "274509",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7WVF+HJH, Salempur, Uttar Pradesh 209801",
+    "area": "274509",
+    "latitude": 26.2939346,
+    "longitude": 83.92409549999999,
+    "place_id": "ChIJGYndLQDLkzkRYe6mx1I8UXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGYndLQDLkzkRYe6mx1I8UXk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:18:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Power Fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "274404",
+    "phone_number": "+91 97929 79713",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Sidhawe Rd, Dharamagatt Patti, Uttar Pradesh 274404",
+    "area": "274404",
+    "latitude": 26.570374299999997,
+    "longitude": 83.9212221,
+    "place_id": "ChIJSZLxfk3HkzkRFmZSSNd_Jh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSZLxfk3HkzkRFmZSSNd_Jh8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:56:59"
+  },
+  {
+    "business_name": "DPRT Fitness Club, Kateya",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "274404",
+    "phone_number": "+91 97631 75343",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "H39M+2MF, Referral Hospital Rd, Katiya, Bihar 841437",
+    "area": "274404",
+    "latitude": 26.5675696,
+    "longitude": 84.0841299,
+    "place_id": "ChIJJ6tOEGK7kzkRb9ZUZzB0O6M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ6tOEGK7kzkRb9ZUZzB0O6M",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:56:59"
+  }
+]

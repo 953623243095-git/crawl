@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunny Cosmetics Store",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "274601",
+    "phone_number": "+91 77030 21671",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "01, Purwa Chauraha, Deoria, Uttar Pradesh 274001",
+    "area": "274601",
+    "latitude": 26.526519,
+    "longitude": 83.765532,
+    "place_id": "ChIJa5zusivFkzkR6hIVur__4Hs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa5zusivFkzkR6hIVur__4Hs",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:20:10"
+  },
+  {
+    "business_name": "Krishna Kanhaiya Nishad",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "274601",
+    "phone_number": "+91 97942 67540",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gr9, Ram Lakshan Road, Deoria, Khoraram, Uttar Pradesh 274001",
+    "area": "274601",
+    "latitude": 26.497995699999997,
+    "longitude": 83.7463167,
+    "place_id": "ChIJT4sC3UTbkzkRecrkBUp8oY0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT4sC3UTbkzkRecrkBUp8oY0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:20:10"
+  }
+]

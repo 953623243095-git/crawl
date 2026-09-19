@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Blush & Bloom",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "274403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "kuraishi katara, Deoria - Kasia Rd, Kasia Bazaar, Kushinagar, Uttar Pradesh 274402",
+    "area": "274403",
+    "latitude": 26.7427401,
+    "longitude": 83.91630669999999,
+    "place_id": "ChIJCeUnSJbrkzkRwLTTVZrOej4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCeUnSJbrkzkRwLTTVZrOej4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:55:37"
+  },
+  {
+    "business_name": "Delhi Zone",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "274403",
+    "phone_number": "+91 99107 14934",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1, Golgher, Uttar Pradesh 274402",
+    "area": "274403",
+    "latitude": 26.7406014,
+    "longitude": 83.9129178,
+    "place_id": "ChIJG3oZq7_rkzkRBwfMyt6yARw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG3oZq7_rkzkRBwfMyt6yARw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:55:37"
+  }
+]

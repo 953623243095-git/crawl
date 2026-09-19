@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kajal Hotal",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "274802",
+    "phone_number": "+91 96954 31026",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Subash Chowk, Purana Bus Stand, Tehsil Rd, Khadda, Uttar Pradesh 224802",
+    "area": "274802",
+    "latitude": 27.1796218,
+    "longitude": 83.8738855,
+    "place_id": "ChIJcS5r2RkNlDkRna-KIxkCg7Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcS5r2RkNlDkRna-KIxkCg7Q",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:39:18"
+  },
+  {
+    "business_name": "Raana hotel & Restuarant",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "274802",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 108,
+    "address": "3P4F+63G, Ghughuli, Uttar Pradesh 273151",
+    "area": "274802",
+    "latitude": 27.0555627,
+    "longitude": 83.72268749999999,
+    "place_id": "ChIJXSRTCp8HlDkRZoY6DilZ5PQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXSRTCp8HlDkRZoY6DilZ5PQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:39:18"
+  }
+]

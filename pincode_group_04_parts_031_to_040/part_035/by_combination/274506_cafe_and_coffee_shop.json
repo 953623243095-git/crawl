@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yum-Yum cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Fast food restaurant, Restaurant",
+    "pincode": "274506",
+    "phone_number": "+91 72670 01699",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vikash road, Bhatni Bazar, Uttar Pradesh 274701",
+    "area": "274506",
+    "latitude": 26.380182299999998,
+    "longitude": 83.9399411,
+    "place_id": "ChIJtQZ-dty1kzkRaSX1DgCvhCU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtQZ-dty1kzkRaSX1DgCvhCU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:13:45"
+  },
+  {
+    "business_name": "Food Court Cafe & Restaurant",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Family restaurant",
+    "pincode": "274506",
+    "phone_number": "+91 63876 76910",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rajput Katra, Station Rd, Nayagaon, Salempur, Uttar Pradesh 274509",
+    "area": "Nayagaon",
+    "latitude": 26.2983327,
+    "longitude": 83.92194789999999,
+    "place_id": "ChIJYb5vEQDLkzkRROOI3BcVAas",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYb5vEQDLkzkRROOI3BcVAas",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:13:45"
+  }
+]

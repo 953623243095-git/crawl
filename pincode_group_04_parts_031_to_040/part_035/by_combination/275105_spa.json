@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AH spa hotel ghosi",
+    "search_category": "Spa",
+    "primary_category": "Spa and health club",
+    "all_categories": "Spa and health club",
+    "pincode": "275105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4G5V+6M8, Ghosi, Uttar Pradesh 275105",
+    "area": "275105",
+    "latitude": 26.1080443,
+    "longitude": 83.54420789999999,
+    "place_id": "ChIJrahgGj6HkTkRFNPc6hUrr9o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrahgGj6HkTkRFNPc6hUrr9o",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:54:12"
+  },
+  {
+    "business_name": "The Mango Spa - Spa In Azamgarh",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "275105",
+    "phone_number": "+91 92773 81699",
+    "website": "https://www.themangospa.co.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "near Tanishq Jwellery, near AZHAN SUZUKI, Narauli, Azamgarh, Uttar Pradesh 276001",
+    "area": "Narauli",
+    "latitude": 26.0469968,
+    "longitude": 83.1740446,
+    "place_id": "ChIJx58ZluK9kTkRNtngevXlkzM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx58ZluK9kTkRNtngevXlkzM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:54:13"
+  }
+]

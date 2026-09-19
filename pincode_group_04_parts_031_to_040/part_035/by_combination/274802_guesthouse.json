@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yammi Restaurant And Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "274802",
+    "phone_number": "+91 89497 68299",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Neha Market, 202, Uttar Pradesh 274802",
+    "area": "274802",
+    "latitude": 27.1105347,
+    "longitude": 83.8685074,
+    "place_id": "ChIJm-QaAPALlDkRoPeQppvQmiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm-QaAPALlDkRoPeQppvQmiQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:39:18"
+  },
+  {
+    "business_name": "Jaiswal Tent House & Catters",
+    "search_category": "Guesthouse",
+    "primary_category": "Self-catering accommodation",
+    "all_categories": "Self-catering accommodation",
+    "pincode": "274802",
+    "phone_number": "+91 91202 12740",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 21,
+    "address": "3V9V+MPC, Bagaha Dhala Rd, Nebua Raiganj, Uttar Pradesh 274802",
+    "area": "274802",
+    "latitude": 27.069177,
+    "longitude": 83.8942642,
+    "place_id": "ChIJPyPWEvQKlDkRnViGZjDIqck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPyPWEvQKlDkRnViGZjDIqck",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:39:20"
+  }
+]

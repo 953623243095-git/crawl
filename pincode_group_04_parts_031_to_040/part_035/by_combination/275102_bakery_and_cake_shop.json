@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cake At Your Gate",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "275102",
+    "phone_number": "+91 95239 47869",
+    "website": "https://www.cakeatyourgate.com/",
+    "rating": 5,
+    "reviews_count": 101,
+    "address": "Masjid Chowk, to, Swami Vivekanand Rd, near Panchu Engineering, Lakshmi Narayan Nagar, Muzaffarpur, Bihar 842002",
+    "area": "Lakshmi Narayan Nagar",
+    "latitude": 26.1067456,
+    "longitude": 85.4087861,
+    "place_id": "ChIJISUaHksR7TkRhpcckO7vtn8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJISUaHksR7TkRhpcckO7vtn8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:49:44"
+  },
+  {
+    "business_name": "Rohit cake shop",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "275102",
+    "phone_number": "+91 96530 11029",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Bahadurganj, Araji Bankachak Abbas, Uttar Pradesh 275201",
+    "area": "275102",
+    "latitude": 25.877964499999997,
+    "longitude": 83.6395983,
+    "place_id": "ChIJscCwNwAfkjkRl_sKgRA6CXg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJscCwNwAfkjkRl_sKgRA6CXg",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:49:44"
+  }
+]

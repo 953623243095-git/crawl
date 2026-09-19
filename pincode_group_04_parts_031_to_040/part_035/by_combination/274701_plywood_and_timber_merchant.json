@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Timber Traders",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "274701",
+    "phone_number": "+91 78006 91010",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Tikampar Rd, Bhatpar Rani, Uttar Pradesh 274702",
+    "area": "274701",
+    "latitude": 26.301725299999998,
+    "longitude": 84.0313905,
+    "place_id": "ChIJh96KoU6zkzkRMpEldaMbrWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh96KoU6zkzkRMpEldaMbrWQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:27:31"
+  },
+  {
+    "business_name": "Indian Ply Center",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier",
+    "pincode": "274701",
+    "phone_number": "+91 95652 46252",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Near Sohanpar Dhala,Ratashiya, Road, Bhatpar Rani, Uttar Pradesh 274702",
+    "area": "274701",
+    "latitude": 26.302091299999997,
+    "longitude": 84.0346496,
+    "place_id": "ChIJkQiYD9uzkzkRv-s2dpXl98g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkQiYD9uzkzkRv-s2dpXl98g",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:27:32"
+  }
+]

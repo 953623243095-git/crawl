@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "dwivedi enterprises",
+    "search_category": "Insurance Agent",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "274509",
+    "phone_number": "+91 98382 27142",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": 2,
+    "address": "singh tower, gandhi chowk, Salempur, Uttar Pradesh 274509",
+    "area": "gandhi chowk",
+    "latitude": 26.2941553,
+    "longitude": 83.9219011,
+    "place_id": "ChIJsZdGRG41kjkRCVjyY0mbvb8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsZdGRG41kjkRCVjyY0mbvb8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:18:44"
+  },
+  {
+    "business_name": "Surya agencies",
+    "search_category": "Insurance Agent",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop, Supermarket",
+    "pincode": "274509",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "By pass road, pratap chowk, Bhatni Bazar, Uttar Pradesh 274701",
+    "area": "pratap chowk",
+    "latitude": 26.3767139,
+    "longitude": 83.9347281,
+    "place_id": "ChIJC47s2YLLkzkRXbal1wE3Wqo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC47s2YLLkzkRXbal1wE3Wqo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:18:44"
+  }
+]

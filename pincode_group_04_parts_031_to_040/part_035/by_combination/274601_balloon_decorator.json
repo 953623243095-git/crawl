@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rainbow Balloon Decorations & Party Shop",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Party planner",
+    "all_categories": "Party planner, Event planner, Party equipment rental service, Event management company",
+    "pincode": "274601",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "market, Sector 3, Rama Krishna Puram, New Delhi, Delhi 110022",
+    "area": "Sector 3, Rama Krishna Puram",
+    "latitude": 28.5552553,
+    "longitude": 77.1830672,
+    "place_id": "ChIJ__1DsjIdDTkRQJ467aI0KZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__1DsjIdDTkRQJ467aI0KZw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:20:16"
+  },
+  {
+    "business_name": "Dreamy Balloon Decor",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "274601",
+    "phone_number": "+91 88520 80696",
+    "website": "https://dreamyballoondecor.com/",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Dreamy Balloon Decor, 274601, India",
+    "area": "274601",
+    "latitude": 28.588290999999998,
+    "longitude": 77.426614,
+    "place_id": "ChIJAXKdZECNOCARDF4CCt01_cQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAXKdZECNOCARDF4CCt01_cQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:20:16"
+  }
+]

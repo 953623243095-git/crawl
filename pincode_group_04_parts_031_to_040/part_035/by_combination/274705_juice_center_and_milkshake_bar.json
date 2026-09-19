@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Health Juice Centre Girgaon",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Fast food restaurant",
+    "pincode": "274705",
+    "phone_number": "+91 90043 01212",
+    "website": "https://www.healthjuicecentre.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop No-10, Golecha House, Sardar Vallabhbhai Patel Rd, Charni Road East, Shapur Baug, Girgaon, Mumbai, Maharashtra 400004",
+    "area": "Charni Road East, Shapur Baug, Girgaon",
+    "latitude": 18.9581142,
+    "longitude": 72.8194632,
+    "place_id": "ChIJ0-Po7R_P5zsRpUPgadEXwlo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0-Po7R_P5zsRpUPgadEXwlo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:34:36"
+  },
+  {
+    "business_name": "GRANTHIK - JUICE CENTRE",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "274705",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Deulwada, Arambol, Goa 403524",
+    "area": "Deulwada",
+    "latitude": 15.6855935,
+    "longitude": 73.7266956,
+    "place_id": "ChIJC0PWHyHvvzsR3kukqfxZcY4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC0PWHyHvvzsR3kukqfxZcY4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:34:38"
+  }
+]

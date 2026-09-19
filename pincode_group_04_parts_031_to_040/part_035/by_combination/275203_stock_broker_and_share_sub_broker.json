@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "StockManiacs.net",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Financial consultant",
+    "pincode": "275203",
+    "phone_number": "+91 96743 21856",
+    "website": "http://www.stockmaniacs.net/",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "B-7/7, Congress Road, B7, Block B, Kalyani, West Bengal 741235",
+    "area": "B7, Block B",
+    "latitude": 22.9816336,
+    "longitude": 88.4316779,
+    "place_id": "ChIJ80ZnCtCU-DkRiSHNRNKtVcI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ80ZnCtCU-DkRiSHNRNKtVcI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:00:04"
+  },
+  {
+    "business_name": "ACHINTYA SECURITIES",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "275203",
+    "phone_number": "+91 512 667 0700",
+    "website": "https://www.achintya.co.in/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "ACHINTYA TOWER, 7/118E, Khalasi Line, Swaroop Nagar, Kanpur, Uttar Pradesh 208002",
+    "area": "Khalasi Line, Swaroop Nagar",
+    "latitude": 26.4838313,
+    "longitude": 80.3199116,
+    "place_id": "ChIJEY-vNu85nDkRqik_ENrZBIs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEY-vNu85nDkRqik_ENrZBIs",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:00:06"
+  }
+]

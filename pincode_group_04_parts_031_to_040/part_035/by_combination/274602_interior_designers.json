@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Infra Design Hub",
+    "search_category": "Interior Designers",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm, Interior designer",
+    "pincode": "274602",
+    "phone_number": "+91 88246 64984",
+    "website": "https://infradesignhub.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 35, 1st Floor, Apna Bazaar Complex, Anandvan Phase 1, Birjapur, Mathura, Uttar Pradesh 281006",
+    "area": "Anandvan Phase 1, Birjapur",
+    "latitude": 27.4409609,
+    "longitude": 77.6878042,
+    "place_id": "ChIJiUiB9HZ3czkR0Rmxwn2aC1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiUiB9HZ3czkR0Rmxwn2aC1A",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:21:59"
+  },
+  {
+    "business_name": "Dewall Architects Branch office",
+    "search_category": "Interior Designers",
+    "primary_category": "Architectural designer",
+    "all_categories": "Architectural designer",
+    "pincode": "274602",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Village, Post, near Satyam Atta/Dal mill, Anwayan, Uttar Pradesh 221715",
+    "area": "274602",
+    "latitude": 26.109908599999997,
+    "longitude": 83.8573926,
+    "place_id": "ChIJQc4JWj43kjkRU3wvYwfPE2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQc4JWj43kjkRU3wvYwfPE2U",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:21:59"
+  }
+]

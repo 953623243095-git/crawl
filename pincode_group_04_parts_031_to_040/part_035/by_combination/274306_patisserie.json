@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhijeet Traders",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "274306",
+    "phone_number": "+91 88812 95813",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lakshmi Pur, Gorakhpur, Uttar Pradesh 273151",
+    "area": "274306",
+    "latitude": 27.0178332,
+    "longitude": 83.7616492,
+    "place_id": "ChIJdSF58i35kzkRWGKMS_SX85k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdSF58i35kzkRWGKMS_SX85k",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:44:02"
+  },
+  {
+    "business_name": "Krishna Bekars",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "274306",
+    "phone_number": "+91 97597 35227",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Krishna Bekers Narkatiya Kushinagar, Uttar Pradesh 274402",
+    "area": "274306",
+    "latitude": 26.792433799999998,
+    "longitude": 83.83814079999999,
+    "place_id": "ChIJPc8DcQDvkzkRe33TcXHrLsI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPc8DcQDvkzkRe33TcXHrLsI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:44:02"
+  }
+]

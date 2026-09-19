@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Biriyani Juction",
+    "search_category": "Family Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "274509",
+    "phone_number": "+91 90446 25795",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Railway Station Gate no 01, Salempur, Deoria, Uttar Pradesh 274509",
+    "area": "Nayagaon",
+    "latitude": 26.298024599999998,
+    "longitude": 83.92266839999999,
+    "place_id": "ChIJN7jH0bbLkzkRE20sGaI_nMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN7jH0bbLkzkRE20sGaI_nMA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:17:28"
+  },
+  {
+    "business_name": "Shri Ganesh Restaurant And Party Hall",
+    "search_category": "Family Restaurant",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Restaurant",
+    "pincode": "274509",
+    "phone_number": "+91 70710 26021",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Shri Ganesh Restaurant And Party Hall, Main Road, near Canter Bank, Salempur, Sonbarsa, Uttar Pradesh 274509",
+    "area": "274509",
+    "latitude": 26.302314,
+    "longitude": 83.91251179999999,
+    "place_id": "ChIJEVtsU13LkzkRnazV3s1m2xA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEVtsU13LkzkRnazV3s1m2xA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:17:31"
+  }
+]

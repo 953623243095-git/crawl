@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gudiya Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "274409",
+    "phone_number": "+91 74819 72123",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shivrajpur Bazar Rd, Nautan, Shioraj Pur, Bihar 845438",
+    "area": "274409",
+    "latitude": 26.6739425,
+    "longitude": 84.46239,
+    "place_id": "ChIJk6Jb9L8TkzkRTHQojX9zJ18",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk6Jb9L8TkzkRTHQojX9zJ18",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:06:10"
+  },
+  {
+    "business_name": "Radhe Krishn Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "274409",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chowk, Salemgarh, Fulwariya, Uttar Pradesh 274409",
+    "area": "Chowk",
+    "latitude": 26.583033,
+    "longitude": 84.2726722,
+    "place_id": "ChIJD1w6sIuhkzkRtwkQ1kBBfjQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD1w6sIuhkzkRtwkQ1kBBfjQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:06:13"
+  }
+]

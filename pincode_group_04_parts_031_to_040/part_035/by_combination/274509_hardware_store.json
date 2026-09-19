@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satyam ply hardware and glass",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "274509",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Salempur - Deoria Rd, Maharha Bagh, Uttar Pradesh 274509",
+    "area": "274509",
+    "latitude": 26.3079766,
+    "longitude": 83.9075653,
+    "place_id": "ChIJcYq2NQDLkzkROPjuS7LtTho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcYq2NQDLkzkROPjuS7LtTho",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:18:01"
+  },
+  {
+    "business_name": "MANOJ PAINTS AND HARDWARE",
+    "search_category": "Hardware Store",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "274509",
+    "phone_number": "+91 94156 61852",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 15,
+    "address": "Nayagaon, Sugahi, Uttar Pradesh 274509",
+    "area": "Nayagaon",
+    "latitude": 26.2980497,
+    "longitude": 83.9180408,
+    "place_id": "ChIJiaaBFLHKkzkR-xMXUJA4NKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiaaBFLHKkzkR-xMXUJA4NKU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:18:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "alok medical stores",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "274806",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Deoria Rd, Mehra, Uttar Pradesh 274001",
+    "area": "274806",
+    "latitude": 26.520146099999998,
+    "longitude": 83.7713421,
+    "place_id": "ChIJua2m3dfEkzkRSdyc5xwsHTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJua2m3dfEkzkRSdyc5xwsHTU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:42:24"
+  },
+  {
+    "business_name": "EMEDIX WELLNESS PVT LTD",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store",
+    "pincode": "274806",
+    "phone_number": "+91 72819 99988",
+    "website": "https://emedix.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "602 Block B, Ashiana Chambers, Exhibition Rd, Old Jakkanpur, Lodipur, Patna, Bihar 800001",
+    "area": "Old Jakkanpur, Lodipur",
+    "latitude": 25.6105002,
+    "longitude": 85.1422121,
+    "place_id": "ChIJVcp_F1xY7TkRCBcVPW58G38",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVcp_F1xY7TkRCBcVPW58G38",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:42:26"
+  }
+]

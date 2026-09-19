@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "274508",
+    "phone_number": "+91 94539 91841",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "KUNDAULI, Uttar Pradesh 274505",
+    "area": "274508",
+    "latitude": 26.2118953,
+    "longitude": 83.8992478,
+    "place_id": "ChIJf-Wx9jU1kjkRhHzNZq2vO7o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf-Wx9jU1kjkRhHzNZq2vO7o",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:16:45"
+  },
+  {
+    "business_name": "DK COMPUTER Baghuri & मोबाइल रिपेयर दुकान । धीरज कुमार",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop, Cell phone store, Computer accessories store",
+    "pincode": "274508",
+    "phone_number": "+91 85743 82423",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "village post baghuri, Uttar Pradesh 221717",
+    "area": "274508",
+    "latitude": 26.0851462,
+    "longitude": 83.94494139999999,
+    "place_id": "ChIJ-yD5xdVHkjkRYFed69hKs4c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-yD5xdVHkjkRYFed69hKs4c",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:16:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahavir Enterprises",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "274602",
+    "phone_number": "+91 8071 858 834",
+    "website": "http://ohetools.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "B No 60, near State Bank Of India, Div Colony, Industrial Development Colony, Jalandhar, Punjab 144008",
+    "area": "Div Colony, Industrial Development Colony",
+    "latitude": 31.354622499999998,
+    "longitude": 75.5989829,
+    "place_id": "ChIJAQAAwApaGjkRVIX5FHVeVxE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAwApaGjkRVIX5FHVeVxE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:22:39"
+  },
+  {
+    "business_name": "SK Tool Center",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "274602",
+    "phone_number": "+91 73401 48151",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No.1, near Om Tirupati Dharmkanta, in front of SGN Hospital, Paota, Rajasthan 303106",
+    "area": "274602",
+    "latitude": 27.581367999999998,
+    "longitude": 76.074668,
+    "place_id": "ChIJ9yyOeDIVbTkRir8Sa7UICO4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9yyOeDIVbTkRir8Sa7UICO4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:22:39"
+  }
+]

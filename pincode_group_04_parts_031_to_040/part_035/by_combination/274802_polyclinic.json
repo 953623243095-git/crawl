@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maya Poly Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "274802",
+    "phone_number": "+91 85740 16545",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gorakhpur, Lakhua Khurd, Uttar Pradesh 274802",
+    "area": "274802",
+    "latitude": 27.1770185,
+    "longitude": 83.8589212,
+    "place_id": "ChIJ9VmUchENlDkRlVya0ATl2hk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9VmUchENlDkRlVya0ATl2hk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:38:40"
+  },
+  {
+    "business_name": "Jeevan jyoti poly clinic and physiotherapy centre",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "274802",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6PQ3+P3G, Deurwa, Maharajganj, Uttar Pradesh 273207",
+    "area": "274802",
+    "latitude": 27.239319599999998,
+    "longitude": 83.70271439999999,
+    "place_id": "ChIJq8EdUwAblDkRQGWiAXPGCU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq8EdUwAblDkRQGWiAXPGCU4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:38:41"
+  }
+]

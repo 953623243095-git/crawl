@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Champaran Handi Meat House",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "274401",
+    "phone_number": "+91 80526 55175",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "near sbi bank(mangru pakaudi ke bagal me, Fazilnagar, Uttar Pradesh 274401",
+    "area": "274401",
+    "latitude": 26.68171,
+    "longitude": 84.05938239999999,
+    "place_id": "ChIJefNY8v-XkzkROWgKSHqJJIk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJefNY8v-XkzkROWgKSHqJJIk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:51:10"
+  },
+  {
+    "business_name": "KGN Chicken Hahal",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "274401",
+    "phone_number": "+91 74085 48789",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "NH-28 Gorakhpur Tamkuhi National Highway Pipara Razzab, Fazilnagar, Jokwa Khurd, Uttar Pradesh 274401",
+    "area": "274401",
+    "latitude": 26.689867699999997,
+    "longitude": 84.03913779999999,
+    "place_id": "ChIJBZxpZwCXkzkRF115SKhih3E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBZxpZwCXkzkRF115SKhih3E",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:51:10"
+  }
+]

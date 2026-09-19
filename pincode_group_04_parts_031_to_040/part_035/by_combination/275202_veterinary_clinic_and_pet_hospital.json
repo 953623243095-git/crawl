@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Panacea Veterinary Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Animal hospital, Emergency veterinarian service, Pet groomer, Pet store, Surgeon",
+    "pincode": "275202",
+    "phone_number": "+91 87501 03500",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "shop no-4, 1/12, GT Rd, Block 1, Roop Nagar, Delhi, 110007",
+    "area": "Block 1, Roop Nagar",
+    "latitude": 28.683692699999998,
+    "longitude": 77.1969463,
+    "place_id": "ChIJMYyIKcEDDTkRQ8MuCCVFPXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMYyIKcEDDTkRQ8MuCCVFPXw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:57:22"
+  },
+  {
+    "business_name": "Vet Fort Pet Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital, Cat boarding service, Dog breeder, Medical clinic, Pet groomer, Pet store, Pet trainer, Surgeon, Veterinarian, Veterinary pharmacy",
+    "pincode": "275202",
+    "phone_number": "+91 88878 29840",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Khirki Main, market, T-88c, Press Enclave Marg, opposite MGF Metropolitan, Khidki Village, Saket, New Delhi, Delhi 110017",
+    "area": "Khidki Village, Saket",
+    "latitude": 28.5307909,
+    "longitude": 77.2203354,
+    "place_id": "ChIJ-wgr2_HhDDkRGmc41CCg-Ho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-wgr2_HhDDkRGmc41CCg-Ho",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:57:22"
+  }
+]

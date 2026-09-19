@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahaveer Aato Parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "274306",
+    "phone_number": "+91 95809 02282",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mahaveer Auto Parts, Kushinagar, Shahpur, Uttar Pradesh 274402",
+    "area": "274306",
+    "latitude": 26.7607443,
+    "longitude": 83.91574519999999,
+    "place_id": "ChIJDxz6_MHtkzkR6cncEzCB428",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDxz6_MHtkzkR6cncEzCB428",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:44:29"
+  },
+  {
+    "business_name": "Sachin Automobiles",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Motorcycle parts store",
+    "all_categories": "Motorcycle parts store",
+    "pincode": "274306",
+    "phone_number": "+91 98398 39598",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "मोड़, GHUGHLI घुघली, पुलिस चौकी के सामने,एवं दुशरी दुकान जोगिया, मेन रोड, घुघली।, Uttar Pradesh 273151",
+    "area": "274306",
+    "latitude": 27.0579778,
+    "longitude": 83.7077194,
+    "place_id": "ChIJ5cwEhHAHlDkRu0uH_cDSwr0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5cwEhHAHlDkRu0uH_cDSwr0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:44:29"
+  }
+]

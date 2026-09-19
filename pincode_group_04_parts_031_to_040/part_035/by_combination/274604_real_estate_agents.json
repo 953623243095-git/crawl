@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Singh aata chaki",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "274604",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6RXG+8J4, Barhouna Hardo, Uttar Pradesh 274604",
+    "area": "274604",
+    "latitude": 26.2482687,
+    "longitude": 83.8265629,
+    "place_id": "ChIJIQZIkOczkjkRNPqhB5KZ11Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIQZIkOczkjkRNPqhB5KZ11Y",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:26:21"
+  },
+  {
+    "business_name": "PATILAL PRASAD HOMES",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Engineer",
+    "all_categories": "Engineer",
+    "pincode": "274604",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "5QX2+FRR Mishrauli, Molanapur, Musadosi, Uttar Pradesh 221601",
+    "area": "274604",
+    "latitude": 26.1987483,
+    "longitude": 83.7520183,
+    "place_id": "ChIJDZdm_3QtkjkRHx-a8na_t3Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDZdm_3QtkjkRHx-a8na_t3Y",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:26:24"
+  }
+]

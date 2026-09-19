@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VEDANTA HEALTH CARE CENTRE",
+    "search_category": "Wellness Center",
+    "primary_category": "Child health care center",
+    "all_categories": "Child health care center",
+    "pincode": "274806",
+    "phone_number": "+91 77069 96999",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gorakhpur Rd, Kailashpuri, Deoria, Uttar Pradesh 274001",
+    "area": "Kailashpuri",
+    "latitude": 26.5095897,
+    "longitude": 83.7773309,
+    "place_id": "ChIJa8TrCIvDkzkRFbuLF5oCL4U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa8TrCIvDkzkRFbuLF5oCL4U",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:43:03"
+  },
+  {
+    "business_name": "DEVARIYA HEALTH CARE CENTRE",
+    "search_category": "Wellness Center",
+    "primary_category": "Community health center",
+    "all_categories": "Community health center",
+    "pincode": "274806",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "गुरुद्वारा से 100 मीटर पूरब, न्यू कालोनी, देवरिया, Uttar Pradesh 274806",
+    "area": "Ramgulam Tola",
+    "latitude": 26.505198699999998,
+    "longitude": 83.7869712,
+    "place_id": "ChIJrXBU-xbFkzkRw3QA62rzjp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrXBU-xbFkzkRw3QA62rzjp4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:43:04"
+  }
+]

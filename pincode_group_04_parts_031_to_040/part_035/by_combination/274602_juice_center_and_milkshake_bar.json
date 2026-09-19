@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bapu Juice Centre",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "274602",
+    "phone_number": "+91 98536 10392",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "GW2F+3FG, Fakir Mohan Golei, Railway Colony, Balasore, Odisha 756001",
+    "area": "Railway Colony",
+    "latitude": 21.5001856,
+    "longitude": 86.92369029999999,
+    "place_id": "ChIJs6gPw-j1HDoRhkQaz0NUzrA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs6gPw-j1HDoRhkQaz0NUzrA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:21:12"
+  },
+  {
+    "business_name": "NEW JUICE BAR",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Ice cream shop",
+    "pincode": "274602",
+    "phone_number": "+91 74884 72962",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 6,
+    "address": "Shop No 7, 5-126, Manjeera Rd, Indira Nagar, Chanda Nagar, Hyderabad, Telangana 500050",
+    "area": "Indira Nagar, Chanda Nagar",
+    "latitude": 17.4941188,
+    "longitude": 78.32105949999999,
+    "place_id": "ChIJ-f06WwCTyzsReLbS5wWZDQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-f06WwCTyzsReLbS5wWZDQ0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:21:14"
+  }
+]

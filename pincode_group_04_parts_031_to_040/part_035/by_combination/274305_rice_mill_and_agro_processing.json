@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta rice mil",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "274305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2RFX+VXP, Saurha Buzurg, Uttar Pradesh 274305",
+    "area": "274305",
+    "latitude": 27.024704999999997,
+    "longitude": 83.8499384,
+    "place_id": "ChIJf7vJCgD1kzkReSpJtG4spRE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf7vJCgD1kzkReSpJtG4spRE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:43:40"
+  },
+  {
+    "business_name": "Gupta Rice Mill Kirana Store",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill, Fresh food market",
+    "pincode": "274305",
+    "phone_number": "+91 99181 71084",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 2,
+    "address": "Bazar, Dist. :, Padrauna - Ekwanhi Rd, Khuchi Nagar, Kinner Patti, Uttar Pradesh 274307",
+    "area": "Khuchi Nagar",
+    "latitude": 27.0396769,
+    "longitude": 84.0096409,
+    "place_id": "ChIJbQWpAAOKkzkRiHDxz64orBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbQWpAAOKkzkRiHDxz64orBk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:43:40"
+  }
+]

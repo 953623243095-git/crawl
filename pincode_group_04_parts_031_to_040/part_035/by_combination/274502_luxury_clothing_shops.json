@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R.K MALL",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "274502",
+    "phone_number": "N/A",
+    "website": "https://rkmall.odoo.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Drigpura (Daraila Bazar Akatahi, Road, Daraila, Bhatpar rani, Uttar Pradesh 274704",
+    "area": "274502",
+    "latitude": 26.2338103,
+    "longitude": 84.0549848,
+    "place_id": "ChIJdavZQrhNkjkResWc5-_1qAM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdavZQrhNkjkResWc5-_1qAM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:10:03"
+  },
+  {
+    "business_name": "Lokpriya Vastralaya",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "274502",
+    "phone_number": "+91 70846 54788",
+    "website": "https://www.instagram.com/lokpriya_vastralay?igsh=MWd1b2M0ZHI2ejduaQ==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Haji Abdul Hai Market, Sabji market ke saamne, Main Road, Lar, Uttar Pradesh 274502",
+    "area": "274502",
+    "latitude": 26.2067564,
+    "longitude": 83.9695204,
+    "place_id": "ChIJH9uS3-RLkjkRda04o2jJ4Vs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH9uS3-RLkjkRda04o2jJ4Vs",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:10:05"
+  }
+]

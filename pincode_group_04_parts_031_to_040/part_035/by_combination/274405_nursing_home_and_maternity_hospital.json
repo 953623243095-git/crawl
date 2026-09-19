@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rishi Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Nursing home",
+    "all_categories": "Nursing home, Hospital",
+    "pincode": "274405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Rishi Nursing Home, Shiv Mandir Rd, Bhatpar Rani, Uttar Pradesh 274702",
+    "area": "274405",
+    "latitude": 26.302633,
+    "longitude": 84.03327399999999,
+    "place_id": "ChIJJygYRkmzkzkRLzugQYRgR50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJygYRkmzkzkRLzugQYRgR50",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:58:41"
+  },
+  {
+    "business_name": "Dighawa, Uttar Pradesh 274405",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "274405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dighawa, Uttar Pradesh",
+    "area": "274405",
+    "latitude": 26.6037175,
+    "longitude": 83.81547909999999,
+    "place_id": "ChIJ5XA4ZsDDkzkRKTwifi9VheU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5XA4ZsDDkzkRKTwifi9VheU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:58:42"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Designer suit mairwa",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "274703",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "65P2+4MR, Mairwa, Bihar 841239",
+    "area": "274703",
+    "latitude": 26.235277399999998,
+    "longitude": 84.1517179,
+    "place_id": "ChIJuSzGGgBTkjkRisD6mSYBtr0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuSzGGgBTkjkRisD6mSYBtr0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:31:00"
+  },
+  {
+    "business_name": "Duke mairwa",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "274703",
+    "phone_number": "+91 75492 31923",
+    "website": "http://www.dukeindia.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Lic building, main road, Mairwa, Bihar 841239",
+    "area": "274703",
+    "latitude": 26.2332516,
+    "longitude": 84.1490139,
+    "place_id": "ChIJrX7B4ztTkjkRyvcyt7KRCyk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrX7B4ztTkjkRyvcyt7KRCyk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:31:01"
+  }
+]

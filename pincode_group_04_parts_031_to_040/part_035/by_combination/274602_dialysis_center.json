@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kavita Dialysis Center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center, Hospital",
+    "pincode": "274602",
+    "phone_number": "+91 84345 12225",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 28,
+    "address": "Sheetla Sthan Road, Tilkamanjhi - Champanagar Rd, Bhagalpur, Bihar 812001",
+    "area": "Tulsinagar Colony, Bank Colony, Tulasinagar Colony",
+    "latitude": 25.252945999999998,
+    "longitude": 87.0024014,
+    "place_id": "ChIJub4IIxxJ8DkRLDbGAuaMpUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJub4IIxxJ8DkRLDbGAuaMpUE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:21:37"
+  },
+  {
+    "business_name": "Dr. Himadri Shankar",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center, Nephrologist, Doctor, Specialized clinic",
+    "pincode": "274602",
+    "phone_number": "+91 99005 44499",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Aashray Nursing Home Tilkamanjhi, Hatia Rd, Bhagalpur, Bihar 812001",
+    "area": "Tulsinagar Colony, Bank Colony, Tulasinagar Colony",
+    "latitude": 25.2511816,
+    "longitude": 87.0012095,
+    "place_id": "ChIJO-k7Df038DkRG_QeMU-77ec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO-k7Df038DkRG_QeMU-77ec",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:21:37"
+  }
+]

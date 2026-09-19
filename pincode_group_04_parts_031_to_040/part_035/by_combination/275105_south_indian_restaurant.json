@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "अरबिन्द सिंह राजा भैय्या",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Andhra restaurant",
+    "all_categories": "Andhra restaurant",
+    "pincode": "275105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "3GR4+W22, Ghosi, Bizpura, Uttar Pradesh 275302",
+    "area": "275105",
+    "latitude": 26.0922569,
+    "longitude": 83.5050097,
+    "place_id": "ChIJtTspqAWFkTkRtp8YDgOI-BU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtTspqAWFkTkRtp8YDgOI-BU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:53:27"
+  },
+  {
+    "business_name": "Karnataka Kitchen",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "275105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Herbertpur, Atten Bagh, Uttarakhand 248198",
+    "area": "275105",
+    "latitude": 30.4493026,
+    "longitude": 77.7479109,
+    "place_id": "ChIJP7wv6GsvDzkRs0RWqMHmU8w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP7wv6GsvDzkRs0RWqMHmU8w",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:53:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Sweets Shop",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop",
+    "pincode": "275202",
+    "phone_number": "+91 94560 42439",
+    "website": "https://www.thesweetsshop.in/",
+    "rating": 5,
+    "reviews_count": 63,
+    "address": "Lic Choraha, 1/8, Avas Vikas Rd, Old Avas Vikas Colony, Rampur, Uttar Pradesh 244901",
+    "area": "Old Avas Vikas Colony",
+    "latitude": 28.7877029,
+    "longitude": 79.0194112,
+    "place_id": "ChIJOZ0Q2fuNCjkRYRKjFz7G52s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOZ0Q2fuNCjkRYRKjFz7G52s",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:56:57"
+  },
+  {
+    "business_name": "Manoj Sweet House Pipridih Mau",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "275202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "Pipridih, Mau, Pipri, Uttar Pradesh 275103",
+    "area": "Pipridih",
+    "latitude": 25.8680702,
+    "longitude": 83.4878813,
+    "place_id": "ChIJ71R0uuHzkTkRTj7l0iHC2KI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ71R0uuHzkTkRTj7l0iHC2KI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:56:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KHADI INDIA",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "274807",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 37,
+    "address": "D-141, D Block, Pocket D, Sector 27, Noida, Uttar Pradesh 201301",
+    "area": "D Block, Pocket D, Sector 27",
+    "latitude": 28.5743442,
+    "longitude": 77.3280846,
+    "place_id": "ChIJZakNyE3kDDkRoF1I5B94NJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZakNyE3kDDkRoF1I5B94NJg",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:44:14"
+  },
+  {
+    "business_name": "Khadi Gramodyog Bhawan",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "274807",
+    "phone_number": "+91 95990 44845",
+    "website": "https://vedgram.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "A5, opposite Taksal Road, A Block, Sector 7, Noida, Uttar Pradesh 201301",
+    "area": "A Block, Sector 7",
+    "latitude": 28.59351,
+    "longitude": 77.313467,
+    "place_id": "ChIJDdgw2PvlDDkR097Rzs9ptN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDdgw2PvlDDkR097Rzs9ptN4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:44:17"
+  }
+]

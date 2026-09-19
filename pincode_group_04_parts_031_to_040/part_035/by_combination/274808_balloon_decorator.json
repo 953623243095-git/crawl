@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shalimar Products",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon store",
+    "all_categories": "Balloon store",
+    "pincode": "274808",
+    "phone_number": "+91 98450 62650",
+    "website": "http://www.printmyballoon.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "2nd cross Bharat Nagar SRK Nagar Post, Thanisandra Main Rd, Bengaluru, Karnataka 560077",
+    "area": "Sinthan Nagar, Bharath Nagar, Manayata Tech Park, Thanisandra",
+    "latitude": 13.050078899999999,
+    "longitude": 77.62657709999999,
+    "place_id": "ChIJxYpB-GYXrjsRXmTk98g5L5g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxYpB-GYXrjsRXmTk98g5L5g",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:47:01"
+  },
+  {
+    "business_name": "Balloons Unlimited Miyapur",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Party store",
+    "all_categories": "Party store",
+    "pincode": "274808",
+    "phone_number": "+91 75759 94242",
+    "website": "https://www.balloonsunlimited.co.in/franchise-stores.html",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "beside Reliance Digital, Indira Nagar Colony, Miyapur, Hyderabad, Telangana 500049",
+    "area": "Indira Nagar Colony",
+    "latitude": 17.4965412,
+    "longitude": 78.3588946,
+    "place_id": "ChIJR6J9eXaTyzsRlhQL_VSrkOM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR6J9eXaTyzsRlhQL_VSrkOM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:47:01"
+  }
+]

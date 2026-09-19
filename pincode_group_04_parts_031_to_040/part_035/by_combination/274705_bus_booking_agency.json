@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucknow Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "274705",
+    "phone_number": "+91 94155 18049",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 61,
+    "address": "Mangali Bazar Main Rd, Bhingari, Uttar Pradesh 274702",
+    "area": "274705",
+    "latitude": 26.3804643,
+    "longitude": 84.08010329999999,
+    "place_id": "ChIJfVFLcxiykzkRiOEBcgNBrig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfVFLcxiykzkRiOEBcgNBrig",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:35:10"
+  },
+  {
+    "business_name": "Drishti travel",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "274705",
+    "phone_number": "+91 86013 25959",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "sallahpur, near Raja devi mahila p g college, sallahhpur, Bhatni Bazar, Deoria, Uttar Pradesh 274701",
+    "area": "sallahhpur",
+    "latitude": 26.3767139,
+    "longitude": 83.9347281,
+    "place_id": "ChIJ24tlsvW1kzkRGC6YljcQpNo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ24tlsvW1kzkRGC6YljcQpNo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:35:10"
+  }
+]

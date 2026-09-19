@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om provision and Baker's",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "274509",
+    "phone_number": "+91 84235 29380",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chc, Salempur, Sugahi, Uttar Pradesh 274509",
+    "area": "274509",
+    "latitude": 26.297417,
+    "longitude": 83.9186048,
+    "place_id": "ChIJ2Zoqs-jLkzkRJGc_bKQlK44",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2Zoqs-jLkzkRJGc_bKQlK44",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:17:15"
+  },
+  {
+    "business_name": "Mahakal provisional store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "274509",
+    "phone_number": "+91 80819 77385",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward No 8, Haraiya, Salempur, Uttar Pradesh 274509",
+    "area": "Haraiya",
+    "latitude": 26.290628899999998,
+    "longitude": 83.92498669999999,
+    "place_id": "ChIJB_5CAwA1kjkRHBNmvBDi1DM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB_5CAwA1kjkRHBNmvBDi1DM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:17:15"
+  }
+]

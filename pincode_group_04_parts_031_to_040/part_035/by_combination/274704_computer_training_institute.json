@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BBN Computer Institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Training center",
+    "all_categories": "Training center",
+    "pincode": "274704",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Sohagra, Bihar 841239",
+    "area": "274704",
+    "latitude": 26.2355239,
+    "longitude": 84.0188132,
+    "place_id": "ChIJI13oQABNkjkRC5ThCpV9nSU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI13oQABNkjkRC5ThCpV9nSU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:33:50"
+  },
+  {
+    "business_name": "Uma Institute Of Technical",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution, Polytechnic College",
+    "pincode": "274704",
+    "phone_number": "+91 70707 04737",
+    "website": "http://www.uitdc.co.in/",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Sohanpur, Uttar Pradesh 274704",
+    "area": "274704",
+    "latitude": 26.2521333,
+    "longitude": 84.0676149,
+    "place_id": "ChIJt1_I4O1NkjkRuaFW7VE3yhw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt1_I4O1NkjkRuaFW7VE3yhw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:33:50"
+  }
+]

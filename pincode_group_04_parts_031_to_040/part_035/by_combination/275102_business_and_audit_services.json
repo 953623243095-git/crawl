@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjeev Gupta & Company",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant",
+    "pincode": "275102",
+    "phone_number": "+91 99361 57360",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ghosi, near Pakdi Modh, above Sahu Bhawan, Mau, Uttar Pradesh 275304",
+    "area": "Jamalpur",
+    "latitude": 26.1229528,
+    "longitude": 83.5430655,
+    "place_id": "ChIJqwYdKCOHkTkRbLllHjjNtw8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqwYdKCOHkTkRbLllHjjNtw8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:51:07"
+  },
+  {
+    "business_name": "Sanjay Misra & Company",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant",
+    "pincode": "275102",
+    "phone_number": "+91 96348 73246",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "3rd Floor, Arihant Tower, Haridwar Rd, opp. Old Roadways Workshop, near Racecourse, East Rest Camp, Chander Nagar, Race Course, Dehradun, Uttarakhand 248001",
+    "area": "East Rest Camp, Chander Nagar, Race Course",
+    "latitude": 30.311309299999998,
+    "longitude": 78.0423015,
+    "place_id": "ChIJNyd63e0pCTkRdVTEnObCyhQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNyd63e0pCTkRdVTEnObCyhQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:51:08"
+  }
+]

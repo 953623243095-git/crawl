@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunil Janaral Store",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "274601",
+    "phone_number": "+91 63887 30783",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Makan Number178 Ward Number 13, Jahaj Ghat Road, Gaura Barhaj, Barhaj, Uttar Pradesh 274601",
+    "area": "274601",
+    "latitude": 26.2748483,
+    "longitude": 83.72380319999999,
+    "place_id": "ChIJlS29YuAtkjkR20TIvg2nQx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlS29YuAtkjkR20TIvg2nQx8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:19:27"
+  },
+  {
+    "business_name": "Divya Kids Wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "274601",
+    "phone_number": "+91 99354 90101",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "7PMF+53V, Goura, Uttar Pradesh 274601",
+    "area": "274601",
+    "latitude": 26.2829767,
+    "longitude": 83.7226584,
+    "place_id": "ChIJ33nh19TSkzkRrEZ8kL0sKfs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ33nh19TSkzkRrEZ8kL0sKfs",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:19:28"
+  }
+]

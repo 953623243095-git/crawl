@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rice n flour mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "274506",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "8297+834, Bhatpar Rani - Salempur Rd, Barka Gaon, Uttar Pradesh 274702",
+    "area": "274506",
+    "latitude": 26.318272999999998,
+    "longitude": 84.012705,
+    "place_id": "ChIJPW6bnKO1kzkRh65h1GeWRmI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPW6bnKO1kzkRh65h1GeWRmI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:13:34"
+  },
+  {
+    "business_name": "Radhey Aata Chakki",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "274506",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward no 10, bhatpar Road, Majhauli Raj, Salempur, Uttar Pradesh 274506",
+    "area": "274506",
+    "latitude": 26.2984928,
+    "longitude": 83.9665709,
+    "place_id": "ChIJuUdZplW1kzkRPQQRS5BrkeQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuUdZplW1kzkRPQQRS5BrkeQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:13:34"
+  }
+]

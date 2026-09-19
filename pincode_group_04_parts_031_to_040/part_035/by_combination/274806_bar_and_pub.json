@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Forresta Kitchen & Bar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Brewpub",
+    "all_categories": "Brewpub, Bar, Bar & grill, Cocktail bar, Lounge bar, Non Vegetarian Restaurant, Pub, Restaurant",
+    "pincode": "274806",
+    "phone_number": "+91 90012 77999",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5048,
+    "address": "Devraj Niwas, Mirza Ismail Rd, near Shri Amarapur Setu, Bani Park, Jaipur, Rajasthan 302006",
+    "area": "Barodia Scheme, Bani Park",
+    "latitude": 26.921508199999998,
+    "longitude": 75.7934557,
+    "place_id": "ChIJt6MuCPezbTkROAcfvKk6EpU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt6MuCPezbTkROAcfvKk6EpU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:42:14"
+  },
+  {
+    "business_name": "HUNGER HACKERS",
+    "search_category": "Bar and Pub",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "274806",
+    "phone_number": "+91 93192 16060",
+    "website": "http://www.hungerhackers.in/",
+    "rating": 4.5,
+    "reviews_count": 101,
+    "address": "Motilal Rd, Pathar Deva, Saket Nagar, Deoria, Uttar Pradesh 274806",
+    "area": "Pathar Deva, Saket Nagar",
+    "latitude": 26.5037684,
+    "longitude": 83.7859605,
+    "place_id": "ChIJl_aCWHXFkzkRphKYNPhAh80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl_aCWHXFkzkRphKYNPhAh80",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:42:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SARDARJI CAFE",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "274508",
+    "phone_number": "+91 87078 80284",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "BESIDES DASHMESH STORES, BRD Rd, New Colony, Saket Nagar, Deoria, Uttar Pradesh 274001",
+    "area": "New Colony, Saket Nagar",
+    "latitude": 26.4969905,
+    "longitude": 83.7881804,
+    "place_id": "ChIJu1SZcl_FkzkR0E_XTpw8toQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu1SZcl_FkzkR0E_XTpw8toQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:15:40"
+  },
+  {
+    "business_name": "THE SPOONS",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "274508",
+    "phone_number": "+91 91700 70400",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 21,
+    "address": "near Axis Bank, Chauk, Bhatwaliya, Deoria, Uttar Pradesh 274001",
+    "area": "Chauk, Bhatwaliya",
+    "latitude": 26.487047099999998,
+    "longitude": 83.7805659,
+    "place_id": "ChIJbdRWyYHFkzkRWcbQ8bL1D4A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbdRWyYHFkzkRWcbQ8bL1D4A",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:15:42"
+  }
+]

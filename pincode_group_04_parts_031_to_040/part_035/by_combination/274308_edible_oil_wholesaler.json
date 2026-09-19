@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Health and Orange",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store, Olive oil manufacturer, Store",
+    "pincode": "274308",
+    "phone_number": "+91 88827 00148",
+    "website": "https://www.healthandorange.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "A-76, Zeta I, Greater Noida, Uttar Pradesh 201310",
+    "area": "Zeta I",
+    "latitude": 28.496705,
+    "longitude": 77.5279305,
+    "place_id": "ChIJDYA75EHrDDkR7NeJWcqwG6M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDYA75EHrDDkR7NeJWcqwG6M",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:47:31"
+  },
+  {
+    "business_name": "Sri Radhakrishna Oil Traders",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "274308",
+    "phone_number": "+91 98862 54909",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "4WRH+42P, goldsmith street opposed Graham road, Cowl Bazaar, Ballari, Karnataka 583101",
+    "area": "Old Katte Gudda, Cowl Bazaar",
+    "latitude": 15.140341099999999,
+    "longitude": 76.92756659999999,
+    "place_id": "ChIJb3e2CjYRtzsRU7smdNVZQX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb3e2CjYRtzsRU7smdNVZQX4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:47:32"
+  }
+]

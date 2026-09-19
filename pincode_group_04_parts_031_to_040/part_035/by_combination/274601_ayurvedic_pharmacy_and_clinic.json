@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arogya ayurvedic",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "274601",
+    "phone_number": "+91 99565 72862",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rudrapur, road, Barhaj, Uttar Pradesh 274601",
+    "area": "274601",
+    "latitude": 26.280086999999998,
+    "longitude": 83.7197815,
+    "place_id": "ChIJzUceY9UskjkRhvraeAQIJZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzUceY9UskjkRhvraeAQIJZQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:19:34"
+  },
+  {
+    "business_name": "Gopal Medical Hall",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "274601",
+    "phone_number": "+91 80051 21192",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Deoria - Barhaj Rd, Road, Barhaj, Uttar Pradesh 274601",
+    "area": "274601",
+    "latitude": 26.2828075,
+    "longitude": 83.7225607,
+    "place_id": "ChIJQ0TGhKfTkzkR8qTo3kzlFO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ0TGhKfTkzkR8qTo3kzlFO0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:19:34"
+  }
+]

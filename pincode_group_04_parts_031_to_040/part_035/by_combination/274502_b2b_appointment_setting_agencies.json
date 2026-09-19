@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Business Booster",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Branding agency, Graphic designer, Marketing consultant, Media company, Public relations firm, Video production service",
+    "pincode": "274502",
+    "phone_number": "+91 74550 89018",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "1224, mukeriyan, Sadar Bazar, Mathura, Uttar Pradesh 281001",
+    "area": "mukeriyan, Sadar Bazar",
+    "latitude": 27.4919276,
+    "longitude": 77.6979885,
+    "place_id": "ChIJc0pFGw5xczkRlUhRhYLEPzw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc0pFGw5xczkRlUhRhYLEPzw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:11:28"
+  },
+  {
+    "business_name": "Independent Business Consultant",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant",
+    "pincode": "274502",
+    "phone_number": "N/A",
+    "website": "https://www.badabusiness.com/digitaldukan/BIAK039973",
+    "rating": null,
+    "reviews_count": null,
+    "address": "413/1, near Suraj Complex, Bans Deoria, Raghav Nagar, Deoria, Uttar Pradesh 274001",
+    "area": "Bans Deoria, Raghav Nagar",
+    "latitude": 26.5008327,
+    "longitude": 83.77965929999999,
+    "place_id": "ChIJQ5DmMQHFkzkRHLIetyM6wEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ5DmMQHFkzkRHLIetyM6wEE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:11:29"
+  }
+]

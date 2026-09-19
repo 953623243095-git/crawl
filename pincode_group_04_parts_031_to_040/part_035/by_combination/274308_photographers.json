@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jmd Studio",
+    "search_category": "Photographers",
+    "primary_category": "Wedding photographer",
+    "all_categories": "Wedding photographer",
+    "pincode": "274308",
+    "phone_number": "+91 84392 99456",
+    "website": "https://jmd-studio.ueniweb.com/?utm_campaign=gmb",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Chak Road, near Shani Dev Mandir, Gandhi Colony, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Gandhi Colony",
+    "latitude": 29.4844677,
+    "longitude": 77.7123198,
+    "place_id": "ChIJGUmirpUbDDkRVgC7_jYHUpU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGUmirpUbDDkRVgC7_jYHUpU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:48:34"
+  },
+  {
+    "business_name": "Midas Studio",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "274308",
+    "phone_number": "+91 98370 45545",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "14-15, Gaushala Rd, Gher Khatti, New Mandi, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Gher Khatti, New Mandi",
+    "latitude": 29.4708041,
+    "longitude": 77.7118088,
+    "place_id": "ChIJRbuWsBIbDDkRZv_Cll93k1w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRbuWsBIbDDkRZv_Cll93k1w",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:48:35"
+  }
+]

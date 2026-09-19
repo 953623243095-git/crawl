@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kunal Singh",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "274408",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MRPH+8QP, Unnamed Road, Deoria, Uttar Pradesh 274206",
+    "area": "274408",
+    "latitude": 26.6857886,
+    "longitude": 83.8296013,
+    "place_id": "ChIJu6laGADpkzkRvowC1QKmwI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu6laGADpkzkRvowC1QKmwI8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:04:02"
+  },
+  {
+    "business_name": "Raju Paan Staal",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "274408",
+    "phone_number": "+91 79856 57473",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tarkulwa 08, Bajar, Tarkulwa, Deoria, Uttar Pradesh 274408",
+    "area": "274408",
+    "latitude": 26.632694899999997,
+    "longitude": 83.8979761,
+    "place_id": "ChIJB35QL9TBkzkRokOu-IExVqc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB35QL9TBkzkRokOu-IExVqc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:04:05"
+  }
+]

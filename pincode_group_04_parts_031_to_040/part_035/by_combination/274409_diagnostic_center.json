@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Medical",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "274409",
+    "phone_number": "+91 81879 82470",
+    "website": "https://linktr.ee/vikrant.sayz",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Siswa Bazar, Siswa, Banka Khas, Uttar Pradesh 274409",
+    "area": "274409",
+    "latitude": 26.6451109,
+    "longitude": 84.33705119999999,
+    "place_id": "ChIJF5sbP4oLkzkR2MJUi_PujV0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF5sbP4oLkzkR2MJUi_PujV0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:06:23"
+  },
+  {
+    "business_name": "kritim garbhadhan kendra",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "274409",
+    "phone_number": "+91 95696 22925",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Shop No 1 Siswa Bajar Main Road, Main Road, Tulsi Patti, Siswa, Uttar Pradesh 274409",
+    "area": "274409",
+    "latitude": 26.6445455,
+    "longitude": 84.33667899999999,
+    "place_id": "ChIJG5YYfYcLkzkRSs7MS84D6oo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG5YYfYcLkzkRSs7MS84D6oo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:06:23"
+  }
+]

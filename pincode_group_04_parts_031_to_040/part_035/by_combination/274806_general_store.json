@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HARI GENERAL STORE",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "274806",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GQ4P+FXG, Ramgulam Tola, Deoria, Uttar Pradesh 274806",
+    "area": "Ramgulam Tola",
+    "latitude": 26.506190399999998,
+    "longitude": 83.7874655,
+    "place_id": "ChIJUwQBcQDFkzkRLr2A1M6jA_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUwQBcQDFkzkRLr2A1M6jA_o",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:42:04"
+  },
+  {
+    "business_name": "Uzair General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "274806",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Abubakar Nagar, near Salam Hospital, Kailashpuri, Deoria, Uttar Pradesh 274001",
+    "area": "Kailashpuri",
+    "latitude": 26.5093461,
+    "longitude": 83.7780272,
+    "place_id": "ChIJJ-QTewDFkzkRgIptliNSTFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ-QTewDFkzkRgIptliNSTFs",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:42:04"
+  }
+]

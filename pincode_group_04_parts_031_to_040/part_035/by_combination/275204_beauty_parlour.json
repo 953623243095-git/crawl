@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Ladies Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "275204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "M6Q5+96G, Mehnajpur-Sadat Rd, Patti Bhikhari, Mirzapur, Uttar Pradesh 275204",
+    "area": "275204",
+    "latitude": 25.6884423,
+    "longitude": 83.2080739,
+    "place_id": "ChIJdfhJLwDdkTkR6d1IeAw67RY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdfhJLwDdkTkR6d1IeAw67RY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:01:23"
+  },
+  {
+    "business_name": "Satya",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "275204",
+    "phone_number": "+91 79056 69668",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 227,
+    "address": "below LIC OFFICE, Mahuabagh, Ghazipur, Uttar Pradesh 233001",
+    "area": "Mahuabagh",
+    "latitude": 25.5796094,
+    "longitude": 83.5768459,
+    "place_id": "ChIJqYZCEPb_kTkRZly7lMVt89w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqYZCEPb_kTkRZly7lMVt89w",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:01:24"
+  }
+]

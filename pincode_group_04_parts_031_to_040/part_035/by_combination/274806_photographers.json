@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kumar",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "274806",
+    "phone_number": "+91 89178 83491",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "O Kotwali, Rod, Saket Nagar, Deoria, Uttar Pradesh 274001",
+    "area": "Saket Nagar",
+    "latitude": 26.5023008,
+    "longitude": 83.7856821,
+    "place_id": "ChIJHezSbYHFkzkRLeWsJApLPKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHezSbYHFkzkRLeWsJApLPKg",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:43:06"
+  },
+  {
+    "business_name": "Venus Mixing Evam Studio",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "274806",
+    "phone_number": "+91 97934 02734",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 5,
+    "address": "FQXP+M37, Jalkal Rd, Saket Nagar, Deoria, Uttar Pradesh 274001",
+    "area": "Saket Nagar",
+    "latitude": 26.499154899999997,
+    "longitude": 83.7851579,
+    "place_id": "ChIJqxKHDBXFkzkRw0szSsTqJtU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqxKHDBXFkzkRw0szSsTqJtU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:43:06"
+  }
+]

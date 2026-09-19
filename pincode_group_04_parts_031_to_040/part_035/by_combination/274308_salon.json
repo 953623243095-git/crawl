@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sandeep Salon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "274308",
+    "phone_number": "+91 96284 81424",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Padrauna, Station Rd, Barhara Ganj, Uttar Pradesh 274308",
+    "area": "Barhara Ganj",
+    "latitude": 26.9250673,
+    "longitude": 83.92198599999999,
+    "place_id": "ChIJp8WtF5rzkzkRlZVhUP07N2o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp8WtF5rzkzkRlZVhUP07N2o",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:48:26"
+  },
+  {
+    "business_name": "Shamshad",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "274308",
+    "phone_number": "+91 93053 50508",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "0, Basi Dham, Uttar Pradesh 274308",
+    "area": "274308",
+    "latitude": 26.9735147,
+    "longitude": 83.9532572,
+    "place_id": "ChIJo_HP2bCLkzkROxT7nIUdTt8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo_HP2bCLkzkROxT7nIUdTt8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:48:26"
+  }
+]

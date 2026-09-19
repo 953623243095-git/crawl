@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SPA ENTERPRISES",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "275105",
+    "phone_number": "+91 94152 09576",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Rauza, Ghazipur, Uttar Pradesh 233002",
+    "area": "Rauza",
+    "latitude": 25.598616099999997,
+    "longitude": 83.5765394,
+    "place_id": "ChIJiSyV_kP_kTkR4f5imuzUqrY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiSyV_kP_kTkR4f5imuzUqrY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:54:17"
+  },
+  {
+    "business_name": "Golden Door Spa",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "275105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "AB Tower, D-15, Sadar Bazar Rd, Sahadatpura, Mau, Uttar Pradesh 221705",
+    "area": "Sahadatpura",
+    "latitude": 25.9186788,
+    "longitude": 83.56976929999999,
+    "place_id": "ChIJxYYFk8CKkTkRjprfC9jfDrE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxYYFk8CKkTkRjprfC9jfDrE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:54:17"
+  }
+]

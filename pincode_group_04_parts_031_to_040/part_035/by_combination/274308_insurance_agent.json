@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LIC",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "274308",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Padrauna Rd, Jungle Nahar Chhapra, Uttar Pradesh 274308",
+    "area": "274308",
+    "latitude": 26.9463215,
+    "longitude": 83.9871462,
+    "place_id": "ChIJjV1qkoKNkzkR7mtNuVp42ag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjV1qkoKNkzkR7mtNuVp42ag",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:48:54"
+  },
+  {
+    "business_name": "RAJESH MISHRA INSURANCE ADVISOR LIC",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "274308",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": null,
+    "address": "VILL MANSHACHHAPRA, POST, Nebua Naurangia, Uttar Pradesh 274305",
+    "area": "274308",
+    "latitude": 27.0474599,
+    "longitude": 83.88565349999999,
+    "place_id": "ChIJNan3zQYLlDkRKlAT-y6F4fc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNan3zQYLlDkRKlAT-y6F4fc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:48:54"
+  }
+]

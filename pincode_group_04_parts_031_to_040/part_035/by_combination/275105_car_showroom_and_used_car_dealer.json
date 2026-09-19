@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DIVYA AUTOMOBILES",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "275105",
+    "phone_number": "+91 90445 37733",
+    "website": "https://carsell.in/",
+    "rating": 4.5,
+    "reviews_count": 62,
+    "address": "Main Lalitpur rode, Hansari, Jhansi, Uttar Pradesh 284135",
+    "area": "Hansari",
+    "latitude": 25.4097378,
+    "longitude": 78.56335969999999,
+    "place_id": "ChIJqUaYVaF7dzkRKU-dVP1RutA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqUaYVaF7dzkRKU-dVP1RutA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:53:55"
+  },
+  {
+    "business_name": "Dream Wheels",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "275105",
+    "phone_number": "+91 70850 52023",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 25,
+    "address": "opp. Nigla Nissan, Lekhi, Naharlagun, Arunachal Pradesh 791110",
+    "area": "275105",
+    "latitude": 27.1268815,
+    "longitude": 93.7305129,
+    "place_id": "ChIJz2GuCRv_QzcR60EyINjN53Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz2GuCRv_QzcR60EyINjN53Y",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:53:55"
+  }
+]

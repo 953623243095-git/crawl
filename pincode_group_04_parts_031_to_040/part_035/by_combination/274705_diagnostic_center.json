@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "High-tech Diagnostic Centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Pathologist",
+    "all_categories": "Pathologist",
+    "pincode": "274705",
+    "phone_number": "+91 74630 56657",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 15,
+    "address": "Bhore - Pagra Rd, Bijaipur, Bihar 841508",
+    "area": "274705",
+    "latitude": 26.466234999999998,
+    "longitude": 83.9881939,
+    "place_id": "ChIJQQBoURi3kzkRNX2ukYF864g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQQBoURi3kzkRNX2ukYF864g",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:34:59"
+  },
+  {
+    "business_name": "M.S PATH LAB GHANTI",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "274705",
+    "phone_number": "+91 72910 46067",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Main Road, near by Central Bank ATM, Ghanti Khas, Padouli, Uttar Pradesh 274705",
+    "area": "Ghanti Khas",
+    "latitude": 26.4021427,
+    "longitude": 84.0032805,
+    "place_id": "ChIJUVOXyyO3kzkRW7pZbUY7ZiI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUVOXyyO3kzkRW7pZbUY7ZiI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:34:59"
+  }
+]

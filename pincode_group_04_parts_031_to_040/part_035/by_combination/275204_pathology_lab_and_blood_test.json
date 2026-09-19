@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MD PATH LAB",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Pathologist",
+    "all_categories": "Pathologist",
+    "pincode": "275204",
+    "phone_number": "+91 96828 17288",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "MAHILA HOSPITAL, Kotwali, Mishra Bazar, Lal Darwaja, Ghazipur, Uttar Pradesh 233300",
+    "area": "Kotwali, Mishra Bazar, Lal Darwaja",
+    "latitude": 25.5815946,
+    "longitude": 83.5808837,
+    "place_id": "ChIJ_wPjI3D_kTkRVCFJHRrM7r4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_wPjI3D_kTkRVCFJHRrM7r4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:00:59"
+  },
+  {
+    "business_name": "Pathkind Labs",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service, HIV testing center, Laboratory, Medical Center, Medical laboratory, Pathologist, STD testing service",
+    "pincode": "275204",
+    "phone_number": "+91 70682 53972",
+    "website": "https://nearby.pathkindlabs.com/pathkind-labs-basipur-ghazipur-48725/home?utm_source=GBP",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Piyari Road, Saidpur, Basu Pur, Chak Budasen, Uttar Pradesh 233306",
+    "area": "Saidpur",
+    "latitude": 25.5398142,
+    "longitude": 83.3071866,
+    "place_id": "ChIJs5_NP03hkTkRAGvhzNJ5rjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs5_NP03hkTkRAGvhzNJ5rjI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 08:01:00"
+  }
+]

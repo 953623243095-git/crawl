@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prabha car wash centre",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "274702",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Padari bazar, Banjaria, Karsarwa Buzurg, Uttar Pradesh 274703",
+    "area": "274702",
+    "latitude": 26.3310675,
+    "longitude": 84.1304261,
+    "place_id": "ChIJ3f20nGitkzkR9kMLuZBplD8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3f20nGitkzkR9kMLuZBplD8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:29:17"
+  },
+  {
+    "business_name": "Scrub N Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto painting, Auto window tinting service, Car detailing service, Auto restoration service, Self service car wash, Vehicle wrapping service, Window tinting service",
+    "pincode": "274702",
+    "phone_number": "+91 98886 88815",
+    "website": "https://scrub-n-wash.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "59, behind Jio Petrol Pump, Transport Nagar, U.I.T Colony, Bharatpur, Bharatpur Chak 2, Rajasthan 321001",
+    "area": "Transport Nagar, U.I.T Colony",
+    "latitude": 27.228232199999997,
+    "longitude": 77.472124,
+    "place_id": "ChIJyXtpIgCjczkRBaokj8F3Fdk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyXtpIgCjczkRBaokj8F3Fdk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:29:18"
+  }
+]

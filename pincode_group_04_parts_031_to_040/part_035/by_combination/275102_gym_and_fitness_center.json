@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Open gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "275102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "XH6C+6QG, Mau, Uttar Pradesh 275101",
+    "area": "275102",
+    "latitude": 25.960552699999997,
+    "longitude": 83.5719654,
+    "place_id": "ChIJNyH3KgCLkTkRn8b563UqibQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNyH3KgCLkTkRn8b563UqibQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:50:11"
+  },
+  {
+    "business_name": "MG fitness club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "275102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "VMF2+8X9, Bahadurganj, Uttar Pradesh 275201",
+    "area": "275102",
+    "latitude": 25.873288799999997,
+    "longitude": 83.65249469999999,
+    "place_id": "ChIJFa5RBQAfkjkRUkg-E3_1ECs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFa5RBQAfkjkRUkg-E3_1ECs",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:50:13"
+  }
+]

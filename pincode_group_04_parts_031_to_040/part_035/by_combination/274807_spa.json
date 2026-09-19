@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My choice beauty parlour and cosmetic center",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "274807",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Salempur Rd, Deoria, Uttar Pradesh 274001",
+    "area": "274807",
+    "latitude": 26.475475799999998,
+    "longitude": 83.7836742,
+    "place_id": "ChIJ1-3LlerFkzkRMiTNLLtcvz0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1-3LlerFkzkRMiTNLLtcvz0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:44:51"
+  },
+  {
+    "business_name": "anmol",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Facial spa, Hair salon, Health and beauty shop, Make-up artist, Nail salon, Skin care clinic, Spa, Waxing hair removal service",
+    "pincode": "274807",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 49,
+    "address": "bhatwalia chauraha, Hydel Colony, Ram Naath Nagar, Deoria, Uttar Pradesh 274001",
+    "area": "Hydel Colony, Ram Naath Nagar",
+    "latitude": 26.4884807,
+    "longitude": 83.7800286,
+    "place_id": "ChIJxeJ1RgbFkzkRwOTs42QElDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxeJ1RgbFkzkRwOTs42QElDA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:44:52"
+  }
+]

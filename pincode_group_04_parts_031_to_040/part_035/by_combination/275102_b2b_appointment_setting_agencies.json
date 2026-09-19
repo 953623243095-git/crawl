@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adxventure",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "275102",
+    "phone_number": "+91 94101 02425",
+    "website": "https://adxventure.com/",
+    "rating": 4.8,
+    "reviews_count": 93,
+    "address": "28, Machhi Bazar, Tagore Villa, Chukkuwala, Dehradun, Uttarakhand 248001",
+    "area": "Machhi Bazar, Tagore Villa, Chukkuwala",
+    "latitude": 30.326313799999998,
+    "longitude": 78.0352024,
+    "place_id": "ChIJEU5m4DopCTkRGprRqqE58x4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEU5m4DopCTkRGprRqqE58x4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:51:21"
+  },
+  {
+    "business_name": "my personal computer",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Modeling agency",
+    "all_categories": "Modeling agency",
+    "pincode": "275102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Indara, Mau, Uttar Pradesh 275102",
+    "area": "275102",
+    "latitude": 25.9866851,
+    "longitude": 83.6215402,
+    "place_id": "ChIJZZm-FJkhkjkR5sGT-Q2cOpw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZZm-FJkhkjkR5sGT-Q2cOpw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:51:22"
+  }
+]

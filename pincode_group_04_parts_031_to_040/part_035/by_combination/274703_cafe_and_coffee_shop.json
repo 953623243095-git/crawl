@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Tea Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "274703",
+    "phone_number": "+91 77390 95303",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 10,
+    "address": "Balaji Departmental Store, Mairwa - Guthani Rd, Mairwa, Bihar 841239",
+    "area": "274703",
+    "latitude": 26.226909499999998,
+    "longitude": 84.1473092,
+    "place_id": "ChIJfeZ6HrNTkjkRynNXh-BTnEo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfeZ6HrNTkjkRynNXh-BTnEo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:30:50"
+  },
+  {
+    "business_name": "APNA CYBER SOLUTION",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Railway Ticket Agent, Travel agency",
+    "pincode": "274703",
+    "phone_number": "+91 82921 18113",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 22,
+    "address": "DARAULI ROAD, near PTEC, Mairwa Dham, Mairwa, Bihar 841239",
+    "area": "Mairwa Dham",
+    "latitude": 26.2307231,
+    "longitude": 84.1658309,
+    "place_id": "ChIJ6SEEnhhTkjkRyzhiDiXm-es",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6SEEnhhTkjkRyzhiDiXm-es",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:30:52"
+  }
+]

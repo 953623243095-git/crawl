@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhishek mall",
+    "search_category": "Malls",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "274603",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "8PRJ+V5W, Barauli, Uttar Pradesh 274182",
+    "area": "274603",
+    "latitude": 26.3422415,
+    "longitude": 83.7304454,
+    "place_id": "ChIJrZ4ZhOXTkzkRBN2bd58oC-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZ4ZhOXTkzkRBN2bd58oC-8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:24:42"
+  },
+  {
+    "business_name": "Subhash Kirana Store",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "274603",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Barahaj- salempur Bypass, Raj Nagar, Barhaj, Uttar Pradesh 274601",
+    "area": "Raj Nagar",
+    "latitude": 26.282873799999997,
+    "longitude": 83.73432919999999,
+    "place_id": "ChIJtb9RjVzTkzkRuR7Kvofz3GY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtb9RjVzTkzkRuR7Kvofz3GY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:24:42"
+  }
+]

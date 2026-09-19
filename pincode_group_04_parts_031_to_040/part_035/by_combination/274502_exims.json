@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spps Exim International LLP",
+    "search_category": "EXIMS",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Supplier, Machine maintenance service, Packaging company, Staple food package",
+    "pincode": "274502",
+    "phone_number": "+91 93153 07615",
+    "website": "https://www.sppsintl.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "No. i - 65, Sector- 09, Noida i Block, Sector 09, Noida, Uttar Pradesh 201301",
+    "area": "Sector- 09, Noida i Block",
+    "latitude": 28.589255599999998,
+    "longitude": 77.32648139999999,
+    "place_id": "ChIJbT25GJTvDDkRwX-Itxtgokk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbT25GJTvDDkRwX-Itxtgokk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:11:22"
+  },
+  {
+    "business_name": "Indian Overseas Bank",
+    "search_category": "EXIMS",
+    "primary_category": "Public Sector Bank",
+    "all_categories": "Public Sector Bank, Bank",
+    "pincode": "274502",
+    "phone_number": "+91 89259 53786",
+    "website": "https://locate.iob.in/indian-overseas-bank-deoria-public-sector-bank-cc-road-deoria-380342/Home",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shukla Complex, CC Rd, near Hanuman Mandir Road, Deoria Khaas, Uma Nagar, Deoria, Uttar Pradesh 274001",
+    "area": "Deoria Khaas, Uma Nagar",
+    "latitude": 26.506781999999998,
+    "longitude": 83.773712,
+    "place_id": "ChIJnbYLozrFkzkR4qqxBjIjJSk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnbYLozrFkzkR4qqxBjIjJSk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:11:22"
+  }
+]

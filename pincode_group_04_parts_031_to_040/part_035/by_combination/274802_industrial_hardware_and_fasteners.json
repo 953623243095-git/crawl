@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Padmavati Hardware Mart",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "274802",
+    "phone_number": "+91 98240 25738",
+    "website": "https://padmavatihardware.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "2Hwq+3Jw Business Park, 23, Shahibaug Rd., near Swaminarayan Temple, Dudheshwar, Ahmedabad, Gujarat 380004",
+    "area": "Dudheshwar",
+    "latitude": 23.0456954,
+    "longitude": 72.5891762,
+    "place_id": "ChIJAQBADWuEXjkRHkWYSvzxhJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQBADWuEXjkRHkWYSvzxhJg",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:39:45"
+  },
+  {
+    "business_name": "S D Fasteners",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Fastener supplier",
+    "all_categories": "Fastener supplier",
+    "pincode": "274802",
+    "phone_number": "+91 11 2323 9973",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "4902/8, Somani Market, Hauz Qazi, New Delhi, Delhi 110006",
+    "area": "Old Delhi, Kaccha Pandit Main Bazar, Hauz Qazi, Chandni Chowk",
+    "latitude": 28.649341999999997,
+    "longitude": 77.22619,
+    "place_id": "ChIJ____Gxj9DDkRW1Disc4WeNg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____Gxj9DDkRW1Disc4WeNg",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:39:46"
+  }
+]

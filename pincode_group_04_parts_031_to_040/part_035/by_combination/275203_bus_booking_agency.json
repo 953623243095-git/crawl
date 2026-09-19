@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhay Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Airline ticket agency, Car leasing service, Car rental agency, Tour operator, Railway Ticket Agent",
+    "pincode": "275203",
+    "phone_number": "+91 93369 29015",
+    "website": "https://abhaytravels.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "S. A 1/55 Thakurpura,, Mental Hospital Road, Pandeypur, near Bank Colony, Varanasi, Uttar Pradesh 221002",
+    "area": "Sikraul",
+    "latitude": 25.3500943,
+    "longitude": 82.99137309999999,
+    "place_id": "ChIJaY4MitUtjjkRLPwvIAWMEDs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaY4MitUtjjkRLPwvIAWMEDs",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:59:20"
+  },
+  {
+    "business_name": "Shivanya Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service",
+    "pincode": "275203",
+    "phone_number": "+91 95062 66612",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Goda Shehari, Uttar Pradesh 233002",
+    "area": "Lanka",
+    "latitude": 25.582057199999998,
+    "longitude": 83.55860919999999,
+    "place_id": "ChIJAYFZ5Rr_kTkRv-wpDrj0LPk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAYFZ5Rr_kTkRv-wpDrj0LPk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:59:20"
+  }
+]

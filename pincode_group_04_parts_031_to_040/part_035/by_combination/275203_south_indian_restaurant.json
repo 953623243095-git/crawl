@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Hunger Train Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "275203",
+    "phone_number": "+91 93418 24860",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 91,
+    "address": "सब जेल के ठीक सामने डॉ अरुण कुमार के बगल में, मुहल्ला रोड, सिविल लाइन, Mathia, Buxar, Bihar 802101",
+    "area": "सिविल लाइन",
+    "latitude": 25.5815602,
+    "longitude": 83.9817956,
+    "place_id": "ChIJl9TBXcR1kjkRsbaM7p-WMBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl9TBXcR1kjkRsbaM7p-WMBA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:58:50"
+  },
+  {
+    "business_name": "Zaika Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "275203",
+    "phone_number": "+91 96963 04020",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bangalapar, Dildar Nagar, Uttar Pradesh 232326",
+    "area": "Bangalapar",
+    "latitude": 25.424978499999998,
+    "longitude": 83.6706402,
+    "place_id": "ChIJvUwgXFv9jTkRcYcBttDpGFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvUwgXFv9jTkRcYcBttDpGFU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:58:50"
+  }
+]

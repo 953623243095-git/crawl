@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "avantika hotels",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "274305",
+    "phone_number": "+91 86041 61672",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "XWP7+89X, Suraj Nagar Bajar, Bazar, Padrauna, Mithha Mafi, Uttar Pradesh 274305",
+    "area": "Suraj Nagar Bajar, Bazar",
+    "latitude": 26.985871099999997,
+    "longitude": 83.9134819,
+    "place_id": "ChIJ7VzuVVj1kzkRiTSS_MAgnmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7VzuVVj1kzkRiTSS_MAgnmg",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:43:12"
+  },
+  {
+    "business_name": "Jaika Hotal",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "274305",
+    "phone_number": "+91 80097 73793",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "00, Bajar, Pakariyar, Piprawar Siwan, Uttar Pradesh 274306",
+    "area": "274305",
+    "latitude": 27.0100935,
+    "longitude": 83.81645979999999,
+    "place_id": "ChIJ1y6GjAD3kzkRCIKS_Syo7-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1y6GjAD3kzkRCIKS_Syo7-0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:43:12"
+  }
+]

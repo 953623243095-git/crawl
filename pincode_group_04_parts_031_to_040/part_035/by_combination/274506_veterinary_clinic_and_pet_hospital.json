@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vet clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Pet groomer, Pet store, Pet trainer",
+    "pincode": "274506",
+    "phone_number": "+91 97600 40611",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Purana Mill Compound, SH 39, Nayee Nagla, Hathras, Uttar Pradesh 204101",
+    "area": "Nayee Nagla",
+    "latitude": 27.5922728,
+    "longitude": 78.0456277,
+    "place_id": "ChIJe6-lABCFdDkRYY4CVeUt7eQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe6-lABCFdDkRYY4CVeUt7eQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:14:04"
+  },
+  {
+    "business_name": "Cuddle & Care",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Pet groomer, Pet store, Pet supply store, Veterinary pharmacy",
+    "pincode": "274506",
+    "phone_number": "+91 95235 80391",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 184,
+    "address": "Pashupati Lane, near Aditya Vision, opp. Peter England showroom, Haji Nagar Colony, Mithanpura, Muzaffarpur, Bihar 842002",
+    "area": "Haji Nagar Colony, Mithanpura",
+    "latitude": 26.106323699999997,
+    "longitude": 85.397944,
+    "place_id": "ChIJ7W40EXUR7TkRQdDk1PxYiDs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7W40EXUR7TkRQdDk1PxYiDs",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:14:05"
+  }
+]

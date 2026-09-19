@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aman Naman Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "274806",
+    "phone_number": "+91 99195 84800",
+    "website": "https://www.instagram.com/aman_naman_jewellers?igsh=bHE1Nmt2aHdkajA5",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Malviya Rd, near Overbridge, Kailashpuri, Deoria, Uttar Pradesh 274001",
+    "area": "Kailashpuri",
+    "latitude": 26.504071999999997,
+    "longitude": 83.78288599999999,
+    "place_id": "ChIJ5xRVjT3FkzkRRR7StOgaAgI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5xRVjT3FkzkRRR7StOgaAgI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:42:20"
+  },
+  {
+    "business_name": "Shri Kashi Nath Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "274806",
+    "phone_number": "+91 94152 85213",
+    "website": "http://www.shrikashinathjewellers.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Malviya Rd, Goverdhan Katra, Kailashpuri, Deoria, Uttar Pradesh 274806",
+    "area": "Goverdhan Katra, Kailashpuri",
+    "latitude": 26.5036302,
+    "longitude": 83.78224349999999,
+    "place_id": "ChIJa9iI8T3FkzkRqxDZeTwfW1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa9iI8T3FkzkRqxDZeTwfW1U",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:42:20"
+  }
+]

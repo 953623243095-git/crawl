@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rakesh kirana store gahila",
+    "search_category": "Kirana Store",
+    "primary_category": "Technology park",
+    "all_categories": "Technology park",
+    "pincode": "274604",
+    "phone_number": "+91 70541 04417",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dhurihat, Uttar Pradesh 274604",
+    "area": "274604",
+    "latitude": 26.280268799999998,
+    "longitude": 83.8343077,
+    "place_id": "ChIJjyhDe6gzkjkRlXgntBUnLuM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjyhDe6gzkjkRlXgntBUnLuM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:24:46"
+  },
+  {
+    "business_name": "Kushwaha ji kirana store",
+    "search_category": "Kirana Store",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "274604",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Barkagoan, Deoria, Bijalapar, Uttar Pradesh 274601",
+    "area": "274604",
+    "latitude": 26.308984,
+    "longitude": 83.75944179999999,
+    "place_id": "ChIJHRA-azHTkzkRzuaA2zNUH7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHRA-azHTkzkRzuaA2zNUH7Y",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:24:46"
+  }
+]

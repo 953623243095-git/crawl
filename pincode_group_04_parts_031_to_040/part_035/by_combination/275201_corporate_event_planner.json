@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "EazeMyEvent",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "275201",
+    "phone_number": "+91 92784 17203",
+    "website": "https://eazemyevent.com/",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "E-2/290, Ratanpur Vistar, Part-2, Panki, Kanpur, Uttar Pradesh 208020",
+    "area": "Ratanpur Vistar, Part-2, Panki",
+    "latitude": 26.4700424,
+    "longitude": 80.2401392,
+    "place_id": "ChIJsfu7jWkdL2gRMYH1ubZWzM0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsfu7jWkdL2gRMYH1ubZWzM0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:56:12"
+  },
+  {
+    "business_name": "Push Vision Management",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "275201",
+    "phone_number": "N/A",
+    "website": "https://www.pushvision.in/",
+    "rating": 4.7,
+    "reviews_count": 56,
+    "address": "1024, Shakti Khand 4, Indirapuram, Ghaziabad, Uttar Pradesh 201014",
+    "area": "Shakti Khand 4, Indirapuram",
+    "latitude": 28.650941,
+    "longitude": 77.371971,
+    "place_id": "ChIJczoOQE77DDkRX0UFpB4Eu6k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJczoOQE77DDkRX0UFpB4Eu6k",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:56:12"
+  }
+]

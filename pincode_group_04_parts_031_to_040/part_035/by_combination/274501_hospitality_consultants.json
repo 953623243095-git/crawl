@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaiswal Hotel",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "274501",
+    "phone_number": "+91 72370 06933",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "1 Bhatani Dada, Uttar Pradesh 274701",
+    "area": "274501",
+    "latitude": 26.381422699999998,
+    "longitude": 83.93351919999999,
+    "place_id": "ChIJn0P_9OG1kzkR8BgJgXp7_7o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn0P_9OG1kzkR8BgJgXp7_7o",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:08:55"
+  },
+  {
+    "business_name": "Maa Subhawati Devi Bhojnalay",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant, Hotel",
+    "pincode": "274501",
+    "phone_number": "+91 91258 29422",
+    "website": "http://youtube.com/@hitechshubhamji",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Salempur, Uttar Pradesh 274509",
+    "area": "274501",
+    "latitude": 26.2940993,
+    "longitude": 83.9225658,
+    "place_id": "ChIJ87V8t8nLkzkRInPbFUT6VKw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ87V8t8nLkzkRInPbFUT6VKw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:08:55"
+  }
+]

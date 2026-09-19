@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hindustan Cycle Store Tarkulwa",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle repair shop, Bicycle wholesaler",
+    "pincode": "274403",
+    "phone_number": "+91 94524 78912",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Deoria - Kasia Rd, Tarkulwa, Balpur Shrinagar, Uttar Pradesh 274408",
+    "area": "274403",
+    "latitude": 26.6338567,
+    "longitude": 83.8980139,
+    "place_id": "ChIJ9cJMzgvBkzkRkrl1PVK1w6g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9cJMzgvBkzkRkrl1PVK1w6g",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:55:20"
+  },
+  {
+    "business_name": "Nandu Auto Service",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "274403",
+    "phone_number": "+91 97936 73944",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2, Deoria - Kasia Rd, Kasia Bazaar, Kushinagar, Uttar Pradesh 274402",
+    "area": "274403",
+    "latitude": 26.74206,
+    "longitude": 83.9158166,
+    "place_id": "ChIJ32hIDrfrkzkRbrYuqsEUeSc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ32hIDrfrkzkRbrYuqsEUeSc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:55:24"
+  }
+]

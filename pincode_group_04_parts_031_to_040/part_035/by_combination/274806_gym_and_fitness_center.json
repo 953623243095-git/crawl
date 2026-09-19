@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Protein shop deoria",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "274806",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nagar Palika Rd, Gari Bazar, Kailashpuri, Deoria, Uttar Pradesh 274806",
+    "area": "Gari Bazar, Kailashpuri",
+    "latitude": 26.505563,
+    "longitude": 83.78178319999999,
+    "place_id": "ChIJgdweQFPFkzkRxSsC028JycU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgdweQFPFkzkRxSsC028JycU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:42:34"
+  },
+  {
+    "business_name": "the world gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "274806",
+    "phone_number": "+91 88746 44367",
+    "website": "https://www.worldgym.com/",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Relway Station, bhaskar Press Gali, bharuli Bazar, Ramgulam Tola, Deoria, Uttar Pradesh 274806",
+    "area": "bharuli Bazar, Ramgulam Tola",
+    "latitude": 26.5047,
+    "longitude": 83.7872,
+    "place_id": "ChIJLZQX7xbFkzkRL8tZHu7Osas",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLZQX7xbFkzkRL8tZHu7Osas",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:42:36"
+  }
+]

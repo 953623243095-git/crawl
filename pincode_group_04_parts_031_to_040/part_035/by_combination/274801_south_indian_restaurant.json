@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "South Indian Dosa",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "274801",
+    "phone_number": "+91 70372 08676",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Malviya Chowk, 40, Ansari Rd, Civil Lines South, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Civil Lines South",
+    "latitude": 29.4732831,
+    "longitude": 77.7036579,
+    "place_id": "ChIJobwd9nQbDDkRIEJv-kF3kwY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJobwd9nQbDDkRIEJv-kF3kwY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:36:34"
+  },
+  {
+    "business_name": "Ekyam Sattvic Kitchen",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Health food restaurant, Vegetarian restaurant",
+    "pincode": "274801",
+    "phone_number": "+91 92540 38557",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop no. 21 & 22, Upper ground floor, of shopping complex, Raman Reti, Vrindavan, Uttar Pradesh 281121",
+    "area": "Raman Reti",
+    "latitude": 27.5721562,
+    "longitude": 77.6787935,
+    "place_id": "ChIJdyXZr_pvczkROGaycWkjXew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdyXZr_pvczkROGaycWkjXew",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:36:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Life line polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "274602",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "4V86+PX5, Dihawan, Uttar Pradesh 221715",
+    "area": "274602",
+    "latitude": 26.116767499999998,
+    "longitude": 83.8624992,
+    "place_id": "ChIJw8AsttI3kjkRnJ7AxBqe7Lo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw8AsttI3kjkRnJ7AxBqe7Lo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:21:34"
+  },
+  {
+    "business_name": "Bhagalpur",
+    "search_category": "Polyclinic",
+    "primary_category": "Polyclinic",
+    "all_categories": "Polyclinic",
+    "pincode": "274602",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "5V7F+R49, Bhagalpur Bypass Rd, Dewasia Bangar, Uttar Pradesh 274602",
+    "area": "274602",
+    "latitude": 26.164548999999997,
+    "longitude": 83.8728697,
+    "place_id": "ChIJESbBbgA3kjkRw7-zoBtqkd0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJESbBbgA3kjkRw7-zoBtqkd0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 07:21:34"
+  }
+]
