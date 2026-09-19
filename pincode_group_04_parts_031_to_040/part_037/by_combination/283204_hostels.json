@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govt.",
+    "search_category": "Hostels",
+    "primary_category": "Girls' hostel",
+    "all_categories": "Girls' hostel",
+    "pincode": "283204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Paharipur Bhodela, Uttar Pradesh 283204",
+    "area": "283204",
+    "latitude": 27.3216537,
+    "longitude": 78.2998155,
+    "place_id": "ChIJQUjGhzZddDkRinPsNDGyLZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQUjGhzZddDkRinPsNDGyLZQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:37:56"
+  },
+  {
+    "business_name": "Tundla",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "283204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "662M+9F6, Anwara, Uttar Pradesh 283204",
+    "area": "283204",
+    "latitude": 27.201309199999997,
+    "longitude": 78.2330214,
+    "place_id": "ChIJ8y1cFABpdDkR5h4tUlTD4pM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8y1cFABpdDkR5h4tUlTD4pM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:37:56"
+  }
+]

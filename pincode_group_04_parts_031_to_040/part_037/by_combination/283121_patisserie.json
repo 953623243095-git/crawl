@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Me Rahul rajput",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "283121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WQJX+HC6, Khairagarh, Dungarwala, Uttar Pradesh 283121",
+    "area": "283121",
+    "latitude": 26.931124,
+    "longitude": 77.79840899999999,
+    "place_id": "ChIJfXoyUQDzczkRHPYbBNpM7uw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfXoyUQDzczkRHPYbBNpM7uw",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:05:56"
+  },
+  {
+    "business_name": "Fatehpuria halwai",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "283121",
+    "phone_number": "+91 99977 11999",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No 1, Kheragarh, Khairagarh, Uttar Pradesh 283121",
+    "area": "283121",
+    "latitude": 26.942113,
+    "longitude": 77.8189751,
+    "place_id": "ChIJN1eP-aLzczkRF0oZ9zs8rlY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN1eP-aLzczkRF0oZ9zs8rlY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:05:57"
+  }
+]

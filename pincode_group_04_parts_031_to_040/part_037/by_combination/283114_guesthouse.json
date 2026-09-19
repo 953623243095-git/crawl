@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "सबलू अंजली होम",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "283114",
+    "phone_number": "+91 91054 18858",
+    "website": "https://www.facebook.com/share/1FoGNuGMCQ/",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Parna road, imli nagla, Parana, Uttar Pradesh 283114",
+    "area": "imli nagla",
+    "latitude": 26.8546414,
+    "longitude": 78.7299031,
+    "place_id": "ChIJsV2gGCzTdTkRsWy5jdzxxNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsV2gGCzTdTkRsWy5jdzxxNc",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:01:23"
+  },
+  {
+    "business_name": "Raj Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "283114",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5396+248, Dhandhupura Rd, Tajganj, Agra, Karmana Mustkil, Uttar Pradesh 282006",
+    "area": "Tajganj",
+    "latitude": 27.1675348,
+    "longitude": 78.06032689999999,
+    "place_id": "ChIJZSojEgZxdDkRY3chbU3_ZOM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZSojEgZxdDkRY3chbU3_ZOM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:01:24"
+  }
+]

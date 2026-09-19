@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nikhil Sharma",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "283122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": null,
+    "address": "45/63, Basant vihar, Kiraoli, Uttar Pradesh 283122",
+    "area": "Basant vihar",
+    "latitude": 27.1366077,
+    "longitude": 77.7780399,
+    "place_id": "ChIJDTWH0hSPczkR77DPyEtkrFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDTWH0hSPczkR77DPyEtkrFw",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:08:26"
+  },
+  {
+    "business_name": "Loriya 283122",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "283122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3RP7+RGX, Loriya, Basai Bobla, Uttar Pradesh 283110",
+    "area": "283122",
+    "latitude": 27.087119599999998,
+    "longitude": 77.8138553,
+    "place_id": "ChIJd9rxKzmNczkRDvkmm5uUzO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd9rxKzmNczkRDvkmm5uUzO0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:08:27"
+  }
+]

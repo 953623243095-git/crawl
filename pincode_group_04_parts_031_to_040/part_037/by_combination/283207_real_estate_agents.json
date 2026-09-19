@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohanlal singh homes.",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Housing development",
+    "all_categories": "Housing development",
+    "pincode": "283207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8FRF+CH5, Nagla Balu Kaytha Rd, Kayatha, Uttar Pradesh 283207",
+    "area": "283207",
+    "latitude": 27.3410139,
+    "longitude": 78.4739486,
+    "place_id": "ChIJ0z0ReQBbdDkRMDBUzsz9YK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0z0ReQBbdDkRMDBUzsz9YK0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:43:34"
+  },
+  {
+    "business_name": "Nagla jaat",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Home builder",
+    "all_categories": "Home builder",
+    "pincode": "283207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 15,
+    "address": "6H2J+3PH, Naglajat, Uttar Pradesh 283145",
+    "area": "283207",
+    "latitude": 27.2001936,
+    "longitude": 78.58185809999999,
+    "place_id": "ChIJeUoKWwBNdDkRUP0NZkrSK2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeUoKWwBNdDkRUP0NZkrSK2I",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:43:34"
+  }
+]

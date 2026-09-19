@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Farmers Fresh",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Spice store",
+    "all_categories": "Spice store",
+    "pincode": "283115",
+    "phone_number": "+91 99589 57484",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Unit No. C, 7th Floor, Block No. E-12/8, Shrivrindavan Tower, Sanjay Palace, Sanjay Place, Madhu Nagar, Agra, Uttar Pradesh 282002",
+    "area": "Sanjay Palace, Sanjay Place, Madhu Nagar",
+    "latitude": 27.1987754,
+    "longitude": 78.0068288,
+    "place_id": "ChIJVVVlyEd3dDkRCerV5XOmtjc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVlyEd3dDkRCerV5XOmtjc",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:02:09"
+  },
+  {
+    "business_name": "Jagner, 283115",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "283115",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jagner",
+    "area": "283115",
+    "latitude": 26.881578299999997,
+    "longitude": 77.58486649999999,
+    "place_id": "ChIJEQ5TvjLoczkRkIy16x1UwfQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEQ5TvjLoczkRkIy16x1UwfQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:02:10"
+  }
+]

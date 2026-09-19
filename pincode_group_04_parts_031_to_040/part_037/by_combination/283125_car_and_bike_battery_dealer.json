@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PISTON SALES CORPORATION",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Store",
+    "all_categories": "Store, Auto parts store",
+    "pincode": "283125",
+    "phone_number": "+91 94126 52278",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 19,
+    "address": "11/136, Mahatma Gandhi Rd, Dhakran Crossing, Panchkuian, Mantola, Agra, Uttar Pradesh 282003",
+    "area": "Dhakran Crossing, Panchkuian, Mantola",
+    "latitude": 27.180289199999997,
+    "longitude": 78.0044757,
+    "place_id": "ChIJrYDOHiZ3dDkRfHta6256gtM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrYDOHiZ3dDkRfHta6256gtM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:13:55"
+  },
+  {
+    "business_name": "Navi Power",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Car battery store",
+    "all_categories": "Car battery store, Battery Store, Battery Wholesaler, Auto parts store, Electric generator shop",
+    "pincode": "283125",
+    "phone_number": "+91 89418 29999",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Shop No. 46, 1062, Moja Khatrena, Sector 1, Bodla, Lohamandi, Agra, Nirala, Uttar Pradesh 282007",
+    "area": "Sector 1, Bodla, Lohamandi",
+    "latitude": 27.1925435,
+    "longitude": 77.9683376,
+    "place_id": "ChIJY3VjCRZ3dDkRfNayiB62Cao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY3VjCRZ3dDkRfNayiB62Cao",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:13:56"
+  }
+]

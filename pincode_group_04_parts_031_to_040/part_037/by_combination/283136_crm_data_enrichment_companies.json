@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Codeinject",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "283136",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "541-542,5th Floor, Tower B3, Spaze IT Park, Badshahpur Sohna Rd, Sector 49, Gurugram, Haryana 122018",
+    "area": "Block S, Sector 49",
+    "latitude": 28.413857,
+    "longitude": 77.04217899999999,
+    "place_id": "ChIJScvCjTgjDTkRPQgwGPRemIU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJScvCjTgjDTkRPQgwGPRemIU",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:22:32"
+  },
+  {
+    "business_name": "Momenttext",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "283136",
+    "phone_number": "+91 79728 69198",
+    "website": "https://www.momenttext.com/",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Momenttext, 283136, India",
+    "area": "283136",
+    "latitude": 28.522201799999998,
+    "longitude": 77.40182539999999,
+    "place_id": "ChIJ8aQUwnh8s6ERZReg-sjEaaA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8aQUwnh8s6ERZReg-sjEaaA",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:22:32"
+  }
+]

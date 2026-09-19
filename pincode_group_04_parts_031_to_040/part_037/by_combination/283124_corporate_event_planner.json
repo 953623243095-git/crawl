@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aayush verma house",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "283124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "4285+R5V, Sewla Rd, Saraswati Vihar Colony, Sewla Jat, Taal Semri, Gopal Pura, Agra, Rohta, Uttar Pradesh 282009",
+    "area": "Saraswati Vihar Colony, Sewla Jat, Taal Semri, Gopal Pura",
+    "latitude": 27.1171199,
+    "longitude": 78.0079116,
+    "place_id": "ChIJnwrvIQB1dDkRHglV3B_JtWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnwrvIQB1dDkRHglV3B_JtWQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:12:31"
+  },
+  {
+    "business_name": "Ziba event",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "283124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Saraswati Vihar Colony, Sewla Jat, Gopal Pura, Agra, Uttar Pradesh 282001",
+    "area": "Saraswati Vihar Colony, Sewla Jat, Gopal Pura",
+    "latitude": 27.125082499999998,
+    "longitude": 78.0060393,
+    "place_id": "ChIJJ3vxKS11dDkRRXzlOzMDkbE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ3vxKS11dDkRRXzlOzMDkbE",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:12:31"
+  }
+]

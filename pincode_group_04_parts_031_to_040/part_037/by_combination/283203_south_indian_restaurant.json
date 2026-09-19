@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DP FOOD HUB",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant, Fast food restaurant, Hamburger restaurant, Ice cream shop, Pizza restaurant, Rice restaurant",
+    "pincode": "283203",
+    "phone_number": "+91 95685 92600",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "SHOP No.1, S.R.K. MARKET S.R.K. COLLEGE, Kotla Rd, Opp. SRK PG College, Gandhi Nagar, Firozabad, Uttar Pradesh 283203",
+    "area": "Opp. SRK PG College, Gandhi Nagar",
+    "latitude": 27.1569534,
+    "longitude": 78.3998276,
+    "place_id": "ChIJuTy756ZGdDkRe5AScZc4bCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuTy756ZGdDkRe5AScZc4bCg",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:35:12"
+  },
+  {
+    "business_name": "Routine Masale",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "283203",
+    "phone_number": "+91 80575 05117",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "599J+58C, Mathura Nagar Rd, near fire station, Humaunpur, Firozabad, Uttar Pradesh 283203",
+    "area": "Humaunpur",
+    "latitude": 27.1679365,
+    "longitude": 78.3807504,
+    "place_id": "ChIJS5mcARJFdDkRnNHdx54MN4c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS5mcARJFdDkRnNHdx54MN4c",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:35:14"
+  }
+]

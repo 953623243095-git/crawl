@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "adtc",
+    "search_category": "Driving School",
+    "primary_category": "Drivers license training school",
+    "all_categories": "Drivers license training school",
+    "pincode": "283204",
+    "phone_number": "+91 70157 42563",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RAIYA POST HIMATPR, NAGLA, Uttar Pradesh 283204",
+    "area": "NAGLA",
+    "latitude": 27.2190682,
+    "longitude": 78.2703951,
+    "place_id": "ChIJY3t1v3JpdDkRK6y1ElvpZi8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY3t1v3JpdDkRK6y1ElvpZi8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:37:36"
+  },
+  {
+    "business_name": "Nishad Bhavan (sarvan singh)",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "283204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "36C8+F8M, Mewali Khurd, Uttar Pradesh 283111",
+    "area": "283204",
+    "latitude": 27.0712118,
+    "longitude": 78.21579349999999,
+    "place_id": "ChIJUyyP365rdDkRzAc1h-9tB_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUyyP365rdDkRzAc1h-9tB_c",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:37:37"
+  }
+]

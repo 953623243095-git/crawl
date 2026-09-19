@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CITI STYLE",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "283136",
+    "phone_number": "+91 62016 02509",
+    "website": "https://www.citistyle.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "HOTEL KRISHNA PALACE, NEAR, Tower Chowk Rd, opp. ICICI BANK, Williams Town, Deoghar, Jharkhand 814112",
+    "area": "Williams Town",
+    "latitude": 24.4903393,
+    "longitude": 86.69473649999999,
+    "place_id": "ChIJZ0S5uykW8TkRfNWBUaRGxWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ0S5uykW8TkRfNWBUaRGxWc",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:22:34"
+  },
+  {
+    "business_name": "North India Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "283136",
+    "phone_number": "+91 95992 88939",
+    "website": "https://northindiamall.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Vaibhav Khand, Indirapuram, Ghaziabad, Uttar Pradesh 201014",
+    "area": "Vaibhav Khand, Indirapuram",
+    "latitude": 28.6340239,
+    "longitude": 77.3703457,
+    "place_id": "ChIJW_60kLzlDDkRRVpwETs4GaY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW_60kLzlDDkRRVpwETs4GaY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:22:34"
+  }
+]

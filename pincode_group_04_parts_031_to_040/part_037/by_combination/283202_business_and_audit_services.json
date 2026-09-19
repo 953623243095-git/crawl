@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prag And Associates",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant, Financial consultant",
+    "pincode": "283202",
+    "phone_number": "+91 98996 95880",
+    "website": "http://www.pragca.com/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "E-2/257,THIRD FLOOR, SHASTRI NAGAR METRO STATION, OPP METRO PILLAR NO 164 ,ADJOINING HDFC BANK, SHASTRI NAGAR, SHASTRI NAGAR NORTH DELHI, Delhi 110052",
+    "area": "Block E2, Shastri Nagar",
+    "latitude": 28.670434,
+    "longitude": 77.180921,
+    "place_id": "ChIJq6qqqmUCDTkRYA1DmX4SXP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqmUCDTkRYA1DmX4SXP0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:34:43"
+  },
+  {
+    "business_name": "CA Service Online",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant",
+    "pincode": "283202",
+    "phone_number": "+91 120 423 1116",
+    "website": "http://www.caservicesonline.com/",
+    "rating": 4.1,
+    "reviews_count": 9,
+    "address": "Laxmi Deep Building, 509, Vikas Marg, Block S 2, Janakpuri District Center, Laxmi Nagar, New Delhi, Delhi, 110092",
+    "area": "Block S 2, Janakpuri District Center, Laxmi Nagar",
+    "latitude": 28.6293214,
+    "longitude": 77.2758455,
+    "place_id": "ChIJCw0eknL9DDkR_x2yn5DhtgQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCw0eknL9DDkR_x2yn5DhtgQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:34:43"
+  }
+]

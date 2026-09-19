@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "G. R. Food Center & Cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "283112",
+    "phone_number": "+91 94102 82044",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Itaura Chauraha, Gwalior Rd, Agra, Bhahai, Uttar Pradesh 282009",
+    "area": "283112",
+    "latitude": 27.081656799999998,
+    "longitude": 77.9966117,
+    "place_id": "ChIJM8hxTTVvdDkRT-x6OWDb0EQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM8hxTTVvdDkRT-x6OWDb0EQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 05:56:35"
+  },
+  {
+    "business_name": "Mr Bawarchi",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Takeout restaurant",
+    "all_categories": "Takeout restaurant, Delivery service",
+    "pincode": "283112",
+    "phone_number": "+91 79051 84613",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 9,
+    "address": "Avadhpuri Colony, Agra, Albatia, Uttar Pradesh 282010",
+    "area": "Avadhpuri Colony",
+    "latitude": 27.1797312,
+    "longitude": 77.9560695,
+    "place_id": "ChIJb32peyWJczkR8t1KJyu0uGQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb32peyWJczkR8t1KJyu0uGQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 05:56:35"
+  }
+]

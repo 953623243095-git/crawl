@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "sonu yadav",
+    "search_category": "Doctors",
+    "primary_category": "Family practice physician",
+    "all_categories": "Family practice physician",
+    "pincode": "283207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7G8X+V92, Lakhooa, Uttar Pradesh 283207",
+    "area": "283207",
+    "latitude": 27.267135,
+    "longitude": 78.5483852,
+    "place_id": "ChIJezxbOgBRdDkRZZWwTRFCeVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJezxbOgBRdDkRZZWwTRFCeVk",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:42:35"
+  },
+  {
+    "business_name": "Jp house",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "283207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9H44+3JW, Nagla Jagnnath Rd, karoanda, jasrana, Nagla Jagnnath, Uttar Pradesh 283207",
+    "area": "karoanda",
+    "latitude": 27.3552337,
+    "longitude": 78.5565694,
+    "place_id": "ChIJwSbiRwBRdDkRPvt-zKB_ir0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwSbiRwBRdDkRPvt-zKB_ir0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:42:35"
+  }
+]

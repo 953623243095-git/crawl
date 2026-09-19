@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fitness Center",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "283204",
+    "phone_number": "+91 99174 42453",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Unnamed Road, Firozabad, Dauri, Uttar Pradesh 283204",
+    "area": "283204",
+    "latitude": 27.288018899999997,
+    "longitude": 78.362734,
+    "place_id": "ChIJpwIH6BdddDkRXPoXHFtO0bE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpwIH6BdddDkRXPoXHFtO0bE",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:37:25"
+  },
+  {
+    "business_name": "Ss fitness garage",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "283204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "1, Awagarh Rd, Nihal Kunj, Tundla, Tundla Rly. Colony, Uttar Pradesh 283204",
+    "area": "Nihal Kunj",
+    "latitude": 27.2229566,
+    "longitude": 78.2410539,
+    "place_id": "ChIJL5pNBLVpdDkRt460i2wtozY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL5pNBLVpdDkRt460i2wtozY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:37:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Help Line Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "283119",
+    "phone_number": "+91 73024 76013",
+    "website": "https://wwwhelplinepharmcy.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "22VG+HFH Karodhana kala, deori road, Agra, Karaudhna, Uttar Pradesh 283125",
+    "area": "283119",
+    "latitude": 27.043906699999997,
+    "longitude": 78.02616069999999,
+    "place_id": "ChIJ-VZVPxFzdDkRy_oDMLTcAqI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-VZVPxFzdDkRy_oDMLTcAqI",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:04:26"
+  },
+  {
+    "business_name": "Medicine Express (MEDEX): Your Prescription, Delivered with Care - Same Day Delivery",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Medical supply store",
+    "pincode": "283119",
+    "phone_number": "+91 90689 63339",
+    "website": "https://www.themedexpharmacy.com/medicine-express",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Upper Ground Floor, Hotel Devansh Complex, Delhi Gate Rd, near Pushpanjali Hospital & Research Centre, Hariparwat, Professors Colony, Civil Lines, Agra, Uttar Pradesh 282002",
+    "area": "Hariparwat, Professors Colony, Civil Lines",
+    "latitude": 27.196486399999998,
+    "longitude": 77.9978921,
+    "place_id": "ChIJVX0gDFd3dDkRtuOYaumHkTM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVX0gDFd3dDkRtuOYaumHkTM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:04:26"
+  }
+]

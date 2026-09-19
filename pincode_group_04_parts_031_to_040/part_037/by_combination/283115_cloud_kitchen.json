@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Crunchy Potato - TCP(Cloud Kitchen -Best sandwich, salad, pasta & fries in Agra)",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "283115",
+    "phone_number": "+91 72510 20610",
+    "website": "https://www.swiggy.com/direct/brand/482000?source=swiggy-direct&subSource=google",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Baleshwar Nagar, Near Kargil Petrol Pump, Suruchipuram Colony, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Near Kargil Petrol Pump, Suruchipuram Colony, Sikandra",
+    "latitude": 27.2046307,
+    "longitude": 77.9521309,
+    "place_id": "ChIJESLclEN3dDkRAgv0yFJVDwE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJESLclEN3dDkRAgv0yFJVDwE",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:02:19"
+  },
+  {
+    "business_name": "Agarwal Kitchen Collection",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Kitchen supply store",
+    "all_categories": "Kitchen supply store",
+    "pincode": "283115",
+    "phone_number": "+91 94121 57566",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Plot No 9, Ground Floor Sikandra Yojana, Sector 9, Uttar Pradesh 282007",
+    "area": "Near Kargil Petrol Pump, sector 9, Avas Vikas Colony, Sikandra",
+    "latitude": 27.2030267,
+    "longitude": 77.9540883,
+    "place_id": "ChIJjXASC6R3dDkR0skLkasuYMw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjXASC6R3dDkR0skLkasuYMw",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:02:19"
+  }
+]

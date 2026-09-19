@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Haplun",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Party planner",
+    "all_categories": "Party planner, Balloon store, Children's party service, Event planner, Party store",
+    "pincode": "283206",
+    "phone_number": "+91 98115 52041",
+    "website": "https://haplun.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "E-156, Nihal Vihar, Bagat Singh Chowk, Nangloi, Delhi, 110041",
+    "area": "Nihal Vihar, Bagat Singh Chowk, Nangloi",
+    "latitude": 28.6666512,
+    "longitude": 77.0728661,
+    "place_id": "ChIJcx6PULwFDTkRqxzueGM75rQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcx6PULwFDTkRqxzueGM75rQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:41:25"
+  },
+  {
+    "business_name": "ExperienceSaga",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "283206",
+    "phone_number": "+91 99900 51516",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 1129,
+    "address": "42/W8 First Floor West Patel Nagar Main Patel Road Next to Metro Station, opp. Pillar no. 232, above Vijay Sales, New Delhi, Delhi 110008",
+    "area": "Block W, West Patel Nagar, Patel Nagar",
+    "latitude": 28.6512957,
+    "longitude": 77.1593376,
+    "place_id": "ChIJwxPC8F39DDkRNa5aYYnKAzg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwxPC8F39DDkRNa5aYYnKAzg",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:41:26"
+  }
+]

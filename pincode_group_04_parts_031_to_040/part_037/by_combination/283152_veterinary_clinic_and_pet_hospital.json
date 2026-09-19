@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Singh Pet Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "283152",
+    "phone_number": "+91 97613 03687",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Infront LIC office, railway road, Dibai, Uttar Pradesh 203393",
+    "area": "283152",
+    "latitude": 28.208140699999998,
+    "longitude": 78.2515174,
+    "place_id": "ChIJJZjziHtLCzkR59Y8GbHKEfc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJZjziHtLCzkR59Y8GbHKEfc",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:30:08"
+  },
+  {
+    "business_name": "Sonia Pet clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Pet care, Pet store",
+    "pincode": "283152",
+    "phone_number": "+91 98426 34811",
+    "website": "http://www.petjodi.com/",
+    "rating": 4,
+    "reviews_count": 313,
+    "address": "New HIG Colony, B/140, 80 Feet Rd, Opposite PNB, Anna Nagar, Sathamangalam, Tamil Nadu 625020",
+    "area": "Anna Nagar",
+    "latitude": 9.9254199,
+    "longitude": 78.1488245,
+    "place_id": "ChIJ-9tO2rHFADsR9EWcxoTQofs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-9tO2rHFADsR9EWcxoTQofs",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:30:10"
+  }
+]

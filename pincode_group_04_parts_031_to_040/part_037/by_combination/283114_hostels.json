@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "B.M. Boys' Hostel",
+    "search_category": "Hostels",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel, Student dormitory",
+    "pincode": "283114",
+    "phone_number": "+91 96398 75555",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "20 Kanhaiya Bagh, DayalBagh, Agra, Uttar Pradesh 282005",
+    "area": "Kishan Bagh, DayalBagh",
+    "latitude": 27.221228699999998,
+    "longitude": 78.0039465,
+    "place_id": "ChIJueRBhJ15dDkRm45i_OxJ1Rc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJueRBhJ15dDkRm45i_OxJ1Rc",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:01:25"
+  },
+  {
+    "business_name": "Boys' Hostel",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory, Housing society",
+    "pincode": "283114",
+    "phone_number": "+91 74170 28558",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Vidya Nagar, Nagla Padi, Agra, Uttar Pradesh 282005",
+    "area": "Vidya Nagar, Nagla Padi",
+    "latitude": 27.215498399999998,
+    "longitude": 78.0009281,
+    "place_id": "ChIJwyPfH0Z3dDkR0vR6_O8oB1c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwyPfH0Z3dDkR0vR6_O8oB1c",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:01:25"
+  }
+]

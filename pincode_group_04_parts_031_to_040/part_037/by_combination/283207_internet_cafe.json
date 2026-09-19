@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohit",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "283207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Dihuli, Uttar Pradesh 283145",
+    "area": "283207",
+    "latitude": 27.231648999999997,
+    "longitude": 78.5593114,
+    "place_id": "ChIJoZ3jBgBPdDkRKbc6Hv2kMzU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoZ3jBgBPdDkRKbc6Hv2kMzU",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:43:24"
+  },
+  {
+    "business_name": "PK COMPUTER HATHWANT पी.के कंप्यूटर हाथवंत",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Computer store",
+    "pincode": "283207",
+    "phone_number": "+91 70554 63590",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "SBI Bank Ke Pass, Kotla Road, Sekhupur Hathabant, Uttar Pradesh 283145",
+    "area": "283207",
+    "latitude": 27.2320587,
+    "longitude": 78.5026567,
+    "place_id": "ChIJxTmjCABPdDkRQ-8PbvuBpMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxTmjCABPdDkRQ-8PbvuBpMA",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:43:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Events For everyone",
+    "search_category": "Media and Event",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "283115",
+    "phone_number": "N/A",
+    "website": "https://events-for-everyone.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Events For everyone, 283115, India",
+    "area": "283115",
+    "latitude": 27.1696912,
+    "longitude": 77.98001289999999,
+    "place_id": "ChIJZy0zNYh3dDkR8-CXWy2OsOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZy0zNYh3dDkR8-CXWy2OsOg",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:03:18"
+  },
+  {
+    "business_name": "Event Planner",
+    "search_category": "Media and Event",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Photographer, Wedding photographer",
+    "pincode": "283115",
+    "phone_number": "+91 97610 46871",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Opposite Bhawana Clark, 42/12/323, Agra, Uttar Pradesh 282002",
+    "area": "Sector 12, Avas Vikas Colony",
+    "latitude": 27.2049405,
+    "longitude": 77.9714231,
+    "place_id": "ChIJIS740gd3dDkRYJuMnhfN6Lg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIS740gd3dDkRYJuMnhfN6Lg",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:03:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tallakhas Private Limited",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services, Advertising agency, Branding agency, Software company, Video editing service, Video production service, Website designer",
+    "pincode": "283115",
+    "phone_number": "+91 94611 69555",
+    "website": "https://tallakhas.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ward 9, 555, Mansarovar Colony, Shiv Nagar, Dholpur, Dhaulpur,mahawat Nagar, Rajasthan 328001",
+    "area": "Mansarovar Colony, Shiv Nagar",
+    "latitude": 26.6997878,
+    "longitude": 77.8837612,
+    "place_id": "ChIJkcEMeGtU9K4ReFEuA-fTt28",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkcEMeGtU9K4ReFEuA-fTt28",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:03:54"
+  },
+  {
+    "business_name": "Innova Communications",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "BPO Company",
+    "all_categories": "BPO Company, Coworking space",
+    "pincode": "283115",
+    "phone_number": "+91 98730 88355",
+    "website": "http://innovacommunication.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "D-108, Hazratpur Wajidpur, D Block, Sector 63, Noida, Uttar Pradesh 201309",
+    "area": "Hazratpur Wajidpur, D Block, Sector 63",
+    "latitude": 28.6206289,
+    "longitude": 77.38268529999999,
+    "place_id": "ChIJEaCeFfTvDDkR8PKSYvtvRy8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEaCeFfTvDDkR8PKSYvtvRy8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:03:54"
+  }
+]

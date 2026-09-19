@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star Gold Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "283141",
+    "phone_number": "+91 90277 59699",
+    "website": "https://www.facebook.com/stargoldspaetawah",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1st floor, Vijay Nagar Chauraha, Pachawali Rd, Yashoda Nagar, Etawah, Uttar Pradesh 206001",
+    "area": "Yashoda Nagar",
+    "latitude": 26.7919114,
+    "longitude": 79.0205084,
+    "place_id": "ChIJNeO-ZsjhdTkRGzpVlCLqWH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNeO-ZsjhdTkRGzpVlCLqWH8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:23:28"
+  },
+  {
+    "business_name": "Lavee Makeover",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "283141",
+    "phone_number": "+91 95289 01960",
+    "website": "https://laveemakeover.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ground floor, Market number 1, near RS Medical, Chauraha, Araon, Sirsaganj, Uttar Pradesh 283151",
+    "area": "Chauraha",
+    "latitude": 27.0588633,
+    "longitude": 78.6850317,
+    "place_id": "ChIJ7XSpIXbLdTkRbyg3uZQP3p0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7XSpIXbLdTkRbyg3uZQP3p0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:23:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kumar Beverages",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Industrial equipment supplier",
+    "all_categories": "Industrial equipment supplier, Wholesaler",
+    "pincode": "283119",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 16,
+    "address": "Kumar palace, Firozabad Rd, near Giriraj petrol pump, Ram Bagh Chauraha, Trans Yamuna Colony, Agra, Uttar Pradesh 282006",
+    "area": "Ram Bagh Chauraha, Trans Yamuna Colony",
+    "latitude": 27.2033404,
+    "longitude": 78.0435949,
+    "place_id": "ChIJrR8pBABxdDkRVLmI3NgtSZo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrR8pBABxdDkRVLmI3NgtSZo",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:04:10"
+  },
+  {
+    "business_name": "Juicy Center",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "283119",
+    "phone_number": "+91 93196 02397",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GM26+9VM, Shree Krishna Janam Bhumi, Prathap, Shakti Nagar Rd, Mathura, Uttar Pradesh 281001",
+    "area": "Radha Nagar, Shankar Vihar, Geeta Enclave",
+    "latitude": 27.5009603,
+    "longitude": 77.66217379999999,
+    "place_id": "ChIJLf7JuXFxczkRb9t0h64U3SA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLf7JuXFxczkRb9t0h64U3SA",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:04:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VALENTINO Shoes and Accessories - SADAR BAZAR - AGRA",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Leather Products Manufacturer",
+    "pincode": "283119",
+    "phone_number": "+91 90278 20635",
+    "website": "https://valentinoindia.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "183, Saudagar Lines Rd, Sadar Bazar, Agra Cantt, Idgah Colony, Agra, Uttar Pradesh 282001",
+    "area": "Sadar Bazar, Agra Cantt, Idgah Colony",
+    "latitude": 27.1590323,
+    "longitude": 78.0114151,
+    "place_id": "ChIJtYVAAM92dDkRqgtbtH32O3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtYVAAM92dDkRqgtbtH32O3I",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:04:19"
+  },
+  {
+    "business_name": "Wasan & Co.",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "283119",
+    "phone_number": "+91 98370 29590",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 32,
+    "address": "5XP4+VXP, Bichpuri Rd, Pakka Bagh, Bodla, Shahganj, Agra, Uttar Pradesh 282010",
+    "area": "Pakka Bagh, Bodla, Shahganj",
+    "latitude": 27.187219199999998,
+    "longitude": 77.95745529999999,
+    "place_id": "ChIJVVVVlZd3dDkR9TaaM3VI808",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVlZd3dDkR9TaaM3VI808",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:04:22"
+  }
+]

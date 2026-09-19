@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree ji computer",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service",
+    "pincode": "283204",
+    "phone_number": "+91 85348 00872",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 21,
+    "address": "near Jio mart, Indra nagar, Tundla, Tundli, Uttar Pradesh 283204",
+    "area": "Indra nagar",
+    "latitude": 27.2262253,
+    "longitude": 78.2439062,
+    "place_id": "ChIJPTUnJRFpdDkRP7zS7O7GWyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPTUnJRFpdDkRP7zS7O7GWyQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:38:09"
+  },
+  {
+    "business_name": "Rahul Computer",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer Sales and Laptop Repair",
+    "all_categories": "Computer Sales and Laptop Repair",
+    "pincode": "283204",
+    "phone_number": "+91 94122 00552",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 22,
+    "address": "Ganesh Nagar, Suhag Nagar, Firozabad, Uttar Pradesh 283203",
+    "area": "Ganesh Nagar, Suhag Nagar",
+    "latitude": 27.1601665,
+    "longitude": 78.3799564,
+    "place_id": "ChIJl_27D69DdDkRL-b-tizYViU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl_27D69DdDkRL-b-tizYViU",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:38:12"
+  }
+]

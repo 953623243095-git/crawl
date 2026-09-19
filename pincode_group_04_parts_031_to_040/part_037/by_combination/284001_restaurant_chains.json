@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Burger Ji",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Hamburger restaurant",
+    "all_categories": "Hamburger restaurant, Fast food restaurant",
+    "pincode": "284001",
+    "phone_number": "+91 99534 69330",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "222 284001, Civil Lines, Jhansi, Uttar Pradesh 284001",
+    "area": "Civil Lines",
+    "latitude": 25.441920999999997,
+    "longitude": 78.5697155,
+    "place_id": "ChIJPVkvsC13dzkRtEMQJs8gb90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPVkvsC13dzkRtEMQJs8gb90",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:44:07"
+  },
+  {
+    "business_name": "Yuvraj Hotel Jhansi",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Fast food restaurant",
+    "pincode": "284001",
+    "phone_number": "+91 96956 35636",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 982,
+    "address": "Jhansi - Lalitpur Rd, Badora, Nohara, Uttar Pradesh 284401",
+    "area": "284001",
+    "latitude": 25.157739,
+    "longitude": 78.45711949999999,
+    "place_id": "ChIJs4bZ7MvZeTkRyaBx5twVX1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs4bZ7MvZeTkRyaBx5twVX1A",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:44:09"
+  }
+]

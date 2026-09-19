@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhagat Halwai",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "283122",
+    "phone_number": "+91 80065 23456",
+    "website": "https://bhagathalwai.in/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Gehar complex, 7, Mau Rd, Khandari Crossing, Khandar, Agra, Uttar Pradesh 282005",
+    "area": "Khandari Crossing, Khandar",
+    "latitude": 27.210888299999997,
+    "longitude": 77.9895257,
+    "place_id": "ChIJu0thqEl3dDkR6KfAgOQlSFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu0thqEl3dDkR6KfAgOQlSFQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:07:50"
+  },
+  {
+    "business_name": "Heeralal Rajababu Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "283122",
+    "phone_number": "+91 63976 56299",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "2, 53, Seth Gali, Seo ka Bazar, Rawatpara, Hing ki Mandi, Mantola, Agra, Uttar Pradesh 282003",
+    "area": "Seo ka Bazar, Rawatpara, Hing ki Mandi, Mantola",
+    "latitude": 27.184889499999997,
+    "longitude": 78.0149153,
+    "place_id": "ChIJDy_r7S13dDkRi103FUIaSro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDy_r7S13dDkRi103FUIaSro",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:07:50"
+  }
+]

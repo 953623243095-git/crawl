@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajesh Readymade Store",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "283115",
+    "phone_number": "+91 75057 11230",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "Shop No.4 Sarendhi, Near, Main Bazar Bharatpur Road, opp. Sachin General Store, Agra, Uttar Pradesh 283115",
+    "area": "283115",
+    "latitude": 26.9376481,
+    "longitude": 77.6732332,
+    "place_id": "ChIJEa13Bl_tczkRzAFuuKFv1lI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEa13Bl_tczkRzAFuuKFv1lI",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:02:21"
+  },
+  {
+    "business_name": "Selection Garments",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "283115",
+    "phone_number": "+91 97594 03715",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 4,
+    "address": "VIP Rd, near Kheria Mod, Govind Kunj, Kheriya Mod, Saraikhwaja, Chauraha, Agra, Uttar Pradesh 282001",
+    "area": "Govind Kunj, Kheriya Mod, Saraikhwaja, Chauraha",
+    "latitude": 27.1622612,
+    "longitude": 77.9850845,
+    "place_id": "ChIJLVZmzfp2dDkRmAQ26eBIUV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLVZmzfp2dDkRmAQ26eBIUV4",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:02:22"
+  }
+]

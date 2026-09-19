@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jagdish Jewellers",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "283152",
+    "phone_number": "+91 94119 31587",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Shikohabad Rd, Bapu Nagar, Shrangar Nagar, Etah, Bhagipur, Uttar Pradesh 207001",
+    "area": "Bapu Nagar, Shrangar Nagar",
+    "latitude": 27.551783399999998,
+    "longitude": 78.6642789,
+    "place_id": "ChIJVVVV-fgBdTkRr9TJKd9vlmk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVV-fgBdTkRr9TJKd9vlmk",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:29:59"
+  },
+  {
+    "business_name": "Santosh Watch Company",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "283152",
+    "phone_number": "+91 81263 26858",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "02, Shringar Nagar, Etah, Uttar Pradesh 207001",
+    "area": "Shringar Nagar",
+    "latitude": 27.562319,
+    "longitude": 78.65231,
+    "place_id": "ChIJywvzMuj9dDkRj7Va9KUbGAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJywvzMuj9dDkRj7Va9KUbGAc",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:30:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Spice Agra",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "283202",
+    "phone_number": "+91 86790 86633",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "VIP, jalima hospital, 01, Taj East Gate Rd, opposite oppsite, Amar Lok Colony, Basai Khurd, Agra, Dhandhupura, Uttar Pradesh 282001",
+    "area": "Amar Lok Colony, Basai Khurd",
+    "latitude": 27.1619535,
+    "longitude": 78.0548093,
+    "place_id": "ChIJOW9B59RxdDkRvMheqDwg7BM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOW9B59RxdDkRvMheqDwg7BM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:33:24"
+  },
+  {
+    "business_name": "Munshi Panna Masala",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Spices Wholesaler",
+    "all_categories": "Spices Wholesaler",
+    "pincode": "283202",
+    "phone_number": "+91 1800 180 3021",
+    "website": "https://munshipannamasale.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "123, Nawalpur, Uttar Pradesh 283202",
+    "area": "283202",
+    "latitude": 27.236061,
+    "longitude": 78.1464665,
+    "place_id": "ChIJRdEBhmtldDkR_jSeZWDJpwg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRdEBhmtldDkR_jSeZWDJpwg",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:33:26"
+  }
+]

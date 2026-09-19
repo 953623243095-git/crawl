@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jhansi Car Rental",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service",
+    "pincode": "284002",
+    "phone_number": "+91 95554 88950",
+    "website": "https://jhansi-car-rental.wordpress.com/",
+    "rating": 5,
+    "reviews_count": 84,
+    "address": "FG5W+7CG, Adarsh Nagar, Sipri Bazar, Jhansi, Uttar Pradesh 284003",
+    "area": "Adarsh Nagar, Sipri Bazar",
+    "latitude": 25.458187499999998,
+    "longitude": 78.54606249999999,
+    "place_id": "ChIJD5t9RtmcyiURmoOizQhDAKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD5t9RtmcyiURmoOizQhDAKg",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:46:25"
+  },
+  {
+    "business_name": "Aasra Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "284002",
+    "phone_number": "+91 83700 89067",
+    "website": "http://aasratravels.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "ARAJI-185, behind VISSION HEIGHT, Sipri Bazar, Jhansi, Uttar Pradesh 284003",
+    "area": "Sipri Bazar",
+    "latitude": 25.464312099999997,
+    "longitude": 78.5329642,
+    "place_id": "ChIJP65tfgBxdzkRHsk8BU5fUSI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP65tfgBxdzkRHsk8BU5fUSI",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:46:27"
+  }
+]

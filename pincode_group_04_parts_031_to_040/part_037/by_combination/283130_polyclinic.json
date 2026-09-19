@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Javed Khan",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "283130",
+    "phone_number": "+91 92674 47688",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "Nai Basti Rd, Main Chauraha, Comapny Baag, Nai Basti, Firozabad, Uttar Pradesh 283203",
+    "area": "Main Chauraha, Comapny Baag, Nai Basti",
+    "latitude": 27.1506837,
+    "longitude": 78.3902762,
+    "place_id": "ChIJD0oqfK5GdDkRdbtUDgqS4Uo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD0oqfK5GdDkRdbtUDgqS4Uo",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:17:40"
+  },
+  {
+    "business_name": "Dr .Manvendra singh",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Doctor",
+    "pincode": "283130",
+    "phone_number": "+91 94112 01011",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 121,
+    "address": "Station Rd, Shikohabad, Uttar Pradesh 283135",
+    "area": "283130",
+    "latitude": 27.095889699999997,
+    "longitude": 78.57991539999999,
+    "place_id": "ChIJAaU44uE1dDkR6MCLKciN4WM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAaU44uE1dDkR6MCLKciN4WM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:17:40"
+  }
+]

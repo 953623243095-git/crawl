@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Homemade Spices",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Spice store",
+    "all_categories": "Spice store",
+    "pincode": "283126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Opp Amar Katha, Agra Mathura Road, Artoni Rd, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Sikandra",
+    "latitude": 27.222711099999998,
+    "longitude": 77.9126253,
+    "place_id": "ChIJQ0afQAOHczkRGukbyluJpZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ0afQAOHczkRGukbyluJpZM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:15:15"
+  },
+  {
+    "business_name": "Krishna Food Industries",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Food producer",
+    "pincode": "283126",
+    "phone_number": "+91 93596 35511",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "61/62A, Girraj Puri, Naraich, Tedi Baghia, Agra, Uttar Pradesh 282006",
+    "area": "Girraj Puri, Naraich, Tedi Baghia",
+    "latitude": 27.2235358,
+    "longitude": 78.0431759,
+    "place_id": "ChIJLwxWmvV7dDkR01cZZ09rFFc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLwxWmvV7dDkR01cZZ09rFFc",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:15:15"
+  }
+]

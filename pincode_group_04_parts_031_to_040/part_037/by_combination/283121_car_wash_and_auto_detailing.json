@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Car Age",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto Accessories Store",
+    "all_categories": "Auto Accessories Store",
+    "pincode": "283121",
+    "phone_number": "+91 99278 08700",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Dayal arcade, 15/16-G, Bypass Rd, Opp. Shri Talkies, Indra Puri, New Agra Colony, Agra, Uttar Pradesh 282005",
+    "area": "Opp. Shri Talkies, Indra Puri, New Agra Colony",
+    "latitude": 27.2101047,
+    "longitude": 78.00793329999999,
+    "place_id": "ChIJ_____2t3dDkRpXuCaJAPHnk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_____2t3dDkRpXuCaJAPHnk",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:06:26"
+  },
+  {
+    "business_name": "Premium Car Detailing Hub In Agra",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto air conditioning service, Auto bodywork mechanic, Auto Dent Removal Service Station, Auto painting, Auto window tinting service, Car repair and maintenance service, Auto repair shop, Mechanic, Oil change service",
+    "pincode": "283121",
+    "phone_number": "+91 83989 70970",
+    "website": "https://srd1.onelink.me/7EYj/GMB",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Near, Maharishi Puram Colony, Manghatai, Agra, Dehtora, Uttar Pradesh 282007",
+    "area": "Manghatai",
+    "latitude": 27.1852186,
+    "longitude": 77.9377896,
+    "place_id": "ChIJteczFHV3dDkRAZIquVyUICA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJteczFHV3dDkRAZIquVyUICA",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:06:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ravi kumar",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "283136",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4MPH+93F, Alipur, Patti, Mohammadpur Mandai, Uttar Pradesh 205121",
+    "area": "Alipur",
+    "latitude": 27.1359371,
+    "longitude": 78.6776598,
+    "place_id": "ChIJaYjAGAC1dTkRtkAD0pD9bgM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaYjAGAC1dTkRtkAD0pD9bgM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:21:37"
+  },
+  {
+    "business_name": "Ankita electrical and electronics",
+    "search_category": "Electrician",
+    "primary_category": "Electrical products wholesaler",
+    "all_categories": "Electrical products wholesaler",
+    "pincode": "283136",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bus Station Road, Parham, Uttar Pradesh 283130",
+    "area": "283136",
+    "latitude": 27.316141599999998,
+    "longitude": 78.6687149,
+    "place_id": "ChIJkUHjGEetdTkRetyWGiKC9z4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkUHjGEetdTkRetyWGiKC9z4",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:21:37"
+  }
+]

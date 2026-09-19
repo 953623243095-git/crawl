@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pavan Kumar",
+    "search_category": "Insurance Agent",
+    "primary_category": "Home insurance agency",
+    "all_categories": "Home insurance agency",
+    "pincode": "283121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "WV25+QW2, Kharagpur, Rajasthan 328023",
+    "area": "283121",
+    "latitude": 26.901801799999998,
+    "longitude": 77.8598781,
+    "place_id": "ChIJQXJiYwD3czkR8FJsCOlTPCs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQXJiYwD3czkR8FJsCOlTPCs",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:07:11"
+  },
+  {
+    "business_name": "मोटर बीमा",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "283121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khairagarh, Uttar Pradesh 283121",
+    "area": "283121",
+    "latitude": 26.944512699999997,
+    "longitude": 77.8175586,
+    "place_id": "ChIJgQs4uuvzczkRS28ic4eTuTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgQs4uuvzczkRS28ic4eTuTs",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:07:11"
+  }
+]

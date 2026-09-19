@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laziz Chicken Point",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant",
+    "pincode": "283135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 6,
+    "address": "4H4R+R55, Mainpuri, Tiraha, Shikohabad, Uttar Pradesh 283135",
+    "area": "283135",
+    "latitude": 27.1070025,
+    "longitude": 78.5904755,
+    "place_id": "ChIJ-6ar48dLdDkRVqrB_tMZKJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-6ar48dLdDkRVqrB_tMZKJM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:19:03"
+  },
+  {
+    "business_name": "Surendra Chicken Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "283135",
+    "phone_number": "+91 95685 40761",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Firozabad, Makkhanpur, Uttar Pradesh 283145",
+    "area": "283135",
+    "latitude": 27.125418099999997,
+    "longitude": 78.4851022,
+    "place_id": "ChIJg2Uw19lJdDkRdljWrp9UipI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg2Uw19lJdDkRdljWrp9UipI",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:19:03"
+  }
+]

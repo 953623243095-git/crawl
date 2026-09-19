@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajay Singh",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "283119",
+    "phone_number": "+91 89580 68360",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Kagarol Rd, Cheet, Uttar Pradesh 283119",
+    "area": "283119",
+    "latitude": 26.998663999999998,
+    "longitude": 77.8394081,
+    "place_id": "ChIJccrFxZL1czkRPs1E1NR40Xk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJccrFxZL1czkRPs1E1NR40Xk",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:04:38"
+  },
+  {
+    "business_name": "Smart Car Care Plus",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "283119",
+    "phone_number": "+91 91492 30819",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Saiyan Road, near CNG Luheta Pump, Kheragarh, Uttar Pradesh 283121",
+    "area": "283119",
+    "latitude": 26.9421246,
+    "longitude": 77.8324363,
+    "place_id": "ChIJEVQQkZXzczkRzafjjsiFSyw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEVQQkZXzczkRzafjjsiFSyw",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:04:38"
+  }
+]

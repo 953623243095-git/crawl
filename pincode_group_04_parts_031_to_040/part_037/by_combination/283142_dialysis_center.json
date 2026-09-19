@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apollo Dialysis Clinic, Sevarth Hospital",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center, Doctor, Family practice physician, General practitioner, Medical Center, Medical clinic, Nephrologist, Pediatric nephrologist",
+    "pincode": "283142",
+    "phone_number": "+91 40 6946 7007",
+    "website": "https://www.apollodialysis.com/",
+    "rating": 4.5,
+    "reviews_count": 57,
+    "address": "Sevarth Research & Healthcare Centre Pvt. Ltd, Site Address Khasra No. 150/1, 157, 158, 159, 160/1, 161, 162, 163MI, 165MI Village Ladapura, Ring Rd, near Kali Mandir, Bijnor, Uttar Pradesh 246701",
+    "area": "283142",
+    "latitude": 29.3682026,
+    "longitude": 78.14903919999999,
+    "place_id": "ChIJaxkR5-nvCzkRt_168cpp2a8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaxkR5-nvCzkRt_168cpp2a8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:24:50"
+  },
+  {
+    "business_name": "DCDC Kidney Care",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "283142",
+    "phone_number": "+91 11 4558 1006",
+    "website": "https://dcdc.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dialysis Unit, Narayani Hospital, bus stand, near atrauli, Gulzar Nagar, Hem Chand Compound, Aligarh, Uttar Pradesh 202001",
+    "area": "Gulzar Nagar, Hem Chand Compound",
+    "latitude": 27.891323,
+    "longitude": 78.0831654,
+    "place_id": "ChIJLwPGJIOldDkRVy4oypOR01M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLwPGJIOldDkRVy4oypOR01M",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:24:52"
+  }
+]

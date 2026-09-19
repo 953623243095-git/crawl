@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baton Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "283202",
+    "phone_number": "+91 95998 83244",
+    "website": "http://www.chattybao.com/Baton-Cafe-1",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "14, Mayur Vihar, Niti Khand 2, Indirapuram, Ghaziabad, Uttar Pradesh 201014",
+    "area": "Mayur Vihar, Niti Khand 2, Indirapuram",
+    "latitude": 28.6457119,
+    "longitude": 77.3696406,
+    "place_id": "ChIJ7UUcRXv7DDkRzEGXwr6LykM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7UUcRXv7DDkRzEGXwr6LykM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:33:28"
+  },
+  {
+    "business_name": "The Coffee Bean",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "283202",
+    "phone_number": "+91 98730 41280",
+    "website": "https://www.coffeebean.com/store/india/new-delhi/delhi-international-term-t3",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Indira Gandhi Int'l Airport, New Udaan Bhawan, Terminal 3, OTP ATC Complex, International Terminal, Arrivals, New Delhi, Delhi 110037",
+    "area": "Arrivals",
+    "latitude": 28.555307799999998,
+    "longitude": 77.083559,
+    "place_id": "ChIJTXCFBWMbDTkRGN4w6WroiLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTXCFBWMbDTkRGN4w6WroiLk",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:33:28"
+  }
+]

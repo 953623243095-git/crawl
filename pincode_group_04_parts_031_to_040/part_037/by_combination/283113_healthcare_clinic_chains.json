@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Help Agra Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Pharmacy",
+    "pincode": "283113",
+    "phone_number": "+91 70550 14091",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 130,
+    "address": "52P5+G5G, Patel Nagar, Moti Katra, Mantola, Agra, Uttar Pradesh 282003",
+    "area": "Patel Nagar, Moti Katra, Mantola",
+    "latitude": 27.1863206,
+    "longitude": 78.0079592,
+    "place_id": "ChIJV5f-oDp3dDkRNN9-X12lANE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV5f-oDp3dDkRNN9-X12lANE",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 05:59:01"
+  },
+  {
+    "business_name": "Skin & Hair - Healic Multispecialty Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic",
+    "pincode": "283113",
+    "phone_number": "+91 95887 95887",
+    "website": "https://www.healic.in/lp/laser-hair-reduction",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Healic Multispecialty Hospital, Plot No-1 A, Mauja Bhogipura, Bodla Rd, Maruti Estate, New, Shahganj, Agra, Uttar Pradesh 282010",
+    "area": "Maruti Estate, Manas Nagar, New, Shahganj",
+    "latitude": 27.183306899999998,
+    "longitude": 77.97149499999999,
+    "place_id": "ChIJD1bWhSZ3dDkRG_16kzztixc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD1bWhSZ3dDkRG_16kzztixc",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 05:59:01"
+  }
+]

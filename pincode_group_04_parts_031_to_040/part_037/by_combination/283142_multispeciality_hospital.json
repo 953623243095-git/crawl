@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lahari Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "283142",
+    "phone_number": "+91 94121 56227",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "4CQ8+937, New Bypass Rd, Ram Nagar, Nalkoop Colony, Firozabad, Uttar Pradesh 283203",
+    "area": "Ram Nagar, Nalkoop Colony",
+    "latitude": 27.138417099999998,
+    "longitude": 78.4151845,
+    "place_id": "ChIJp-LdUO1GdDkRBVgiMHCGdXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp-LdUO1GdDkRBVgiMHCGdXY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:24:46"
+  },
+  {
+    "business_name": "Tanya chauhan hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "283142",
+    "phone_number": "+91 98975 77315",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sirsaganj Karhal Kishani Marg, Sirsaganj, Uttar Pradesh 283151",
+    "area": "283142",
+    "latitude": 27.0524252,
+    "longitude": 78.6951109,
+    "place_id": "ChIJJ8whviLLdTkRBkWmAInFGQU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ8whviLLdTkRBkWmAInFGQU",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:24:46"
+  }
+]

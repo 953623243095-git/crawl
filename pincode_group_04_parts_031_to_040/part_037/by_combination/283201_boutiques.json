@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Miss N Mam Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "283201",
+    "phone_number": "+91 97200 33335",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Nehru Enclave, 160 HIG, 100 Feet Rd, Indrapuram, crossing, Tajganj, Agra, Uttar Pradesh 282001",
+    "area": "Indrapuram, crossing, Tajganj",
+    "latitude": 27.1469037,
+    "longitude": 78.0445177,
+    "place_id": "ChIJC1_pU5dxdDkR8_JJ9cB7Ckg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC1_pU5dxdDkR8_JJ9cB7Ckg",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:31:45"
+  },
+  {
+    "business_name": "Dress-up by avni boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Women's clothing store",
+    "pincode": "283201",
+    "phone_number": "+91 75008 80004",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "gulmohar enclave, 19, Shamsabad Rd, near RAJESHWAR MANDIR, Anantpuram, Indrapuram, Kaveri Vihar Phase II, Shamsabad, Agra, Uttar Pradesh 282001",
+    "area": "Anantpuram, Indrapuram, Kaveri Vihar Phase II, Shamsabad",
+    "latitude": 27.14358,
+    "longitude": 78.0435833,
+    "place_id": "ChIJQ1HXkFZ3dDkRUCJjuQWerBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ1HXkFZ3dDkRUCJjuQWerBs",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:31:46"
+  }
+]

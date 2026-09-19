@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Heeralal Chaat Bhandar (हीरालाल चाट भण्डार)",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "283204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Tundla, Tundli, Uttar Pradesh 283204",
+    "area": "283204",
+    "latitude": 27.2267253,
+    "longitude": 78.24253809999999,
+    "place_id": "ChIJG8t_XgBpdDkRy0B69PNHCjw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG8t_XgBpdDkRy0B69PNHCjw",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:37:03"
+  },
+  {
+    "business_name": "Ganpati Chaat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "283204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "Dr Gokul Dispensary Rd, Katariyo Ka Moholla, Pilani, Rajasthan 333031",
+    "area": "Katariyo Ka Moholla",
+    "latitude": 28.3660341,
+    "longitude": 75.6007632,
+    "place_id": "ChIJfdl5ZkgZEzkRjClEFDjbyk8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfdl5ZkgZEzkRjClEFDjbyk8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:37:04"
+  }
+]

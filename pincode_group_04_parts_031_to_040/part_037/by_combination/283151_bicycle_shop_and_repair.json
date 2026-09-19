@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Cycle Stor",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "283151",
+    "phone_number": "+91 89793 19918",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Etawah, Uttar Pradesh 283151",
+    "area": "283151",
+    "latitude": 27.061692299999997,
+    "longitude": 78.6860578,
+    "place_id": "ChIJR4t9wfrLdTkRiyEW2dZRsdo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR4t9wfrLdTkRiyEW2dZRsdo",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:28:31"
+  },
+  {
+    "business_name": "Vikash cycle store Saijani",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "283151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Saijani, Uttar Pradesh 205121",
+    "area": "283151",
+    "latitude": 27.1439998,
+    "longitude": 78.7741885,
+    "place_id": "ChIJawSxXwC3dTkRCGDCBOl0dww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJawSxXwC3dTkRCGDCBOl0dww",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:28:34"
+  }
+]

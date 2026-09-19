@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohini Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "283152",
+    "phone_number": "+91 92588 01643",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "Bodha Ashram, Bodha Asram Rd, Tapa Road, Opp. Sarojini Naidu School, Dakhal, Firozabad, Uttar Pradesh 283203",
+    "area": "Dakhal",
+    "latitude": 27.1636168,
+    "longitude": 78.39787849999999,
+    "place_id": "ChIJUaMF-xxEdDkRZ6Rm_CV0cWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUaMF-xxEdDkRZ6Rm_CV0cWs",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:29:54"
+  },
+  {
+    "business_name": "Chaman Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "283152",
+    "phone_number": "+91 85338 73620",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "Shop No 39 Near Puliya, Nagla, Beach, Firozabad, Uttar Pradesh 283204",
+    "area": "283152",
+    "latitude": 27.3159939,
+    "longitude": 78.3243225,
+    "place_id": "ChIJvyL8ymVddDkRewvSxkYlE8E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvyL8ymVddDkRewvSxkYlE8E",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:29:54"
+  }
+]

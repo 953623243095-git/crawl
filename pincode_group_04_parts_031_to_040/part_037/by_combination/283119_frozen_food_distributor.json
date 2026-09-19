@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FUNTRIP FOODS",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "FMCG Manufacturer",
+    "all_categories": "FMCG Manufacturer",
+    "pincode": "283119",
+    "phone_number": "+91 89799 29619",
+    "website": "http://www.funtripfoods.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Plot No. 25,Village Kharbai, Kiraoli, Road, Runkata, Uttar Pradesh 282007",
+    "area": "283119",
+    "latitude": 27.2149179,
+    "longitude": 77.85499709999999,
+    "place_id": "ChIJT6q92lGHczkReALRezVeygI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT6q92lGHczkReALRezVeygI",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:04:05"
+  },
+  {
+    "business_name": "R.N FUIRTS SUPPLAIES",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "283119",
+    "phone_number": "+91 79064 82360",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Fatehabad Rd, opp. Krishana Avenu, Tajganj, Agra, Basai, Uttar Pradesh 282004",
+    "area": "Tajganj",
+    "latitude": 27.1559635,
+    "longitude": 78.0536308,
+    "place_id": "ChIJO_DvjOxxdDkRutfj3s4GKFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_DvjOxxdDkRutfj3s4GKFg",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:04:06"
+  }
+]

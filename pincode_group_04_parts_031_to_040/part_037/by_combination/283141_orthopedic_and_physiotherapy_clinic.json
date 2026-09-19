@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Physio Life Care",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapy equipment supplier",
+    "all_categories": "Physiotherapy equipment supplier, Medical Equipment Manufacturer, Medical equipment supplier",
+    "pincode": "283141",
+    "phone_number": "+91 80766 40753",
+    "website": "https://www.physiolifecare.info/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Khasra no, First Floor, 46/24, road, opposite Green Valley Farm, Saroop Vihar, Kaushik Enclave, sarup nagar, Burari, Delhi, New Delhi, Delhi 110084",
+    "area": "Saroop Vihar, Kaushik Enclave, sarup nagar, Burari",
+    "latitude": 28.758601799999997,
+    "longitude": 77.18739149999999,
+    "place_id": "ChIJp975d_UBDTkRgefMD3TNM8s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp975d_UBDTkRgefMD3TNM8s",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:23:06"
+  },
+  {
+    "business_name": "International Electro Medical Co.",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Medical Equipment Manufacturer",
+    "all_categories": "Medical Equipment Manufacturer",
+    "pincode": "283141",
+    "phone_number": "+91 11 2326 4299",
+    "website": "https://physioiemco.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "2/7, Ansari Rd, Old Delhi, Daryaganj, New Delhi, Delhi, 110002",
+    "area": "Old Delhi, Daryaganj",
+    "latitude": 28.6421732,
+    "longitude": 77.2452874,
+    "place_id": "ChIJN3nATd78DDkR781nW8mxjIE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN3nATd78DDkR781nW8mxjIE",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:23:06"
+  }
+]

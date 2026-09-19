@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "EventsGram",
+    "search_category": "Tradeshows",
+    "primary_category": "Event technology service",
+    "all_categories": "Event technology service",
+    "pincode": "283119",
+    "phone_number": "+91 70828 07900",
+    "website": "https://www.eventsgram.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Surkabh Chowk, opposite Dr. Y.K. Choudhary, Nandan Vatika, Sirsa, Haryana 125055",
+    "area": "Nandan Vatika",
+    "latitude": 29.531933,
+    "longitude": 75.0353403,
+    "place_id": "ChIJ4SePdl1NETkRmIF0ra0-fm4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4SePdl1NETkRmIF0ra0-fm4",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:05:38"
+  },
+  {
+    "business_name": "Rajput Enterprise",
+    "search_category": "Tradeshows",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Service establishment",
+    "pincode": "283119",
+    "phone_number": "N/A",
+    "website": "http://www.rajputenterprises.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rajput Enterprise, 283119, India",
+    "area": "283119",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJldSnrfs0OgcRXkCxkGDYDhY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJldSnrfs0OgcRXkCxkGDYDhY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:05:38"
+  }
+]

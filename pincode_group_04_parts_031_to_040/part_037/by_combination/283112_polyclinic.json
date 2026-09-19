@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Moolchand Medcity",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Surgical center",
+    "pincode": "283112",
+    "phone_number": "+91 562 306 6666",
+    "website": "http://www.moolchandhealthcare.com/",
+    "rating": 4.1,
+    "reviews_count": 166,
+    "address": "Agra-Mathura Road, NH 2, Artoni Rd, Agra, Uttar Pradesh 282007",
+    "area": "Artauni",
+    "latitude": 27.222518599999997,
+    "longitude": 77.9100984,
+    "place_id": "ChIJAbEEF-aHczkRJVA34QDupCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAbEEF-aHczkRJVA34QDupCY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 05:56:55"
+  },
+  {
+    "business_name": "Dr. Heufin Laboratories",
+    "search_category": "Polyclinic",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company, Pharmaceuticals Exporter, Pharmaceutical Products Wholesaler, Veterinary pharmacy",
+    "pincode": "283112",
+    "phone_number": "+91 75360 70808",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Super market, 37/300 J/1 NAGLA PADI, NEW, DayalBagh, Agra, Uttar Pradesh 282005",
+    "area": "Saran Nagar, Vidya Nagar, DayalBagh",
+    "latitude": 27.215649,
+    "longitude": 78.004297,
+    "place_id": "ChIJE8lCMUJ3dDkRVB5ztAm4Qx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE8lCMUJ3dDkRVB5ztAm4Qx0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 05:56:55"
+  }
+]

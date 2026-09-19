@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bosch Car Service - Universal Auto Works",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto painting",
+    "pincode": "283112",
+    "phone_number": "+91 92580 69154",
+    "website": "https://ap.boschcarservice.com/in/en/book-a-car-service#/booking/classic/landing?customerId=76053831",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "F - 49 UPSIDC Site - C Industrial Area, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Sikandra",
+    "latitude": 27.212758299999997,
+    "longitude": 77.9202439,
+    "place_id": "ChIJIVEPlUB3dDkRCoQLuycbQds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIVEPlUB3dDkRCoQLuycbQds",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 05:57:09"
+  },
+  {
+    "business_name": "Pradeep Motor Company",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto Accessories Wholesaler",
+    "all_categories": "Auto Accessories Wholesaler",
+    "pincode": "283112",
+    "phone_number": "+91 96277 21182",
+    "website": "http://pradeepmotorcompany.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No. 48, Transport Colony, Sector 2, Transport Nagar, Agra, Uttar Pradesh 282002",
+    "area": "Transport Colony, Sector 2, Transport Nagar",
+    "latitude": 27.2089306,
+    "longitude": 77.98119,
+    "place_id": "ChIJAZNPMlR3dDkR-mWVE31G-JM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAZNPMlR3dDkR-mWVE31G-JM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 05:57:11"
+  }
+]

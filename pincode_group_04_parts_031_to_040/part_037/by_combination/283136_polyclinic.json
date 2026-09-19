@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jivak Clinic: Physician and Psychiatrist",
+    "search_category": "Polyclinic",
+    "primary_category": "Specialized clinic",
+    "all_categories": "Specialized clinic",
+    "pincode": "283136",
+    "phone_number": "+91 96251 50186",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 3, Baldevi Tower, near Sabji Mandi, Chaturi Nagar, Suhag Nagar, Firozabad, Uttar Pradesh 283203",
+    "area": "Chaturi Nagar, Suhag Nagar",
+    "latitude": 27.159817399999998,
+    "longitude": 78.38391159999999,
+    "place_id": "ChIJdRDDZCRDdDkRPduLjnyTrVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdRDDZCRDdDkRPduLjnyTrVc",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:21:18"
+  },
+  {
+    "business_name": "BHAWANI DRUG DISTRIBUTORS",
+    "search_category": "Polyclinic",
+    "primary_category": "Wholesale drugstore",
+    "all_categories": "Wholesale drugstore",
+    "pincode": "283136",
+    "phone_number": "+91 79836 73231",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Chowki gate, near DIGAMBAR JAIN SCHOOL, Sadar Baazar, Purani Mandi, Firozabad, Uttar Pradesh 283203",
+    "area": "Sadar Baazar, Purani Mandi",
+    "latitude": 27.152455999999997,
+    "longitude": 78.3986978,
+    "place_id": "ChIJaxO3mrVHdDkRFR8vE1YcWC4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaxO3mrVHdDkRFR8vE1YcWC4",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:21:19"
+  }
+]

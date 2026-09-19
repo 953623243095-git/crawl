@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaudhary Da Dhaba Hotel & Family Restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "283201",
+    "phone_number": "+91 93683 24173",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "NH 19, Dharera, Uttar Pradesh 283202",
+    "area": "283201",
+    "latitude": 27.231129499999998,
+    "longitude": 78.1665127,
+    "place_id": "ChIJGUkWIWRvdDkR6IbLPWIjXS8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGUkWIWRvdDkR6IbLPWIjXS8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:31:31"
+  },
+  {
+    "business_name": "Sonu Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "283201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "62JX+6GC, Hathras Rd, Islam Nagar, Foundry Nagar, Agra, Uttar Pradesh 282006",
+    "area": "Islam Nagar, Foundry Nagar",
+    "latitude": 27.230559399999997,
+    "longitude": 78.0487576,
+    "place_id": "ChIJNxQmQ3F6dDkRSlloYy4JIUo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNxQmQ3F6dDkRSlloYy4JIUo",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:31:33"
+  }
+]

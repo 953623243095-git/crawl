@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PLANNER INDIA EVENT",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "283123",
+    "phone_number": "+91 93119 56951",
+    "website": "https://plannerindiaevent.com/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "PLANNER INDIA EVENT, 283123, India",
+    "area": "283123",
+    "latitude": 21.0680074,
+    "longitude": 76.1429065,
+    "place_id": "ChIJ2ResJtBfkSERtOGzOY4FbSM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ResJtBfkSERtOGzOY4FbSM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:10:41"
+  },
+  {
+    "business_name": "Panodrama Events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Service establishment",
+    "pincode": "283123",
+    "phone_number": "+91 95606 06030",
+    "website": "http://www.panodramaevents.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Panodrama Events, 283123, India",
+    "area": "283123",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJxe1a3iofDTkRCA1Fd-fmkZ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxe1a3iofDTkRCA1Fd-fmkZ0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:10:42"
+  }
+]

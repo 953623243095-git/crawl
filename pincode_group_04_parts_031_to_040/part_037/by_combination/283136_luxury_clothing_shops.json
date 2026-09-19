@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maximum Outfits",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Men's clothing store, Shoe store",
+    "pincode": "283136",
+    "phone_number": "+91 98992 95657",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "K-50, Block K, Lajpat Nagar II, Lajpat Nagar, New Delhi, Delhi 110024",
+    "area": "Block K, Lajpat Nagar II, Lajpat Nagar",
+    "latitude": 28.5682866,
+    "longitude": 77.2442642,
+    "place_id": "ChIJv_XFEyPjDDkR_ZXrGIrfDN8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv_XFEyPjDDkR_ZXrGIrfDN8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:21:11"
+  },
+  {
+    "business_name": "Mohit Fashion",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "283136",
+    "phone_number": "+91 82185 28302",
+    "website": "https://www.instagram.com/mohitfashion2004?igsh=OGhyZjV0ZTdtNjNv",
+    "rating": 3.9,
+    "reviews_count": 13,
+    "address": "Gopal sweet ke pass, 730, Jalesar Rd, near Kali Mandir, opp. Jalesar Road, Firozabad, Uttar Pradesh 283203",
+    "area": "Shiv Nagar, Comapny Baag, Arya Nagar",
+    "latitude": 27.1538354,
+    "longitude": 78.3954153,
+    "place_id": "ChIJ12wglrxGdDkR5gqbKLODRAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ12wglrxGdDkR5gqbKLODRAk",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:21:12"
+  }
+]

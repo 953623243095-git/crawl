@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Great Modern Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Gents Tailor",
+    "all_categories": "Gents Tailor",
+    "pincode": "283124",
+    "phone_number": "+91 95403 18584",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "12 A/140 B, Street Number 14, Vijay Mohalla, Maujpur, Delhi, 110053",
+    "area": "Vijay Mohalla, Maujpur",
+    "latitude": 28.684478499999997,
+    "longitude": 77.2730383,
+    "place_id": "ChIJs5-geqb9DDkRvOpmFZbK4QI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs5-geqb9DDkRvOpmFZbK4QI",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:11:39"
+  },
+  {
+    "business_name": "M K Fashion Creators & Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "283124",
+    "phone_number": "+91 562 285 8503",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 11,
+    "address": "36-g/106, Sanjay Place, Near Hotel Metro, Agra, Uttar Pradesh 282002",
+    "area": "Sanjay Palace, Sanjay Place, Civil Lines",
+    "latitude": 27.2016375,
+    "longitude": 78.00607049999999,
+    "place_id": "ChIJ5Vi7wjt3dDkRw8LkLzsPGH4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Vi7wjt3dDkRw8LkLzsPGH4",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:11:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Porwal Sales",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "283151",
+    "phone_number": "+91 70370 59033",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "3M3R+W2W, Sirsaganj, Uttar Pradesh 283151",
+    "area": "283151",
+    "latitude": 27.054859399999998,
+    "longitude": 78.69008579999999,
+    "place_id": "ChIJL46MOeXKdTkReQMfW6Tj-_0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL46MOeXKdTkReQMfW6Tj-_0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:28:32"
+  },
+  {
+    "business_name": "Ac Dealers",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto Electrician and AC Repair",
+    "all_categories": "Auto Electrician and AC Repair",
+    "pincode": "283151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "No. 2, Firozabad, Uttar Pradesh 283203",
+    "area": "Telephone Colony",
+    "latitude": 27.1525647,
+    "longitude": 78.3805991,
+    "place_id": "ChIJNQJGj1NBdDkRP0gjNQs-_hU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNQJGj1NBdDkRP0gjNQs-_hU",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:28:32"
+  }
+]

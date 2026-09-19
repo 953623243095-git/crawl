@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raju parihar",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Rajasthani Restaurant",
+    "all_categories": "Rajasthani Restaurant",
+    "pincode": "283123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "V9MC+HH3, Pinahat, Uttar Pradesh 283123",
+    "area": "283123",
+    "latitude": 26.8838933,
+    "longitude": 78.37142329999999,
+    "place_id": "ChIJ6_C2K3M9dDkROd3ar9ch2O8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6_C2K3M9dDkROd3ar9ch2O8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:09:44"
+  },
+  {
+    "business_name": "Hospital",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Rajasthani Restaurant",
+    "all_categories": "Rajasthani Restaurant",
+    "pincode": "283123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Maharana Pratap tiraha Nathu ka pura, Maharana Pratap tiraha, Nathu ka pura, Fatehabad, Uttar Pradesh 283111",
+    "area": "Nathu ka pura",
+    "latitude": 26.9970884,
+    "longitude": 78.2740506,
+    "place_id": "ChIJFSjQDSAVdDkRtM7W8_1WNSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFSjQDSAVdDkRtM7W8_1WNSg",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:09:44"
+  }
+]

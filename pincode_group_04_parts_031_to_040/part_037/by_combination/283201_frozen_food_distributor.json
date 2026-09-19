@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pal Frozen Foods Pvt Ltd",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, Food Processing Company, Frozen food manufacturer",
+    "pincode": "283201",
+    "phone_number": "+91 90455 99277",
+    "website": "https://www.palfrozenfoods.in/",
+    "rating": 4.4,
+    "reviews_count": 59,
+    "address": "Haripur Futkuwan, Rampur Road, Haldwani, Uttarakhand 263139",
+    "area": "283201",
+    "latitude": 29.1466742,
+    "longitude": 79.4737478,
+    "place_id": "ChIJc93LcYGEoDkRlvoJBr2zaow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc93LcYGEoDkRlvoJBr2zaow",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:31:27"
+  },
+  {
+    "business_name": "Grano Foods Industries Private Limited",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food manufacturer",
+    "all_categories": "Frozen food manufacturer",
+    "pincode": "283201",
+    "phone_number": "+91 99907 53456",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 21,
+    "address": "K-260, Stite-5, Industrial Area, Kasna, Greater Noida, Uttar Pradesh 201312",
+    "area": "Stite-5, Industrial Area, Kasna",
+    "latitude": 28.4255772,
+    "longitude": 77.5387093,
+    "place_id": "ChIJg1d88jrADDkRcUrwk-mreAw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg1d88jrADDkRcUrwk-mreAw",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:31:27"
+  }
+]

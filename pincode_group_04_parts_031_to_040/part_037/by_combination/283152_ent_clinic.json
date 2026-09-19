@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Rajeev gupta's clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "283152",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bapu Nagar, Shringar Nagar, Shrangar Nagar, Etah, Bhagipur, Uttar Pradesh 207001",
+    "area": "Bapu Nagar, Shringar Nagar, Shrangar Nagar",
+    "latitude": 27.5499345,
+    "longitude": 78.6646634,
+    "place_id": "ChIJL0MpFcgBdTkRkytBQdKXPR8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL0MpFcgBdTkRkytBQdKXPR8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:30:10"
+  },
+  {
+    "business_name": "Autonomous State Medical College, Firozabad",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical school",
+    "all_categories": "Medical school",
+    "pincode": "283152",
+    "phone_number": "+91 1800 123 2877",
+    "website": "https://www.asmcfirozabad.edu.in/",
+    "rating": 4.4,
+    "reviews_count": 235,
+    "address": "Dolatpura, Jalesar Rd, Firozabad, Uttar Pradesh 283203",
+    "area": "283152",
+    "latitude": 27.1989967,
+    "longitude": 78.389256,
+    "place_id": "ChIJfQYEbPBFdDkR7H0RlT0lVlY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfQYEbPBFdDkR7H0RlT0lVlY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:30:10"
+  }
+]

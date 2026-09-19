@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Devansh kirana stor",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "283114",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RJ34+VRV, Bah, Agra, Maloni, Uttar Pradesh 283104",
+    "area": "Bah",
+    "latitude": 26.8047343,
+    "longitude": 78.607056,
+    "place_id": "ChIJ0xooRQArdDkRrZjZsh6jKa4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0xooRQArdDkRrZjZsh6jKa4",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:00:19"
+  },
+  {
+    "business_name": "Vandana grocery store",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "283114",
+    "phone_number": "+91 76000 00991",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "XQVJ+27G, Gurai, Uttar Pradesh 283142",
+    "area": "283114",
+    "latitude": 26.992017999999998,
+    "longitude": 78.7826259,
+    "place_id": "ChIJFxUPfrHPdTkR_KQsXmHyQf4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFxUPfrHPdTkR_KQsXmHyQf4",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:00:19"
+  }
+]

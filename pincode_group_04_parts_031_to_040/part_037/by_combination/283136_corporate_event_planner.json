@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Party Professionals",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "283136",
+    "phone_number": "N/A",
+    "website": "https://www.partyprofessionals.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Party Professionals, 283136, India",
+    "area": "283136",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJI6KQPiHG6SER3GJ0omygSg4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI6KQPiHG6SER3GJ0omygSg4",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:21:58"
+  },
+  {
+    "business_name": "REAL EVENTS INDIA",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Event management company",
+    "pincode": "283136",
+    "phone_number": "+91 97163 89892",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "S31/15, near st stephens hospital, S Block, DLF Phase 3, Sector 24, Gurugram, Haryana 122010",
+    "area": "S Block, DLF Phase 3, Sector 24",
+    "latitude": 28.485581399999997,
+    "longitude": 77.1034559,
+    "place_id": "ChIJq8VRmQUZDTkRX3U6Pte3hIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq8VRmQUZDTkRX3U6Pte3hIY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:21:59"
+  }
+]

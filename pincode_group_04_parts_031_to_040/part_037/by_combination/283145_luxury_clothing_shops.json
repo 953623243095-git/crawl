@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Milan fashion",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "283145",
+    "phone_number": "+91 70170 48338",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no 587 Haji pura hindi school ke pass aagaa sab masjid, Firozabad, Uttar Pradesh 283203",
+    "area": "Rasulpur",
+    "latitude": 27.147171999999998,
+    "longitude": 78.40724279999999,
+    "place_id": "ChIJnc0LRCFHdDkRUSQrWZD33gQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnc0LRCFHdDkRUSQrWZD33gQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:26:28"
+  },
+  {
+    "business_name": "Kurti Kottage",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "283145",
+    "phone_number": "N/A",
+    "website": "https://kurti-kottage.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2,karwala, tiraha, Buddha vihar tiraha, near royal city school, Firozabad, Uttar Pradesh 283203",
+    "area": "Purushottam Nagar, Telephone Colony",
+    "latitude": 27.155037399999998,
+    "longitude": 78.3856212,
+    "place_id": "ChIJ0Qa4DNlHdDkRK0cmi8bC4jc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Qa4DNlHdDkRK0cmi8bC4jc",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:26:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Famous Body Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "283204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Taj View Chauraha, Fatehabad Rd, near Dixit hospital infront petrol pump Taj Ganj, Kolara Kalan, Uttar Pradesh 283111",
+    "area": "283204",
+    "latitude": 27.0939133,
+    "longitude": 78.1728091,
+    "place_id": "ChIJjaQEKYhtdDkRmvpGGujdj_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjaQEKYhtdDkRmvpGGujdj_E",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:37:47"
+  },
+  {
+    "business_name": "Nirvana Luxury Spa",
+    "search_category": "Spa",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "283204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Vandna Palace, Agra Rd, Tikathar, Uttar Pradesh 207001",
+    "area": "283204",
+    "latitude": 27.4094989,
+    "longitude": 78.4331136,
+    "place_id": "ChIJKQP4hUhZdDkRd6bbyGjvU8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKQP4hUhZdDkRd6bbyGjvU8I",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:37:47"
+  }
+]

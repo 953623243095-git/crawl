@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DJ Bakers & Cake",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Cake shop",
+    "pincode": "283122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Midhakur, Uttar Pradesh 283105",
+    "area": "283122",
+    "latitude": 27.155241999999998,
+    "longitude": 77.86630319999999,
+    "place_id": "ChIJYZ8GQP2JczkRU92khVQde4w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYZ8GQP2JczkRU92khVQde4w",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:07:49"
+  },
+  {
+    "business_name": "De bake factory",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "283122",
+    "phone_number": "+91 80817 33010",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 97,
+    "address": "Sonraich urf badagaon, Pipraich, Uttar Pradesh 273152",
+    "area": "283122",
+    "latitude": 26.832829999999998,
+    "longitude": 83.5279724,
+    "place_id": "ChIJL4JoCnVZkTkRwpc0fBP0B4w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL4JoCnVZkTkRwpc0fBP0B4w",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:07:50"
+  }
+]

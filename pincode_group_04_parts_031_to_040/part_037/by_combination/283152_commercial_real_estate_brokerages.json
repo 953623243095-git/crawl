@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AMIT PROPERTIES",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "283152",
+    "phone_number": "+91 99537 54592",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sector 65, Faridabad, Haryana 121004",
+    "area": "Sector 65",
+    "latitude": 28.316826199999998,
+    "longitude": 77.3384751,
+    "place_id": "ChIJtW5H1wPbDDkRaYnhGyCSD3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtW5H1wPbDDkRaYnhGyCSD3Q",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:31:03"
+  },
+  {
+    "business_name": "SM Properties",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate rental agency",
+    "all_categories": "Real estate rental agency, Real Estate Builders & Construction Company, Property investment company, Real estate agent, Real estate consultant, Real estate developer",
+    "pincode": "283152",
+    "phone_number": "+91 98189 88470",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "C-51, Ground Floor, Ardee Mall Rd, Block C, Ardee City, Sector 52, Gurugram, Haryana 122003",
+    "area": "Block C, Ardee City, Sector 52",
+    "latitude": 28.440458,
+    "longitude": 77.07863689999999,
+    "place_id": "ChIJ9cQ2770YDTkRMy2M1O132qM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9cQ2770YDTkRMy2M1O132qM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:31:03"
+  }
+]

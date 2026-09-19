@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Ram Electronics",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "283206",
+    "phone_number": "+91 98370 57648",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 228 B, Jalesar Rd, behind Monark Hotel, Gandhi Nagar, Firozabad, Uttar Pradesh 283203",
+    "area": "Gandhi Nagar",
+    "latitude": 27.1587864,
+    "longitude": 78.39574759999999,
+    "place_id": "ChIJhe2T4adGdDkRG7fGHOk31XE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhe2T4adGdDkRG7fGHOk31XE",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:41:07"
+  },
+  {
+    "business_name": "G.S ELECTRICALS",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store, Electrical repair shop",
+    "pincode": "283206",
+    "phone_number": "+91 98370 14731",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "5C42+29F, Circular road, Hanuman Rd, Durga Nagar, Firozabad, Uttar Pradesh 283203",
+    "area": "Durga Nagar",
+    "latitude": 27.153024,
+    "longitude": 78.3998292,
+    "place_id": "ChIJNwQjQKRGdDkRVf__cyK1xps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNwQjQKRGdDkRVf__cyK1xps",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:41:10"
+  }
+]

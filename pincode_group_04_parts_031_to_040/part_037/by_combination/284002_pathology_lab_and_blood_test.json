@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Lal PathLabs Jhansi - Sipri Center",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Pathologist",
+    "all_categories": "Pathologist, Diagnostic center",
+    "pincode": "284002",
+    "phone_number": "+91 76076 06600",
+    "website": "https://www.lalpathlabs.com/",
+    "rating": 4.8,
+    "reviews_count": 165,
+    "address": "457/2A Wadhwa Petrol Pump Opposite Taj Compound, Road, Nandanpura, Awas Vikas Nagar, Jhansi, Uttar Pradesh 284003",
+    "area": "Nandanpura, Masiha Ganj, Awas Vikas Nagar",
+    "latitude": 25.4550235,
+    "longitude": 78.5415744,
+    "place_id": "ChIJP81a4kBxdzkR5R-fos3grD0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP81a4kBxdzkR5R-fos3grD0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:46:14"
+  },
+  {
+    "business_name": "Redcliffe Labs - Collection Centre",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service, Medical diagnostic imaging center, Medical laboratory, Pathologist",
+    "pincode": "284002",
+    "phone_number": "+91 79 6912 2726",
+    "website": "https://redcliffelabs.com/",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "571, in front of Petrol Pump, Khati Baba, Jhansi, Uttar Pradesh 284003",
+    "area": "Khati Baba",
+    "latitude": 25.4410244,
+    "longitude": 78.54097759999999,
+    "place_id": "ChIJk-DzpuJxdzkRQHMC8t5nssY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk-DzpuJxdzkRQHMC8t5nssY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:46:15"
+  }
+]

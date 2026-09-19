@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AviGen Healthcare Pvt Ltd",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company",
+    "pincode": "283122",
+    "phone_number": "+91 93191 37015",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Neel Padam Kunj, 2, behind NIKHIL ENCLAVE, Shastripuram, Agra, Uttar Pradesh 282007",
+    "area": "Suruchipuram Colony, Shastripuram",
+    "latitude": 27.2043824,
+    "longitude": 77.9392958,
+    "place_id": "ChIJxdq-zM93dDkRPavA4c5rA7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxdq-zM93dDkRPavA4c5rA7c",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:08:18"
+  },
+  {
+    "business_name": "CHC Etmadpur",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Community center",
+    "pincode": "283122",
+    "phone_number": "N/A",
+    "website": "http://navodayatrick.com/",
+    "rating": 3.6,
+    "reviews_count": 68,
+    "address": "65PP+92J, Unnamed Road, Uttar Pradesh 283202",
+    "area": "283122",
+    "latitude": 27.235968999999997,
+    "longitude": 78.1850211,
+    "place_id": "ChIJw27HfPFldDkRQeogzUKel-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw27HfPFldDkRQeogzUKel-I",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:08:18"
+  }
+]

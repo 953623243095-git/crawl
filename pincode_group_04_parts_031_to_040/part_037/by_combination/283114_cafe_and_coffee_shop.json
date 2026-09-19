@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hills cafe & restaurant",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Family restaurant",
+    "pincode": "283114",
+    "phone_number": "+91 79007 00059",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "Sadar Bazar, Agra Cantt, Idgah Colony, Agra, Uttar Pradesh 282001",
+    "area": "Sadar Bazar, Agra Cantt, Idgah Colony",
+    "latitude": 27.1616283,
+    "longitude": 78.0115562,
+    "place_id": "ChIJ4XXjqdt3dDkRvjdNqjMW13A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4XXjqdt3dDkRvjdNqjMW13A",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:00:30"
+  },
+  {
+    "business_name": "Maddy's cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "283114",
+    "phone_number": "+91 92190 86269",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "18,19, Mahendra enclave, Wazirpura Rd, Gandhi Nagar, Civil Lines, Agra, Uttar Pradesh 282002",
+    "area": "Gandhi Nagar, Civil Lines",
+    "latitude": 27.206487,
+    "longitude": 78.0112336,
+    "place_id": "ChIJxelnawZ3dDkRYu52qblVNgA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxelnawZ3dDkRYu52qblVNgA",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:00:33"
+  }
+]

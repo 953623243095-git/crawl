@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swastik Motors",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Wholesaler",
+    "pincode": "283126",
+    "phone_number": "+91 93191 01514",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 2, Sector 222, Transport Colony, Transport Nagar, Agra, Uttar Pradesh 282002",
+    "area": "Transport Colony, Transport Nagar",
+    "latitude": 27.207386099999997,
+    "longitude": 77.98148359999999,
+    "place_id": "ChIJEQAAQHp3dDkRXfP_XwMHirw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEQAAQHp3dDkRXfP_XwMHirw",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:15:53"
+  },
+  {
+    "business_name": "Rishi Mahindra tractors Worksshop",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer, Machine workshop",
+    "pincode": "283126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Mahadev Pur, Sikandra, Bainpur Mustkil, Agra, Uttar Pradesh 282007",
+    "area": "Mahadev Pur, Sikandra",
+    "latitude": 27.2243604,
+    "longitude": 77.94696929999999,
+    "place_id": "ChIJKcZe0Tl5dDkRdhZnCNHWBW8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKcZe0Tl5dDkRdhZnCNHWBW8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:15:54"
+  }
+]

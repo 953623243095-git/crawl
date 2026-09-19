@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Cycile Store And Auto Parts",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Auto parts store",
+    "pincode": "283119",
+    "phone_number": "+91 96341 62030",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Devri Rd, Taal Semri, Saimari, Agra, Uttar Pradesh 282001",
+    "area": "Taal Semri, Saimari",
+    "latitude": 27.1188327,
+    "longitude": 78.0217861,
+    "place_id": "ChIJQ_MEWINzdDkRlqSu8loFl2c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ_MEWINzdDkRlqSu8loFl2c",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:04:40"
+  },
+  {
+    "business_name": "RG Electric Vehicle",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Electric bicycle store",
+    "all_categories": "Electric bicycle store",
+    "pincode": "283119",
+    "phone_number": "+91 63963 47991",
+    "website": "http://www.rgelectric.in/",
+    "rating": 4.6,
+    "reviews_count": 9,
+    "address": "Jhons Mill, 4, Jeoni Mandi, Civil Lines, Agra, Uttar Pradesh 282003",
+    "area": "Jeoni Mandi, Civil Lines",
+    "latitude": 27.195817299999998,
+    "longitude": 78.0231271,
+    "place_id": "ChIJnwy2OPBxdDkRmNQgJsQ-y1I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnwy2OPBxdDkRmNQgJsQ-y1I",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:04:41"
+  }
+]

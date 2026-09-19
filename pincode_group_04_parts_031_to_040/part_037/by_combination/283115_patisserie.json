@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goyal Cakes & Chocolates",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Chocolate factory, Chocolate shop, Service establishment",
+    "pincode": "283115",
+    "phone_number": "+91 70146 11756",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "Goyal Cakes & Chocolates, 283115, India",
+    "area": "283115",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ0XdX2n__czkRQqpTK9gtdJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0XdX2n__czkRQqpTK9gtdJ8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:02:14"
+  },
+  {
+    "business_name": "Theobroma Bakery and Cake Shop - Church Road, Agra",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Cafe, Cupcake shop, Pastry shop, Patisserie, Wedding bakery, Wholesale bakery",
+    "pincode": "283115",
+    "phone_number": "+91 81828 81881",
+    "website": "https://order.theobroma.in/order/theobroma-church-road-agra",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "GF, LG-03, Church Rd, Professors Colony, Civil Lines, Agra, Uttar Pradesh 282002",
+    "area": "Professors Colony, Civil Lines",
+    "latitude": 27.199972499999998,
+    "longitude": 77.9999612,
+    "place_id": "ChIJsQnm94l3dDkRfxRrSuBf1ks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsQnm94l3dDkRfxRrSuBf1ks",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:02:14"
+  }
+]

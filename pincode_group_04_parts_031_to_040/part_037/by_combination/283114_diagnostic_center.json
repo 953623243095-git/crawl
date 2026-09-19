@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prem Diagnostic Center",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "283114",
+    "phone_number": "+91 95405 18477",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mod, Paharpura, Uttar Pradesh 283114",
+    "area": "283114",
+    "latitude": 26.831426099999998,
+    "longitude": 78.68680599999999,
+    "place_id": "ChIJ2WZRAHPTdTkRLZKU_AENPPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2WZRAHPTdTkRLZKU_AENPPA",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:00:48"
+  },
+  {
+    "business_name": "Saumya Khad Bhandar",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "283114",
+    "phone_number": "+91 97589 15577",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bela, Uttar Pradesh 206131",
+    "area": "283114",
+    "latitude": 26.7635762,
+    "longitude": 78.8601754,
+    "place_id": "ChIJt4n85cXZdTkRTVd_vPsCe9Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt4n85cXZdTkRTVd_vPsCe9Y",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:00:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alex spa and salon",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "284001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Civil Lines, Jhokan Bagh, Jhansi, Uttar Pradesh 284001",
+    "area": "Civil Lines, Jhokan Bagh",
+    "latitude": 25.4462416,
+    "longitude": 78.57665089999999,
+    "place_id": "ChIJDWF8ZTJ3dzkRzJbh4YGKPzA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDWF8ZTJ3dzkRzJbh4YGKPzA",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:44:52"
+  },
+  {
+    "business_name": "The Korean Glass saloon&SPA",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Day spa",
+    "all_categories": "Day spa, Hair salon",
+    "pincode": "284001",
+    "phone_number": "+91 93353 65045",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "BKD, Gwalior Rd, near Kunj Bihari temple, Civil Lines, Jhansi, Uttar Pradesh 284001",
+    "area": "Civil Lines, Loha Mandi",
+    "latitude": 25.4556063,
+    "longitude": 78.5664129,
+    "place_id": "ChIJUekzRAB3dzkRAHey5jTFPP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUekzRAB3dzkRAHey5jTFPP0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:44:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Soniya Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "283121",
+    "phone_number": "+91 81939 15806",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "24,Sikarwar Market,Infront Hanuman Mandir,Near Kothi,Jagner Road,Nagala Kamal, Kheragarh, Uttar Pradesh 283121",
+    "area": "283121",
+    "latitude": 26.9717271,
+    "longitude": 77.7661123,
+    "place_id": "ChIJ6wW9n4jzczkRikl7LyEvBbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6wW9n4jzczkRikl7LyEvBbU",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:06:07"
+  },
+  {
+    "business_name": "Om Sai Shoe Collection",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "283121",
+    "phone_number": "+91 90270 48259",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Zila Parishad Market, Khairagarh, Uttar Pradesh 283121",
+    "area": "283121",
+    "latitude": 26.9432057,
+    "longitude": 77.8200657,
+    "place_id": "ChIJl7OOv6nzczkRc1V_c-vs4c4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl7OOv6nzczkRc1V_c-vs4c4",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:06:07"
+  }
+]

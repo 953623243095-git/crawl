@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MyBookShop",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "283123",
+    "phone_number": "+91 95208 74484",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": null,
+    "address": "11/8, ground floor, Prateek Center, shop no. 4, block-E, Sanjay Place, Agra, Uttar Pradesh 282002",
+    "area": "Sanjay Palace, Sanjay Place, Civil Lines",
+    "latitude": 27.1992516,
+    "longitude": 78.0071148,
+    "place_id": "ChIJWYy7hfJ3dDkRa4-Misgebgk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWYy7hfJ3dDkRa4-Misgebgk",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:10:46"
+  },
+  {
+    "business_name": "Shree Shyam Stationery and School Uniform",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "283123",
+    "phone_number": "+91 82180 22307",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "695, Tajganj, Agra, Uttar Pradesh 282006",
+    "area": "Tajganj",
+    "latitude": 27.147124599999998,
+    "longitude": 78.0387506,
+    "place_id": "ChIJ-XvakhRxdDkRZ5mIsxp0e5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-XvakhRxdDkRZ5mIsxp0e5E",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:10:49"
+  }
+]

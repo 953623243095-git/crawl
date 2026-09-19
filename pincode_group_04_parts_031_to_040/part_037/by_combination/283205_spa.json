@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gravity Wellness",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "283205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop No-9, Hansraj Complex, Govindpuri, Kalkaji, New Delhi, Delhi 110019",
+    "area": "Govindpuri, Kalkaji",
+    "latitude": 28.5338922,
+    "longitude": 77.26051749999999,
+    "place_id": "ChIJw2GetGHhDDkRBvz2piD50IA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw2GetGHhDDkRBvz2piD50IA",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:39:34"
+  },
+  {
+    "business_name": "Smile N Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "283205",
+    "phone_number": "+91 83770 83770",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 116,
+    "address": "#6, 1st Floor, above Bobby Tikki Wala, Rishabh Vihar, Anand Vihar, New Delhi, Delhi 110092",
+    "area": "Rishabh Vihar, Karkardooma, Anand Vihar",
+    "latitude": 28.6534132,
+    "longitude": 77.3025995,
+    "place_id": "ChIJ7T1UIEL7DDkRII6mS13USnQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7T1UIEL7DDkRII6mS13USnQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:39:36"
+  }
+]

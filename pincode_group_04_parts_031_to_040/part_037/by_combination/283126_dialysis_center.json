@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arihant Kidney Clinic",
+    "search_category": "Dialysis Center",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "283126",
+    "phone_number": "+91 84491 92767",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Axis Imaging 2 72, Church Road, near Hanuman temple crossing, Khandari, Agra, Uttar Pradesh 282002",
+    "area": "Surya Nagar, Khandari",
+    "latitude": 27.205849699999998,
+    "longitude": 77.9985088,
+    "place_id": "ChIJ_3WcUkJ3dDkRvMYopPS8IJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_3WcUkJ3dDkRvMYopPS8IJY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:15:44"
+  },
+  {
+    "business_name": "Clarity Diagnostics and Dialysis Centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "283126",
+    "phone_number": "+91 92868 54174",
+    "website": "https://claritydiagnostics.online/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "M K Puram, 43/492, Shastri Puram Rd, Near Kargil Petrol Pump, Sulabh Puram colony, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Near Kargil Petrol Pump, Sulabh Puram colony, Sikandra",
+    "latitude": 27.2025187,
+    "longitude": 77.94859,
+    "place_id": "ChIJ2-yANG53dDkR1G6ATyMj2Iw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2-yANG53dDkR1G6ATyMj2Iw",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:15:46"
+  }
+]

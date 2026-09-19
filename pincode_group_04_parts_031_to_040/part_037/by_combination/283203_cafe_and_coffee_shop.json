@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The sunset cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "283203",
+    "phone_number": "+91 82186 16597",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 11,
+    "address": "Raja Ka Taal, Alinagar Kenjra, Uttar Pradesh 283203",
+    "area": "283203",
+    "latitude": 27.182742599999997,
+    "longitude": 78.3571104,
+    "place_id": "ChIJpRtrEQBDdDkRn7ZwduOh8DY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpRtrEQBDdDkRn7ZwduOh8DY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:35:13"
+  },
+  {
+    "business_name": "Veena Emporium",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Glass manufacturer",
+    "all_categories": "Glass manufacturer",
+    "pincode": "283203",
+    "phone_number": "+91 96340 42273",
+    "website": "https://www.veenaemporium.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4/16, Mathura Nagar Rd, in front of garg hotel, near by kamlesh nurshing home, Vibhab Nagar, Firozabad, Uttar Pradesh 283203",
+    "area": "Vibhab Nagar",
+    "latitude": 27.159260399999997,
+    "longitude": 78.3934208,
+    "place_id": "ChIJmQ69e65GdDkRn0-CVRrwW_w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmQ69e65GdDkRn0-CVRrwW_w",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:35:16"
+  }
+]

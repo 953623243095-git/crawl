@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Herbal Remedies",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Pharmaceutical company, Wholesaler",
+    "pincode": "283124",
+    "phone_number": "+91 78765 11098",
+    "website": "https://indianherbalremedies.com/",
+    "rating": 4.7,
+    "reviews_count": 52,
+    "address": "Near, Plot No. 141 D.I.C. Industrial Area, Chhtari Chowk, Baddi, Himachal Pradesh 173205",
+    "area": "Chhtari Chowk",
+    "latitude": 30.9323169,
+    "longitude": 76.80446909999999,
+    "place_id": "ChIJW0taFUL1DzkRBoBgW4Afbd8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW0taFUL1DzkRBoBgW4Afbd8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:12:24"
+  },
+  {
+    "business_name": "Ayur Herbals Pvt. Ltd.",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Cosmetic Products Manufacturer",
+    "all_categories": "Cosmetic Products Manufacturer",
+    "pincode": "283124",
+    "phone_number": "+91 124 422 8140",
+    "website": "https://www.ayurherbals.co.in/",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "140, Udyog Vihar Phase 1, Udyog Vihar, Sector 20, Gurugram, Haryana 122016",
+    "area": "Udyog Vihar Phase 1, Udyog Vihar, Sector 20",
+    "latitude": 28.510032,
+    "longitude": 77.08018799999999,
+    "place_id": "ChIJOyssTiAZDTkRn2ZvSVsKzDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOyssTiAZDTkRn2ZvSVsKzDM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:12:24"
+  }
+]

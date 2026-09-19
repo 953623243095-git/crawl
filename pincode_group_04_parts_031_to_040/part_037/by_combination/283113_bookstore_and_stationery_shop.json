@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gayatri Stationers",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "283113",
+    "phone_number": "+91 96509 55104",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No.14, Rana Market, Pratap Nagar, Parashuram Nagar, Shahganj, Agra, Uttar Pradesh 282010",
+    "area": "Rana Market, Pratap Nagar, Parashuram Nagar, Shahganj",
+    "latitude": 27.183291399999998,
+    "longitude": 77.9786973,
+    "place_id": "ChIJJ35sZTN3dDkRXbPmfloShlM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ35sZTN3dDkRXbPmfloShlM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 05:59:43"
+  },
+  {
+    "business_name": "Sanjay Pustak Mandir",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "283113",
+    "phone_number": "+91 98971 99897",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Mahatma Gandhi Rd, Labh Chand Market, Raja ki Mandi, Agra, Uttar Pradesh 282002",
+    "area": "Labh Chand Market, Raja ki Mandi",
+    "latitude": 27.1893879,
+    "longitude": 78.0009663,
+    "place_id": "ChIJrYDOHiZ3dDkR2eZOVSiBsOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrYDOHiZ3dDkR2eZOVSiBsOI",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 05:59:44"
+  }
+]

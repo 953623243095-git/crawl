@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pathology Lab",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Blood testing service",
+    "all_categories": "Blood testing service",
+    "pincode": "283122",
+    "phone_number": "N/A",
+    "website": "http://www.shreeramlabs.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "27QH+3QQ, Ramghat Rd, Sarai Bhojraj, Atrauli, Uttar Pradesh 202280",
+    "area": "Sarai Bhojraj",
+    "latitude": 28.0377165,
+    "longitude": 78.2794995,
+    "place_id": "ChIJkUMVFji3dDkRtYibESpF6Mg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkUMVFji3dDkRtYibESpF6Mg",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:08:13"
+  },
+  {
+    "business_name": "Pathkind Labs",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory, Blood testing service, Diagnostic center",
+    "pincode": "283122",
+    "phone_number": "+91 98707 05470",
+    "website": "https://nearby.pathkindlabs.com/pathkind-labs-anupshahar-29329/home",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nehruganj, opposite Daak bangla, Anupshahar, Uttar Pradesh 203390",
+    "area": "283122",
+    "latitude": 28.353409,
+    "longitude": 78.2668448,
+    "place_id": "ChIJ_dcef6yhDDkRXsB5gFz7zhc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_dcef6yhDDkRXsB5gFz7zhc",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:08:13"
+  }
+]

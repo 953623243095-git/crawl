@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhura Plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "283141",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "4FGJ+2WR, Makkhanpur Rd, Makkhanpur, Uttar Pradesh 283145",
+    "area": "283141",
+    "latitude": 27.125120799999998,
+    "longitude": 78.4822669,
+    "place_id": "ChIJrwDlVQBJdDkR-teuAcAqGEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrwDlVQBJdDkR-teuAcAqGEA",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:23:22"
+  },
+  {
+    "business_name": "Anas khan Plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "283141",
+    "phone_number": "+91 87559 20880",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mohalla Naugaza, Mohalla Mullana, Amroha, Uttar Pradesh 244221",
+    "area": "Mohalla Naugaza, Mohalla Mullana",
+    "latitude": 28.9074898,
+    "longitude": 78.4649996,
+    "place_id": "ChIJD6x8xFsJCzkRKtljPiruqGQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD6x8xFsJCzkRKtljPiruqGQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:23:23"
+  }
+]

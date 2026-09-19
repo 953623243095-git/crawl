@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ranjeet Kumar",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Hindu temple",
+    "pincode": "283152",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Eka, Udesargajadharsingh, Uttar Pradesh 283152",
+    "area": "283152",
+    "latitude": 27.441873899999997,
+    "longitude": 78.6078893,
+    "place_id": "ChIJrXPqRjRVdDkR5MVLrVJuc2c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrXPqRjRVdDkR5MVLrVJuc2c",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:30:30"
+  },
+  {
+    "business_name": "Papa ji",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "283152",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9G86+9X3, Navalpur, Uttar Pradesh 283152",
+    "area": "283152",
+    "latitude": 27.3656516,
+    "longitude": 78.5130234,
+    "place_id": "ChIJbwkBBQBXdDkR1KvLRewOpGA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbwkBBQBXdDkR1KvLRewOpGA",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:30:30"
+  }
+]

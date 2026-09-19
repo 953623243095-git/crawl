@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jail House - Pure Vegetarian Restaurant in Agra",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Coffee shop, Indian restaurant",
+    "pincode": "283126",
+    "phone_number": "+91 93599 49089",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Cross Road Mall, 11, Sikandra-Bodla Rd, Agra, Uttar Pradesh 282007",
+    "area": "Sector 13, Kar Kunj Chauraha, Avas Vikas Colony, Sikandra",
+    "latitude": 27.205575,
+    "longitude": 77.9535063,
+    "place_id": "ChIJB4P3p413dDkRYL_gzpYIYds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB4P3p413dDkRYL_gzpYIYds",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:15:20"
+  },
+  {
+    "business_name": "Shri Rameshwaram South Flavours",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "283126",
+    "phone_number": "+91 89096 20143",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "F 258, opp. Janak Park, E Block, Ghatwasan, Kamla Nagar, Agra, Uttar Pradesh 282005",
+    "area": "E Block, Ghatwasan, Kamla Nagar",
+    "latitude": 27.2143715,
+    "longitude": 78.0229308,
+    "place_id": "ChIJR-lvcolxdDkR3z-qrxhC6Zo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR-lvcolxdDkR3z-qrxhC6Zo",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:15:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vedamrit clenic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "283125",
+    "phone_number": "N/A",
+    "website": "http://www.esic.nic.in/hospitals-uttar-pradesh",
+    "rating": 3,
+    "reviews_count": 78,
+    "address": "6X2G+V7C, near Central Jail, Halwai ki, Kailashpuri, Bagichi, Agra, Uttar Pradesh 282002",
+    "area": "Kailashpuri, Bagichi",
+    "latitude": 27.2021864,
+    "longitude": 77.9756495,
+    "place_id": "ChIJdYQ7SHZ3dDkRFp0O6reIgTI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdYQ7SHZ3dDkRFp0O6reIgTI",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:13:48"
+  },
+  {
+    "business_name": "Emotion of Life",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Psychologist",
+    "all_categories": "Psychologist, Counselor, Psychotherapist",
+    "pincode": "283125",
+    "phone_number": "+91 93685 03416",
+    "website": "https://emotionoflife.in/",
+    "rating": 4.7,
+    "reviews_count": 82,
+    "address": "Tower Number DT1, Ada heights, Emotion of Life 201, opposite Panchwati Society, Taj Nagri Phase 2, Agra, Uttar Pradesh 282001",
+    "area": "Taj Nagri Phase 2, Tajganj",
+    "latitude": 27.1499423,
+    "longitude": 78.0527596,
+    "place_id": "ChIJM6pZKehxdDkROkLmxr5ISR4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM6pZKehxdDkROkLmxr5ISR4",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:13:50"
+  }
+]

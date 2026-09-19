@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JP Ladies Boutique & Beauty Parlour",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Boutique, Tailor",
+    "pincode": "283113",
+    "phone_number": "+91 97195 71886",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 30,
+    "address": "Sadar bazar, Bah, Uttar Pradesh 283104",
+    "area": "Sadar bazar",
+    "latitude": 26.8703386,
+    "longitude": 78.5943805,
+    "place_id": "ChIJeymNoL4tdDkRkt0VjrRLhDI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeymNoL4tdDkRkt0VjrRLhDI",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 05:58:40"
+  },
+  {
+    "business_name": "Seema Baghel Building Material",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "283113",
+    "phone_number": "+91 97191 95988",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 23, Men Road, Fatehabad, Bhari Nagla, Uttar Pradesh 283113",
+    "area": "283113",
+    "latitude": 26.9245484,
+    "longitude": 78.41706409999999,
+    "place_id": "ChIJ2amNCdc7dDkRI-BNtcmqv5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2amNCdc7dDkRI-BNtcmqv5o",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 05:58:40"
+  }
+]

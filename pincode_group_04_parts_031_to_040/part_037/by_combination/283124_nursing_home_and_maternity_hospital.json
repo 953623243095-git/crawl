@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shanti nursing home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Nursing home",
+    "all_categories": "Nursing home, Maternity Centre",
+    "pincode": "283124",
+    "phone_number": "+91 94121 73144",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Palika bazar, Aligarh Rd, Hathras, Uttar Pradesh 204101",
+    "area": "Nehru Colony",
+    "latitude": 27.5988951,
+    "longitude": 78.0503042,
+    "place_id": "ChIJ4Z99SzCbdDkRNc7BzSswLwA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Z99SzCbdDkRNc7BzSswLwA",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:11:49"
+  },
+  {
+    "business_name": "Amrit Maternity and Child Care Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Children's hospital",
+    "all_categories": "Children's hospital, Maternity Centre",
+    "pincode": "283124",
+    "phone_number": "+91 98371 13866",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "E 13, Dayal Bagh Rd, near dayal lodge, Nagla Padi, Indra Puri, New Agra Colony, Agra, Uttar Pradesh 282005",
+    "area": "Nagla Padi, Indra Puri, New Agra Colony",
+    "latitude": 27.212239999999998,
+    "longitude": 78.0060142,
+    "place_id": "ChIJAR3TR1p3dDkRIXGxZjvTwrk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAR3TR1p3dDkRIXGxZjvTwrk",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:11:51"
+  }
+]

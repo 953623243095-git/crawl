@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Book My Virtual Assistant",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant",
+    "pincode": "283126",
+    "phone_number": "+91 97185 18564",
+    "website": "http://bookmyvirtualassistant.com/",
+    "rating": 4.8,
+    "reviews_count": 20,
+    "address": "A-59, Block A, Wazirpur Industrial Area, Ashok Vihar, Delhi, 110052",
+    "area": "Block A, Wazirpur Industrial Area, Ashok Vihar",
+    "latitude": 28.6984103,
+    "longitude": 77.1638366,
+    "place_id": "ChIJrTrgMhgCDTkRWbPHTZ57ph8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrTrgMhgCDTkRWbPHTZ57ph8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:17:04"
+  },
+  {
+    "business_name": "Baghel Consultancy Services",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Office equipment repair service",
+    "all_categories": "Office equipment repair service, Bus ticket agency, Computer Hardware Company, Insurance agency, Security system installation service, Software company",
+    "pincode": "283126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "73 -Sheetla Dham, DayalBagh, Agra, Uttar Pradesh 282005",
+    "area": "Ram Mohan Vihar, DayalBagh",
+    "latitude": 27.228216399999997,
+    "longitude": 78.0005285,
+    "place_id": "ChIJEYUBXWt5dDkRUdDRv_1l-Dc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEYUBXWt5dDkRUdDRv_1l-Dc",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:17:05"
+  }
+]

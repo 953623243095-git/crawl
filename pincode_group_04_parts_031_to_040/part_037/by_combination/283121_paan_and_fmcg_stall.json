@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manish Paan Bhandar",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Tobacco shop",
+    "pincode": "283121",
+    "phone_number": "+91 89237 74535",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Makan 1. Adars Nager Aagra Adrars Nager, Agra, Uttar Pradesh 282005",
+    "area": "Geeta Nagar, Kamla Nagar",
+    "latitude": 27.2189773,
+    "longitude": 78.02937,
+    "place_id": "ChIJV6IBFBpxdDkRUQddS2TCNNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV6IBFBpxdDkRUQddS2TCNNM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:05:52"
+  },
+  {
+    "business_name": "P.K Store And Snacks",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "283121",
+    "phone_number": "+91 89235 22769",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop No.2 Near S.S College Gamri, Jagner Rd, Agra, Uttar Pradesh 283102",
+    "area": "283121",
+    "latitude": 27.1106169,
+    "longitude": 77.9184717,
+    "place_id": "ChIJxxy9yw2LczkRYoqIT9qIFYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxxy9yw2LczkRYoqIT9qIFYk",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:05:55"
+  }
+]

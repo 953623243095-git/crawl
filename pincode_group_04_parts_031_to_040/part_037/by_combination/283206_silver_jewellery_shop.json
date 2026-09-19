@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Girraj Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "283206",
+    "phone_number": "+91 98970 44713",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1, Road, Narkhi, Bartara, Uttar Pradesh 283206",
+    "area": "283206",
+    "latitude": 27.249897599999997,
+    "longitude": 78.4359479,
+    "place_id": "ChIJ27rawOpFdDkRR5Y4Nmu7HPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ27rawOpFdDkRR5Y4Nmu7HPY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:40:41"
+  },
+  {
+    "business_name": "CS jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "283206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "793P+972, Asan, Uttar Pradesh 283203",
+    "area": "283206",
+    "latitude": 27.2533839,
+    "longitude": 78.3856447,
+    "place_id": "ChIJg3s3XQBbdDkRfBCEKqaN7Ko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg3s3XQBbdDkRfBCEKqaN7Ko",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:40:43"
+  }
+]

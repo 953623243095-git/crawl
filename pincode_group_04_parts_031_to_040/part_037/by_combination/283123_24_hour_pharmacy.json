@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashirwad Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "283123",
+    "phone_number": "+91 73107 76672",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "22A, Pushp Enclave, Phase-2, Khatehna Rd, Chauhan Market, Hanuman Nagar, Agra, Uttar Pradesh 282002",
+    "area": "Chauhan Market, Hanuman Nagar",
+    "latitude": 27.1889646,
+    "longitude": 77.98279079999999,
+    "place_id": "ChIJhcG3FQx3dDkRrL8TpzsKHe4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhcG3FQx3dDkRrL8TpzsKHe4",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:09:56"
+  },
+  {
+    "business_name": "Tiwari Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "283123",
+    "phone_number": "N/A",
+    "website": "https://www.tiwarimedicalstore.com/",
+    "rating": 3.9,
+    "reviews_count": 12,
+    "address": "5XFJ+R27, Fatehpur Sikri Rd, Near D.C.Vedik College, Nagla Prithvinath, Gyaspura, Shahganj, Agra, Uttar Pradesh 282010",
+    "area": "Nagla Prithvinath, Gyaspura, Shahganj",
+    "latitude": 27.1745347,
+    "longitude": 77.98005619999999,
+    "place_id": "ChIJS6w90QN3dDkR7mu_H0GXrMk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS6w90QN3dDkR7mu_H0GXrMk",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:09:58"
+  }
+]

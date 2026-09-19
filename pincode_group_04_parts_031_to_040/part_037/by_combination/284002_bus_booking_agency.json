@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri ram Yatra jhansi",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "284002",
+    "phone_number": "+91 83186 97864",
+    "website": "https://shriramyatra.com/",
+    "rating": 5,
+    "reviews_count": 110,
+    "address": "19, Shastri Nagar, Khati Baba, Jhansi, Uttar Pradesh 284003",
+    "area": "Khati Baba",
+    "latitude": 25.4387594,
+    "longitude": 78.5322104,
+    "place_id": "ChIJ____P-ZwdzkRk7WDFWEXgm8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____P-ZwdzkRk7WDFWEXgm8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:46:26"
+  },
+  {
+    "business_name": "Rai Bus Service Datia",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "284002",
+    "phone_number": "+91 94072 37799",
+    "website": "http://raibus.in/",
+    "rating": 3.7,
+    "reviews_count": 206,
+    "address": "Bus stand Bum mahadev ke pass, Madhya Pradesh 475661",
+    "area": "284002",
+    "latitude": 25.664175099999998,
+    "longitude": 78.46507059999999,
+    "place_id": "ChIJbbkX8g8SdzkRChn6l4Ru6VU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbbkX8g8SdzkRChn6l4Ru6VU",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:46:28"
+  }
+]

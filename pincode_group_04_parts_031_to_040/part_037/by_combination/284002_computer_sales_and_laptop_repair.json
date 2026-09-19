@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CRYSTAL COMPUTER",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer accessories store, Computer store, Computer service, Computer software store, Computer Wholesaler",
+    "pincode": "284002",
+    "phone_number": "+91 99352 00337",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Shop No 1 & 2, 1st Floor, Chaman Ganj, Sipri Bazar, Jhansi, Uttar Pradesh 284003",
+    "area": "Chaman Ganj, Sipri Bazar",
+    "latitude": 25.454039899999998,
+    "longitude": 78.5511049,
+    "place_id": "ChIJ4984gcxxdzkRUywOOjc4i28",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4984gcxxdzkRUywOOjc4i28",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:47:04"
+  },
+  {
+    "business_name": "Vinod Computer and Laptop Repair shop",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "284002",
+    "phone_number": "+91 94512 63962",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "297, inside sainyar gate, Jhansi, Uttar Pradesh 284002",
+    "area": "Khushipura",
+    "latitude": 25.453395,
+    "longitude": 78.5788926,
+    "place_id": "ChIJ0SXi0d93dzkRbj1USP4w1wI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0SXi0d93dzkRbj1USP4w1wI",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:47:04"
+  }
+]

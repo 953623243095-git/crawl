@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swati Tyres",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Tire shop",
+    "pincode": "283141",
+    "phone_number": "+91 70174 95706",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "Shikohabad, Indumai, Uttar Pradesh 283135",
+    "area": "283141",
+    "latitude": 27.123247799999998,
+    "longitude": 78.51728279999999,
+    "place_id": "ChIJyaGuPHVLdDkRtQp5hndUdFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyaGuPHVLdDkRtQp5hndUdFQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:23:12"
+  },
+  {
+    "business_name": "Sai tyres",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "283141",
+    "phone_number": "+91 96757 32811",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "by pass, by pasa, Agra Rd, Mainpuri, Indumai, Uttar Pradesh 283145",
+    "area": "283141",
+    "latitude": 27.123327,
+    "longitude": 78.516936,
+    "place_id": "ChIJsb4JnYKXdTkRBc-44fAaCw8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsb4JnYKXdTkRBc-44fAaCw8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:23:12"
+  }
+]

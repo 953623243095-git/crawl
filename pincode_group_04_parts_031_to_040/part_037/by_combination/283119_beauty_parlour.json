@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pooja beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "283119",
+    "phone_number": "+91 99978 99925",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 2,
+    "address": "Purani, sabji Mandi road, Khera Colony, Khairagarh, Agra, Uttar Pradesh 283121",
+    "area": "Khera Colony",
+    "latitude": 26.942609299999997,
+    "longitude": 77.8189112,
+    "place_id": "ChIJUcw26vDzczkR671X-ya2TM0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUcw26vDzczkR671X-ya2TM0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:04:53"
+  },
+  {
+    "business_name": "Albeauty fairness",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler",
+    "pincode": "283119",
+    "phone_number": "+91 91363 39225",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ayodhya Kunj-A, South Arjun Nagar, Dargo Ka Nagla, Shahganj, Agra, Uttar Pradesh 282001",
+    "area": "Ayodhya Kunj-A, South Arjun Nagar, Dargo Ka Nagla, Shahganj",
+    "latitude": 27.1647717,
+    "longitude": 77.9846237,
+    "place_id": "ChIJDc09uZF3dDkRt-b2h6QZnMk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDc09uZF3dDkRt-b2h6QZnMk",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:04:56"
+  }
+]

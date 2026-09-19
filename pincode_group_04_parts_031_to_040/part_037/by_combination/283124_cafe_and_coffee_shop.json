@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cafe Town",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "283124",
+    "phone_number": "+91 79060 41653",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Rohta Bagh, New Suraksha Vihar Phase 1, Rohta, Agra, Uttar Pradesh 282009",
+    "area": "Rohta Bagh, New Suraksha Vihar Phase 1",
+    "latitude": 27.1117571,
+    "longitude": 77.9995035,
+    "place_id": "ChIJrWTTUwB1dDkR1dJVrnydjzs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrWTTUwB1dDkR1dJVrnydjzs",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:11:35"
+  },
+  {
+    "business_name": "The Hangout Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Restaurant",
+    "pincode": "283124",
+    "phone_number": "+91 87552 08360",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Plot No 4, Anupam Shaurya Vihar, Bamrauli Rd, opp. W Resort, Nainana Jat, Rohta, Uttar Pradesh 282009",
+    "area": "Nainana Jat",
+    "latitude": 27.109484199999997,
+    "longitude": 77.99184439999999,
+    "place_id": "ChIJAc_pwyJ1dDkRY24ALNhakaI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAc_pwyJ1dDkRY24ALNhakaI",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:11:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VS Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "283151",
+    "phone_number": "+91 87913 57190",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Front of pili kothi, SIRSAGATE, Kabirpura, Sirsaganj, Uttar Pradesh 283151",
+    "area": "SIRSAGATE, Kabirpura",
+    "latitude": 27.0556277,
+    "longitude": 78.6851923,
+    "place_id": "ChIJzYSsegDLdTkRIW0eF8fWFMw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzYSsegDLdTkRIW0eF8fWFMw",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:28:09"
+  },
+  {
+    "business_name": "Vidhi jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "283151",
+    "phone_number": "+91 70174 93646",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "K.I College market, Araon Rd, Sirsaganj, Uttar Pradesh 283151",
+    "area": "283151",
+    "latitude": 27.064484,
+    "longitude": 78.6863475,
+    "place_id": "ChIJjSe8egDLdTkRyHi0yKriRXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjSe8egDLdTkRyHi0yKriRXk",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:28:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "kushal general store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "283123",
+    "phone_number": "+91 90277 63518",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "vishnu vihar colony, Sewla Sarai, Agra, Uttar Pradesh 282009",
+    "area": "Sewla Sarai, Sewla Jat, Nagla Padma",
+    "latitude": 27.1225269,
+    "longitude": 78.0022323,
+    "place_id": "ChIJQfMaFGB1dDkRUZoHYKhNNvo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQfMaFGB1dDkRUZoHYKhNNvo",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:09:33"
+  },
+  {
+    "business_name": "Rakesh Fast Food And General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "283123",
+    "phone_number": "+91 89586 01303",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Shop No.2 Ambedkar Chauraha Rajakhera Road Pinhat, opp. Ambedkar Park, Agra, Uttar Pradesh 283123",
+    "area": "283123",
+    "latitude": 26.8863563,
+    "longitude": 78.3758172,
+    "place_id": "ChIJt22GTBs9dDkRDROfAOuasGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt22GTBs9dDkRDROfAOuasGE",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:09:34"
+  }
+]

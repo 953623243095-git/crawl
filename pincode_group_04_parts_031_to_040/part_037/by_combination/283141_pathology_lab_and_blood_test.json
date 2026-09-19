@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pathology lab",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Blood testing service",
+    "all_categories": "Blood testing service",
+    "pincode": "283141",
+    "phone_number": "+91 96398 95106",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4FFP+FF2, Makkhanpur, Uttar Pradesh 283145",
+    "area": "283141",
+    "latitude": 27.123537199999998,
+    "longitude": 78.4862301,
+    "place_id": "ChIJMfuwwHNJdDkRlhATSBlEzMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMfuwwHNJdDkRlhATSBlEzMA",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:23:06"
+  },
+  {
+    "business_name": "Astha Pathology Center",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Pathologist",
+    "all_categories": "Pathologist",
+    "pincode": "283141",
+    "phone_number": "+91 92587 95546",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "4, Bypass Rd, Nagar Palika Market, Opposite S.N.M. (Government) Hospital, Comapny Baag, Arya Nagar, Firozabad, Uttar Pradesh 283203",
+    "area": "Nagar Palika Market, Opposite S.N.M. (Government) Hospital, Comapny Baag, Arya Nagar",
+    "latitude": 27.157159399999998,
+    "longitude": 78.3891285,
+    "place_id": "ChIJWdw2MKpGdDkR_gEIphqiqm0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWdw2MKpGdDkR_gEIphqiqm0",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:23:06"
+  }
+]

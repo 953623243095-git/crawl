@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Designer Hub",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "283204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Agra Rd, near royal krishna palace, near State Bank of India, Jalesar, Uttar Pradesh 207302",
+    "area": "283204",
+    "latitude": 27.4642996,
+    "longitude": 78.2953259,
+    "place_id": "ChIJY9mCe571dDkR4vxIJW5p2ow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY9mCe571dDkR4vxIJW5p2ow",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:37:15"
+  },
+  {
+    "business_name": "Shree Radhe Krishna Bengals Store",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer",
+    "pincode": "283204",
+    "phone_number": "+91 63956 11187",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 21,
+    "address": "Tundla, Tundla Kham, Uttar Pradesh 283204",
+    "area": "283204",
+    "latitude": 27.216077199999997,
+    "longitude": 78.23034059999999,
+    "place_id": "ChIJWym4QgBpdDkR4Y1wS2VwN-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWym4QgBpdDkR4Y1wS2VwN-M",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:37:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Garg Traders",
+    "search_category": "Tile and Marble Showroom",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store, Home goods store",
+    "pincode": "283124",
+    "phone_number": "+91 78305 24811",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gwalior Rd, Rohta, Uttar Pradesh 282009",
+    "area": "283124",
+    "latitude": 27.092015699999997,
+    "longitude": 77.9917852,
+    "place_id": "ChIJLWQUJHh1dDkRW5KsGC7ElKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLWQUJHh1dDkRW5KsGC7ElKg",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:12:08"
+  },
+  {
+    "business_name": "Gresbond by Kajaria - Tile Adhesives, Grouts And Cleaners",
+    "search_category": "Tile and Marble Showroom",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store, Building materials supplier, Flooring store, Adhesives & Glue Supplier",
+    "pincode": "283124",
+    "phone_number": "+91 8071 891 590",
+    "website": "https://dealers.gresbondbykajaria.com/gresbond-in-uttar-pradesh-agra-gwalior-road-68183",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Garg Tiles Palace, Chauraha, Gwalior Rd, Sewla Jat, Gopal Pura, Itaura, Agra, Uttar Pradesh 282009",
+    "area": "Sewla Jat, Gopal Pura",
+    "latitude": 27.126914199999998,
+    "longitude": 78.0054263,
+    "place_id": "ChIJ6dGcQcR1dDkRSGHlA2A4PQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6dGcQcR1dDkRSGHlA2A4PQw",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:12:08"
+  }
+]

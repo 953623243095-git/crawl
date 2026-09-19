@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spa Hibiscus Jaypee Palace",
+    "search_category": "Spa",
+    "primary_category": "Spa and health club",
+    "all_categories": "Spa and health club",
+    "pincode": "283125",
+    "phone_number": "+91 1800 843 8430",
+    "website": "https://www.spahibiscusindia.com/jaypee-palace-hotel-agra",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jaypee Palace Hotel, Tajganj, Agra, Tora, Uttar Pradesh 282006",
+    "area": "Tajganj",
+    "latitude": 27.1540286,
+    "longitude": 78.0711419,
+    "place_id": "ChIJf6AJns9xdDkRvvNtglJAKak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf6AJns9xdDkRvvNtglJAKak",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:14:11"
+  },
+  {
+    "business_name": "Green Leaf Luxury Spa in Sikandra Agra",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "283125",
+    "phone_number": "+91 84455 53104",
+    "website": "https://greenleaf.luxuryspa.online/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop No 9, Second Floor, Dwarika Galleria, Kargil Petrol Pump, sector 9, Avas Vikas Colony, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Kargil Petrol Pump, sector 9, Avas Vikas Colony, Sikandra",
+    "latitude": 27.2043075,
+    "longitude": 77.956879,
+    "place_id": "ChIJ9aQVTgV3dDkRJAIQL9k2wls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9aQVTgV3dDkRJAIQL9k2wls",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:14:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "श्री छैलबिहारी गैस्ट हाउस",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "283203",
+    "phone_number": "+91 98377 71568",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "2, Pemeshwar Gate, Adarash Nagar, Rasulpur, Firozabad, Uttar Pradesh 283203",
+    "area": "Adarash Nagar, Rasulpur",
+    "latitude": 27.1426986,
+    "longitude": 78.4022633,
+    "place_id": "ChIJ-2dOTtVHdDkR_TmreRh06mU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-2dOTtVHdDkR_TmreRh06mU",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:36:09"
+  },
+  {
+    "business_name": "Ashok Vatika Restaurant",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house, Cafe",
+    "pincode": "283203",
+    "phone_number": "+91 97600 15612",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 75,
+    "address": "59JR+HR7, Jalesar Rd, Gopal Nagar, Firozabad, Kakrau, Uttar Pradesh 283203",
+    "area": "Gopal Nagar",
+    "latitude": 27.1814075,
+    "longitude": 78.3920558,
+    "place_id": "ChIJ7VfeK2pFdDkRNHyNfNu8pJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7VfeK2pFdDkRNHyNfNu8pJ8",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:36:11"
+  }
+]

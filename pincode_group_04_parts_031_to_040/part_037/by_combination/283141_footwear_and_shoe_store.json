@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kartik Shoes Centre And General Store",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "283141",
+    "phone_number": "+91 96756 74631",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop NO, Sadar Bajar Road, Makkhanpur, Mohammdpur Nawada, Uttar Pradesh 283145",
+    "area": "283141",
+    "latitude": 27.1231273,
+    "longitude": 78.492631,
+    "place_id": "ChIJxRmDpixJdDkRmc2l9A2yJno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxRmDpixJdDkRmc2l9A2yJno",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:22:55"
+  },
+  {
+    "business_name": "Kaif boot house",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "283141",
+    "phone_number": "+91 63979 78697",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shri ram complex, choraha, Tundla, Tundli, Uttar Pradesh 283204",
+    "area": "choraha",
+    "latitude": 27.226842599999998,
+    "longitude": 78.242916,
+    "place_id": "ChIJXfmSH6FpdDkRQ_VUOwSXZDk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXfmSH6FpdDkRQ_VUOwSXZDk",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:22:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "the sameer unisex salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "283142",
+    "phone_number": "+91 96277 84233",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "shop no 4, Bah, Uttar Pradesh 283104",
+    "area": "283142",
+    "latitude": 26.867689199999997,
+    "longitude": 78.59498839999999,
+    "place_id": "ChIJf9VSGzAtdDkRRhkCrcpxBVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf9VSGzAtdDkRRhkCrcpxBVU",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:25:15"
+  },
+  {
+    "business_name": "Raj hair salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser",
+    "pincode": "283142",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sirsaganj, Dayagang, Uttar Pradesh 283151",
+    "area": "283142",
+    "latitude": 27.0648357,
+    "longitude": 78.69771109999999,
+    "place_id": "ChIJPXhc45LLdTkRIbdUsotarSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPXhc45LLdTkRIbdUsotarSs",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:25:16"
+  }
+]

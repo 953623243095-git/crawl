@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay tire and tube repairing bike and cars",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "283204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Raja Ka Taal, Uttar Pradesh 283203",
+    "area": "283204",
+    "latitude": 27.184096399999998,
+    "longitude": 78.35110449999999,
+    "place_id": "ChIJT8krrr1DdDkRPr71aQibDmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT8krrr1DdDkRPr71aQibDmM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:37:32"
+  },
+  {
+    "business_name": "Sanu Cycle Shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "283204",
+    "phone_number": "+91 87918 10409",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Tumdla, 5, Line Par Shobha, Ram Ka Ahata, Tundla, Uttar Pradesh 283204",
+    "area": "Ram Ka Ahata",
+    "latitude": 27.2056909,
+    "longitude": 78.2385366,
+    "place_id": "ChIJ0yAfvaRpdDkRIZYAuKCeMaw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0yAfvaRpdDkRIZYAuKCeMaw",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:37:33"
+  }
+]

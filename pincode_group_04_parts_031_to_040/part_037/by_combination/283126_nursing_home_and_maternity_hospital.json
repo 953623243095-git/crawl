@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jagdamba Mother and Child Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "283126",
+    "phone_number": "+91 89790 89847",
+    "website": "http://jagdambahospital.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "124, sector 7 Awas Vikas colony, Bodla, Agra, Uttar Pradesh 282007",
+    "area": "Sector 7, Bodla, Lohamandi",
+    "latitude": 27.19522,
+    "longitude": 77.96535999999999,
+    "place_id": "ChIJBbVLZk13dDkRe2uAUqyvQyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBbVLZk13dDkRe2uAUqyvQyQ",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:15:41"
+  },
+  {
+    "business_name": "Santosh nursing home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital",
+    "pincode": "283126",
+    "phone_number": "+91 92198 85795",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Khandari Rd, Kunwar Colony, Nasirabad Colony, Khandari, Agra, Uttar Pradesh 282002",
+    "area": "Kunwar Colony, Nasirabad Colony, Khandari",
+    "latitude": 27.207569399999997,
+    "longitude": 77.9960863,
+    "place_id": "ChIJA_PJ_Gd3dDkRIRXyn1-x0tc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA_PJ_Gd3dDkRIRXyn1-x0tc",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:15:41"
+  }
+]

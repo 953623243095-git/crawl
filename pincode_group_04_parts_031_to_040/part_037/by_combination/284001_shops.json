@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji distributors",
+    "search_category": "Shops",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store",
+    "pincode": "284001",
+    "phone_number": "+91 91408 59975",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Godam no 1 Mudita Godam, nearby Maharaja Agrasen school, Jhansi, Uttar Pradesh 284003",
+    "area": "Rajghat Colony",
+    "latitude": 25.457254,
+    "longitude": 78.524873,
+    "place_id": "ChIJE1t1Ts1xdzkRw4Bpeith9pY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE1t1Ts1xdzkRw4Bpeith9pY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:45:44"
+  },
+  {
+    "business_name": "DELL STORE",
+    "search_category": "Shops",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "284001",
+    "phone_number": "+91 94150 31482",
+    "website": "http://www.dell.com/in/en",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "258, STO Rd, Civil Lines, Jhansi, Uttar Pradesh 284001",
+    "area": "Civil Lines",
+    "latitude": 25.4436009,
+    "longitude": 78.5711204,
+    "place_id": "ChIJLdvkJCx3dzkRU0_yFU0d2jY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLdvkJCx3dzkRU0_yFU0d2jY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:45:44"
+  }
+]

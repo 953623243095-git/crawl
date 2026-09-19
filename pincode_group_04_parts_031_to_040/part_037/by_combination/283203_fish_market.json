@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "@Love_food_India",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market",
+    "pincode": "283203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nagla turakhia, nearby Nuri masjid, Arya Nagar, Firozabad, Uttar Pradesh 283203",
+    "area": "Arya Nagar",
+    "latitude": 27.1591961,
+    "longitude": 78.3957331,
+    "place_id": "ChIJM_AsCZ9HdDkRhDr2hqrdWQo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM_AsCZ9HdDkRhDr2hqrdWQo",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:35:06"
+  },
+  {
+    "business_name": "MEENU INDIA",
+    "search_category": "Fish Market",
+    "primary_category": "Glassware manufacturer",
+    "all_categories": "Glassware manufacturer, Aquarium, Glass industry, Glass shop, Home goods store",
+    "pincode": "283203",
+    "phone_number": "+91 92246 23095",
+    "website": "http://www.meenuglasscompany.in/",
+    "rating": 4.4,
+    "reviews_count": 23,
+    "address": "near, Bus Stand Rd, Jain Mandir, Agra Gate, Subhas Tiraha, Firozabad, Uttar Pradesh 283203",
+    "area": "Jain Mandir, Agra Gate, Subhas Tiraha",
+    "latitude": 27.1646798,
+    "longitude": 78.3669383,
+    "place_id": "ChIJUWnuSKpGdDkRrJ_TPg02PqE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUWnuSKpGdDkRrJ_TPg02PqE",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:35:08"
+  }
+]

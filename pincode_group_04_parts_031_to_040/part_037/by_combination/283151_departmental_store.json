@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "prashant gernal store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "283151",
+    "phone_number": "+91 80572 49931",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sirsaganj - Mainpuri Rd, Sirsaganj, Shikohabad, Uttar Pradesh 283151",
+    "area": "283151",
+    "latitude": 27.055409599999997,
+    "longitude": 78.6907145,
+    "place_id": "ChIJkw26O1HLdTkRjvwIvD1Hd5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkw26O1HLdTkRjvwIvD1Hd5E",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:27:52"
+  },
+  {
+    "business_name": "Atul Gupta Kirana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "283151",
+    "phone_number": "+91 81261 31403",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Gandhi Mandi, 09, Sirsaganj, Uttar Pradesh 205151",
+    "area": "Kabirpura",
+    "latitude": 27.0564564,
+    "longitude": 78.684657,
+    "place_id": "ChIJ2dzYEFDLdTkRVbnC1XyI8sM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2dzYEFDLdTkRVbnC1XyI8sM",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:27:54"
+  }
+]

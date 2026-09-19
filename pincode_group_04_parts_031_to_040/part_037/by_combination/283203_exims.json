@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MI Service Center Firozabad (3ST)",
+    "search_category": "EXIMS",
+    "primary_category": "Repair service",
+    "all_categories": "Repair service, Mobile phone repair shop",
+    "pincode": "283203",
+    "phone_number": "N/A",
+    "website": "https://miservicemanager.mi.com/customer.html",
+    "rating": 4,
+    "reviews_count": 161,
+    "address": "Vimal Jain Complex Near Rotatary Club Suhag Nagar Chaurah, NH2, Jain Nagar, Firozabad, Uttar Pradesh 283203",
+    "area": "Jain Nagar",
+    "latitude": 27.1605863,
+    "longitude": 78.3842942,
+    "place_id": "ChIJTTWrxqVGdDkRaN-OJjWSgFY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTTWrxqVGdDkRaN-OJjWSgFY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:36:42"
+  },
+  {
+    "business_name": "Sharma Fire System",
+    "search_category": "EXIMS",
+    "primary_category": "Fire protection service",
+    "all_categories": "Fire protection service",
+    "pincode": "283203",
+    "phone_number": "+91 98375 81839",
+    "website": "https://sharmafiresystem.co.in/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Shop No.08, near Shiv Mandir, Ganesh Nagar, Suhag Nagar, Firozabad, Uttar Pradesh 283203",
+    "area": "Ganesh Nagar, Suhag Nagar",
+    "latitude": 27.1662282,
+    "longitude": 78.3817244,
+    "place_id": "ChIJ63NDb6RDdDkRZQw9YUWybWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ63NDb6RDdDkRZQw9YUWybWc",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:36:42"
+  }
+]

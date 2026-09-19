@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "forever event planner",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "283141",
+    "phone_number": "+91 87084 85768",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Prem Nagar, Rohtak, Haryana 124001",
+    "area": "Prem Nagar",
+    "latitude": 28.904206,
+    "longitude": 76.593611,
+    "place_id": "ChIJF8nu1X-FDTkR19SsNR_ZpZk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF8nu1X-FDTkR19SsNR_ZpZk",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:23:37"
+  },
+  {
+    "business_name": "V3 Events & Wedding",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Artist, Event management company, Event planner, Wedding service",
+    "pincode": "283141",
+    "phone_number": "+91 85060 00001",
+    "website": "http://www.v3events.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "9, L-25, near by Privat Hospital, DLF Phase 2, Sector 25, Gurugram, Sarhol, Haryana 122002",
+    "area": "DLF Phase 2, Sector 25",
+    "latitude": 28.481304299999998,
+    "longitude": 77.0744527,
+    "place_id": "ChIJraaPijoZDTkRTrHpKHt3D5g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJraaPijoZDTkRTrHpKHt3D5g",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:23:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Old India Cafe And Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "283125",
+    "phone_number": "+91 562 436 6677",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Taj View Crossing, Kripa Dham Complex, Fatehabad Rd, Tourist Complex Area, Near Man Singh Palace, Impeypura, Tajganj, Agra, Uttar Pradesh 282001",
+    "area": "Tourist Complex Area, Near Man Singh Palace, Impeypura, Tajganj",
+    "latitude": 27.1625899,
+    "longitude": 78.0395633,
+    "place_id": "ChIJHcrikolxdDkRWG9g0ZpZ6go",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHcrikolxdDkRWG9g0ZpZ6go",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:13:23"
+  },
+  {
+    "business_name": "V.K.Bartan Bhandar",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Countertop store",
+    "all_categories": "Countertop store, Appliance store, Ceramics wholesaler, Glassware store, Home goods store, Hotel supply store, Kitchen supply store, Wholesaler household appliances",
+    "pincode": "283125",
+    "phone_number": "+91 95482 94712",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 355,
+    "address": "Church Rd, opp. SURESH CHAND DINESH CHAND, Rambagh, Ramnagar Colony, Civil Lines, Agra, Uttar Pradesh 282002",
+    "area": "Rambagh, Ramnagar Colony, Civil Lines",
+    "latitude": 27.2030517,
+    "longitude": 78.00149189999999,
+    "place_id": "ChIJpaLU7UN3dDkR6-ucyiJ6L7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpaLU7UN3dDkR6-ucyiJ6L7Y",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:13:26"
+  }
+]

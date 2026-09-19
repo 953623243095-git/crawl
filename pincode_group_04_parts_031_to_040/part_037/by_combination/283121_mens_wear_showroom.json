@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rayeen Readymade Collection",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store",
+    "pincode": "283121",
+    "phone_number": "+91 96752 44440",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Chauraha, Khairagarh, Uttar Pradesh 283121",
+    "area": "283121",
+    "latitude": 26.9422253,
+    "longitude": 77.8190552,
+    "place_id": "ChIJVV3-R33zczkRFIa0cYes5rg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVV3-R33zczkRFIa0cYes5rg",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:06:03"
+  },
+  {
+    "business_name": "Bhaskar Leather Jacket",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "283121",
+    "phone_number": "+91 90585 57374",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Nagla Udaiya Rd, Khairagarh, Uttar Pradesh 283121",
+    "area": "283121",
+    "latitude": 26.944974499999997,
+    "longitude": 77.8214769,
+    "place_id": "ChIJkZhyN7TzczkRNxERL88sHBY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkZhyN7TzczkRNxERL88sHBY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:06:05"
+  }
+]

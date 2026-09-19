@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bansal Agro Foods",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "283151",
+    "phone_number": "+91 98128 00753",
+    "website": "https://www.bansalagrofoods.com/",
+    "rating": 5,
+    "reviews_count": 70,
+    "address": "Bansal Agro Foods, Pipli Road, near Shivalaya Temple, Town, Babain, Haryana 136156",
+    "area": "Town",
+    "latitude": 30.0647448,
+    "longitude": 76.9767014,
+    "place_id": "ChIJ_7VqNABPDjkRPbMheyDp5aY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_7VqNABPDjkRPbMheyDp5aY",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:29:26"
+  },
+  {
+    "business_name": "A.M.Rice Mills",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "283151",
+    "phone_number": "+91 92159 70800",
+    "website": "http://amricemills.in/",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Sarhali Rd, Pan Gota, Punjab 143410",
+    "area": "283151",
+    "latitude": 31.251246499999997,
+    "longitude": 74.88915589999999,
+    "place_id": "ChIJh--3hbiIGTkRLcusQAEIbxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh--3hbiIGTkRLcusQAEIbxc",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:29:27"
+  }
+]

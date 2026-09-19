@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Moti Auto",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "283201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1.7,
+    "reviews_count": 6,
+    "address": "10, Amba Prasad Rd, Madiya Katra,, Sector 1, Alam Ganj, Lohamandi, Agra, Uttar Pradesh 282007",
+    "area": "Madiya Katra,, Sector 1, Alam Ganj, Lohamandi",
+    "latitude": 27.189895,
+    "longitude": 77.9664675,
+    "place_id": "ChIJEaw_tKN3dDkR0vbI5Lu1-Y4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEaw_tKN3dDkR0vbI5Lu1-Y4",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:32:07"
+  },
+  {
+    "business_name": "Tata Motors - Ashok Auto",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Truck dealer",
+    "all_categories": "Truck dealer, Truck parts supplier, Truck repair shop",
+    "pincode": "283201",
+    "phone_number": "+91 84849 32364",
+    "website": "https://commercial-vehicles.fleetverse.tatamotors.com/tata-motors-commercial-vehicle-dealer-ashok-auto-sales-ltd-truck-dealers-sadabad-hathras-189585/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Hathras Rd, near Agarwal Cold, Sadabad, Hathras, Uttar Pradesh 281306",
+    "area": "283201",
+    "latitude": 27.4525471,
+    "longitude": 78.0404708,
+    "place_id": "ChIJYaM3QiCHdDkRr6fQ93XDrXg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYaM3QiCHdDkRr6fQ93XDrXg",
+    "part_id": "part_037",
+    "crawled_at": "2026-09-19 06:32:07"
+  }
+]
