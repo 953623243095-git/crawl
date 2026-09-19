@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jeet Book Seller",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "263637",
+    "phone_number": "+91 96348 85727",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Sher Singh Rana Chowk, Old, Railway Rd, Mathura Vihar Colony, Veer Bhawan Nagar, Roorkee, Uttarakhand 247667",
+    "area": "Mathura Vihar Colony, Veer Bhawan Nagar",
+    "latitude": 29.8732977,
+    "longitude": 77.8821545,
+    "place_id": "ChIJ25ZkIYCzDjkRoRviVrYqiI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ25ZkIYCzDjkRoRviVrYqiI8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:42:53"
+  },
+  {
+    "business_name": "Saraswati Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "263637",
+    "phone_number": "+91 135 275 0661",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 11,
+    "address": "82MG+GFH, Kaulagarh Rd, Anand Vihar Colony, Dehradun, Uttarakhand 248001",
+    "area": "Anand Vihar Colony",
+    "latitude": 30.333810999999997,
+    "longitude": 78.026224,
+    "place_id": "ChIJ8zOaO_opCTkR2gUqRMaWWhs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8zOaO_opCTkR2gUqRMaWWhs",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:42:55"
+  }
+]

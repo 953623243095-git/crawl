@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khaime (dhura)",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "263625",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HP35+9MR, Khaime, Dhura, Uttarakhand 263625",
+    "area": "Khaime",
+    "latitude": 29.553488299999998,
+    "longitude": 79.7091368,
+    "place_id": "ChIJwc7iJFW5oDkRIQA7VeVU-I8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwc7iJFW5oDkRIQA7VeVU-I8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:21:38"
+  },
+  {
+    "business_name": "Lucky",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "263625",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HMQ2+3MC, Dugalkhola, Almora, Uttarakhand 263601",
+    "area": "Dugalkhola",
+    "latitude": 29.5876922,
+    "longitude": 79.6516268,
+    "place_id": "ChIJ8QGCIAC3oDkRan-ckqk5BtM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8QGCIAC3oDkRan-ckqk5BtM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:21:38"
+  }
+]

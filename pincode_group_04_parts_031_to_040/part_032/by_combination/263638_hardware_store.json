@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Negi Hardware",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "263638",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "PP43+C58, Basoli pul market, Uttarakhand 263601",
+    "area": "Basoli pul market",
+    "latitude": 29.7060325,
+    "longitude": 79.7029652,
+    "place_id": "ChIJe1hScqi1oDkRNRM1cj5uvVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe1hScqi1oDkRNRM1cj5uvVk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:44:15"
+  },
+  {
+    "business_name": "भाकुनी हार्डवेयर,ऐड टाइल्स सैनिटरी,बासौली",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "263638",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "मैंने मार्केट, बासौली, Basoli pul market, Uttarakhand 263601",
+    "area": "बासौली, Basoli pul market",
+    "latitude": 29.7059711,
+    "longitude": 79.7036121,
+    "place_id": "ChIJ79jAe761oDkR9RgxrWf56Pg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ79jAe761oDkR9RgxrWf56Pg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:44:15"
+  }
+]

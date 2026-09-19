@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jeet market",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "263631",
+    "phone_number": "+91 97600 60637",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jeet Market, Beach Goan, Dobhal Chowk, Nehrugram, Dehradun, Uttarakhand 248014",
+    "area": "Dobhal Chowk, Nehrugram",
+    "latitude": 30.2990601,
+    "longitude": 78.0816646,
+    "place_id": "ChIJw8MIPnIpCTkRHNeUYlm8sz0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw8MIPnIpCTkRHNeUYlm8sz0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:30:39"
+  },
+  {
+    "business_name": "Satya Hari rice ind",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill, Agricultural service",
+    "pincode": "263631",
+    "phone_number": "+91 98376 66680",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "near hotel manor, Vaishali Colony, Kashipur, Uttarakhand 244713",
+    "area": "Vaishali Colony",
+    "latitude": 29.1973201,
+    "longitude": 78.97264779999999,
+    "place_id": "ChIJZXm8n1RCCjkRbSMeBtqKV1I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZXm8n1RCCjkRbSMeBtqKV1I",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:30:40"
+  }
+]

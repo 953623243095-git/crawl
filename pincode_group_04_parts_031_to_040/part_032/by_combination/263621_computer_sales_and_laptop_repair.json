@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Binary world",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Camera store, Cell phone accessory store, Printer repair service",
+    "pincode": "263621",
+    "phone_number": "+91 97565 02457",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 18,
+    "address": "near nanital bank, Dwarahat, Uttarakhand 263653",
+    "area": "263621",
+    "latitude": 29.7753114,
+    "longitude": 79.4302458,
+    "place_id": "ChIJd9LF_YJVpzkR0OTytIMEH4I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd9LF_YJVpzkR0OTytIMEH4I",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:15:25"
+  },
+  {
+    "business_name": "NamoTech",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer accessories store, Computer Hardware Company, Computer service, Computer Wholesaler, Desktop publishing service, Used computer store",
+    "pincode": "263621",
+    "phone_number": "+91 99233 28757",
+    "website": "http://www.gadgetsinbudgets.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "464/A Narayn Peth Near Lokande Talim Kastacha Bol Patrya Maruti Chowk, Pune, Maharashtra 411030",
+    "area": "Bhatancha Bol, Narayan Peth",
+    "latitude": 18.5154619,
+    "longitude": 73.8518991,
+    "place_id": "ChIJx8wPT3DAwjsRAmK5b_zDCZ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx8wPT3DAwjsRAmK5b_zDCZ0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:15:27"
+  }
+]

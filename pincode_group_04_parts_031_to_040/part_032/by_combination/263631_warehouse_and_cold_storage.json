@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star Malti Service",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "263631",
+    "phone_number": "+91 90127 88005",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Qazibag street, Dr Line, near bandook chaiyan masjid, Kashipur, Uttarakhand 244713",
+    "area": "263631",
+    "latitude": 29.2161349,
+    "longitude": 78.9573918,
+    "place_id": "ChIJY4EDruZDCjkRIrP-3NyCJRI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY4EDruZDCjkRIrP-3NyCJRI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:32:12"
+  },
+  {
+    "business_name": "Central Warehouse-Kashipur-II",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "263631",
+    "phone_number": "N/A",
+    "website": "http://www.cewacor.nic.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Kashipur, Uttarakhand 244713",
+    "area": "263631",
+    "latitude": 29.209975699999998,
+    "longitude": 78.94044939999999,
+    "place_id": "ChIJh_l9eZJDCjkReK8sSZTujwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh_l9eZJDCjkReK8sSZTujwo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:32:12"
+  }
+]

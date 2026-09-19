@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Malhotra Tyres",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop, Auto parts store",
+    "pincode": "263160",
+    "phone_number": "+91 96399 99213",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "Dineshpur Rd, Kalinagar, Rudrapur, Jainagar, Uttarakhand 263160",
+    "area": "Kalinagar",
+    "latitude": 29.0419348,
+    "longitude": 79.3633267,
+    "place_id": "ChIJbcxa4nV_CjkRu-B5CZpafSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbcxa4nV_CjkRu-B5CZpafSg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:07:23"
+  },
+  {
+    "business_name": "Yokohama Club Network - Anand Alloys, Haridwar",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop, Tire repair shop, Wheel alignment service, Wheel store",
+    "pincode": "263160",
+    "phone_number": "+91 95948 20319",
+    "website": "https://stores.yokohama-india.com/tyre-shop-haridwar-haridwar-32071/home",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Jwalapur Railway Station Rd, near Main Post Office, Jwalapur, Haridwar, Uttarakhand 249407",
+    "area": "263160",
+    "latitude": 29.9266091,
+    "longitude": 78.1166045,
+    "place_id": "ChIJ61jv4fxHCTkRn5-BfYW3wOE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ61jv4fxHCTkRn5-BfYW3wOE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:07:23"
+  }
+]

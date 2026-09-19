@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Western union",
+    "search_category": "Money Transfer and Forex",
+    "primary_category": "Money transfer service",
+    "all_categories": "Money transfer service",
+    "pincode": "263622",
+    "phone_number": "N/A",
+    "website": "http://westernunion.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HMV3+M9P, Paltan Bazar, Dharanaula, Sarso, Almora, Uttarakhand 263601",
+    "area": "Paltan Bazar, Dharanaula",
+    "latitude": 29.594216099999997,
+    "longitude": 79.65344379999999,
+    "place_id": "ChIJ77SqiMq3oDkR0xw43Ci3-JY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ77SqiMq3oDkR0xw43Ci3-JY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:17:17"
+  },
+  {
+    "business_name": "Transcorp International Limited",
+    "search_category": "Money Transfer and Forex",
+    "primary_category": "Currency exchange service",
+    "all_categories": "Currency exchange service",
+    "pincode": "263622",
+    "phone_number": "+91 93197 10189",
+    "website": "http://transcorpint.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "19, Kwality Complex, Rajpur Rd, Chukkuwala, Dehradun, Uttarakhand 248001",
+    "area": "Chukkuwala",
+    "latitude": 30.327723,
+    "longitude": 78.045028,
+    "place_id": "ChIJGUHUg8EpCTkR0rOo3kLiaS0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGUHUg8EpCTkR0rOo3kLiaS0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:17:18"
+  }
+]

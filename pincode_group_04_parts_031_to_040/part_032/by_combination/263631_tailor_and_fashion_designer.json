@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fine Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "263631",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "QCGJ+6QH, Dwarahat, Uttarakhand 263653",
+    "area": "263631",
+    "latitude": 29.7755685,
+    "longitude": 79.4319853,
+    "place_id": "ChIJV-B5W_lUpzkRxQIGy4AOIr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV-B5W_lUpzkRxQIGy4AOIr4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:30:52"
+  },
+  {
+    "business_name": "Vijay Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "263631",
+    "phone_number": "+91 94101 24691",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Near Gas Agency, 66, Main Market, Ekeshwar, Uttarakhand 246131",
+    "area": "263631",
+    "latitude": 29.9433954,
+    "longitude": 78.81550759999999,
+    "place_id": "ChIJ1fWt_bqbCTkRL8HFaVxlbUY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1fWt_bqbCTkRL8HFaVxlbUY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:30:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deeksha General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "263625",
+    "phone_number": "+91 94100 50516",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "GQH5+5R8, Almora Range, Bashar, Uttarakhand 263625",
+    "area": "263625",
+    "latitude": 29.5277818,
+    "longitude": 79.75831389999999,
+    "place_id": "ChIJl2uXdQDHoDkRVAsqMMaeuL0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl2uXdQDHoDkRVAsqMMaeuL0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:21:32"
+  },
+  {
+    "business_name": "Asgola General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "263625",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "FP59+6PP, Motiyapathar, in front of Motiyapathar Post office, Nata Dol, Uttarakhand 263625",
+    "area": "263625",
+    "latitude": 29.458087199999998,
+    "longitude": 79.7193363,
+    "place_id": "ChIJI-ynsce_oDkRU0m4HlRwAgM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI-ynsce_oDkRU0m4HlRwAgM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:21:32"
+  }
+]

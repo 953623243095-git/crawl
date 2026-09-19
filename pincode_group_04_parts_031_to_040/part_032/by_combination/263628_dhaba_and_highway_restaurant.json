@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bisht Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "263628",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MMXX+MWM, SH 37, Sunoli Mafi, Uttarakhand 263601",
+    "area": "263628",
+    "latitude": 29.699211299999998,
+    "longitude": 79.6998058,
+    "place_id": "ChIJTaE_agC1oDkRSSF8RbQibVE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTaE_agC1oDkRSSF8RbQibVE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:25:15"
+  },
+  {
+    "business_name": "Hatti Parvat Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "263628",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HH84+P67, Chaien, Uttarakhand 246443",
+    "area": "263628",
+    "latitude": 30.5668255,
+    "longitude": 79.55544189999999,
+    "place_id": "ChIJG5lHQQCFpzkRYucSjQj-0Qs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG5lHQQCFpzkRYucSjQj-0Qs",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:25:16"
+  }
+]

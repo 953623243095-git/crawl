@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Joshi house/Shop",
+    "search_category": "Boutiques",
+    "primary_category": "Housing society",
+    "all_categories": "Housing society",
+    "pincode": "263624",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "JQ9M+PV, Chapar, Uttarakhand 263623",
+    "area": "263624",
+    "latitude": 29.6192618,
+    "longitude": 79.7846453,
+    "place_id": "ChIJz0bjWQDJoDkR_qiYRyOxSAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz0bjWQDJoDkR_qiYRyOxSAk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:19:56"
+  },
+  {
+    "business_name": "Arun Tarun work shop",
+    "search_category": "Boutiques",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "263624",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chittora Saraikhet main road, Uttrakhand, Bintola Malla, Uttarakhand 263601",
+    "area": "263624",
+    "latitude": 29.639498999999997,
+    "longitude": 79.6726632,
+    "place_id": "ChIJJ8k0LfW3oDkRvETePA68nSM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ8k0LfW3oDkRvETePA68nSM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:19:59"
+  }
+]

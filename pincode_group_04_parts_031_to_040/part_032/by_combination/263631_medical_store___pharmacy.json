@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepak Medicos",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store, Medical Center",
+    "pincode": "263631",
+    "phone_number": "+91 94109 17878",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "Garur - Bageshwar Rd, Baijnath, Matena, Uttarakhand 263641",
+    "area": "263631",
+    "latitude": 29.901819,
+    "longitude": 79.6140855,
+    "place_id": "ChIJk65zxOJPpzkRbx1jzt5MVLM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk65zxOJPpzkRbx1jzt5MVLM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:30:58"
+  },
+  {
+    "business_name": "NEW BISHT MEDICAL STORE",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "263631",
+    "phone_number": "+91 75003 02880",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "NH 7, Rudraprayag, Uttarakhand 246171",
+    "area": "263631",
+    "latitude": 30.2851581,
+    "longitude": 78.9835812,
+    "place_id": "ChIJG0IIpVe3CTkRLi64VryXnM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG0IIpVe3CTkRLi64VryXnM8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:30:58"
+  }
+]

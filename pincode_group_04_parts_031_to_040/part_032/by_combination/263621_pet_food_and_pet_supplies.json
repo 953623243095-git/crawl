@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pets Heaven",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "263621",
+    "phone_number": "+91 92595 12444",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 201,
+    "address": "Shop no : 18, Gol Market, Saket, Meerut, Uttar Pradesh 250001",
+    "area": "Saket",
+    "latitude": 28.9876997,
+    "longitude": 77.7276918,
+    "place_id": "ChIJRYyitt5kDDkRhDbS6v6qdPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRYyitt5kDDkRhDbS6v6qdPw",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:14:08"
+  },
+  {
+    "business_name": "Indian pet hub",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "263621",
+    "phone_number": "+91 97600 19069",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 163,
+    "address": "41, 54, near Ganga Ram Hospital, Sadar Bazar, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Sadar Bazar",
+    "latitude": 29.470943899999998,
+    "longitude": 77.7008694,
+    "place_id": "ChIJ1UCQ9j4bDDkRIuAhnAzMnEs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1UCQ9j4bDDkRIuAhnAzMnEs",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:14:08"
+  }
+]

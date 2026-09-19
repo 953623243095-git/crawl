@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pristine plus cleaning services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Janitorial service",
+    "all_categories": "Janitorial service, Carpet cleaning service, Service establishment, Floor refinishing service, House cleaning service",
+    "pincode": "263638",
+    "phone_number": "N/A",
+    "website": "https://www.pristineplus.net/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Pristine plus cleaning services, 263638, India",
+    "area": "263638",
+    "latitude": 37.7331735,
+    "longitude": -121.8614085,
+    "place_id": "ChIJNdmhvgBV0oERWtiKgfm8LcU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNdmhvgBV0oERWtiKgfm8LcU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:44:58"
+  },
+  {
+    "business_name": "MOTANS GROUP",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Security service",
+    "all_categories": "Security service, Service establishment",
+    "pincode": "263638",
+    "phone_number": "N/A",
+    "website": "https://www.motansgroup.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MOTANS GROUP, 263638, India",
+    "area": "263638",
+    "latitude": 27.700176799999998,
+    "longitude": 76.49244259999999,
+    "place_id": "ChIJeWsBf-bJr60R5M453Vz27sc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeWsBf-bJr60R5M453Vz27sc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:44:59"
+  }
+]

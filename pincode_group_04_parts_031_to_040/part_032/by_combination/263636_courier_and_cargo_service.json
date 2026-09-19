@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gewapani",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Shipping and mailing service",
+    "all_categories": "Shipping and mailing service",
+    "pincode": "263636",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MH6W+62, Maini, Uttarakhand 263643",
+    "area": "263636",
+    "latitude": 29.6606292,
+    "longitude": 79.59506739999999,
+    "place_id": "ChIJMbp2HQCzoDkRaFKzb9lDRwg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMbp2HQCzoDkRaFKzb9lDRwg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:41:14"
+  },
+  {
+    "business_name": "Gewapani post service",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "263636",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MH5W+C2, Panch Gaon, Uttarakhand 263643",
+    "area": "263636",
+    "latitude": 29.6585203,
+    "longitude": 79.5950009,
+    "place_id": "ChIJp1VQUQCzoDkRX5a2vezevyo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp1VQUQCzoDkRX5a2vezevyo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:41:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prawasi Cafe",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "263632",
+    "phone_number": "+91 77984 34295",
+    "website": "https://prawasi-cafe.grexa.site/",
+    "rating": 4.8,
+    "reviews_count": 14,
+    "address": "मल्लादेश फरसाली, Almora-Bageshwar-Munsyari Rd, Uttarakhand 263679",
+    "area": "263632",
+    "latitude": 29.967397899999998,
+    "longitude": 79.9574337,
+    "place_id": "ChIJMe_FV2QlpzkRz7rmZPVh7xo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMe_FV2QlpzkRz7rmZPVh7xo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:32:36"
+  },
+  {
+    "business_name": "Karmi Vinayak",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "263632",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3V9J+4FF, Baghar, Uttarakhand 263632",
+    "area": "263632",
+    "latitude": 30.067806299999997,
+    "longitude": 79.8811987,
+    "place_id": "ChIJbc2rNwA9pzkR458jnxYBNYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbc2rNwA9pzkR458jnxYBNYE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:32:39"
+  }
+]

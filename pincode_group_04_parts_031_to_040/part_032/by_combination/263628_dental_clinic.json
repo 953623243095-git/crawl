@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Medical Store",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "263628",
+    "phone_number": "+91 75360 62144",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Someshwar-Girechhina-Bageshwar Rd, Dhumargaon Shah, Digra, Uttarakhand 263637",
+    "area": "263628",
+    "latitude": 29.7899815,
+    "longitude": 79.6479537,
+    "place_id": "ChIJv2TVe71NpzkRTJaw1SdX5jk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv2TVe71NpzkRTJaw1SdX5jk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:25:32"
+  },
+  {
+    "business_name": "Nineten",
+    "search_category": "Dental Clinic",
+    "primary_category": "Medical Equipment Manufacturer",
+    "all_categories": "Medical Equipment Manufacturer",
+    "pincode": "263628",
+    "phone_number": "+91 83848 50139",
+    "website": "http://nineten.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "E124, Nehru Colony, Dharampur, Dehradun, Uttarakhand 248001",
+    "area": "Nehru Colony, Dharampur",
+    "latitude": 30.299115999999998,
+    "longitude": 78.053197,
+    "place_id": "ChIJ94mrcuQpCTkRCsDkudVh7Ow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ94mrcuQpCTkRCsDkudVh7Ow",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:25:34"
+  }
+]

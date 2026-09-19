@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sakthivel Traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Home goods store",
+    "pincode": "263632",
+    "phone_number": "+91 98658 21234",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "S.No, 265, 4, Road, Muthial Reddy Nagar, Usha Nagar, Vanuvampet, Adambakkam, Chennai, Tamil Nadu 600091",
+    "area": "Muthial Reddy Nagar, Usha Nagar, Vanuvampet, Adambakkam",
+    "latitude": 12.9795246,
+    "longitude": 80.2006227,
+    "place_id": "ChIJkdqPWfBdUjoRI6kyiIY7GqE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkdqPWfBdUjoRI6kyiIY7GqE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:32:30"
+  },
+  {
+    "business_name": "Tirupati Agri Trade Pvt Ltd.",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company, Rice mill",
+    "pincode": "263632",
+    "phone_number": "+91 33 2641 0240",
+    "website": "http://foodvillagroup.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "362, Belilious Rd, Kadam Tala, Howrah, West Bengal 711101",
+    "area": "Kadam Tala",
+    "latitude": 22.5868641,
+    "longitude": 88.33423529999999,
+    "place_id": "ChIJAQDMr5J3AjoRrRKibi3qkHs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQDMr5J3AjoRrRKibi3qkHs",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:32:32"
+  }
+]

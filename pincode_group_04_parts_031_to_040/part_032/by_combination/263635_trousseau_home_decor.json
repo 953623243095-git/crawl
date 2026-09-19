@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Home",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "263635",
+    "phone_number": "N/A",
+    "website": "https://www.lastclues.com/homestay/mohit-homestay",
+    "rating": 4.3,
+    "reviews_count": 7,
+    "address": "RQRH+44R, Matiyoli, Namtichetabagar, Uttarakhand 263642",
+    "area": "Matiyoli",
+    "latitude": 29.840373099999997,
+    "longitude": 79.77775439999999,
+    "place_id": "ChIJYbSbOxE1pzkR6uHb1hFYdNg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYbSbOxE1pzkR6uHb1hFYdNg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:39:01"
+  },
+  {
+    "business_name": "A One Decor bageswar",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "263635",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RQR9+4QV, pindari road, near indor stadium, Bageshwar, Bari Khalsa, Uttarakhand 263642",
+    "area": "263635",
+    "latitude": 29.8403606,
+    "longitude": 79.769426,
+    "place_id": "ChIJ0a6CUgA1pzkRXAoM81-LoxE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0a6CUgA1pzkRXAoM81-LoxE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:39:01"
+  }
+]

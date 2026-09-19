@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arpit Sharma",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "263159",
+    "phone_number": "+91 89419 93537",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "JASPURIA LINE, near pnb bank, TP Nagar, Ramnagar, Uttarakhand 244715",
+    "area": "TP Nagar",
+    "latitude": 29.393061199999998,
+    "longitude": 79.1267362,
+    "place_id": "ChIJSec1SFUTCjkR58a6PKPp2N4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSec1SFUTCjkR58a6PKPp2N4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:05:17"
+  },
+  {
+    "business_name": "Sunayan opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "263159",
+    "phone_number": "+91 94123 06648",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sadar Bazaar Rd, opposite Head Post Office, Ranikhet, Khari Bazar, Ranikhet, Uttarakhand 263645",
+    "area": "Khari Bazar",
+    "latitude": 29.643084499999997,
+    "longitude": 79.43397999999999,
+    "place_id": "ChIJw8TnOrSpoDkR-qs4pqpj9tQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw8TnOrSpoDkR-qs4pqpj9tQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:05:17"
+  }
+]

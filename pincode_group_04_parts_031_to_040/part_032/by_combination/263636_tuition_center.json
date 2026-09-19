@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "V Time Tuition Center",
+    "search_category": "Tuition Center",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "263636",
+    "phone_number": "+91 92881 81512",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Karambathur, Vilathoor, Parudur, Keralam 679305",
+    "area": "Karambathur",
+    "latitude": 10.8463304,
+    "longitude": 76.1165346,
+    "place_id": "ChIJMdpE9nbIpzsRnzIBIVbUR-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMdpE9nbIpzsRnzIBIVbUR-g",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:41:02"
+  },
+  {
+    "business_name": "Bhanu Home Tuition in Chandigarh",
+    "search_category": "Tuition Center",
+    "primary_category": "Tutoring service",
+    "all_categories": "Tutoring service, Private Tutor",
+    "pincode": "263636",
+    "phone_number": "+91 98787 55542",
+    "website": "http://www.bhanuhometuition.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sector 22B, Sector 22, Chandigarh, 160020",
+    "area": "Sector 22B, Sector 22",
+    "latitude": 30.732490499999997,
+    "longitude": 76.7741159,
+    "place_id": "ChIJAQAAwA_sDzkRzLu_cbwCHSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAwA_sDzkRzLu_cbwCHSs",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:41:02"
+  }
+]

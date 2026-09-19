@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Korali band",
+    "search_category": "Shops",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "263622",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 8,
+    "address": "Korali Band, Almora, Chausala, Uttarakhand 263623",
+    "area": "Korali Band",
+    "latitude": 29.5777295,
+    "longitude": 79.880995,
+    "place_id": "ChIJlQeo1jPFoDkRYKgHApafi8w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlQeo1jPFoDkRYKgHApafi8w",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:17:41"
+  },
+  {
+    "business_name": "पाठक जरनल स्टोर",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "263622",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "JW5M+59X, Kheti, Pabhoun, Uttarakhand 263622",
+    "area": "263622",
+    "latitude": 29.6079932,
+    "longitude": 79.93347709999999,
+    "place_id": "ChIJZ-mSh17RoDkRd73_CfJVZNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ-mSh17RoDkRd73_CfJVZNY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:17:41"
+  }
+]

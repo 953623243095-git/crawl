@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri JRG Foods",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "263622",
+    "phone_number": "+91 80 4278 1810",
+    "website": "http://www.jrgfoods.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "G3-8, UPSIDC Industrial Area, Gajraula, Uttar Pradesh 244223",
+    "area": "263622",
+    "latitude": 28.820185,
+    "longitude": 78.223295,
+    "place_id": "ChIJXUnvzhJ0CzkReZLScM6BAhQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXUnvzhJ0CzkReZLScM6BAhQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:17:31"
+  },
+  {
+    "business_name": "Almora Filling Station - Bharat Petroleum",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Petrol Pump",
+    "all_categories": "Petrol Pump",
+    "pincode": "263622",
+    "phone_number": "+91 97568 27777",
+    "website": "https://hellobpcl.in/rolocator/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Patti Khasparja, Bypass Road, Almora, Uttarakhand 263139",
+    "area": "263622",
+    "latitude": 29.61225,
+    "longitude": 79.65177,
+    "place_id": "ChIJ26ZS4Cq3oDkRPULnVMB9NRc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ26ZS4Cq3oDkRPULnVMB9NRc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:17:31"
+  }
+]

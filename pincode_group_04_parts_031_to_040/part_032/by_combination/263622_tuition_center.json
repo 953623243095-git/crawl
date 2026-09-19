@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjay Coaching Centre",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "263622",
+    "phone_number": "+91 98732 40679",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Badana, Chahaj, Badena, Uttarakhand 262522",
+    "area": "Badana",
+    "latitude": 29.5695145,
+    "longitude": 80.0314752,
+    "place_id": "ChIJZzkFPADZoDkRO1JOFYCAxPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZzkFPADZoDkRO1JOFYCAxPA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:17:07"
+  },
+  {
+    "business_name": "Astro Consult Point Jageshwar Dham",
+    "search_category": "Tuition Center",
+    "primary_category": "Private Tutor",
+    "all_categories": "Private Tutor, Astrologer",
+    "pincode": "263622",
+    "phone_number": "+91 96399 01694",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "Jageshwar Dham, Uttarakhand 263623",
+    "area": "263622",
+    "latitude": 29.637880499999998,
+    "longitude": 79.8536761,
+    "place_id": "ChIJq6oaypTOoDkRnDUQ8Gpmkko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6oaypTOoDkRnDUQ8Gpmkko",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:17:07"
+  }
+]

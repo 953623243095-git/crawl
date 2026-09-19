@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KRISHNA ICE CREAM PARLOUR",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Dessert shop",
+    "all_categories": "Dessert shop",
+    "pincode": "263632",
+    "phone_number": "+91 85039 32604",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ganesh Colony, Karoli, Karauli, Rajasthan 322241",
+    "area": "Ganesh Colony",
+    "latitude": 26.497598999999997,
+    "longitude": 77.0163681,
+    "place_id": "ChIJdVZXhhuGcTkRG7Azi6ihhSc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdVZXhhuGcTkRG7Azi6ihhSc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:32:42"
+  },
+  {
+    "business_name": "Cool & Cream Ice Cream Parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "263632",
+    "phone_number": "+91 94154 78834",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "F6GW+J8Q, Panki - Kalyanpur Rd, Awas Vikas 3, Avas Vikas lll, Kalyanpur, Kanpur, Uttar Pradesh 208017",
+    "area": "Awas Vikas 3, Avas Vikas lll, Kalyanpur",
+    "latitude": 26.476577499999998,
+    "longitude": 80.2458565,
+    "place_id": "ChIJ21yvA8U3nDkRoRmTXhL0ayw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ21yvA8U3nDkRoRmTXhL0ayw",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:32:42"
+  }
+]

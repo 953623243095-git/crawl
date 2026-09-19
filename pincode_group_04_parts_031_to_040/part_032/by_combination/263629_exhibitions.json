@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tota seling",
+    "search_category": "Exhibitions",
+    "primary_category": "Village hall",
+    "all_categories": "Village hall",
+    "pincode": "263629",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "RJH4+RMX, Almora-Gopeshwar Rd, Chhani Lwesal, Uttarakhand 263629",
+    "area": "263629",
+    "latitude": 29.8296173,
+    "longitude": 79.6067391,
+    "place_id": "ChIJd-Z_cQBNpzkRWu86W5vfT80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd-Z_cQBNpzkRWu86W5vfT80",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:28:31"
+  },
+  {
+    "business_name": "Anasakti Ashram",
+    "search_category": "Exhibitions",
+    "primary_category": "Tourist attraction",
+    "all_categories": "Tourist attraction, Hindu temple",
+    "pincode": "263629",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 1750,
+    "address": "RJV2+JC8, Kausani, Someshwar Range, Uttarakhand 263639",
+    "area": "263629",
+    "latitude": 29.844199699999997,
+    "longitude": 79.6013043,
+    "place_id": "ChIJPZYU6n5OpzkRlE0GYaLnXLA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPZYU6n5OpzkRlE0GYaLnXLA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:28:31"
+  }
+]

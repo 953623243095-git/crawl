@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sagar Genral Store",
+    "search_category": "Supermarket",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "263636",
+    "phone_number": "+91 70961 99060",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "kasar devi, Almora, Mat, Uttarakhand 263601",
+    "area": "263636",
+    "latitude": 29.6450152,
+    "longitude": 79.66292419999999,
+    "place_id": "ChIJR6DvNc23oDkR04s_Ci9oIWM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR6DvNc23oDkR04s_Ci9oIWM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:39:47"
+  },
+  {
+    "business_name": "Choose & Track Mini Mart",
+    "search_category": "Supermarket",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "263636",
+    "phone_number": "+91 97162 83157",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 25,
+    "address": "Kasar devi, Almora, Mat, Uttarakhand 263601",
+    "area": "263636",
+    "latitude": 29.648311999999997,
+    "longitude": 79.66355999999999,
+    "place_id": "ChIJn5v9VEW3oDkRs6UWp6v7KCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn5v9VEW3oDkRs6UWp6v7KCg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:39:47"
+  }
+]

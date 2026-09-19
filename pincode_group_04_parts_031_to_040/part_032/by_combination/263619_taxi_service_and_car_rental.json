@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Vaishnavi Taxi Service - Kausani",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "263619",
+    "phone_number": "+91 96273 52056",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 140,
+    "address": "Kausani-Baijnath Rd, Kausani, Dauni, Uttarakhand 263639",
+    "area": "263619",
+    "latitude": 29.8516631,
+    "longitude": 79.6052361,
+    "place_id": "ChIJ9x7kfwxPpzkRRcW6kYxJV4I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9x7kfwxPpzkRRcW6kYxJV4I",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:11:04"
+  },
+  {
+    "business_name": "Yadav Travels Haridwar",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "263619",
+    "phone_number": "+91 98187 48182",
+    "website": "https://yadavtravelharidwar.com/",
+    "rating": 4.9,
+    "reviews_count": 741,
+    "address": "Niranjani Akhara Marg, in front of Prem bhoj, Sharvan Nath Nagar, Haridwar, Uttarakhand 249407",
+    "area": "Sharvan Nath Nagar",
+    "latitude": 29.9468876,
+    "longitude": 78.160127,
+    "place_id": "ChIJ4RAzTD1HCTkR1cWUluiAyoU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4RAzTD1HCTkR1cWUluiAyoU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:11:04"
+  }
+]

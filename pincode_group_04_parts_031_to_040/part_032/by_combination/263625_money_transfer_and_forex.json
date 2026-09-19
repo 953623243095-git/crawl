@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SBI Branch Chaukhutia",
+    "search_category": "Money Transfer and Forex",
+    "primary_category": "Bank",
+    "all_categories": "Bank",
+    "pincode": "263625",
+    "phone_number": "+91 1800 1234",
+    "website": "https://bank.sbi/",
+    "rating": 2.4,
+    "reviews_count": null,
+    "address": "P.O, Ganai, Chaukhutiya, Uttarakhand 263656",
+    "area": "263625",
+    "latitude": 29.878646999999997,
+    "longitude": 79.343035,
+    "place_id": "ChIJ-WIq4Rb9CTkRwROiybqeSIE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-WIq4Rb9CTkRwROiybqeSIE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:22:48"
+  },
+  {
+    "business_name": "SBI Branch Dwarahat",
+    "search_category": "Money Transfer and Forex",
+    "primary_category": "Bank",
+    "all_categories": "Bank",
+    "pincode": "263625",
+    "phone_number": "+91 1800 1234",
+    "website": "https://bank.sbi/",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "Dunagiri Rd, Dwarahat, Malla Surana, Uttarakhand 263653",
+    "area": "263625",
+    "latitude": 29.797704,
+    "longitude": 79.45546499999999,
+    "place_id": "ChIJ6awAZflUpzkR5yv7zZA8LUM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6awAZflUpzkR5yv7zZA8LUM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:22:48"
+  }
+]

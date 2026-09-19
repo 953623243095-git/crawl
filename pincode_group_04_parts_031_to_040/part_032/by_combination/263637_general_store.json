@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Patni genral store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "263637",
+    "phone_number": "N/A",
+    "website": "http://www.idheerumehra.com/",
+    "rating": 4.3,
+    "reviews_count": 7,
+    "address": "Mowve, Someshwar-Almora Rd, Uttarakhand 263637",
+    "area": "263637",
+    "latitude": 29.7903147,
+    "longitude": 79.53754909999999,
+    "place_id": "ChIJx4nPmwdTpzkRB-Kt43gnQIA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx4nPmwdTpzkRB-Kt43gnQIA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:41:44"
+  },
+  {
+    "business_name": "Vikram General Store Moharkhet",
+    "search_category": "General Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "263637",
+    "phone_number": "N/A",
+    "website": "http://www.puresehat.com/",
+    "rating": 4.7,
+    "reviews_count": 48,
+    "address": "MOHARKHET, Chamkana Dadharya, Waila, Uttarakhand 263676",
+    "area": "MOHARKHET",
+    "latitude": 29.650672399999998,
+    "longitude": 79.1716386,
+    "place_id": "ChIJtTtAAWwdCjkR0mX8yoYtlZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtTtAAWwdCjkR0mX8yoYtlZY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:41:45"
+  }
+]

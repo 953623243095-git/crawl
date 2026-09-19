@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maggie Point",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "263636",
+    "phone_number": "+91 78957 10150",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "shail band, Sunar Khola, Dhat Bangla, Uttarakhand 263601",
+    "area": "263636",
+    "latitude": 29.621733199999998,
+    "longitude": 79.6720905,
+    "place_id": "ChIJYYytBd62oDkRibTVzrG5ttY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYYytBd62oDkRibTVzrG5ttY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:39:59"
+  },
+  {
+    "business_name": "Sher Da Tea stall",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "263636",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "JJQ7+MQH, Line State Farm, Uttarakhand 263643",
+    "area": "263636",
+    "latitude": 29.6391763,
+    "longitude": 79.614481,
+    "place_id": "ChIJzduhxr2xoDkRe25qjnnF0CQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzduhxr2xoDkRe25qjnnF0CQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:39:59"
+  }
+]

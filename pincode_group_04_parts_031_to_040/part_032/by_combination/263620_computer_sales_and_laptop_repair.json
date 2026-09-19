@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MSPC Fixer",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "263620",
+    "phone_number": "+91 96488 85410",
+    "website": "https://mspcfixer.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Metro Gate 2, Shop No.1 Basement, Faridi Building, Maqbara Rd, opp. Hazratganj, Hazratganj, Lucknow, Uttar Pradesh 226001",
+    "area": "Hazratganj",
+    "latitude": 26.8496065,
+    "longitude": 80.94122039999999,
+    "place_id": "ChIJtcAHP_79mzkRL22MfJdVYw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtcAHP_79mzkRL22MfJdVYw4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:13:31"
+  },
+  {
+    "business_name": "Doora Enterprises",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer accessories store",
+    "all_categories": "Computer accessories store, Camera store, Cell phone accessory store, Cell phone store, Electronics store",
+    "pincode": "263620",
+    "phone_number": "+91 96175 55444",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dana Baba Chouraha, Neelkanth Rd, Nasrullaganj, Madhya Pradesh 466331",
+    "area": "263620",
+    "latitude": 22.6840261,
+    "longitude": 77.2734684,
+    "place_id": "ChIJ-bQOIHqnfTkR7KEh6ojD2Jg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-bQOIHqnfTkR7KEh6ojD2Jg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:13:34"
+  }
+]

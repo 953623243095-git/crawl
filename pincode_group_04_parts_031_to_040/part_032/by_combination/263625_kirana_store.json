@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ADITI GENERAL STORE",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "263625",
+    "phone_number": "+91 80060 15595",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Khatyari, Almora, Uttarakhand 263601",
+    "area": "Khatyari",
+    "latitude": 29.5945313,
+    "longitude": 79.64740359999999,
+    "place_id": "ChIJjRlc-QqxoDkRPRCsd5KqBHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjRlc-QqxoDkRPRCsd5KqBHg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:21:24"
+  },
+  {
+    "business_name": "Rautela General Store",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Store",
+    "pincode": "263625",
+    "phone_number": "+91 70609 10915",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "near Harjyu Mandir, Bach Kande, Uttarakhand 263623",
+    "area": "263625",
+    "latitude": 29.4998065,
+    "longitude": 79.7932361,
+    "place_id": "ChIJBRIoQADHoDkR5xm0BvCjEvc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBRIoQADHoDkR5xm0BvCjEvc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:21:24"
+  }
+]

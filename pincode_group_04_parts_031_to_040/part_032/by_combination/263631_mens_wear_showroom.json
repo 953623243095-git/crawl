@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Raymond shop",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Designer Clothing Store, Dress store, Fabric store, Clothing Accessories Store, Formal Clothing Store, Clothing store, Tuxedo shop, Youth clothing store",
+    "pincode": "263631",
+    "phone_number": "+91 80 6986 7495",
+    "website": "https://jakhan.myraymond.com/",
+    "rating": 4.9,
+    "reviews_count": 1107,
+    "address": "Shop 2, 152, 938C+MC2, 9/84, Rajpur Rd, near Pinnacle Plaza, Jakhan, Dehradun, Uttarakhand 248009",
+    "area": "Jakhan",
+    "latitude": 30.3666804,
+    "longitude": 78.07115809999999,
+    "place_id": "ChIJCToQRsXXCDkRS46-LBo24z8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCToQRsXXCDkRS46-LBo24z8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:30:53"
+  },
+  {
+    "business_name": "Peter England Menswear Exclusive Showroom",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store, Tuxedo shop",
+    "pincode": "263631",
+    "phone_number": "+91 89090 68679",
+    "website": "https://red.peterengland.com/",
+    "rating": 5,
+    "reviews_count": 40,
+    "address": "Ward No. 11, Ramraj Road, Opp. Canara Bank Bazpur, Dist- U S Nagar, UK, Bazpur, Uttarakhand 262401",
+    "area": "263631",
+    "latitude": 29.1640505,
+    "longitude": 79.1507563,
+    "place_id": "ChIJXZl089RvCjkRhZRjMQuPxbs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXZl089RvCjkRhZRjMQuPxbs",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:30:53"
+  }
+]

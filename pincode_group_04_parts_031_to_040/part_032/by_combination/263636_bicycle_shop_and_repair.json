@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K K Cycle Stores",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "263636",
+    "phone_number": "+91 98986 29788",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 16,
+    "address": "Rajendra Shopping Center, Rajendra Park Rd, near R.D.School, Soni ni chali, Ramrajya Nagar, Odhav, Ahmedabad, Gujarat 382415",
+    "area": "Soni ni chali, Ramrajya Nagar, Odhav",
+    "latitude": 23.0153806,
+    "longitude": 72.6387906,
+    "place_id": "ChIJ____vwCHXjkRCVBFHnzuAaw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____vwCHXjkRCVBFHnzuAaw",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:40:28"
+  },
+  {
+    "business_name": "Cycle Repair Shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Repair service",
+    "all_categories": "Repair service",
+    "pincode": "263636",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "9CR4+PXF, Kanpur - Allahabad Hwy, Sanjeev Nagar, Gandhigram, Kanpur, Uttar Pradesh 208007",
+    "area": "Sanjeev Nagar, Gandhigram",
+    "latitude": 26.3918191,
+    "longitude": 80.4074363,
+    "place_id": "ChIJrXVoK3hBnDkRqvbqyU03dSM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrXVoK3hBnDkRqvbqyU03dSM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:40:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fursat Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Service establishment",
+    "pincode": "263628",
+    "phone_number": "+91 6284 091 164",
+    "website": "https://fursat.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Fursat Travels, 263628, India",
+    "area": "263628",
+    "latitude": 30.0909235,
+    "longitude": 79.3087491,
+    "place_id": "ChIJ2QFdPSpugkwRJT7OFrym0UI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2QFdPSpugkwRJT7OFrym0UI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:25:46"
+  },
+  {
+    "business_name": "Rock Lizard Adventure",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator",
+    "pincode": "263628",
+    "phone_number": "+91 95687 94030",
+    "website": "https://trladventure.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Saanjh Homes, near Kasar Devi, Dinapani, Uttarakhand 263601",
+    "area": "263628",
+    "latitude": 29.665812199999998,
+    "longitude": 79.6837552,
+    "place_id": "ChIJP88S2V-3oDkRYOjDzu5aAjM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP88S2V-3oDkRYOjDzu5aAjM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:25:46"
+  }
+]

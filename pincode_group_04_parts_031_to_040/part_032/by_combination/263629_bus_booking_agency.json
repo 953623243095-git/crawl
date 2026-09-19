@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jannat Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "263629",
+    "phone_number": "+91 88650 06363",
+    "website": "https://jannat-travels.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": 91,
+    "address": "Prince road, Chauraha Gali, near kaba policlinic, bhura, Moradabad, Uttar Pradesh 244001",
+    "area": "Gandhi Nagar",
+    "latitude": 28.8286177,
+    "longitude": 78.7766573,
+    "place_id": "ChIJ0dg7oZX7CjkRHnxiXwhDxrk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0dg7oZX7CjkRHnxiXwhDxrk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:27:33"
+  },
+  {
+    "business_name": "TSRTC Counter",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency, Transportation service",
+    "pincode": "263629",
+    "phone_number": "+91 40 2345 0033",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 516,
+    "address": "9CRR+VPP, Gudi Malkapur Rd, Amba Gardens, Gudimalkapur, Hyderabad, Telangana 500006",
+    "area": "Amba Gardens, Gudimalkapur",
+    "latitude": 17.392217199999997,
+    "longitude": 78.441814,
+    "place_id": "ChIJYdi_bRCXyzsRoeCULwe7nwU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYdi_bRCXyzsRoeCULwe7nwU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:27:36"
+  }
+]

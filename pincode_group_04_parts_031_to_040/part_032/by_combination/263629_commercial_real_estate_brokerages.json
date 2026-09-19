@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Housing Edge Realtors",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Commercial agent, Commercial real estate agency, Industrial real estate agency, Property investment company, Property management company",
+    "pincode": "263629",
+    "phone_number": "+91 89248 22249",
+    "website": "https://housingedgerealtors.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FF 06,07 KHAZANA COMPLEX OPPOSITE P.N.B BANK ASHIANA BRANCH, Kanpur Rd, Sector K, Ashiyana, Lucknow, Uttar Pradesh 226012",
+    "area": "Sector K, Ashiyana",
+    "latitude": 26.7948637,
+    "longitude": 80.9186023,
+    "place_id": "ChIJv2g239H9mzkRJFcukNxYXuI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv2g239H9mzkRJFcukNxYXuI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:28:22"
+  },
+  {
+    "business_name": "100 Floors Realtors",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Property investment company, Real estate consultant",
+    "pincode": "263629",
+    "phone_number": "+91 90120 00053",
+    "website": "http://www.100floors.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "UGF- 10,SHIV PLAZA, Roorkee Road, Near Inderprasth Estate, Meerut, Uttar Pradesh 250001",
+    "area": "Indraprasth Estate Colony, Konark Colony, Daurli",
+    "latitude": 29.0452358,
+    "longitude": 77.7075259,
+    "place_id": "ChIJHZwh04RvDDkRdPUExDSoUIU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHZwh04RvDDkRdPUExDSoUIU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:28:23"
+  }
+]

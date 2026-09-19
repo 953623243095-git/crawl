@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Milan's Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "263622",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "LR shah road, near Milan chock, Milan chok, Almora, Uttarakhand 263601",
+    "area": "Milan chok",
+    "latitude": 29.599998199999998,
+    "longitude": 79.6608351,
+    "place_id": "ChIJtQAcbg23oDkR-Au70slrbg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtQAcbg23oDkR-Au70slrbg8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:16:08"
+  },
+  {
+    "business_name": "Nescafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "263622",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Ghurdauri, Pawomalla, Uttarakhand 246194",
+    "area": "263622",
+    "latitude": 30.183428799999998,
+    "longitude": 78.6928331,
+    "place_id": "ChIJT1rZEa-nCTkRnaZoPXw5mNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT1rZEa-nCTkRnaZoPXw5mNY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:16:11"
+  }
+]

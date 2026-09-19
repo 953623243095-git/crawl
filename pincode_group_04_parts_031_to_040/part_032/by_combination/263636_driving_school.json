@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amit Driving School",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "263636",
+    "phone_number": "+91 99715 40941",
+    "website": "http://www.amitmotordrivingschool.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop no. 3, Rajiv Nagar, Sector 14, Gurugram, Haryana 122001",
+    "area": "Rajiv Nagar, Sector 14",
+    "latitude": 28.477157599999998,
+    "longitude": 77.0442242,
+    "place_id": "ChIJYats2NQZDTkRZIoob9Fbqz8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYats2NQZDTkRZIoob9Fbqz8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:40:32"
+  },
+  {
+    "business_name": "Driving School Mohali",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "263636",
+    "phone_number": "+91 98155 78570",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "House no. 285, Mattaur Rd, Mattaur, Sector 70, Sahibzada Ajit Singh Nagar, Punjab 160071",
+    "area": "Mattaur, Sector 70",
+    "latitude": 30.700418,
+    "longitude": 76.710667,
+    "place_id": "ChIJ2wfHl7HvDzkR9GLkuCxKGaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2wfHl7HvDzkR9GLkuCxKGaE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:40:32"
+  }
+]

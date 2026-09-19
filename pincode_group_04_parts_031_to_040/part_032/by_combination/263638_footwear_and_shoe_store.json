@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "City Shoe Palace",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "263638",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 113,
+    "address": "5JX7+MH2, near Ghanteshwar Mandir, Nai Basti, Rewari, Kanmajra, Haryana 123401",
+    "area": "Nai Basti",
+    "latitude": 28.1991484,
+    "longitude": 76.6139031,
+    "place_id": "ChIJY84gQJ5aDTkRMJVm1JXBAfs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY84gQJ5aDTkRMJVm1JXBAfs",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:43:49"
+  },
+  {
+    "business_name": "MODERN CHAPPAL PALACE",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "263638",
+    "phone_number": "+91 77367 40310",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "MODERN CHAPPAL PALACE, SUVARNA JUBILEE COMPLEX, near PRIVATE BUS STAND, Thiruvalla, Keralam 689101",
+    "area": "263638",
+    "latitude": 9.3854688,
+    "longitude": 76.5779352,
+    "place_id": "ChIJX0j2nGQlBjsRjAC96N4od9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX0j2nGQlBjsRjAC96N4od9A",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:43:50"
+  }
+]

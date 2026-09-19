@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K G N motors",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "263159",
+    "phone_number": "+91 82799 20434",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kashipur road, Bhawaniganj, Ramnagar, Shivlalpur Khazanchi, Uttarakhand 244715",
+    "area": "Bhawaniganj",
+    "latitude": 29.388104,
+    "longitude": 79.12528449999999,
+    "place_id": "ChIJa2sOuRcTCjkRmAU-U-MO-Zg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa2sOuRcTCjkRmAU-U-MO-Zg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:05:28"
+  },
+  {
+    "business_name": "Valvoline Truck Xpert - Ramjaani Motors",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Truck repair shop",
+    "all_categories": "Truck repair shop, Oil change service, Garage, Repair service, Truck parts supplier",
+    "pincode": "263159",
+    "phone_number": "+91 99270 02882",
+    "website": "https://www.valvoline.com/en-in?utm_source=locator&utm_medium=googleplaces",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 25, Near Halwani Bus Adda, TP Nagar, Ramnagar, Uttarakhand 244715",
+    "area": "TP Nagar",
+    "latitude": 29.3931054,
+    "longitude": 79.13075429999999,
+    "place_id": "ChIJ89RzDoITCjkRVKdzNMohats",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ89RzDoITCjkRVKdzNMohats",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:05:31"
+  }
+]

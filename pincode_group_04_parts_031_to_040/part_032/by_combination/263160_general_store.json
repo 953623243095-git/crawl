@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ram U.k Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "263160",
+    "phone_number": "+91 79007 49715",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1, Gularbhoj Road, Motipur, Dineshpur, Uttarakhand 263160",
+    "area": "263160",
+    "latitude": 29.061504,
+    "longitude": 79.3251707,
+    "place_id": "ChIJeQ_ejFp_CjkRqXx4W-4xKJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeQ_ejFp_CjkRqXx4W-4xKJI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:06:47"
+  },
+  {
+    "business_name": "Ray General store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Cosmetics store",
+    "pincode": "263160",
+    "phone_number": "+91 88599 47851",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Uttrakhand, Uttarakhand 263160",
+    "area": "263160",
+    "latitude": 29.0474434,
+    "longitude": 79.3204777,
+    "place_id": "ChIJn0qFt_F-CjkRbvz4C_QzxDk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn0qFt_F-CjkRbvz4C_QzxDk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:06:47"
+  }
+]

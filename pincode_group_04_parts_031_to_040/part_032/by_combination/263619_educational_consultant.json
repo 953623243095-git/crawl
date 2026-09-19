@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Insight Education Consultancy",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "263619",
+    "phone_number": "+91 91121 20060",
+    "website": "https://insightedu.in/",
+    "rating": 4.8,
+    "reviews_count": 113,
+    "address": "Office no- 420, 4th Floor, Freedom Towers, Akashwani Chowk, behind Asian Hospital, Bhanudas Nagar, Nyay Nagar, Chhatrapati Sambhajinagar, Maharashtra 431005",
+    "area": "Bhanudas Nagar, Nyay Nagar",
+    "latitude": 19.8750154,
+    "longitude": 75.3453297,
+    "place_id": "ChIJtVTqEsaj2zsR2qFXi2QtuIE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtVTqEsaj2zsR2qFXi2QtuIE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:11:38"
+  },
+  {
+    "business_name": "NexSphere",
+    "search_category": "Educational Consultant",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Computer security service, Computer support and services, Service establishment, Website designer",
+    "pincode": "263619",
+    "phone_number": "+91 94565 68131",
+    "website": "https://nexsphere.in/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "NexSphere, 263619, India",
+    "area": "263619",
+    "latitude": 45.050399899999995,
+    "longitude": -47.802320699999996,
+    "place_id": "ChIJMYRcrAsxpzkRCR2OWX8vzx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMYRcrAsxpzkRCR2OWX8vzx4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:11:38"
+  }
+]

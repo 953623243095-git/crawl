@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion Bag House",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "263634",
+    "phone_number": "+91 73108 67462",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Lalkuan, Car Rd, Gola Range, Uttarakhand 262402",
+    "area": "263634",
+    "latitude": 29.065965499999997,
+    "longitude": 79.5342573,
+    "place_id": "ChIJN4MMuIGHoDkRVCufc6Gd4bk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN4MMuIGHoDkRVCufc6Gd4bk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:36:28"
+  },
+  {
+    "business_name": "Ashok Bag Center",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop, Manufacturer, Wholesaler",
+    "pincode": "263634",
+    "phone_number": "+91 97600 90002",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "16, Saharanpur Rd, Niranjanpur, Dehradun, Uttarakhand 248171",
+    "area": "Niranjanpur",
+    "latitude": 30.306297599999997,
+    "longitude": 78.01553109999999,
+    "place_id": "ChIJ-xUA6SgqCTkRV9UhJweJyqg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-xUA6SgqCTkRV9UhJweJyqg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:36:29"
+  }
+]

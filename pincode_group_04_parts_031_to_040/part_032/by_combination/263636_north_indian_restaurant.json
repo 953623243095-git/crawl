@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jai Badri Vishal Restaurant, Kosi",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "263636",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 89,
+    "address": "JJRH+67R, Someshwar-Ranikhet-Almora Rd, Budh Khola, Uttarakhand 263636",
+    "area": "263636",
+    "latitude": 29.640623599999998,
+    "longitude": 79.6281456,
+    "place_id": "ChIJewfn2dGxoDkRszyF3rIrHHM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJewfn2dGxoDkRszyF3rIrHHM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:39:55"
+  },
+  {
+    "business_name": "The Nature's Cafe",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "263636",
+    "phone_number": "+91 78180 83957",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "binsar road kasar devi, Uttarakhand 263601",
+    "area": "263636",
+    "latitude": 29.6530281,
+    "longitude": 79.66725029999999,
+    "place_id": "ChIJcTspn8a3oDkRwpZ9zTdg4-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcTspn8a3oDkRwpZ9zTdg4-A",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:39:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Max Lab | Diagnostic Centre & Blood Test in Ramnagar",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service, Laboratory, Medical laboratory, Pathologist",
+    "pincode": "263159",
+    "phone_number": "+91 89583 55453",
+    "website": "https://www.maxlab.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Lakhanpur Road, near Parvatiya Sabha, Uttari Khatari, Ramnagar, Uttarakhand 244715",
+    "area": "Uttari Khatari",
+    "latitude": 29.399786199999998,
+    "longitude": 79.1256089,
+    "place_id": "ChIJGwG38fucoDkRhqSSS3ar04Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGwG38fucoDkRhqSSS3ar04Q",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:05:24"
+  },
+  {
+    "business_name": "Pathkind Labs",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service, HIV testing center, Laboratory, Medical Center, Medical laboratory, Pathologist, STD testing service",
+    "pincode": "263159",
+    "phone_number": "+91 70172 92485",
+    "website": "https://nearby.pathkindlabs.com/pathkind-labs-khatari-ramnagar-47341/home?utm_source=GBP",
+    "rating": null,
+    "reviews_count": null,
+    "address": "City Nursing Home, Khatari, Uttari Khatari, Ramnagar, Uttarakhand 244715",
+    "area": "Uttari Khatari",
+    "latitude": 29.393953,
+    "longitude": 79.1236201,
+    "place_id": "ChIJc3LenZETCjkRmKTQWXAPd7o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc3LenZETCjkRmKTQWXAPd7o",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:05:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Anand’s Pets Hospital & Surgery Centre, Pet Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Hospital",
+    "pincode": "263633",
+    "phone_number": "+91 98114 67060",
+    "website": "https://dranandspetsclinic.com/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "1st Floor, DDA Local Shopping Centre, 55-56-58, Block J, Vikaspuri, New Delhi, Delhi, 110018",
+    "area": "Block J, Vikaspuri",
+    "latitude": 28.6421758,
+    "longitude": 77.0797359,
+    "place_id": "ChIJbafpgHhfXRQRJZZaTxB3O1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbafpgHhfXRQRJZZaTxB3O1g",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:34:51"
+  },
+  {
+    "business_name": "Healing paws Animal clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Animal hospital",
+    "pincode": "263633",
+    "phone_number": "+91 95734 43828",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 65,
+    "address": "H-No = 4, Ksr plaza, 82/1, Gandi Maisamma X Rd, beside Bhaskara Hospital, Gandi Maisamma, Hyderabad, Telangana 500042",
+    "area": "Gandi Maisamma",
+    "latitude": 17.571225899999998,
+    "longitude": 78.4250091,
+    "place_id": "ChIJdxSsQwCPyzsRGtJVHSbi4eU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdxSsQwCPyzsRGtJVHSbi4eU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:34:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Himani Coffee House",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "263631",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 18,
+    "address": "WJ98+P82, Gwaldam Baijnath Bageshwar Rd, Fulwari Gunth Ba, Uttarakhand 263641",
+    "area": "263631",
+    "latitude": 29.919269999999997,
+    "longitude": 79.61576,
+    "place_id": "ChIJ_YBjNt1PpzkR82gw9kJgkqk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_YBjNt1PpzkR82gw9kJgkqk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:30:49"
+  },
+  {
+    "business_name": "The Food Dude",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "263631",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 25,
+    "address": "75Q4+J8M, Gauchar, Uttarakhand 246429",
+    "area": "263631",
+    "latitude": 30.2890205,
+    "longitude": 79.15570319999999,
+    "place_id": "ChIJ3X7X9RHPCTkRws8pHdaObNU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3X7X9RHPCTkRws8pHdaObNU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:30:51"
+  }
+]

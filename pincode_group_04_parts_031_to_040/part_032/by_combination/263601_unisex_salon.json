@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lovely hair dresser",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Barber shop",
+    "pincode": "263601",
+    "phone_number": "+91 94563 79400",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kausani Rd, Chanoda, Uttarakhand 263629",
+    "area": "263601",
+    "latitude": 29.807775399999997,
+    "longitude": 79.6144805,
+    "place_id": "ChIJrX9J0khMpzkRmmZVBji8OwE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrX9J0khMpzkRmmZVBji8OwE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:09:31"
+  },
+  {
+    "business_name": "मीशिता ब्यूटी पार्लर",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "263601",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "QJJ2+9WQ, near bank of baroda, Someshwar, Uttarakhand 263637",
+    "area": "263601",
+    "latitude": 29.780962499999998,
+    "longitude": 79.6023594,
+    "place_id": "ChIJPQmXWNJNpzkRwpxFok9mEOc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPQmXWNJNpzkRwpxFok9mEOc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:09:31"
+  }
+]

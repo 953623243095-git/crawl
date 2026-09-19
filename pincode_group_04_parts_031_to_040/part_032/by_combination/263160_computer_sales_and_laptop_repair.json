@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bairagi Store",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "263160",
+    "phone_number": "+91 82180 00089",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "28HW+JG4, Chittaranjanpur Rd, Vijay Nagar, Uttarakhand 263160",
+    "area": "263160",
+    "latitude": 29.0290109,
+    "longitude": 79.3463372,
+    "place_id": "ChIJU-KhlId_CjkRbBFDQhiuyng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU-KhlId_CjkRbBFDQhiuyng",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:08:05"
+  },
+  {
+    "business_name": "Kush Online Service CSC Center",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "263160",
+    "phone_number": "+91 70176 67339",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "kali mandir ke samne, kalinagar, gao, Dineshpur, Jainagar, Uttarakhand 263160",
+    "area": "gao",
+    "latitude": 29.042405799999997,
+    "longitude": 79.36495939999999,
+    "place_id": "ChIJ7bmkmzJ_CjkRITNrU0DUViY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7bmkmzJ_CjkRITNrU0DUViY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:08:06"
+  }
+]

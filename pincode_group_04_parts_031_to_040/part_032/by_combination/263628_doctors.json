@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahukumar",
+    "search_category": "Doctors",
+    "primary_category": "Family practice physician",
+    "all_categories": "Family practice physician",
+    "pincode": "263628",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PM3J+M7G, Jijhar, Gangola Kotuli, Uttarakhand 263601",
+    "area": "263628",
+    "latitude": 29.704181199999997,
+    "longitude": 79.68070039999999,
+    "place_id": "ChIJUTm_TQC1oDkRNTMMA6qLbcA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUTm_TQC1oDkRNTMMA6qLbcA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:25:32"
+  },
+  {
+    "business_name": "Government hospital Someshwar",
+    "search_category": "Doctors",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital, Hospital",
+    "pincode": "263628",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 11,
+    "address": "QJF5+846, Kausani Rd, Falya Arjunrath, Uttarakhand 263637",
+    "area": "263628",
+    "latitude": 29.77328,
+    "longitude": 79.6077653,
+    "place_id": "ChIJX0YBXuBMpzkR6XkYJKJui6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX0YBXuBMpzkR6XkYJKJui6s",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:25:32"
+  }
+]

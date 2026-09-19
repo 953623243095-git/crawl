@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cavehito",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Restaurant",
+    "pincode": "263621",
+    "phone_number": "+91 70603 60065",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Village Kholiyabanj, Post- Dunagiri, Uttarakhand 263653",
+    "area": "263621",
+    "latitude": 29.8392324,
+    "longitude": 79.45175549999999,
+    "place_id": "ChIJP6iYNKNWpzkRWjmOZOz3ebM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP6iYNKNWpzkRWjmOZOz3ebM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:14:13"
+  },
+  {
+    "business_name": "Dosa Point",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "263621",
+    "phone_number": "+91 94660 90427",
+    "website": "N/A",
+    "rating": 2.7,
+    "reviews_count": 13,
+    "address": "117, Rai Market Rd, Palledar Mohalla, Football Chowk, Ambala, Ambala Cantt, Haryana 133001",
+    "area": "Palledar Mohalla, Football Chowk",
+    "latitude": 30.3422716,
+    "longitude": 76.8380311,
+    "place_id": "ChIJw-sVTz22DzkRw8ZM0sDYgIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw-sVTz22DzkRw8ZM0sDYgIM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:14:15"
+  }
+]

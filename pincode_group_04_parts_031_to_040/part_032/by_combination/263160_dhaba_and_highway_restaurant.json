@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Warehouse Restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "263160",
+    "phone_number": "+91 99270 45345",
+    "website": "https://www.facebook.com/share/1FqCMCXQk4/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Fish House, Near, Ram Raj Road, Bazpur, Keshowala, Uttarakhand 262401",
+    "area": "263160",
+    "latitude": 29.1795628,
+    "longitude": 79.13635359999999,
+    "place_id": "ChIJ1ZxTg4NvCjkRGelo3hegE4c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1ZxTg4NvCjkRGelo3hegE4c",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:06:56"
+  },
+  {
+    "business_name": "DHABA",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "263160",
+    "phone_number": "+91 63977 36115",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 124,
+    "address": "38C, Aambagh, Garhi Cantt, Dehradun, Uttarakhand 248003",
+    "area": "Garhi Cantonment, Garhi Cantt",
+    "latitude": 30.349799599999997,
+    "longitude": 78.0216062,
+    "place_id": "ChIJa_SGFDfXCDkRDaZZ7DkwvQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa_SGFDfXCDkRDaZZ7DkwvQk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:06:56"
+  }
+]

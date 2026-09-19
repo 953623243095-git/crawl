@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "263628",
+    "phone_number": "+91 94565 26924",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rasyara Gaon, Bagainiya Sela, Uttarakhand 263637",
+    "area": "263628",
+    "latitude": 29.7859448,
+    "longitude": 79.6394318,
+    "place_id": "ChIJa_sFDUVNpzkRy6__1jk9-h8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa_sFDUVNpzkRy6__1jk9-h8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:26:25"
+  },
+  {
+    "business_name": "Ashoka communication Ashok kumar",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "263628",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "RQ9F+2RX, Bilonasera, Uttarakhand 263642",
+    "area": "263628",
+    "latitude": 29.8176234,
+    "longitude": 79.7746006,
+    "place_id": "ChIJ9ei12xc1pzkRnPfoQ2c3xcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ei12xc1pzkRnPfoQ2c3xcc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:26:26"
+  }
+]

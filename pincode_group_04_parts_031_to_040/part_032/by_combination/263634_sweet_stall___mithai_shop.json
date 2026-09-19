@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bathla Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "263634",
+    "phone_number": "+91 96391 11528",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Main Road, Garhinegi, Uttarakhand 244713",
+    "area": "263634",
+    "latitude": 29.281942899999997,
+    "longitude": 78.9491628,
+    "place_id": "ChIJF69UZCBBCjkRYvBODpD9xb0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF69UZCBBCjkRYvBODpD9xb0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:36:17"
+  },
+  {
+    "business_name": "Shah Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweets and dessert buffet",
+    "all_categories": "Sweets and dessert buffet",
+    "pincode": "263634",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 9,
+    "address": "Main Chauraha QCGJ+9P9 National Highway, 87, Dwarahat, Uttarakhand 263653",
+    "area": "263634",
+    "latitude": 29.7759003,
+    "longitude": 79.4318516,
+    "place_id": "ChIJN4OTRflUpzkRJGBaU_XYz64",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN4OTRflUpzkRJGBaU_XYz64",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:36:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DTDC COURIER SERVICE",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "263601",
+    "phone_number": "+91 94103 89153",
+    "website": "http://www.dtdc.in/",
+    "rating": 2.7,
+    "reviews_count": 24,
+    "address": "Mall Rd, near Anjali Hospital, Khazanchi Mohalla, Paltan Bazar, Dharanaula, Almora, Uttarakhand 263601",
+    "area": "Khazanchi Mohalla, Paltan Bazar, Dharanaula",
+    "latitude": 29.5968207,
+    "longitude": 79.6565008,
+    "place_id": "ChIJERIEy3O3oDkRL2qCCFW5AT0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJERIEy3O3oDkRL2qCCFW5AT0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:09:17"
+  },
+  {
+    "business_name": "TEAM SOULMOVERS",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator",
+    "pincode": "263601",
+    "phone_number": "N/A",
+    "website": "https://soulmovers.in/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Lower, Mall Rd, Paltan Bazar, Dharanaula, Almora, Uttarakhand 263601",
+    "area": "Paltan Bazar, Dharanaula",
+    "latitude": 29.5968858,
+    "longitude": 79.6557011,
+    "place_id": "ChIJySbpqQgpCTkRadQ9YlEcX1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJySbpqQgpCTkRadQ9YlEcX1E",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:09:18"
+  }
+]

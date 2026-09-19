@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parmod enterprises",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Supplier",
+    "all_categories": "Supplier, Cold storage facility",
+    "pincode": "263622",
+    "phone_number": "+91 90452 52000",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 18,
+    "address": "1035, Abhiyojan Nidesalaya Rd, orchid park, Nagal Rd, Dehradun, Uttarakhand 248013",
+    "area": "orchid park, Nagal Road",
+    "latitude": 30.381632,
+    "longitude": 78.096766,
+    "place_id": "ChIJNVJ1q4LXCDkRfuss7FrB_Rg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNVJ1q4LXCDkRfuss7FrB_Rg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:17:30"
+  },
+  {
+    "business_name": "FM LOGISTIC WAREHOUSE",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "263622",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "28HX+VFC, Vijay Nagar, Uttarakhand 263160",
+    "area": "263622",
+    "latitude": 29.029685599999997,
+    "longitude": 79.3486401,
+    "place_id": "ChIJyzLhWKp_CjkR3j3pCoQCU7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyzLhWKp_CjkR3j3pCoQCU7Y",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:17:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gs home",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "263622",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JV9X+WVF, Chalthi, Uttarakhand 263622",
+    "area": "263622",
+    "latitude": 29.6198141,
+    "longitude": 79.8996789,
+    "place_id": "ChIJFeplNFnPoDkRiM566g80TBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFeplNFnPoDkRiM566g80TBA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:16:09"
+  },
+  {
+    "business_name": "Bisht Hotel And Restaurant",
+    "search_category": "Bar and Pub",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Hotel",
+    "pincode": "263622",
+    "phone_number": "+91 94101 64343",
+    "website": "http://www.bishthotelandrestaurant.com/",
+    "rating": 4.8,
+    "reviews_count": 243,
+    "address": "Barechhina, Dugari, Uttarakhand 263624",
+    "area": "263622",
+    "latitude": 29.639492899999997,
+    "longitude": 79.7402262,
+    "place_id": "ChIJW4rOa6fJoDkRKYFih1viS0U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW4rOa6fJoDkRKYFih1viS0U",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:16:13"
+  }
+]

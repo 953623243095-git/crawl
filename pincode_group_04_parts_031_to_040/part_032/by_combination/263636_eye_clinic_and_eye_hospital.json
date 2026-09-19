@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eye Care",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "263636",
+    "phone_number": "+91 90572 03975",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "10, Ajeet Mal Bhandari Rd, near Shastri Circle, Shastri Circle, Sector-B, Shastri Nagar, Jodhpur, Rajasthan 342001",
+    "area": "Shastri Circle, Sector-B, Shastri Nagar",
+    "latitude": 26.2633886,
+    "longitude": 73.0051833,
+    "place_id": "ChIJWbpuzNuNQTkRReWAYNRyon0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWbpuzNuNQTkRReWAYNRyon0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:40:16"
+  },
+  {
+    "business_name": "TC Eye Centre",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Diabetes center, Doctor, Lasik surgeon, Ophthalmologist, Ophthalmology clinic, Pediatric ophthalmologist, Private hospital, Surgical center",
+    "pincode": "263636",
+    "phone_number": "+91 522 239 3225",
+    "website": "https://tceye.com/",
+    "rating": 4,
+    "reviews_count": 192,
+    "address": "Tc Eye Centre, Railway Station, Gomti Nagar Railway Sta Rd, near Gomti Nagar, Vinay Khand 5, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vinay Khand 5, Gomti Nagar",
+    "latitude": 26.8585946,
+    "longitude": 81.0074467,
+    "place_id": "ChIJ4b3IlsHimzkRV5AIkgJkaCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4b3IlsHimzkRV5AIkgJkaCQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:40:16"
+  }
+]

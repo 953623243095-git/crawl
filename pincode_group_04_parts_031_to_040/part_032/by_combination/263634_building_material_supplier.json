@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BRIJ HARDWARE",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "263634",
+    "phone_number": "+91 78303 59080",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Baypass Road, near csd canteen, Matiyoli, Mandalsera, Bageshwar, Uttarakhand 263642",
+    "area": "Matiyoli",
+    "latitude": 29.8393537,
+    "longitude": 79.7837098,
+    "place_id": "ChIJDzd-AiM1pzkRwAboDb2Ib0k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDzd-AiM1pzkRwAboDb2Ib0k",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:36:57"
+  },
+  {
+    "business_name": "SHREE BALAJI BUILDING MATERIAL SUPPLIERS",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "263634",
+    "phone_number": "+91 95574 08670",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Khadri kharak maff, Lakkad Ghat Rd, near comfort inn hotel, Birpur Khurd, Shyampur, Rishikesh, Uttarakhand 249204",
+    "area": "Birpur Khurd",
+    "latitude": 30.0538229,
+    "longitude": 78.2550737,
+    "place_id": "ChIJW0d73XU_CTkRwq7vnePVlsE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW0d73XU_CTkRwq7vnePVlsE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:36:58"
+  }
+]

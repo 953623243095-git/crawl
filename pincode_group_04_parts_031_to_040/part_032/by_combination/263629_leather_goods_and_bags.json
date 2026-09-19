@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Leather World",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "263629",
+    "phone_number": "N/A",
+    "website": "https://instagram.com/leatherworldshoes2022?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chauhan Bangar, street 23 main road, near Saeediya Masjid Road, Jafrabad, Delhi, 110053",
+    "area": "New Seelampur, Jafrabad",
+    "latitude": 28.678020699999998,
+    "longitude": 77.2680626,
+    "place_id": "ChIJNZ7G54v9DDkRa5u6c8uaq48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNZ7G54v9DDkRa5u6c8uaq48",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:27:13"
+  },
+  {
+    "business_name": "Laxmi Belt House",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "263629",
+    "phone_number": "+91 11 4940 7696",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "2856-57, Partap Mkt., Sadar Bazar, Chandni Chowk, Rui Mandi, Sadar Bazaar, New Delhi, Delhi 110006",
+    "area": "Rui Mandi, Sadar Bazar",
+    "latitude": 28.659194799999998,
+    "longitude": 77.2156584,
+    "place_id": "ChIJAQAAAG_9DDkRnZT11DZYFrM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAG_9DDkRnZT11DZYFrM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:27:14"
+  }
+]

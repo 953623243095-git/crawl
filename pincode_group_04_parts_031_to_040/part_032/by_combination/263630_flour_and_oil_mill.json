@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashirvad Oil And Flour Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "263630",
+    "phone_number": "+91 94490 75699",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Kemmai, Q6M5+RFP, Puttur, Karnataka 574203",
+    "area": "263630",
+    "latitude": 12.7845532,
+    "longitude": 75.20863779999999,
+    "place_id": "ChIJ_7EYrFS9pDsRhG_fmOGw0RM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_7EYrFS9pDsRhG_fmOGw0RM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:30:21"
+  },
+  {
+    "business_name": "Ex Service Flour Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "263630",
+    "phone_number": "+91 70258 18959",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "south, Adinad, Karunagappalli, Kerala 690542",
+    "area": "south",
+    "latitude": 9.0773358,
+    "longitude": 76.5151937,
+    "place_id": "ChIJv3EXAKsDBjsRPwKXKC47edY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv3EXAKsDBjsRPwKXKC47edY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:30:22"
+  }
+]

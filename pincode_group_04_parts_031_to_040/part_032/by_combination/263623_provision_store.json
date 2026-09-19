@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepak Genral Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "263623",
+    "phone_number": "+91 96909 17467",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Suwkhan, Govind Dham, Jageshwar Range, Dhaspar, Uttarakhand 263623",
+    "area": "263623",
+    "latitude": 29.5726645,
+    "longitude": 79.8480558,
+    "place_id": "ChIJU31-FXzFoDkRTK5wk5vmupw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU31-FXzFoDkRTK5wk5vmupw",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:17:43"
+  },
+  {
+    "business_name": "Pali aagar almora",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "263623",
+    "phone_number": "+91 63977 98172",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GV6Q+QHV, Bhanoli, Jageshwar Range, Uttarakhand 263623",
+    "area": "263623",
+    "latitude": 29.5119862,
+    "longitude": 79.88891149999999,
+    "place_id": "ChIJ79DJCgDFoDkRzvzW3vWQ__c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ79DJCgDFoDkRzvzW3vWQ__c",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:17:43"
+  }
+]

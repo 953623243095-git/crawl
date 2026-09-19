@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bata Shoe Store",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Bag shop, Belt shop, Boot store, Clothing store",
+    "pincode": "263624",
+    "phone_number": "+91 72482 33306",
+    "website": "https://stores.bata.com/bata-shoes-sandals-store-in-almora-almora",
+    "rating": 4.8,
+    "reviews_count": 21,
+    "address": "Plot No. 3343M 3345M, Mu No – 741,742, 3346M, Mall Rd, near Sp Office, Almora, Uttarakhand 263601",
+    "area": "Paltan Bazar, Dharanaula",
+    "latitude": 29.593899399999998,
+    "longitude": 79.6533913,
+    "place_id": "ChIJcXUf7Zq3oDkRg3tmo9y7ly4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcXUf7Zq3oDkRg3tmo9y7ly4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:19:54"
+  },
+  {
+    "business_name": "Sehgal Shoe Store",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Footwear wholesaler",
+    "pincode": "263624",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Chowk Bazar, Paltan Bazar, Dharanaula, Almora, Uttarakhand 263601",
+    "area": "Chowk Bazar, Paltan Bazar, Dharanaula",
+    "latitude": 29.598160699999998,
+    "longitude": 79.6592589,
+    "place_id": "ChIJl_MKLze3oDkRvXMjJqpsY2M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl_MKLze3oDkRvXMjJqpsY2M",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:19:56"
+  }
+]

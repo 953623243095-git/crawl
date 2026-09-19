@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Asian World wide logistics",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service, Freight Forwarding Agency",
+    "pincode": "263159",
+    "phone_number": "+91 99117 76998",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "#Ward No. 1, Sawalde East RMR, Uttarakhand 244715",
+    "area": "263159",
+    "latitude": 29.4548538,
+    "longitude": 79.08710049999999,
+    "place_id": "ChIJq6qqquoWCjkRsB477Yfaq6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqquoWCjkRsB477Yfaq6Y",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:05:36"
+  },
+  {
+    "business_name": "Jim Corbett Packages",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service, Tour operator",
+    "pincode": "263159",
+    "phone_number": "+91 88688 88494",
+    "website": "http://jimcorbettpackages.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dhela Rd, Ramnagar, Uttarakhand 244715",
+    "area": "263159",
+    "latitude": 29.4057516,
+    "longitude": 79.0480386,
+    "place_id": "ChIJeffZqbgVCjkRuoiKBoxa-ls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeffZqbgVCjkRuoiKBoxa-ls",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:05:37"
+  }
+]

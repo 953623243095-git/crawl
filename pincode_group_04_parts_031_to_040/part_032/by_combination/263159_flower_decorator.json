@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Flower Aura",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Bakery and Cake Shop, Cake shop, Flower designer, Gift shop",
+    "pincode": "263159",
+    "phone_number": "+91 78198 69450",
+    "website": "https://www.floweraura.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ranikhet Road, Chungi, near Bharat Petrol Pump, Lakhanpur, Ramnagar, Uttarakhand 244715",
+    "area": "Lakhanpur",
+    "latitude": 29.3999454,
+    "longitude": 79.1265454,
+    "place_id": "ChIJqwukdV4TCjkRVOiKCLU8P1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqwukdV4TCjkRVOiKCLU8P1Y",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:05:55"
+  },
+  {
+    "business_name": "Dazzle Decor Wedding",
+    "search_category": "Flower Decorator",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "263159",
+    "phone_number": "+91 92589 34749",
+    "website": "http://dazzledecorwedding.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jhirna, Dhela Rd, Ramnagar, Kaniya, Uttarakhand 244715",
+    "area": "263159",
+    "latitude": 29.403236,
+    "longitude": 79.0588573,
+    "place_id": "ChIJh94pKLQVCjkRBva9J14gPEk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh94pKLQVCjkRBva9J14gPEk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:05:55"
+  }
+]

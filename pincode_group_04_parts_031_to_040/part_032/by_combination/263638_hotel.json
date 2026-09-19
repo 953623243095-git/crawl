@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Eleven Guest House & Restaurant",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "263638",
+    "phone_number": "+91 63955 00934",
+    "website": "http://hotelelevenranikhet.com/",
+    "rating": 4.6,
+    "reviews_count": 55,
+    "address": "Ranikhet, Majkhali, Ranikhet, Uttarakhand 263652",
+    "area": "Ranikhet",
+    "latitude": 29.681102799999998,
+    "longitude": 79.5085106,
+    "place_id": "ChIJAQAAkEysoDkRZvlTrn1tOAo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAkEysoDkRZvlTrn1tOAo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:44:35"
+  },
+  {
+    "business_name": "Hotel Himtower",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "263638",
+    "phone_number": "N/A",
+    "website": "http://www.hotelhimsagar.com/",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "HMX5+4GW, Chowk Bazar, Paltan Bazar, Dharanaula, Almora, Uttarakhand 263601",
+    "area": "Chowk Bazar, Paltan Bazar, Dharanaula",
+    "latitude": 29.597850899999997,
+    "longitude": 79.65883219999999,
+    "place_id": "ChIJ9_QAKTe3oDkRwAafHWUgkBI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9_QAKTe3oDkRwAafHWUgkBI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:44:38"
+  }
+]

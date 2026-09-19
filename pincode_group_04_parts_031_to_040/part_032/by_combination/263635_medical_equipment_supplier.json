@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Himanshu medical store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center, Medical supply store",
+    "pincode": "263635",
+    "phone_number": "+91 75338 67492",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near SBI, Dewal, Purna, Uttarakhand 246427",
+    "area": "263635",
+    "latitude": 30.055820999999998,
+    "longitude": 79.5812685,
+    "place_id": "ChIJu-8nKwBDpzkRTlIP9dfm5RU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu-8nKwBDpzkRTlIP9dfm5RU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:38:27"
+  },
+  {
+    "business_name": "Suri medical store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center, Medical supply store",
+    "pincode": "263635",
+    "phone_number": "+91 78957 93193",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "near sbi, Narainbagar, Dungari, Uttarakhand 246455",
+    "area": "263635",
+    "latitude": 30.1474171,
+    "longitude": 79.37474639999999,
+    "place_id": "ChIJAwvYsFzfCTkR4Rd--Iu7nH4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAwvYsFzfCTkR4Rd--Iu7nH4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:38:29"
+  }
+]

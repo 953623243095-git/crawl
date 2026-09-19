@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aarohi Cab",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Service establishment",
+    "pincode": "263636",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 12,
+    "address": "Aarohi Cab, 263636, India",
+    "area": "263636",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJn2iXwZZJ_WkRPsVDuKsLjIg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn2iXwZZJ_WkRPsVDuKsLjIg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:40:27"
+  },
+  {
+    "business_name": "Cabsules",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service",
+    "pincode": "263636",
+    "phone_number": "+91 91183 55585",
+    "website": "https://cabsules.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "2nd Floor, 1/D-10, Sector 1, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vardan Khand, Sector 1, Gomti Nagar",
+    "latitude": 26.8423333,
+    "longitude": 81.00811759999999,
+    "place_id": "ChIJISsMu-rjmzkRLn0x83fd2Mg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJISsMu-rjmzkRLn0x83fd2Mg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:40:29"
+  }
+]

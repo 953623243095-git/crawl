@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meera Speech & Hearing Clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "263601",
+    "phone_number": "+91 91059 98877",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Government Inter College, Link Rd, Paltan Bazar, Khatyari, Almora, Uttarakhand 263601",
+    "area": "Paltan Bazar, Khatyari",
+    "latitude": 29.5985294,
+    "longitude": 79.6580223,
+    "place_id": "ChIJVRNq7oi3oDkR1lnK8CnN9p4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVRNq7oi3oDkR1lnK8CnN9p4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:09:06"
+  },
+  {
+    "business_name": "Goldleaf ENT Centre, Dehradun",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Allergist, Audiologist, Endoscopist, Hearing aid repair service, Hearing aid store, Otolaryngology clinic, Speech & Hearing Specialist, Surgeon",
+    "pincode": "263601",
+    "phone_number": "+91 76176 10101",
+    "website": "http://www.goldleafhealthmed.com/",
+    "rating": 4.3,
+    "reviews_count": 49,
+    "address": "Ananda Hospital Campus, 11/1, Lane No. 1, Shastri Nagar, Ajabpur Kalan, Dehradun, Uttarakhand 248012",
+    "area": "Shastri Nagar, Ajabpur Kalan",
+    "latitude": 30.290965699999997,
+    "longitude": 78.0579398,
+    "place_id": "ChIJLX86kJUpCTkR3pa9C0WFtvo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLX86kJUpCTkR3pa9C0WFtvo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:09:07"
+  }
+]

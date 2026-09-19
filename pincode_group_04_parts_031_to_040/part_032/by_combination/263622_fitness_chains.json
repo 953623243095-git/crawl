@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "easyFit. A unisex fitness club",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "263622",
+    "phone_number": "+91 97593 46454",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "ENGINEERING COLLEGE ROAD, Ghurdauri, Kotnal Gaon, Uttarakhand 246194",
+    "area": "263622",
+    "latitude": 30.179216399999998,
+    "longitude": 78.69922869999999,
+    "place_id": "ChIJNcYO02ikCTkRuHUnHn-bois",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNcYO02ikCTkRuHUnHn-bois",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:16:29"
+  },
+  {
+    "business_name": "Fitness zone",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "263622",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "6CJW+5F7, Deopur Kuriya, Uttarakhand 263139",
+    "area": "263622",
+    "latitude": 29.230350299999998,
+    "longitude": 79.4465519,
+    "place_id": "ChIJHdNnTACdoDkRIrqznuPeXIo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHdNnTACdoDkRIrqznuPeXIo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:16:31"
+  }
+]

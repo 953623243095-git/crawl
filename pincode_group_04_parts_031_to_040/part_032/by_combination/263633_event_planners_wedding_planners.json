@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VRJ Eventz",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event management company",
+    "pincode": "263633",
+    "phone_number": "+91 98113 64210",
+    "website": "https://vrj-eventz.onlynearme.com/",
+    "rating": 4.9,
+    "reviews_count": 36,
+    "address": "UG-16, HRC Shopping Complex, Vaibhav Khand, Indirapuram, Ghaziabad, Uttar Pradesh 201014",
+    "area": "Vaibhav Khand, Indirapuram",
+    "latitude": 28.635372699999998,
+    "longitude": 77.3652369,
+    "place_id": "ChIJVULLGLrlDDkRRzYJHKn9q1I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVULLGLrlDDkRRzYJHKn9q1I",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:35:20"
+  },
+  {
+    "business_name": "The Wedding Planning Company",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding service",
+    "all_categories": "Wedding service, Service establishment",
+    "pincode": "263633",
+    "phone_number": "+91 70176 62409",
+    "website": "http://www.twpc.in/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "The Wedding Planning Company, 263633, India",
+    "area": "263633",
+    "latitude": 29.9318419,
+    "longitude": 78.94203739999999,
+    "place_id": "ChIJPZOavKzjDDkRb6cAhnUqmqs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPZOavKzjDDkRb6cAhnUqmqs",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:35:22"
+  }
+]

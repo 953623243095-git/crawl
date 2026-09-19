@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Truck Junction",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Truck dealer",
+    "all_categories": "Truck dealer",
+    "pincode": "263624",
+    "phone_number": "N/A",
+    "website": "https://trucks.tractorjunction.com/en/contact-us",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Agarsen Circle, Truck Junction, 4th Floor, M M Tower, Plot No-09, NEB Housing Board Main Rd, Subhash Nagar, Anand Vihar, Shastri Nagar, Alwar, Rajasthan 301001",
+    "area": "N.E.B. Housing Board, Subhash Nagar, Anand Vihar, Shastri Nagar",
+    "latitude": 27.566578,
+    "longitude": 76.6265487,
+    "place_id": "ChIJAbK0F9C06CAR2OHfPMPbMyU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAbK0F9C06CAR2OHfPMPbMyU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:20:11"
+  },
+  {
+    "business_name": "S.S TRACTOR",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "263624",
+    "phone_number": "+91 86077 00009",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Gadar patti Sector 29 Near Gulmohar city, Jind - Kaithal Rd, bypass, Kaithal, Haryana 136027",
+    "area": "Sector 29, bypass",
+    "latitude": 29.785499299999998,
+    "longitude": 76.4200293,
+    "place_id": "ChIJcRRwJhPhETkR8ofaIJTlrak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcRRwJhPhETkR8ofaIJTlrak",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:20:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gov Rashan shop",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "263631",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RXF9+MG9 Primary School, Mal Suna, Uttarakhand 263640",
+    "area": "263631",
+    "latitude": 29.8244787,
+    "longitude": 79.96834249999999,
+    "place_id": "ChIJ95R-DAAtpzkR2e0dDfL2aNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ95R-DAAtpzkR2e0dDfL2aNc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:32:21"
+  },
+  {
+    "business_name": "Kameri Devi",
+    "search_category": "Malls",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "263631",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 78,
+    "address": "kameri devi, Seri, Deo Toli, Uttarakhand 263640",
+    "area": "263631",
+    "latitude": 29.846914299999998,
+    "longitude": 79.9614971,
+    "place_id": "ChIJdzSgNCItpzkRwwpoKFsyDcU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdzSgNCItpzkRwwpoKFsyDcU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:32:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Omkaar",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Restaurant",
+    "pincode": "263632",
+    "phone_number": "+91 99971 90213",
+    "website": "http://www.hotelomkaar.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Tehsil Road, Kapkote, Bageshwar, Uttarakhand 263679",
+    "area": "Kapkote",
+    "latitude": 30.186325999999998,
+    "longitude": 79.995334,
+    "place_id": "ChIJRSacmdkYpzkRFL5oZD8WLc0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRSacmdkYpzkRFL5oZD8WLc0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:33:32"
+  },
+  {
+    "business_name": "Ananda Homestay Kausani",
+    "search_category": "Resort",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "263632",
+    "phone_number": "+91 96273 52056",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 534,
+    "address": "Near Tea Garden Himalaya view point, Kausani-Baijnath Rd, Kausani, Uttarakhand 263639",
+    "area": "263632",
+    "latitude": 29.8517141,
+    "longitude": 79.60583629999999,
+    "place_id": "ChIJFT_dToVPpzkRNSFAOCqAHw0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFT_dToVPpzkRNSFAOCqAHw0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:33:33"
+  }
+]

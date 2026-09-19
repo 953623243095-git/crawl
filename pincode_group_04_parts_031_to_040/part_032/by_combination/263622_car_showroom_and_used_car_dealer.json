@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sami automobile",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Suzuki dealer",
+    "all_categories": "Suzuki dealer",
+    "pincode": "263622",
+    "phone_number": "+91 94129 85581",
+    "website": "http://www.samiautomobiles.com/",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Mall Rd, Bakshi Khola, Paltan Bazar, Dharanaula, Almora, Uttarakhand 263601",
+    "area": "Bakshi Khola, Paltan Bazar, Dharanaula",
+    "latitude": 29.600616,
+    "longitude": 79.6610595,
+    "place_id": "ChIJ5ZPcrM23oDkR-iwhtpKjcss",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5ZPcrM23oDkR-iwhtpKjcss",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:16:32"
+  },
+  {
+    "business_name": "Tata Motors Cars Showroom - Oberai Motors, Rudraprayag",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "263622",
+    "phone_number": "+91 91679 93469",
+    "website": "https://dealer-locator.cars.tatamotors.com/tata-motors-cars-showroom-oberai-motors-rudraprayag-car-dealer-tilani-rudraprayag-272890/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Badrinath Marg, Tilani, Uttarakhand 246171",
+    "area": "263622",
+    "latitude": 30.3007462,
+    "longitude": 79.0081452,
+    "place_id": "ChIJkSFINk63CTkRW9sSg829jBY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkSFINk63CTkRW9sSg829jBY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:16:33"
+  }
+]

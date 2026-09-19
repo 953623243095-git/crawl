@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JP Computer Classes",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center, Coaching Center, Computer service, Computer software store, Print shop, Website designer",
+    "pincode": "263622",
+    "phone_number": "+91 135 315 7555",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Mussoorie colony, Selakui, Uttarakhand 248011",
+    "area": "263622",
+    "latitude": 30.374032999999997,
+    "longitude": 77.87433949999999,
+    "place_id": "ChIJm2lWaAArDzkRtpvyGPK1Zjo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm2lWaAArDzkRtpvyGPK1Zjo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:17:09"
+  },
+  {
+    "business_name": "Dev Computer Center",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "263622",
+    "phone_number": "+91 99908 82021",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "G48P+V3P, Saari Village, Uttarakhand 246469",
+    "area": "263622",
+    "latitude": 30.5172141,
+    "longitude": 79.1352071,
+    "place_id": "ChIJcV-ZssMzCDkREuqzpNFRjAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcV-ZssMzCDkREuqzpNFRjAE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:17:10"
+  }
+]

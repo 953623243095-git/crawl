@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Luxury Dream Realty Pvt Ltd",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent",
+    "pincode": "263636",
+    "phone_number": "+91 99719 99230",
+    "website": "http://www.luxurydreamrealty.in/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "SHOP 2 BABUPUR, Northern Peripheral Rd, Sector 109, Gurugram, Haryana 122017, Gurugram, Haryana 122006",
+    "area": "Babupur Village",
+    "latitude": 28.5125641,
+    "longitude": 76.997432,
+    "place_id": "ChIJKd1nzTnW20kRMmrDzaswJVQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKd1nzTnW20kRMmrDzaswJVQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:41:19"
+  },
+  {
+    "business_name": "Yashvi Real Estate - Real Estate Agent & Consultant in Dehradun",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Industrial real estate agency",
+    "all_categories": "Industrial real estate agency, Apartment building, Condominium complex, Real Estate Builders & Construction Company, Consultant, Housing society, Property investment company, Property management company, Real estate consultant, Real estate developer",
+    "pincode": "263636",
+    "phone_number": "+91 92582 02914",
+    "website": "https://yashvirealestate.com/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "1st floor, It Park, Shop no. 18 Doon Square, Dehradun, Uttarakhand 248013",
+    "area": "Doon IT Park, Govind Vihar",
+    "latitude": 30.3646098,
+    "longitude": 78.0852701,
+    "place_id": "ChIJHbOzYd7XCDkRWO5g8zjTOB0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHbOzYd7XCDkRWO5g8zjTOB0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:41:21"
+  }
+]

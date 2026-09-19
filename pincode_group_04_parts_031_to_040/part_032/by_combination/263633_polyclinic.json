@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Narendra's Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Dentist",
+    "all_categories": "Dentist, Dental clinic, Dental hygienist, Dental implants periodontist, Dental implants provider, Diagnostic center, Doctor, Homeopath, Homeopathic pharmacy",
+    "pincode": "263633",
+    "phone_number": "+91 75001 02288",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 25,
+    "address": "Jai Durga Commercial Plaza, Selakui, Central Hope Town, Uttarakhand 248011",
+    "area": "263633",
+    "latitude": 30.3554848,
+    "longitude": 77.8548385,
+    "place_id": "ChIJR3HXsz4qDzkRTJAfMR0TPl0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR3HXsz4qDzkRTJAfMR0TPl0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:34:49"
+  },
+  {
+    "business_name": "Dr.painuli's Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Ayurvedic clinic, Medical clinic, Neurologist, Women's health clinic, Orthopedic clinic, Pain control clinic, Physiotherapist, Physiotherapy Center",
+    "pincode": "263633",
+    "phone_number": "+91 98971 83188",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "332, tea estate, Banjarawala, Dehradun, Uttarakhand 248121",
+    "area": "Banjarawala",
+    "latitude": 30.281570499999997,
+    "longitude": 78.03177459999999,
+    "place_id": "ChIJ1c4aTW8pCTkRfvq91UGZWIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1c4aTW8pCTkRfvq91UGZWIY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:34:49"
+  }
+]

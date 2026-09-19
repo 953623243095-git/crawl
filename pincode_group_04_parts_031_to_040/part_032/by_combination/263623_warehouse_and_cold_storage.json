@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neelam Cold Storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "263623",
+    "phone_number": "+91 97211 12851",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "881 Rajendra Chauraha, Road, Rania, Raipur, Uttar Pradesh 205304",
+    "area": "263623",
+    "latitude": 26.418475899999997,
+    "longitude": 80.1175507,
+    "place_id": "ChIJHQDEM2BLnDkRaCMPdzVd7eE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHQDEM2BLnDkRaCMPdzVd7eE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:19:22"
+  },
+  {
+    "business_name": "Coldrush Logistics Pvt Ltd",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "263623",
+    "phone_number": "+91 22 4002 0499",
+    "website": "https://coldrushlogistics.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Peer Warehouse & Logistics Hub, C/O, Road, near Reliance Ghora More, Nayapara, Siliguri, Dabgram, West Bengal 735135",
+    "area": "Nayapara",
+    "latitude": 26.677799,
+    "longitude": 88.4623032,
+    "place_id": "ChIJpSvHtwdD5DkRsHi72fyW7RM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpSvHtwdD5DkRsHi72fyW7RM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:19:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BANGAS",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "263636",
+    "phone_number": "+91 93103 63541",
+    "website": "http://www.bangasclothing.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Mall Rd, opposite Domino’s, The Mall Road, Mussoorie, Uttarakhand 248179",
+    "area": "The Mall Road",
+    "latitude": 30.456015299999997,
+    "longitude": 78.0780096,
+    "place_id": "ChIJzQwh_lTRCDkRH894AY9Sdes",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzQwh_lTRCDkRH894AY9Sdes",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:40:09"
+  },
+  {
+    "business_name": "Karpooram - The Women Emporio",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Youth clothing store",
+    "all_categories": "Youth clothing store, Clothing store, Outlet mall",
+    "pincode": "263636",
+    "phone_number": "+91 88006 72652",
+    "website": "https://www.thewomenemporio.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "D22, RDC, Block 1, P & T Colony, Raj Nagar, Ghaziabad, Uttar Pradesh 201002",
+    "area": "RDC, Block 1, P & T Colony, Raj Nagar",
+    "latitude": 28.674646,
+    "longitude": 77.439714,
+    "place_id": "ChIJIVX9_pjxDDkRJv49hvpeW2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIVX9_pjxDDkRJv49hvpeW2I",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:40:09"
+  }
+]

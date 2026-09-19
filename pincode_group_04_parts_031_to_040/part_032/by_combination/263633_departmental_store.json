@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "sanju koranga",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "263633",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sundar Singh Kapkot, Jhuni, Jhopra Goan, Uttarakhand 263679",
+    "area": "263633",
+    "latitude": 29.957192199999998,
+    "longitude": 79.9879799,
+    "place_id": "ChIJpdtW-w8vpzkRTgPSniRpIfc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpdtW-w8vpzkRTgPSniRpIfc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:34:16"
+  },
+  {
+    "business_name": "Rathour",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "263633",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WW5X+9X5, Reema, Banlekh, Rimakyuti, Uttarakhand 263634",
+    "area": "Reema",
+    "latitude": 29.9083957,
+    "longitude": 79.94999279999999,
+    "place_id": "ChIJRe4SLwAvpzkR3AYV3A8Rsg4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRe4SLwAvpzkR3AYV3A8Rsg4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:34:16"
+  }
+]

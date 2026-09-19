@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mornaula Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "263625",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 20,
+    "address": "Mornaula, Uttarakhand 263625",
+    "area": "263625",
+    "latitude": 29.4505639,
+    "longitude": 79.77343979999999,
+    "place_id": "ChIJnY0rdPDAoDkRxehXMkSuWWY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnY0rdPDAoDkRxehXMkSuWWY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:22:29"
+  },
+  {
+    "business_name": "B2 Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "263625",
+    "phone_number": "+91 98978 84722",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "kosi main market, Dilkot, Sunoli Malli, Uttarakhand 263643",
+    "area": "263625",
+    "latitude": 29.6345472,
+    "longitude": 79.6264836,
+    "place_id": "ChIJP_SBkDCxoDkRYBM8PXtqGmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP_SBkDCxoDkRYBM8PXtqGmY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:22:32"
+  }
+]

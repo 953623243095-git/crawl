@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Roots Resorts Jalna Almora",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "263625",
+    "phone_number": "+91 98718 94732",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 38,
+    "address": "The Roots, Jalna, Uttarakhand 263625",
+    "area": "263625",
+    "latitude": 29.549274699999998,
+    "longitude": 79.71632819999999,
+    "place_id": "ChIJ0zl0adm5oDkRlnGmQBm5z04",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0zl0adm5oDkRlnGmQBm5z04",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:22:31"
+  },
+  {
+    "business_name": "Mohan's Binsar Retreat",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "263625",
+    "phone_number": "+91 78305 99986",
+    "website": "https://mohansbinsarretreat.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Mohan's Binsar Retreat, Kasar Devi, Road, Binsar, Uttarakhand 263601",
+    "area": "263625",
+    "latitude": 29.649692299999998,
+    "longitude": 79.66454689999999,
+    "place_id": "ChIJwyGxKbu2oDkRXKeIZvRM4wQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwyGxKbu2oDkRXKeIZvRM4wQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:22:33"
+  }
+]

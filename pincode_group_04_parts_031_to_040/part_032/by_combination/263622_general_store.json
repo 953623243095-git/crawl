@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gunnu general store",
+    "search_category": "General Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "263622",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "J2H2+VP3, Timta Pithoragarh Rd, Markhanuei, Gangolihat, Paudhar R.F., Uttarakhand 262522",
+    "area": "Markhanuei",
+    "latitude": 29.629626199999997,
+    "longitude": 80.001791,
+    "place_id": "ChIJ5xY3ZgDRoDkRWN-VwYRiceI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5xY3ZgDRoDkRWN-VwYRiceI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:16:00"
+  },
+  {
+    "business_name": "Gautam Joshi General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "263622",
+    "phone_number": "+91 94101 62593",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "JQVQ+4P6, Pithoragarh - Almora Rd, Pandetoli, Uttarakhand 263624",
+    "area": "263622",
+    "latitude": 29.642775999999998,
+    "longitude": 79.7892695,
+    "place_id": "ChIJI8cBTwDJoDkRNKNIBhe2BDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI8cBTwDJoDkRNKNIBhe2BDE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:16:02"
+  }
+]

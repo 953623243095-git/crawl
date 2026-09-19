@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "263626",
+    "phone_number": "+91 94583 05620",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "shaharphatak, Uttarakhand 263625",
+    "area": "263626",
+    "latitude": 29.462699999999998,
+    "longitude": 79.75497,
+    "place_id": "ChIJjezLBbjBoDkRca0bWwV4tig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjezLBbjBoDkRca0bWwV4tig",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:24:38"
+  },
+  {
+    "business_name": "Mohan joshi bamanswal (Mohit",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile network operator",
+    "all_categories": "Mobile network operator",
+    "pincode": "263626",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "HQGJ+QWQ, Bamanswal, Barsima, Uttarakhand 263623",
+    "area": "263626",
+    "latitude": 29.576962499999997,
+    "longitude": 79.78235939999999,
+    "place_id": "ChIJD6HtUQDHoDkRCyyZmXG4JTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD6HtUQDHoDkRCyyZmXG4JTU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:24:38"
+  }
+]

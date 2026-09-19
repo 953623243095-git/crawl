@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gapuchee",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Toy store",
+    "all_categories": "Toy store",
+    "pincode": "263632",
+    "phone_number": "+91 90333 12020",
+    "website": "http://www.gapuchee.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Pandol Industrial Estate, 475, 2, Ved Rd, Surat, Gujarat 395003",
+    "area": "Fatakdawadi, Industrial Area, Singanpor",
+    "latitude": 21.2134035,
+    "longitude": 72.8202471,
+    "place_id": "ChIJ9Zn0dpFO4DsRwErEDx80kTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Zn0dpFO4DsRwErEDx80kTc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:33:09"
+  },
+  {
+    "business_name": "TCH Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "263632",
+    "phone_number": "+91 79906 10665",
+    "website": "http://www.tchstore.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "workshop, 06 Fatima Estate, behind BRTS, opp. Waliden Masjid, Chhipakuva, Ahmedabad, Gujarat 382405",
+    "area": "Chhipakuva",
+    "latitude": 22.9816,
+    "longitude": 72.5838236,
+    "place_id": "ChIJp7gDGQyFXjkRVpBplFYxwD0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp7gDGQyFXjkRVpBplFYxwD0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:33:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shaharfatak",
+    "search_category": "Commercial Complex",
+    "primary_category": "Parking lot",
+    "all_categories": "Parking lot",
+    "pincode": "263623",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "FQ74+42V, North Gola Range, Uttarakhand 263157",
+    "area": "263623",
+    "latitude": 29.462863,
+    "longitude": 79.7550358,
+    "place_id": "ChIJWUb2zmHBoDkRYgsqwwjQsg0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWUb2zmHBoDkRYgsqwwjQsg0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:19:30"
+  },
+  {
+    "business_name": "The Mountain View Home Stay",
+    "search_category": "Commercial Complex",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "263623",
+    "phone_number": "+91 94121 65205",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 44,
+    "address": "JRHG+544, Artola, Aartola, Uttarakhand 263623",
+    "area": "263623",
+    "latitude": 29.6279069,
+    "longitude": 79.8260555,
+    "place_id": "ChIJ-SlVCADJoDkRC0lYRuj8tQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-SlVCADJoDkRC0lYRuj8tQg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:19:31"
+  }
+]

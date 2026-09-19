@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kajal Tour & Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Bus tour agency, Car leasing service, Helicopter tour agency, Pilgrimage place, Sightseeing Tour Operator, Taxi service, Tour operator",
+    "pincode": "263621",
+    "phone_number": "+91 87557 38283",
+    "website": "https://sites.google.com/view/kajaltourtravelin/WhatsApp-",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Near umiya Dham, Haripur kalan Gali no-5, Saptrishi Rd, Haripur Kalan, Haridwar, Uttarakhand 249205",
+    "area": "Haripur Kalan",
+    "latitude": 29.9946074,
+    "longitude": 78.1948681,
+    "place_id": "ChIJ59kBikNHCTkR49IAzBXu_bQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ59kBikNHCTkR49IAzBXu_bQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:14:47"
+  },
+  {
+    "business_name": "Classic Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "263621",
+    "phone_number": "+91 87450 00855",
+    "website": "http://classicbus.in/",
+    "rating": 1.5,
+    "reviews_count": null,
+    "address": "Chandni Chowk Rd, near Ritz Cinema, Old Delhi, Kashmere Gate, New Delhi, Delhi, 110006",
+    "area": "Old Delhi, Kashmere Gate",
+    "latitude": 28.6664723,
+    "longitude": 77.2332892,
+    "place_id": "ChIJzRNGYgj9DDkRanPZROYUQDk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzRNGYgj9DDkRanPZROYUQDk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:14:47"
+  }
+]

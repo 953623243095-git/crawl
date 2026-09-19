@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Solitude at Jalna",
+    "search_category": "Salon",
+    "primary_category": "Farmstay",
+    "all_categories": "Farmstay",
+    "pincode": "263625",
+    "phone_number": "+91 80065 86205",
+    "website": "https://solitudestays.com/",
+    "rating": 4.8,
+    "reviews_count": 40,
+    "address": "lohaghat road, Jalna, Uttarakhand 263625",
+    "area": "263625",
+    "latitude": 29.549126599999997,
+    "longitude": 79.7151876,
+    "place_id": "ChIJO9dBvEq5oDkRGLnYGK8Wzho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO9dBvEq5oDkRGLnYGK8Wzho",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:22:21"
+  },
+  {
+    "business_name": "New stylist haier saloon",
+    "search_category": "Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "263625",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GQR2+J78, Lohaghat - Devidhura - Almora Rd, Kina Lagga Sangroli, Uttarakhand 263625",
+    "area": "263625",
+    "latitude": 29.5415475,
+    "longitude": 79.75070869999999,
+    "place_id": "ChIJFVy82rnHoDkRuWALBGlxN-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFVy82rnHoDkRuWALBGlxN-M",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:22:21"
+  }
+]

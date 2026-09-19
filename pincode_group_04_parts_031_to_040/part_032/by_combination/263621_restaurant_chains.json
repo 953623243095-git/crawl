@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tamarind Multi Cuisine Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant, Family restaurant",
+    "pincode": "263621",
+    "phone_number": "+91 99970 39999",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "70, roorkee, near by tamarind rastaurant, Civil Lines, Roorkee, Uttarakhand 247667",
+    "area": "Civil Lines",
+    "latitude": 29.8723693,
+    "longitude": 77.8919227,
+    "place_id": "ChIJmeyW73yzDjkRlfONpqERiUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmeyW73yzDjkRlfONpqERiUs",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:14:19"
+  },
+  {
+    "business_name": "Rustic House",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Modern Indian restaurant",
+    "all_categories": "Modern Indian restaurant, Cafe, Chinese restaurant, Fast food restaurant, Italian restaurant, Thai restaurant",
+    "pincode": "263621",
+    "phone_number": "+91 97201 55555",
+    "website": "https://www.instagram.com/_rustic_house/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "77/2, Civil Lines, 77/2, IIT Road, above Karisma Boutique, Civil Lines, Roorkee, Uttarakhand 247667",
+    "area": "Civil Lines",
+    "latitude": 29.8733701,
+    "longitude": 77.8941996,
+    "place_id": "ChIJwVfF1WKzDjkRj82PYSoDsH4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwVfF1WKzDjkRj82PYSoDsH4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:14:19"
+  }
+]

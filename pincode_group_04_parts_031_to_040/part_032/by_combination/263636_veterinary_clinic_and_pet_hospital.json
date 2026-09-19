@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shalimar Pet clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Emergency veterinarian service, Animal hospital",
+    "pincode": "263636",
+    "phone_number": "+91 96540 00193",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 191,
+    "address": "2/96, near Ekta park, Sector 2, Rajendra Nagar, Sahibabad, Ghaziabad, Uttar Pradesh 201005",
+    "area": "Sector 2, Rajendra Nagar, Sahibabad",
+    "latitude": 28.688443699999997,
+    "longitude": 77.34677599999999,
+    "place_id": "ChIJRznAPwD7DDkRTUhsaehnq1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRznAPwD7DDkRTUhsaehnq1k",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:40:19"
+  },
+  {
+    "business_name": "Vyas Animal Care and Cure pet hospital,shop and surgery centre",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Animal hospital, Pet store",
+    "pincode": "263636",
+    "phone_number": "+91 94257 73748",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "178, New High Ct Rd, Narsingh Nagar, Sharda Vihar, Mahalgaon, Gwalior, Madhya Pradesh 474002",
+    "area": "Narsingh Nagar, Sharda Vihar, Mahalgaon",
+    "latitude": 26.201022,
+    "longitude": 78.1890732,
+    "place_id": "ChIJ-cmH2XbFdjkRr54bhmUmxIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-cmH2XbFdjkRr54bhmUmxIY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:40:20"
+  }
+]

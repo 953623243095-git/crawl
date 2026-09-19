@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Advertising",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "263621",
+    "phone_number": "+91 97600 29010",
+    "website": "https://royaladvertising.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "16, 9, Ballupur Rd, near KFC, Vijay Park, Dehradun, Uttarakhand 248001",
+    "area": "Vijay Park",
+    "latitude": 30.333343,
+    "longitude": 78.016125,
+    "place_id": "ChIJk5XQlZQpCTkRhh-TtlVamx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk5XQlZQpCTkRhh-TtlVamx8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:15:49"
+  },
+  {
+    "business_name": "Stimulus Advertising Inc.",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "263621",
+    "phone_number": "+91 99530 09070",
+    "website": "https://stimulusadvertising.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "10, Saharanpur Rd, Patel Nagar, Dehradun, Uttarakhand 248001",
+    "area": "Patel Nagar",
+    "latitude": 30.3141619,
+    "longitude": 78.0243478,
+    "place_id": "ChIJ4YJzQ4kpCTkRHuTX1CZjJzM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4YJzQ4kpCTkRHuTX1CZjJzM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:15:50"
+  }
+]

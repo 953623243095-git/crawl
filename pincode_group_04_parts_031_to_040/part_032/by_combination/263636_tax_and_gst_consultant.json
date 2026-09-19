@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VGC Advisors Pvt Ltd",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant, Accountant, Accounting firm, Bookkeeping service, Business management consultant, Business to business service, Financial audit, Financial planner, Chartered accountant, Tax preparation",
+    "pincode": "263636",
+    "phone_number": "+91 93549 88846",
+    "website": "http://www.vgcadvisors.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "810, 8TH FLOOR, Wave Silver Tower, D Block, Pocket D, Sector 18, Noida, Uttar Pradesh 201301",
+    "area": "D Block, Pocket D, Sector 18",
+    "latitude": 28.5717216,
+    "longitude": 77.3246219,
+    "place_id": "ChIJB-r0EU_kDDkRDfaISnm_kbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB-r0EU_kDDkRDfaISnm_kbg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:41:11"
+  },
+  {
+    "business_name": "CA SHastra",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant, Chartered accountant",
+    "pincode": "263636",
+    "phone_number": "+91 70151 42881",
+    "website": "https://cashastra.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Second Floor, 485/10, near Taneja Hospital, Krishna Colony, Sector 7, Gurugram, Haryana 122001",
+    "area": "Krishna Colony, Sector 7",
+    "latitude": 28.465855899999998,
+    "longitude": 77.01345409999999,
+    "place_id": "ChIJVVU6fSoYDTkRlxN_4L_pKfM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVU6fSoYDTkRlxN_4L_pKfM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:41:11"
+  }
+]

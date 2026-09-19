@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prachi Health Care",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "263629",
+    "phone_number": "+91 94155 18057",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "D-3, Kanpur Rd, Sector G, LDA Colony, Lucknow, Uttar Pradesh 226012",
+    "area": "Sector G, LDA Colony",
+    "latitude": 26.7876674,
+    "longitude": 80.9033953,
+    "place_id": "ChIJ1eX__wD8mzkRtRbxlO8WZmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1eX__wD8mzkRtRbxlO8WZmw",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:27:28"
+  },
+  {
+    "business_name": "जीवन हेल्थ क्लीनिक",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "263629",
+    "phone_number": "+91 95848 58498",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Naka Chandrvadni, Vijaynagar, Gwalior, Madhya Pradesh 474009",
+    "area": "Naka Chandrvadni, Vijaynagar",
+    "latitude": 26.190555699999997,
+    "longitude": 78.1705344,
+    "place_id": "ChIJj6bgWDjEdjkRxjgNaD6Ha0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj6bgWDjEdjkRxjgNaD6Ha0I",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:27:28"
+  }
+]

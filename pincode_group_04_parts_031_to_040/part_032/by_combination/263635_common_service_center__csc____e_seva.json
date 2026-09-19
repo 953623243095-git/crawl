@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Common service centre (CSC)",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "263635",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bus Stop, Bhatkot, Chandikhet, Uttarakhand 263656",
+    "area": "263635",
+    "latitude": 29.872662,
+    "longitude": 79.342827,
+    "place_id": "ChIJI8G44Vr9CTkREpDYXYo09UU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI8G44Vr9CTkREpDYXYo09UU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:39:11"
+  },
+  {
+    "business_name": "CSC Center (Jan Seva Kendra)",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "263635",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 9,
+    "address": "Royal Fashion ke pas, Factory road, Mundiya Pistaur, Bazpur, Uttarakhand 262401",
+    "area": "Mundiya Pistaur",
+    "latitude": 29.154648899999998,
+    "longitude": 79.1401767,
+    "place_id": "ChIJkQ0f7iFlCjkRud9CnoDs4LQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkQ0f7iFlCjkRud9CnoDs4LQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:39:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "digital marketing",
+    "search_category": "Growth Marketing",
+    "primary_category": "Newspaper publisher",
+    "all_categories": "Newspaper publisher, Service establishment",
+    "pincode": "263601",
+    "phone_number": "N/A",
+    "website": "https://samacharbazar.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "digital marketing, 263601, India",
+    "area": "263601",
+    "latitude": 28.6440837,
+    "longitude": 77.0932314,
+    "place_id": "ChIJAcdZFyUfDGgRed6rcvHJCNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAcdZFyUfDGgRed6rcvHJCNw",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:10:16"
+  },
+  {
+    "business_name": "Grow Vision India",
+    "search_category": "Growth Marketing",
+    "primary_category": "Website designer",
+    "all_categories": "Website designer, Advertising agency, Branding agency, Business development service, Graphic designer, Internet marketing service, Institute of technology, Marketing agency, Marketing consultant, Web hosting company",
+    "pincode": "263601",
+    "phone_number": "+91 95689 21547",
+    "website": "https://growvisionindia.in/",
+    "rating": 4.7,
+    "reviews_count": 13,
+    "address": "near Umar Masjid, Mabood Nagar, Mamoon Nagar, Shah Jamal, Aligarh, Uttar Pradesh 202001",
+    "area": "Mabood Nagar, Mamoon Nagar, Shah Jamal",
+    "latitude": 27.876587699999998,
+    "longitude": 78.0480985,
+    "place_id": "ChIJmUBilvWldDkRDCI6traEuL0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmUBilvWldDkRDCI6traEuL0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:10:18"
+  }
+]

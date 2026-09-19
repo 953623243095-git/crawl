@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohan Oil Mills",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "263629",
+    "phone_number": "+91 93508 86328",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 22,
+    "address": "Shop No. 48, INA Market, Aviation Colony, INA Colony, New Delhi, Delhi 110023",
+    "area": "INA Market, Aviation Colony, INA Colony",
+    "latitude": 28.5744346,
+    "longitude": 77.210173,
+    "place_id": "ChIJIwsuSWLiDDkRsKNp47435vs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIwsuSWLiDDkRsKNp47435vs",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:28:28"
+  },
+  {
+    "business_name": "S&S FLOUR AND OIL MILL",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "263629",
+    "phone_number": "+91 94467 76761",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "near SHAHEEDAR JUMA MASJID, Kayamkulam, Keralam 690502",
+    "area": "263629",
+    "latitude": 9.1818328,
+    "longitude": 76.4922239,
+    "place_id": "ChIJmzvuy3EdBjsRTCaXU-6ANzg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmzvuy3EdBjsRTCaXU-6ANzg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 08:28:28"
+  }
+]
