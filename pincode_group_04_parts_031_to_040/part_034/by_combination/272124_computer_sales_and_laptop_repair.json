@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SKYWEB COMPUTER CARE",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer store",
+    "pincode": "272124",
+    "phone_number": "+91 95544 58696",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Basti Bansi Road near post office Bhanpur, tiraha, Rudhauli, Uttar Pradesh 272151",
+    "area": "272124",
+    "latitude": 27.0286866,
+    "longitude": 82.798186,
+    "place_id": "ChIJ11U7pz8zkTkRmQj6QCpEpzs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ11U7pz8zkTkRmQj6QCpEpzs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:03:08"
+  },
+  {
+    "business_name": "Computer HUB",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "272124",
+    "phone_number": "+91 83182 89008",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 53,
+    "address": "Infront CHC, Hospital Rd, Ikauna, Uttar Pradesh 271845",
+    "area": "272124",
+    "latitude": 27.526784,
+    "longitude": 81.96398479999999,
+    "place_id": "ChIJD3a2n5bPmTkRoTFzL9Nzchc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD3a2n5bPmTkRoTFzL9Nzchc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:03:09"
+  }
+]

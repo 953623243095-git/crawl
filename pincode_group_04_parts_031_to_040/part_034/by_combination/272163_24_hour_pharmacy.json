@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Family Care Farmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "272163",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "VHQ5+V3C, Tenuwa, Budhiya, Uttar Pradesh 272163",
+    "area": "272163",
+    "latitude": 26.8896886,
+    "longitude": 82.5576274,
+    "place_id": "ChIJneL7EAC1kDkR5o6IhXV0dSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJneL7EAC1kDkR5o6IhXV0dSs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:32:04"
+  },
+  {
+    "business_name": "Srivastava Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "272163",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VH3R+85C, Barahpera Musaha, Uttar Pradesh 272163",
+    "area": "272163",
+    "latitude": 26.853324299999997,
+    "longitude": 82.59038679999999,
+    "place_id": "ChIJKcqme4jJkDkRaXkVnyNVoiw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKcqme4jJkDkRaXkVnyNVoiw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:32:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AD WORLD",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "271904",
+    "phone_number": "+91 83037 40783",
+    "website": "https://www.adworldoutdoor.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "319, City Center Mall, The Mall, Kanpur Cantonment, Kanpur, Uttar Pradesh 208004",
+    "area": "The Mall, Kanpur Cantonment",
+    "latitude": 26.4616695,
+    "longitude": 80.3598545,
+    "place_id": "ChIJeSvVcVFHnDkRCj3pwaZZDys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeSvVcVFHnDkRCj3pwaZZDys",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 05:56:00"
+  },
+  {
+    "business_name": "Cosmic Advertising Agency",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "271904",
+    "phone_number": "+91 87917 05877",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 8,
+    "address": "Prabhat Market, Near, Manju Nagar, Moradabad, Uttar Pradesh 244001",
+    "area": "Manju Nagar, Shivpuri",
+    "latitude": 28.8212467,
+    "longitude": 78.78552379999999,
+    "place_id": "ChIJ7c2r3iH7CjkRBWGmYW1vkIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7c2r3iH7CjkRBWGmYW1vkIY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 05:56:00"
+  }
+]

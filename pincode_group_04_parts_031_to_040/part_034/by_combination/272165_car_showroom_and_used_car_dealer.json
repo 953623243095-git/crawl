@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kabir Auto Sales",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Auto market",
+    "all_categories": "Auto market",
+    "pincode": "272165",
+    "phone_number": "+91 88744 36265",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 17,
+    "address": "JXHP+8F2, Mahuli, Mahuli Khas, Uttar Pradesh 272172",
+    "area": "272165",
+    "latitude": 26.628646699999997,
+    "longitude": 82.9861834,
+    "place_id": "ChIJU0j0veEhkTkRUHzVHWgXVz8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU0j0veEhkTkRUHzVHWgXVz8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:35:43"
+  },
+  {
+    "business_name": "BADRI CAR BAZAR",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "272165",
+    "phone_number": "+91 89687 55323",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "NEAR ONKAR GAS G N E COLLAGE ROAD URBAN ESTATE Phase 1, Duggri, Ludhiana, Punjab 141001",
+    "area": "Duggri",
+    "latitude": 30.870554499999997,
+    "longitude": 75.8448222,
+    "place_id": "ChIJT3ib9EmCGjkRY9he5uQXvvc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT3ib9EmCGjkRY9he5uQXvvc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:35:45"
+  }
+]

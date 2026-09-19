@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cafe rave",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Family restaurant",
+    "pincode": "272002",
+    "phone_number": "+91 96961 93654",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 25,
+    "address": "Kotwali Road Beside Galaxy Connection Gargoria, Road, Chiyabari, Basti, Uttar Pradesh 272001",
+    "area": "Chiyabari",
+    "latitude": 26.7993785,
+    "longitude": 82.7528992,
+    "place_id": "ChIJ_0kMbADbkDkRVfjAVxuwQfU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_0kMbADbkDkRVfjAVxuwQfU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 05:58:23"
+  },
+  {
+    "business_name": "Backbenchers cafe and lounge",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Continental restaurant",
+    "all_categories": "Continental restaurant",
+    "pincode": "272002",
+    "phone_number": "+91 88406 31029",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 175,
+    "address": "Sardar Patel Marg, Patel nagar, Basti, Uttar Pradesh 272002",
+    "area": "Patel nagar",
+    "latitude": 26.8105326,
+    "longitude": 82.741203,
+    "place_id": "ChIJkzy6GHnRkDkRZNR0JYalZZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkzy6GHnRkDkRZNR0JYalZZ4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 05:58:26"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harraiya",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "272155",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "QFQH+X63, Harraiya, Uttar Pradesh 272155",
+    "area": "272155",
+    "latitude": 26.7898993,
+    "longitude": 82.4781369,
+    "place_id": "ChIJ30j8FQC3kDkRogl45SgzMg4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ30j8FQC3kDkRogl45SgzMg4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:27:02"
+  },
+  {
+    "business_name": "Primary health centre ramnagar vishasarganj",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "272155",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QFW7+XRV, Basti - Faizabad Rd, Dubauliya, Harraiya, Uttar Pradesh 272155",
+    "area": "272155",
+    "latitude": 26.7974966,
+    "longitude": 82.4645492,
+    "place_id": "ChIJEfVXOgCxkDkRp6n_i5QIX78",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEfVXOgCxkDkRp6n_i5QIX78",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:27:02"
+  }
+]

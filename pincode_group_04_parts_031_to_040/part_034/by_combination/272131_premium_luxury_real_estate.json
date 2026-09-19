@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prime Realtor property",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "272131",
+    "phone_number": "+91 88606 59024",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "351 Basement, Block B1, Sector 56, Gurugram, Haryana 122011",
+    "area": "Block B1, Sector 56",
+    "latitude": 28.426464,
+    "longitude": 77.0844517,
+    "place_id": "ChIJjRTbrzEjDTkRIwKikXoRWcM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjRTbrzEjDTkRIwKikXoRWcM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:16:00"
+  },
+  {
+    "business_name": "Premmaya properties",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent",
+    "pincode": "272131",
+    "phone_number": "+91 77818 27001",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Samogar, Rajasthan 321411",
+    "area": "272131",
+    "latitude": 26.8559603,
+    "longitude": 77.2262765,
+    "place_id": "ChIJ5eXVlBrNczkRZB473fdE6x8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5eXVlBrNczkRZB473fdE6x8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:16:00"
+  }
+]

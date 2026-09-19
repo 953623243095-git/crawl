@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "प्राथमिक स्वास्थ्य केन्द्र मुसहा",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "272163",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "VH5M+V28, Basti, Uttar Pradesh 272163",
+    "area": "272163",
+    "latitude": 26.8596549,
+    "longitude": 82.58257569999999,
+    "place_id": "ChIJ9bVgCaPJkDkRgPPDJNQT5yA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9bVgCaPJkDkRgPPDJNQT5yA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:32:38"
+  },
+  {
+    "business_name": "Ayush Health Centre",
+    "search_category": "Wellness Center",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "272163",
+    "phone_number": "+91 70815 46159",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5, Jogiya, Uttar Pradesh 272163",
+    "area": "272163",
+    "latitude": 26.9039273,
+    "longitude": 82.6114231,
+    "place_id": "ChIJDxyZSMbLkDkR71sUu6lljSc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDxyZSMbLkDkR71sUu6lljSc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:32:38"
+  }
+]

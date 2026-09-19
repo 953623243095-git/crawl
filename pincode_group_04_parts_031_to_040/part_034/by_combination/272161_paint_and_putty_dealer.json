@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Asian paints house",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "272161",
+    "phone_number": "+91 70548 11203",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "529R+FV4, Gonda - Utraula Rd, Salpur Samera, Tikria, Uttar Pradesh 271601",
+    "area": "272161",
+    "latitude": 27.1686402,
+    "longitude": 82.0422124,
+    "place_id": "ChIJP3CuhvnlmTkRODhYpjd40s4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP3CuhvnlmTkRODhYpjd40s4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:28:59"
+  },
+  {
+    "business_name": "AJAY PAINTS",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "272161",
+    "phone_number": "+91 94110 62126",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Puraani Aloo Mandi, Chungi, Purani Mandi, Bhogaon, Uttar Pradesh 205262",
+    "area": "Purani Mandi",
+    "latitude": 27.2523326,
+    "longitude": 79.1852215,
+    "place_id": "ChIJiSnFTgGRdTkRvVELEVPYSe0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiSnFTgGRdTkRvVELEVPYSe0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:29:00"
+  }
+]

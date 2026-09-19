@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "City Center",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "272124",
+    "phone_number": "+91 75759 02999",
+    "website": "http://www.citycenterghy.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "GS Rd, Christian Basti, Guwahati, Assam 781006",
+    "area": "Christian Basti",
+    "latitude": 26.1546682,
+    "longitude": 91.78139519999999,
+    "place_id": "ChIJCz_e1k9ZWjcRDKw1klxfrII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCz_e1k9ZWjcRDKw1klxfrII",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:03:37"
+  },
+  {
+    "business_name": "STYLE BAAZAR PADRI BAZAR",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Outlet mall",
+    "pincode": "272124",
+    "phone_number": "+91 91470 30511",
+    "website": "https://stylebaazar.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Padri Bazar Chouraha, Phatima Road, near Police Chauki, Hussain Nagar, Gorakhpur, Uttar Pradesh 273014",
+    "area": "Hussain Nagar",
+    "latitude": 26.780889,
+    "longitude": 83.404,
+    "place_id": "ChIJu_uyze1FkTkR6RTIHIHBpvU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu_uyze1FkTkR6RTIHIHBpvU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:03:37"
+  }
+]

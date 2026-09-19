@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raza polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "272124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "SH 5, Pakri Chhabbar, Uttar Pradesh 272301",
+    "area": "272124",
+    "latitude": 26.6596713,
+    "longitude": 82.67853559999999,
+    "place_id": "ChIJLZdmKT7DkDkRcfr6ddMoIQY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLZdmKT7DkDkRcfr6ddMoIQY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:02:20"
+  },
+  {
+    "business_name": "City poly clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Medical Center, Medical clinic, Nursing home, Pediatric clinic",
+    "pincode": "272124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MM6H+Q73, Near, Kusaura Bazar Near Bajaj agency, Pakri Chhabbar, Uttar Pradesh 272301",
+    "area": "272124",
+    "latitude": 26.6619375,
+    "longitude": 82.67818749999999,
+    "place_id": "ChIJ5Q58fLzDkDkRLb0BwNAC3U0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Q58fLzDkDkRLb0BwNAC3U0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:02:20"
+  }
+]

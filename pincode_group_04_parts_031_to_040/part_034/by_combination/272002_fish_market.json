@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fish & Meat Market, Gaur",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "272002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 15,
+    "address": "WH3M+W2H, Gaur, Uttar Pradesh 272163",
+    "area": "272002",
+    "latitude": 26.9048144,
+    "longitude": 82.5826175,
+    "place_id": "ChIJLR2gvJHLkDkR1QGN5t_k3UY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLR2gvJHLkDkR1QGN5t_k3UY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 05:58:15"
+  },
+  {
+    "business_name": "Fish Market - Bardahiya - Nagar Bazar",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "272002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Bardahiya Rd, Nagar Khas, Dhusuriya, Uttar Pradesh 272302",
+    "area": "272002",
+    "latitude": 26.730894799999998,
+    "longitude": 82.68143309999999,
+    "place_id": "ChIJwbokAuLFkDkRHhCBst5IsIA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwbokAuLFkDkRHhCBst5IsIA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 05:58:17"
+  }
+]

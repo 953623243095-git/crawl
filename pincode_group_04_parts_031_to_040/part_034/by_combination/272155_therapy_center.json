@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "मौर्य परिवार",
+    "search_category": "Therapy Center",
+    "primary_category": "Family counselor",
+    "all_categories": "Family counselor",
+    "pincode": "272155",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "bazar, Harraiya - Amari Rd, Amari, Harraiya, Pakheri, Uttar Pradesh 272127",
+    "area": "Amari",
+    "latitude": 26.8247991,
+    "longitude": 82.4113275,
+    "place_id": "ChIJqeajUqWxkDkRP0FUrmZRvWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqeajUqWxkDkRP0FUrmZRvWQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:27:32"
+  },
+  {
+    "business_name": "हसीनाबाद चौराहा",
+    "search_category": "Therapy Center",
+    "primary_category": "Domestic abuse treatment center",
+    "all_categories": "Domestic abuse treatment center",
+    "pincode": "272155",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "RFXQ+RRR, Hasinabad, Puraina Khas, Uttar Pradesh 272181",
+    "area": "Hasinabad",
+    "latitude": 26.8496122,
+    "longitude": 82.4895294,
+    "place_id": "ChIJmd1qAQi3kDkRsVWkgXJo8jE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmd1qAQi3kDkRsVWkgXJo8jE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:27:32"
+  }
+]

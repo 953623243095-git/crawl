@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kalawati Greens",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Restaurant",
+    "pincode": "272164",
+    "phone_number": "+91 75189 72113",
+    "website": "https://kalawatigreens.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "MDR 113E, Son Gaon, Akbarpur, Uttar Pradesh 224122",
+    "area": "272164",
+    "latitude": 26.359858,
+    "longitude": 82.5084155,
+    "place_id": "ChIJdUuu1bSNkDkR3dt7te-pHsc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdUuu1bSNkDkR3dt7te-pHsc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:34:27"
+  },
+  {
+    "business_name": "Hotel Nayandeep Restaurant and Banquet",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "272164",
+    "phone_number": "+91 79919 94599",
+    "website": "http://hotelnayandeep.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "B/6-2, Gida, Sector 22, Sahjanwa, Uttar Pradesh 273209",
+    "area": "272164",
+    "latitude": 26.7518785,
+    "longitude": 83.2282367,
+    "place_id": "ChIJO3KeUFQ5kTkRGNoXIBh_xRs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO3KeUFQ5kTkRGNoXIBh_xRs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:34:27"
+  }
+]

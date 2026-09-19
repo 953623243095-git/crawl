@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CSC center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "272150",
+    "phone_number": "+91 82732 18373",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Bhim Nagar, Jagdish Pura, Jaipur House Colony, Agra, Uttar Pradesh 282002",
+    "area": "Bhim Nagar, Jagdish Pura, Jaipur House Colony",
+    "latitude": 27.1935243,
+    "longitude": 77.97895849999999,
+    "place_id": "ChIJtehSvhN3dDkRBfVN_NbDyak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtehSvhN3dDkRBfVN_NbDyak",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:19:13"
+  },
+  {
+    "business_name": "Digital Xpress India Pvt Ltd",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Digital printing service",
+    "all_categories": "Digital printing service, Service establishment",
+    "pincode": "272150",
+    "phone_number": "N/A",
+    "website": "https://cscindia.info/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Digital Xpress India Pvt Ltd, 272150, India",
+    "area": "272150",
+    "latitude": 25.5125432,
+    "longitude": 86.1240804,
+    "place_id": "ChIJzzbZTQ2RCUYRTH7aQBGPYnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzzbZTQ2RCUYRTH7aQBGPYnc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:19:13"
+  }
+]

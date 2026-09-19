@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nirmal Clinic (Neeraj Singhal)",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic, Dermatologist",
+    "pincode": "272153",
+    "phone_number": "+91 131 262 2271",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 60,
+    "address": "37 South Civil Lines, Dr Mukesh Jain Wali Gali, Mahaveer Chowk, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Shiv Chowk, Mahaveer Chowk",
+    "latitude": 29.4667499,
+    "longitude": 77.7036524,
+    "place_id": "ChIJ05J_uwsbDDkRCVaEOjqtFVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ05J_uwsbDDkRCVaEOjqtFVc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:23:35"
+  },
+  {
+    "business_name": "Skinfinity Derma",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic, Cosmetic surgeon, Hair removal service, Hair transplantation clinic, Laser hair removal service, Pediatric dermatologist, Dermatologist",
+    "pincode": "272153",
+    "phone_number": "+91 89297 65785",
+    "website": "http://www.skinfinityderma.com/",
+    "rating": 4.7,
+    "reviews_count": 2554,
+    "address": "Plot No. B-1, B Block, Sector 36, Noida, Uttar Pradesh 201303",
+    "area": "B Block, Sector 36",
+    "latitude": 28.5709892,
+    "longitude": 77.3498225,
+    "place_id": "ChIJzxZT-r_lDDkRnfC7vIUitzY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzxZT-r_lDDkRnfC7vIUitzY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:23:35"
+  }
+]

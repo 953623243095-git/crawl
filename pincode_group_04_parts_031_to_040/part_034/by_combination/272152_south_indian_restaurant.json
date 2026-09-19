@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The South Indian Kitchen",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "272152",
+    "phone_number": "+91 98948 10530",
+    "website": "https://thesouthindiankitchen.com/",
+    "rating": 4.1,
+    "reviews_count": 1182,
+    "address": "2, La Bourdonnais St, near lb2, near White Town, White Town, Puducherry, 605001",
+    "area": "White Town",
+    "latitude": 11.928452799999999,
+    "longitude": 79.8322457,
+    "place_id": "ChIJi9sW0KFjUzoRaGNCbOPiyhk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi9sW0KFjUzoRaGNCbOPiyhk",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:21:37"
+  },
+  {
+    "business_name": "The South Indian Kitchen (Kottakuppam)",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "272152",
+    "phone_number": "+91 98948 10530",
+    "website": "https://thesouthindiankitchen.com/",
+    "rating": 3.6,
+    "reviews_count": 86,
+    "address": "15, ECR Main Road, Kottakuppam, Vanur, Puducherry, Tamil Nadu 605104",
+    "area": "Kottakuppam",
+    "latitude": 11.967494199999999,
+    "longitude": 79.8373384,
+    "place_id": "ChIJa-d-X6RjUzoROs_vhOxBYr8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa-d-X6RjUzoROs_vhOxBYr8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:21:37"
+  }
+]

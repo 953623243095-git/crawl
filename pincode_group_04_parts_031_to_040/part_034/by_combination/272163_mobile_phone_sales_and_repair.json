@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om mobile Shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "272163",
+    "phone_number": "+91 99841 87377",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 12,
+    "address": "kali mandir ke samne, Chauraha, sabji Mandi road, Babhnan, Bhataha Jungal, Uttar Pradesh 271313",
+    "area": "272163",
+    "latitude": 26.933194999999998,
+    "longitude": 82.502329,
+    "place_id": "ChIJEWt51fC0kDkRo2WLZgdKnOk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEWt51fC0kDkRo2WLZgdKnOk",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:32:56"
+  },
+  {
+    "business_name": "Arvind Mobile And Electronic Center",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "272163",
+    "phone_number": "+91 97924 01605",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tinich Railway Station Road, Sari Kalp, Uttar Pradesh 272163",
+    "area": "272163",
+    "latitude": 26.874157,
+    "longitude": 82.6481341,
+    "place_id": "ChIJG2UsrFLJkDkR-mXMoWu9NR4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG2UsrFLJkDkR-mXMoWu9NR4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:32:57"
+  }
+]

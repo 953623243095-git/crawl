@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Optical Store",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Contact lenses supplier",
+    "all_categories": "Contact lenses supplier, Glasses repair service, Optical Wholesaler, Repair service, Sunglasses store",
+    "pincode": "272002",
+    "phone_number": "+91 99260 99074",
+    "website": "http://theopticalstore17.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "maharaja complex, 35 new, Deen Dayal Nagar, Gwalior, Madhya Pradesh 474020",
+    "area": "Deen Dayal Nagar",
+    "latitude": 26.259046899999998,
+    "longitude": 78.2103576,
+    "place_id": "ChIJm1HBACnBdjkRxC8dpcwEyH4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm1HBACnBdjkRxC8dpcwEyH4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 05:58:37"
+  },
+  {
+    "business_name": "Shakti Optical",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "272002",
+    "phone_number": "+91 74590 26070",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shakti Optical, Sahupar, Nipaniya, Uttar Pradesh 272124",
+    "area": "272002",
+    "latitude": 26.740303299999997,
+    "longitude": 82.7807218,
+    "place_id": "ChIJ2442g7HbkDkRvPQ1JlH8r5Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2442g7HbkDkRvPQ1JlH8r5Q",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 05:58:39"
+  }
+]

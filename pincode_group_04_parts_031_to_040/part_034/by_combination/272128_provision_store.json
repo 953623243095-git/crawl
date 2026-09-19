@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SA General Stor",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "272128",
+    "phone_number": "+91 88538 19765",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "SA, Pithiya Laskari, Banipur, Uttar Pradesh 272128",
+    "area": "272128",
+    "latitude": 26.6973128,
+    "longitude": 82.40890089999999,
+    "place_id": "ChIJ_RLcO3e7kDkRotREWWG9l3A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_RLcO3e7kDkRotREWWG9l3A",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:09:01"
+  },
+  {
+    "business_name": "ANMOL GENERAL STORE Ram Bahadur chaurasiya",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "272128",
+    "phone_number": "+91 94557 03246",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Kudrahi, post, Vishesharganj, Uttar Pradesh 272128",
+    "area": "272128",
+    "latitude": 26.7365216,
+    "longitude": 82.4234877,
+    "place_id": "ChIJv90TOya7kDkRXUSZo-vDg-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv90TOya7kDkRXUSZo-vDg-A",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:09:01"
+  }
+]

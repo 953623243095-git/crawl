@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satyam Electric",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "272002",
+    "phone_number": "+91 99350 56892",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chauraha, Mahson, Sahupar, Uttar Pradesh 272124",
+    "area": "Chauraha",
+    "latitude": 26.7361428,
+    "longitude": 82.7842211,
+    "place_id": "ChIJdVKaDdjbkDkROts5RWSgjCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdVKaDdjbkDkROts5RWSgjCY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 05:59:00"
+  },
+  {
+    "business_name": "Shri Ram Traders",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "272002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "bazaar, opposite UP Gramin Bank, basti, Orwara, Khadhi, Uttar Pradesh 272002",
+    "area": "basti, Orwara",
+    "latitude": 26.799155499999998,
+    "longitude": 82.83613439999999,
+    "place_id": "ChIJvRFtThrZkDkRhJTdgm5oo-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvRFtThrZkDkRhJTdgm5oo-M",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 05:59:00"
+  }
+]

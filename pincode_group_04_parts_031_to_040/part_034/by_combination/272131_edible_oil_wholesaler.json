@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agrawal Oil Industries",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company",
+    "pincode": "272131",
+    "phone_number": "+91 98296 66027",
+    "website": "http://www.ankuroil.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "No. 48, Sarang Marg, Old City, Bapu Bazar, Brahmpuri, Udaipur, Rajasthan 313001",
+    "area": "Old City, Bapu Bazar, Brahmpuri",
+    "latitude": 24.5790385,
+    "longitude": 73.6958557,
+    "place_id": "ChIJgYjCQ3nlZzkReI0UtZrH5RY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgYjCQ3nlZzkReI0UtZrH5RY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:14:34"
+  },
+  {
+    "business_name": "IndianOil",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Petrol Pump",
+    "all_categories": "Petrol Pump, Compressed natural gas station, Diesel fuel supplier, Fuel supplier",
+    "pincode": "272131",
+    "phone_number": "+91 94151 63063",
+    "website": "https://locator.iocl.com/indianoil-tel-vikas-kendra-petrol-pump-dubkhara-basti-217727/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 3.7,
+    "reviews_count": 173,
+    "address": "Ground Floor, Dubkhara, Bashwa, Uttar Pradesh 272131",
+    "area": "272131",
+    "latitude": 26.7763986,
+    "longitude": 82.6820309,
+    "place_id": "ChIJr4LKuZnFkDkRHV90kTn71dA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr4LKuZnFkDkRHV90kTn71dA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:14:36"
+  }
+]

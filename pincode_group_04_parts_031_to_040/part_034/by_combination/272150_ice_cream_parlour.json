@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aman Dairy & ice cream centre",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "272150",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Naseeb ganj, Basti - Bansi Rd, Basti, Kohera, Uttar Pradesh 272151",
+    "area": "272150",
+    "latitude": 26.9918676,
+    "longitude": 82.78071179999999,
+    "place_id": "ChIJNb5Ikv0tlzkRiKZ0lXYnfVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNb5Ikv0tlzkRiKZ0lXYnfVA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:18:12"
+  },
+  {
+    "business_name": "Sunny Icecream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "272150",
+    "phone_number": "+91 94138 00979",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "near Nagar Palika, P colony, V.I, Nadbai, Rajasthan 321602",
+    "area": "P colony, V.I",
+    "latitude": 27.216587399999998,
+    "longitude": 77.2014891,
+    "place_id": "ChIJ1RIS6lqtczkRDZBUA0tqaXs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1RIS6lqtczkRDZBUA0tqaXs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:18:13"
+  }
+]

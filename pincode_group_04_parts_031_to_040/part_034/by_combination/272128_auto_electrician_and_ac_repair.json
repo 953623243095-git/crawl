@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "kamal sharma",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service",
+    "pincode": "272128",
+    "phone_number": "+91 90571 34089",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Unnamed Road, TH Nagar, Nagar, Rajasthan 321205",
+    "area": "TH Nagar",
+    "latitude": 27.4198605,
+    "longitude": 77.0986507,
+    "place_id": "ChIJBZnwwx37cjkRiUcYKClB4s4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBZnwwx37cjkRiUcYKClB4s4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:09:40"
+  },
+  {
+    "business_name": "Vikas Auto Service",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "272128",
+    "phone_number": "+91 87076 91776",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "123, Pausara Ganj, Uttar Pradesh 224161",
+    "area": "272128",
+    "latitude": 26.6456208,
+    "longitude": 82.39823539999999,
+    "place_id": "ChIJ-1e3bcO9kDkR8dlELFCc8Z0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-1e3bcO9kDkR8dlELFCc8Z0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:09:40"
+  }
+]

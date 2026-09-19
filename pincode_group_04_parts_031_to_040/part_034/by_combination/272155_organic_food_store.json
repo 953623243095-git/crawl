@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samay natural",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Organic shop",
+    "pincode": "272155",
+    "phone_number": "+91 79841 95528",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 13,
+    "address": "Giriraj complex,opp amarnath garden,RMC west zone office road,b/h big bazar, 150 Feet Ring Rd, Rajkot, Gujarat 360005",
+    "area": "New Maruti Park Society, Chandra Park",
+    "latitude": 22.2783259,
+    "longitude": 70.772404,
+    "place_id": "ChIJ1X6dFILLWTkRXlGywtt2DNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1X6dFILLWTkRXlGywtt2DNc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:26:35"
+  },
+  {
+    "business_name": "pantanjali chikitsalaya",
+    "search_category": "Organic Food Store",
+    "primary_category": "Health food store",
+    "all_categories": "Health food store, Herbal medicine store",
+    "pincode": "272155",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QFW8+HRJ, Harraiya, Uttar Pradesh 272155",
+    "area": "272155",
+    "latitude": 26.796466499999998,
+    "longitude": 82.4671479,
+    "place_id": "ChIJjTLsCgCxkDkR0p4XY3gwH6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjTLsCgCxkDkR0p4XY3gwH6U",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:26:36"
+  }
+]

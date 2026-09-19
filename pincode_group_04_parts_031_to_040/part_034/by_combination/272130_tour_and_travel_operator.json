@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajay Tour and Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "272130",
+    "phone_number": "+91 98382 37969",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "2943+899, Babhnan - Mankapur Rd, Maskanwa, Uttar Pradesh 271302",
+    "area": "272130",
+    "latitude": 27.005794599999998,
+    "longitude": 82.3534762,
+    "place_id": "ChIJnyaC7rNTlzkR3ufa2jG2o-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnyaC7rNTlzkR3ufa2jG2o-I",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:13:18"
+  },
+  {
+    "business_name": "Shri Ram Dham Yatra Tour Ayodhya",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency, Service establishment",
+    "pincode": "272130",
+    "phone_number": "+91 97950 20007",
+    "website": "http://shriramdhamtravels.in/",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "Shri Ram Dham Yatra Tour Ayodhya, 272130, India",
+    "area": "272130",
+    "latitude": 26.0520191,
+    "longitude": 81.94414619999999,
+    "place_id": "ChIJh0Z2PZU4n4wR0EgQcw6Qd5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh0Z2PZU4n4wR0EgQcw6Qd5o",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:13:22"
+  }
+]

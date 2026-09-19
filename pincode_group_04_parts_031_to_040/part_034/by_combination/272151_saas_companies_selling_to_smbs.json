@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SMB Connect",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "272151",
+    "phone_number": "N/A",
+    "website": "https://www.smbconnect.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "22, Pocket A, NPL Colony, New Rajinder Nagar, New Delhi, Delhi 110060",
+    "area": "Pocket A, NPL Colony, New Rajinder Nagar",
+    "latitude": 28.6352133,
+    "longitude": 77.17658019999999,
+    "place_id": "ChIJx8nzF_8DDTkRWbic9rsr-Ew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx8nzF_8DDTkRWbic9rsr-Ew",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:21:20"
+  },
+  {
+    "business_name": "SMsquare Infosolutions",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "272151",
+    "phone_number": "+91 99119 18877",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "D-40, Near NIIT, South Extension II, Block C, New Delhi, Delhi 110049",
+    "area": "South Extension II, Block C",
+    "latitude": 28.5665801,
+    "longitude": 77.2201857,
+    "place_id": "ChIJXZXdK13iDDkR9uDpPAv7OLM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXZXdK13iDDkR9uDpPAv7OLM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:21:22"
+  }
+]

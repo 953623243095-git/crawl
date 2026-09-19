@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Digimix",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio, Photo lab, Photo shop, Photographer",
+    "pincode": "272131",
+    "phone_number": "+91 98324 95595",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Near Dada Bhai Hotel, 50/1, Bimal Sinha Sarani, Ward 12, Hakim Para, Siliguri, West Bengal 734001",
+    "area": "Ward 12, Hakim Para",
+    "latitude": 26.7154073,
+    "longitude": 88.4292071,
+    "place_id": "ChIJ7VEBGm1B5DkRFrFao4ENsjc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7VEBGm1B5DkRFrFao4ENsjc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:15:34"
+  },
+  {
+    "business_name": "MD Drone Service Nagaon",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Drone service",
+    "all_categories": "Drone service",
+    "pincode": "272131",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/md_rentals_nagaon?igsh=MXFsOXM4MXZyYnI4NQ==",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Juria Rd, near huzgaon chariali, Huzgaon, Nagaon, Ranga Gara Huzz, Assam 782002",
+    "area": "Huzgaon",
+    "latitude": 26.365641399999998,
+    "longitude": 92.67275479999999,
+    "place_id": "ChIJccbDKjsnRTcRpInzRcHLcfc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJccbDKjsnRTcRpInzRcHLcfc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:15:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Family Dental Care",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dentist",
+    "all_categories": "Dentist, Service establishment",
+    "pincode": "272161",
+    "phone_number": "+91 63942 12323",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "Family Dental Care, 272161, India",
+    "area": "272161",
+    "latitude": 27.130709,
+    "longitude": 82.8655824,
+    "place_id": "ChIJTb9urFkzjkkRbMjWxArs43U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTb9urFkzjkkRbMjWxArs43U",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:28:45"
+  },
+  {
+    "business_name": "Krishna Dental Care & Lab",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "272161",
+    "phone_number": "+91 77173 79765",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "railway station, near balpur, near, Maijapur, Uttar Pradesh 271126",
+    "area": "near",
+    "latitude": 27.1426753,
+    "longitude": 81.805993,
+    "place_id": "ChIJa4W0rViTmTkRvmSPXHwsJCM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa4W0rViTmTkRvmSPXHwsJCM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:28:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Komal Auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "272131",
+    "phone_number": "+91 99180 76115",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Harraiya-Babhanan Rd, Bazar, Babhnan, Uttar Pradesh 272155",
+    "area": "272131",
+    "latitude": 26.790784799999997,
+    "longitude": 82.48212749999999,
+    "place_id": "ChIJnf46uvG3kDkRNi0Z9ld8Gls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnf46uvG3kDkRNi0Z9ld8Gls",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:15:03"
+  },
+  {
+    "business_name": "INDIA MOTORS (MULTI CAR GARAGE)",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "272131",
+    "phone_number": "+91 90055 67676",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near talent kids academy, road, Ratas Urf Kaptanganj, Captainganj, Uttar Pradesh 272131",
+    "area": "road",
+    "latitude": 26.7567949,
+    "longitude": 82.57914749999999,
+    "place_id": "ChIJt_PHSgDHkDkRAp4MODHc6nM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt_PHSgDHkDkRAp4MODHc6nM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:15:04"
+  }
+]

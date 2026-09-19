@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ananya Kirana Store",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "272153",
+    "phone_number": "+91 80817 79343",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ananya Kirana, Jigna Bujurg Nh28, near Toll Plaza, Belgada, Bansi, Tillauli, Uttar Pradesh 272153",
+    "area": "Belgada",
+    "latitude": 27.1131559,
+    "longitude": 82.8867736,
+    "place_id": "ChIJsS24SxoplzkR29bPhA5-KQs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsS24SxoplzkR29bPhA5-KQs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:23:07"
+  },
+  {
+    "business_name": "Parag Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "272153",
+    "phone_number": "+91 63061 91888",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "00, Pratapnagar, Bansi, Uttar Pradesh 272153",
+    "area": "Pratapnagar",
+    "latitude": 27.1769613,
+    "longitude": 82.9264951,
+    "place_id": "ChIJCzY2fRTXljkRebjAtsCngWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCzY2fRTXljkRebjAtsCngWc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:23:07"
+  }
+]

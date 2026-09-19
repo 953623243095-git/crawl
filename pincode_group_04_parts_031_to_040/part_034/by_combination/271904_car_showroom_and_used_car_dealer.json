@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Deal 4 Wheels",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Motor vehicle dealer",
+    "pincode": "271904",
+    "phone_number": "+91 96283 74207",
+    "website": "http://www.bestdeal4wheels.in/",
+    "rating": 4.8,
+    "reviews_count": 170,
+    "address": "Hanumantpuram, Near Tripula Chauraha Allahabad, Lucknow - Prayagraj Hwy, Raebareli, Uttar Pradesh 229316",
+    "area": "271904",
+    "latitude": 26.2532909,
+    "longitude": 81.23535009999999,
+    "place_id": "ChIJueWOoH2jmzkRcmQDvcu8_mY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJueWOoH2jmzkRcmQDvcu8_mY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 05:54:51"
+  },
+  {
+    "business_name": "The Car Selection",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "271904",
+    "phone_number": "+91 97191 60001",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Highway Rd, National Highway 2, Mathura Rd, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Sikandra",
+    "latitude": 27.2100279,
+    "longitude": 77.96372029999999,
+    "place_id": "ChIJx0r14IV3dDkRZyl17Lekc_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx0r14IV3dDkRZyl17Lekc_A",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 05:54:53"
+  }
+]

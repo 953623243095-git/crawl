@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spykar",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Jeans shop, Clothing store, Outlet mall, Shopping mall, Youth clothing store",
+    "pincode": "272124",
+    "phone_number": "+91 80906 66045",
+    "website": "https://www.spykar.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop no 5-6, normal school buildings, Gandhi Nagar, Basti, Uttar Pradesh 272001",
+    "area": "Gandhi Nagar",
+    "latitude": 26.793264999999998,
+    "longitude": 82.7309277,
+    "place_id": "ChIJZccZl__FkDkRe-ztdUCsivM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZccZl__FkDkRe-ztdUCsivM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:02:05"
+  },
+  {
+    "business_name": "Perfect Mens Wear",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "272124",
+    "phone_number": "+91 95069 96668",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "QPWM+9P6, Dharmshala Rd, Gandhi Nagar, Basti, Uttar Pradesh 272001",
+    "area": "Gandhi Nagar",
+    "latitude": 26.795911099999998,
+    "longitude": 82.7342626,
+    "place_id": "ChIJT7E71lTFkDkRVmoPXdHqj0w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT7E71lTFkDkRVmoPXdHqj0w",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:02:06"
+  }
+]

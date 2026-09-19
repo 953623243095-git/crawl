@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dev Multi-speciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "272130",
+    "phone_number": "+91 63945 95819",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 24,
+    "address": "near JD petrol pump Padav, Nawabganj, Shobhapur, Uttar Pradesh 271303",
+    "area": "272130",
+    "latitude": 26.867776199999998,
+    "longitude": 82.1432368,
+    "place_id": "ChIJhdXJDB4BmjkRJjeHXi4x4Ts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhdXJDB4BmjkRJjeHXi4x4Ts",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:13:01"
+  },
+  {
+    "business_name": "Awadh Multispeciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "General hospital",
+    "all_categories": "General hospital",
+    "pincode": "272130",
+    "phone_number": "+91 98382 68500",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Babhnan road opposite railway station maskanwa bazar, Uttar Pradesh 271305",
+    "area": "272130",
+    "latitude": 27.003526599999997,
+    "longitude": 82.35728879999999,
+    "place_id": "ChIJvR5EAgBTlzkRZj0q3s75cIs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvR5EAgBTlzkRZj0q3s75cIs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:13:01"
+  }
+]

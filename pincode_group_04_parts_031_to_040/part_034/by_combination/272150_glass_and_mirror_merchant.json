@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India Glass",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass & mirror shop",
+    "all_categories": "Glass & mirror shop",
+    "pincode": "272150",
+    "phone_number": "+91 93894 24843",
+    "website": "http://www.indiaglass.in/",
+    "rating": 4.2,
+    "reviews_count": 39,
+    "address": "Shivaji Marg, Ghasyari Mandi, Aminabad, Lucknow, Uttar Pradesh 226001",
+    "area": "Ghasyari Mandi, Aminabad",
+    "latitude": 26.8416529,
+    "longitude": 80.93070399999999,
+    "place_id": "ChIJd2_z_q39mzkRjEKg6EHIxuo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd2_z_q39mzkRjEKg6EHIxuo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:18:44"
+  },
+  {
+    "business_name": "Sharma Glass House",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass & mirror shop",
+    "all_categories": "Glass & mirror shop",
+    "pincode": "272150",
+    "phone_number": "+91 94639 96066",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "8HJC+64H, GT Rd, Basti Adda, Shakti Nagar, Jalandhar, Punjab 144008",
+    "area": "Basti Adda, Shakti Nagar",
+    "latitude": 31.3305629,
+    "longitude": 75.5703608,
+    "place_id": "ChIJ53drM4taGjkR-by63MNKjXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ53drM4taGjkR-by63MNKjXE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:18:45"
+  }
+]

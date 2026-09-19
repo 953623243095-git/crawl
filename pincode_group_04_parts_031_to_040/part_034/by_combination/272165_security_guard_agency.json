@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Flag Security Ltd",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security service",
+    "all_categories": "Security service",
+    "pincode": "272165",
+    "phone_number": "+91 80 4807 3608",
+    "website": "https://flagsecurity.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "307, Flr 3, Mahim Industrial Estate, Nr Khilnani School, Mori Rd, Central Government Staff Colony, Mahim, Mumbai, Maharashtra 400016",
+    "area": "Central Government Staff Colony, Mahim",
+    "latitude": 19.0411836,
+    "longitude": 72.8434441,
+    "place_id": "ChIJAQAAAP_I5zsRH6t1HOzj0So",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAP_I5zsRH6t1HOzj0So",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:36:33"
+  },
+  {
+    "business_name": "Ns Security System",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "272165",
+    "phone_number": "+91 75238 59806",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Market, Deurpur, Budhanpur, Uttar Pradesh 276142",
+    "area": "272165",
+    "latitude": 26.2607999,
+    "longitude": 83.0262154,
+    "place_id": "ChIJKw2VxsAHkTkRnLh9M2DlABM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKw2VxsAHkTkRnLh9M2DlABM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:36:34"
+  }
+]

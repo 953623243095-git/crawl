@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mumbai Mobile",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store",
+    "pincode": "272165",
+    "phone_number": "+91 82354 92828",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "HOTEL SESAI, KAILASH BABU STREET, Main Rd, New Daily Market, Ranchi, Jharkhand 834001",
+    "area": "New Daily Market, Upper Bazar",
+    "latitude": 23.366333899999997,
+    "longitude": 85.324246,
+    "place_id": "ChIJ5eWFDavh9DkRzH1kkk2ZxrU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5eWFDavh9DkRzH1kkk2ZxrU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:36:24"
+  },
+  {
+    "business_name": "RUNSH MOBILE SHOP",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Cell phone store, Mobile phone repair shop",
+    "pincode": "272165",
+    "phone_number": "N/A",
+    "website": "https://www.runshmobileshop.com/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Pipersandi, Kuwa, Uttar Pradesh 273404",
+    "area": "272165",
+    "latitude": 26.474983599999998,
+    "longitude": 83.1301117,
+    "place_id": "ChIJc47QsPcRkTkR3KYYmoJ_UXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc47QsPcRkTkR3KYYmoJ_UXY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:36:26"
+  }
+]

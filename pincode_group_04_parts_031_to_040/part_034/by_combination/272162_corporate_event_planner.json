@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHOWMAQERS",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Wedding planner, Event planner, Florist, Flower designer, Party equipment rental service, Party planner, Stage lighting equipment supplier, Tent House Supplier, Wedding service",
+    "pincode": "272162",
+    "phone_number": "+91 98117 88643",
+    "website": "http://www.showmaqers.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "H.N160, dhappa colony, Rajpur, Chhatarpur, New Delhi, Delhi 110068",
+    "area": "dhappa colony, Rajpur, Chhatarpur",
+    "latitude": 28.489805699999998,
+    "longitude": 77.1902254,
+    "place_id": "ChIJs3aIDT0fDTkRx0JY33cugp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs3aIDT0fDTkRx0JY33cugp0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:31:05"
+  },
+  {
+    "business_name": "Ashirwad Tent House Dhanghata आशीर्वाद टेंट हाउस धनघटा",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Tent House Supplier",
+    "all_categories": "Tent House Supplier",
+    "pincode": "272162",
+    "phone_number": "+91 94155 11206",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 128,
+    "address": "ASHIRWAD Tent House, Khalilabad Road, near Shiv mandir, MDR81E, Dhan Ghata, Gagar Garh, Uttar Pradesh 272162",
+    "area": "MDR81E",
+    "latitude": 26.554975,
+    "longitude": 83.0081495,
+    "place_id": "ChIJJbdhZGkZkTkRzk_dZNjTP4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJbdhZGkZkTkRzk_dZNjTP4Y",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:31:07"
+  }
+]

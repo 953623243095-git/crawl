@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Seema beauty star parlour",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "272127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "V7RG+53, Pachauha, Uttar Pradesh 272129",
+    "area": "272127",
+    "latitude": 26.890189399999997,
+    "longitude": 82.2751224,
+    "place_id": "ChIJz-f0dACrkDkRzMTAbvMug-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz-f0dACrkDkRzMTAbvMug-4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:08:10"
+  },
+  {
+    "business_name": "MITTAL HAIR CUTTING SALOON",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "272127",
+    "phone_number": "+91 97216 26691",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Mankapur, Chhapaiya, Uttar Pradesh 272130",
+    "area": "Parasrampur Market",
+    "latitude": 26.9004564,
+    "longitude": 82.3297487,
+    "place_id": "ChIJhaBBM4etkDkRJ6NeHPNJPdc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhaBBM4etkDkRJ6NeHPNJPdc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:08:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pathak Auto Parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "272161",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Harraiya - Babhnan Rd, near HDFC Bank, Babhnan, Uttar Pradesh 271313",
+    "area": "272161",
+    "latitude": 26.9428818,
+    "longitude": 82.5000946,
+    "place_id": "ChIJEzAANA21kDkRhyciSRRonao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEzAANA21kDkRhyciSRRonao",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:28:51"
+  },
+  {
+    "business_name": "Pawan Kumar Maurya",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "272161",
+    "phone_number": "+91 81500 66406",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Saraswati Shishu Mandir inter collage District hospital, Horsohiya, Basti, Uttar Pradesh 272001",
+    "area": "Horsohiya",
+    "latitude": 26.7996494,
+    "longitude": 82.75785359999999,
+    "place_id": "ChIJsTcbbxjbkDkRC8GUhhvStG0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsTcbbxjbkDkRC8GUhhvStG0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:28:54"
+  }
+]

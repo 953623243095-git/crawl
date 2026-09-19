@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta cycles",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "272124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "3V6Q+RJ3, Durgorwa, Uttar Pradesh 271504",
+    "area": "272124",
+    "latitude": 27.062024899999997,
+    "longitude": 81.8890472,
+    "place_id": "ChIJh4sybKnzmTkRV0sjkk4wwYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh4sybKnzmTkRV0sjkk4wwYo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:02:29"
+  },
+  {
+    "business_name": "Virendra cycle repairing",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "272124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Choubepur, Sehria, Uttar Pradesh 272139",
+    "area": "272124",
+    "latitude": 26.9239927,
+    "longitude": 82.253484,
+    "place_id": "ChIJC8QRCgCrkDkRjrzSbXwJHVo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC8QRCgCrkDkRjrzSbXwJHVo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:02:32"
+  }
+]

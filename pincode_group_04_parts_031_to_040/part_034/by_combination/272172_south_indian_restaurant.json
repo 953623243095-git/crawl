@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Madras Kitchen",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "272172",
+    "phone_number": "+91 95210 27021",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 312,
+    "address": "22B/16, Haldighati Marg, Sector-22, Budhsinghpura, Pratap Nagar, Jaipur, Rajasthan 303906",
+    "area": "Sector-22, Budhsinghpura, Pratap Nagar",
+    "latitude": 26.813426399999997,
+    "longitude": 75.8373412,
+    "place_id": "ChIJZ_rCLQDJbTkRYYpNYRHMyCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ_rCLQDJbTkRYYpNYRHMyCY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:38:49"
+  },
+  {
+    "business_name": "MG DOSA KING",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "272172",
+    "phone_number": "+91 83760 55578",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 976,
+    "address": "Ram Nagar Market, Ram Nagar Extension, Mansarovar Park, Shahdara, Delhi, 110032",
+    "area": "Ram Nagar Extension, Mansarovar Park, Shahdara",
+    "latitude": 28.682359299999998,
+    "longitude": 77.2958503,
+    "place_id": "ChIJEYVu8HH7DDkRdCcN2WZ6H1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEYVu8HH7DDkRdCcN2WZ6H1M",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:38:49"
+  }
+]

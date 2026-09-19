@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manu Tripathi",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "272131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kaptanganj - Faizabad Rd, Gaura, Basti, Uttar Pradesh 272131",
+    "area": "272131",
+    "latitude": 26.762219599999998,
+    "longitude": 82.5887403,
+    "place_id": "ChIJz-CNUQfHkDkRrsV-zgNw9oY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz-CNUQfHkDkRrsV-zgNw9oY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:14:42"
+  },
+  {
+    "business_name": "Adarsh Mishra Amul dairy",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "272131",
+    "phone_number": "N/A",
+    "website": "http://www.amuldairy.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Kaptanganj - Partawal - Faizabad Rd, Iktakawa, Uttar Pradesh 272163",
+    "area": "272131",
+    "latitude": 26.818208799999997,
+    "longitude": 82.6121656,
+    "place_id": "ChIJRY1jWOvJkDkRIVwaFsJ0FZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRY1jWOvJkDkRIVwaFsJ0FZ4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:14:42"
+  }
+]

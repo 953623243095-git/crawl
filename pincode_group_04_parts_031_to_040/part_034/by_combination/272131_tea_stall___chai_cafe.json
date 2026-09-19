@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma snacks",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "272131",
+    "phone_number": "+91 87772 69570",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Super Market, Bangur Avenue, Block C, Block A, Lake Town, Kolkata, West Bengal 700055",
+    "area": "Bangur Avenue, Block C, Block A, Lake Town",
+    "latitude": 22.6054533,
+    "longitude": 88.4109819,
+    "place_id": "ChIJ9XzjB_p1AjoReyxaYtsqAVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9XzjB_p1AjoReyxaYtsqAVA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:14:39"
+  },
+  {
+    "business_name": "The Teetank Cafe, Block Road, Basti",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Vegetarian restaurant",
+    "pincode": "272131",
+    "phone_number": "N/A",
+    "website": "http://theteetankcafe.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Block Rd, Rauta Par, Basti, Habeli Khas, Uttar Pradesh 272001",
+    "area": "Rauta Par",
+    "latitude": 26.799656499999998,
+    "longitude": 82.7206933,
+    "place_id": "ChIJZZi0FffPkDkRNeP3B1YDBGQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZZi0FffPkDkRNeP3B1YDBGQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:14:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fun Republic Mall, Lucknow",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "272155",
+    "phone_number": "+91 95132 44317",
+    "website": "http://www.funrepublic.in/lucknow.php",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Lohia Path, Nehru Enclave, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Nehru Enclave, Gomti Nagar",
+    "latitude": 26.857957799999998,
+    "longitude": 80.9762405,
+    "place_id": "ChIJA6I1fDf9mzkRG3xu5MMZ4hU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA6I1fDf9mzkRG3xu5MMZ4hU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:28:14"
+  },
+  {
+    "business_name": "Umrao Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "272155",
+    "phone_number": "+91 522 400 3768",
+    "website": "https://umraomall.com/",
+    "rating": 4.2,
+    "reviews_count": 10627,
+    "address": "Badshah Nagar, Metro Station, Near, Faizabad Rd, Nishat Ganj, Lucknow, Uttar Pradesh 226006",
+    "area": "Nishat Ganj",
+    "latitude": 26.8715498,
+    "longitude": 80.95842569999999,
+    "place_id": "ChIJj6CYcp39mzkRcXNSlBNpu6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj6CYcp39mzkRcXNSlBNpu6c",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:28:15"
+  }
+]

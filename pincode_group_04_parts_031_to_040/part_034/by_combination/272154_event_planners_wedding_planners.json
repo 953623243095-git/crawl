@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Versha event",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Event management company",
+    "pincode": "272154",
+    "phone_number": "+91 81818 11835",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Ward no 09, aadya prasad Nagar, Belsar, Rehara Bazar, Uttar Pradesh 272208",
+    "area": "272154",
+    "latitude": 27.190820799999997,
+    "longitude": 83.1240614,
+    "place_id": "ChIJlyL95d7PljkRMK8INyEO0Sw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlyL95d7PljkRMK8INyEO0Sw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:25:50"
+  },
+  {
+    "business_name": "S.P Wedding Planner & Event Management",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "272154",
+    "phone_number": "+91 89538 09006",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near dehati rasgulla, Bairhana, Prayagraj, Uttar Pradesh 211006",
+    "area": "Bairhana",
+    "latitude": 25.4429686,
+    "longitude": 81.8618474,
+    "place_id": "ChIJwX7O8tbLmjkRc80yP1yeTnE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwX7O8tbLmjkRc80yP1yeTnE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:25:53"
+  }
+]

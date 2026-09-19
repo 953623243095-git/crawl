@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Surekha Enterprises",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "272131",
+    "phone_number": "+91 91187 77747",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "katra, Water Tank Rd, Katra, Basti, Uttar Pradesh 272001",
+    "area": "Katra",
+    "latitude": 26.792417999999998,
+    "longitude": 82.719748,
+    "place_id": "ChIJ8yFMM2zFkDkR6KYZwFOZaJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8yFMM2zFkDkR6KYZwFOZaJE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:15:46"
+  },
+  {
+    "business_name": "प्रभात जन सेवा केंद्र & गैस सर्विस प्वाइंट & बैंकिंग सर्विस प्वाइंट",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "272131",
+    "phone_number": "+91 89338 90318",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Chet Singh, Tenui Mandir Chauraha Tinich Dubaula Road Basti, near Prathamik Vidayalaya, Tenui, Uttar Pradesh 272163",
+    "area": "272131",
+    "latitude": 26.8568563,
+    "longitude": 82.6417036,
+    "place_id": "ChIJjZsGluvJkDkRXxynrjQUUYc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjZsGluvJkDkRXxynrjQUUYc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:15:49"
+  }
+]

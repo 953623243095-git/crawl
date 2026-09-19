@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SWAD 2.0 Family Restaurant & Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Indian restaurant",
+    "pincode": "272124",
+    "phone_number": "+91 80816 91999",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "NH 27, Puraina, Katya, Uttar Pradesh 272131",
+    "area": "272124",
+    "latitude": 26.775556599999998,
+    "longitude": 82.6644242,
+    "place_id": "ChIJrzaLUwDFkDkROWAivHCU4ZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrzaLUwDFkDkROWAivHCU4ZI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:02:01"
+  },
+  {
+    "business_name": "Highway Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Rest stop",
+    "pincode": "272124",
+    "phone_number": "+91 93586 47532",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 9,
+    "address": "4WWP+855, Kelwara, Rajasthan 325217",
+    "area": "272124",
+    "latitude": 25.1457652,
+    "longitude": 76.93549399999999,
+    "place_id": "ChIJ94ATHZR2cDkRXPttvaCU9DQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ94ATHZR2cDkRXPttvaCU9DQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:02:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maurya G Enterprises",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "272161",
+    "phone_number": "+91 96287 85191",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Babnan Bazar, Babhnan, Bhataha Jungal, Uttar Pradesh 272161",
+    "area": "Babnan Bazar",
+    "latitude": 26.9326272,
+    "longitude": 82.5039603,
+    "place_id": "ChIJAV6wGoa1kDkRqbChX932Fyg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAV6wGoa1kDkRqbChX932Fyg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:29:32"
+  },
+  {
+    "business_name": "Vishal Mobile Shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "272161",
+    "phone_number": "+91 98381 63051",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Babhnan, Uttar Pradesh 271313",
+    "area": "272161",
+    "latitude": 26.9341261,
+    "longitude": 82.5050618,
+    "place_id": "ChIJaZkJ2PC0kDkR1nQCxAQEeMg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaZkJ2PC0kDkR1nQCxAQEeMg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:29:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Belghat",
+    "search_category": "Organic Food Store",
+    "primary_category": "Farmers' market",
+    "all_categories": "Farmers' market",
+    "pincode": "272131",
+    "phone_number": "+91 63773 19174",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Aura Tonda, Harraiya, Uttar Pradesh 272163",
+    "area": "272131",
+    "latitude": 26.8370882,
+    "longitude": 82.5539685,
+    "place_id": "ChIJdZGohm23kDkRZo9ui7V0KZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdZGohm23kDkRZo9ui7V0KZw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:14:30"
+  },
+  {
+    "business_name": "Pandey Super Market (Krishna Dev Pandey)",
+    "search_category": "Organic Food Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Market",
+    "pincode": "272131",
+    "phone_number": "+91 74083 95000",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Harraiya - Babhnan Rd, Nathpur Pandey, Uttar Pradesh 272181",
+    "area": "272131",
+    "latitude": 26.844241,
+    "longitude": 82.4889798,
+    "place_id": "ChIJEWIGzV63kDkRWNfa1_fAB58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEWIGzV63kDkRWNfa1_fAB58",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:14:31"
+  }
+]

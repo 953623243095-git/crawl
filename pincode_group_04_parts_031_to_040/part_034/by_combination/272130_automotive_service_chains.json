@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GoMechanic (H.Q.)",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Mechanic",
+    "pincode": "272130",
+    "phone_number": "+91 83989 70970",
+    "website": "https://srd1.onelink.me/7EYj/GMB",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "7th Floor, Tower A, Spaze iTech Park, Sohna - Gurgaon Rd, Block S, Sector 49, Gurugram, Haryana 122018",
+    "area": "Block S, Sector 49",
+    "latitude": 28.413545499999998,
+    "longitude": 77.0423909,
+    "place_id": "ChIJNdTnUJAiDTkR1tdy4W0PDjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNdTnUJAiDTkR1tdy4W0PDjI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:13:22"
+  },
+  {
+    "business_name": "Chandra Service Centre - Hero MotoCorp",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer, Motorcycle parts store, Two Wheeler Repair Shop, Motorcycle shop",
+    "pincode": "272130",
+    "phone_number": "+91 94154 04850",
+    "website": "https://dealers.heromotocorp.com/hero-motocorp/dealer-in-faizabad/dealer-in-Angori-Bagh/chandra-service-centre-hero-motocorp-in-Angori-Bagh-faizabad--rTJh3D/home",
+    "rating": 3.5,
+    "reviews_count": 111,
+    "address": "Ground Floor, Angoori Bagh, Faizabad, Uttar Pradesh 224001",
+    "area": "Angoori Bagh",
+    "latitude": 26.7832503,
+    "longitude": 82.14869809999999,
+    "place_id": "ChIJE3rmOhYGmjkRjsPIpaEcIhY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE3rmOhYGmjkRjsPIpaEcIhY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:13:24"
+  }
+]

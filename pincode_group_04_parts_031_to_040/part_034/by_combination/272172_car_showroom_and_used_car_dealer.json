@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gaurav Sweet House",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "272172",
+    "phone_number": "+91 84237 81746",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gaurav Kumar, Khalilabad, Mukhlispur, Uttar Pradesh 272176",
+    "area": "272172",
+    "latitude": 26.6098119,
+    "longitude": 83.0245149,
+    "place_id": "ChIJlb8-TOcZkTkRCGCK0eRy3hQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlb8-TOcZkTkRCGCK0eRy3hQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:39:11"
+  },
+  {
+    "business_name": "Pahwa Hyundai Showroom - Roop Nagar",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Hyundai dealer",
+    "all_categories": "Hyundai dealer, Car dealer",
+    "pincode": "272172",
+    "phone_number": "+91 79712 66331",
+    "website": "https://pahwa-hyundai-shaktinagar.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "1/11, Block 1, Roop Nagar, New Delhi, Delhi, 110007",
+    "area": "Block 1, Roop Nagar",
+    "latitude": 28.6836235,
+    "longitude": 77.1970461,
+    "place_id": "ChIJJzWBm4n9DDkRYllsnXLwsHM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJzWBm4n9DDkRYllsnXLwsHM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:39:12"
+  }
+]

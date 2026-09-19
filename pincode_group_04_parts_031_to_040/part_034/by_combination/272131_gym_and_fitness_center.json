@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rocky Fitness club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "272131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QH3G+F8V, Pandav Nagar Rd, Pikaura Sani, Uttar Pradesh 272131",
+    "area": "272131",
+    "latitude": 26.7536725,
+    "longitude": 82.5758171,
+    "place_id": "ChIJPScadQDHkDkRglWmA3pJKWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPScadQDHkDkRglWmA3pJKWA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:15:03"
+  },
+  {
+    "business_name": "Sarthak fitness club chilma bajar basti",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "272131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JYM Fitness club, Ram Janki Rd, Chilma Bazar, Deidiha Khurd, Uttar Pradesh 272301",
+    "area": "272131",
+    "latitude": 26.6707641,
+    "longitude": 82.58484779999999,
+    "place_id": "ChIJt0heV-jBkDkR8R-CdTBoTbs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt0heV-jBkDkR8R-CdTBoTbs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:15:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Billu di Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "272173",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/billudidairy?igsh=NXRvdHljczg0cG1q",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Gandhi Chowk, Jandali Kalan, Ahmedgarh, Punjab 148021",
+    "area": "Jandali Kalan",
+    "latitude": 30.6751799,
+    "longitude": 75.8224511,
+    "place_id": "ChIJF9PivIV7EDkRm7_Ld4ENVKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF9PivIV7EDkRm7_Ld4ENVKU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:40:22"
+  },
+  {
+    "business_name": "Sidhu Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "272173",
+    "phone_number": "+91 75084 00005",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "9A, Pakhowal Rd, Green Field, Model Gram, Ludhiana, Punjab 141001",
+    "area": "Green Field, Model Gram",
+    "latitude": 30.8907626,
+    "longitude": 75.829212,
+    "place_id": "ChIJ-442icqDGjkRldDJ053irkc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-442icqDGjkRldDJ053irkc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:40:22"
+  }
+]

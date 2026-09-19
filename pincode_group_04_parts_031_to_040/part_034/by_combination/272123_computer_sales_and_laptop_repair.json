@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepak Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer accessories store",
+    "all_categories": "Computer accessories store",
+    "pincode": "272123",
+    "phone_number": "+91 99175 90134",
+    "website": "https://itprice.in/",
+    "rating": 4.9,
+    "reviews_count": 847,
+    "address": "Hari World Complex 42/14B, behind पंचरतन होटल, Sanjay Place, Civil Lines, Agra, Uttar Pradesh 282002",
+    "area": "Sanjay Palace, Sanjay Place, Civil Lines",
+    "latitude": 27.199719299999998,
+    "longitude": 78.00504029999999,
+    "place_id": "ChIJq3bMV0Z3dDkRuuN3Y3G_-yQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq3bMV0Z3dDkRuuN3Y3G_-yQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:01:21"
+  },
+  {
+    "business_name": "Infoware technomart.",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "272123",
+    "phone_number": "+91 99360 40881",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 1997,
+    "address": "56G, 403, Sardar Patel Marg, beside Sencilla Jwellers, Agnipath Colony, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Agnipath Colony, Civil Lines",
+    "latitude": 25.457463399999998,
+    "longitude": 81.8350279,
+    "place_id": "ChIJd1_r78LKmjkRUaM5AVAuVlE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd1_r78LKmjkRUaM5AVAuVlE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:01:21"
+  }
+]

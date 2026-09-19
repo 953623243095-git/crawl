@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay cosmetics and cloth shop",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "272163",
+    "phone_number": "+91 76518 55010",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Soraha Sardaha, shukla, Soraha chauraha, Sumhi, Gaur, Sauraha, Uttar Pradesh 271313",
+    "area": "Sumhi",
+    "latitude": 26.938358899999997,
+    "longitude": 82.5590181,
+    "place_id": "ChIJq0udPAC1kDkRzw3i-gDHn4A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq0udPAC1kDkRzw3i-gDHn4A",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:31:55"
+  },
+  {
+    "business_name": "Radheshyam vastraly haluwa Bazar basti",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing wholesaler",
+    "all_categories": "Clothing wholesaler",
+    "pincode": "272163",
+    "phone_number": "+91 99180 67011",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Halwa Rd, Haluwa, Uttar Pradesh 272190",
+    "area": "272163",
+    "latitude": 26.969572499999998,
+    "longitude": 82.5921109,
+    "place_id": "ChIJ1__qhV7LkDkRKK2j-qIU0oE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1__qhV7LkDkRKK2j-qIU0oE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:31:58"
+  }
+]

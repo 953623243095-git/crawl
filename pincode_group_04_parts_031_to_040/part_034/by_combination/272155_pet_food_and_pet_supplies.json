@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Pet shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "272155",
+    "phone_number": "N/A",
+    "website": "http://www.chattybao.com/Royal-Pet-Shop-2",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Noor Plaza, Near Jagrani Hospital, Kalyanpur, Lucknow, Uttar Pradesh 226022",
+    "area": "Near Jagrani Hospital, Kalyanpur",
+    "latitude": 26.8986026,
+    "longitude": 80.9684363,
+    "place_id": "ChIJBzWvU8tXmTkR0wLuMjdXmag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBzWvU8tXmTkR0wLuMjdXmag",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:26:41"
+  },
+  {
+    "business_name": "The Boss Pets N Supplies",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "272155",
+    "phone_number": "+91 95760 79111",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "High School, Dr Bhabha Marg, 136, Munka Bagicha Ln, near K.D Children Academy, beside Shyam Kunj house, Hazaribagh, Jharkhand 825301",
+    "area": "Mangura",
+    "latitude": 23.990323099999998,
+    "longitude": 85.3474174,
+    "place_id": "ChIJReVu1M6f9DkRdgEpzG4FHLc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJReVu1M6f9DkRdgEpzG4FHLc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:26:41"
+  }
+]

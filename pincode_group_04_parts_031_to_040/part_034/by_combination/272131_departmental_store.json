@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Market 99 store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "272131",
+    "phone_number": "+91 99364 88693",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 13,
+    "address": "bazar, Nagar, Basti, Uttar Pradesh 272302",
+    "area": "272131",
+    "latitude": 26.7294374,
+    "longitude": 82.68002,
+    "place_id": "ChIJXXLRtcbFkDkRtOYKVaFhynw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXXLRtcbFkDkRtOYKVaFhynw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:14:30"
+  },
+  {
+    "business_name": "पटवा जनरल स्टोर चिलम बाजार बस्ती",
+    "search_category": "Departmental Store",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "272131",
+    "phone_number": "+91 88749 46824",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 62,
+    "address": "Deidiha Khurd, Raiyal, Uttar Pradesh 272301",
+    "area": "272131",
+    "latitude": 26.669338,
+    "longitude": 82.58644439999999,
+    "place_id": "ChIJxfbbUcjBkDkRG31JmYmbveI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxfbbUcjBkDkRG31JmYmbveI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:14:31"
+  }
+]

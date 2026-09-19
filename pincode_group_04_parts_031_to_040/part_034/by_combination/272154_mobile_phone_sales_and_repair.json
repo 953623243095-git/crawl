@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ankit Mobile Shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store, Electronics store",
+    "pincode": "272154",
+    "phone_number": "+91 96168 43177",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Near, SBI Main Market Road, Rehara Bazar, Uttar Pradesh 272208",
+    "area": "272154",
+    "latitude": 27.1908674,
+    "longitude": 83.1238671,
+    "place_id": "ChIJoTs7f8nPljkRUydaEIhQCSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoTs7f8nPljkRUydaEIhQCSs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:26:06"
+  },
+  {
+    "business_name": "Mobicom Enterprises",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store",
+    "pincode": "272154",
+    "phone_number": "+91 95545 85921",
+    "website": "http://mobicom.in/",
+    "rating": 5,
+    "reviews_count": 1149,
+    "address": "Padrauna Road, Road Mansachhapar, Padrauna, Khesia, Uttar Pradesh 274308",
+    "area": "272154",
+    "latitude": 26.9588292,
+    "longitude": 83.99091519999999,
+    "place_id": "ChIJa1AnKyuLkzkRJSG4oIqY0nM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa1AnKyuLkzkRJSG4oIqY0nM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:26:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amar Hosiery",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Baby clothing store, Clothing wholesaler, Lingerie store, Lingerie wholesaler, Underwear store",
+    "pincode": "272123",
+    "phone_number": "+91 87502 83757",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 388,
+    "address": "A-176,Hastsal Road, Gali Number 2, near Kamal Public School, Uttam Nagar, New Delhi, Delhi 110059",
+    "area": "B Block, JJ Colony, Uttam Nagar",
+    "latitude": 28.623975899999998,
+    "longitude": 77.06189379999999,
+    "place_id": "ChIJ7Y0xZ9kEDTkRuoq3I_vbgiA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Y0xZ9kEDTkRuoq3I_vbgiA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:00:27"
+  },
+  {
+    "business_name": "Chhabra Hosiery",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Lingerie store",
+    "all_categories": "Lingerie store, Clothing store, Cosmetics store",
+    "pincode": "272123",
+    "phone_number": "+91 98117 38273",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 87,
+    "address": "No.4/4, Main Market Marg, opposite Gurudwara Singh Sabha, Block 4, Ramesh Nagar, New Delhi, Delhi 110015",
+    "area": "Block 4, Ramesh Nagar",
+    "latitude": 28.6503262,
+    "longitude": 77.13700159999999,
+    "place_id": "ChIJFZcM_w8DDTkRy0CeB8pXUDQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZcM_w8DDTkRy0CeB8pXUDQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:00:27"
+  }
+]

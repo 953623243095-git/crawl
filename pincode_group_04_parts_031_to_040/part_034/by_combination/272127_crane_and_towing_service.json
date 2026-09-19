@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "P.K. Towing Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "272127",
+    "phone_number": "+91 99100 64127",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 42,
+    "address": "near Masoodpur, Masoodpur, Dairy, Vasant Kunj, New Delhi, Delhi 110070",
+    "area": "Masoodpur, Dairy, Vasant Kunj",
+    "latitude": 28.530851,
+    "longitude": 77.150971,
+    "place_id": "ChIJrZKPER8SbQ0RSSjMzIvfcCM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZKPER8SbQ0RSSjMzIvfcCM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:07:58"
+  },
+  {
+    "business_name": "Towing bros",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Service establishment",
+    "pincode": "272127",
+    "phone_number": "N/A",
+    "website": "http://www.towingbros.co.za/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Towing bros, 272127, India",
+    "area": "272127",
+    "latitude": -26.2226899,
+    "longitude": 27.646970099999997,
+    "place_id": "ChIJBa21TSmCvoQR8XKYp6ulL4I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBa21TSmCvoQR8XKYp6ulL4I",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:08:00"
+  }
+]

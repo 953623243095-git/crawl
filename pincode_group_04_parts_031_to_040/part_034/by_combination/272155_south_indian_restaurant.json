@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mumbai style dosha",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "272155",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6, Babhnan - Mankapur Rd, Mankapur, Gonda, Babhnan, Uttar Pradesh 271313",
+    "area": "Mankapur",
+    "latitude": 26.937386,
+    "longitude": 82.5001356,
+    "place_id": "ChIJzdQ_MAC1kDkRCGrkrKSow7I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzdQ_MAC1kDkRCGrkrKSow7I",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:26:44"
+  },
+  {
+    "business_name": "Chennai Kitchen",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Breakfast restaurant, Restaurant, Vegetarian restaurant",
+    "pincode": "272155",
+    "phone_number": "+91 90859 00009",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 5875,
+    "address": "GS Rd, near Mochi Showroom, Christian Basti, Guwahati, Assam 781005",
+    "area": "Christian Basti",
+    "latitude": 26.1564369,
+    "longitude": 91.77819629999999,
+    "place_id": "ChIJ_a6hYRFZWjcRL_h-4igQby0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_a6hYRFZWjcRL_h-4igQby0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:26:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tax Consultant",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant",
+    "pincode": "272165",
+    "phone_number": "+91 84452 06043",
+    "website": "http://www.greenaura.online/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Near Nav Durga Shakti Mandir Siddheshwer Road, Khurja, Uttar Pradesh 203131",
+    "area": "272165",
+    "latitude": 28.239259999999998,
+    "longitude": 77.860913,
+    "place_id": "ChIJobMQ62mpDDkRa_86_vbuw98",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJobMQ62mpDDkRa_86_vbuw98",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:36:29"
+  },
+  {
+    "business_name": "GST Suvidha Center",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Tax preparation service",
+    "all_categories": "Tax preparation service",
+    "pincode": "272165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jaiti, Belghat, Uttar Pradesh 273404",
+    "area": "272165",
+    "latitude": 26.4239905,
+    "longitude": 83.1728243,
+    "place_id": "ChIJJxWt8vwNkTkRsZPXFFqYxrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJxWt8vwNkTkRsZPXFFqYxrc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:36:30"
+  }
+]

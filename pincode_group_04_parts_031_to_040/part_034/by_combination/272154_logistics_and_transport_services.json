@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Siddharth Transport Company",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "272154",
+    "phone_number": "+91 522 402 5140",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "S-163, Transport Nagar, Kanpur Road, Kanpur Road, near Taj Radiater, Lucknow, Uttar Pradesh 226012",
+    "area": "Transport Nagar",
+    "latitude": 26.781583299999998,
+    "longitude": 80.8883333,
+    "place_id": "ChIJb2TibVL5mzkRv6sIFKaNgQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb2TibVL5mzkRv6sIFKaNgQQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:25:34"
+  },
+  {
+    "business_name": "Lakshmi Transport Choudhary Transport Co.",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "272154",
+    "phone_number": "+91 87655 02251",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Bareilly Road, near Dharmshala, Azizganj, Shahjahanpur, Uttar Pradesh 242226",
+    "area": "Azizganj",
+    "latitude": 27.859965499999998,
+    "longitude": 79.8973336,
+    "place_id": "ChIJd7hmL8C8nzkRVso3nrKl1G0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd7hmL8C8nzkRVso3nrKl1G0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:25:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raksha Logistics and transport company",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service",
+    "pincode": "272129",
+    "phone_number": "+91 99192 13333",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot #84 Transport Nagar R.T.O. Office, Ayodhya, Uttar Pradesh 224123",
+    "area": "Ram Nagar",
+    "latitude": 26.792093299999998,
+    "longitude": 82.1998526,
+    "place_id": "ChIJHVTslOwHmjkR87YsG8PiNPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHVTslOwHmjkR87YsG8PiNPw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:11:30"
+  },
+  {
+    "business_name": "Ayodhya Tour & Travels",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "272129",
+    "phone_number": "+91 95650 02222",
+    "website": "https://ayodhyacabservice.com/",
+    "rating": 4.9,
+    "reviews_count": 1087,
+    "address": "Shop No.1, Ranopali, Ram Path Rd, near Udaya Public School, Ayodhya, Uttar Pradesh 224001",
+    "area": "Amanigunj",
+    "latitude": 26.7827041,
+    "longitude": 82.1772254,
+    "place_id": "ChIJR1-HKBoHmjkRXTGeuiZcPHc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR1-HKBoHmjkRXTGeuiZcPHc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:11:31"
+  }
+]

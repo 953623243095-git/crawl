@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Housesell",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "272131",
+    "phone_number": "+91 93352 22275",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "QPV8+WG2, Katra, Moor Ghat, Basti, Uttar Pradesh 272001",
+    "area": "Katra",
+    "latitude": 26.7947711,
+    "longitude": 82.71625209999999,
+    "place_id": "ChIJQ4_J-V7FkDkRQwGSJPDkNH0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ4_J-V7FkDkRQwGSJPDkNH0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:15:57"
+  },
+  {
+    "business_name": "Santosh Singh patel property number -6",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "272131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "272155, Mahrajganj, Narainpur Tivari, Bijara, Uttar Pradesh 272131",
+    "area": "Mahrajganj",
+    "latitude": 26.7657325,
+    "longitude": 82.5424123,
+    "place_id": "ChIJA9uWUQC5kDkRDKfvgARC4T8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA9uWUQC5kDkRDKfvgARC4T8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:15:57"
+  }
+]

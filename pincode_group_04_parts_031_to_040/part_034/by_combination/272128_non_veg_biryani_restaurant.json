@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramaynam Family Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "272128",
+    "phone_number": "+91 97696 15138",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "NH27, Bhadawal Road, Aama Pande, Uttar Pradesh 272155",
+    "area": "272128",
+    "latitude": 26.7802102,
+    "longitude": 82.5076148,
+    "place_id": "ChIJo72sGva5kDkRYtZGA06eDew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo72sGva5kDkRYtZGA06eDew",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:09:10"
+  },
+  {
+    "business_name": "Shubham Fast Food",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Breakfast restaurant",
+    "pincode": "272128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 10,
+    "address": "Ram Janki Rd, Chhawani, Uttar Pradesh 272127",
+    "area": "272128",
+    "latitude": 26.7748241,
+    "longitude": 82.37930829999999,
+    "place_id": "ChIJ50bLSVelkDkR3lHnisSOh58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ50bLSVelkDkR3lHnisSOh58",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:09:14"
+  }
+]

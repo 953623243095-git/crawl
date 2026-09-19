@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guest & Hospitality World",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel supply store",
+    "all_categories": "Hotel supply store, Hospital equipment and supplies",
+    "pincode": "272002",
+    "phone_number": "+91 80 4603 9515",
+    "website": "http://www.ghwindia.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Loha Bhavan, 8, P D'Mello Rd, near HP petrol pump, Carnac Bunder, Victoria Docks, Mumbai Port Trust, Mazgaon, Mumbai, Maharashtra 400009",
+    "area": "Carnac Bunder, Victoria Docks, Mumbai Port Trust, Mazgaon",
+    "latitude": 18.9520435,
+    "longitude": 72.8415904,
+    "place_id": "ChIJFdozDC_O5zsRmdZb84n1alA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFdozDC_O5zsRmdZb84n1alA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 05:59:24"
+  },
+  {
+    "business_name": "Om Sai Ram Crane Services",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "272002",
+    "phone_number": "+91 96483 37033",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Sanjay Colony, Basti, Uttar Pradesh 272001",
+    "area": "Sanjay Colony",
+    "latitude": 26.828271899999997,
+    "longitude": 82.7651415,
+    "place_id": "ChIJP0YiXHDRkDkRpZqZ1YJ-P0Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP0YiXHDRkDkRpZqZ1YJ-P0Q",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 05:59:25"
+  }
+]

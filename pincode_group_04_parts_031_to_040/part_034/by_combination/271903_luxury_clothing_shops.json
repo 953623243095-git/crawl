@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Delhi dhamaka sale",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "271903",
+    "phone_number": "+91 76518 34373",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hera Singh market, Chhawani Bazaar, Bahraich, Uttar Pradesh 271801",
+    "area": "Chhawani Bazaar",
+    "latitude": 27.576777099999997,
+    "longitude": 81.5949042,
+    "place_id": "ChIJy9pGH-yrmTkRI8baSnDuCfc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy9pGH-yrmTkRI8baSnDuCfc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 05:52:37"
+  },
+  {
+    "business_name": "Stores Shop",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "271903",
+    "phone_number": "+91 99187 88098",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "GHPC 76R, Nanpara, Uttar Pradesh 271825",
+    "area": "271903",
+    "latitude": 27.535839799999998,
+    "longitude": 81.57013719999999,
+    "place_id": "ChIJUe_RgKqpmTkRGuuhVhK3Lbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUe_RgKqpmTkRGuuhVhK3Lbk",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 05:52:40"
+  }
+]

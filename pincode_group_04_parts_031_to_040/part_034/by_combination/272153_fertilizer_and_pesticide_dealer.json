@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dinesh Beej Store",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Agricultural Seed Store",
+    "all_categories": "Agricultural Seed Store, Agricultural Product Wholesaler, Agrochemicals Supplier",
+    "pincode": "272153",
+    "phone_number": "+91 94106 50002",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Shop No, 31, Court Rd, Shiv Chowk, Civil Lines South, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Shiv Chowk, Civil Lines South",
+    "latitude": 29.4701402,
+    "longitude": 77.7001813,
+    "place_id": "ChIJ_6QoiJAbDDkR4hrRaxnO6P4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_6QoiJAbDDkR4hrRaxnO6P4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:24:42"
+  },
+  {
+    "business_name": "Sharma pesticide and fertilizer",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store",
+    "pincode": "272153",
+    "phone_number": "+91 88404 56519",
+    "website": "https://www.sudershanbiocropscience.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Maigal Ganj, Sonauwa, Uttar Pradesh 261505",
+    "area": "Maigal Ganj",
+    "latitude": 27.784696999999998,
+    "longitude": 80.128901,
+    "place_id": "ChIJkxQxyJsJnzkRJhiGOZAISmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkxQxyJsJnzkRJhiGOZAISmg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:24:43"
+  }
+]

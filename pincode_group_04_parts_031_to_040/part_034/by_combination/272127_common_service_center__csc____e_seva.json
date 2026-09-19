@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CSC JAN SEVA KENDRA",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services",
+    "pincode": "272127",
+    "phone_number": "+91 98891 81516",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "0000, Ricemil Chauraha, Uttar Pradesh 272192",
+    "area": "272127",
+    "latitude": 27.3095154,
+    "longitude": 82.7267849,
+    "place_id": "ChIJncrjEXI9lzkR09UOuErlgr0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJncrjEXI9lzkR09UOuErlgr0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:08:33"
+  },
+  {
+    "business_name": "CSC Arvind cyber cafe",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "272127",
+    "phone_number": "+91 97212 93116",
+    "website": "https://csc.gov.in/#",
+    "rating": 4.1,
+    "reviews_count": 19,
+    "address": "R7HH+3R2, Madoi, Uttar Pradesh 272129",
+    "area": "272127",
+    "latitude": 26.8276373,
+    "longitude": 82.2795218,
+    "place_id": "ChIJOUeks1SpkDkRtVi3-TGXdMM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOUeks1SpkDkRtVi3-TGXdMM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:08:33"
+  }
+]

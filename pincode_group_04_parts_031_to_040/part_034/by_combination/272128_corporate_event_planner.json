@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TAD Events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Wedding planner",
+    "pincode": "272128",
+    "phone_number": "+91 78777 72391",
+    "website": "https://tadevents.in/",
+    "rating": 4.5,
+    "reviews_count": 225,
+    "address": "140 C, Pandit TN Mishra Marg, Santhosh Nagar, Nirman Nagar, Brijlalpura, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302019",
+    "area": "Santhosh Nagar, Nirman Nagar, Brijlalpura",
+    "latitude": 26.882527,
+    "longitude": 75.756143,
+    "place_id": "ChIJrVDqSga1bTkRl99jvsQryaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrVDqSga1bTkRl99jvsQryaE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:10:09"
+  },
+  {
+    "business_name": "...... event",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "272128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QG9M+RF6, Rajauli, Uttar Pradesh 272131",
+    "area": "272128",
+    "latitude": 26.769569999999998,
+    "longitude": 82.53359809999999,
+    "place_id": "ChIJE9ojdwC5kDkR0No7F1-5Ygc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE9ojdwC5kDkR0No7F1-5Ygc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:10:10"
+  }
+]

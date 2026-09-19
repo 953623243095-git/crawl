@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Care plus physiotherapy and rehab center",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "272124",
+    "phone_number": "+91 99188 74556",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Katra, Basti, Uttar Pradesh 272001",
+    "area": "Katra",
+    "latitude": 26.7947618,
+    "longitude": 82.71637109999999,
+    "place_id": "ChIJUWv-auy3kDkRLk07xgAZGT4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUWv-auy3kDkRLk07xgAZGT4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:02:48"
+  },
+  {
+    "business_name": "RE-LIFE PHYSIOTHERAPY CLINIC",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "272124",
+    "phone_number": "+91 95556 51383",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gotwa bazar, Mandha, Uttar Pradesh 272178",
+    "area": "272124",
+    "latitude": 26.7732556,
+    "longitude": 82.6486208,
+    "place_id": "ChIJDSmR203FkDkR8_YdMOivlHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDSmR203FkDkR8_YdMOivlHg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:02:48"
+  }
+]

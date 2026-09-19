@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Highway Hut",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "272165",
+    "phone_number": "+91 88585 37772",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 78,
+    "address": "Sehda, Tandwa, Uttar Pradesh 276135",
+    "area": "272165",
+    "latitude": 26.1139062,
+    "longitude": 83.15179529999999,
+    "place_id": "ChIJCzx1CWilkTkR1vrbO8NX5GY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCzx1CWilkTkR1vrbO8NX5GY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:35:16"
+  },
+  {
+    "business_name": "SKS FAMILY DHABA",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "272165",
+    "phone_number": "+91 72718 91398",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 34,
+    "address": "NH 28, Lohra, Uttar Pradesh 223223",
+    "area": "272165",
+    "latitude": 26.367137,
+    "longitude": 82.888502,
+    "place_id": "ChIJzchHBtn9kDkRjJ57nnGi5d4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzchHBtn9kDkRjJ57nnGi5d4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:35:16"
+  }
+]

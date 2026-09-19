@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Cloud Kitchen",
+    "all_categories": "Cloud Kitchen",
+    "pincode": "272125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Manas Cooperative Housing Society, Unit No. 2, Ground Floor, Building No 31, D.N.Nagar, Andheri West, Mumbai, Maharashtra 400053",
+    "area": "Shakti Nagar, Shanti Nagar, D.N.Nagar, Andheri West",
+    "latitude": 19.121749599999998,
+    "longitude": 72.831377,
+    "place_id": "ChIJkyFoQQDJ5zsRdlWteNOJJWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkyFoQQDJ5zsRdlWteNOJJWs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:03:51"
+  },
+  {
+    "business_name": "Naks Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "272125",
+    "phone_number": "+91 88267 92675",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "H 1407 Nilaya Greens, Sikrod, Ghaziabad, Uttar Pradesh 201003",
+    "area": "Sikrod",
+    "latitude": 28.7189604,
+    "longitude": 77.4517453,
+    "place_id": "ChIJoRvprmTxDDkRyEO926ITmiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoRvprmTxDDkRyEO926ITmiQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:03:52"
+  }
+]

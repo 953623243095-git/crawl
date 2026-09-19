@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S K Biriyani",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "272131",
+    "phone_number": "+91 79853 68113",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Katra, Moor Ghat, Basti, Uttar Pradesh 272001",
+    "area": "Katra",
+    "latitude": 26.7951803,
+    "longitude": 82.7139346,
+    "place_id": "ChIJseqrAWvFkDkRIBggvzIaUAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJseqrAWvFkDkRIBggvzIaUAg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:14:38"
+  },
+  {
+    "business_name": "Janta Biryani Hotal",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "272131",
+    "phone_number": "+91 83188 56053",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "0 Trilokpur Tiwariganj Bazar Sansaripur, Marg, Paikoliya, Basti, Uttar Pradesh 272163",
+    "area": "272131",
+    "latitude": 26.8039095,
+    "longitude": 82.5302145,
+    "place_id": "ChIJEU-lefm3kDkRBBu_GsXpezo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEU-lefm3kDkRBBu_GsXpezo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:14:42"
+  }
+]

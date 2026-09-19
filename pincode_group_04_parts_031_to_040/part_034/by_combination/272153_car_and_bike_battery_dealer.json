@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Damodar Battery Service",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "272153",
+    "phone_number": "+91 90059 41633",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 25,
+    "address": "Dhebarua, Uttar Pradesh 272201",
+    "area": "272153",
+    "latitude": 27.4492457,
+    "longitude": 82.8001882,
+    "place_id": "ChIJMwEXjl0ZlzkRhcjdvqDDDMY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMwEXjl0ZlzkRhcjdvqDDDMY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:23:43"
+  },
+  {
+    "business_name": "Chaudhary Auto Parts",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "272153",
+    "phone_number": "+91 91980 48552",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "22, Itwa, Uttar Pradesh 272192",
+    "area": "272153",
+    "latitude": 27.3324912,
+    "longitude": 82.6972885,
+    "place_id": "ChIJfzPcTos9lzkRbvlmoqi-uWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfzPcTos9lzkRbvlmoqi-uWk",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:23:45"
+  }
+]

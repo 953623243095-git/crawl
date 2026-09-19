@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Miene Group",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Catering food and drink supplier, Wedding planner",
+    "pincode": "272172",
+    "phone_number": "+91 91113 33707",
+    "website": "https://www.mienegroup.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "HP Service Center, 19, Lajpat Kunj, Napier Town, Jabalpur, Madhya Pradesh 482002",
+    "area": "Lajpat Kunj, Napier Town",
+    "latitude": 23.167120399999998,
+    "longitude": 79.9387847,
+    "place_id": "ChIJT6gZAAaugTkR_1xWgDdoVEY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT6gZAAaugTkR_1xWgDdoVEY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:39:41"
+  },
+  {
+    "business_name": "Creative Solution",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Conference center, Event management company, Event venue, Party planner",
+    "pincode": "272172",
+    "phone_number": "+91 75065 49980",
+    "website": "http://www.creativesolutionevents.com/",
+    "rating": 4.7,
+    "reviews_count": 26,
+    "address": "25, 53, Mahatma Gandhi Marg, near Subhash Chowraha Petrol Pump, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Civil Lines",
+    "latitude": 25.4501143,
+    "longitude": 81.83382809999999,
+    "place_id": "ChIJrzru-sLKmjkRD0gMrSXkeJk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrzru-sLKmjkRD0gMrSXkeJk",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:39:43"
+  }
+]

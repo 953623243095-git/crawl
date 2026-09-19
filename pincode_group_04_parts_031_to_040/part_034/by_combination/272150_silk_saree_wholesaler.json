@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Seema Silk House",
+    "search_category": "Silk Saree Wholesaler",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Silk store",
+    "pincode": "272150",
+    "phone_number": "+91 94234 92216",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "BHR Tower, Behind BJP Office, Baliram Peth, Jalgaon, Maharashtra 425001",
+    "area": "JDCC Bank Colony, Baliram Peth",
+    "latitude": 21.016942,
+    "longitude": 75.5679878,
+    "place_id": "ChIJZxW-LKIP2TsRqyvTCV-uIk4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZxW-LKIP2TsRqyvTCV-uIk4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:18:13"
+  },
+  {
+    "business_name": "Somani Silk Creations",
+    "search_category": "Silk Saree Wholesaler",
+    "primary_category": "Clothes and fabric wholesaler",
+    "all_categories": "Clothes and fabric wholesaler",
+    "pincode": "272150",
+    "phone_number": "+91 94796 48024",
+    "website": "http://www.somanisilk.com/",
+    "rating": 4.7,
+    "reviews_count": 15,
+    "address": "Bhao Ka Bazar, Jhawar Market, Gwalior, Madhya Pradesh 474001",
+    "area": "Bhao Ka Bazar, Jhawar Market",
+    "latitude": 26.202305499999998,
+    "longitude": 78.149129,
+    "place_id": "ChIJj5HOnSjFdjkRnhjc8ft8MNg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj5HOnSjFdjkRnhjc8ft8MNg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:18:15"
+  }
+]

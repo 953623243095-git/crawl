@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mumbai style dosha",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "272130",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "6, Babhnan - Mankapur Rd, Mankapur, Gonda, Babhnan, Uttar Pradesh 271313",
+    "area": "Mankapur",
+    "latitude": 26.9373881,
+    "longitude": 82.5001372,
+    "place_id": "ChIJR0wkewC1kDkRLeTjNezw1PQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR0wkewC1kDkRLeTjNezw1PQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:12:45"
+  },
+  {
+    "business_name": "Narus Cafee",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Cafe",
+    "pincode": "272130",
+    "phone_number": "+91 96480 43131",
+    "website": "https://www.facebook.com/profile.php?id=61571174364480&mibextid=ZbWKwL",
+    "rating": 4.8,
+    "reviews_count": 1697,
+    "address": "Deokali, Ayodhya, Faizabad, Uttar Pradesh 224001",
+    "area": "Deokali",
+    "latitude": 26.771810199999997,
+    "longitude": 82.1632783,
+    "place_id": "ChIJbbiEjBUHmjkR-k2G54HL6Yg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbbiEjBUHmjkR-k2G54HL6Yg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:12:45"
+  }
+]

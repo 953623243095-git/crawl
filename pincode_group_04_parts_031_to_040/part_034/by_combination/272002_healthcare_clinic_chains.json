@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohi Medicals Center",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "272002",
+    "phone_number": "+91 92509 07140",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kaily Road, Zakhni, Basti, Uttar Pradesh 272001",
+    "area": "272002",
+    "latitude": 26.788771699999998,
+    "longitude": 82.76165089999999,
+    "place_id": "ChIJJXj9MADbkDkRCQmSabiXVIc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJXj9MADbkDkRCQmSabiXVIc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 05:58:48"
+  },
+  {
+    "business_name": "S. R. Hospital & Medical Institute",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, College",
+    "pincode": "272002",
+    "phone_number": "+91 95549 10254",
+    "website": "http://srhnursing.in/",
+    "rating": 4.4,
+    "reviews_count": 68,
+    "address": "S. R. Hospital & Medical Institute Sehmo Dasiya Basti U.P(272150 Sehmo, Uttar Pradesh 272190",
+    "area": "272002",
+    "latitude": 26.9524565,
+    "longitude": 82.74431129999999,
+    "place_id": "ChIJNQ7EtprSkDkRMTuroHpDtks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNQ7EtprSkDkRMTuroHpDtks",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 05:58:48"
+  }
+]

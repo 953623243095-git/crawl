@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manoj Enterprises.",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Electronics Accessories Wholesaler",
+    "all_categories": "Electronics Accessories Wholesaler, Cell phone store",
+    "pincode": "272151",
+    "phone_number": "+91 99841 61211",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhanpur, Uttar Pradesh 272194",
+    "area": "272151",
+    "latitude": 27.0264423,
+    "longitude": 82.66184679999999,
+    "place_id": "ChIJhWTfTQAzlzkRbYTZhb7QbUU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhWTfTQAzlzkRbYTZhb7QbUU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:20:58"
+  },
+  {
+    "business_name": "New Sunny Mobile",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store",
+    "pincode": "272151",
+    "phone_number": "+91 96703 71564",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "2RJ2+WC6, Rudhauli, Uttar Pradesh 272151",
+    "area": "272151",
+    "latitude": 27.0322951,
+    "longitude": 82.8010257,
+    "place_id": "ChIJdW-SFIsslzkRL6KjrjrSrIs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdW-SFIsslzkRL6KjrjrSrIs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:20:59"
+  }
+]

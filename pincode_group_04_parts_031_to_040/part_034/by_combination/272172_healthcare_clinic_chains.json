@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharanya Health care",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center, Dental clinic, Dermatologist, Diagnostic center, Homeopath, Nutritionist, Orthopedic clinic, Otolaryngology clinic, Physiotherapy Center, Pulmonologist",
+    "pincode": "272172",
+    "phone_number": "+91 84488 66205",
+    "website": "https://www.sharanyacare.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "T-5, RIGHT SIDE, Jagran Chowk, Shukkar Bazar Rd, Uttam Nagar West, Block T, Param Puri, Uttam Nagar, New Delhi, Delhi, 110059",
+    "area": "Uttam Nagar West, Block T, Param Puri, Uttam Nagar",
+    "latitude": 28.6172933,
+    "longitude": 77.0539127,
+    "place_id": "ChIJSzdoo9MFDTkRin7BWNkuaHI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSzdoo9MFDTkRin7BWNkuaHI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:39:11"
+  },
+  {
+    "business_name": "Sharanya ENT Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Otolaryngology clinic",
+    "all_categories": "Otolaryngology clinic, Allergist, Audiologist, Endoscopist, Head and neck surgeon, Hearing aid store, ENT Specialist, Sleep clinic, Speech & Hearing Specialist",
+    "pincode": "272172",
+    "phone_number": "+91 88001 07527",
+    "website": "https://sharanyacare.com/ent-doctor-uttam-nagar/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Jagran Chowk, T-5, Shukkar Bazar Rd, Block T, Param Puri, Uttam Nagar, New Delhi, Delhi, 110059",
+    "area": "Block T, Param Puri, Uttam Nagar",
+    "latitude": 28.6172984,
+    "longitude": 77.0539208,
+    "place_id": "ChIJVVI19j8FDTkRoPi6evu0wW4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVI19j8FDTkRoPi6evu0wW4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:39:11"
+  }
+]

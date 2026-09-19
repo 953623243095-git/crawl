@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHAI DISCO",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "272163",
+    "phone_number": "N/A",
+    "website": "http://www.chaidisco.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "near by indian bank, Babhnan, Uttar Pradesh 271313",
+    "area": "272163",
+    "latitude": 26.9330236,
+    "longitude": 82.5017475,
+    "place_id": "ChIJ_VVGNv21kDkRcbAnXlHhnng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_VVGNv21kDkRcbAnXlHhnng",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:31:52"
+  },
+  {
+    "business_name": "Chai ke dukaan",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "272163",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QJ7V+QX7, Lohrauli, Uttar Pradesh 272131",
+    "area": "272163",
+    "latitude": 26.7644079,
+    "longitude": 82.6449212,
+    "place_id": "ChIJ9ZciMADHkDkRotiygV3ygwQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ZciMADHkDkRotiygV3ygwQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:31:52"
+  }
+]

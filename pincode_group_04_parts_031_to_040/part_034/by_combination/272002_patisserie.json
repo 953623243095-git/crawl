@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pankaj sweets and bakers",
+    "search_category": "Patisserie",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "272002",
+    "phone_number": "+91 86018 92792",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Baghnagar Bazar, Uttar Pradesh 272002",
+    "area": "272002",
+    "latitude": 26.8690264,
+    "longitude": 82.8569897,
+    "place_id": "ChIJi4ZFjpXXkDkRKz6flObjMKk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi4ZFjpXXkDkRKz6flObjMKk",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 05:58:18"
+  },
+  {
+    "business_name": "Paras Deriy",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "272002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VQ28+PVW, Makdee, Uttar Pradesh 272002",
+    "area": "272002",
+    "latitude": 26.8521553,
+    "longitude": 82.7672347,
+    "place_id": "ChIJpxYNWwDRkDkRZGOAxtgunNs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpxYNWwDRkDkRZGOAxtgunNs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 05:58:18"
+  }
+]

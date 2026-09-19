@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Event Decoration",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Party planner",
+    "all_categories": "Party planner, Wedding planner",
+    "pincode": "272171",
+    "phone_number": "+91 88816 24085",
+    "website": "https://best-event-decoration.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ram Nagar, Alambagh, Lucknow, Uttar Pradesh 226005",
+    "area": "Ram Nagar, Alambagh",
+    "latitude": 26.8100211,
+    "longitude": 80.89762879999999,
+    "place_id": "ChIJZWXCUv__mzkR9hoXrrHEDsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZWXCUv__mzkR9hoXrrHEDsU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:37:54"
+  },
+  {
+    "business_name": "Karan Balloon Decoration",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Party planner",
+    "all_categories": "Party planner",
+    "pincode": "272171",
+    "phone_number": "+91 98898 97878",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "555 cha/245 B, Geeta Palli, Ram Nagar, Alambagh, Lucknow, Uttar Pradesh 226005",
+    "area": "Geeta Palli, Ram Nagar, Alambagh",
+    "latitude": 26.8121494,
+    "longitude": 80.89929699999999,
+    "place_id": "ChIJfw3JjOH9mzkRjF0G-5uluPI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfw3JjOH9mzkRjF0G-5uluPI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:37:54"
+  }
+]

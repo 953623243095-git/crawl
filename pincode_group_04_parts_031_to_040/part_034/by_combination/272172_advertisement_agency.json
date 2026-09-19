@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pawan Kumar",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Design agency",
+    "all_categories": "Design agency",
+    "pincode": "272172",
+    "phone_number": "+91 79055 93669",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gaura khurd, Mahuli, Gaurapur, Uttar Pradesh 272172",
+    "area": "Gaura khurd",
+    "latitude": 26.6108308,
+    "longitude": 82.9754007,
+    "place_id": "ChIJv2MoDmwfkTkRVQ9cG1B5MzI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv2MoDmwfkTkRVQ9cG1B5MzI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:40:12"
+  },
+  {
+    "business_name": "Sujoy Roy",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "272172",
+    "phone_number": "+91 70546 48352",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "0, Madpaona, Uttar Pradesh 272162",
+    "area": "272172",
+    "latitude": 26.572902499999998,
+    "longitude": 82.9355345,
+    "place_id": "ChIJIU8EkmYfkTkR1Hkce1_bTXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIU8EkmYfkTkR1Hkce1_bTXw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:40:12"
+  }
+]

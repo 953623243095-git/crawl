@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shekhar Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "272155",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 16,
+    "address": "17, Indira Market, Chhaya Chauraha, near Upvan Restaurant, Begum Gunj, Barabanki, Uttar Pradesh 225001",
+    "area": "Begum Gunj",
+    "latitude": 26.930524899999998,
+    "longitude": 81.1906328,
+    "place_id": "ChIJzccpUJRhmTkR7CGJnz2jwEo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzccpUJRhmTkR7CGJnz2jwEo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:26:52"
+  },
+  {
+    "business_name": "Rajghat, Harraiya Bazaar, Basti",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "272155",
+    "phone_number": "+91 78000 60870",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 21,
+    "address": "QFRC+RCW, rajghat , harraiya bazaar manorama road, Harraiya, Uttar Pradesh 272155",
+    "area": "272155",
+    "latitude": 26.7921169,
+    "longitude": 82.4710836,
+    "place_id": "ChIJe6r8h2KxkDkRyarmdZotoOM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe6r8h2KxkDkRyarmdZotoOM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 06:26:54"
+  }
+]

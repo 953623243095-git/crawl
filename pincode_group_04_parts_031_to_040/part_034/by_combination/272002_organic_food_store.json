@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eat Right Basket",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Delivery service, Food manufacturer, Food producer, Natural goods store, Organic shop",
+    "pincode": "272002",
+    "phone_number": "+91 98215 82424",
+    "website": "http://www.eatrightbasket.com/",
+    "rating": 4.8,
+    "reviews_count": 224,
+    "address": "C79, C Block, Sector 65, Noida, Uttar Pradesh 201309",
+    "area": "C Block, Sector 65",
+    "latitude": 28.6107437,
+    "longitude": 77.38903049999999,
+    "place_id": "ChIJ9XGVeErlDDkR7NsVNqJQnbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9XGVeErlDDkR7NsVNqJQnbM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 05:58:12"
+  },
+  {
+    "business_name": "Kavya's Rasoi",
+    "search_category": "Organic Food Store",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "272002",
+    "phone_number": "+91 83037 46835",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 46,
+    "address": "Rautapar, Shakti Nagar, Basti, Uttar Pradesh 272001",
+    "area": "Rautapar, Shakti Nagar",
+    "latitude": 26.803218599999997,
+    "longitude": 82.72834399999999,
+    "place_id": "ChIJqdXJXvjPkDkRRLGZQh1w-HM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqdXJXvjPkDkRRLGZQh1w-HM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 05:58:15"
+  }
+]
