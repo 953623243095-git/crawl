@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KALIKA AGRO FARMS",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "271309",
+    "phone_number": "+91 87005 47575",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "near FCI godown, Ghevra, Delhi, 110081",
+    "area": "Ghevra",
+    "latitude": 28.694284099999997,
+    "longitude": 76.9906816,
+    "place_id": "ChIJz_m2BQkJDTkR6xTxGumb5_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz_m2BQkJDTkR6xTxGumb5_8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:20:41"
+  },
+  {
+    "business_name": "Royal 8 Chicken",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken shop",
+    "all_categories": "Chicken shop, Frozen food store",
+    "pincode": "271309",
+    "phone_number": "+91 72750 16488",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "117, N/105, Ambedkar Nagar, Navin Nagar, Kakadeo, Kanpur, Uttar Pradesh 208025",
+    "area": "Ambedkar Nagar, Navin Nagar, Kakadeo",
+    "latitude": 26.4778728,
+    "longitude": 80.2960085,
+    "place_id": "ChIJnXpJsJo5nDkRDLsuoczHzEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnXpJsJo5nDkRDLsuoczHzEg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:20:41"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Travels - Taxi Service in Jabalpur, Cab Service in Jabalpur",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Bus tour agency, Car leasing service, Travel agency",
+    "pincode": "271210",
+    "phone_number": "+91 93012 04783",
+    "website": "http://www.guptatravelsjabalpur.com/",
+    "rating": 4.5,
+    "reviews_count": 630,
+    "address": "Shop no7, First floor, Delight Talkies Compound, Prestige Town, South Civil Lines, Jabalpur, Madhya Pradesh 482001",
+    "area": "Prestige Town, South Civil Lines",
+    "latitude": 23.163139899999997,
+    "longitude": 79.954933,
+    "place_id": "ChIJH9S6oXCugTkRkkeOE_40hHc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH9S6oXCugTkRkkeOE_40hHc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:04:15"
+  },
+  {
+    "business_name": "Sunil Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "271210",
+    "phone_number": "+91 91116 55666",
+    "website": "https://carhireinjabalpur.com/",
+    "rating": 4.9,
+    "reviews_count": 36,
+    "address": "H. no. -114, near Jesu power house, Police Lines, Indra Market, Jabalpur, Madhya Pradesh 482001",
+    "area": "Police Lines, Indra Market",
+    "latitude": 23.1683122,
+    "longitude": 79.956683,
+    "place_id": "ChIJpUUvgTevgTkRN7feVRZt0wg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpUUvgTevgTkRN7feVRZt0wg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:04:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hma Provision Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "271601",
+    "phone_number": "+91 90445 84737",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Khaira, Gonda, Uttar Pradesh 271003",
+    "area": "Khaira",
+    "latitude": 27.132016099999998,
+    "longitude": 81.9758106,
+    "place_id": "ChIJN9bVRLHxmTkRE8rkeZ3KQaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN9bVRLHxmTkRE8rkeZ3KQaU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:41:07"
+  },
+  {
+    "business_name": "ANOOP PROVISION STORE & CSC",
+    "search_category": "Provision Store",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "271601",
+    "phone_number": "+91 99187 04000",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Motiganj Road, Siswaria, Noubara, Uttar Pradesh 271601",
+    "area": "271601",
+    "latitude": 27.1117548,
+    "longitude": 82.0820777,
+    "place_id": "ChIJlycI-RT7mTkRBwWMxdPDo0A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlycI-RT7mTkRBwWMxdPDo0A",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:41:08"
+  }
+]

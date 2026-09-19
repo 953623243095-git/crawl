@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mukesh Grahak Seva Kendra",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "271306",
+    "phone_number": "+91 91616 23750",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Naye Nagar Bazar, Banjeria Husain, Uttar Pradesh 271306",
+    "area": "271306",
+    "latitude": 27.1676954,
+    "longitude": 82.312799,
+    "place_id": "ChIJoXnsUqdblzkRevJM-bwBakc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoXnsUqdblzkRevJM-bwBakc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:16:45"
+  },
+  {
+    "business_name": "Laptop Store -Laptop Sales & Service Center",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer accessories store, Computer Hardware Company, Computer Rental Agency, Computer store, Computer service, Computer Wholesaler, Electronics store, Screen repair service, Used computer store",
+    "pincode": "271306",
+    "phone_number": "+91 95452 22204",
+    "website": "https://www.laptopstoreindia.in/laptop-store-locations/laptop-store-aundh/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "2nd Floor, Daya Prabha House, ITI Rd, near Reliance Digital / ICICI Bank, Ward No. 8, Pushpak Park, Aundh, Pune, Maharashtra 411067",
+    "area": "Ward No. 8, Pushpak Park, Aundh",
+    "latitude": 18.5547733,
+    "longitude": 73.80953459999999,
+    "place_id": "ChIJN19udzu_wjsRxtGQBMvXjAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN19udzu_wjsRxtGQBMvXjAc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:16:46"
+  }
+]

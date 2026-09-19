@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "अफजल टी पान शॉप",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "271206",
+    "phone_number": "+91 97247 73955",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GMF3+JFG, Rd barhni rod, Badhni, Pachperwa, Bishunpur Tantanwa, Uttar Pradesh 271206",
+    "area": "Badhni",
+    "latitude": 27.524514699999997,
+    "longitude": 82.653046,
+    "place_id": "ChIJV8B2IgARlzkRmXAevDF57b0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV8B2IgARlzkRmXAevDF57b0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:57:18"
+  },
+  {
+    "business_name": "ATA CYBERCAFE",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Coffee shop",
+    "pincode": "271206",
+    "phone_number": "N/A",
+    "website": "http://cybercafe.com/",
+    "rating": 4.2,
+    "reviews_count": 16,
+    "address": "FQXR+H76, Indo Nepal Border Trail, Krishnanagar, Uttar Pradesh 272201",
+    "area": "271206",
+    "latitude": 27.49891,
+    "longitude": 82.7906458,
+    "place_id": "ChIJr8Zvb6YblzkRGUqmIkOwGYA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr8Zvb6YblzkRGUqmIkOwGYA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:57:18"
+  }
+]

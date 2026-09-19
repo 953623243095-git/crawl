@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pawan Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "271604",
+    "phone_number": "+91 98717 35286",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gonda - Utraula Rd, Utraula, Uttar Pradesh 271604",
+    "area": "271604",
+    "latitude": 27.3178806,
+    "longitude": 82.4100074,
+    "place_id": "ChIJt7eraCRDlzkRS7k8QVcg-n8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt7eraCRDlzkRS7k8QVcg-n8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:46:28"
+  },
+  {
+    "business_name": "Sheesh Mahal Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Jeweler",
+    "pincode": "271604",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 20,
+    "address": "Mubarakpur Joya - Ikonda, Joya, Uttar Pradesh 244222",
+    "area": "271604",
+    "latitude": 28.834538,
+    "longitude": 78.4699071,
+    "place_id": "ChIJOfFbyAkJCzkRMuUIgxpCDsI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOfFbyAkJCzkRMuUIgxpCDsI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:46:30"
+  }
+]

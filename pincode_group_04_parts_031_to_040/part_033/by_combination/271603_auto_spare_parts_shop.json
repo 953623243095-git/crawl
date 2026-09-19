@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHIV AUTO PARTS",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "271603",
+    "phone_number": "+91 73182 82210",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "INFRONT OF PNR, CHHAPIYA, Peher, Uttar Pradesh 271604",
+    "area": "CHHAPIYA",
+    "latitude": 27.2525193,
+    "longitude": 82.3283951,
+    "place_id": "ChIJ4yKHwDBdlzkRF6DjgLkL-Pg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4yKHwDBdlzkRF6DjgLkL-Pg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:45:06"
+  },
+  {
+    "business_name": "Sohel Auto Sales",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Motorcycle parts store",
+    "all_categories": "Motorcycle parts store",
+    "pincode": "271603",
+    "phone_number": "+91 72198 21111",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mahdeiya Bazaar Post Mahdeiya State P/S Utraulla, Uttar Pradesh 271603",
+    "area": "271603",
+    "latitude": 27.2867136,
+    "longitude": 82.3083747,
+    "place_id": "ChIJjZGX8shdlzkRSEPlbJXSeRc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjZGX8shdlzkRSEPlbJXSeRc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:45:08"
+  }
+]

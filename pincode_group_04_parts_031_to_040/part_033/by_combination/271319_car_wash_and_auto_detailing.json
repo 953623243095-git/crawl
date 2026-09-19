@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Car Washing",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "271319",
+    "phone_number": "+91 84639 16352",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chowk, Bazar Chowk Bazar, Jhanjhari Block, Gonda, Uttar Pradesh 271001",
+    "area": "Jhanjhari Block",
+    "latitude": 27.1267218,
+    "longitude": 81.9675374,
+    "place_id": "ChIJVUhM457xmTkRK2TRJt_JxHM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVUhM457xmTkRK2TRJt_JxHM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:29:45"
+  },
+  {
+    "business_name": "Car seat cover and car accessories",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto Accessories Store",
+    "all_categories": "Auto Accessories Store",
+    "pincode": "271319",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": 6,
+    "address": "Katra Shivadayalganj, Raheli, Uttar Pradesh 271319",
+    "area": "271319",
+    "latitude": 26.8463156,
+    "longitude": 82.20634969999999,
+    "place_id": "ChIJpfOh4mUHmjkRah5PdH1z5Bw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpfOh4mUHmjkRah5PdH1z5Bw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:29:45"
+  }
+]

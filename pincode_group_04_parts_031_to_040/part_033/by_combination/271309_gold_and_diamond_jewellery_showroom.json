@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "271309",
+    "phone_number": "+91 89602 63000",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 9,
+    "address": "Tarabganj Rd, Narayanpur, Uttar Pradesh 271309",
+    "area": "271309",
+    "latitude": 26.9293937,
+    "longitude": 82.01488359999999,
+    "place_id": "ChIJFRZTrrkdmjkRa8GCO00v3TI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFRZTrrkdmjkRa8GCO00v3TI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:20:53"
+  },
+  {
+    "business_name": "Badri Prasad Gopalji Jewellers Pvt. Ltd.",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "271309",
+    "phone_number": "+91 522 400 3023",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 220,
+    "address": "Ground Floor, Gole Market, Mahanagar, Lucknow, Uttar Pradesh 226006",
+    "area": "Gole Market, Mahanagar",
+    "latitude": 26.8746396,
+    "longitude": 80.95812719999999,
+    "place_id": "ChIJ6VwStmX9mzkRVv_G-jTOo4E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6VwStmX9mzkRVv_G-jTOo4E",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:20:55"
+  }
+]

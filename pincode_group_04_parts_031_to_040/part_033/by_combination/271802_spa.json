@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SUPER CAR SPA",
+    "search_category": "Spa",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "271802",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Risia, Risia - Mirzapur Rd, katiliya chauraha, Bahraich, Uttar Pradesh 271875",
+    "area": "katiliya chauraha",
+    "latitude": 27.764291099999998,
+    "longitude": 81.6537975,
+    "place_id": "ChIJHUc0v2FTmDkR7S1-Ms4Z1yQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHUc0v2FTmDkR7S1-Ms4Z1yQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:53:48"
+  },
+  {
+    "business_name": "Anupam Medical Store",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "271802",
+    "phone_number": "+91 99196 70001",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "0, Metukaha Chauraha, Bahraich, Tarapur Khurd, Uttar Pradesh 271802",
+    "area": "271802",
+    "latitude": 27.570590799999998,
+    "longitude": 81.54660489999999,
+    "place_id": "ChIJM4TH8mmpmTkREbTzjBS1b7w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM4TH8mmpmTkREbTzjBS1b7w",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:53:48"
+  }
+]

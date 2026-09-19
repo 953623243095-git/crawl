@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "UNIQUE METALS",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Steel fabricator",
+    "all_categories": "Steel fabricator",
+    "pincode": "271801",
+    "phone_number": "+91 98390 71446",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HH8P+M2J, RTO Office Rd, Nazipurwa, Bahraich, Uttar Pradesh 271801",
+    "area": "Nazipurwa",
+    "latitude": 27.5667062,
+    "longitude": 81.5850117,
+    "place_id": "ChIJgTCn8FypmTkR5TQR2ISpoPg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgTCn8FypmTkR5TQR2ISpoPg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:52:38"
+  },
+  {
+    "business_name": "Akeel electrical welding & sons",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Welder",
+    "all_categories": "Welder",
+    "pincode": "271801",
+    "phone_number": "+91 70683 63813",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tirmuhani road, near Dr arshi hospital, Nazipurwa, Bahraich, Uttar Pradesh 271801",
+    "area": "Nazipurwa",
+    "latitude": 27.564164599999998,
+    "longitude": 81.5833074,
+    "place_id": "ChIJlXOrMl2pmTkR2NsWG0KB-h4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlXOrMl2pmTkR2NsWG0KB-h4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:52:41"
+  }
+]

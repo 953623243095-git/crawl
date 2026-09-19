@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Total Insurance Services",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "271607",
+    "phone_number": "+91 76666 02438",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 46,
+    "address": "Hata, Uttar Pradesh 274203",
+    "area": "271607",
+    "latitude": 26.7424164,
+    "longitude": 83.73694689999999,
+    "place_id": "ChIJxTmrsP_nkzkR1vJgZJ78sCM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxTmrsP_nkzkR1vJgZJ78sCM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:49:10"
+  },
+  {
+    "business_name": "Reliance General Insurance Co.Ltd",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "271607",
+    "phone_number": "+91 99847 84444",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Moh, Gonda Road, opp. Traffic Office, Mohalla Chikni, Alijanpurva, Balrampur, Uttar Pradesh 271201",
+    "area": "Mohalla Chikni, Alijanpurva",
+    "latitude": 27.429444399999998,
+    "longitude": 82.1768288,
+    "place_id": "ChIJB2WAYKjZmTkRwotI7ZPizXI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB2WAYKjZmTkRwotI7ZPizXI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:49:12"
+  }
+]

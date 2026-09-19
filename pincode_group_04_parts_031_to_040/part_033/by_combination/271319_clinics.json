@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "271319",
+    "phone_number": "+91 91403 49483",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Katra Shivadayalganj, Raheli, Uttar Pradesh 271319",
+    "area": "271319",
+    "latitude": 26.844777399999998,
+    "longitude": 82.217068,
+    "place_id": "ChIJ_Qxr74KpkDkRoDhCVi7N_bY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_Qxr74KpkDkRoDhCVi7N_bY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:29:35"
+  },
+  {
+    "business_name": "Ramvilas Healthcare Centre",
+    "search_category": "Clinics",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "271319",
+    "phone_number": "+91 90767 66200",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "V68R+MR7, Haidarabad, Jagarnathpur, Uttar Pradesh 272129",
+    "area": "271319",
+    "latitude": 26.866433699999998,
+    "longitude": 82.2426387,
+    "place_id": "ChIJSVdmLwCrkDkR4oqVZ65TcKI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSVdmLwCrkDkR4oqVZ65TcKI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:29:36"
+  }
+]

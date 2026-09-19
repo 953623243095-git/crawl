@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Family Room for Rent",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Condominium rental agency",
+    "all_categories": "Condominium rental agency",
+    "pincode": "271804",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nai basti, Bakshi Pura, Bahraich, Uttar Pradesh 271801",
+    "area": "Bakshi Pura",
+    "latitude": 27.582207,
+    "longitude": 81.61372519999999,
+    "place_id": "ChIJEZWy8LutmTkRmgF1Hjh-tx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEZWy8LutmTkRmgF1Hjh-tx0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:57:47"
+  },
+  {
+    "business_name": "Kisan Sewa Kendra",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Wholesaler",
+    "pincode": "271804",
+    "phone_number": "+91 99563 60636",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "New market, Near, Hospital Chauraha, Bhinga, Uttar Pradesh 271831",
+    "area": "271804",
+    "latitude": 27.700122099999998,
+    "longitude": 81.9375493,
+    "place_id": "ChIJkVVIvrc1mDkRVPbRe9gyCaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkVVIvrc1mDkRVPbRe9gyCaU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:57:49"
+  }
+]

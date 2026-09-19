@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thakur Cricket Ground, Kaithola",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Cricket ground",
+    "all_categories": "Cricket ground",
+    "pincode": "271209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "5V2G+Q57, Kaithola, Gonda, Uttar Pradesh 271003",
+    "area": "271209",
+    "latitude": 27.1519107,
+    "longitude": 81.87542959999999,
+    "place_id": "ChIJJ3O5vDftmTkRUkwyz3g68Wg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ3O5vDftmTkRUkwyz3g68Wg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:03:08"
+  },
+  {
+    "business_name": "Cricket ground (tikariya)",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Playground",
+    "all_categories": "Playground",
+    "pincode": "271209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "52PR+55H, Gonda, Kandvalia, Uttar Pradesh 271002",
+    "area": "271209",
+    "latitude": 27.185828299999997,
+    "longitude": 82.0407067,
+    "place_id": "ChIJrVQ6BADvmTkRgExlHUUEdB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrVQ6BADvmTkRgExlHUUEdB4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:03:09"
+  }
+]

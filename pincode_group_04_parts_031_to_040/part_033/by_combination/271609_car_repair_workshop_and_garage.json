@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat Car Motor Service",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Chauffeur service, Car repair and maintenance service",
+    "pincode": "271609",
+    "phone_number": "+91 78951 45687",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "02 Izzat Nagara Ashraf Khan K Chowny, Bareilly, Uttar Pradesh 243001",
+    "area": "Shrinathpuram",
+    "latitude": 28.3741557,
+    "longitude": 79.4132419,
+    "place_id": "ChIJP34gdxcHoDkR8Fhfkog4fsA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP34gdxcHoDkR8Fhfkog4fsA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:50:05"
+  },
+  {
+    "business_name": "Bosch Car Service - Hindustaan Automobiles",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto body shop, Auto machine shop, Auto painting, Car wash, Towing service",
+    "pincode": "271609",
+    "phone_number": "+91 98435 07555",
+    "website": "http://www.hindustaanauto.com/",
+    "rating": 4.2,
+    "reviews_count": 170,
+    "address": "By-Pass Road, Udumalaipettai Municipality, Tamil Nadu 642128",
+    "area": "271609",
+    "latitude": 10.5786423,
+    "longitude": 77.2758719,
+    "place_id": "ChIJwf6F0dHNqTsRo4pdNeNWi58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwf6F0dHNqTsRo4pdNeNWi58",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:50:07"
+  }
+]

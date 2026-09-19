@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Happy Scoops",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "271802",
+    "phone_number": "+91 70078 06092",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NA Khatripura, Chhoti Bazar Rd, near Shiv Mandir, Bahraich, Uttar Pradesh 271801",
+    "area": "Brahmnipura",
+    "latitude": 27.5674131,
+    "longitude": 81.59691099999999,
+    "place_id": "ChIJk1lK1tapmTkR3wZQ-Wp-QDQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk1lK1tapmTkR3wZQ-Wp-QDQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:53:10"
+  },
+  {
+    "business_name": "Banke Bihari Icecream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "271802",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Agrsen Chauk, G.I.C, Road, Brahmnipura, Bahraich, Uttar Pradesh 271801",
+    "area": "Brahmnipura",
+    "latitude": 27.5766791,
+    "longitude": 81.6029514,
+    "place_id": "ChIJDzA9elupmTkRwLPgdoDAz-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDzA9elupmTkRwLPgdoDAz-I",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:53:10"
+  }
+]

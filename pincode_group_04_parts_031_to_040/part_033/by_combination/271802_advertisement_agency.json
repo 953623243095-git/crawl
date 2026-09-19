@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adil Advertising Agency",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "271802",
+    "phone_number": "+91 79855 79081",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Banjari mod, Bahraich - Lucknow Rd, Bahraich, Uttar Pradesh 271802",
+    "area": "Saryu Nagar",
+    "latitude": 27.555257899999997,
+    "longitude": 81.5834792,
+    "place_id": "ChIJa2sWqQ2pmTkRvR-Ryn3nGdY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa2sWqQ2pmTkRvR-Ryn3nGdY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:54:32"
+  },
+  {
+    "business_name": "Indane - Raj Gas Service",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Gas Agency",
+    "all_categories": "Gas Agency, Gas cylinders supplier, Gas shop, LPG conversion",
+    "pincode": "271802",
+    "phone_number": "+91 94150 62277",
+    "website": "https://locator.iocl.com/indane/indane-raj-gas-service-gas-agency-devi-purwa-bahraich-212932/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Shop No 12, 13, Station Road, near Water Tank, Devi Purwa, Bahraich, Maila Barganwa, Uttar Pradesh 271875",
+    "area": "Devi Purwa",
+    "latitude": 27.688703399999998,
+    "longitude": 81.60502369999999,
+    "place_id": "ChIJHyr6wtpVmDkRGI0CLmECMfQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHyr6wtpVmDkRGI0CLmECMfQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:54:34"
+  }
+]

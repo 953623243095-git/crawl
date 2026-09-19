@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Culcutta Watch",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "271402",
+    "phone_number": "+91 70541 40100",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Reach Ghat Rd, Rudauli, Uttar Pradesh 224120",
+    "area": "271402",
+    "latitude": 26.7549036,
+    "longitude": 81.74776489999999,
+    "place_id": "ChIJId2dr2ElmjkRwOWud_GhuTM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJId2dr2ElmjkRwOWud_GhuTM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:32:57"
+  },
+  {
+    "business_name": "Gulshan Watch & Mobile",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Mobile phone repair shop",
+    "pincode": "271402",
+    "phone_number": "+91 70076 00636",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Reach Ghat Rd, Katra, Rudauli, Uttar Pradesh 224120",
+    "area": "Katra",
+    "latitude": 26.7485178,
+    "longitude": 81.7465196,
+    "place_id": "ChIJ9eATbZolmjkRmZ8JIOayRF0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9eATbZolmjkRmZ8JIOayRF0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:32:57"
+  }
+]

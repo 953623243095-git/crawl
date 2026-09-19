@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Financial advisor",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant, Service establishment",
+    "pincode": "271301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Financial advisor, 271301, India",
+    "area": "271301",
+    "latitude": 24.0371798,
+    "longitude": 76.7564124,
+    "place_id": "ChIJ9WOjY6eLbTkRzWxgDZPSyGM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9WOjY6eLbTkRzWxgDZPSyGM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:08:16"
+  },
+  {
+    "business_name": "Astra funds finance provider",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency, Finance broker, Mortgage broker, Real estate consultant",
+    "pincode": "271301",
+    "phone_number": "+91 98997 10462",
+    "website": "https://astra-funds-finance.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "fast floor, Shop No, 176, Chetan Basti, Block J, Rajendra place, Anand Parbat, New Delhi, Delhi, 110008",
+    "area": "Chetan Basti, Block J, Rajendra place, Anand Parbat",
+    "latitude": 28.663852799999997,
+    "longitude": 77.166513,
+    "place_id": "ChIJJ3lfnREDDTkRQWc0Swum97g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ3lfnREDDTkRQWc0Swum97g",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:08:17"
+  }
+]

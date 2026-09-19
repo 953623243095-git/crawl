@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "deep collection",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "271301",
+    "phone_number": "+91 95545 87878",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Gonda - Utraula Rd, chowk bazar, Dhaneypur, Mishroulia, Uttar Pradesh 271602",
+    "area": "chowk bazar",
+    "latitude": 27.224873499999998,
+    "longitude": 82.1426635,
+    "place_id": "ChIJX8C1leXjmTkRf3PBLOhlgVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX8C1leXjmTkRf3PBLOhlgVA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:07:14"
+  },
+  {
+    "business_name": "Pinky Garments",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store",
+    "pincode": "271301",
+    "phone_number": "+91 96705 24360",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Shop N. 90, Bazar, Gonda - Utraula Rd, Dhaneypur, Mishroulia, Uttar Pradesh 271602",
+    "area": "271301",
+    "latitude": 27.224628199999998,
+    "longitude": 82.14252739999999,
+    "place_id": "ChIJfQUrZgDjmTkRRQhU5LtCiPI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfQUrZgDjmTkRRQhU5LtCiPI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:07:14"
+  }
+]

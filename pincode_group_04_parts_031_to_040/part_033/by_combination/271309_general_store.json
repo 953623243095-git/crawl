@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarvesh Pan shop",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "271309",
+    "phone_number": "+91 70815 17688",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Bandha Chahurha, Durjanpur Ghat, Gohani, Uttar Pradesh 271309",
+    "area": "Bandha Chahurha",
+    "latitude": 26.906773299999998,
+    "longitude": 82.0393917,
+    "place_id": "ChIJVfAiqS0dmjkRV9vA0joW1T8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVfAiqS0dmjkRV9vA0joW1T8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:20:41"
+  },
+  {
+    "business_name": "Gauhaniya General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "271309",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 23,
+    "address": "Gauhaniya Saloni, Post, Manapur, Uttar Pradesh 224001",
+    "area": "271309",
+    "latitude": 26.7175783,
+    "longitude": 82.0507884,
+    "place_id": "ChIJq6BHBGIPmjkRIeajCVCGabo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6BHBGIPmjkRIeajCVCGabo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:20:41"
+  }
+]

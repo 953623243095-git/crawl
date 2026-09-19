@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahalaxmi Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "271821",
+    "phone_number": "+91 84095 92814",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 29,
+    "address": "Mithila Aakh hospital, Sadar Bazar, Musrigharari, Samastipur, Bihar 848103",
+    "area": "Sadar Bazar",
+    "latitude": 25.808863499999998,
+    "longitude": 85.73553,
+    "place_id": "ChIJwSmFEpWb7TkRY2shPqQJdXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwSmFEpWb7TkRY2shPqQJdXw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:03:08"
+  },
+  {
+    "business_name": "Tiwari Rice Plant",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "271821",
+    "phone_number": "+91 76518 47214",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9RJV+HPM, vishvamitra, Dham Road, Uttar Pradesh 271821",
+    "area": "271821",
+    "latitude": 27.3814621,
+    "longitude": 81.8442934,
+    "place_id": "ChIJCfawAoLAmTkR5afk7QUIN9Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCfawAoLAmTkR5afk7QUIN9Y",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:03:09"
+  }
+]

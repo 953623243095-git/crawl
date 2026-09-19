@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AMIT PET SHOP & AQUARIUM",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "271804",
+    "phone_number": "+91 98387 92823",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Barail Rd, Pragya Puram Colony, Lakhpedabagh, Barabanki, Barel, Uttar Pradesh 225001",
+    "area": "Pragya Puram Colony, Lakhpedabagh",
+    "latitude": 26.9149581,
+    "longitude": 81.1891248,
+    "place_id": "ChIJd7HfLzxgmTkRVzG61D9W7sE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd7HfLzxgmTkRVzG61D9W7sE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:56:31"
+  },
+  {
+    "business_name": "Namami Aquarium & Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "271804",
+    "phone_number": "+91 94078 35294",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "nehru shamarak, Madhya Pradesh 481661",
+    "area": "271804",
+    "latitude": 22.603878899999998,
+    "longitude": 80.3661769,
+    "place_id": "ChIJBXkzVK2WgDkRDbhZO73j0UA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBXkzVK2WgDkRDbhZO73j0UA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:56:31"
+  }
+]

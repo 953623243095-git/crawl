@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Overseas Bank",
+    "search_category": "EXIMS",
+    "primary_category": "Public Sector Bank",
+    "all_categories": "Public Sector Bank, Bank",
+    "pincode": "271206",
+    "phone_number": "+91 89259 53846",
+    "website": "https://locate.iob.in/indian-overseas-bank-balrampur-public-sector-bank-civil-lines-balrampur-396148/Home",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ground Floor, No 400, Balrampur - Bahraich Rd, Civil Line, Pahalwara, Balrampur, Uttar Pradesh 271201",
+    "area": "Civil Line, Pahalwara",
+    "latitude": 27.434711999999998,
+    "longitude": 82.173808,
+    "place_id": "ChIJ5ynsqHHZmTkRvsqJwanVxYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5ynsqHHZmTkRvsqJwanVxYE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:58:35"
+  },
+  {
+    "business_name": "SBI Branch Balrampur",
+    "search_category": "EXIMS",
+    "primary_category": "Bank",
+    "all_categories": "Bank",
+    "pincode": "271206",
+    "phone_number": "+91 1800 1234",
+    "website": "https://bank.sbi/",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Main Rd, Tehsil, Balrampur, Chhattisgarh 497119",
+    "area": "Tehsil",
+    "latitude": 23.609337999999997,
+    "longitude": 83.617815,
+    "place_id": "ChIJU_IUC8bfizkRakbSNUXd7Zc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU_IUC8bfizkRakbSNUXd7Zc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:58:35"
+  }
+]

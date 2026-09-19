@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Royal King Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Catering food and drink supplier, Event management company, Event planner, Food and beverage consultant, Party planner, Restaurant supply store, Wedding buffet, Wedding planner, Wedding service",
+    "pincode": "271402",
+    "phone_number": "+91 80812 74447",
+    "website": "https://www.theroyalkingcaterers.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1/261, next to openair restaurant, Viram Khand, Viram Khand 1, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Viram Khand, Viram Khand 1, Gomti Nagar",
+    "latitude": 26.8514588,
+    "longitude": 81.0066164,
+    "place_id": "ChIJ18xJxIbjmzkRKy-evo0AOvs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ18xJxIbjmzkRKy-evo0AOvs",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:33:37"
+  },
+  {
+    "business_name": "Shanker Enterprises",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "271402",
+    "phone_number": "+91 97924 79000",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jmd Tower, Bus Stand, Azad Nagar, Gonda, Uttar Pradesh 271003",
+    "area": "Azad Nagar",
+    "latitude": 27.132999899999998,
+    "longitude": 81.9576481,
+    "place_id": "ChIJqyq-1kvvmTkR8C7fV-C1m2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqyq-1kvvmTkR8C7fV-C1m2U",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:33:39"
+  }
+]

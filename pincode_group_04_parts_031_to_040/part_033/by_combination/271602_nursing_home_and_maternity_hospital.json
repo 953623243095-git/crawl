@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Modern Medicals",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "271602",
+    "phone_number": "+91 87785 67505",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "2/633, near Urban Primary Health Centre, Sithalakshmi Nagar, GR Nagar, Madurai, Tamil Nadu 625007",
+    "area": "Sithalakshmi Nagar, GR Nagar",
+    "latitude": 9.9611252,
+    "longitude": 78.14529189999999,
+    "place_id": "ChIJr0E3lHbHADsRxy3S_w1nS80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr0E3lHbHADsRxy3S_w1nS80",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:43:17"
+  },
+  {
+    "business_name": "Sagar Nursing Home &Parsuti Kendra",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "271602",
+    "phone_number": "+91 99192 46767",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "97GX+3C2, Kandbhari, Uttar Pradesh 271607",
+    "area": "271602",
+    "latitude": 27.375129899999997,
+    "longitude": 82.29852729999999,
+    "place_id": "ChIJ7fzbUtJglzkRaLYlwC_Xh8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7fzbUtJglzkRaLYlwC_Xh8I",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:43:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dosti baker's",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "271215",
+    "phone_number": "+91 83550 91020",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9RC4+6M, Bandvari, Uttar Pradesh 272192",
+    "area": "271215",
+    "latitude": 27.3705625,
+    "longitude": 82.8066875,
+    "place_id": "ChIJl__xLwAZlzkRJfnRIHxs-q4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl__xLwAZlzkRJfnRIHxs-q4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:05:26"
+  },
+  {
+    "business_name": "Chaudhary Bakers",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Coffee shop",
+    "pincode": "271215",
+    "phone_number": "+91 88282 44628",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Itwa Dumariyaganj Road, Karahiya ItwaPul, near Chaudhary Dhaba, Uttar Pradesh 272192",
+    "area": "271215",
+    "latitude": 27.304727999999997,
+    "longitude": 82.6851281,
+    "place_id": "ChIJG-VkAAA9lzkRt6v4YS6A7vM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG-VkAAA9lzkRt6v4YS6A7vM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:05:29"
+  }
+]

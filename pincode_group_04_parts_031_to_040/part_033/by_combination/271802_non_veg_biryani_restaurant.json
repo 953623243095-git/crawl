@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Delhi Chicken Biryani",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "271802",
+    "phone_number": "+91 96508 60938",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Delhi Chicken Biryani, Gyan Sagar School Ke Samne, Naya Bus Stand, Mihinpurwa, Kundwa, Uttar Pradesh 271855",
+    "area": "271802",
+    "latitude": 28.025220599999997,
+    "longitude": 81.3947694,
+    "place_id": "ChIJnzouIwurmTkROZhSklJPXHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnzouIwurmTkROZhSklJPXHo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:53:04"
+  },
+  {
+    "business_name": "Rohit Roy Resturent Non Veg",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Non Vegetarian Restaurant",
+    "all_categories": "Non Vegetarian Restaurant, Fast food restaurant, Food court",
+    "pincode": "271802",
+    "phone_number": "+91 90444 65530",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "P-113, near Indian Bank Moh, Mewati Pura, Brahmnipura, Bahraich, Uttar Pradesh 271801",
+    "area": "Mewati Pura, Brahmnipura",
+    "latitude": 27.5723603,
+    "longitude": 81.592477,
+    "place_id": "ChIJe4K231mpmTkR24j_UaXWdDY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe4K231mpmTkR24j_UaXWdDY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:53:04"
+  }
+]

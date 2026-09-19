@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Galaxy",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "271307",
+    "phone_number": "+91 85558 44656",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Srinivasa Talkies Rd, Doctors Colony, Miryalaguda, Telangana 508207",
+    "area": "Doctors Colony",
+    "latitude": 16.868306,
+    "longitude": 79.5622982,
+    "place_id": "ChIJU_3yxGIlNToRAbd2UXuvCBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU_3yxGIlNToRAbd2UXuvCBU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:18:16"
+  },
+  {
+    "business_name": "Yash Gift Mart",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "271307",
+    "phone_number": "+91 82997 22521",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 216,
+    "address": "Chandel Nagar, 169(1, Purana Shivali Rd, Gooba Gardens, Kalyanpur, Kanpur, Uttar Pradesh 208017",
+    "area": "Gooba Gardens, Kalyanpur",
+    "latitude": 26.5005958,
+    "longitude": 80.24790139999999,
+    "place_id": "ChIJB9uYEhE3nDkRh7WNSAuney0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB9uYEhE3nDkRh7WNSAuney0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:18:17"
+  }
+]

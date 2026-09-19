@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akhlesh Sweet House",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "271307",
+    "phone_number": "+91 98389 84368",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hathiyagarh, Uttar Pradesh 271305",
+    "area": "271307",
+    "latitude": 27.052659,
+    "longitude": 82.41161799999999,
+    "place_id": "ChIJ-5dX9X9NlzkRT9rx79xYKpo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-5dX9X9NlzkRT9rx79xYKpo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:17:25"
+  },
+  {
+    "business_name": "Lassi Shop Nurul Ansari",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "271307",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 22,
+    "address": "3FH4+GMM, Bhadariya-Chanardeep-GauraChawki-Babhnan Rd, Gaura Chawki, Pipra Adaee, Uttar Pradesh 271312",
+    "area": "271307",
+    "latitude": 27.0788253,
+    "longitude": 82.4566846,
+    "place_id": "ChIJV7QX5LxOlzkR7WlG10TE7K8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV7QX5LxOlzkR7WlG10TE7K8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:17:25"
+  }
+]

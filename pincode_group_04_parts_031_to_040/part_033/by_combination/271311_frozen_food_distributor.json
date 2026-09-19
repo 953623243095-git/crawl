@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Shree Food Product",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer, Service establishment",
+    "pincode": "271311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Raj Shree Food Product, 271311, India",
+    "area": "271311",
+    "latitude": 26.628406199999997,
+    "longitude": 73.8783471,
+    "place_id": "ChIJZ1RVR71HbDkRo5ELkYyacMg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ1RVR71HbDkRo5ELkYyacMg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:24:09"
+  },
+  {
+    "business_name": "AL-QAMAR FROZEN FOODS",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "271311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "B-970, Sector A, Mahanagar, Lucknow, Uttar Pradesh 226006",
+    "area": "Sector A, Mahanagar",
+    "latitude": 26.875767999999997,
+    "longitude": 80.9461341,
+    "place_id": "ChIJoaJ1gaH9mzkRTCAT6ucHXKI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoaJ1gaH9mzkRTCAT6ucHXKI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:24:11"
+  }
+]

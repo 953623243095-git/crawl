@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Imran Biryani Shop",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "271210",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "5XV3+F76, Kalwad Kalan and Khurd, Jugalpura, Rajasthan 303121",
+    "area": "271210",
+    "latitude": 27.1936534,
+    "longitude": 75.9531265,
+    "place_id": "ChIJlZQS8wmnbTkRSnaUBl26uwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlZQS8wmnbTkRSnaUBl26uwM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:03:47"
+  },
+  {
+    "business_name": "Special chicken Biryani",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant",
+    "pincode": "271210",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "32WJ+W22, Devri Rd, Pachgain Khera, Dhandhupura, Uttar Pradesh 283125",
+    "area": "271210",
+    "latitude": 27.097605299999998,
+    "longitude": 78.0301467,
+    "place_id": "ChIJWw0dFABzdDkRUu6qn36CcVQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWw0dFABzdDkRUu6qn36CcVQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:03:47"
+  }
+]

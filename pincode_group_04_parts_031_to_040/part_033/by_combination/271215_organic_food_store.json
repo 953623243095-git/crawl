@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VIKAS TRADERS",
+    "search_category": "Organic Food Store",
+    "primary_category": "Natural goods store",
+    "all_categories": "Natural goods store",
+    "pincode": "271215",
+    "phone_number": "+91 85429 00791",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kathela Sharki, Itwa, Uttar Pradesh 272192",
+    "area": "Kathela Sharki",
+    "latitude": 27.3315709,
+    "longitude": 82.6970853,
+    "place_id": "ChIJKxujJ3g9lzkR_gaQp1b_2d0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKxujJ3g9lzkR_gaQp1b_2d0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:05:19"
+  },
+  {
+    "business_name": "Organic India Store - Ashok Nagar, Jaipur",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Organic shop, Wellness center",
+    "pincode": "271215",
+    "phone_number": "+91 80 3776 2769",
+    "website": "https://store.organicindia.com/organic-india/jaipur/c-scheme/organic-india-store-in-c-scheme-jaipur--fda6ee7c-237e-4043-8376-a69aa24880b0/home",
+    "rating": 4.9,
+    "reviews_count": 236,
+    "address": "Inside Fabindia Experience Centre, GT Galleria, Ashok Marg, opposite Chawla's Family Restaurant, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302001",
+    "area": "C Scheme, Ashok Nagar",
+    "latitude": 26.9138742,
+    "longitude": 75.80657599999999,
+    "place_id": "ChIJzbcG72C1bTkRZKGyRTsALYg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzbcG72C1bTkRZKGyRTsALYg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:05:20"
+  }
+]

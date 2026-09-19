@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fitness club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "271302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "26X8+544, Rafi Nagar, Mankapur, Uttar Pradesh 271302",
+    "area": "Rafi Nagar",
+    "latitude": 27.047894799999998,
+    "longitude": 82.21531829999999,
+    "place_id": "ChIJGxJwpDdVlzkRYZXxdir03pk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGxJwpDdVlzkRYZXxdir03pk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:09:12"
+  },
+  {
+    "business_name": "Fitness Point Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "271302",
+    "phone_number": "+91 89604 31280",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "near HDFC Bank, Mankapur, Uttar Pradesh 271302",
+    "area": "271302",
+    "latitude": 27.0432153,
+    "longitude": 82.2121421,
+    "place_id": "ChIJbb5IOPlVlzkROo5zHL0HTK4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbb5IOPlVlzkROo5zHL0HTK4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:09:15"
+  }
+]

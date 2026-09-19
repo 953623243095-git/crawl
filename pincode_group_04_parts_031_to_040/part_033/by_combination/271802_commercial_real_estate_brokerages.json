@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAINIK PROPERTIES",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "271802",
+    "phone_number": "N/A",
+    "website": "http://sainikproperties.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CHACHA BHATIJA MARKET, SAURIKH ROAD, near KRISHNA TRACTORS, Chhibramau, Deobaram Pur, Uttar Pradesh 209721",
+    "area": "271802",
+    "latitude": 27.1306098,
+    "longitude": 79.5044417,
+    "place_id": "ChIJF7TiKtUfnjkRl86k5DsENSk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF7TiKtUfnjkRl86k5DsENSk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:54:22"
+  },
+  {
+    "business_name": "SK Real Estate",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Industrial real estate agency",
+    "all_categories": "Industrial real estate agency",
+    "pincode": "271802",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jehta Mall Rd, Maura, Jehta, Uttar Pradesh 226101",
+    "area": "271802",
+    "latitude": 26.9146556,
+    "longitude": 80.84694669999999,
+    "place_id": "ChIJl5u93rxVmTkRsCz_jUdr3vA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl5u93rxVmTkRsCz_jUdr3vA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:54:22"
+  }
+]

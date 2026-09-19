@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Haji Shahab chicken shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken shop",
+    "all_categories": "Chicken shop",
+    "pincode": "271821",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Laukahi bajar, road, Payagpur, Uttar Pradesh 271871",
+    "area": "271821",
+    "latitude": 27.3696827,
+    "longitude": 81.7321465,
+    "place_id": "ChIJ76Bra-u9mTkRTnmYAuxJq60",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ76Bra-u9mTkRTnmYAuxJq60",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:01:37"
+  },
+  {
+    "business_name": "Kapla Pashu Aahar",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "271821",
+    "phone_number": "+91 95590 49024",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Purina Bazar, Visheshvar Ganj, Uttar Pradesh 271821",
+    "area": "271821",
+    "latitude": 27.3903905,
+    "longitude": 81.8816745,
+    "place_id": "ChIJ-5LbVWbBmTkRnMTVKZpe180",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-5LbVWbBmTkRnMTVKZpe180",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:01:37"
+  }
+]

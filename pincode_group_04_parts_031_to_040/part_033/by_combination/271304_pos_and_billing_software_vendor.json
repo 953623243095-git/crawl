@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nammabilling",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Computer support and services, Manufacturer",
+    "pincode": "271304",
+    "phone_number": "+91 90199 12392",
+    "website": "https://www.nammabilling.com/",
+    "rating": 4.9,
+    "reviews_count": 14,
+    "address": "Nammabilling bangalore office , 4th cross, 13th Main Rd, HSR Layout 5th Sector, Bengaluru, Karnataka 560102",
+    "area": "Jakkasandra, 1st Block Koramangala, HSR Layout 5th Sector",
+    "latitude": 12.918909,
+    "longitude": 77.6378344,
+    "place_id": "ChIJA28MJQsVrjsRSov70wVkxck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA28MJQsVrjsRSov70wVkxck",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:13:26"
+  },
+  {
+    "business_name": "Infowave Technologies",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Website designer",
+    "all_categories": "Website designer, Internet marketing service, Software company, Software Training Institute, Web hosting company",
+    "pincode": "271304",
+    "phone_number": "+91 70173 04793",
+    "website": "https://infowaveit.com/",
+    "rating": 4.8,
+    "reviews_count": 49,
+    "address": "near mannat lawn, Khushboo Enclave, Bareilly, Uttar Pradesh 243005",
+    "area": "Khushboo Enclave",
+    "latitude": 28.3560689,
+    "longitude": 79.4519589,
+    "place_id": "ChIJC0GmXo8BoDkR-mt1ddYygOw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC0GmXo8BoDkR-mt1ddYygOw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:13:26"
+  }
+]

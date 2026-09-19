@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAZA CAB'S",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "271824",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Fatima complex, Bahraich - Lucknow Rd, near Shagun Palace, Saryu Nagar, Bahraich, Uttar Pradesh 271802",
+    "area": "Saryu Nagar",
+    "latitude": 27.5544853,
+    "longitude": 81.5820402,
+    "place_id": "ChIJQ0jmla6pmTkRB2LURWbLMDo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ0jmla6pmTkRB2LURWbLMDo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:04:00"
+  },
+  {
+    "business_name": "Som Driver Services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Chauffeur service",
+    "all_categories": "Chauffeur service, Airport Shuttle Service Provider, Limousine service, Taxi service, Transportation service, Valet parking service",
+    "pincode": "271824",
+    "phone_number": "+91 73881 00005",
+    "website": "https://sites.google.com/view/somdriverservices/home",
+    "rating": 4.9,
+    "reviews_count": 868,
+    "address": "3/886, Vastu Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vastu Khand, Gomti Nagar",
+    "latitude": 26.865867899999998,
+    "longitude": 81.0264406,
+    "place_id": "ChIJXxTJBinjmzkRGx3KztilJnk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXxTJBinjmzkRGx3KztilJnk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:04:01"
+  }
+]

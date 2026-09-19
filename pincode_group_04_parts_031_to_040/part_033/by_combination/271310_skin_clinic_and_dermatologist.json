@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajan Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic",
+    "pincode": "271310",
+    "phone_number": "+91 98398 41134",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tarahganj Road, Veer Pur, Gonda, Uttar Pradesh 271003",
+    "area": "Veer Pur",
+    "latitude": 27.1357163,
+    "longitude": 81.96077869999999,
+    "place_id": "ChIJhYV_zMjvmTkRla_C4Xlempc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhYV_zMjvmTkRla_C4Xlempc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:22:46"
+  },
+  {
+    "business_name": "Dr. M. B. Khan",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic, Dermatologist, Pediatric dermatologist",
+    "pincode": "271310",
+    "phone_number": "+91 87075 46360",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 66,
+    "address": "Sneah Utsav Palace, Near, Indira Gandhi Stadium Rd, Brahmnipura, Bahraich, Uttar Pradesh 271801",
+    "area": "Brahmnipura",
+    "latitude": 27.567855599999998,
+    "longitude": 81.6000996,
+    "place_id": "ChIJr-AjXLypmTkRAeOtRqRdsNg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr-AjXLypmTkRAeOtRqRdsNg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:22:46"
+  }
+]

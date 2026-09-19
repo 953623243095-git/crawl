@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Bala Ji Mobile Shop",
+    "search_category": "Shops",
+    "primary_category": "Smart shop",
+    "all_categories": "Smart shop",
+    "pincode": "271311",
+    "phone_number": "+91 95803 23260",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Gonda-lucknow Highvay, Bhambhuwa Bazar, Dhema, Uttar Pradesh 271311",
+    "area": "Bhambhuwa Bazar",
+    "latitude": 27.1077212,
+    "longitude": 81.6153762,
+    "place_id": "ChIJQwI1e9WFmTkRPXeXc36IVAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQwI1e9WFmTkRPXeXc36IVAk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:25:46"
+  },
+  {
+    "business_name": "PRAKASH MILL STORE",
+    "search_category": "Shops",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "271311",
+    "phone_number": "+91 97219 14650",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Tiraha, near Hospital, Colonelganj, Uttar Pradesh 271311",
+    "area": "271311",
+    "latitude": 27.1332222,
+    "longitude": 81.6896005,
+    "place_id": "ChIJ2f_Gi22bmTkRevkF_fvmsh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2f_Gi22bmTkRevkF_fvmsh0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:25:46"
+  }
+]

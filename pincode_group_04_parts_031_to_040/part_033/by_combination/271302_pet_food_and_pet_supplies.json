@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suresh Beej Bhandar",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "271302",
+    "phone_number": "+91 94159 34500",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Mankapur, Uttar Pradesh 271302",
+    "area": "271302",
+    "latitude": 27.035974799999998,
+    "longitude": 82.2714917,
+    "place_id": "ChIJX7f6sq1VlzkRJhTrSvPSBnU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX7f6sq1VlzkRJhTrSvPSBnU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:08:46"
+  },
+  {
+    "business_name": "पशु सेवा केंद्र मसकनवां",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Veterinary pharmacy",
+    "all_categories": "Veterinary pharmacy",
+    "pincode": "271302",
+    "phone_number": "+91 94543 06908",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 22,
+    "address": "Babhanan, rod, Kewari, Maskanwa, Uttar Pradesh 271305",
+    "area": "Kewari",
+    "latitude": 26.996578,
+    "longitude": 82.3684505,
+    "place_id": "ChIJE2932dNTlzkRM4Y1Dy4Xo0w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE2932dNTlzkRM4Y1Dy4Xo0w",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:08:48"
+  }
+]

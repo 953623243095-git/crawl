@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India hotel",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Soup kitchen",
+    "all_categories": "Soup kitchen",
+    "pincode": "271311",
+    "phone_number": "+91 88814 07270",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "नानपारा, Fulwariya Mafi, Uttar Pradesh 271882",
+    "area": "271311",
+    "latitude": 27.6950607,
+    "longitude": 81.54801479999999,
+    "place_id": "ChIJMXK1gCtVmDkRXMDrs24etgs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMXK1gCtVmDkRXMDrs24etgs",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:25:10"
+  },
+  {
+    "business_name": "K.S. STAR HOTEL",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "271311",
+    "phone_number": "+91 74176 38611",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "B.S.A, Factory, 12/150, Nunhai Link Rd, Ram Nagar, Sita Nagar, Katra Wazir Khan, Agra, Uttar Pradesh 282006",
+    "area": "Ram Nagar, Sita Nagar, Katra Wazir Khan",
+    "latitude": 27.1991211,
+    "longitude": 78.0440102,
+    "place_id": "ChIJLQ-NyOpwdDkRpUxa9EHLGKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLQ-NyOpwdDkRpUxa9EHLGKE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:25:10"
+  }
+]

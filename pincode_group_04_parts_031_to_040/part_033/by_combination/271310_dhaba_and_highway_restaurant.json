@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yadav Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "271310",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Tikait Nagar - Mankapur Rd, Bhelsar, Uttar Pradesh 224116",
+    "area": "271310",
+    "latitude": 26.7789529,
+    "longitude": 81.7986588,
+    "place_id": "ChIJzSKpd28jmjkR9wpn6Yk8wmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzSKpd28jmjkR9wpn6Yk8wmY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:22:28"
+  },
+  {
+    "business_name": "Shri Krishna Dhaba and restaurants",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "271310",
+    "phone_number": "+91 93554 17355",
+    "website": "http://shrikrishnadhaba.com/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "NH 28, Faizabad - Lucknow Hwy, Bhelsar, Uttar Pradesh 224116",
+    "area": "271310",
+    "latitude": 26.7787589,
+    "longitude": 81.7941562,
+    "place_id": "ChIJ6e2Op00jmjkRdiA41FhQtow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6e2Op00jmjkRdiA41FhQtow",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:22:28"
+  }
+]

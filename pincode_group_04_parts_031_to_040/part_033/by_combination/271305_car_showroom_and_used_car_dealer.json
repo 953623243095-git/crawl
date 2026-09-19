@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAS HERO",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Motor vehicle dealer",
+    "all_categories": "Motor vehicle dealer",
+    "pincode": "271305",
+    "phone_number": "+91 99197 86002",
+    "website": "https://m.facebook.com/sas.hero.babhnan",
+    "rating": 4.8,
+    "reviews_count": 1020,
+    "address": "Ward No 6, Laxmibai Nagar, Babhnan, Uttar Pradesh 271313",
+    "area": "Laxmibai Nagar",
+    "latitude": 26.9392575,
+    "longitude": 82.5061442,
+    "place_id": "ChIJ8wiJJvC0kDkRxn1wLS3bM0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8wiJJvC0kDkRxn1wLS3bM0E",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:14:27"
+  },
+  {
+    "business_name": "J K Auto Sales",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer",
+    "pincode": "271305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "X9X7+CXG, Babhnan - Mankapur Rd, Maskanwa, Uttar Pradesh 271305",
+    "area": "271305",
+    "latitude": 26.998565499999998,
+    "longitude": 82.364949,
+    "place_id": "ChIJq0Adk7pTlzkRziQw68o8zDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq0Adk7pTlzkRziQw68o8zDU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:14:27"
+  }
+]

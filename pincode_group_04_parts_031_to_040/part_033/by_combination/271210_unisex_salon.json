@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Salonairee",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Nail salon, Skin care clinic, Hairdresser",
+    "pincode": "271210",
+    "phone_number": "+91 91675 55199",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 255,
+    "address": "Shop 23, 24 & 25(Ground Floor), Vinayak Plaza (Tower-A), Maldahiya Crossing, Fatman Rd, Maldahiya, Varanasi, Uttar Pradesh 221002",
+    "area": "Maldahiya, Chetganj",
+    "latitude": 25.324601899999998,
+    "longitude": 82.99241789999999,
+    "place_id": "ChIJh_wlfq8tjjkRGKnHPI3m2io",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh_wlfq8tjjkRGKnHPI3m2io",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:04:31"
+  },
+  {
+    "business_name": "Headqueen With Mister Unisex Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon, Barber shop, Beautician, Facial spa, Nail salon, Hairdresser",
+    "pincode": "271210",
+    "phone_number": "+91 88405 01199",
+    "website": "https://headqueenwithmister.com/",
+    "rating": 4.8,
+    "reviews_count": 1306,
+    "address": "Shyama Nivas, Mahmoorganj Rd, Mahmoorganj, Varanasi, Uttar Pradesh 221010",
+    "area": "Mahmoorganj",
+    "latitude": 25.3059858,
+    "longitude": 82.98234149999999,
+    "place_id": "ChIJ43xzeTAzjjkR9jbytMlcLTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ43xzeTAzjjkR9jbytMlcLTc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:04:31"
+  }
+]

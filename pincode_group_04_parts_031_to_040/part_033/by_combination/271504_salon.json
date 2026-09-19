@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "दिल्ली ब्यूटी पार्लर",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "271504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ram pal Singh, purwa, Bahuvan Madar Majha, Uttar Pradesh 271504",
+    "area": "271504",
+    "latitude": 26.992928,
+    "longitude": 81.6769304,
+    "place_id": "ChIJZcejMlOHmTkRvQQfXif4uss",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZcejMlOHmTkRvQQfXif4uss",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:40:18"
+  },
+  {
+    "business_name": "Anshu",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "271504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3PV2+J48, Colonel Ganj Rd, Paraspur, Uttar Pradesh 271311",
+    "area": "271504",
+    "latitude": 27.0349753,
+    "longitude": 81.778347,
+    "place_id": "ChIJTyIhcACPmTkRiEJMsO611I8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTyIhcACPmTkRiEJMsO611I8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:40:18"
+  }
+]

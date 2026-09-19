@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khan's designer lounge collection",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Shopping mall",
+    "pincode": "271205",
+    "phone_number": "+91 80907 15731",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Ghulhariya ghat, road Tulsipur Road, Gulhariya ghat, Turkauliya, tulsipur, Uttar Pradesh 271208",
+    "area": "Gulhariya ghat",
+    "latitude": 27.459342799999998,
+    "longitude": 82.3991719,
+    "place_id": "ChIJrfANCgBvlzkR70VrN-U6VwU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrfANCgBvlzkR70VrN-U6VwU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:55:51"
+  },
+  {
+    "business_name": "Zeeshan Bombay collection",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "271205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "8936+MQ, Balaha, Uttar Pradesh 271604",
+    "area": "271205",
+    "latitude": 27.304201199999998,
+    "longitude": 82.3620423,
+    "place_id": "ChIJFThoMThdlzkREYpBQJ5EbAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFThoMThdlzkREYpBQJ5EbAg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:55:53"
+  }
+]

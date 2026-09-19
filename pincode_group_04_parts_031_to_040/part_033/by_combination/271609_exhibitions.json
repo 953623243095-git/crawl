@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Exhibition Globe",
+    "search_category": "Exhibitions",
+    "primary_category": "Exhibition and trade center",
+    "all_categories": "Exhibition and trade center, Event management company, Event planner, Event technology service, Event venue, Exhibit, Exhibition planner",
+    "pincode": "271609",
+    "phone_number": "+91 89070 90704",
+    "website": "https://exhibitionglobe.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1401 Plot No 60, Mayuresh Chambers, near Railway station, Sector 11, CBD Belapur, Navi Mumbai, Maharashtra 400614",
+    "area": "Sector 11, CBD Belapur",
+    "latitude": 19.016959399999998,
+    "longitude": 73.0374377,
+    "place_id": "ChIJMea72yrD5zsRaYy5K28MTek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMea72yrD5zsRaYy5K28MTek",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:51:01"
+  },
+  {
+    "business_name": "Museum of Art & Photography (MAP)",
+    "search_category": "Exhibitions",
+    "primary_category": "Art museum",
+    "all_categories": "Art museum, Museum",
+    "pincode": "271609",
+    "phone_number": "+91 80 6933 4100",
+    "website": "http://www.map-india.org/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "XHFW+RP8, 22, Kasturba Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+    "area": "Shanthala Nagar, Ashok Nagar",
+    "latitude": 12.974602599999999,
+    "longitude": 77.5967537,
+    "place_id": "ChIJK3WK06kXrjsRtJJUPxlNE4A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK3WK06kXrjsRtJJUPxlNE4A",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:51:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hayat beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "271209",
+    "phone_number": "+91 92364 88482",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mahadev mishrabansal petrol pump, Balrampur - Utraula Rd, Balrampur, Uttar Pradesh 271201",
+    "area": "271209",
+    "latitude": 27.4039562,
+    "longitude": 82.204678,
+    "place_id": "ChIJV_JaAMLfmTkR9csG-rVEp9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV_JaAMLfmTkR9csG-rVEp9M",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:02:51"
+  },
+  {
+    "business_name": "Ali Cosmetics",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "271209",
+    "phone_number": "+91 62395 37236",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "00, Gonda Railway Station Marg, Veer Pur, Gonda, Uttar Pradesh 271002",
+    "area": "Veer Pur",
+    "latitude": 27.1492382,
+    "longitude": 81.96866399999999,
+    "place_id": "ChIJ1SQyWRPvmTkRAbNiKRRFdqo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1SQyWRPvmTkRAbNiKRRFdqo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:02:51"
+  }
+]

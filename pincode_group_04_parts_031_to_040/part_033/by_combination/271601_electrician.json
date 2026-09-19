@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "UDAY ELECTRICAL SHOP",
+    "search_category": "Electrician",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop",
+    "pincode": "271601",
+    "phone_number": "+91 75683 27244",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Suraj Complex, Staion Road, Gonda, Uttar Pradesh 271003",
+    "area": "271601",
+    "latitude": 27.163054499999998,
+    "longitude": 81.9775464,
+    "place_id": "ChIJSwo_6nfvmTkRqTvvQ0IZ8FA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSwo_6nfvmTkRqTvvQ0IZ8FA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:41:54"
+  },
+  {
+    "business_name": "Baba Electronic and Electricals",
+    "search_category": "Electrician",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "271601",
+    "phone_number": "+91 98398 60717",
+    "website": "http://www.babaelectronic.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Baggi Rd, Deoria Alawal, Devria Alawal, Uttar Pradesh 271601",
+    "area": "271601",
+    "latitude": 27.1914266,
+    "longitude": 82.0857463,
+    "place_id": "ChIJ77Ure5_lmTkR4NVmgIEsCe8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ77Ure5_lmTkR4NVmgIEsCe8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:41:56"
+  }
+]

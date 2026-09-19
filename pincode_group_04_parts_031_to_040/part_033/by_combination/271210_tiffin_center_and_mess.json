@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HealthyFeast tiffin service",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider, Meal delivery, Tiffin center",
+    "pincode": "271210",
+    "phone_number": "+91 72087 26943",
+    "website": "https://healthyfeast.in/",
+    "rating": 4.6,
+    "reviews_count": 44,
+    "address": "Shop No.1 ,Satya Nagar, Jagannath Mandir Road, Kurla, Saki Naka, Mumbai, Maharashtra 400072",
+    "area": "Safed Pul, Saki Naka",
+    "latitude": 19.099581,
+    "longitude": 72.8866712,
+    "place_id": "ChIJG3mOcorJ5zsRZS3_OD47lWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG3mOcorJ5zsRZS3_OD47lWQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:03:48"
+  },
+  {
+    "business_name": "Arya Tiffin services",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "271210",
+    "phone_number": "+91 93234 93599",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 29,
+    "address": "B.I.T. Buildings, 17/59, Bellasis Rd, Navjeevan Society, Dalal Estate, Mumbai Central, Mumbai, Maharashtra 400008",
+    "area": "Navjeevan Society, Dalal Estate, Mumbai Central",
+    "latitude": 18.9662114,
+    "longitude": 72.82101709999999,
+    "place_id": "ChIJXwu0tanP5zsR_1JnM8SIU3c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXwu0tanP5zsR_1JnM8SIU3c",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:03:48"
+  }
+]

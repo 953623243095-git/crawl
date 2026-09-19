@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tata Gym Fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "271204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "CQ2Q+4J2, Payagpur, Uttar Pradesh 271871",
+    "area": "271204",
+    "latitude": 27.400270799999998,
+    "longitude": 81.78902599999999,
+    "place_id": "ChIJt2YcfgC_mTkREy0lzuUkX9E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt2YcfgC_mTkREy0lzuUkX9E",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:54:22"
+  },
+  {
+    "business_name": "KRISHNA WELNESS LIFESTYLE CENTER",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "271204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7WQ6+PXF, Devi Durga Mandir Marg, Mangal Nagar, Uttar Pradesh 271122",
+    "area": "271204",
+    "latitude": 27.2893245,
+    "longitude": 81.912431,
+    "place_id": "ChIJvYAeq1_qmTkRKhsXuTVeQrU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvYAeq1_qmTkRKhsXuTVeQrU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:54:22"
+  }
+]

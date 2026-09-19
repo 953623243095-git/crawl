@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agile CRM",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "271205",
+    "phone_number": "+91 94922 27799",
+    "website": "http://www.agilecrm.com/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "First Floor, Plot No. 8 & 9, Jubilee Enclave,, Opp. HITEX Entrance,, Hyderabad, Telangana 500081",
+    "area": "Jubilee Enclave, HITEC City",
+    "latitude": 17.456257,
+    "longitude": 78.37586399999999,
+    "place_id": "ChIJTRpYftqTyzsRtVKaqXQDDL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTRpYftqTyzsRtVKaqXQDDL4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:57:03"
+  },
+  {
+    "business_name": "SABO SYSTEMS PVT LTD",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Outlet store",
+    "pincode": "271205",
+    "phone_number": "+91 80 4898 0671",
+    "website": "http://www.saboindia.com/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "227M+3WM, Jugaur, Uttar Pradesh 225301",
+    "area": "271205",
+    "latitude": 27.0127229,
+    "longitude": 81.0347996,
+    "place_id": "ChIJnbeDfkpbmTkRfdpI53yQZpE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnbeDfkpbmTkRfdpI53yQZpE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:57:04"
+  }
+]

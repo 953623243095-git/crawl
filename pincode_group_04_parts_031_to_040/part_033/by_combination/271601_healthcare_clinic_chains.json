@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Health Care Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "271601",
+    "phone_number": "+91 90445 66970",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Katahariya Mohala, Gonda, Uttar Pradesh 271003",
+    "area": "Katahariya Mohala",
+    "latitude": 27.121972999999997,
+    "longitude": 81.96824579999999,
+    "place_id": "ChIJqaA5R2PxmTkRCBFQgD2JQtQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqaA5R2PxmTkRCBFQgD2JQtQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:41:39"
+  },
+  {
+    "business_name": "Divyansh Medical Agency",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "271601",
+    "phone_number": "+91 87073 48639",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "526, Pant Nagar, Gonda, Uttar Pradesh 271001",
+    "area": "Pant Nagar",
+    "latitude": 27.1269569,
+    "longitude": 81.9343269,
+    "place_id": "ChIJ4RgE4iHzmTkR3LsTJ5N_y-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4RgE4iHzmTkR3LsTJ5N_y-c",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:41:39"
+  }
+]

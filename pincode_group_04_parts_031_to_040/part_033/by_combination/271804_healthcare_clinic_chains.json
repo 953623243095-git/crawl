@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shambhu hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "271804",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Awasthi Dharma kata, Fakharpur, Madhaupur, Uttar Pradesh 271902",
+    "area": "271804",
+    "latitude": 27.4327082,
+    "longitude": 81.5303034,
+    "place_id": "ChIJEwU1_LOnmTkRAGzPkjHedxA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEwU1_LOnmTkRAGzPkjHedxA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:56:56"
+  },
+  {
+    "business_name": "Shri Paras Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "271804",
+    "phone_number": "+91 96969 18019",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Kati Chauraha, Hujoorpur Road, Uttar Pradesh 271801",
+    "area": "Madhavpuri",
+    "latitude": 27.5601773,
+    "longitude": 81.60577669999999,
+    "place_id": "ChIJ8RfeCLWpmTkRaVENUVzL6Ho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8RfeCLWpmTkRaVENUVzL6Ho",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:56:56"
+  }
+]

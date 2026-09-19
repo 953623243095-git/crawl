@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aminexon Industrial Solutions",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Industrial equipment supplier",
+    "all_categories": "Industrial equipment supplier, Service establishment",
+    "pincode": "271402",
+    "phone_number": "N/A",
+    "website": "https://www.aminexon.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Aminexon Industrial Solutions, 271402, India",
+    "area": "271402",
+    "latitude": 24.4312556,
+    "longitude": 77.83182339999999,
+    "place_id": "ChIJrb0GnW2JpE8RkXDKZyrWuwE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrb0GnW2JpE8RkXDKZyrWuwE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:34:07"
+  },
+  {
+    "business_name": "Ma Barahi Electronic",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Electronic parts supplier",
+    "all_categories": "Electronic parts supplier",
+    "pincode": "271402",
+    "phone_number": "+91 95542 26907",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sakraur, Near, Hanuman Mandir Bandha S, Paraspur, Uttar Pradesh 271504",
+    "area": "271402",
+    "latitude": 26.9706679,
+    "longitude": 81.75956029999999,
+    "place_id": "ChIJ95MAuXuJmTkRdPITAqyua_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ95MAuXuJmTkRdPITAqyua_s",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:34:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Buddha Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "271502",
+    "phone_number": "+91 72338 52193",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "GH65+MXM, Bahraich Rd, Hemariya, Tendawa Basantpur, Uttar Pradesh 271825",
+    "area": "271502",
+    "latitude": 27.5117051,
+    "longitude": 81.559908,
+    "place_id": "ChIJu1JeH_aomTkRfuItGhq5LP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu1JeH_aomTkRfuItGhq5LP0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:37:03"
+  },
+  {
+    "business_name": "Riyaz Khan",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "271502",
+    "phone_number": "+91 89282 68179",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Unnamed Road, Sakraura, Uttar Pradesh 271502",
+    "area": "271502",
+    "latitude": 27.1206958,
+    "longitude": 81.7121968,
+    "place_id": "ChIJgeVSdoeRmTkR9pMFSxdZMFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgeVSdoeRmTkR9pMFSxdZMFs",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:37:05"
+  }
+]

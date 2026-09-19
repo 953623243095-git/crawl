@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JAISWAL ENTERPRISES",
+    "search_category": "Departmental Store",
+    "primary_category": "Gypsum Product Supplier",
+    "all_categories": "Gypsum Product Supplier, Interior Decorator, Iron & Steel Store, Kitchen furniture store, Office furniture store, Wallpaper store",
+    "pincode": "271604",
+    "phone_number": "+91 99185 65793",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "8C23+465, Jogiveer, Uttar Pradesh 271604",
+    "area": "271604",
+    "latitude": 27.3002625,
+    "longitude": 82.40310939999999,
+    "place_id": "ChIJj8c4GihDlzkRzCcP-fNauzA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj8c4GihDlzkRzCcP-fNauzA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:46:14"
+  },
+  {
+    "business_name": "RAJESH KIRANA STORE",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "271604",
+    "phone_number": "+91 96282 48089",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "01, Manikapur Road Manikapur, Road, near RC Office, Utraula, Gonda, Uttar Pradesh 271604",
+    "area": "271604",
+    "latitude": 27.3016954,
+    "longitude": 82.40451929999999,
+    "place_id": "ChIJZybeXiRDlzkRU1K7uFvljT8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZybeXiRDlzkRU1K7uFvljT8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:46:14"
+  }
+]

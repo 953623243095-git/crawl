@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DTDC COURIER SERVICE",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "271607",
+    "phone_number": "+91 63079 67350",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Indian Guest House, below HDFC BANK, Roadways, Mubarakpur, Uttar Pradesh 276404",
+    "area": "Roadways",
+    "latitude": 26.0788579,
+    "longitude": 83.29095679999999,
+    "place_id": "ChIJK5_-3DuZkTkR6gakOohck38",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK5_-3DuZkTkR6gakOohck38",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:49:14"
+  },
+  {
+    "business_name": "Vijay's House",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "271607",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "96PC+JM, Baherekuiyan, Uttar Pradesh 271201",
+    "area": "271607",
+    "latitude": 27.386203199999997,
+    "longitude": 82.22085589999999,
+    "place_id": "ChIJn9i4CwBhlzkRhocN98_NBEo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn9i4CwBhlzkRhocN98_NBEo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:49:15"
+  }
+]

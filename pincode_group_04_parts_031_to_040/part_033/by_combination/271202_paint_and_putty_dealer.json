@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucky paint shop",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "271202",
+    "phone_number": "+91 70141 14373",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "897G+FG3, near SBI Bank, Kumher, Rajasthan 321201",
+    "area": "271202",
+    "latitude": 27.313728299999998,
+    "longitude": 77.3762583,
+    "place_id": "ChIJF6vjNQCpczkReQ7MKzUubkI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF6vjNQCpczkReQ7MKzUubkI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:51:13"
+  },
+  {
+    "business_name": "Goyal Rang Paint Store Nadbai",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "271202",
+    "phone_number": "+91 94147 11511",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "SH 45, Nadbai, Rajasthan 321602",
+    "area": "271202",
+    "latitude": 27.216776099999997,
+    "longitude": 77.1992757,
+    "place_id": "ChIJq6qqqsmsczkROkrWO4Hnh_U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqsmsczkROkrWO4Hnh_U",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:51:13"
+  }
+]

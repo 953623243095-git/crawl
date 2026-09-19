@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rishka Event",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event planner, Wedding service",
+    "pincode": "271308",
+    "phone_number": "+91 85954 22179",
+    "website": "https://www.rishkaevents.com/",
+    "rating": 4.9,
+    "reviews_count": 222,
+    "address": "Lower ground floor office no-44, Apra Krishna D mall, Niti Khand 3, Manoj Vihar, Indirapuram, Ghaziabad, Uttar Pradesh 201014",
+    "area": "Niti Khand 3, Manoj Vihar, Indirapuram",
+    "latitude": 28.6457935,
+    "longitude": 77.3749496,
+    "place_id": "ChIJa5B28mflDDkR82ZSfmZP9kQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa5B28mflDDkR82ZSfmZP9kQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:19:54"
+  },
+  {
+    "business_name": "Sajja Weddings | Wedding Planner Pune",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event management company, Event planner, Party planner, Wedding service",
+    "pincode": "271308",
+    "phone_number": "+91 90281 81046",
+    "website": "https://www.weddingplannerpune.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Pimple Saudagar, Pune, Pimpri-Chinchwad, Maharashtra 411027",
+    "area": "Pimple Saudagar",
+    "latitude": 18.5926753,
+    "longitude": 73.8058875,
+    "place_id": "ChIJm1MKuzy5wjsR2r8C7nw1eBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm1MKuzy5wjsR2r8C7nw1eBk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:19:56"
+  }
+]

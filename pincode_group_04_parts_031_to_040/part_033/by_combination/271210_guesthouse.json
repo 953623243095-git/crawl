@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JC Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house, Bed & breakfast, Extended stay hotel, Holiday home, Inn, Lodge, Restaurant, Serviced accommodation, Wedding venue",
+    "pincode": "271210",
+    "phone_number": "+91 88743 99998",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2576,
+    "address": "498/KA/4, Narayan Prasad Marg, Bans Mandi, Nirala Nagar, Lucknow, Uttar Pradesh 226020",
+    "area": "Bans Mandi, Nirala Nagar",
+    "latitude": 26.875428799999998,
+    "longitude": 80.9358833,
+    "place_id": "ChIJM9f_PIT9mzkRU5KCTNVnBhA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM9f_PIT9mzkRU5KCTNVnBhA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:04:39"
+  },
+  {
+    "business_name": "J.M. Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "271210",
+    "phone_number": "+91 5271 246 515",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "CGMR+H2M, pandey Market, Akbarpur, Uttar Pradesh 224122",
+    "area": "271210",
+    "latitude": 26.43397,
+    "longitude": 82.5400385,
+    "place_id": "ChIJN9ySjcCSkDkRgWKg2afEh30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN9ySjcCSkDkRgWKg2afEh30",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:04:39"
+  }
+]

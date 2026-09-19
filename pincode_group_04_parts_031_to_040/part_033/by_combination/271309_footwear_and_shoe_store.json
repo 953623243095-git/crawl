@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Famous Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "271309",
+    "phone_number": "+91 81749 49279",
+    "website": "https://www.famousfootwear.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "0, Sonauli, Uttar Pradesh 273308",
+    "area": "271309",
+    "latitude": 27.473194499999998,
+    "longitude": 83.4682457,
+    "place_id": "ChIJEwgtCiWZljkRuBeJkto2q90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEwgtCiWZljkRuBeJkto2q90",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:20:56"
+  },
+  {
+    "business_name": "Star footwear center",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "271309",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "HGCX+P2V, Tarapur Khurd, Uttar Pradesh 271802",
+    "area": "271309",
+    "latitude": 27.5718583,
+    "longitude": 81.5475593,
+    "place_id": "ChIJyUUY_CGpmTkROan3DH4bDN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyUUY_CGpmTkROan3DH4bDN0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:20:56"
+  }
+]

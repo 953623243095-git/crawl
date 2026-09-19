@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ram harishchauhan",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "271601",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "42RQ+GHF, Malari, Parsia Agyaram, Uttar Pradesh 271601",
+    "area": "271601",
+    "latitude": 27.141274799999998,
+    "longitude": 82.0389242,
+    "place_id": "ChIJc-9CWgDvmTkRc6Svm8ysHA8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc-9CWgDvmTkRc6Svm8ysHA8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:41:17"
+  },
+  {
+    "business_name": "Shakti Bar And Restaurant",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar & grill",
+    "all_categories": "Bar & grill, Restaurant",
+    "pincode": "271601",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 87,
+    "address": "Chero - Salempur Rd, near HDFC Bank, Salempur, Uttar Pradesh 274509",
+    "area": "271601",
+    "latitude": 26.295138599999998,
+    "longitude": 83.917568,
+    "place_id": "ChIJu0GHcxzLkzkRcpEcmoYfM_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu0GHcxzLkzkRcpEcmoYfM_c",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:41:19"
+  }
+]

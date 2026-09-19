@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guru Online Solution",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "271401",
+    "phone_number": "+91 94554 49962",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Guru Online Solutions, Adampur, Gangrouli, Uttar Pradesh 271401",
+    "area": "271401",
+    "latitude": 26.9304886,
+    "longitude": 81.8780089,
+    "place_id": "ChIJgxV872IfmjkRt1uJk04Q6Sg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgxV872IfmjkRt1uJk04Q6Sg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:32:06"
+  },
+  {
+    "business_name": "Pradeep Lokvani Kendre",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "271401",
+    "phone_number": "+91 73989 90590",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kacheri Road Post Office Post Office, Kacheri, Gonda, Uttar Pradesh 271001",
+    "area": "Kacheri, Housing Colony",
+    "latitude": 27.128394,
+    "longitude": 81.9427769,
+    "place_id": "ChIJvTg51z3zmTkRY0MJKByTvfI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvTg51z3zmTkRY0MJKByTvfI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:32:06"
+  }
+]

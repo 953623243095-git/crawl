@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Shyam Palace",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "271311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "4MJV+CPV, Colonelganj, Uttar Pradesh 271502",
+    "area": "271311",
+    "latitude": 27.131103999999997,
+    "longitude": 81.694305,
+    "place_id": "ChIJfeCTEw6RmTkRGaQFdKTKaD4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfeCTEw6RmTkRGaQFdKTKaD4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:25:05"
+  },
+  {
+    "business_name": "Guest house Kashmiri Guests",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "271311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4MMW+4QQ, Colonelganj, Uttar Pradesh 271502",
+    "area": "271311",
+    "latitude": 27.1329508,
+    "longitude": 81.6968014,
+    "place_id": "ChIJDZfsAQCRmTkRvYbrB-GP4zw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDZfsAQCRmTkRvYbrB-GP4zw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:25:05"
+  }
+]

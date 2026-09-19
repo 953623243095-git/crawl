@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjay Kushal",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "271603",
+    "phone_number": "+91 91692 56246",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sanjay Kushal Utarola, Gonda - Utraula Rd, Chamrupur, Rasoolpur Soor, Uttar Pradesh 271603",
+    "area": "271603",
+    "latitude": 27.296430599999997,
+    "longitude": 82.3370633,
+    "place_id": "ChIJ0abK3K5dlzkRcagjaZYldkY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0abK3K5dlzkRcagjaZYldkY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:45:09"
+  },
+  {
+    "business_name": "RAZA PAY POINT",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "271603",
+    "phone_number": "+91 98078 70876",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gonda - Utraula Rd, Mahdeiya Bazar, Select City, Uttar Pradesh 271604",
+    "area": "271603",
+    "latitude": 27.2969232,
+    "longitude": 82.3392104,
+    "place_id": "ChIJg3FacqxdlzkRubjUJ7JiBJs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg3FacqxdlzkRubjUJ7JiBJs",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:45:10"
+  }
+]

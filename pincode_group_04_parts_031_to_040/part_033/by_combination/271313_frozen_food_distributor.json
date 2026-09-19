@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khan Enterprises & cold drinks",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "271313",
+    "phone_number": "+91 98173 28158",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Village Bamni, Nogawan, Jurhera, Rajasthan 321023",
+    "area": "271313",
+    "latitude": 27.7816771,
+    "longitude": 77.248154,
+    "place_id": "ChIJmV-_IoMhczkR3KbrKw_aHE4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmV-_IoMhczkR3KbrKw_aHE4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:27:35"
+  },
+  {
+    "business_name": "AL-FRO FROZEN FOOD",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "271313",
+    "phone_number": "+91 74650 90394",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Noor masjid market, near Kela Nagar, churaha, Dodhpur, Aligarh, Uttar Pradesh 202001",
+    "area": "churaha, Dodhpur",
+    "latitude": 27.9051738,
+    "longitude": 78.08784179999999,
+    "place_id": "ChIJXWAQEkGldDkRlC2xHnoiEMw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXWAQEkGldDkRlC2xHnoiEMw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:27:36"
+  }
+]

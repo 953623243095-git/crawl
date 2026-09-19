@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swastik pathology lab",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Pathologist",
+    "all_categories": "Pathologist",
+    "pincode": "271804",
+    "phone_number": "+91 83184 50475",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kediya hospital, Civil Lines Rd, rood, Brahmnipura, Bahraich, Uttar Pradesh 271801",
+    "area": "rood, Brahmnipura",
+    "latitude": 27.5652431,
+    "longitude": 81.5965344,
+    "place_id": "ChIJRRGKEjupmTkRbhykqcExdwc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRRGKEjupmTkRbhykqcExdwc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:56:53"
+  },
+  {
+    "business_name": "Bala Ji Pathology Lab",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "271804",
+    "phone_number": "+91 87078 54269",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FRONT GATE, CHC HOSPITAL, opposite JARWAL, Mustafabad, Mohammadpur Khurd, Uttar Pradesh 271904",
+    "area": "271804",
+    "latitude": 27.1377511,
+    "longitude": 81.5151659,
+    "place_id": "ChIJ7R6i-7Z3mTkRDaz9-J0bWk4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7R6i-7Z3mTkRDaz9-J0bWk4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:56:55"
+  }
+]

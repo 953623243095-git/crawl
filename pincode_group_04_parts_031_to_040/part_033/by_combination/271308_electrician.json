@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nitesh electrisian",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "271308",
+    "phone_number": "+91 95655 46048",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Bhatwaliya, Deoria, Uttar Pradesh 274001",
+    "area": "Bhatwaliya",
+    "latitude": 26.4834587,
+    "longitude": 83.7849695,
+    "place_id": "ChIJFbgZPIDFkzkRb37PxuQy9P4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFbgZPIDFkzkRb37PxuQy9P4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:19:43"
+  },
+  {
+    "business_name": "Yelugu Mathsyagiri Home",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "271308",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "5473+VQ7, Yelikatta, Ellikahte, Telangana 508114",
+    "area": "271308",
+    "latitude": 17.1646633,
+    "longitude": 79.1044065,
+    "place_id": "ChIJj-ouYgAjyzsRF-j8pAqIkQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj-ouYgAjyzsRF-j8pAqIkQk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:19:43"
+  }
+]

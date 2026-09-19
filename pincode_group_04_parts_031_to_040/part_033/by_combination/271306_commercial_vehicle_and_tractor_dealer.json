@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govind automobiles",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "271306",
+    "phone_number": "+91 99972 69417",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Shree je hotel ke saman, Hathras Rd, Sadabad, Salem Pur, Uttar Pradesh 281306",
+    "area": "271306",
+    "latitude": 27.456165799999997,
+    "longitude": 78.0409968,
+    "place_id": "ChIJT6JoKyCHdDkRt9ZmDjtU744",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT6JoKyCHdDkRt9ZmDjtU744",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:16:10"
+  },
+  {
+    "business_name": "M/s Leela automobiles sadabad (Preet tractor agency)",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "271306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C23Q+Q39 Shri RK Garden, Cng petrol pump e paas, SH 39, Wedai, Uttar Pradesh 281306",
+    "area": "271306",
+    "latitude": 27.404412999999998,
+    "longitude": 78.0377147,
+    "place_id": "ChIJXYr2k3x9dDkRuoqku1ZcotM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXYr2k3x9dDkRuoqku1ZcotM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:16:11"
+  }
+]

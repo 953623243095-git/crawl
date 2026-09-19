@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHC TULSIPUR",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Community health center",
+    "all_categories": "Community health center",
+    "pincode": "271205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 10,
+    "address": "Gonda, Tulsipur, Uttar Pradesh 271208",
+    "area": "Gonda",
+    "latitude": 27.528527999999998,
+    "longitude": 82.4133956,
+    "place_id": "ChIJi_JPEZZvlzkRp_w5yw7YMaw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi_JPEZZvlzkRp_w5yw7YMaw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:56:01"
+  },
+  {
+    "business_name": "Community Health Centre (CHC)",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital",
+    "pincode": "271205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "78R8+4QR, Utraula, Patiyala Grant, Uttar Pradesh 271603",
+    "area": "271205",
+    "latitude": 27.290366799999997,
+    "longitude": 82.3168991,
+    "place_id": "ChIJ6Tv08ZVdlzkRmeIKJ-Q7m3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Tv08ZVdlzkRmeIKJ-Q7m3s",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:56:01"
+  }
+]

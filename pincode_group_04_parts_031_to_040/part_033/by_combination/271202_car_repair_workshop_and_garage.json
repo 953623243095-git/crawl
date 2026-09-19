@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prajapati Auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "271202",
+    "phone_number": "+91 73798 05976",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "Gonda, Madhai Jot, Uttar Pradesh 271602",
+    "area": "271202",
+    "latitude": 27.280946699999998,
+    "longitude": 82.1041151,
+    "place_id": "ChIJofHDvWznmTkR-fDt2dHLZ-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJofHDvWznmTkR-fDt2dHLZ-s",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:51:02"
+  },
+  {
+    "business_name": "Shree Shyam parts and car repairing centre",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "271202",
+    "phone_number": "+91 63785 22345",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Baswa, Rajasthan 303327",
+    "area": "271202",
+    "latitude": 27.156955399999998,
+    "longitude": 76.575107,
+    "place_id": "ChIJgfxaJgB7cjkR6DyxJLaaXL8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgfxaJgB7cjkR6DyxJLaaXL8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:51:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shad khan",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "271603",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "974J+4H3, Kundow, post, Sekhuiya, Uttar Pradesh 271607",
+    "area": "post",
+    "latitude": 27.3552741,
+    "longitude": 82.28141219999999,
+    "place_id": "ChIJaRsrHgBhlzkRd41DKulqEPg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaRsrHgBhlzkRd41DKulqEPg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:45:18"
+  },
+  {
+    "business_name": "Hriday Ram",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "271603",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Purey Tenduwa, Uttar Pradesh 271603",
+    "area": "271603",
+    "latitude": 27.2281844,
+    "longitude": 82.28995359999999,
+    "place_id": "ChIJsQ05u8hZlzkRW8zKdEbXFII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsQ05u8hZlzkRW8zKdEbXFII",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:45:19"
+  }
+]

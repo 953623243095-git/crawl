@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiv Cold Storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "271308",
+    "phone_number": "+91 91176 74418",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "G1-18, Rico Industrial Area, Dholpur, Masoodpur, Rajasthan 328001",
+    "area": "Rico Industrial Area",
+    "latitude": 26.7244347,
+    "longitude": 77.8850798,
+    "place_id": "ChIJ4dpALhv_czkRBLXmk90ugZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4dpALhv_czkRBLXmk90ugZA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:20:25"
+  },
+  {
+    "business_name": "Mohan Cold Storage Pvt Ltd",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "271308",
+    "phone_number": "+91 99319 44688",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Harishankarpur Baghauni, Tajpur, Bihar 848130",
+    "area": "271308",
+    "latitude": 25.8561461,
+    "longitude": 85.66512039999999,
+    "place_id": "ChIJXYhljGqc7TkR0mpyfZVZaj8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXYhljGqc7TkR0mpyfZVZaj8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:20:25"
+  }
+]

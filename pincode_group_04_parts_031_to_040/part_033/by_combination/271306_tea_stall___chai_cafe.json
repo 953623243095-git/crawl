@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Tea store",
+    "pincode": "271306",
+    "phone_number": "+91 94154 26161",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "1/330, Shaheed Chandrashekhar Azad Chowk, near Singhal Medical Store, Viram Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Viram Khand, Gomti Nagar",
+    "latitude": 26.850969799999998,
+    "longitude": 81.0076248,
+    "place_id": "ChIJSfY68PDjmzkRgd4fF835gF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSfY68PDjmzkRgd4fF835gF4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:15:43"
+  },
+  {
+    "business_name": "Chaiwaala.com",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea house",
+    "all_categories": "Tea house",
+    "pincode": "271306",
+    "phone_number": "+91 87959 99961",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Extension,near Janeswar Mishra Park 226010, Sector 1, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Sector 1, Gomti Nagar",
+    "latitude": 26.8409317,
+    "longitude": 80.9980557,
+    "place_id": "ChIJ4_oNi9fimzkR3MGnJRdaxck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4_oNi9fimzkR3MGnJRdaxck",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:15:44"
+  }
+]

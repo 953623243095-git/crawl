@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A k Mobile",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "271802",
+    "phone_number": "+91 91256 23863",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "01, Bakshi Pura, Bahraich, Uttar Pradesh 271878",
+    "area": "Bakshi Pura",
+    "latitude": 27.5818209,
+    "longitude": 81.6140801,
+    "place_id": "ChIJByePw-atmTkRxuUsefZQnUU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJByePw-atmTkRxuUsefZQnUU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:54:10"
+  },
+  {
+    "business_name": "Ayan Mobiles",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "271802",
+    "phone_number": "+91 98074 89143",
+    "website": "https://ayanmobiles.com/",
+    "rating": 4.8,
+    "reviews_count": 21,
+    "address": "7G3W+3QX, near MAHILA HOSPITAL, Kaisarganj, Dihawa Sher Bahadur Si, Uttar Pradesh 271903",
+    "area": "271802",
+    "latitude": 27.2527722,
+    "longitude": 81.5469794,
+    "place_id": "ChIJNck3IbKfmTkR1WR13lgi0Xc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNck3IbKfmTkR1WR13lgi0Xc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:54:12"
+  }
+]

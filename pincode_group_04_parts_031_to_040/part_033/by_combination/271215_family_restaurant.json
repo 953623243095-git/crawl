@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DAWAT FAMILY RESTAURANT",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "271215",
+    "phone_number": "+91 99354 58584",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 42,
+    "address": "ShopNo.90, Baidaula Chauraha, Domariyaganj, Malimanha Mustkaham, Uttar Pradesh 272191",
+    "area": "Baidaula Chauraha",
+    "latitude": 27.1893894,
+    "longitude": 82.6528103,
+    "place_id": "ChIJu92agTg7lzkRHZHiQGFKy_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu92agTg7lzkRHZHiQGFKy_Y",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:05:32"
+  },
+  {
+    "business_name": "Desi Tadka Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "271215",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 23,
+    "address": "Kamda Lalpur, Sagrajot, Uttar Pradesh 272192",
+    "area": "Kamda Lalpur",
+    "latitude": 27.321680699999998,
+    "longitude": 82.6928859,
+    "place_id": "ChIJUSBdRJs9lzkR-_9YugoFieo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUSBdRJs9lzkR-_9YugoFieo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:05:33"
+  }
+]

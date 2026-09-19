@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pathak Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "271319",
+    "phone_number": "+91 99187 68694",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 16,
+    "address": "near Tulasi Das Udyan, Naya Ghat, Ayodhya, Uttar Pradesh 224123",
+    "area": "Naya Ghat",
+    "latitude": 26.8050729,
+    "longitude": 82.2077663,
+    "place_id": "ChIJVT7paI8HmjkRCojShVoKIEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVT7paI8HmjkRCojShVoKIEw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:30:22"
+  },
+  {
+    "business_name": "GYAN BOOK DEPO",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "271319",
+    "phone_number": "+91 62905 46974",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gonda - Bahraich Rd, Veer Pur, Gonda, Uttar Pradesh 271003",
+    "area": "Veer Pur",
+    "latitude": 27.143058099999998,
+    "longitude": 81.96350729999999,
+    "place_id": "ChIJG2otH8bvmTkRE59qtMQ7iuY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG2otH8bvmTkRE59qtMQ7iuY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:30:23"
+  }
+]

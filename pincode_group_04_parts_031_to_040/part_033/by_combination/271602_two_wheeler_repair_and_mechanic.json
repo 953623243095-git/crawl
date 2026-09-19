@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Surendra Bike Service",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "271602",
+    "phone_number": "+91 83182 28567",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Utraula Rd, Gonda, Uttar Pradesh 271002",
+    "area": "271602",
+    "latitude": 27.133274699999998,
+    "longitude": 81.9852205,
+    "place_id": "ChIJ8Vpm9_LvmTkR1RYGdWtxr6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Vpm9_LvmTkR1RYGdWtxr6E",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:43:23"
+  },
+  {
+    "business_name": "Deepak Bike Services Center",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "271602",
+    "phone_number": "+91 90266 90925",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sri Nager, Uttar Pradesh 271603",
+    "area": "271602",
+    "latitude": 27.250200099999997,
+    "longitude": 82.2011804,
+    "place_id": "ChIJ27fFWwLhmTkRUedBYp25wRo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ27fFWwLhmTkRUedBYp25wRo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:43:24"
+  }
+]

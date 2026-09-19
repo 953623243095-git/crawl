@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Imran Electric Shop",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "271504",
+    "phone_number": "+91 99089 10364",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vishnupuri Colony, Gonda, Uttar Pradesh 271003",
+    "area": "Vishnupuri Colony",
+    "latitude": 27.134666,
+    "longitude": 81.95428679999999,
+    "place_id": "ChIJ-SSCYh7vmTkRciv5r6ta0dA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-SSCYh7vmTkRciv5r6ta0dA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:40:06"
+  },
+  {
+    "business_name": "Vijay Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "271504",
+    "phone_number": "+91 90763 22491",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Housing Colony, Gonda, Uttar Pradesh 271001",
+    "area": "Housing Colony",
+    "latitude": 27.1184965,
+    "longitude": 81.91671079999999,
+    "place_id": "ChIJA7qVnm3zmTkRzr2TnjBUmkQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA7qVnm3zmTkRzr2TnjBUmkQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:40:06"
+  }
+]

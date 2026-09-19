@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aditya Collection",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "271209",
+    "phone_number": "+91 95068 09598",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Bhagwatiganj Gonda Road Sation Chauraha Bhagwatiganj Balrampur Bhagwatiganj, Bishunapur, Uttar Pradesh 271201",
+    "area": "271209",
+    "latitude": 27.413411099999998,
+    "longitude": 82.1630127,
+    "place_id": "ChIJrwOZWdDemTkR9vKdroKdeDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrwOZWdDemTkR9vKdroKdeDU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:02:15"
+  },
+  {
+    "business_name": "Bombay Fashion",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "271209",
+    "phone_number": "+91 87952 08761",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "72VM P4H, GONDA Rastogi, Gali Intyathok, Para Saray, Karuwa Para, Uttar Pradesh 271202",
+    "area": "271209",
+    "latitude": 27.2942592,
+    "longitude": 82.03283569999999,
+    "place_id": "ChIJ75_1gOHpmTkRl_PCWq5gHh4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ75_1gOHpmTkRl_PCWq5gHh4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:02:15"
+  }
+]

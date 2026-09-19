@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "National Pathology Center",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa, Pathologist",
+    "pincode": "271313",
+    "phone_number": "+91 73792 41807",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bazar Power House, Harraiya Rd, Babhnan, Uttar Pradesh 271313",
+    "area": "271313",
+    "latitude": 26.925877699999997,
+    "longitude": 82.50301759999999,
+    "place_id": "ChIJzYG8VQC1kDkR1Ajg0nOUIFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzYG8VQC1kDkR1Ajg0nOUIFo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:28:20"
+  },
+  {
+    "business_name": "Maa foolmati beautiparlar and spa (massage parlar)",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "271313",
+    "phone_number": "+91 98399 75302",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mo. Kidwai nagar, Nehru Nagar, Madhoganj, Uttar Pradesh 241302",
+    "area": "Nehru Nagar",
+    "latitude": 27.116048199999998,
+    "longitude": 80.1431563,
+    "place_id": "ChIJE2fUXNyLnjkRmQf9l2ioqvE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE2fUXNyLnjkRmQf9l2ioqvE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:28:22"
+  }
+]

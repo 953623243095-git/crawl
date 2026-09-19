@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Make my shake",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Store",
+    "all_categories": "Store, Beverage Store, Cafe",
+    "pincode": "271205",
+    "phone_number": "+91 75086 66350",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Mohindra Colony, Amritsar, Punjab 143001",
+    "area": "Mohindra Colony",
+    "latitude": 31.636757999999997,
+    "longitude": 74.86023469999999,
+    "place_id": "ChIJl-97ZbBkGTkR6dZEURrTgSk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl-97ZbBkGTkR6dZEURrTgSk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:55:37"
+  },
+  {
+    "business_name": "The Thickshake Factory, Nellore",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Beverage Store, Dessert shop",
+    "pincode": "271205",
+    "phone_number": "+91 99858 50580",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Ground Floor, Skyline Towers Apartments, Muthukur Rd, Mulapet, Harinathpuram, Nellore, Andhra Pradesh 524003",
+    "area": "Mulapet, Harinathpuram",
+    "latitude": 14.439251899999999,
+    "longitude": 79.9897788,
+    "place_id": "ChIJ1XVqLCbzTDoR1hNt50yBFXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1XVqLCbzTDoR1hNt50yBFXk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:55:38"
+  }
+]

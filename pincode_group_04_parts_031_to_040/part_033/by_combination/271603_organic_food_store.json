@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gauraj Prakrutik Mart",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop",
+    "pincode": "271603",
+    "phone_number": "+91 81280 30503",
+    "website": "https://www.gaurajprakrutikmart.com/",
+    "rating": 4.9,
+    "reviews_count": 109,
+    "address": "G-2, Jaykant Complex, Anand - Vidyanagar Rd, opp. Apc, Vallabh Vidyanagar, Anand, Gujarat 388120",
+    "area": "Vallabh Vidyanagar",
+    "latitude": 22.5507274,
+    "longitude": 72.9352444,
+    "place_id": "ChIJcQkXO39OXjkRLF2NDygjRak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcQkXO39OXjkRLF2NDygjRak",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:44:33"
+  },
+  {
+    "business_name": "Anshcan Organics",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store",
+    "pincode": "271603",
+    "phone_number": "+91 99984 29513",
+    "website": "https://www.anshcanorganic.com/",
+    "rating": 5,
+    "reviews_count": 23,
+    "address": "Shop 12, 13, 14, Narayan Empire, Anand - Vidyanagar Rd, nr. Croma Store, Vivekanand Wadi, Anand, Gujarat 388120",
+    "area": "Vivekanand Wadi",
+    "latitude": 22.5540082,
+    "longitude": 72.9478319,
+    "place_id": "ChIJT21h8B5PXjkRldAN6hD1Wy8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT21h8B5PXjkRldAN6hD1Wy8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:44:33"
+  }
+]

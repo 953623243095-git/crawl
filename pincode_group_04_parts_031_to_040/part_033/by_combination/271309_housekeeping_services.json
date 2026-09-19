@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Uttam yadav ji",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "271309",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "R2CQ+46M, Sakipur, Gokula, Uttar Pradesh 271309",
+    "area": "271309",
+    "latitude": 26.820618699999997,
+    "longitude": 82.03895639999999,
+    "place_id": "ChIJvQwUXgAbmjkR83ri_BdgYYY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvQwUXgAbmjkR83ri_BdgYYY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:21:59"
+  },
+  {
+    "business_name": "Mosaic Connect Ayodhya",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Banquet hall",
+    "pincode": "271309",
+    "phone_number": "+91 92170 82300",
+    "website": "https://mosaichotels.in/hotel/mosaic-connect-ayodhya/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Plot No 4043, near Ayodhya Cantt Railway Station, Civil Line, Faizabad, Uttar Pradesh 224001",
+    "area": "Civil Line",
+    "latitude": 26.768367899999998,
+    "longitude": 82.1223267,
+    "place_id": "ChIJYToDv0QFmjkR6CySN1qdeWY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYToDv0QFmjkR6CySN1qdeWY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:22:02"
+  }
+]

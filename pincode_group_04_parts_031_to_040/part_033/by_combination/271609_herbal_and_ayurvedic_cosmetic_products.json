@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pratvi Natural Products",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "271609",
+    "phone_number": "+91 95975 74040",
+    "website": "https://www.pratviayurveda.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "No-39F, Borewell Thottam, Srinivasanagar Rd, Samraj Avenue, Narasimhanaickenpalayam, Coimbatore, Tamil Nadu 641031",
+    "area": "Samraj Avenue",
+    "latitude": 11.122154,
+    "longitude": 76.9390324,
+    "place_id": "ChIJR87EEdH3qDsRgKrsOHf4zEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR87EEdH3qDsRgKrsOHf4zEA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:50:24"
+  },
+  {
+    "business_name": "Tanay Bangle Store",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "271609",
+    "phone_number": "+91 63866 58712",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Near, Jharkhandi Railway Crossing, Mohalla Chikni, Balrampur, Uttar Pradesh 271201",
+    "area": "Mohalla Chikni",
+    "latitude": 27.4315207,
+    "longitude": 82.1788627,
+    "place_id": "ChIJp5vihGzZmTkRShSbn_b_NOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp5vihGzZmTkRShSbn_b_NOs",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:50:27"
+  }
+]

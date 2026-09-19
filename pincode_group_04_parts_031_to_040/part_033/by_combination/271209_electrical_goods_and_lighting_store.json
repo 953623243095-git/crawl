@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ansh Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "271209",
+    "phone_number": "+91 91258 93532",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Hanuman Mandir Rd, Bhagwatiganj, Balrampur, Dhusah, Uttar Pradesh 271201",
+    "area": "Bhagwatiganj",
+    "latitude": 27.4179961,
+    "longitude": 82.16752009999999,
+    "place_id": "ChIJAQDAhNbemTkRZZ1AjMqioJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQDAhNbemTkRZZ1AjMqioJA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:02:42"
+  },
+  {
+    "business_name": "Jai Electric And Electronics",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "271209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Chaurkhata Khagaijot Marg, Marg, Jamunahi, Uttar Pradesh 271201",
+    "area": "271209",
+    "latitude": 27.386500299999998,
+    "longitude": 82.1753253,
+    "place_id": "ChIJDbpFPTPfmTkRQsJInr7zxdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDbpFPTPfmTkRQsJInr7zxdU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:02:42"
+  }
+]

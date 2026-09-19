@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deluxe Leather Co.",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "271607",
+    "phone_number": "+91 93131 48881",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No. 5379, 69, Guru Ravi Das Marg, Block19C, Regar Pura, Karol Bagh, New Delhi, Delhi, 110005",
+    "area": "Block19C, Regar Pura, Karol Bagh",
+    "latitude": 28.652644,
+    "longitude": 77.185564,
+    "place_id": "ChIJf6KB5JoCDTkRX9LBNFtstI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf6KB5JoCDTkRX9LBNFtstI8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:48:11"
+  },
+  {
+    "business_name": "Da Leather Overseas",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather Products Manufacturer",
+    "all_categories": "Leather Products Manufacturer, Service establishment, Leather Exporter",
+    "pincode": "271607",
+    "phone_number": "+91 94537 57007",
+    "website": "http://www.daleather.com/",
+    "rating": 5,
+    "reviews_count": 30,
+    "address": "Da Leather Overseas, 271607, India",
+    "area": "271607",
+    "latitude": 10.625810399999999,
+    "longitude": -69.0020882,
+    "place_id": "ChIJbVTWyPtS1mcRV26lv-8S_ms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbVTWyPtS1mcRV26lv-8S_ms",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:48:12"
+  }
+]

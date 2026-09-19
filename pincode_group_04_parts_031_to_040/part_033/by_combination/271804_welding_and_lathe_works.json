@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deluxe engineering works",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Drilling equipment supplier",
+    "all_categories": "Drilling equipment supplier",
+    "pincode": "271804",
+    "phone_number": "N/A",
+    "website": "http://deluxeengineeringworks.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Deluxe engineering works, Gau Shala, Hindaun City, Rajasthan 322230",
+    "area": "Gau Shala",
+    "latitude": 26.730249099999998,
+    "longitude": 77.03015429999999,
+    "place_id": "ChIJP6kUbiMvcjkR11Bn3mv0g1c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP6kUbiMvcjkR11Bn3mv0g1c",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:57:49"
+  },
+  {
+    "business_name": "R.K.welding works",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Welding gas supplier",
+    "all_categories": "Welding gas supplier",
+    "pincode": "271804",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kanpur Rd, Nunihai, Kuberpur, Agra, Uttar Pradesh 282006",
+    "area": "Nunihai",
+    "latitude": 27.2014267,
+    "longitude": 78.0494576,
+    "place_id": "ChIJY4Yv3EJxdDkRWl4fyt_5t1Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY4Yv3EJxdDkRWl4fyt_5t1Q",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:57:50"
+  }
+]

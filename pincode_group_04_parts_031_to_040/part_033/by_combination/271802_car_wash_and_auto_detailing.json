@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "WASHING ADDA",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "271802",
+    "phone_number": "+91 95800 13131",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "House No 1, Saraswati Nagar, Bahraich - Lucknow Rd, Saryu Nagar, Bahraich, Uttar Pradesh 271802",
+    "area": "Saryu Nagar",
+    "latitude": 27.559846399999998,
+    "longitude": 81.58463429999999,
+    "place_id": "ChIJF00mLq2pmTkRk2UTLzjI3wQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF00mLq2pmTkRk2UTLzjI3wQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:53:28"
+  },
+  {
+    "business_name": "AARTI SINGH Car Wash Center",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "271802",
+    "phone_number": "+91 95377 35210",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Balrampur - Bahraich Rd, Payagpur, Bahraich, Uttar Pradesh 271835",
+    "area": "271802",
+    "latitude": 27.549818499999997,
+    "longitude": 81.7869845,
+    "place_id": "ChIJL8P93qG3mTkR5WKzt3xGMG4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL8P93qG3mTkR5WKzt3xGMG4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:53:29"
+  }
+]

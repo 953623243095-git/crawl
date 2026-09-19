@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Radha Krishna Palace",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "271802",
+    "phone_number": "+91 96709 49906",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "बंजारी मोड़ लखनऊ रोड, Bahraich, Uttar Pradesh 271802",
+    "area": "Nazipurwa",
+    "latitude": 27.5548435,
+    "longitude": 81.5817441,
+    "place_id": "ChIJIxvobFCpmTkRzttVV9hFcs0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIxvobFCpmTkRzttVV9hFcs0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:53:57"
+  },
+  {
+    "business_name": "HOTEL CITY",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Lodging",
+    "pincode": "271802",
+    "phone_number": "N/A",
+    "website": "http://hotelcitybahraich.wordpress.com/",
+    "rating": 3.9,
+    "reviews_count": 10,
+    "address": "Guru Nanak Chowk, Brahmnipura, Bahraich, Uttar Pradesh 271801",
+    "area": "Brahmnipura",
+    "latitude": 27.5709198,
+    "longitude": 81.603256,
+    "place_id": "ChIJ93YsCoGpmTkRqN930o325H4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ93YsCoGpmTkRqN930o325H4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:54:00"
+  }
+]

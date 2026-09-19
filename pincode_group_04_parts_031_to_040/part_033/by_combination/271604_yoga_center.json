@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Gold Fitness",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "271604",
+    "phone_number": "+91 92679 77473",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mahuwa bazar Mahua, Uttar Pradesh 271607",
+    "area": "271604",
+    "latitude": 27.1990472,
+    "longitude": 82.52417609999999,
+    "place_id": "ChIJx7V5PQBHlzkRhnJNOya7fAM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx7V5PQBHlzkRhnJNOya7fAM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:46:43"
+  },
+  {
+    "business_name": "Shahabuddin kite centre",
+    "search_category": "Yoga Center",
+    "primary_category": "Kite shop",
+    "all_categories": "Kite shop",
+    "pincode": "271604",
+    "phone_number": "+91 78009 13912",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 10,
+    "address": "near Rahmani garment, Raja bazaar, Utraula, Uttar Pradesh 271604",
+    "area": "Raja bazaar",
+    "latitude": 27.3190691,
+    "longitude": 82.4182864,
+    "place_id": "ChIJMTiver1DlzkRv4DGvZO67dU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMTiver1DlzkRv4DGvZO67dU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:46:45"
+  }
+]

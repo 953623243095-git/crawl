@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ghazi Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "271824",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "HJV8+3H2, MDR 137E, Baikuntha, Sidha Prasi, Bahraich, Uttar Pradesh 271801",
+    "area": "Baikuntha",
+    "latitude": 27.592634999999998,
+    "longitude": 81.61637549999999,
+    "place_id": "ChIJuQRIshGsmTkRMzZYs6BUC9E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuQRIshGsmTkRMzZYs6BUC9E",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:03:55"
+  },
+  {
+    "business_name": "Sewa clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "271824",
+    "phone_number": "+91 91610 29189",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HHFR+G46, choraha mombatti gali, Gudri, Bahraich, Uttar Pradesh 271801",
+    "area": "271824",
+    "latitude": 27.5737785,
+    "longitude": 81.5902622,
+    "place_id": "ChIJUY4ZPQCpmTkRTJ3bwp0fr6g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUY4ZPQCpmTkRTJ3bwp0fr6g",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:03:55"
+  }
+]

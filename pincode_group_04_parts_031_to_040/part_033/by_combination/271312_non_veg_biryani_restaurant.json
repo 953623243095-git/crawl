@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khan Chicken Shop",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Chicken shop",
+    "all_categories": "Chicken shop",
+    "pincode": "271312",
+    "phone_number": "+91 95653 82023",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Unnamed Road, Tendua Asnahara, Uttar Pradesh 271312",
+    "area": "271312",
+    "latitude": 27.032799599999997,
+    "longitude": 82.5976522,
+    "place_id": "ChIJLxKAL6A1lzkRPnnxpMJQBAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLxKAL6A1lzkRPnnxpMJQBAE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:25:57"
+  },
+  {
+    "business_name": "V.K family restaurant and dhaba",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Family restaurant",
+    "pincode": "271312",
+    "phone_number": "+91 89482 09080",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "2MW4+JC, nearby Address:, Khutahana, Uttar Pradesh 272194",
+    "area": "271312",
+    "latitude": 27.0463648,
+    "longitude": 82.65598949999999,
+    "place_id": "ChIJY-d8GKszlzkRu9bWnXE9Oas",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY-d8GKszlzkRu9bWnXE9Oas",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:25:59"
+  }
+]

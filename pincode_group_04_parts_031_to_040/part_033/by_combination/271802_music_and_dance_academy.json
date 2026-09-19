@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DJ Dance",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Music and Dance Academy",
+    "all_categories": "Music and Dance Academy",
+    "pincode": "271802",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HHMX+C64, Hamjapura Rd, Hamjapura, Gulamali Pura, Bahraich, Uttar Pradesh 271801",
+    "area": "Hamjapura, Gulamali Pura",
+    "latitude": 27.583508499999997,
+    "longitude": 81.5980738,
+    "place_id": "ChIJZ-m8WPmrmTkROYyQ4jinbpk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ-m8WPmrmTkROYyQ4jinbpk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:54:06"
+  },
+  {
+    "business_name": "Music",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "271802",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HHCX+632, Brahmnipura, Bahraich, Uttar Pradesh 271801",
+    "area": "Brahmnipura",
+    "latitude": 27.5705232,
+    "longitude": 81.5976486,
+    "place_id": "ChIJ61akZQCpmTkRslByY_LLLRo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ61akZQCpmTkRslByY_LLLRo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:54:08"
+  }
+]

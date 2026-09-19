@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Agro Industries",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Agricultural machinery manufacturer",
+    "all_categories": "Agricultural machinery manufacturer, Office equipment supplier",
+    "pincode": "271202",
+    "phone_number": "+91 98281 55515",
+    "website": "http://www.agromakeindia.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Bus stand, NH-08, Manoharpur, Shahpura, Rajasthan 303104",
+    "area": "271202",
+    "latitude": 27.3004939,
+    "longitude": 75.95606339999999,
+    "place_id": "ChIJma2qpi0JbTkRXdDc4L5nGxM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJma2qpi0JbTkRXdDc4L5nGxM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:51:57"
+  },
+  {
+    "business_name": "Kurban Agriculture",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Agricultural machinery manufacturer",
+    "all_categories": "Agricultural machinery manufacturer",
+    "pincode": "271202",
+    "phone_number": "+91 79763 03918",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "Mod, Narayanpur, Pragpura, Rajasthan 303107",
+    "area": "271202",
+    "latitude": 27.603145599999998,
+    "longitude": 76.0965571,
+    "place_id": "ChIJWxBFKQVAbTkRwTzGxBAuw9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWxBFKQVAbTkRwTzGxBAuw9s",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:51:57"
+  }
+]

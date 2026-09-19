@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RPM CHILD CLINIC",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, Health spa",
+    "pincode": "271601",
+    "phone_number": "+91 97942 42497",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Gudariya, Dhaurahara Road, Akathi, Uttar Pradesh 262723",
+    "area": "271601",
+    "latitude": 27.947067699999998,
+    "longitude": 81.05631819999999,
+    "place_id": "ChIJgVjHtl_HmDkRpZoMq0soJv0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgVjHtl_HmDkRpZoMq0soJv0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:41:33"
+  },
+  {
+    "business_name": "Child Care Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "271601",
+    "phone_number": "+91 70684 58510",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Main Rd, Rafi Nagar, Utraula, Uttar Pradesh 271604",
+    "area": "Rafi Nagar",
+    "latitude": 27.3129131,
+    "longitude": 82.4160173,
+    "place_id": "ChIJs11hT-FDlzkREo6-wxAwO8E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs11hT-FDlzkREo6-wxAwO8E",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:41:33"
+  }
+]

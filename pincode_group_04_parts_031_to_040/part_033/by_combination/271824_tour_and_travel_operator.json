@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Faizan travel shop",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "271824",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Banspurwa, Uttar Pradesh 271851",
+    "area": "271824",
+    "latitude": 27.6755538,
+    "longitude": 81.384813,
+    "place_id": "ChIJO8SoRgD9mDkRgUDFMKNh3WQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO8SoRgD9mDkRgUDFMKNh3WQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:04:00"
+  },
+  {
+    "business_name": "SR Al-Haram Tour & Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "271824",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Haji Talib Complex Near A.R.T.O Office, Nanpara Bypass, Tamachpur, Bahraich, Uttar Pradesh 271801",
+    "area": "271824",
+    "latitude": 27.575170999999997,
+    "longitude": 81.5794781,
+    "place_id": "ChIJgWGy-WSpmTkRF3ZBGrOIIh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgWGy-WSpmTkRF3ZBGrOIIh8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:04:00"
+  }
+]

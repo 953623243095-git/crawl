@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinay Juice",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "271402",
+    "phone_number": "+91 88289 16960",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "00, Lbs Road, Pant Nagar, Rajapur, Gonda, Uttar Pradesh 271001",
+    "area": "Pant Nagar",
+    "latitude": 27.121312099999997,
+    "longitude": 81.9285798,
+    "place_id": "ChIJV4NAZ8TzmTkRLTIVg1YMDuc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV4NAZ8TzmTkRLTIVg1YMDuc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:32:43"
+  },
+  {
+    "business_name": "Raj Juice Shop",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "271402",
+    "phone_number": "+91 75682 54649",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "00, Chavani Sarkar, Gonda, Uttar Pradesh 271001",
+    "area": "271402",
+    "latitude": 27.115613,
+    "longitude": 81.9435712,
+    "place_id": "ChIJRYHnYWnzmTkRnQ1zQErq7po",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRYHnYWnzmTkRnQ1zQErq7po",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:32:45"
+  }
+]

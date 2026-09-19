@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cool and Care Service",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service",
+    "pincode": "271304",
+    "phone_number": "+91 97779 48399",
+    "website": "https://www.coolandcareservice.com/",
+    "rating": 4.8,
+    "reviews_count": 16,
+    "address": "COVID Hospital Front, New Road, Sum Hospital Square, Shampur, Bhubaneswar, Odisha 751003",
+    "area": "Shampur",
+    "latitude": 20.2856688,
+    "longitude": 85.77317769999999,
+    "place_id": "ChIJ3UsEkesJGToREVNV03dlHAU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3UsEkesJGToREVNV03dlHAU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:12:58"
+  },
+  {
+    "business_name": "Bharat Services",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop, Service establishment",
+    "pincode": "271304",
+    "phone_number": "+91 94043 70127",
+    "website": "https://servebharat.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bharat Services, 271304, India",
+    "area": "271304",
+    "latitude": 22.457814199999998,
+    "longitude": 80.6183267,
+    "place_id": "ChIJMTWxFS1xxSARQIoV9RpBNuw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMTWxFS1xxSARQIoV9RpBNuw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:12:58"
+  }
+]

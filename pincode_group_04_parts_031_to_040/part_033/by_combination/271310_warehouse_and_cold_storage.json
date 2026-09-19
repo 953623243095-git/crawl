@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "J K Cold Storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "271310",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "7G3X+HW2, Lachhman Nagla Rd, Pataunja, Uttar Pradesh 209739",
+    "area": "271310",
+    "latitude": 27.253881,
+    "longitude": 79.54975999999999,
+    "place_id": "ChIJDRF2SNYlnjkRy3YO9bymXxM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDRF2SNYlnjkRy3YO9bymXxM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:23:50"
+  },
+  {
+    "business_name": "Shri Balaji Cold Storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "271310",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Unnamed Road, Behta, Uttar Pradesh 209734",
+    "area": "271310",
+    "latitude": 26.941682099999998,
+    "longitude": 79.912108,
+    "place_id": "ChIJ0YdYT5txnjkRDzmHCC0nD64",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0YdYT5txnjkRDzmHCC0nD64",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:23:50"
+  }
+]

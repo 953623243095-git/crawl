@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mubeen ki Nihari",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "271401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "XWC4+CF5, Faizabad Road, opposite Noor Hospital, Varsara, Uttar Pradesh 271401",
+    "area": "271401",
+    "latitude": 26.9710057,
+    "longitude": 81.90624749999999,
+    "place_id": "ChIJjTcafQD1mTkRmwUl5UOuTQo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjTcafQD1mTkRmwUl5UOuTQo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:31:06"
+  },
+  {
+    "business_name": "Aashirwad Food Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "271401",
+    "phone_number": "+91 97957 55795",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Aashirwad Dhaba, AKanya Road, Banua, Uttar Pradesh 271402",
+    "area": "271401",
+    "latitude": 26.929509099999997,
+    "longitude": 81.78326729999999,
+    "place_id": "ChIJ7b_ld7IhmjkRZFC3APQ5tOw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7b_ld7IhmjkRZFC3APQ5tOw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:31:09"
+  }
+]

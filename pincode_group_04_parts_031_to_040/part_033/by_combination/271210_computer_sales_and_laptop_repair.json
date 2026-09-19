@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star Technologies",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer Hardware Company, Computer networking service, Computer service, Computer store, Computer support and services, Data recovery service, Repair service, Software company",
+    "pincode": "271210",
+    "phone_number": "+91 99779 97777",
+    "website": "http://www.bringdataback.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "F15, Jain Tower, Russel Chowk, Napier Town, Jabalpur, Madhya Pradesh 482001",
+    "area": "Napier Town",
+    "latitude": 23.162879099999998,
+    "longitude": 79.9376132,
+    "place_id": "ChIJl71sRgyugTkRz1nXzB2jZZo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl71sRgyugTkRz1nXzB2jZZo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:04:50"
+  },
+  {
+    "business_name": "Jwala Distributors",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer accessories store, Computer Wholesaler, Printer repair service, Printing equipment supplier",
+    "pincode": "271210",
+    "phone_number": "+91 89603 77771",
+    "website": "https://www.jwaladistributors.com/",
+    "rating": 4.7,
+    "reviews_count": 2721,
+    "address": "INDIAN PRESS COLONY (DAAS NAGAR, C27/2753-D Maldahiya, 4, Maldahiya Rd, near KASHI ANATHALAY, Lahurabir, Chetganj, Varanasi, Uttar Pradesh 221002",
+    "area": "Das Nagar Colony, Lahurabir, Chetganj",
+    "latitude": 25.3245388,
+    "longitude": 82.9973802,
+    "place_id": "ChIJpaLMSAkujjkRLQA0g2NILx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpaLMSAkujjkRLQA0g2NILx8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:04:52"
+  }
+]

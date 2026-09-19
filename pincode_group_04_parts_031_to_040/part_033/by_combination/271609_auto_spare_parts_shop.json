@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Azeem Auto Center Mahdeyia",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Motorcycle parts store",
+    "all_categories": "Motorcycle parts store",
+    "pincode": "271609",
+    "phone_number": "+91 73767 06706",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": 2,
+    "address": "78P4+V5V, Gonda - Utraula Rd, Mahdeyia, Bazar, Mujhaini, Uttar Pradesh 271609",
+    "area": "Mahdeyia",
+    "latitude": 27.2872462,
+    "longitude": 82.30542319999999,
+    "place_id": "ChIJV1VVAC1clzkR8DTBkK4DI_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV1VVAC1clzkR8DTBkK4DI_o",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:50:07"
+  },
+  {
+    "business_name": "Akriti Autoparts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "271609",
+    "phone_number": "+91 97922 10888",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shivani Palace, G-1, Faizabad Rd, near Indira Diagnostic Centre, Murari Nagar, Sanjay Gandhi Puram, Lucknow, Uttar Pradesh 226016",
+    "area": "Murari Nagar, Sanjay Gandhi Puram",
+    "latitude": 26.870183599999997,
+    "longitude": 80.9716935,
+    "place_id": "ChIJSa5KgkT9mzkRU-eDvFC8ZCo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSa5KgkT9mzkRU-eDvFC8ZCo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:50:07"
+  }
+]

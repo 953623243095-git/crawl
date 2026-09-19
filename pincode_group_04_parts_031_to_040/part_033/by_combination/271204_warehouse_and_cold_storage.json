@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ekart warehouse",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "271204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.6,
+    "reviews_count": null,
+    "address": "Q4C7+9JH, Sahadatganj, Faizabad, Uttar Pradesh 224001",
+    "area": "Sahadatganj",
+    "latitude": 26.7709373,
+    "longitude": 82.1141191,
+    "place_id": "ChIJdXnX1K8FmjkRSI_RWzsp0SA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdXnX1K8FmjkRSI_RWzsp0SA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:55:17"
+  },
+  {
+    "business_name": "Mama Meil",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "271204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Q2CG+W36, Anand Nagar, Kabirganj, Etawah, Uttar Pradesh 206001",
+    "area": "Anand Nagar, Kabirganj",
+    "latitude": 26.7722852,
+    "longitude": 79.0251333,
+    "place_id": "ChIJZxV2f3PgdTkR9KtdoqufqBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZxV2f3PgdTkR9KtdoqufqBA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:55:18"
+  }
+]

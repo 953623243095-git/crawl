@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganesh Kirana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "271403",
+    "phone_number": "+91 95325 79000",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 3,
+    "address": "Abhay Narayan Mishra tarabganj, Gonda, Uttar Pradesh 271403",
+    "area": "271403",
+    "latitude": 26.9545417,
+    "longitude": 81.9922933,
+    "place_id": "ChIJJ826BSz2mTkRP_0zSYDLNB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ826BSz2mTkRP_0zSYDLNB4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:34:19"
+  },
+  {
+    "business_name": "Guddu Jaiswal Jenral Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "271403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "XX5M+6J2, sarwan, Tarabganj, Uttar Pradesh 271403",
+    "area": "sarwan",
+    "latitude": 26.9580101,
+    "longitude": 81.9840201,
+    "place_id": "ChIJZV8-gbj3mTkR0L1WsXdHjtA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZV8-gbj3mTkR0L1WsXdHjtA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:34:21"
+  }
+]

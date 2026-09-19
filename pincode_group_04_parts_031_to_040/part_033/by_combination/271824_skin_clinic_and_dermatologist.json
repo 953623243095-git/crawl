@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.Deepti Jain clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Dermatologist",
+    "all_categories": "Dermatologist, Medical clinic",
+    "pincode": "271824",
+    "phone_number": "+91 97212 98063",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 162,
+    "address": "first Floor, City Center Market, Niblet Chauraha, Satyapremi Nagar, Barabanki, Uttar Pradesh 225001",
+    "area": "Satyapremi Nagar",
+    "latitude": 26.928925,
+    "longitude": 81.1940091,
+    "place_id": "ChIJs9x4q0ZgmTkRHP1L0REe7Vg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs9x4q0ZgmTkRHP1L0REe7Vg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:03:48"
+  },
+  {
+    "business_name": "Munni Devi Poly Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "271824",
+    "phone_number": "+91 85429 91046",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 82,
+    "address": "Nanpara Byp, near Lakhimpur pur Road, Chauraha, Nanpara, Bahadur Purwa, Uttar Pradesh 271865",
+    "area": "Chauraha",
+    "latitude": 27.886114499999998,
+    "longitude": 81.4902094,
+    "place_id": "ChIJRZrKvQL3mDkRlB4kIkgnfVQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRZrKvQL3mDkRlB4kIkgnfVQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:03:49"
+  }
+]

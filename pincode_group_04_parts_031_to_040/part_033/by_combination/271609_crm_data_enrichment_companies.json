@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Datacom Services",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services, Service establishment",
+    "pincode": "271609",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Datacom Services, 271609, India",
+    "area": "271609",
+    "latitude": 26.1500432,
+    "longitude": 91.6590796,
+    "place_id": "ChIJn4_UE0lZWjcRTiufh53-76A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn4_UE0lZWjcRTiufh53-76A",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:51:07"
+  },
+  {
+    "business_name": "The Next Coders Software Solution",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Website designer",
+    "pincode": "271609",
+    "phone_number": "N/A",
+    "website": "http://thenextcoders.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Birendranagar 4, Surkhet Karnali Pradesh, 44600, Nepal",
+    "area": "Kapan",
+    "latitude": 27.731719599999998,
+    "longitude": 85.3514271,
+    "place_id": "ChIJjUBNQV4Z6zkRj29N47dz62I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjUBNQV4Z6zkRj29N47dz62I",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:51:07"
+  }
+]

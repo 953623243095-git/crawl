@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Bombay Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "271603",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chapiya Pehar, Mahdeia Sirsia, Uttar Pradesh 271604",
+    "area": "271603",
+    "latitude": 27.253620299999998,
+    "longitude": 82.3303488,
+    "place_id": "ChIJ8UkODXFclzkRImgn6gXti50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8UkODXFclzkRImgn6gXti50",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:44:50"
+  },
+  {
+    "business_name": "Uttam Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "271603",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "86QV+C9C, Juathan, Deoria Mubarakpur, Uttar Pradesh 271607",
+    "area": "Juathan",
+    "latitude": 27.338568499999997,
+    "longitude": 82.24338999999999,
+    "place_id": "ChIJK8oEXQBhlzkR9tgXpaG9QcE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK8oEXQBhlzkR9tgXpaG9QcE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:44:52"
+  }
+]

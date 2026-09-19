@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bazar bag dhanepur district gonda",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "271602",
+    "phone_number": "+91 97930 41050",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bazar bagh, Dhanepur Rd, Tirlokpur, Uttar Pradesh 271602",
+    "area": "271602",
+    "latitude": 27.2288915,
+    "longitude": 82.150821,
+    "place_id": "ChIJtX1eYQDjmTkRTGC7V3-G0jc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtX1eYQDjmTkRTGC7V3-G0jc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:42:50"
+  },
+  {
+    "business_name": "Ajay Kashyap",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "271602",
+    "phone_number": "+91 89488 51870",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dhaanepur, Gonda, Madhau Ganj, Uttar Pradesh 271602",
+    "area": "Dhaanepur",
+    "latitude": 27.221202899999998,
+    "longitude": 82.1343711,
+    "place_id": "ChIJhWjziYfjmTkRenbJ4dK0L2k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhWjziYfjmTkRenbJ4dK0L2k",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:42:50"
+  }
+]

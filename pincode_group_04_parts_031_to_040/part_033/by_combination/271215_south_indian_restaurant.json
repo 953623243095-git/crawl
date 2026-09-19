@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Uduppi Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Breakfast restaurant, Indian restaurant, Vegetarian restaurant",
+    "pincode": "271215",
+    "phone_number": "+91 88959 18224",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 1126,
+    "address": "FXHH+M6P, Danipali, Sambalpur, Odisha 768003",
+    "area": "Danipali",
+    "latitude": 21.479212399999998,
+    "longitude": 83.9780675,
+    "place_id": "ChIJKXnja4kWIToRrvxquTWZCDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKXnja4kWIToRrvxquTWZCDE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:05:31"
+  },
+  {
+    "business_name": "Appa Mess A/C (TM) NON-VEG",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Non Vegetarian Restaurant",
+    "all_categories": "Non Vegetarian Restaurant",
+    "pincode": "271215",
+    "phone_number": "+91 85080 17584",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 852,
+    "address": "Permbalur Collector Office Road, Thuraimangalam, Perambalur, Tamil Nadu 621212",
+    "area": "Thuraimangalam",
+    "latitude": 11.2259996,
+    "longitude": 78.87756759999999,
+    "place_id": "ChIJhTjF34EcqzsRcpN8pYwsHVI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhTjF34EcqzsRcpN8pYwsHVI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:05:31"
+  }
+]

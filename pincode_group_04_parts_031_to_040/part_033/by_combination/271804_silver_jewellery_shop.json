@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay jewllwers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "271804",
+    "phone_number": "+91 83180 60807",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhinga Rd, Ghosiyana, Baikuntha, Bahraich, Salarpur, Uttar Pradesh 271801",
+    "area": "Ghosiyana, Baikuntha",
+    "latitude": 27.5944416,
+    "longitude": 81.6211917,
+    "place_id": "ChIJl6lwAQCtmTkRvHbN2ZPpiP4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl6lwAQCtmTkRvHbN2ZPpiP4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:56:41"
+  },
+  {
+    "business_name": "Jameema Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "271804",
+    "phone_number": "+91 75248 56615",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "00, Nai Bazar, Bahraich, Bhinga, Uttar Pradesh 271831",
+    "area": "271804",
+    "latitude": 27.703284999999997,
+    "longitude": 81.9309956,
+    "place_id": "ChIJrUqxm_Y1mDkRv9jBveHsnsQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrUqxm_Y1mDkRv9jBveHsnsQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:56:41"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Chemical Industry",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer",
+    "pincode": "271215",
+    "phone_number": "N/A",
+    "website": "https://youtu.be/TLt_sEUQJ1U",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Q29Q+98G, Near kailash house Bareilly road, Panwaria, sadar, Rampur, Uttar Pradesh 244901",
+    "area": "sadar",
+    "latitude": 28.7684355,
+    "longitude": 79.038333,
+    "place_id": "ChIJ0_na2_2TCjkRr8_Wc3TX2pE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0_na2_2TCjkRr8_Wc3TX2pE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:06:45"
+  },
+  {
+    "business_name": "Shammi Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler",
+    "pincode": "271215",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Outside, Lahori Gate, Amritsar, Punjab 143001",
+    "area": "Outside, Lahori Gate",
+    "latitude": 31.620679199999998,
+    "longitude": 74.8592609,
+    "place_id": "ChIJMRywgU57GTkRouxyrWYbZRg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMRywgU57GTkRouxyrWYbZRg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:06:45"
+  }
+]

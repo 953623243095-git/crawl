@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arya pizza point & cafe",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "271209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "72QG+XRQ, Intiyathok bajar, Itia Thok, Uttar Pradesh 271202",
+    "area": "271209",
+    "latitude": 27.289954299999998,
+    "longitude": 82.0271198,
+    "place_id": "ChIJw9R_CgDpmTkRvLL7QLT-D_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw9R_CgDpmTkRvLL7QLT-D_8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:02:12"
+  },
+  {
+    "business_name": "Hot & spicy Family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "271209",
+    "phone_number": "+91 63875 66856",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 31,
+    "address": "Itia Thok, Karuwa Para, Uttar Pradesh 271202",
+    "area": "271209",
+    "latitude": 27.2980451,
+    "longitude": 82.0332261,
+    "place_id": "ChIJwbTBBzjpmTkRJKEsbXCNTFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwbTBBzjpmTkRJKEsbXCNTFs",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:02:15"
+  }
+]

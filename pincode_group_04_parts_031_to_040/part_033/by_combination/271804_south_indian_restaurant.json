@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hello Anna (Best in South indian)",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "271804",
+    "phone_number": "+91 90688 86514",
+    "website": "https://www.zomato.com/agra/hello-anna-sikandra",
+    "rating": 4.6,
+    "reviews_count": 964,
+    "address": "Lower ground 1 mig guru teg bahadur colony, Nh2, opp. gurudwara guru ka taal, Agra, Uttar Pradesh 282007",
+    "area": "Transport Nagar",
+    "latitude": 27.210257799999997,
+    "longitude": 77.96776349999999,
+    "place_id": "ChIJySuUwYx3dDkRky_KyirCym0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJySuUwYx3dDkRky_KyirCym0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:56:34"
+  },
+  {
+    "business_name": "Nandi Butter Counter( Dosa Wale)",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "271804",
+    "phone_number": "+91 98890 18040",
+    "website": "https://nandi-butter-counter.netlify.app/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Stadium Rd, Gwal Toli, Jhansi, Uttar Pradesh 284003",
+    "area": "Gwal Toli",
+    "latitude": 25.4539896,
+    "longitude": 78.5573831,
+    "place_id": "ChIJE2PP4ihxdzkRQtFRNMjhhI0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE2PP4ihxdzkRQtFRNMjhhI0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:56:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kaushal Footwear Shop",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "271202",
+    "phone_number": "+91 97212 95999",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ghopatpur Basti, Ranipur, Gonda, Uttar Pradesh 271202",
+    "area": "271202",
+    "latitude": 27.2526281,
+    "longitude": 82.0685689,
+    "place_id": "ChIJJflFcvfnmTkR0zfnnTR4zDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJflFcvfnmTkR0zfnnTR4zDA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:50:48"
+  },
+  {
+    "business_name": "Mohd Aslam",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "271202",
+    "phone_number": "+91 84234 18036",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop, Itia Thok, Karuwa Para, Uttar Pradesh 271202",
+    "area": "271202",
+    "latitude": 27.294024,
+    "longitude": 82.0329126,
+    "place_id": "ChIJ1fLmzC3pmTkREzvXKBm_OKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1fLmzC3pmTkREzvXKBm_OKE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:50:48"
+  }
+]

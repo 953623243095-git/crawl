@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Traders",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "271209",
+    "phone_number": "+91 81769 16226",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "4XW8+HC4, Imiliya Gurudayal, Naveen Gallamandi Road Bypass, Near Deep Netralaya, Uttar Pradesh 271002",
+    "area": "Veer Pur",
+    "latitude": 27.146398899999998,
+    "longitude": 81.9660893,
+    "place_id": "ChIJreSBsxHumTkReJCpOdLKfy8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJreSBsxHumTkReJCpOdLKfy8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:02:05"
+  },
+  {
+    "business_name": "Nandan Traders And Sons",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Spice store",
+    "all_categories": "Spice store",
+    "pincode": "271209",
+    "phone_number": "+91 96164 69957",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Chungi naka, belsar road, Jhanjhari Block, Gonda, Uttar Pradesh 271003",
+    "area": "Jhanjhari Block",
+    "latitude": 27.123604099999998,
+    "longitude": 81.9656955,
+    "place_id": "ChIJMWvXwVjxmTkRj9XFZAzrYMY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMWvXwVjxmTkRj9XFZAzrYMY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:02:05"
+  }
+]

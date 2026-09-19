@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay retailer shop",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "271609",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "77RM+3F, Tirlokpur, Uttar Pradesh 271603",
+    "area": "271609",
+    "latitude": 27.290149,
+    "longitude": 82.283723,
+    "place_id": "ChIJ00SjnA5flzkRtIeAuqEvtSw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ00SjnA5flzkRtIeAuqEvtSw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:49:34"
+  },
+  {
+    "business_name": "Pradeep Kumar Pandey",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "271609",
+    "phone_number": "+91 80762 64071",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Raj Home, 3, Gonda, Uttar Pradesh 271603",
+    "area": "271609",
+    "latitude": 27.2907175,
+    "longitude": 82.2839608,
+    "place_id": "ChIJm8O12xRflzkRWz5a0loNlu0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm8O12xRflzkRWz5a0loNlu0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:49:34"
+  }
+]

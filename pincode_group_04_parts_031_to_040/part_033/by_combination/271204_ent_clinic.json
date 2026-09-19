@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishwa Lekha ENT Clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Cosmetic surgeon, Doctor, Endoscopist, Oral surgeon, Otolaryngology clinic, Specialized clinic, Specialized hospital, Speech & Hearing Specialist, Surgeon",
+    "pincode": "271204",
+    "phone_number": "+91 87430 99699",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Ramghat Rd, Bela Marg, New Vishnupuri, Aligarh, Uttar Pradesh 202001",
+    "area": "Bela Marg, New Vishnupuri",
+    "latitude": 27.8835651,
+    "longitude": 78.08129269999999,
+    "place_id": "ChIJW_SNhl6ldDkRR8NWMSoEHRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW_SNhl6ldDkRR8NWMSoEHRw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:54:21"
+  },
+  {
+    "business_name": "Navratan Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "271204",
+    "phone_number": "+91 99271 41182",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "V3VQ+M64 Navratan hospital, Ramghat Rd, Mansarovar Colony, Aligarh, Uttar Pradesh 202001",
+    "area": "Mansarovar Colony",
+    "latitude": 27.894127599999997,
+    "longitude": 78.0880911,
+    "place_id": "ChIJNaTlKb6kdDkRsC58ThrCuCM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNaTlKb6kdDkRsC58ThrCuCM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:54:21"
+  }
+]

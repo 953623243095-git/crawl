@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tattooing",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo artist",
+    "all_categories": "Tattoo artist",
+    "pincode": "271801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HHPW+34V, Gulamali Pura, Bahraich, Uttar Pradesh 271801",
+    "area": "Gulamali Pura",
+    "latitude": 27.5852494,
+    "longitude": 81.5952918,
+    "place_id": "ChIJVWDD8AmrmTkRPFBM_XvGxjY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVWDD8AmrmTkRPFBM_XvGxjY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:52:06"
+  },
+  {
+    "business_name": "Anizma Ink tattoo studio",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Nail salon",
+    "all_categories": "Nail salon, Tattoo shop",
+    "pincode": "271801",
+    "phone_number": "+91 73097 49279",
+    "website": "https://anizmaink.com/",
+    "rating": 4.9,
+    "reviews_count": 1196,
+    "address": "RamRam Bank Chauraha, Sector Q, Sector-A, Aliganj, Lucknow, Uttar Pradesh 226024",
+    "area": "Sector Q, Sector-A, Aliganj",
+    "latitude": 26.9050518,
+    "longitude": 80.9441472,
+    "place_id": "ChIJt4N0o8pXmTkRzRUzVVKDHz0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt4N0o8pXmTkRzRUzVVKDHz0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:52:07"
+  }
+]

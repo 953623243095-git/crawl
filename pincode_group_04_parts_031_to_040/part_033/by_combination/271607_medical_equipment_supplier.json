@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Karan Sharma",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store, Medical clinic",
+    "pincode": "271607",
+    "phone_number": "+91 88819 39836",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "kholhui, lala dhi, Pipari, Dari Chaura, Uttar Pradesh 271607",
+    "area": "lala dhi",
+    "latitude": 27.3442625,
+    "longitude": 82.3465453,
+    "place_id": "ChIJ-WuIFwBnlzkRLsxPnqvCYl0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-WuIFwBnlzkRLsxPnqvCYl0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:48:23"
+  },
+  {
+    "business_name": "Dayanand maurua",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "271607",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "97FJ+65, Katia, Uttar Pradesh 271607",
+    "area": "271607",
+    "latitude": 27.372970499999997,
+    "longitude": 82.2805305,
+    "place_id": "ChIJ1Qp4YXVhlzkRy9xC7yfYHdg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1Qp4YXVhlzkRy9xC7yfYHdg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:48:23"
+  }
+]

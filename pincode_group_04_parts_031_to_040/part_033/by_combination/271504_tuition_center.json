@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pragati library",
+    "search_category": "Tuition Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center, Library",
+    "pincode": "271504",
+    "phone_number": "+91 91182 58000",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Pragati Digital Library, Paraspur, Uttar Pradesh 271504",
+    "area": "271504",
+    "latitude": 27.0301963,
+    "longitude": 81.78378939999999,
+    "place_id": "ChIJOW2GHuiNmTkRP1lI-V_OWQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOW2GHuiNmTkRP1lI-V_OWQ0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:40:34"
+  },
+  {
+    "business_name": "edubuddy",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center, Service establishment",
+    "pincode": "271504",
+    "phone_number": "+91 83183 60385",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "edubuddy, 271504, India",
+    "area": "271504",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ70T8xo0pmjkRFF97qccdIYw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ70T8xo0pmjkRFF97qccdIYw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:40:34"
+  }
+]

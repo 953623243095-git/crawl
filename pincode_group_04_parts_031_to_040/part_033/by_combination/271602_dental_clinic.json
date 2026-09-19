@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Padma Dental Hospital",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "271602",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "65RJ+F45 CHC, Gonda - Utraula Rd, infront of, Mankapur, Bhourha Pure Ganga, Uttar Pradesh 271602",
+    "area": "infront of",
+    "latitude": 27.2411432,
+    "longitude": 82.1803468,
+    "place_id": "ChIJeegcIbfhmTkR6TQBtLhwm90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeegcIbfhmTkR6TQBtLhwm90",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:43:15"
+  },
+  {
+    "business_name": "Ram Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "271602",
+    "phone_number": "+91 90826 37731",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Baba Ganj Road, Gonda, Madh Nagar, Uttar Pradesh 271602",
+    "area": "271602",
+    "latitude": 27.272644399999997,
+    "longitude": 82.1313052,
+    "place_id": "ChIJoQwzRVDhmTkR-sSNoYbiJx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoQwzRVDhmTkR-sSNoYbiJx0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:43:15"
+  }
+]

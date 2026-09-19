@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shakeel Cosmetic Center",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "271824",
+    "phone_number": "+91 89568 77843",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bahraich, Mahsi, Uttar Pradesh 271824",
+    "area": "271824",
+    "latitude": 27.6527271,
+    "longitude": 81.37579389999999,
+    "place_id": "ChIJazh2OxIDmTkRx3X8hqwNsXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJazh2OxIDmTkRx3X8hqwNsXU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:04:13"
+  },
+  {
+    "business_name": "Juber cosmetic and chudi centre",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "271824",
+    "phone_number": "+91 96288 03066",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jokaha, Dewara, Uttar Pradesh 271875",
+    "area": "271824",
+    "latitude": 27.8139163,
+    "longitude": 81.6606638,
+    "place_id": "ChIJ6cXOKABRmDkRL-z44QQ_8Ro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6cXOKABRmDkRL-z44QQ_8Ro",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:04:15"
+  }
+]

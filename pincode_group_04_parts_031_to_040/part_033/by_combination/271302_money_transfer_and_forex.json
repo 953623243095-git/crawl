@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SBI Branch Mankapur",
+    "search_category": "Money Transfer and Forex",
+    "primary_category": "Bank",
+    "all_categories": "Bank",
+    "pincode": "271302",
+    "phone_number": "+91 1800 1234",
+    "website": "https://bank.sbi/",
+    "rating": 4.1,
+    "reviews_count": 11,
+    "address": "Station Road, Mankapur, Uttar Pradesh 271302",
+    "area": "271302",
+    "latitude": 27.0411422,
+    "longitude": 82.22683359999999,
+    "place_id": "ChIJO0V0-PpVlzkRL6pNmeXk1rE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO0V0-PpVlzkRL6pNmeXk1rE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:09:57"
+  },
+  {
+    "business_name": "BALAJI TRAVELS AND MONEY TRANSFER, RANGER SAHEB HOUSE",
+    "search_category": "Money Transfer and Forex",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "271302",
+    "phone_number": "+91 5265 232 243",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Ranger Saheb's house,Vill. & post Sadullanagar, near police station, Rehra road, SH 1A, Uttar Pradesh 271307",
+    "area": "271302",
+    "latitude": 27.104235199999998,
+    "longitude": 82.3819699,
+    "place_id": "ChIJpzgcvtNRlzkRtLs2Md6e6f4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpzgcvtNRlzkRtLs2Md6e6f4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:10:00"
+  }
+]

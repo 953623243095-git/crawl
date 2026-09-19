@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SPS Cold Storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "271804",
+    "phone_number": "+91 70552 12211",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "6V6J+RQR, Dannahar, Uttar Pradesh 205121",
+    "area": "271804",
+    "latitude": 27.212119599999998,
+    "longitude": 78.8819053,
+    "place_id": "ChIJEftulzK6dTkRmDWHyli4Fh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEftulzK6dTkRmDWHyli4Fh0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:57:53"
+  },
+  {
+    "business_name": "Cold Beer Shop",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Beer store",
+    "all_categories": "Beer store",
+    "pincode": "271804",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Western railway crossing, Aala Hazrat Rd, Maila Barganwa, Uttar Pradesh 271875",
+    "area": "271804",
+    "latitude": 27.690483699999998,
+    "longitude": 81.60488509999999,
+    "place_id": "ChIJm5g6_E1TmDkRR3jGuIvD-vU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm5g6_E1TmDkRR3jGuIvD-vU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:57:53"
+  }
+]

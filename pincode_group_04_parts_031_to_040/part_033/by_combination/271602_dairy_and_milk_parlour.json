@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anand Sagar Dairy And Paneer Bhandar",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store, Dairy farm",
+    "pincode": "271602",
+    "phone_number": "+91 63863 47117",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Station Road, Veer Pur, Gonda, Uttar Pradesh 271002",
+    "area": "Veer Pur",
+    "latitude": 27.146648199999998,
+    "longitude": 81.96560769999999,
+    "place_id": "ChIJXaLRFLzvmTkRHN0tujSLsVE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXaLRFLzvmTkRHN0tujSLsVE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:42:52"
+  },
+  {
+    "business_name": "Devraj singh milk dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy farm",
+    "all_categories": "Dairy farm",
+    "pincode": "271602",
+    "phone_number": "+91 97204 88201",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dhantoli road, near Dhantoli pulia, Jhanjhari Block, Gonda, Uttar Pradesh 271003",
+    "area": "Jhanjhari Block",
+    "latitude": 27.1339874,
+    "longitude": 81.9618979,
+    "place_id": "ChIJg_IwC-LvmTkR5gtueXlcgJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg_IwC-LvmTkR5gtueXlcgJg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:42:52"
+  }
+]

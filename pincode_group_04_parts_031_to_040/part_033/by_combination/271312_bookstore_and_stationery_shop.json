@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naman Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Internet cafe, Pen store",
+    "pincode": "271312",
+    "phone_number": "+91 73097 22899",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Hospital Chauraha, near Haathi Park, Raebareli, Uttar Pradesh 229001",
+    "area": "Rafi Nagar, Nirala Nagar",
+    "latitude": 26.223402999999998,
+    "longitude": 81.2400103,
+    "place_id": "ChIJ7Y4H8UehmzkRcQAkE0Ll74M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Y4H8UehmzkRcQAkE0Ll74M",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:26:57"
+  },
+  {
+    "business_name": "Srivastava Book Depot & General Store",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "271312",
+    "phone_number": "+91 99184 22677",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Narharpur Road Allipur Bazar, Uttar Pradesh 271312",
+    "area": "271312",
+    "latitude": 27.057766899999997,
+    "longitude": 82.5293803,
+    "place_id": "ChIJcWsorUtLlzkR5T7fAo1_PpM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcWsorUtLlzkR5T7fAo1_PpM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:26:57"
+  }
+]

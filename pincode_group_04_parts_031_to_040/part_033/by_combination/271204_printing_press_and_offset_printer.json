@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Printdesk",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop",
+    "pincode": "271204",
+    "phone_number": "+91 98317 48248",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 141,
+    "address": "2nd Floor, 229, AJC Bose Rd, Sreepally, Bhowanipore, Kolkata, West Bengal 700020",
+    "area": "Sreepally, Bhowanipore",
+    "latitude": 22.5408318,
+    "longitude": 88.3544385,
+    "place_id": "ChIJjzeGbhh3AjoR0Zq9JQMu7Pk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjzeGbhh3AjoR0Zq9JQMu7Pk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:55:00"
+  },
+  {
+    "business_name": "printzit",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Digital printer",
+    "all_categories": "Digital printer, Digital printing service",
+    "pincode": "271204",
+    "phone_number": "+91 98315 67027",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 561,
+    "address": "29, RN Mukherjee Rd, Mission Row Extension, Esplanade, Chowringhee North, Bow Barracks, Kolkata, West Bengal 700001",
+    "area": "Mission Row Extension, Esplanade, Chowringhee North, Bow Barracks",
+    "latitude": 22.569901299999998,
+    "longitude": 88.3527065,
+    "place_id": "ChIJh8eoB6Z3AjoR_1hs4xpCXCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh8eoB6Z3AjoR_1hs4xpCXCk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:55:00"
+  }
+]

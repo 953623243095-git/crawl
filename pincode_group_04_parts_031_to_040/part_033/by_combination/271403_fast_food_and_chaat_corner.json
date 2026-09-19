@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raju chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "271403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 26,
+    "address": "QX3M+VR6, CHC Sohawal Rd, Sohawal, Lakhauri, Uttar Pradesh 224188",
+    "area": "271403",
+    "latitude": 26.754672799999998,
+    "longitude": 81.9845172,
+    "place_id": "ChIJ7fLOkAgRmjkR1uEpgNRM_bo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7fLOkAgRmjkR1uEpgNRM_bo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:34:30"
+  },
+  {
+    "business_name": "Saini Chaat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "271403",
+    "phone_number": "+91 97653 77950",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Azad Nagar, Gonda, Uttar Pradesh 271003",
+    "area": "Azad Nagar",
+    "latitude": 27.128390099999997,
+    "longitude": 81.957353,
+    "place_id": "ChIJJ_ytVwPxmTkRsXa19w2tN-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ_ytVwPxmTkRsXa19w2tN-M",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:34:30"
+  }
+]

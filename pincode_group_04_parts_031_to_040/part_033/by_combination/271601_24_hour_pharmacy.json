@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Niteesh Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "271601",
+    "phone_number": "+91 91150 43973",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "01 Kohrahansa Bazar, Faizabad Rd, Gonda, Khorsha, Uttar Pradesh 271123",
+    "area": "271601",
+    "latitude": 27.0759714,
+    "longitude": 82.0342416,
+    "place_id": "ChIJjX3BJDzxmTkRS32CZ8NX4tQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjX3BJDzxmTkRS32CZ8NX4tQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:41:28"
+  },
+  {
+    "business_name": "Life Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "271601",
+    "phone_number": "+91 88876 81036",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Baggiroad, Baggi Rd, Gonda, Uttar Pradesh 271601",
+    "area": "271601",
+    "latitude": 27.1934333,
+    "longitude": 82.0849112,
+    "place_id": "ChIJWSxytEnlmTkRjLRQKE40c6k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWSxytEnlmTkRjLRQKE40c6k",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:41:29"
+  }
+]

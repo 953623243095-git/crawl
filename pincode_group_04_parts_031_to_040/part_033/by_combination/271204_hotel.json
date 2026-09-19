@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aashirwadam Hotel & Resort",
+    "search_category": "Hotel",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "271204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shivdaha Mod, Bahraich - Gonda Rd, Payagpur, Uttar Pradesh 271871",
+    "area": "271204",
+    "latitude": 27.4099574,
+    "longitude": 81.7802461,
+    "place_id": "ChIJn51vZQO5mTkRAllqdc3vMF0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn51vZQO5mTkRAllqdc3vMF0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:54:50"
+  },
+  {
+    "business_name": "Thakur misthan",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "271204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 12,
+    "address": "9XGP+RPF, SH 1A, Khargupur Imilia, Uttar Pradesh 271204",
+    "area": "271204",
+    "latitude": 27.3770547,
+    "longitude": 81.98678699999999,
+    "place_id": "ChIJC5xTqaPDmTkRrALbsxBMLfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC5xTqaPDmTkRrALbsxBMLfE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:54:51"
+  }
+]

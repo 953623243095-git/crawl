@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Oxford Hospitality Service",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter",
+    "pincode": "271203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Circular Rd, near Kanod gate, Raam Bagh Mahalla, Rewari, Kanmajra, Haryana 123401",
+    "area": "Raam Bagh Mahalla",
+    "latitude": 28.2002025,
+    "longitude": 76.61019019999999,
+    "place_id": "ChIJzZDslYZbDTkRLoCYweOtZe4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzZDslYZbDTkRLoCYweOtZe4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:53:16"
+  },
+  {
+    "business_name": "Revenue Xperts Hospitality Consultants",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Marketing consultant",
+    "pincode": "271203",
+    "phone_number": "+91 90799 79709",
+    "website": "https://revenuexperts.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "24, Kala Hanuman Rd, Kailashpuri, Ramgarhmode, Parasrampuri, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302002",
+    "area": "Kailashpuri, Ramgarhmode, Parasrampuri",
+    "latitude": 26.9493819,
+    "longitude": 75.8385076,
+    "place_id": "ChIJ3dBEpBrcBq4RgC1KTMPMQGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3dBEpBrcBq4RgC1KTMPMQGE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:53:16"
+  }
+]

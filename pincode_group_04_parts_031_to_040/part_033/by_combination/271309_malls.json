@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aditya Traders",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "271309",
+    "phone_number": "+91 96481 03044",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W23W+XC9, Durjanpur Ghat, Uttar Pradesh 271309",
+    "area": "271309",
+    "latitude": 26.9049107,
+    "longitude": 82.04610819999999,
+    "place_id": "ChIJtdLV1dUCmjkRvj_QegJLZvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtdLV1dUCmjkRvj_QegJLZvk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:22:15"
+  },
+  {
+    "business_name": "Aryan Sengar Shop",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "271309",
+    "phone_number": "+91 70526 26462",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "sarkari hospital, Pipari, Durjanpur Ghat, Uttar Pradesh 271309",
+    "area": "271309",
+    "latitude": 26.898720299999997,
+    "longitude": 82.0576827,
+    "place_id": "ChIJa6WTNyEDmjkRq4YOypRMqpo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa6WTNyEDmjkRq4YOypRMqpo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:22:15"
+  }
+]

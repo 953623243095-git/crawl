@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M S Enterprises",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "271209",
+    "phone_number": "+91 74003 89922",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Aryanagar Bajar, Bahraich Road, aryanagar, Gonda, Phrenda Shukul, Uttar Pradesh 271122",
+    "area": "aryanagar",
+    "latitude": 27.2719831,
+    "longitude": 81.94865539999999,
+    "place_id": "ChIJFwhQnHTrmTkRTGhkZqnjLTA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFwhQnHTrmTkRTGhkZqnjLTA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:02:53"
+  },
+  {
+    "business_name": "Spa Story",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Beauty Products Wholesaler",
+    "all_categories": "Beauty Products Wholesaler",
+    "pincode": "271209",
+    "phone_number": "+91 96388 12340",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "C-727, SIDDHI VINAYAK TOWER, near Kataria Arcade, Makarba, Ahmedabad, Gujarat 380051",
+    "area": "Makarba",
+    "latitude": 22.9940283,
+    "longitude": 72.4992156,
+    "place_id": "ChIJxRwsuxibXjkRr4XUuovLMmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxRwsuxibXjkRr4XUuovLMmg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:02:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivam Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "271310",
+    "phone_number": "+91 63920 29093",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khargupur, Uttar Pradesh 271204",
+    "area": "271310",
+    "latitude": 27.3751675,
+    "longitude": 81.9900992,
+    "place_id": "ChIJ48u0lUDDmTkRNuu6msIo8QE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ48u0lUDDmTkRNuu6msIo8QE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:22:37"
+  },
+  {
+    "business_name": "SK Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Costume jewelry shop",
+    "all_categories": "Costume jewelry shop",
+    "pincode": "271310",
+    "phone_number": "+91 89319 58887",
+    "website": "https://www.skjewellery.com/",
+    "rating": 3.2,
+    "reviews_count": 5,
+    "address": "4XJG+R9F, Bahraich - Gonda - Faizabad Marg, Khaira, Gonda, Uttar Pradesh 271003",
+    "area": "Khaira",
+    "latitude": 27.132060799999998,
+    "longitude": 81.975934,
+    "place_id": "ChIJOVe2-d_xmTkROAJ85N87XoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOVe2-d_xmTkROAJ85N87XoA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:22:39"
+  }
+]

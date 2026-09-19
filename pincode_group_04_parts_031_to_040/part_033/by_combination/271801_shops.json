@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "(Bijli Ghar) Electrical & Electronics Shop Bahraich",
+    "search_category": "Shops",
+    "primary_category": "Appliance store",
+    "all_categories": "Appliance store",
+    "pincode": "271801",
+    "phone_number": "+91 94523 00001",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Raipur Raja, shop no 01 Paras complex, hospital road, Sakha, Bahraich, Uttar Pradesh 271801",
+    "area": "Sakha",
+    "latitude": 27.566037299999998,
+    "longitude": 81.608871,
+    "place_id": "ChIJMR2JRwCpmTkRVBZc7gfWg5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMR2JRwCpmTkRVBZc7gfWg5w",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:52:53"
+  },
+  {
+    "business_name": "GEETA SHOP",
+    "search_category": "Shops",
+    "primary_category": "Tobacco shop",
+    "all_categories": "Tobacco shop",
+    "pincode": "271801",
+    "phone_number": "+91 97922 59375",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 17,
+    "address": "Patanjali Store, Road, Brahmnipura, Bahraich, Uttar Pradesh 271801",
+    "area": "Brahmnipura",
+    "latitude": 27.570633299999997,
+    "longitude": 81.6001677,
+    "place_id": "ChIJhVklNzqpmTkRTEKiwVSJgwc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhVklNzqpmTkRTEKiwVSJgwc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:52:55"
+  }
+]

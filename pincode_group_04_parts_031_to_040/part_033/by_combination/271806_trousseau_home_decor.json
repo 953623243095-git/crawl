@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fresh Knots",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Artificial plant supplier, Dried flower shop, Event planner, Flower delivery, Flower designer, Garden center, Store, Wedding planner",
+    "pincode": "271806",
+    "phone_number": "+91 86180 26954",
+    "website": "http://www.freshknots.in/",
+    "rating": 4.9,
+    "reviews_count": 2028,
+    "address": "Ground Floor, L149/A, 5th Main Rd, Sector 6, HSR Layout, Bengaluru, Karnataka 560102",
+    "area": "Sector 6, HSR Layout",
+    "latitude": 12.9153694,
+    "longitude": 77.63214479999999,
+    "place_id": "ChIJH2FznpIUrjsR1T4CHeJFpvQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH2FznpIUrjsR1T4CHeJFpvQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:00:53"
+  },
+  {
+    "business_name": "Elite decor",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Bedding store",
+    "all_categories": "Bedding store",
+    "pincode": "271806",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "276, Abdul Rehman St, above Islami Hotel, Masjid West, Lohar Chawl, Kalbadevi, Mumbai, Maharashtra 400002",
+    "area": "Masjid West, Lohar Chawl, Kalbadevi",
+    "latitude": 18.9491257,
+    "longitude": 72.8332046,
+    "place_id": "ChIJuQcskAPP5zsROUWyPj5tmg0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuQcskAPP5zsROUWyPj5tmg0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:00:54"
+  }
+]

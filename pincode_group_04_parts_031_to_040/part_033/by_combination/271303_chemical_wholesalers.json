@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Super chem industry",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Industrial chemicals wholesaler",
+    "all_categories": "Industrial chemicals wholesaler, Service establishment",
+    "pincode": "271303",
+    "phone_number": "+91 94511 06993",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Super chem industry, 271303, India",
+    "area": "271303",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJDeDTqS63KoIRWFeLQdkialM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDeDTqS63KoIRWFeLQdkialM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:11:52"
+  },
+  {
+    "business_name": "Abhinav agencies",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler",
+    "pincode": "271303",
+    "phone_number": "+91 94501 50163",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ram Nagar, Ayodhya, Faizabad, Uttar Pradesh 224001",
+    "area": "Ram Nagar",
+    "latitude": 26.792092099999998,
+    "longitude": 82.1998622,
+    "place_id": "ChIJd9ocFGsHmjkRotj7how6_ik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd9ocFGsHmjkRotj7how6_ik",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:11:52"
+  }
+]

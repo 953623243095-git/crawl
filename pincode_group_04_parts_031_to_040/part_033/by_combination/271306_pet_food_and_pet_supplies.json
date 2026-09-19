@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vivek Vikash Bartan Bhandar",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "271306",
+    "phone_number": "+91 73172 96828",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "57MG 4M8, Rehra Bazar, Gonda, Kusbhaura, Uttar Pradesh 271603",
+    "area": "Rehra Bazar",
+    "latitude": 27.18254,
+    "longitude": 82.27387999999999,
+    "place_id": "ChIJ6a0Tq1pZlzkRpKQwt9AI284",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6a0Tq1pZlzkRpKQwt9AI284",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:15:40"
+  },
+  {
+    "business_name": "Yash Pet Care",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "271306",
+    "phone_number": "+91 94577 36555",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Mini Bypass, Rampur Rd, near Nirmal resort, Karamchari Nagar, Bareilly, Uttar Pradesh 243122",
+    "area": "near Nirmal resort, Karamchari Nagar",
+    "latitude": 28.3876098,
+    "longitude": 79.4056952,
+    "place_id": "ChIJCeSFxh0HoDkRcI8X-aYzftM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCeSFxh0HoDkRcI8X-aYzftM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:15:42"
+  }
+]

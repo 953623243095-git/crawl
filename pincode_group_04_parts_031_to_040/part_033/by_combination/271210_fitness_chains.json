@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Muscle Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Fitness center",
+    "pincode": "271210",
+    "phone_number": "+91 96517 86786",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 658,
+    "address": "2/6, Aravali Marg, Block C, Indira Nagar, Lucknow, Uttar Pradesh 226016",
+    "area": "Block C, Indira Nagar",
+    "latitude": 26.876548099999997,
+    "longitude": 80.9899451,
+    "place_id": "ChIJsyz4AK3imzkRlKm04mphBQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsyz4AK3imzkRlKm04mphBQQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:04:09"
+  },
+  {
+    "business_name": "Plus Fitness 24/7 Mazgaon",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center, Gym, Personal trainer, Physical fitness program, Women's personal trainer",
+    "pincode": "271210",
+    "phone_number": "+91 99675 19577",
+    "website": "https://www.plusfitness.co.in/gyms/mazgaon/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Plot - 10B, Dr Mascarenhas Rd, Anjirwadi, Thakkar Estate, Mazgaon, Mumbai, Maharashtra 400010",
+    "area": "Anjirwadi, Thakkar Estate, Mazgaon",
+    "latitude": 18.9735755,
+    "longitude": 72.8416873,
+    "place_id": "ChIJM27-EA7P5zsRLXDTDzKun88",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM27-EA7P5zsRLXDTDzKun88",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:04:10"
+  }
+]

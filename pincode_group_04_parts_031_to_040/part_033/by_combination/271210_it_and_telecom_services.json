@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "271210",
+    "phone_number": "N/A",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gainsari, Uttar Pradesh 271210",
+    "area": "271210",
+    "latitude": 27.5306355,
+    "longitude": 82.5425916,
+    "place_id": "ChIJDwCXEr9tlzkRHRQlAAqyFL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDwCXEr9tlzkRHRQlAAqyFL4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:04:51"
+  },
+  {
+    "business_name": "Umesh Recharge Center and cold drink",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Prepaid SIM card store",
+    "all_categories": "Prepaid SIM card store",
+    "pincode": "271210",
+    "phone_number": "+91 87389 38502",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Main Market Rd, Biskohar, Uttar Pradesh 271215",
+    "area": "271210",
+    "latitude": 27.376040699999997,
+    "longitude": 82.5564263,
+    "place_id": "ChIJdfX9H8pqlzkRh8uxrTQD4rY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdfX9H8pqlzkRh8uxrTQD4rY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:04:53"
+  }
+]

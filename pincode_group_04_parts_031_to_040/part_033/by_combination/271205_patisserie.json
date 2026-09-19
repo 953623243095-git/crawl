@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Turkoliya",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "271205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "FC72+PF, Jaddapur, Uttar Pradesh 271208",
+    "area": "271205",
+    "latitude": 27.4643619,
+    "longitude": 82.4012762,
+    "place_id": "ChIJ0XBbYQBvlzkRrwCI5rirvV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0XBbYQBvlzkRrwCI5rirvV4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:55:37"
+  },
+  {
+    "business_name": "Delhi Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Wholesale bakery",
+    "all_categories": "Wholesale bakery",
+    "pincode": "271205",
+    "phone_number": "N/A",
+    "website": "http://delhibakery.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Bhagotigunj, Balrampur, Uttar Pradesh 271201",
+    "area": "Mohalla Chikni",
+    "latitude": 27.429895799999997,
+    "longitude": 82.1765722,
+    "place_id": "ChIJp_dm1tXYmTkRas_8NrqLacA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp_dm1tXYmTkRas_8NrqLacA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:55:38"
+  }
+]

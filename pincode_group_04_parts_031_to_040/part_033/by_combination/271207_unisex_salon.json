@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Haircraft",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hair salon",
+    "pincode": "271207",
+    "phone_number": "+91 95474 85898",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 195,
+    "address": "89V6+7RF, City Center Mall, Deshbandhu Rd, Munsifdanga, Purulia, West Bengal 723101",
+    "area": "Munsifdanga",
+    "latitude": 23.3431852,
+    "longitude": 86.36204149999999,
+    "place_id": "ChIJU0QcdmGH9jkRfo0w-LFqtxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU0QcdmGH9jkRfo0w-LFqtxc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:59:35"
+  },
+  {
+    "business_name": "Mks family mart & cosmetic center",
+    "search_category": "Unisex Salon",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "271207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near unique interior & light, Balrampur, Uttar Pradesh 271201",
+    "area": "271207",
+    "latitude": 27.4276454,
+    "longitude": 82.18188549999999,
+    "place_id": "ChIJV4BJ0YXZmTkRXn0-jIOcbmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV4BJ0YXZmTkRXn0-jIOcbmg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:59:37"
+  }
+]

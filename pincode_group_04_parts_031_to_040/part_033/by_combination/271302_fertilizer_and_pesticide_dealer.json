@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agri Junction One Stop Shop",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "271302",
+    "phone_number": "+91 98389 49195",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 15,
+    "address": "Basheer Deeh, Agri Junction One Stop Shop Keshav Nagar Grant West, Babjanjot, Baluwa, Uttar Pradesh 271305",
+    "area": "271302",
+    "latitude": 27.0301431,
+    "longitude": 82.4485923,
+    "place_id": "ChIJuVvLZUdNlzkRyU14254T16w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuVvLZUdNlzkRyU14254T16w",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:10:09"
+  },
+  {
+    "business_name": "Kisan Beej bhandar",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Agricultural Seed Store",
+    "all_categories": "Agricultural Seed Store",
+    "pincode": "271302",
+    "phone_number": "+91 70468 85877",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 12,
+    "address": "Sadulla Nagar-Rehra Rd, Sadulla Nager, Patakerpur, Uttar Pradesh 271307",
+    "area": "271302",
+    "latitude": 27.1060207,
+    "longitude": 82.377442,
+    "place_id": "ChIJjTTAmFZRlzkRPnbcLw8O_n8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjTTAmFZRlzkRPnbcLw8O_n8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:10:09"
+  }
+]

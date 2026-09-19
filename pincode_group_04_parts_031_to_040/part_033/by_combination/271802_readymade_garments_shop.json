@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHAUDHARY CLOTH HOUSE",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "271802",
+    "phone_number": "+91 94502 56700",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "near verma ultrasound hospital, chauraha, Brahmnipura, Bahraich, Uttar Pradesh 271801",
+    "area": "chauraha, Brahmnipura",
+    "latitude": 27.571087,
+    "longitude": 81.6033211,
+    "place_id": "ChIJ43LwQk-pmTkRBlist7AQOGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ43LwQk-pmTkRBlist7AQOGg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:53:09"
+  },
+  {
+    "business_name": "9 S Ready-made Garments",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "271802",
+    "phone_number": "+91 88746 80503",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "00, Laxman Nagar, Bahraich, Newaria, Uttar Pradesh 271804",
+    "area": "271802",
+    "latitude": 27.678652999999997,
+    "longitude": 81.8079672,
+    "place_id": "ChIJU5CGmTO1mTkRWkuxka1EVZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU5CGmTO1mTkRWkuxka1EVZU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:53:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pankaj Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "271305",
+    "phone_number": "+91 96480 74830",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "3F75+FPH, Gaura Chawki, Chandpur, Uttar Pradesh 271312",
+    "area": "271305",
+    "latitude": 27.063693599999997,
+    "longitude": 82.4593646,
+    "place_id": "ChIJY8z8AwBNlzkRZVmbEDoodZk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY8z8AwBNlzkRZVmbEDoodZk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:14:11"
+  },
+  {
+    "business_name": "Ramesh Jweller$",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "271305",
+    "phone_number": "+91 98382 37029",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Hathiyagarh, Jalepur, Uttar Pradesh 271305",
+    "area": "271305",
+    "latitude": 27.0529244,
+    "longitude": 82.4066933,
+    "place_id": "ChIJDWlPROZNlzkRFX8fdCVhFMY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDWlPROZNlzkRFX8fdCVhFMY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:14:13"
+  }
+]

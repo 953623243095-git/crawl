@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NIMMI FOOD Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "271609",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "3rd St, Muruganantha Puram, MS Nagar, Last, Tiruppur, Tamil Nadu 641602",
+    "area": "Muruganantha Puram, MS Nagar",
+    "latitude": 11.1311161,
+    "longitude": 77.3472915,
+    "place_id": "ChIJiVHpeN4HqTsRe2f1BXCfGEc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiVHpeN4HqTsRe2f1BXCfGEc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:49:45"
+  },
+  {
+    "business_name": "Dhaya cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant supply store",
+    "all_categories": "Restaurant supply store",
+    "pincode": "271609",
+    "phone_number": "+91 99523 05413",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "248 /183-1, Jai Nagar 4th St, Jai Nagar, Valliammai Nagar, Tiruppur, Tamil Nadu 641606",
+    "area": "Jai Nagar, Valliammai Nagar",
+    "latitude": 11.104259599999999,
+    "longitude": 77.3798183,
+    "place_id": "ChIJlSbjookJqTsR8MEbej3KThg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlSbjookJqTsR8MEbej3KThg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:49:45"
+  }
+]

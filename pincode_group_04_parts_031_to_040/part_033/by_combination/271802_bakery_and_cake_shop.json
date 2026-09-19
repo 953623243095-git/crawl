@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New shankar bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "271802",
+    "phone_number": "+91 95806 55087",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "ground floor, kedia hospital road, Civil Lines Rd, near patanjail mega store, Bahraich, Uttar Pradesh 271801",
+    "area": "Sakha",
+    "latitude": 27.567577399999998,
+    "longitude": 81.6004329,
+    "place_id": "ChIJmeBXSmCpmTkRIQoK7ckHotQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmeBXSmCpmTkRIQoK7ckHotQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:53:02"
+  },
+  {
+    "business_name": "S A Cake Baker S",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "271802",
+    "phone_number": "+91 88877 51510",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Alam Wajirbag, Bahraich, Uttar Pradesh 271801",
+    "area": "271802",
+    "latitude": 27.5789844,
+    "longitude": 81.5955026,
+    "place_id": "ChIJL3NlLK-rmTkRmySzqx3XZ4U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL3NlLK-rmTkRmySzqx3XZ4U",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:53:04"
+  }
+]

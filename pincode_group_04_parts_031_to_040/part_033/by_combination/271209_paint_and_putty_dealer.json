@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PINTU PAINT SHOP",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "271209",
+    "phone_number": "+91 98259 78784",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lbs Chauraha, Veer Pur, Gonda, Uttar Pradesh 271003",
+    "area": "Veer Pur",
+    "latitude": 27.1443887,
+    "longitude": 81.966663,
+    "place_id": "ChIJH6Lx0dTvmTkR6Ove7QKbFCE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH6Lx0dTvmTkR6Ove7QKbFCE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:02:41"
+  },
+  {
+    "business_name": "Tripathi Paints & Hardware",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "271209",
+    "phone_number": "+91 94520 41860",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "01 Pure Shiva Bakhtawar, Jhanjhari Block, Gonda, Uttar Pradesh 271003",
+    "area": "Jhanjhari Block",
+    "latitude": 27.1185714,
+    "longitude": 81.9670123,
+    "place_id": "ChIJ9VFWuO_xmTkRcxLHzYf5fGA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9VFWuO_xmTkRcxLHzYf5fGA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:02:41"
+  }
+]

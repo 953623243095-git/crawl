@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Orbitz Photography Munnar",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Photography service",
+    "all_categories": "Photography service",
+    "pincode": "271209",
+    "phone_number": "+91 90740 92570",
+    "website": "https://orbitzfotography.wixsite.com/orbitz",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Building No. #1350, New Colony, Munnar, Keralam 685612",
+    "area": "New Colony",
+    "latitude": 10.0879476,
+    "longitude": 77.0741656,
+    "place_id": "ChIJNae04MmZBzsRuSDui0e2iU8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNae04MmZBzsRuSDui0e2iU8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:03:01"
+  },
+  {
+    "business_name": "Nabajyoti Camra Studio",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Camera store",
+    "all_categories": "Camera store",
+    "pincode": "271209",
+    "phone_number": "+91 70298 03290",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pant Nagar, Rajapur, Gonda, Uttar Pradesh 271001",
+    "area": "Pant Nagar",
+    "latitude": 27.126765199999998,
+    "longitude": 81.92298079999999,
+    "place_id": "ChIJBV9ZNXfzmTkRbdgMRKQR9Gg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBV9ZNXfzmTkRbdgMRKQR9Gg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:03:01"
+  }
+]

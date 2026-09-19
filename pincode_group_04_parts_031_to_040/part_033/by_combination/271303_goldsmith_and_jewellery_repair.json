@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Payal Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "271303",
+    "phone_number": "+91 98397 57817",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Bazar, Baleshwar Ganj, Achalpur, Uttar Pradesh 271124",
+    "area": "Baleshwar Ganj",
+    "latitude": 26.989102499999998,
+    "longitude": 82.10351659999999,
+    "place_id": "ChIJ9_dgfb75mTkRHXI4BtpOTVo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9_dgfb75mTkRHXI4BtpOTVo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:10:42"
+  },
+  {
+    "business_name": "Akash Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Goldsmith",
+    "pincode": "271303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V47R+MQV, Gola Bazar, Chaudhry Purwa, Nawabganj, Uttar Pradesh 271303",
+    "area": "Chaudhry Purwa",
+    "latitude": 26.864243,
+    "longitude": 82.1419343,
+    "place_id": "ChIJJ0bS5ScBmjkRI-_ODHU25Iw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ0bS5ScBmjkRI-_ODHU25Iw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:10:42"
+  }
+]

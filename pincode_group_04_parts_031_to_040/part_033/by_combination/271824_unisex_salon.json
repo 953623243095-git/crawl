@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRK MEN'S SALOON",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "271824",
+    "phone_number": "+91 88536 03940",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "shop no.2, Wajirbagh, near sise wali masjid, Brahmnipura, Bahraich, Uttar Pradesh 271801",
+    "area": "Brahmnipura",
+    "latitude": 27.5705229,
+    "longitude": 81.59764849999999,
+    "place_id": "ChIJS4NVxYypmTkRMVVgZ4Rfhng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS4NVxYypmTkRMVVgZ4Rfhng",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:04:17"
+  },
+  {
+    "business_name": "Beauty solutions",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "271824",
+    "phone_number": "+91 88743 21868",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "beside M.I Enterprises, Brahmnipura, Bahraich, Uttar Pradesh 271801",
+    "area": "Brahmnipura",
+    "latitude": 27.5719094,
+    "longitude": 81.5932785,
+    "place_id": "ChIJ2bG8QlepmTkR05kIRFmS1io",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2bG8QlepmTkR05kIRFmS1io",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:04:17"
+  }
+]

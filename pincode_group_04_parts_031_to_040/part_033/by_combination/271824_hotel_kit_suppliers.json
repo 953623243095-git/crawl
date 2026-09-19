@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhishek Hotel",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "271824",
+    "phone_number": "+91 73793 69378",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nanpara Bay Pass, RTO Office Rd, Bahraich, Uttar Pradesh 271801",
+    "area": "Bashir Ganj",
+    "latitude": 27.581628799999997,
+    "longitude": 81.58260729999999,
+    "place_id": "ChIJUf8laJGrmTkRLmrHzDx_7lQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUf8laJGrmTkRLmrHzDx_7lQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:04:27"
+  },
+  {
+    "business_name": "Raju Hotel",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "271824",
+    "phone_number": "+91 95696 60570",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Parlemil Parle, Bahraich - Lucknow Rd, Bahraich, Nayamat Pur, Uttar Pradesh 271902",
+    "area": "271824",
+    "latitude": 27.3571271,
+    "longitude": 81.5271817,
+    "place_id": "ChIJq4CM4wuhmTkRz-2i1-N0eBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq4CM4wuhmTkRz-2i1-N0eBU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:04:27"
+  }
+]

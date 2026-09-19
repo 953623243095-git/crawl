@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ZAYAKA FOOD CORNER",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "271207",
+    "phone_number": "+91 99187 81000",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Neel Bagh Palace, Civil Line, Balrampur, Uttar Pradesh 271201",
+    "area": "Civil Line",
+    "latitude": 27.4310789,
+    "longitude": 82.1673426,
+    "place_id": "ChIJLX6K5zjZmTkRrOmpsjDh68o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLX6K5zjZmTkRrOmpsjDh68o",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:58:54"
+  },
+  {
+    "business_name": "Pujara Tandoori Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "271207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 11,
+    "address": "VGG6+XM5, Lamahi, Lumbini Province 22414, Nepal",
+    "area": "Chaulahi",
+    "latitude": 27.877580299999998,
+    "longitude": 82.5103388,
+    "place_id": "ChIJA5q-rSGZlzkRj_ZFVeIev3U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA5q-rSGZlzkRj_ZFVeIev3U",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:58:54"
+  }
+]

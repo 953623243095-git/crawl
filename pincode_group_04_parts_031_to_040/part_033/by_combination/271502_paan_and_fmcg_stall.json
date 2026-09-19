@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tambulam Paan Cafe",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop, Coffee store, Dessert shop, Soft drinks shop",
+    "pincode": "271502",
+    "phone_number": "+91 95650 01947",
+    "website": "http://tambulampaancafe.com/",
+    "rating": 4.7,
+    "reviews_count": 779,
+    "address": "Parag Rd, Sector D1, LDA Colony, Lucknow, Uttar Pradesh 226012",
+    "area": "Sector D1, LDA Colony",
+    "latitude": 26.786988599999997,
+    "longitude": 80.9080492,
+    "place_id": "ChIJX-7b_ED9mzkRXH3_G7mtMHs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX-7b_ED9mzkRXH3_G7mtMHs",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:36:11"
+  },
+  {
+    "business_name": "Netram Moolchand",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop",
+    "pincode": "271502",
+    "phone_number": "+91 73103 50360",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 7740,
+    "address": "259, Netram Chouraha, Purana Katra, Katra, Prayagraj, Uttar Pradesh 211002",
+    "area": "Purana Katra, Katra",
+    "latitude": 25.4647597,
+    "longitude": 81.85216109999999,
+    "place_id": "ChIJLzTN3ZbKmjkRT1O41HrWIdA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLzTN3ZbKmjkRT1O41HrWIdA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:36:11"
+  }
+]

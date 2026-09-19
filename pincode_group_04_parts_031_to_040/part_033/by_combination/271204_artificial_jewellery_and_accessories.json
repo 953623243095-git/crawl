@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kiran Soni Jewellery Store",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "271204",
+    "phone_number": "+91 99362 81092",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gopal Bag Gonda road, road, Gopal Bag, Gonda, Uttar Pradesh 271204",
+    "area": "Gopal Bag",
+    "latitude": 27.303641799999998,
+    "longitude": 81.94546849999999,
+    "place_id": "ChIJeaXa5H_rmTkRlqN46FwJYZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeaXa5H_rmTkRlqN46FwJYZE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:54:12"
+  },
+  {
+    "business_name": "SHIVAM JEWELLERS",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "271204",
+    "phone_number": "+91 75259 77714",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Shivam Jewellers, near NMPT Katra Bazar, Katra, Shravasti, Uttar Pradesh 271805",
+    "area": "Katra",
+    "latitude": 27.5066176,
+    "longitude": 82.0270738,
+    "place_id": "ChIJ1_aJJUnFmTkRSZnPXIcJDOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1_aJJUnFmTkRSZnPXIcJDOI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:54:12"
+  }
+]

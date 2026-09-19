@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Trading Company",
+    "search_category": "Tradeshows",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "271603",
+    "phone_number": "+91 99360 31390",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "HV9W+WF, Janki Nager, Uttar Pradesh 271835",
+    "area": "271603",
+    "latitude": 27.569083,
+    "longitude": 81.8997981,
+    "place_id": "ChIJW0jXyFrJmTkRboziaU54lZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW0jXyFrJmTkRboziaU54lZU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:46:04"
+  },
+  {
+    "business_name": "Hindustan Traders",
+    "search_category": "Tradeshows",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "271603",
+    "phone_number": "+91 90446 02361",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "4XQJ+88C, Chowk bazaar, Uttar Pradesh 271002",
+    "area": "271603",
+    "latitude": 27.138319,
+    "longitude": 81.98075299999999,
+    "place_id": "ChIJE_lC-eLxmTkRAcutHY0RhSU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE_lC-eLxmTkRAcutHY0RhSU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:46:04"
+  }
+]

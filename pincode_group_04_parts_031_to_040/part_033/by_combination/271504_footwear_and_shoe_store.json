@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shameem footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "271504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2QMP+PC5, Balpur Rd, Paraspur, Uttar Pradesh 271504",
+    "area": "271504",
+    "latitude": 27.0342599,
+    "longitude": 81.78610139999999,
+    "place_id": "ChIJcXc05uKNmTkRNRgKPx4tKik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcXc05uKNmTkRNRgKPx4tKik",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:39:45"
+  },
+  {
+    "business_name": "Matloob Shoe Palace",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "271504",
+    "phone_number": "+91 88743 12669",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Paraspur, Uttar Pradesh 271504",
+    "area": "271504",
+    "latitude": 27.0322805,
+    "longitude": 81.7811676,
+    "place_id": "ChIJBXX_xouNmTkRpmw0MYYKEyE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBXX_xouNmTkRpmw0MYYKEyE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:39:45"
+  }
+]

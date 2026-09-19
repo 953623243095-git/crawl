@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Balaji Caterers and Events",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Catering equipment rental service, Catering food and drink supplier, Wedding buffet, Wedding service",
+    "pincode": "271205",
+    "phone_number": "+91 96491 50313",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "42, Sachivalaya Vihar, RIICO Industrial Area, Mansarovar, kanta, Jaipur, Rajasthan 302029",
+    "area": "Sachivalaya Vihar, RIICO Industrial Area, Mansarovar",
+    "latitude": 26.8295519,
+    "longitude": 75.77377539999999,
+    "place_id": "ChIJyxLKZ-e1bTkRGUcNXUlpmR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyxLKZ-e1bTkRGUcNXUlpmR0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:56:27"
+  },
+  {
+    "business_name": "Shree caterers & events",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "271205",
+    "phone_number": "+91 70733 36166",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "Plot no. 111 , narayan vihar vistar , Pratap nagar sector 3, Sanganer, Jaipur, Rajasthan 302033",
+    "area": "Sanganer, Sector 3, Pratap Nagar",
+    "latitude": 26.8085477,
+    "longitude": 75.8007483,
+    "place_id": "ChIJp2OW3rjLbTkR8EK5RyFoZXo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp2OW3rjLbTkR8EK5RyFoZXo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:56:28"
+  }
+]

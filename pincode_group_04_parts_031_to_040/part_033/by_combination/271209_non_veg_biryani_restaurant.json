@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deva Hotel",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "271209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "C55P+R46, Balrampur, Uttar Pradesh 271201",
+    "area": "271209",
+    "latitude": 27.409527399999998,
+    "longitude": 82.1852663,
+    "place_id": "ChIJr3JPol3fmTkROCaSYfaIkwc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr3JPol3fmTkROCaSYfaIkwc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:02:11"
+  },
+  {
+    "business_name": "Sudhir Hotel",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "271209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "C589+R9C, NH 730, Balrampur, Dhusah, Uttar Pradesh 271201",
+    "area": "271209",
+    "latitude": 27.417050099999997,
+    "longitude": 82.16838,
+    "place_id": "ChIJK7iRhtbemTkRaG3IRSBmnZk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK7iRhtbemTkRaG3IRSBmnZk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:02:11"
+  }
+]

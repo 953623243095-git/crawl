@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Home Decoration (Home Decor & Furniture)",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator, Furniture wholesaler, Gift shop, Interior designer",
+    "pincode": "271313",
+    "phone_number": "+91 99828 00091",
+    "website": "http://www.homedecorationsindia.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "First Floor, Shop No. - 2, Shri Gulab Market, 10/17, near Swami Narayan Chauk, Akruti Apartments, Chitrakoot, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "Akruti Apartments, Chitrakoot",
+    "latitude": 26.901689899999997,
+    "longitude": 75.73880419999999,
+    "place_id": "ChIJD_1oXM-1bTkRUR0byaiTrrk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD_1oXM-1bTkRUR0byaiTrrk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:28:31"
+  },
+  {
+    "business_name": "Annu Home Decor Creation",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator, Handicraft",
+    "pincode": "271313",
+    "phone_number": "+91 79769 54140",
+    "website": "https://khareedkedekho.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Salasar vihar-b, Plot no 25, Jaipur, Jaipur Greater (M Corp.) (Part), Rajasthan 302013",
+    "area": "271313",
+    "latitude": 27.051662399999998,
+    "longitude": 75.7365671,
+    "place_id": "ChIJsTBDe0KtbTkRjQa_AVySYqg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsTBDe0KtbTkRjQa_AVySYqg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:28:31"
+  }
+]

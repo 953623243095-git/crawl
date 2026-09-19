@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sameer Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "271504",
+    "phone_number": "+91 84169 05196",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bazaar, Paraspur, Uttar Pradesh 271504",
+    "area": "271504",
+    "latitude": 27.0327065,
+    "longitude": 81.7844226,
+    "place_id": "ChIJK6O6ibmNmTkRwXfML0P24AQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK6O6ibmNmTkRwXfML0P24AQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:39:51"
+  },
+  {
+    "business_name": "Parag Park Sector D Aliganj",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "271504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2QMJ+V2H Roy clinic, Paraspur, Uttar Pradesh 271504",
+    "area": "271504",
+    "latitude": 27.034693899999997,
+    "longitude": 81.7801006,
+    "place_id": "ChIJVXsSPwCNmTkRF4UbFnqZSs4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVXsSPwCNmTkRF4UbFnqZSs4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:39:51"
+  }
+]

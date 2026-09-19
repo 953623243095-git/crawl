@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raza Agency",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "271607",
+    "phone_number": "+91 91251 74782",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "78WR+V3M, hospital road maddeiya more utraula, Major District Road, 18E, Mahdeiya Bazar, Uttar Pradesh 271604",
+    "area": "18E",
+    "latitude": 27.287281,
+    "longitude": 82.3064705,
+    "place_id": "ChIJc8JL86tdlzkRSjdTlaEWNgY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc8JL86tdlzkRSjdTlaEWNgY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:48:31"
+  },
+  {
+    "business_name": "Patel Tour & Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "271607",
+    "phone_number": "+91 80812 84527",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 26,
+    "address": "b6, Shivaji Nagar, Kamta, Lucknow, Rampur Meer, Uttar Pradesh 273207",
+    "area": "Shivaji Nagar, Kamta",
+    "latitude": 27.1941681,
+    "longitude": 83.6288517,
+    "place_id": "ChIJv9jztK3jmzkRyNKIezQ4qHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv9jztK3jmzkRyNKIezQ4qHA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:48:33"
+  }
+]

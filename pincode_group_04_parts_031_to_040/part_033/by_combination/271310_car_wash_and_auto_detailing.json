@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Car Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "271310",
+    "phone_number": "+91 82730 15295",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chowk, Bazar Chowk Bazar, Jhanjhari Block, Gonda, Uttar Pradesh 271001",
+    "area": "Jhanjhari Block",
+    "latitude": 27.1261549,
+    "longitude": 81.960684,
+    "place_id": "ChIJ2-APQG_xmTkRYhrIHJrv6HM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2-APQG_xmTkRYhrIHJrv6HM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:22:53"
+  },
+  {
+    "business_name": "Star car wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "271310",
+    "phone_number": "+91 63061 17657",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Lucknow, to, Sultanpur Rd, Gosainganj, Uttar Pradesh 226501",
+    "area": "271310",
+    "latitude": 26.7692193,
+    "longitude": 81.0960623,
+    "place_id": "ChIJP0_0p3DnmzkRk5fA0B_ppn8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP0_0p3DnmzkRk5fA0B_ppn8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:22:54"
+  }
+]

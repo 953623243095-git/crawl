@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhisha Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "271308",
+    "phone_number": "+91 94238 36868",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "NH17 Nagar Sheka Building, Chauri, Canacona, Goa 403702",
+    "area": "271308",
+    "latitude": 15.0069486,
+    "longitude": 74.0476834,
+    "place_id": "ChIJVVVVVcBavjsR7zN4wA6x_k8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVcBavjsR7zN4wA6x_k8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:19:18"
+  },
+  {
+    "business_name": "Planet Fashion",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "271308",
+    "phone_number": "+91 77324 02889",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Rikabganj, Faizabad, Uttar Pradesh 224001",
+    "area": "Rikabganj",
+    "latitude": 26.778491499999998,
+    "longitude": 82.1384746,
+    "place_id": "ChIJ4-sQVAUGmjkRcqwL5-m6UNQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4-sQVAUGmjkRcqwL5-m6UNQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:19:19"
+  }
+]

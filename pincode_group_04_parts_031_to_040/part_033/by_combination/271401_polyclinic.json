@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SADGURU POLY CLINIC",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "271401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2R2R+2WQ, MDR-46C, Deharas, Mohana, Uttar Pradesh 271504",
+    "area": "271401",
+    "latitude": 27.000078499999997,
+    "longitude": 81.8423504,
+    "place_id": "ChIJBZgaQxaLmTkReggNHuVRkYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBZgaQxaLmTkReggNHuVRkYE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:31:21"
+  },
+  {
+    "business_name": "helth plus poly clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "271401",
+    "phone_number": "+91 95808 19078",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "taranganj rd, Pakari, Uttar Pradesh 271403",
+    "area": "271401",
+    "latitude": 26.879697699999998,
+    "longitude": 81.95961009999999,
+    "place_id": "ChIJTftlVbYdmjkR8oMOOLOqJbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTftlVbYdmjkR8oMOOLOqJbM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:31:21"
+  }
+]

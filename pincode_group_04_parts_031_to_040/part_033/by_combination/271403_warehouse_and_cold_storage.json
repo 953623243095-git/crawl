@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.K. Cold Storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "271403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 33,
+    "address": "Nera, Uttar Pradesh 209727",
+    "area": "271403",
+    "latitude": 26.9681379,
+    "longitude": 79.9254751,
+    "place_id": "ChIJaelpg5t6njkRfPE9pB0uXak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaelpg5t6njkRfPE9pB0uXak",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:35:54"
+  },
+  {
+    "business_name": "Vishwakarma Cold drink store",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "271403",
+    "phone_number": "+91 72754 45631",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhabha chauraha, Bhabha Chauraha, Uttar Pradesh 224127",
+    "area": "271403",
+    "latitude": 26.7136966,
+    "longitude": 82.089079,
+    "place_id": "ChIJtZ4QueIPmjkRkLE8I-mEJoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtZ4QueIPmjkRkLE8I-mEJoA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:35:54"
+  }
+]

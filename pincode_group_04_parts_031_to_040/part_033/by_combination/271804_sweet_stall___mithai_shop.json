@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiva sweets house",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "271804",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HJM3+WX8, Dargah Shareef Rd, Bakshi Pura, Bahraich, Uttar Pradesh 271801",
+    "area": "Bakshi Pura",
+    "latitude": 27.5847867,
+    "longitude": 81.604957,
+    "place_id": "ChIJe4y9FwCtmTkRZLzv_E_EEjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe4y9FwCtmTkRZLzv_E_EEjI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:56:30"
+  },
+  {
+    "business_name": "Vishwas Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Chinese restaurant, South Indian restaurant",
+    "pincode": "271804",
+    "phone_number": "+91 88536 08585",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "60 Feet Rd, Sultanpur Village, Jankipuram, Lucknow, Uttar Pradesh 226031",
+    "area": "Sultanpur Village, Jankipuram",
+    "latitude": 26.9265214,
+    "longitude": 80.94299749999999,
+    "place_id": "ChIJw_T-1KpXmTkR7rftXNMJxQY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw_T-1KpXmTkR7rftXNMJxQY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:56:32"
+  }
+]

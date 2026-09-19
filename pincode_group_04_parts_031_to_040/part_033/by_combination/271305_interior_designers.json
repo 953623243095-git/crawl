@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandan Home Style",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "271305",
+    "phone_number": "+91 74600 02282",
+    "website": "https://www.chandanhomestyle.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sadullah Nagar Road, near Indian Bank, Gaura Chawki, Pipra Adaee, Uttar Pradesh 271312",
+    "area": "271305",
+    "latitude": 27.0789372,
+    "longitude": 82.4556872,
+    "place_id": "ChIJ37g4islPlzkR9iWthpY9Ma8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ37g4islPlzkR9iWthpY9Ma8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:14:41"
+  },
+  {
+    "business_name": "Sandeep Jaiswal youber",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "271305",
+    "phone_number": "+91 70817 01672",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Narharpur, Uttar Pradesh 271312",
+    "area": "271305",
+    "latitude": 27.054434699999998,
+    "longitude": 82.5267009,
+    "place_id": "ChIJz9vO63lLlzkRP0z3ewhyFw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz9vO63lLlzkRP0z3ewhyFw4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:14:41"
+  }
+]

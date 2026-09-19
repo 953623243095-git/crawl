@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Power Zone Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "271206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 23,
+    "address": "GQ2V+Q5J, bus stop, Krishnanagar, Nepal",
+    "area": "271206",
+    "latitude": 27.5019748,
+    "longitude": 82.7928992,
+    "place_id": "ChIJl5ueIU8blzkRpqrX_46tXE4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl5ueIU8blzkRpqrX_46tXE4",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:57:36"
+  },
+  {
+    "business_name": "M.S. HEALTH CENTER",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "271206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Judikuiyan Chauraha, Pachpedwa, Bishunpur Tantanwa, Uttar Pradesh 271206",
+    "area": "271206",
+    "latitude": 27.523793299999998,
+    "longitude": 82.6573908,
+    "place_id": "ChIJAwi8RPIRlzkRaNoGai_eeAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAwi8RPIRlzkRaNoGai_eeAc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:57:36"
+  }
+]

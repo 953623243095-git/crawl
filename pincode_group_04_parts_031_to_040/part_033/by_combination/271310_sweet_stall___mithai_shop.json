@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "271310",
+    "phone_number": "+91 73766 21529",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "in front of BAJAJ SUGER MILL GATE, KUNDRURKHI, Gonda, Ghachpara Mutawali, Uttar Pradesh 271310",
+    "area": "KUNDRURKHI",
+    "latitude": 27.0808054,
+    "longitude": 82.080108,
+    "place_id": "ChIJldPESXf7mTkRo6mllCaLUXI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJldPESXf7mTkRo6mllCaLUXI",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:22:25"
+  },
+  {
+    "business_name": "Sandeep Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Dessert shop",
+    "all_categories": "Dessert shop",
+    "pincode": "271310",
+    "phone_number": "+91 63602 46433",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "00, Chavani Sarkar, Gonda, Uttar Pradesh 271003",
+    "area": "271310",
+    "latitude": 27.1156857,
+    "longitude": 81.9470429,
+    "place_id": "ChIJO3SF9-jzmTkRfW1cxz-S_Lw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO3SF9-jzmTkRfW1cxz-S_Lw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:22:28"
+  }
+]

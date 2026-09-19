@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rayeeni Fish Shop",
+    "search_category": "Fish Market",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "271215",
+    "phone_number": "+91 72338 88008",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pachperwa, Barahi, Uttar Pradesh 272201",
+    "area": "271215",
+    "latitude": 27.408626599999998,
+    "longitude": 82.7753232,
+    "place_id": "ChIJ2VrU4bgZlzkRC25ipMa6Exw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2VrU4bgZlzkRC25ipMa6Exw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:05:23"
+  },
+  {
+    "business_name": "Faizan Machinery & Aquaculture",
+    "search_category": "Fish Market",
+    "primary_category": "Fishery",
+    "all_categories": "Fishery, Aquaculture farm, Animal feed store, Market",
+    "pincode": "271215",
+    "phone_number": "+91 98392 80238",
+    "website": "https://faizanaquaculture.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Barhni Rd, Itwa, Uttar Pradesh 272192",
+    "area": "271215",
+    "latitude": 27.3370654,
+    "longitude": 82.6999175,
+    "place_id": "ChIJ0V3P4HI9lzkR8XfPXDjqQJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0V3P4HI9lzkR8XfPXDjqQJA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:05:25"
+  }
+]

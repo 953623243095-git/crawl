@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HDFC Bank",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Bank",
+    "all_categories": "Bank",
+    "pincode": "271201",
+    "phone_number": "+91 1800 1601",
+    "website": "https://www.hdfc.bank.in/branch-locator/chhattisgarh/balrampur/hdfcbank-branch-balrampur",
+    "rating": 4.5,
+    "reviews_count": 79,
+    "address": "Janki Vallabh Complex, Veer Vinay Crossing, Mohalla Chikni, Alijanpurva, Balrampur, Uttar Pradesh 271201",
+    "area": "Mohalla Chikni, Alijanpurva",
+    "latitude": 27.4301134,
+    "longitude": 82.1799882,
+    "place_id": "ChIJ-yfa5-hClzkR1Sffu9Zkn6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-yfa5-hClzkR1Sffu9Zkn6E",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:50:08"
+  },
+  {
+    "business_name": "Punjab National Bank",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Public Sector Bank",
+    "all_categories": "Public Sector Bank",
+    "pincode": "271201",
+    "phone_number": "+91 1800 1800",
+    "website": "https://locate.pnb.bank.in/punjab-national-bank-balrampur-banks-balrampur-balrampur-507961/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 2.8,
+    "reviews_count": 46,
+    "address": "Ground Floor, 4/55, Tulsipur Rd, Motisagar, Balrampur, Uttar Pradesh 271201",
+    "area": "Motisagar",
+    "latitude": 27.4317398,
+    "longitude": 82.18327769999999,
+    "place_id": "ChIJdYdkP87YmTkRZU3pW8lAlV8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdYdkP87YmTkRZU3pW8lAlV8",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:50:09"
+  }
+]

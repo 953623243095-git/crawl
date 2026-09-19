@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal car care",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "271202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "573J+8VM, Dehra, Paharsar, Rajasthan 321602",
+    "area": "271202",
+    "latitude": 27.1533269,
+    "longitude": 77.28218059999999,
+    "place_id": "ChIJV4zfa-yzczkRdQ2PT1JYxJs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV4zfa-yzczkRdQ2PT1JYxJs",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:51:04"
+  },
+  {
+    "business_name": "AMBER PETROLEUM",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Petrol Pump",
+    "all_categories": "Petrol Pump",
+    "pincode": "271202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Belawa karamdhee Left Hand Side On Sh Balrampur, Gonda Rd, Gonda, Uttar Pradesh 271209",
+    "area": "271202",
+    "latitude": 27.323351499999998,
+    "longitude": 82.04518929999999,
+    "place_id": "ChIJtRkhLCfdmTkRvDT5Z5zHIoY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtRkhLCfdmTkRvDT5Z5zHIoY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:51:05"
+  }
+]

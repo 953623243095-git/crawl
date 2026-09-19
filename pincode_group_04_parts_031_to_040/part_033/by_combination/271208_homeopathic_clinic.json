@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vandana Homeo Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "271208",
+    "phone_number": "+91 87706 38503",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Chauraha, Barethi, Balrampur, Uttar Pradesh 221505",
+    "area": "Chauraha",
+    "latitude": 25.416783799999997,
+    "longitude": 82.080962,
+    "place_id": "ChIJp_-Bp-NShTkRz51bTfW_lsc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp_-Bp-NShTkRz51bTfW_lsc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:00:44"
+  },
+  {
+    "business_name": "Sanjivani Homeo Hall",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopathic pharmacy",
+    "all_categories": "Homeopathic pharmacy",
+    "pincode": "271208",
+    "phone_number": "+91 99849 19335",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "35RW+MV5, Hafizpur, Azamgarh, Uttar Pradesh 276125",
+    "area": "271208",
+    "latitude": 26.0916332,
+    "longitude": 83.19724099999999,
+    "place_id": "ChIJg4ubzSKjkTkRqvU0ytjWCDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg4ubzSKjkTkRqvU0ytjWCDU",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:00:46"
+  }
+]

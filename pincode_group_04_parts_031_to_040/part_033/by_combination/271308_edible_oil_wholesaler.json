@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harshad Traders",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Store",
+    "all_categories": "Store, Wholesaler",
+    "pincode": "271308",
+    "phone_number": "+91 98258 00147",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "6/4419/0, Zaveri Sadak, opp. Narayan Chambers, Madhumati Colony, Navsari, Gujarat 396445",
+    "area": "Madhumati Colony",
+    "latitude": 20.9557964,
+    "longitude": 72.9304646,
+    "place_id": "ChIJ19rAm7j34DsRgIxjYCjLT2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ19rAm7j34DsRgIxjYCjLT2I",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:19:01"
+  },
+  {
+    "business_name": "Nutan Traders",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "271308",
+    "phone_number": "+91 97257 18799",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "12/85,86,103,Ranitalao, Road, Dabgarwad, Surat, Gujarat 395003",
+    "area": "Dabgarwad, Shahpore, Sayedpura",
+    "latitude": 21.1997346,
+    "longitude": 72.8290786,
+    "place_id": "ChIJ9yR3F6ZP4DsR-56vWHmJo6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9yR3F6ZP4DsR-56vWHmJo6s",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:19:01"
+  }
+]

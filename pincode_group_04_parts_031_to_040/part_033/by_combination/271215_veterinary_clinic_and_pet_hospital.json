@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apollo Vets Healthcare",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "271215",
+    "phone_number": "+91 99902 50011",
+    "website": "http://www.apollovetcare.com/",
+    "rating": 4.5,
+    "reviews_count": 881,
+    "address": "Dda Flat, 477, Carmel Chowk, Pocket 1, Sector 22 Dwarka, Dwarka, Delhi, 110075",
+    "area": "Pocket 1, Sector 22 Dwarka, Dwarka",
+    "latitude": 28.56037,
+    "longitude": 77.06259899999999,
+    "place_id": "ChIJzQ7x7akbDTkRMISB0Ql5bN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzQ7x7akbDTkRMISB0Ql5bN0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:05:49"
+  },
+  {
+    "business_name": "Mercy Pet Care Centre",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Pet store, Animal hospital",
+    "pincode": "271215",
+    "phone_number": "+91 11 4248 1706",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 308,
+    "address": "23/26, Main Market, Nera Pooja Park, East Patel Nagar, New Delhi, Delhi 110008",
+    "area": "Block 18, East Patel Nagar, Patel Nagar",
+    "latitude": 28.645365299999998,
+    "longitude": 77.1744855,
+    "place_id": "ChIJ0y7ABOsCDTkRToaOFCUIH-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0y7ABOsCDTkRToaOFCUIH-I",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:05:49"
+  }
+]

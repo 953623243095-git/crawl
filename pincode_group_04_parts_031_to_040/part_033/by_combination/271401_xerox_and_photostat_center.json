@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Printster.in",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Commercial printer",
+    "all_categories": "Commercial printer, Bookbinder, Digital printer, Digital printing service, E-commerce service, Print shop",
+    "pincode": "271401",
+    "phone_number": "+91 96432 30482",
+    "website": "https://printster.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "1st Floor, School Block, Printster.in, S-548A, School Block, Shakarpur, Delhi, 110092",
+    "area": "School Block, Block S 2, Upadhyay Block, Shakarpur",
+    "latitude": 28.6286383,
+    "longitude": 77.2778067,
+    "place_id": "ChIJq6rq_FPjDDkRubDLON_VxtM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6rq_FPjDDkRubDLON_VxtM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:32:04"
+  },
+  {
+    "business_name": "Kurtarkar Xerox",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Typist",
+    "all_categories": "Typist",
+    "pincode": "271401",
+    "phone_number": "+91 98238 83974",
+    "website": "N/A",
+    "rating": 2.7,
+    "reviews_count": 7,
+    "address": "Gaunekar Building, Dada Vaidya Chowk, Durgabhat, Ponda, Goa 403401",
+    "area": "Durgabhat",
+    "latitude": 15.3994965,
+    "longitude": 74.0049986,
+    "place_id": "ChIJzYV8wpW6vzsRqQxugqpOSIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzYV8wpW6vzsRqQxugqpOSIM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:32:06"
+  }
+]

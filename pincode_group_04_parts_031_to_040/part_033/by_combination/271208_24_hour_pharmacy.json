@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahesh Medicals",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "271208",
+    "phone_number": "+91 98385 88384",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Nutan Marker, Veer Vinay Chowk, Balrampur, Uttar Pradesh 271201",
+    "area": "271208",
+    "latitude": 27.4307028,
+    "longitude": 82.18072599999999,
+    "place_id": "ChIJtbJVH3zZmTkRVGu4lkvojms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtbJVH3zZmTkRVGu4lkvojms",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:00:44"
+  },
+  {
+    "business_name": "Uttam medicals",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "271208",
+    "phone_number": "+91 5263 235 131",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "opposite sabji mandi, Balrampur, Uttar Pradesh 271201",
+    "area": "Narain Market",
+    "latitude": 27.428500399999997,
+    "longitude": 82.18699289999999,
+    "place_id": "ChIJnzz4bczYmTkRUW97GorgBlg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnzz4bczYmTkRUW97GorgBlg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:00:44"
+  }
+]

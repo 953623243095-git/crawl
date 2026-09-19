@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rendoura",
+    "search_category": "Organic Food Store",
+    "primary_category": "Health food store",
+    "all_categories": "Health food store",
+    "pincode": "271301",
+    "phone_number": "N/A",
+    "website": "http://www.asclepiuswellness.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "34W9+57W, Motiganj Rd, Gourwa Kanoongo, Uttar Pradesh 271301",
+    "area": "271301",
+    "latitude": 27.095480799999997,
+    "longitude": 82.11820449999999,
+    "place_id": "ChIJveCDJgD7mTkRCkminx0h2D0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJveCDJgD7mTkRCkminx0h2D0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:07:01"
+  },
+  {
+    "business_name": "Sandeep Chura bhandar",
+    "search_category": "Organic Food Store",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "271301",
+    "phone_number": "+91 87997 07062",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhitaura pipra, Uttar Pradesh 271601",
+    "area": "271301",
+    "latitude": 27.139403299999998,
+    "longitude": 82.0865894,
+    "place_id": "ChIJb7LD3rXlmTkRU-rQQTLm_9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb7LD3rXlmTkRU-rQQTLm_9s",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:07:01"
+  }
+]

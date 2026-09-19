@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "arsh multispeciality hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "271305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2F8J+F98, Babhnan - Khodare - Gaura Chawki Road, Karnupur, Babhnan, Uttar Pradesh 271305",
+    "area": "Karnupur",
+    "latitude": 27.0161716,
+    "longitude": 82.480938,
+    "place_id": "ChIJE3rSBgBLlzkR9WPCNQFQDjw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE3rSBgBLlzkR9WPCNQFQDjw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:14:18"
+  },
+  {
+    "business_name": "Om Multispeciality hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "271305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 4,
+    "address": "WG93+W6F, Pura, Uttar Pradesh 271313",
+    "area": "271305",
+    "latitude": 26.919840999999998,
+    "longitude": 82.502861,
+    "place_id": "ChIJgw0juNK1kDkRhabXT0qSQlA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgw0juNK1kDkRhabXT0qSQlA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:14:19"
+  }
+]

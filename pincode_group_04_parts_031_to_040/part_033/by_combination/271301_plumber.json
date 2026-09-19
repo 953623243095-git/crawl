@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naresh Plumbing Services",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Water Tank Cleaners",
+    "pincode": "271301",
+    "phone_number": "+91 94124 62488",
+    "website": "https://nareshplumbing.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vikash Nagar, Siroli Rd, Dhanauli, Agra, Uttar Pradesh 282001",
+    "area": "Dhanauli",
+    "latitude": 27.1346475,
+    "longitude": 77.9685583,
+    "place_id": "ChIJVdD5OQB3dDkRDc4KxjZRnGk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVdD5OQB3dDkRDc4KxjZRnGk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:07:45"
+  },
+  {
+    "business_name": "Sonu Plumber Services (All Agra, Plumber In Agra, All Agra Services, Onsite Services Available)",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "271301",
+    "phone_number": "+91 63969 46640",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Durga Devi School, Bharat Gas Godam Siroli Road, ke pass, Dhanauli, Agra, Uttar Pradesh 282001",
+    "area": "Dhanauli",
+    "latitude": 27.1343568,
+    "longitude": 77.9690257,
+    "place_id": "ChIJHzPYbIN3dDkRU8BgVW0mAyg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHzPYbIN3dDkRU8BgVW0mAyg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:07:45"
+  }
+]

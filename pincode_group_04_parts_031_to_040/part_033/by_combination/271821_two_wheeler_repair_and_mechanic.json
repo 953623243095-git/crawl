@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hasim Bike Repair",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "271821",
+    "phone_number": "+91 80908 95350",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhagadwa Bazar, Bahraich Bagadwa Bazar Road, Bahraich, Adilpur, Uttar Pradesh 271872",
+    "area": "271821",
+    "latitude": 27.2744409,
+    "longitude": 81.6920178,
+    "place_id": "ChIJDUglXVyXmTkRtaHZqsPtqQY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDUglXVyXmTkRtaHZqsPtqQY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:02:07"
+  },
+  {
+    "business_name": "Ajimullah bike service center",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "271821",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8WW2+QM2, Khanpur Malloh, Uttar Pradesh 271821",
+    "area": "271821",
+    "latitude": 27.3468794,
+    "longitude": 81.9016376,
+    "place_id": "ChIJmUp_DgDBmTkRfFhgOdFNwtQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmUp_DgDBmTkRfFhgOdFNwtQ",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:02:10"
+  }
+]

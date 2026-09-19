@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anas Collection",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "271209",
+    "phone_number": "+91 90054 97195",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhinga Bazar, Uttar Pradesh 271831",
+    "area": "271209",
+    "latitude": 27.7025978,
+    "longitude": 81.9322298,
+    "place_id": "ChIJxzbSHiI1mDkRB9bloms1iOE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxzbSHiI1mDkRB9bloms1iOE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:02:24"
+  },
+  {
+    "business_name": "Lala Bala",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "271209",
+    "phone_number": "+91 93072 58225",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 159,
+    "address": "Plot No 133/3, Block No M, Kidwai Nagar, Kidwai Nagar, Kanpur, Uttar Pradesh 208011",
+    "area": "Kidwai Nagar",
+    "latitude": 26.432859099999998,
+    "longitude": 80.3358946,
+    "place_id": "ChIJMVVViBBHnDkR84r_sxO6fvo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMVVViBBHnDkR84r_sxO6fvo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:02:24"
+  }
+]

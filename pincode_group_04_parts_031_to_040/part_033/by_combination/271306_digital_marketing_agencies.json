@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BrandUp Digital Marketing",
+    "search_category": "Digital Marketing Agencies",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Internet marketing service",
+    "pincode": "271306",
+    "phone_number": "+91 93155 55367",
+    "website": "https://www.brandupdigital.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shop No- 21 , 1st Floor, Millennium Palace, Golf City Rd, Golf City, Sector B Ansal API, Muzaffar Nagar Ghusval, Lucknow, Uttar Pradesh 226030",
+    "area": "Golf City, Sector B Ansal API",
+    "latitude": 26.782322399999998,
+    "longitude": 80.9899519,
+    "place_id": "ChIJCwwO2WflmzkRycpKg46kDWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCwwO2WflmzkRycpKg46kDWo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:17:04"
+  },
+  {
+    "business_name": "Digital Digix",
+    "search_category": "Digital Marketing Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Branding agency, Business management consultant, Business to business service, Internet marketing service, Market researcher, Marketing consultant, Media company, Public relations firm",
+    "pincode": "271306",
+    "phone_number": "+91 87450 02193",
+    "website": "https://digitaldigix.vibepreview.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tower A, ITHUM TOWER, Block A, Industrial Area, Sector 62, Noida, Uttar Pradesh 201309",
+    "area": "Block A, Industrial Area, Sector 62",
+    "latitude": 28.6265695,
+    "longitude": 77.3723229,
+    "place_id": "ChIJgYkuPF_lDDkR2HNGiJo4FLw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgYkuPF_lDDkR2HNGiJo4FLw",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:17:04"
+  }
+]

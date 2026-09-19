@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "केला ठंडे स्टोर",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "271209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "4XJM+68V Naveen fal Mandi, Gonda - Utraula Rd, Gonda, Uttar Pradesh 271002",
+    "area": "271209",
+    "latitude": 27.1306144,
+    "longitude": 81.98330899999999,
+    "place_id": "ChIJYWKm9pDxmTkRNuTYYjtBN0o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYWKm9pDxmTkRNuTYYjtBN0o",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:02:08"
+  },
+  {
+    "business_name": "Aafreen Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "271209",
+    "phone_number": "+91 93398 59121",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mathura Chaubey, Gonda, Uttar Pradesh 271001",
+    "area": "271209",
+    "latitude": 27.1138075,
+    "longitude": 81.9328172,
+    "place_id": "ChIJo6ksw4vzmTkR6Sb0zn1dJeo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo6ksw4vzmTkR6Sb0zn1dJeo",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:02:08"
+  }
+]

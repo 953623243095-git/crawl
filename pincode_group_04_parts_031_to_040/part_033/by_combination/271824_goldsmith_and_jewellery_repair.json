@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry repair service",
+    "all_categories": "Jewelry repair service, Jeweler",
+    "pincode": "271824",
+    "phone_number": "+91 97947 82020",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bilhaur Road, Chaurah, Rasulabad, Uttar Pradesh 209306",
+    "area": "271824",
+    "latitude": 26.6784236,
+    "longitude": 79.778633,
+    "place_id": "ChIJVz16j2PdnTkR-ssKt30J4HA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVz16j2PdnTkR-ssKt30J4HA",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:03:41"
+  },
+  {
+    "business_name": "Raj jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "271824",
+    "phone_number": "+91 73794 99990",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Badnapur Market, Tajawapur, Uttar Pradesh 271825",
+    "area": "271824",
+    "latitude": 27.529358199999997,
+    "longitude": 81.4924336,
+    "place_id": "ChIJrSPwXwsHmTkRlRASCUQMMGM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrSPwXwsHmTkRlRASCUQMMGM",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 08:03:42"
+  }
+]

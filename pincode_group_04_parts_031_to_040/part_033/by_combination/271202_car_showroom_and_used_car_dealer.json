@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Muneejar Parsad",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "271202",
+    "phone_number": "+91 99182 18900",
+    "website": "N/A",
+    "rating": 1.5,
+    "reviews_count": null,
+    "address": "Muneejar Parsad, Bhavanipur Kalan, Uttar Pradesh 271209",
+    "area": "271202",
+    "latitude": 27.3324094,
+    "longitude": 82.0745799,
+    "place_id": "ChIJH9MvZl3dmTkR3VB1bhgTT9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH9MvZl3dmTkR3VB1bhgTT9Q",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:51:03"
+  },
+  {
+    "business_name": "Pawan Auto sales",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "271202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "72XM+57P, Itia Thok, Karuwa Para, Uttar Pradesh 271202",
+    "area": "271202",
+    "latitude": 27.297956,
+    "longitude": 82.0331999,
+    "place_id": "ChIJaa_TZL7pmTkRuys-1mn9TZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaa_TZL7pmTkRuys-1mn9TZc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:51:05"
+  }
+]

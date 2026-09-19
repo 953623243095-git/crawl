@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bipin Medical Store Sangwa",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "271310",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "XFGF+JQP, Gonda, Chuwar, Uttar Pradesh 271313",
+    "area": "271310",
+    "latitude": 26.9765889,
+    "longitude": 82.4744654,
+    "place_id": "ChIJg_5nbqpMlzkRluWUmRuF3Ok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg_5nbqpMlzkRluWUmRuF3Ok",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:22:50"
+  },
+  {
+    "business_name": "BIPIN MEDICAL STORE",
+    "search_category": "Polyclinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "271310",
+    "phone_number": "+91 70635 10173",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Suraj Complex, Shams Nagar, Jhanjhari Block, Gonda, Uttar Pradesh 271003",
+    "area": "Shams Nagar, Jhanjhari Block",
+    "latitude": 27.1222192,
+    "longitude": 81.95427,
+    "place_id": "ChIJu5Lq_MDxmTkRlmckx30Ab2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu5Lq_MDxmTkRlmckx30Ab2U",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:22:50"
+  }
+]

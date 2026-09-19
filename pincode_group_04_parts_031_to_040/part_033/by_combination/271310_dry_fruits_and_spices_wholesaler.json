@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amit Fruits Shop",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "271310",
+    "phone_number": "+91 98750 59632",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "00, Malviya Nagar, Bharatpuri, Gonda, Uttar Pradesh 271003",
+    "area": "Malviya Nagar, Bharatpuri",
+    "latitude": 27.139243,
+    "longitude": 81.9671931,
+    "place_id": "ChIJ0UuQHujvmTkR-YAVbCMNy-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0UuQHujvmTkR-YAVbCMNy-w",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:22:23"
+  },
+  {
+    "business_name": "Satish Fruits Shop",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "271310",
+    "phone_number": "+91 91179 92174",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rani Bazar, Avas Vikas Colony, Rani Bazar, Bharatpuri, Gonda, Uttar Pradesh 271003",
+    "area": "Avas Vikas Colony, Rani Bazar, Bharatpuri",
+    "latitude": 27.139243,
+    "longitude": 81.9671931,
+    "place_id": "ChIJe7KLdsPvmTkRcb2B7BaxeNg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe7KLdsPvmTkRcb2B7BaxeNg",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:22:25"
+  }
+]

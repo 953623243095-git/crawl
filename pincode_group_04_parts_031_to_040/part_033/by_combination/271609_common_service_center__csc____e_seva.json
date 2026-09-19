@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lokendra janseva kendra (csc centre)",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "271609",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CCQW+PWX, Deviya Nagala, Uttar Pradesh 281123",
+    "area": "271609",
+    "latitude": 27.439355799999998,
+    "longitude": 77.4473617,
+    "place_id": "ChIJT5ugWAAJczkRxvg4KW1Lfxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT5ugWAAJczkRxvg4KW1Lfxc",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:50:43"
+  },
+  {
+    "business_name": "CSC Centre (Digital India)",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "271609",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "HQQM+592, Unnamed Road, Pachdewari, Uttar Pradesh 271835",
+    "area": "271609",
+    "latitude": 27.587891499999998,
+    "longitude": 81.7833978,
+    "place_id": "ChIJ5yf84gG0mTkRCQ_YAxsymLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5yf84gG0mTkRCQ_YAxsymLk",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:50:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kasturi Coconut Processing",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company, Manufacturer",
+    "pincode": "271206",
+    "phone_number": "+91 97422 92942",
+    "website": "https://www.kasturicoconuts.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Channapattana, Karnataka 562160",
+    "area": "271206",
+    "latitude": 12.6600212,
+    "longitude": 77.2283228,
+    "place_id": "ChIJi3S_cZJSrjsRLvGAObIem2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi3S_cZJSrjsRLvGAObIem2Q",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:57:09"
+  },
+  {
+    "business_name": "Lavyansh Oil Meal",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "271206",
+    "phone_number": "+91 96718 95905",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Kheri, Rajasthan 301026",
+    "area": "271206",
+    "latitude": 27.5756128,
+    "longitude": 76.8166456,
+    "place_id": "ChIJfdJGLACVcjkRRkWWEldd7R0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfdJGLACVcjkRRkWWEldd7R0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 06:57:10"
+  }
+]

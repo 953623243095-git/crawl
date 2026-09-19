@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SONY CLEANING SERVICES",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services, Pest control service",
+    "pincode": "271307",
+    "phone_number": "+91 99850 35923",
+    "website": "http://www.sonycleaningservices.com/",
+    "rating": 4.9,
+    "reviews_count": 1006,
+    "address": "Sai Chandra colony, KEESARA MANDAL, H.NO.C-3-54, Old Sai Chandra Colony, MALKAJGIRI, Dammaiguda, HYDERABAD, Secunderabad, Telangana 500083",
+    "area": "Old Sai Chandra Colony, MALKAJGIRI, Dammaiguda",
+    "latitude": 17.498853,
+    "longitude": 78.5967999,
+    "place_id": "ChIJv5fFpoidyzsRlopVPkP0jGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv5fFpoidyzsRlopVPkP0jGE",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:18:36"
+  },
+  {
+    "business_name": "Vestige marketing Pvt.Ltd",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "271307",
+    "phone_number": "+91 73798 02545",
+    "website": "http://www.myvestige.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Sadullah Nagar-Chandradeep Rd, Nevada, Uttar Pradesh 271307",
+    "area": "271307",
+    "latitude": 27.103689199999998,
+    "longitude": 82.3884638,
+    "place_id": "ChIJ5x9NtldRlzkR9hMGyrQqIJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5x9NtldRlzkR9hMGyrQqIJY",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:18:39"
+  }
+]

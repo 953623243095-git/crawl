@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhishek General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "271602",
+    "phone_number": "+91 87954 01153",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dhaneypur, Gonda, Uttar Pradesh 271602",
+    "area": "271602",
+    "latitude": 27.2241526,
+    "longitude": 82.1418235,
+    "place_id": "ChIJ7eaiIjTjmTkRAfO43icQD0o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7eaiIjTjmTkRAfO43icQD0o",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:42:50"
+  },
+  {
+    "business_name": "Rahul General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "271602",
+    "phone_number": "+91 87870 48180",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop Number 01 Mujahani Chauraha, ROAD, Datauli, Gonda, Uttar Pradesh 271602",
+    "area": "271602",
+    "latitude": 27.210956099999997,
+    "longitude": 82.1511349,
+    "place_id": "ChIJleRru63jmTkRlYruzEfqgC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJleRru63jmTkRlYruzEfqgC0",
+    "part_id": "part_033",
+    "crawled_at": "2026-09-19 07:42:50"
+  }
+]
