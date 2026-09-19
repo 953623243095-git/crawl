@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aarvi Traders Tonk",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "304801",
+    "phone_number": "+91 99294 56312",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Diet Road, Shiv Nagar, Tonk, Rajasthan 304001",
+    "area": "Shiv Nagar",
+    "latitude": 26.1585301,
+    "longitude": 75.77145039999999,
+    "place_id": "ChIJYVrTSkdhbjkRqiudi28M7KE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYVrTSkdhbjkRqiudi28M7KE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:20:44"
+  },
+  {
+    "business_name": "Maya Building Material- All Raw Building Material in Tonk",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "304801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NH-12, Tonk Road, near I P S Madhyamik Vidyalaya, Dhola Khera, Tonk, Rajasthan 304001",
+    "area": "Dhola Khera",
+    "latitude": 26.167708899999997,
+    "longitude": 75.80597949999999,
+    "place_id": "ChIJoTKfOU1hbjkRJvGUhhmTsdo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoTKfOU1hbjkRJvGUhhmTsdo",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:20:44"
+  }
+]

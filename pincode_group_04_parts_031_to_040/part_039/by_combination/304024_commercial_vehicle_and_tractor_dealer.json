@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JVH Trucking (Ashok Leyland)",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Motor vehicle dealer",
+    "all_categories": "Motor vehicle dealer",
+    "pincode": "304024",
+    "phone_number": "+91 78769 30075",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Balh, Vill Dohandhi, P.O. Nagchala, Teh, Dist, Himachal Pradesh 175021",
+    "area": "304024",
+    "latitude": 31.6317037,
+    "longitude": 76.9406353,
+    "place_id": "ChIJzwwQXSYdBTkRwrf_OcWKWAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzwwQXSYdBTkRwrf_OcWKWAI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:04:33"
+  },
+  {
+    "business_name": "Suraj enterprises",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "304024",
+    "phone_number": "+91 77330 17414",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Duni, Rajasthan 304802",
+    "area": "304024",
+    "latitude": 25.8765739,
+    "longitude": 75.59716159999999,
+    "place_id": "ChIJS2PdA1z7bjkR_5uDXCmwh8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS2PdA1z7bjkR_5uDXCmwh8c",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:04:34"
+  }
+]

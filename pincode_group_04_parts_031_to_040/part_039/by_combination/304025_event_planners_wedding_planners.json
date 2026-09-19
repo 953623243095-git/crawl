@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "WeddingWire India",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Corporate office, Wedding service",
+    "pincode": "304025",
+    "phone_number": "+91 99105 02284",
+    "website": "http://www.weddingwire.in/",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "A, 5th Floor, Global Gateway Towers, Mehrauli-Gurgaon Rd, Sikanderpur, Sector 26, Gurugram, Haryana 122002",
+    "area": "Sikanderpur, Sector 26",
+    "latitude": 28.4811011,
+    "longitude": 77.103749,
+    "place_id": "ChIJdeE0WbQYDTkRgsyWlzjGQCI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdeE0WbQYDTkRgsyWlzjGQCI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:06:45"
+  },
+  {
+    "business_name": "Lilac Moon Events",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Service establishment",
+    "pincode": "304025",
+    "phone_number": "+91 83693 92193",
+    "website": "http://www.lilacmoonevents.in/",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Lilac Moon Events, 304025, India",
+    "area": "304025",
+    "latitude": 18.8274109,
+    "longitude": 73.3973188,
+    "place_id": "ChIJHxMhO8X9H4QR_q0ywUgMcXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHxMhO8X9H4QR_q0ywUgMcXA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:06:45"
+  }
+]

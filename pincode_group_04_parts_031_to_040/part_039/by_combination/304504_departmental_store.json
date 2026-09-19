@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BALAJI DEPARTMENT STORE",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "304504",
+    "phone_number": "+91 98293 04868",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Village Araniya, near by Seetram Ji Mandir, Araniya, Phagi, Mendwas, Rajasthan 303005",
+    "area": "Araniya",
+    "latitude": 26.4978205,
+    "longitude": 75.4550648,
+    "place_id": "ChIJL37jTwonbDkR-bPZTXJrNG4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL37jTwonbDkR-bPZTXJrNG4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:14:36"
+  },
+  {
+    "business_name": "Balaji emitra & departmental store",
+    "search_category": "Departmental Store",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "304504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HHM9+FFX, SH 12, Phagi, Rajasthan 303005",
+    "area": "304504",
+    "latitude": 26.5837486,
+    "longitude": 75.5687188,
+    "place_id": "ChIJxQhs-YsvbDkRD8gNkPTFzoU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxQhs-YsvbDkRD8gNkPTFzoU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:14:39"
+  }
+]

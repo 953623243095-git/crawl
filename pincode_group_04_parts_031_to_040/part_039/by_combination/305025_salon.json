@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MK Salon Hair & Beauty studio",
+    "search_category": "Salon",
+    "primary_category": "Health and beauty shop",
+    "all_categories": "Health and beauty shop",
+    "pincode": "305025",
+    "phone_number": "N/A",
+    "website": "http://www.mksalon.com/",
+    "rating": 4.9,
+    "reviews_count": 8,
+    "address": "Vinayak complex, Shreenagar, Rajasthan 305025",
+    "area": "305025",
+    "latitude": 26.4342516,
+    "longitude": 74.7808723,
+    "place_id": "ChIJg0C4nLXnazkRsAU-Ga9-vEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg0C4nLXnazkRsAU-Ga9-vEg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:50:08"
+  },
+  {
+    "business_name": "Moti Hair Salon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon, Barber shop",
+    "pincode": "305025",
+    "phone_number": "+91 90792 51967",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shop No.1, Ajmer Rd, near Devnarayan Sweets, Choraha, Balwanta, Ajmer, Rajasthan 305025",
+    "area": "Choraha",
+    "latitude": 26.341546299999997,
+    "longitude": 74.7196012,
+    "place_id": "ChIJ0017-ZxYaTkRoUbFdUqa5DQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0017-ZxYaTkRoUbFdUqa5DQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:50:10"
+  }
+]

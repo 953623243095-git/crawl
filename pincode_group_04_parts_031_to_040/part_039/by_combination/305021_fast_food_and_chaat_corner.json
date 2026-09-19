@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taste of Indore",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Restaurant",
+    "pincode": "305021",
+    "phone_number": "+91 84462 37204",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "121, Datta Mandir Rd, Shankar Kalat Nagar, Wakad, Pune, Pimpri-Chinchwad, Maharashtra 411057",
+    "area": "Shankar Kalat Nagar, Wakad",
+    "latitude": 18.5947423,
+    "longitude": 73.763328,
+    "place_id": "ChIJeTCDLSa5wjsR_Z0ZZXJNVzE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeTCDLSa5wjsR_Z0ZZXJNVzE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:42:01"
+  },
+  {
+    "business_name": "Sizzling Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Hamburger restaurant, Sandwich shop",
+    "pincode": "305021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "7JWH+6F3, Kuvempu Nagara, Mysuru, Karnataka 570023",
+    "area": "Kuvempu Nagara",
+    "latitude": 12.2955116,
+    "longitude": 76.628664,
+    "place_id": "ChIJadJXHrJ6rzsR92a2qRSGxew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJadJXHrJ6rzsR92a2qRSGxew",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:42:01"
+  }
+]

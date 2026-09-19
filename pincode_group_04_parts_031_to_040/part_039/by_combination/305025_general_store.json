@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TEJ GENERAL STORES",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "305025",
+    "phone_number": "+91 77268 76671",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Mti Auto Work Shop, k pass Ajmer Road, Ajmer, Badlya, Rajasthan 305025",
+    "area": "305025",
+    "latitude": 26.4423976,
+    "longitude": 74.7170708,
+    "place_id": "ChIJD8NzTFflazkR9Whx9hKq8Qg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD8NzTFflazkR9Whx9hKq8Qg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:49:16"
+  },
+  {
+    "business_name": "Ranjeet General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "305025",
+    "phone_number": "+91 82094 88324",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Main Ganv Badliya Ajmer Main Ganv Badliya, Ajmer, Rajasthan 305025",
+    "area": "305025",
+    "latitude": 26.4417378,
+    "longitude": 74.71739529999999,
+    "place_id": "ChIJlbBNo-PlazkRx0e3fY3WSJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlbBNo-PlazkRx0e3fY3WSJg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:49:16"
+  }
+]

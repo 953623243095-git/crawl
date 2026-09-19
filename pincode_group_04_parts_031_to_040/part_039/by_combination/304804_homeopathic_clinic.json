@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Homeopathic Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "304804",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shakti Nagar, Bathinda, Punjab 151001",
+    "area": "Shakti Nagar",
+    "latitude": 30.223291,
+    "longitude": 74.93618699999999,
+    "place_id": "ChIJbV94LZMyFzkRNtc5BVyxWk8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbV94LZMyFzkRNtc5BVyxWk8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:25:44"
+  },
+  {
+    "business_name": "Sharma Homeopathic Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath, Medical clinic",
+    "pincode": "304804",
+    "phone_number": "+91 94605 08896",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 155,
+    "address": "HN:39,B, block Meera Nagar, Meera Nagar, Bhuwana, Udaipur, Bhuwana, Rajasthan 313001",
+    "area": "Meera Nagar, Bhuwana",
+    "latitude": 24.616152099999997,
+    "longitude": 73.71566399999999,
+    "place_id": "ChIJFcYKfkLlZzkR04eJgjMR-LU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFcYKfkLlZzkR04eJgjMR-LU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:25:44"
+  }
+]

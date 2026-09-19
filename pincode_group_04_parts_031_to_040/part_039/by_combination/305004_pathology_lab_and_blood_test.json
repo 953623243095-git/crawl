@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DRS PATH LAB, AJMER",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Blood testing service",
+    "all_categories": "Blood testing service, Pathologist",
+    "pincode": "305004",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "112, Lohagal Rd, Onkar Nagar, Basant Vihar, Ajmer, Rajasthan 305001",
+    "area": "Onkar Nagar, Basant Vihar",
+    "latitude": 26.479225,
+    "longitude": 74.6435025,
+    "place_id": "ChIJrxG7mvLnazkRJ6hofgdwOiM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrxG7mvLnazkRJ6hofgdwOiM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:33:12"
+  },
+  {
+    "business_name": "zyphra path labs",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Blood testing service",
+    "all_categories": "Blood testing service",
+    "pincode": "305004",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shastri Nagar, Ajmer, Rajasthan 305001",
+    "area": "Shastri Nagar",
+    "latitude": 26.4854722,
+    "longitude": 74.6466306,
+    "place_id": "ChIJVYbI9N3nazkR4ECfR7Exovo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVYbI9N3nazkR4ECfR7Exovo",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:33:15"
+  }
+]

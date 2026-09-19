@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GM Professional Services",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "303905",
+    "phone_number": "+91 86906 44559",
+    "website": "https://gmprofessionalservices.in/",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "GM Professional Services, 303905, India",
+    "area": "303905",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJZdptsuPPfAgRb89bZEGaJRM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZdptsuPPfAgRb89bZEGaJRM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:54:38"
+  },
+  {
+    "business_name": "Devratan Niwas",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant, Apartment building",
+    "pincode": "303905",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Narayan vihar, 141-B, D, Sanganer, Jaipur, Rajasthan 302029",
+    "area": "Sanganer",
+    "latitude": 26.7842944,
+    "longitude": 75.75196849999999,
+    "place_id": "ChIJbZh0wRDLbTkROsytuwtcw6g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbZh0wRDLbTkROsytuwtcw6g",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:54:40"
+  }
+]

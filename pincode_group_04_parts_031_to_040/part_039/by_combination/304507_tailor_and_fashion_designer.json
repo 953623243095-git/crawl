@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "WAHE GURU STORE",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "304507",
+    "phone_number": "+91 70231 82758",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sabji Mandi Rd, near Gandhi Park, Anant's Sweat Colony, Kekri, Rajasthan 305404",
+    "area": "Anant's Sweat Colony",
+    "latitude": 25.973933199999998,
+    "longitude": 75.1547691,
+    "place_id": "ChIJ1W7ISrnHbjkRQ79zswqtYf0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1W7ISrnHbjkRQ79zswqtYf0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:18:26"
+  },
+  {
+    "business_name": "CITIZEN TAILOR",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "304507",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Faridpur Kalan, Bahadurgarh, Punjab 148023",
+    "area": "Faridpur Kalan",
+    "latitude": 30.4821723,
+    "longitude": 75.8255345,
+    "place_id": "ChIJrWJs9PVdEDkRgOgHOZSK4ZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrWJs9PVdEDkRgOgHOZSK4ZY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:18:28"
+  }
+]

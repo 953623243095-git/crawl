@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Shivam Restaurant and Pavitra Bhojnalaya",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "304502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 14,
+    "address": "Partappura, Tonk, SH-12, Malpura Tonk Road, Malpura, Malpura, Rajasthan 304502",
+    "area": "304502",
+    "latitude": 26.2071,
+    "longitude": 75.2618,
+    "place_id": "ChIJ45JnZbC8bjkRHjxujiAFuvI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ45JnZbC8bjkRHjxujiAFuvI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:11:13"
+  },
+  {
+    "business_name": "Masoom Chicken Biryani Centre",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant",
+    "pincode": "304502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "409, Ramner Rd, Gandhi Nagar, Kishangarh, Rajasthan 305801",
+    "area": "Gandhi Nagar",
+    "latitude": 26.5938569,
+    "longitude": 74.8481051,
+    "place_id": "ChIJGyKEuOzxazkRrLQF6Aaiijk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGyKEuOzxazkRrLQF6Aaiijk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:11:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harshita Mall",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "304021",
+    "phone_number": "+91 84409 88419",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "City Toune, 26, Tonk road, Shivaji Colony, Newai, Rajasthan 304021",
+    "area": "Shivaji Colony",
+    "latitude": 26.374537099999998,
+    "longitude": 75.9270535,
+    "place_id": "ChIJcR7gU8VxbjkRHpnLsarJb6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcR7gU8VxbjkRHpnLsarJb6Y",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:58:53"
+  },
+  {
+    "business_name": "Sunilmeena",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "304021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Harkesh gujjar, Siras, Rajasthan 304021",
+    "area": "304021",
+    "latitude": 26.267158,
+    "longitude": 76.0163209,
+    "place_id": "ChIJbaClLHxxbjkRIPdTETOK8io",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbaClLHxxbjkRIPdTETOK8io",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:58:53"
+  }
+]

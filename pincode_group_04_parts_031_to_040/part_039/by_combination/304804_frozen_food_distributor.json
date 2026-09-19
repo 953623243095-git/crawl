@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neelam Company",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier, Bakery equipment, Baking supply store, Cake decorating equipment shop, Frozen dessert supplier, Frozen food store",
+    "pincode": "304804",
+    "phone_number": "+91 78072 04023",
+    "website": "http://www.neelamcompany.com/",
+    "rating": 4.5,
+    "reviews_count": 30,
+    "address": "Hamirpur road near old bus stand, Una, Himachal Pradesh 174303",
+    "area": "304804",
+    "latitude": 31.470141499999997,
+    "longitude": 76.2710197,
+    "place_id": "ChIJW1zG_oHaGjkRHkyQuTIdoRE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW1zG_oHaGjkRHkyQuTIdoRE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:25:25"
+  },
+  {
+    "business_name": "Frozen foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food manufacturer",
+    "all_categories": "Frozen food manufacturer",
+    "pincode": "304804",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7FM3+P2, Budhana Bagar, Uttar Pradesh 251309",
+    "area": "304804",
+    "latitude": 29.284368899999997,
+    "longitude": 77.452525,
+    "place_id": "ChIJK96xJQA5DDkRfN8CUxWREL8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK96xJQA5DDkRfN8CUxWREL8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:25:26"
+  }
+]

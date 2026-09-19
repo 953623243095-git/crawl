@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashish home",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "303905",
+    "phone_number": "+91 76655 00538",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "QR5Q+RRX, Chokhi Dhani, Sukhdeopura Nohara, Shri Ram Ki Nangal, Jaipur, Rajasthan 302022",
+    "area": "Chokhi Dhani, Sukhdeopura Nohara",
+    "latitude": 26.759601099999998,
+    "longitude": 75.8396131,
+    "place_id": "ChIJZzmUMf3JbTkRZ8R9ARIjebE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZzmUMf3JbTkRZ8R9ARIjebE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:53:09"
+  },
+  {
+    "business_name": "देशी मुर्गी फार्म / Desi Murgi Farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "303905",
+    "phone_number": "+91 96679 99499",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "meeno ki dhani, lakhana, Sanganer, Jaipur, Rajasthan 302029",
+    "area": "Sanganer",
+    "latitude": 26.7334151,
+    "longitude": 75.759001,
+    "place_id": "ChIJ48ZPpuPLbTkRuYOv23rDB9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ48ZPpuPLbTkRuYOv23rDB9g",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:53:09"
+  }
+]

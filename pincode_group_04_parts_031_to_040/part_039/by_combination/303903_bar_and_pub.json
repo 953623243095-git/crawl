@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meera",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "303903",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "PV22+2WW, Nanjipura, Rajasthan 303905",
+    "area": "303903",
+    "latitude": 26.7001152,
+    "longitude": 75.8523208,
+    "place_id": "ChIJB7CrKQDPbTkRZVl3X8gtElY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB7CrKQDPbTkRZVl3X8gtElY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:49:22"
+  },
+  {
+    "business_name": "Chaurasia",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "303903",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MRFC+QV, Chakwatka, Titriya, Rajasthan 303905",
+    "area": "303903",
+    "latitude": 26.6744837,
+    "longitude": 75.8221761,
+    "place_id": "ChIJj21FdwDPbTkRgaj7D8hW3Dw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj21FdwDPbTkRgaj7D8hW3Dw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:49:22"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BRAHMAN FOOD PLAZA",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Restaurant",
+    "pincode": "305201",
+    "phone_number": "+91 86907 03056",
+    "website": "https://brahmanfoodplaza.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "NH 68, Ambedkar Colony, Mahaveer Nagar, Barmer, Rajasthan 344001",
+    "area": "Ambedkar Colony, Mahaveer Nagar",
+    "latitude": 25.7573774,
+    "longitude": 71.4149296,
+    "place_id": "ChIJHUr6Jeo7RDkRkriDbGifzoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHUr6Jeo7RDkRkriDbGifzoA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:53:13"
+  },
+  {
+    "business_name": "Brahman lodge",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "305201",
+    "phone_number": "+91 94606 62020",
+    "website": "http://www.brahmanfoodplaza.com/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Station Rd, opp. National Handloom, Kothwali, Barmer, Rajasthan 344001",
+    "area": "Kothwali",
+    "latitude": 25.745781899999997,
+    "longitude": 71.3950388,
+    "place_id": "ChIJ_4VNsLs6RDkRwVNK9rsuAcs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_4VNsLs6RDkRwVNK9rsuAcs",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:53:13"
+  }
+]

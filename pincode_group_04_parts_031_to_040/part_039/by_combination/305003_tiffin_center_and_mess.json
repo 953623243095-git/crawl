@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kukku Tiffin Centre",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "305003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Nathi Sadan, Bhopo Ka Bada, behind Sophia school, Police Lines, Ajmer, Rajasthan 305001",
+    "area": "Police Lines",
+    "latitude": 26.480305299999998,
+    "longitude": 74.6540012,
+    "place_id": "ChIJj0NykTDnazkRG9ppIVgsfAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj0NykTDnazkRG9ppIVgsfAE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:30:57"
+  },
+  {
+    "business_name": "DeepRaj Tiffin Services",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin center",
+    "all_categories": "Tiffin center",
+    "pincode": "305003",
+    "phone_number": "+91 77270 80988",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "railway station, Hariom colony, Madarpura, Ajmer, Rajasthan 305001",
+    "area": "305003",
+    "latitude": 26.458823499999998,
+    "longitude": 74.6841903,
+    "place_id": "ChIJqXFABRPnazkRQcuRktysvQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqXFABRPnazkRQcuRktysvQw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:31:00"
+  }
+]

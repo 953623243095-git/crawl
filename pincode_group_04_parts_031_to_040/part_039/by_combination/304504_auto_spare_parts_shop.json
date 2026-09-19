@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Irshad auto parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "304504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7JFW+2MG, Tonk Rd, Jhirana, Rajasthan 304504",
+    "area": "304504",
+    "latitude": 26.2725685,
+    "longitude": 75.6467109,
+    "place_id": "ChIJb5Q4HQCHbjkRP-8bJez0YYw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb5Q4HQCHbjkRP-8bJez0YYw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:15:13"
+  },
+  {
+    "business_name": "NADEEM Auto Parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "304504",
+    "phone_number": "+91 99295 02420",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Mendwas, Rajasthan 303005",
+    "area": "304504",
+    "latitude": 26.4982288,
+    "longitude": 75.4576159,
+    "place_id": "ChIJZXYs_L0mbDkRbysGjOM9O00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZXYs_L0mbDkRbysGjOM9O00",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:15:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shyam Traders",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Agricultural Seed Store",
+    "all_categories": "Agricultural Seed Store",
+    "pincode": "305026",
+    "phone_number": "+91 94144 84232",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Krishi Upaj Mandi Road, Choki, Nagaur, Merta, Rajasthan 341510",
+    "area": "Baldev Nagar colony",
+    "latitude": 26.651411699999997,
+    "longitude": 74.0305676,
+    "place_id": "ChIJkZz-VnxJajkRP31sEWM0IIA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkZz-VnxJajkRP31sEWM0IIA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:52:46"
+  },
+  {
+    "business_name": "Volkschem Crop Science Private Limited",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Supplier",
+    "all_categories": "Supplier, Manufacturer, Wholesaler",
+    "pincode": "305026",
+    "phone_number": "+91 95740 09098",
+    "website": "https://www.volkschem.com/",
+    "rating": 4.9,
+    "reviews_count": 376,
+    "address": "C- 806/807, SIGNATURE-2, Sanand Cross Road, Makarba, Sarkhej-Okaf, Gujarat 382210",
+    "area": "Makarba",
+    "latitude": 22.9877562,
+    "longitude": 72.4931331,
+    "place_id": "ChIJZ90EPJSaXjkR3wFRwy5uZsw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ90EPJSaXjkR3wFRwy5uZsw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:52:47"
+  }
+]

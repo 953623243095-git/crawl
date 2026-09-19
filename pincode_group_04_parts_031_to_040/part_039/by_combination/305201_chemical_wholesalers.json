@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tomar Scientific Corporation",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Laboratory equipment supplier",
+    "all_categories": "Laboratory equipment supplier, Biochemistry lab, Biotechnology company, Chemical Manufacturer, Chemical wholesaler, Chemistry lab, Glassware wholesaler, Laboratory, Suppliers",
+    "pincode": "305201",
+    "phone_number": "+91 98285 87890",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhati Bhawan, Opp: Police Line, Ratanada Road,, Jodhpur, Rajasthan 342011",
+    "area": "Ratanada",
+    "latitude": 26.2795897,
+    "longitude": 73.0317176,
+    "place_id": "ChIJdTdM_1CMQTkRabrABn4vYEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdTdM_1CMQTkRabrABn4vYEQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:54:31"
+  },
+  {
+    "business_name": "Pidilite Grupo puma manufacturing limited",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical plant",
+    "all_categories": "Chemical plant",
+    "pincode": "305201",
+    "phone_number": "+91 79763 49656",
+    "website": "http://www.pidilite.com/",
+    "rating": 4.4,
+    "reviews_count": 16,
+    "address": "Kishanghar, Kishangarh, Rajasthan 305801",
+    "area": "305201",
+    "latitude": 26.609312499999998,
+    "longitude": 74.8414375,
+    "place_id": "ChIJj0Ud6L7xazkRQy73xMFWGKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj0Ud6L7xazkRQy73xMFWGKU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:54:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tonk Dental Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic, Dental implants periodontist, Dental implants provider, Dentist, Orthodontist, Periodontist",
+    "pincode": "304001",
+    "phone_number": "+91 82090 97994",
+    "website": "https://tonkdentalhospital.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "B-61, Sahakar Marg, near ICICI Bank, Lal Kothi Scheme, Lalkothi, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302015",
+    "area": "Lal Kothi Scheme, Lalkothi",
+    "latitude": 26.8881382,
+    "longitude": 75.795379,
+    "place_id": "ChIJVTfD3Ty0bTkRe9ix6CWYn9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVTfD3Ty0bTkRe9ix6CWYn9g",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:57:24"
+  },
+  {
+    "business_name": "OmShree Infotech",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Solar energy equipment supplier",
+    "all_categories": "Solar energy equipment supplier, Solar panel maintenance service",
+    "pincode": "304001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bada Taktha, opp. Avm School, Rajban, Tonk, Rajasthan 304001",
+    "area": "Rajban",
+    "latitude": 26.1619559,
+    "longitude": 75.7843631,
+    "place_id": "ChIJOdRYhnxhbjkRAJnaiaMwbPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOdRYhnxhbjkRAJnaiaMwbPA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:57:27"
+  }
+]

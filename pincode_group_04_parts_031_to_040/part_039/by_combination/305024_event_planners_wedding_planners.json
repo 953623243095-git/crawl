@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Krishna Raj Tent House",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "305024",
+    "phone_number": "+91 80058 81821",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "Tempu Stand, J P Nagar, Madarpura, Ajmer, Rajasthan 305004",
+    "area": "J P Nagar",
+    "latitude": 26.4662328,
+    "longitude": 74.6829269,
+    "place_id": "ChIJSxxEctvnazkRwGeaYlOcqsQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSxxEctvnazkRwGeaYlOcqsQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:48:23"
+  },
+  {
+    "business_name": "Aashirwad Tent House",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "305024",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jaipur Rd, chouraha, Kankarda Bhonabay, Ajmer, Rajasthan 305024",
+    "area": "chouraha",
+    "latitude": 26.4839408,
+    "longitude": 74.6670541,
+    "place_id": "ChIJWTaDCL7nazkRFc7l709t088",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWTaDCL7nazkRFc7l709t088",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:48:23"
+  }
+]

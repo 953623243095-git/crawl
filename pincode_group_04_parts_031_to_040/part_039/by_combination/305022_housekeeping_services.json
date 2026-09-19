@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "3N Pest control Service",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Pest control service",
+    "all_categories": "Pest control service",
+    "pincode": "305022",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "908, Pushkar Rd, opposite water tank, BK Kaul Nagar, Gyan Vihar Colony, Ajmer, Rajasthan 305004",
+    "area": "BK Kaul Nagar, Gyan Vihar Colony",
+    "latitude": 26.470523099999998,
+    "longitude": 74.6063406,
+    "place_id": "ChIJxS6rKyvnazkRhifkW7Prx0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxS6rKyvnazkRhifkW7Prx0E",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:45:05"
+  },
+  {
+    "business_name": "Laundrywala - Laundry & Dry Cleaners",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Dry cleaner",
+    "all_categories": "Dry cleaner, Laundry service",
+    "pincode": "305022",
+    "phone_number": "N/A",
+    "website": "https://www.laundrywala.in/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "santoshi mana ki dhani, savitri Mata mandir, near Rawai resort, Badi Basti, Pushkar, Ajmer, Rajasthan 305022",
+    "area": "Badi Basti",
+    "latitude": 26.4834697,
+    "longitude": 74.5474773,
+    "place_id": "ChIJ2SdFSQDdazkR2608iVHUtKw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2SdFSQDdazkR2608iVHUtKw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:45:05"
+  }
+]

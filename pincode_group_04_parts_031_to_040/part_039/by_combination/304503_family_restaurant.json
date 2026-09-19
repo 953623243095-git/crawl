@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sahu Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Breakfast restaurant",
+    "all_categories": "Breakfast restaurant",
+    "pincode": "304503",
+    "phone_number": "+91 99834 27616",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "8557+3MC, MDR 6, Lamba Hari Singh, Rajasthan 304503",
+    "area": "304503",
+    "latitude": 26.307689,
+    "longitude": 75.164149,
+    "place_id": "ChIJEa3vugWmbjkRQQi9sKVXFL0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEa3vugWmbjkRQQi9sKVXFL0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:13:03"
+  },
+  {
+    "business_name": "चारभुजा रेस्टोरेंट रामपुरा",
+    "search_category": "Family Restaurant",
+    "primary_category": "Lunch restaurant",
+    "all_categories": "Lunch restaurant",
+    "pincode": "304503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "984P+66H, Ganwar, Rampura, Rajasthan 304502",
+    "area": "304503",
+    "latitude": 26.355571299999998,
+    "longitude": 75.3355985,
+    "place_id": "ChIJkTWWrPuhbjkRRLbf5kCjQWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkTWWrPuhbjkRRLbf5kCjQWA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:13:05"
+  }
+]

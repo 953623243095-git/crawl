@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishnu Solutions",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "BPO Company",
+    "all_categories": "BPO Company, Call center, Telephone Marketing Agency",
+    "pincode": "305009",
+    "phone_number": "+91 98300 71123",
+    "website": "https://www.vishnusolutions.com/",
+    "rating": 3.5,
+    "reviews_count": 569,
+    "address": "First Floor, Nandi Commercial Building, 14B, Camac St, Elgin, Kolkata, West Bengal 700017",
+    "area": "Elgin",
+    "latitude": 22.54213,
+    "longitude": 88.352144,
+    "place_id": "ChIJ65ocT7t3AjoRrSf4lnuot1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ65ocT7t3AjoRrSf4lnuot1Y",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:40:00"
+  },
+  {
+    "business_name": "Getlux",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "BPO Company",
+    "all_categories": "BPO Company",
+    "pincode": "305009",
+    "phone_number": "+91 90484 57985",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Vadakkencherry, Kerala 678683",
+    "area": "305009",
+    "latitude": 10.5904885,
+    "longitude": 76.477463,
+    "place_id": "ChIJI2nkbGsJqDsRcLi1f-DdaMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI2nkbGsJqDsRcLi1f-DdaMA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:40:01"
+  }
+]

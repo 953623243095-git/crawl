@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "sonu singh store",
+    "search_category": "Shops",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "305025",
+    "phone_number": "+91 96029 98570",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "ricco ind.area palra Ajmer ricco ind.area palra, Ajmer, Rajasthan 305025",
+    "area": "Ratanzila",
+    "latitude": 26.4355558,
+    "longitude": 74.6983486,
+    "place_id": "ChIJd_rHAM_lazkRj1x9tXnp7vY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd_rHAM_lazkRj1x9tXnp7vY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:51:03"
+  },
+  {
+    "business_name": "prince traders",
+    "search_category": "Shops",
+    "primary_category": "Disposable Items shop",
+    "all_categories": "Disposable Items shop",
+    "pincode": "305025",
+    "phone_number": "+91 70147 67871",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Heena Garden, Professors Colony, Dhola Bhata Colony, Ajmer, Rajasthan 305007",
+    "area": "Professors Colony, Dhola Bhata Colony",
+    "latitude": 26.4373975,
+    "longitude": 74.6545443,
+    "place_id": "ChIJTYPnWs7mazkR1eP_Mh2LGVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTYPnWs7mazkR1eP_Mh2LGVc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:51:06"
+  }
+]

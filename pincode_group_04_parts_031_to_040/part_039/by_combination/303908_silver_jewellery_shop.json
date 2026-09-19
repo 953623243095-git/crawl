@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MONIKA JEWELLERS",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "303908",
+    "phone_number": "+91 77909 64203",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Jeetu Mobile Ke Pas, Bus Stand, Garoodwasi, Garudwansi, Rajasthan 303908",
+    "area": "303908",
+    "latitude": 26.581698,
+    "longitude": 76.03296089999999,
+    "place_id": "ChIJi0qxGDXbbTkRwaXC4SuxPnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi0qxGDXbbTkRwaXC4SuxPnc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:55:16"
+  },
+  {
+    "business_name": "Govind Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry manufacturer",
+    "all_categories": "Jewelry manufacturer",
+    "pincode": "303908",
+    "phone_number": "+91 89520 09272",
+    "website": "https://govindjewellers.com/",
+    "rating": 4.9,
+    "reviews_count": 28,
+    "address": "House No, 3873, KGB Ka Rasta, near Mohan Lal Pahelwan, Johri Bazar, Pink City, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302002",
+    "area": "Johri Bazar, Pink City",
+    "latitude": 26.9172986,
+    "longitude": 75.8281612,
+    "place_id": "ChIJSY7vB9q3bTkRVkwBF09EHC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSY7vB9q3bTkRVkwBF09EHC0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:55:19"
+  }
+]

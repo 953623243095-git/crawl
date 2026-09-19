@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nishu Mobile Point",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "305025",
+    "phone_number": "+91 99281 71076",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "CM45+CGW, Prabat Pura Choraha, Ajmer, Rajasthan 305002",
+    "area": "Uttranchal Colony, Makhupura Industrial Area",
+    "latitude": 26.406105699999998,
+    "longitude": 74.6588239,
+    "place_id": "ChIJT1ex7RXhazkRkjfAPIF3GEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT1ex7RXhazkRkjfAPIF3GEw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:50:36"
+  },
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "305025",
+    "phone_number": "+91 87649 05541",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "shyam colony, Topdara, Ajmer, Rajasthan 305001",
+    "area": "shyam colony, Topdara",
+    "latitude": 26.453431899999998,
+    "longitude": 74.6374426,
+    "place_id": "ChIJJZwXy-jnazkRi1fgLqNQRSI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJZwXy-jnazkRi1fgLqNQRSI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:50:36"
+  }
+]

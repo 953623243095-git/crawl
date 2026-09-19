@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madras Handloom",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Shopping mall",
+    "pincode": "305005",
+    "phone_number": "+91 94172 66037",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "Tulsi Ram Singh Street, Sri Muktsar Sahib, Punjab 152026",
+    "area": "305005",
+    "latitude": 30.4757905,
+    "longitude": 74.5114475,
+    "place_id": "ChIJ8fnqp7FpFzkRiZaL1TSnrQs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8fnqp7FpFzkRiZaL1TSnrQs",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:34:56"
+  },
+  {
+    "business_name": "Swadesi Khadi Bhandar",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "305005",
+    "phone_number": "+91 98661 69009",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 25,
+    "address": "39-1-64, MG Rd, beside Joyallukas Jewelry, near The Gateway Hotel, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "area": "Labbipet",
+    "latitude": 16.5023507,
+    "longitude": 80.64058109999999,
+    "place_id": "ChIJ19G2DP7vNToRS3eISiw-ueE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ19G2DP7vNToRS3eISiw-ueE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:34:57"
+  }
+]

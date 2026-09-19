@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shop",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store",
+    "pincode": "304025",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9245+7Q9 Jiwa collection, Jhilai, Rajasthan 304025",
+    "area": "304025",
+    "latitude": 26.355666499999998,
+    "longitude": 76.0094757,
+    "place_id": "ChIJh40dagBzbjkREOA5V_D9rSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh40dagBzbjkREOA5V_D9rSs",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:05:58"
+  },
+  {
+    "business_name": "Mumkins Kids Wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store, Baby clothing store, Childrens Store, Clothing store",
+    "pincode": "304025",
+    "phone_number": "+91 92652 18897",
+    "website": "https://www.mumkins.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop No. 3 Prabhu Kripa Complex, Chimanlal Girdharlal Rd, opp. Girish Cold Drinks, Ahmedabad, Gujarat 380009",
+    "area": "Vasant Vihar, Navrangpura",
+    "latitude": 23.0329896,
+    "longitude": 72.5599719,
+    "place_id": "ChIJzXcxmC-FXjkRtJ1n2zzFi8E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzXcxmC-FXjkRtJ1n2zzFi8E",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:06:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dulhan Enterprises",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Fabric store",
+    "all_categories": "Fabric store, Bedding store, Quilt shop, Wedding store",
+    "pincode": "305002",
+    "phone_number": "+91 87400 23523",
+    "website": "http://www.dulhanenterprises.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "19/172, Dulhan Enterprises By: Manmohan & Pratima Agarwal Ghaseti Bazar, Nala Bazar Rd, near Mahesh Medical, Ajmer, Rajasthan 305001",
+    "area": "Ghasati Bazar",
+    "latitude": 26.4569084,
+    "longitude": 74.6311752,
+    "place_id": "ChIJ5U4ufRnnazkRoRIaREANSnQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5U4ufRnnazkRoRIaREANSnQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:30:07"
+  },
+  {
+    "business_name": "Rahul Home Furnishing",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "305002",
+    "phone_number": "+91 77288 66289",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "FJ7M+36V, Naya Bazaar, Ajmer, Rajasthan 305001",
+    "area": "Naya Bazaar",
+    "latitude": 26.462743399999997,
+    "longitude": 74.6330564,
+    "place_id": "ChIJ1VrhuwTnazkRh_lJIK3dCUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1VrhuwTnazkRh_lJIK3dCUs",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:30:07"
+  }
+]

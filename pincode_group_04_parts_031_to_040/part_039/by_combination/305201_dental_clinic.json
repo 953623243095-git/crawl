@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nigam Dental Hospital - Dental Clinic in Chittorgarh",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "305201",
+    "phone_number": "+91 98873 14100",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Road No 7, Senthi, Bapu Nagar, Chittorgarh, Rajasthan 312001",
+    "area": "Senthi, Bapu Nagar",
+    "latitude": 24.8688845,
+    "longitude": 74.614173,
+    "place_id": "ChIJaSOfjRKgaDkRr9RjYeuUJhU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaSOfjRKgaDkRr9RjYeuUJhU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:53:25"
+  },
+  {
+    "business_name": "Shyam Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic, Cosmetic dentist, Dental implants provider, Dentist, Emergency dental service, Endodontist, Oral and maxillofacial surgeon, Oral surgeon, Orthodontist, Periodontist",
+    "pincode": "305201",
+    "phone_number": "+91 98878 01466",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 98,
+    "address": "148, C Sector, Shastri Nagar, Bhilwara, Rajasthan 311001",
+    "area": "C Sector, Shastri Nagar",
+    "latitude": 25.3318601,
+    "longitude": 74.6410265,
+    "place_id": "ChIJrUcLu9LDaDkRVlR4VM3FGLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrUcLu9LDaDkRVlR4VM3FGLs",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:53:26"
+  }
+]

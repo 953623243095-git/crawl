@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Golden's Restaurant (TGR)",
+    "search_category": "Restaurant Chains",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "303908",
+    "phone_number": "+91 98281 80511",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "nimbark mandir, A34, road, Dhawas, Heerapura, Ward Number 18, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "Dhawas, Heerapura, Ward Number 18",
+    "latitude": 26.891954499999997,
+    "longitude": 75.7285143,
+    "place_id": "ChIJsQbvHlS1bTkRsxwaY_CrK-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsQbvHlS1bTkRsxwaY_CrK-8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:55:12"
+  },
+  {
+    "business_name": "Stomach & Soul",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "303908",
+    "phone_number": "+91 97994 51108",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop no 2 Plot 174 Jagadamba nagar, Ajmer Rd, Heerapura, Jaipur, Rajasthan 302024",
+    "area": "Heerapura, Heerawala",
+    "latitude": 26.8902659,
+    "longitude": 75.7287841,
+    "place_id": "ChIJ1_P1EKG1bTkRBkxYKDOBby0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1_P1EKG1bTkRBkxYKDOBby0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:55:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Helpline Multispeciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Hospital department",
+    "pincode": "305005",
+    "phone_number": "+91 99502 11911",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Helpline Multispeciality Hospital, Link Rd, Vivek Vihar Colony, Kishangarh, Rajasthan 305801",
+    "area": "Vivek Vihar Colony",
+    "latitude": 26.583188099999997,
+    "longitude": 74.8662429,
+    "place_id": "ChIJ0ccgRQDxazkRONe9GClgogI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0ccgRQDxazkRONe9GClgogI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:35:02"
+  },
+  {
+    "business_name": "Anand Multispeciality Hospital Beawar",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital",
+    "pincode": "305005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Govindpura, Jaliya Road, Beawar, Rajasthan 305901",
+    "area": "Theekrana Medratan, Moti Nagar",
+    "latitude": 26.0908308,
+    "longitude": 74.2931637,
+    "place_id": "ChIJVbFSpEB3aTkRYChFUUsUs6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVbFSpEB3aTkRYChFUUsUs6Y",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:35:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sk collection",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "304503",
+    "phone_number": "+91 96102 31439",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Manoharpura, Rajasthan 305412",
+    "area": "304503",
+    "latitude": 26.201987799999998,
+    "longitude": 75.14287929999999,
+    "place_id": "ChIJQysNnR2wbjkRAAAAMPvVjT4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQysNnR2wbjkRAAAAMPvVjT4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:13:06"
+  },
+  {
+    "business_name": "Fashion factory Nathdwara",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "304503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WRHC+32V, Rampura, Nathdwara, Rajasthan 313301",
+    "area": "Rampura",
+    "latitude": 24.927740099999998,
+    "longitude": 73.8200542,
+    "place_id": "ChIJRfwYLgANaDkRhaP-pUmtcSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRfwYLgANaDkRhaP-pUmtcSg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:13:08"
+  }
+]

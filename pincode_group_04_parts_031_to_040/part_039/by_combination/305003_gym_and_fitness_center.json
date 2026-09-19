@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K.V fitness Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "305003",
+    "phone_number": "+91 97994 39975",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Kanchan Nagar, Ajmer, Rajasthan 305003",
+    "area": "Kanchan Nagar",
+    "latitude": 26.403600899999997,
+    "longitude": 74.63181469999999,
+    "place_id": "ChIJlXR2e-fgazkRy_wXo0KJ1rM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlXR2e-fgazkRy_wXo0KJ1rM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:31:21"
+  },
+  {
+    "business_name": "Fitness World The Elite Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Aerobics Class",
+    "pincode": "305003",
+    "phone_number": "+91 70233 41663",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "135, Somalpur Rd, Mayur Colony, Chandra Vardai Nagar, Ajmer, Rajasthan 305003",
+    "area": "Mayur Colony, Chandra Vardai Nagar",
+    "latitude": 26.420328299999998,
+    "longitude": 74.6179051,
+    "place_id": "ChIJe1TuGMrgazkRAsQDYgwyS1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe1TuGMrgazkRAsQDYgwyS1k",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:31:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Juice Land",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "304503",
+    "phone_number": "N/A",
+    "website": "https://www.facebook.com/juice.land",
+    "rating": 4.3,
+    "reviews_count": 1547,
+    "address": "G4XF+QG8 Blossom Market, Bahria Town Phase IV Civic Center Bahria Town, Rawalpindi, Pakistan",
+    "area": "Bahria Town Phase IV Civic Center Bahria Town",
+    "latitude": 33.5494019,
+    "longitude": 73.1238334,
+    "place_id": "ChIJY5MwMQXt3zgRceOSSnwGkMU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY5MwMQXt3zgRceOSSnwGkMU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:13:00"
+  },
+  {
+    "business_name": "Kanhaiya Juice Corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Restaurant",
+    "pincode": "304503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "79XP+876, Malpura, Malpura Muncipal Area, Rajasthan 304502",
+    "area": "304503",
+    "latitude": 26.2982886,
+    "longitude": 75.38564769999999,
+    "place_id": "ChIJjYAwXeCYbjkRdUvWkgwYhg4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjYAwXeCYbjkRdUvWkgwYhg4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:13:00"
+  }
+]

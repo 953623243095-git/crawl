@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kia Car Service - Samradh Kia Ajmer",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer, Repair service",
+    "pincode": "305024",
+    "phone_number": "+91 94140 03348",
+    "website": "https://www.kia.com/in/home.html",
+    "rating": 4.6,
+    "reviews_count": 40,
+    "address": "Jaipur Rd, near Chawla Restaurant, Kakarda, Kankarda Bhonabay, Ajmer, Rajasthan 305001",
+    "area": "Kakarda",
+    "latitude": 26.492190599999997,
+    "longitude": 74.6781352,
+    "place_id": "ChIJMRQG7YfnazkR2_I1x9xhZdM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMRQG7YfnazkR2_I1x9xhZdM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:48:00"
+  },
+  {
+    "business_name": "Khanna car decor",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "305024",
+    "phone_number": "+91 94140 02560",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 68,
+    "address": "Ajmer Rd, Nagbai, Dhola Bhata, Ajmer, Rajasthan 305001",
+    "area": "Nagbai, Dhola Bhata",
+    "latitude": 26.4317641,
+    "longitude": 74.6478905,
+    "place_id": "ChIJl6QaqAvnazkRh3uyLdHfL0k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl6QaqAvnazkRh3uyLdHfL0k",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:48:00"
+  }
+]

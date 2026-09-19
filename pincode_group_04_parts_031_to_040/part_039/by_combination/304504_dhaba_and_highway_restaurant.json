@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "shri bala ji restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Breakfast restaurant",
+    "pincode": "304504",
+    "phone_number": "+91 99281 41093",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "2PV5+VH9, NH 52, Amirpura Khera, Arniya Neel, Rajasthan 304001",
+    "area": "304504",
+    "latitude": 26.0446565,
+    "longitude": 75.70896929999999,
+    "place_id": "ChIJCddUTmP1bjkRPMj_7vHbRDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCddUTmP1bjkRPMj_7vHbRDc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:14:47"
+  },
+  {
+    "business_name": "HOTEL GADWAL PALACE & RESTAURANTS",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Indian restaurant, Hotel, Vegetarian restaurant",
+    "pincode": "304504",
+    "phone_number": "+91 90011 55618",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "2MCX+57P, Chhankheda Bypass Road, Chhan, Amirpura Khera, Rajasthan 304001",
+    "area": "304504",
+    "latitude": 26.020459,
+    "longitude": 75.69819319999999,
+    "place_id": "ChIJ53Y2cpr1bjkRI6Azzv4KZ2s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ53Y2cpr1bjkRI6Azzv4KZ2s",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:14:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cafe Pushkar & Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Meal delivery",
+    "all_categories": "Meal delivery",
+    "pincode": "305022",
+    "phone_number": "+91 77371 70208",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Road, Ganahera, Chawandiya, Pushkar, Rajasthan 305022",
+    "area": "Ganahera",
+    "latitude": 26.4997236,
+    "longitude": 74.53779879999999,
+    "place_id": "ChIJ4arXMBLdazkRKerfBr3MBD8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4arXMBLdazkRKerfBr3MBD8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:43:46"
+  },
+  {
+    "business_name": "NON- VEG lOVERS ( CLOUD KITCHAN)",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Non Vegetarian Restaurant",
+    "all_categories": "Non Vegetarian Restaurant",
+    "pincode": "305022",
+    "phone_number": "+91 70234 77662",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "407, Daulat Bagh Rd, opp. private Bus stand, Sundar Vilas, Ajmer, Rajasthan 305001",
+    "area": "Sundar Vilas",
+    "latitude": 26.4676899,
+    "longitude": 74.63246769999999,
+    "place_id": "ChIJw_BNyFbnazkROR8JXNqrQZk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw_BNyFbnazkROR8JXNqrQZk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:43:47"
+  }
+]

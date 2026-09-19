@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Matharu Engineering Works",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Machine workshop",
+    "all_categories": "Machine workshop",
+    "pincode": "304503",
+    "phone_number": "+91 94605 70225",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "5V95+Q49, Bangali Colony,Dhanmandi,Chhawani, Kota, Rajasthan 324007",
+    "area": "Ramchandrapura, Dhanmandi",
+    "latitude": 25.169411,
+    "longitude": 75.85785299999999,
+    "place_id": "ChIJgYhCi9SabzkRS5O4HHQaNX0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgYhCi9SabzkRS5O4HHQaNX0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:14:20"
+  },
+  {
+    "business_name": "Surinder Welding Works",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Welder",
+    "all_categories": "Welder",
+    "pincode": "304503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sector 91, Sahibzada Ajit Singh Nagar, Punjab 140307",
+    "area": "Sector 91",
+    "latitude": 30.694961799999998,
+    "longitude": 76.68505069999999,
+    "place_id": "ChIJxb8LsR3vDzkRGnnpNfosVGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxb8LsR3vDzkRGnnpNfosVGo",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:14:20"
+  }
+]

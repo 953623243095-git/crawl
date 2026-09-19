@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MM Fashion Hub",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "303903",
+    "phone_number": "N/A",
+    "website": "http://instagram.com/mmfashionhub91",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Shop No. 54, UCO Bank ke Uper, Goner Mod Flyover, Tonk Road, Saraswati Vihar, Sitapura, Bari Ka Bas, Jaipur, Rajasthan 302022",
+    "area": "Tonk Road, Saraswati Vihar, Sitapura",
+    "latitude": 26.7658904,
+    "longitude": 75.83970819999999,
+    "place_id": "ChIJm3xiU43JbTkR6fy6ym9W-TY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm3xiU43JbTkR6fy6ym9W-TY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:49:25"
+  },
+  {
+    "business_name": "Fashion zone (men's accessories)",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "303903",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "3rd floor, Vivacity Mall, K27, mahal yojana, JAGATPURA, Jaipur, Shri Kishanpura, Rajasthan 302017",
+    "area": "mahal yojana, JAGATPURA",
+    "latitude": 26.802285299999998,
+    "longitude": 75.8569888,
+    "place_id": "ChIJGfHvBgDJbTkRT3Nq_VVRkAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGfHvBgDJbTkRT3Nq_VVRkAk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:49:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ranawat taxi service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "304803",
+    "phone_number": "+91 98296 33206",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Ojjas hospital, near Parshuram circle, Jyoti Colony, Deoli, Rajasthan 304804",
+    "area": "Jyoti Colony",
+    "latitude": 25.754501599999998,
+    "longitude": 75.380938,
+    "place_id": "ChIJRbo1gxThbjkR9O4a7Tr6DRQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRbo1gxThbjkR9O4a7Tr6DRQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:24:08"
+  },
+  {
+    "business_name": "GaadiCab",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "304803",
+    "phone_number": "+91 96657 03666",
+    "website": "https://www.gaadicab.com/",
+    "rating": 3.1,
+    "reviews_count": 36,
+    "address": "Moriya Colony, 97/2/1, Alphonsa School Rd, Vaibhav Colony, Kalewadi, Pune, Pimpri-Chinchwad, Maharashtra 411017",
+    "area": "Vaibhav Colony, Kalewadi",
+    "latitude": 18.6196345,
+    "longitude": 73.7915802,
+    "place_id": "ChIJTctRqau5wjsRl0Ah7K7eIAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTctRqau5wjsRl0Ah7K7eIAg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:24:10"
+  }
+]

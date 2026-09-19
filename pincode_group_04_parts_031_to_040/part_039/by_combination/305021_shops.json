@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KAMLESH SERVICE CENTRE",
+    "search_category": "Shops",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "305021",
+    "phone_number": "+91 96103 07601",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No, 9 MAHARAJ, Makadwali, Ajmer, Rajasthan 305004",
+    "area": "305021",
+    "latitude": 26.5453658,
+    "longitude": 74.6395422,
+    "place_id": "ChIJC9qsdh7pazkR-jUqDXItae8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC9qsdh7pazkR-jUqDXItae8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:43:35"
+  },
+  {
+    "business_name": "Chandu Electric and Solar",
+    "search_category": "Shops",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop",
+    "pincode": "305021",
+    "phone_number": "+91 93511 68293",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pushkar Bypass Rd, Makarwali, Ajmer, Makadwali, Rajasthan 305004",
+    "area": "Makarwali",
+    "latitude": 26.5453334,
+    "longitude": 74.6397326,
+    "place_id": "ChIJ9dRaCXfpazkRpL8EpFEIMBM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9dRaCXfpazkRpL8EpFEIMBM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:43:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Roofs",
+    "search_category": "Roofing Sheet Supplier",
+    "primary_category": "Roofing contractor",
+    "all_categories": "Roofing contractor, Metal fabricator",
+    "pincode": "304026",
+    "phone_number": "+91 91507 09998",
+    "website": "http://www.bestroofs.co.in/",
+    "rating": 4.8,
+    "reviews_count": 67,
+    "address": "No. 6, Thiruvalluvar Salai, Veerappa Street, Alwartirunagar, Nesapakkam, Chennai, Tamil Nadu 600087",
+    "area": "Veerappa Street, Alwartirunagar, Nesapakkam",
+    "latitude": 13.0421961,
+    "longitude": 80.1863432,
+    "place_id": "ChIJGfYJISRhUjoRtes6lbbMKoU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGfYJISRhUjoRtes6lbbMKoU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:08:22"
+  },
+  {
+    "business_name": "Goyal Steels",
+    "search_category": "Roofing Sheet Supplier",
+    "primary_category": "Iron & Steel Store",
+    "all_categories": "Iron & Steel Store",
+    "pincode": "304026",
+    "phone_number": "+91 92144 06630",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "RIICO CHOWK, F - 3, near BANK OF BARODA, RIICO Industrial Area, Bhiwadi, Rajasthan 301019",
+    "area": "RIICO Industrial Area",
+    "latitude": 28.2098214,
+    "longitude": 76.85355919999999,
+    "place_id": "ChIJpwWAW_s3DTkRDJchI9aozrQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpwWAW_s3DTkRDJchI9aozrQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:08:24"
+  }
+]

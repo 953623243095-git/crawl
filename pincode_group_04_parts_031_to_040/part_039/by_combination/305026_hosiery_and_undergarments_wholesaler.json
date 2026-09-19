@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganesh Hosiery",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Lingerie store, Underwear store, Wholesaler",
+    "pincode": "305026",
+    "phone_number": "+91 97824 10188",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jain Gota Jewellers, 24, Sadar Bazar, Old Dhan Mandi, Sri Ganganagar, Rajasthan 335001",
+    "area": "Old Dhan Mandi",
+    "latitude": 29.929976099999998,
+    "longitude": 73.87336979999999,
+    "place_id": "ChIJB33D-Q-1FzkRIkGqhNUKZvM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB33D-Q-1FzkRIkGqhNUKZvM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:51:29"
+  },
+  {
+    "business_name": "Mehta Trading Company",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Lingerie wholesaler",
+    "all_categories": "Lingerie wholesaler",
+    "pincode": "305026",
+    "phone_number": "+91 94145 14385",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "No 39- A, Sadar Bazar, Gool Bazar, Old Dhan Mandi, Sri Ganganagar, Rajasthan 335001",
+    "area": "Gool Bazar, Old Dhan Mandi",
+    "latitude": 29.928928799999998,
+    "longitude": 73.8732545,
+    "place_id": "ChIJg0d0qFe1FzkRJzzTeE8nh9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg0d0qFe1FzkRJzzTeE8nh9g",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:51:29"
+  }
+]

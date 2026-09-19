@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cyrus Kerala Store",
+    "search_category": "Provision Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "303908",
+    "phone_number": "+91 98876 37818",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "C-6, Bye Pass, Ashok Vihar, Nandpuri Colony, Malviya Nagar, Jaipur, Rajasthan 302017",
+    "area": "Ashok Vihar, Nandpuri Colony, Malviya Nagar",
+    "latitude": 26.8423058,
+    "longitude": 75.815809,
+    "place_id": "ChIJfzNvpg-2bTkR4PJzIOUNLmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfzNvpg-2bTkR4PJzIOUNLmY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:55:01"
+  },
+  {
+    "business_name": "Bhawani General Store",
+    "search_category": "Provision Store",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "303908",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "M4QQ+294, village and post mahadevpura, th. kotkhawda, dist, Jaipur, Rajasthan 303302",
+    "area": "303908",
+    "latitude": 26.6875073,
+    "longitude": 76.1384388,
+    "place_id": "ChIJkY4mfAvpbTkRs2O5OCbSxjw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkY4mfAvpbTkRs2O5OCbSxjw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:55:01"
+  }
+]

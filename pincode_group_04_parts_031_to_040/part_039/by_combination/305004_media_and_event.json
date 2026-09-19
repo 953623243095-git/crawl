@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dadhich Bhavan",
+    "search_category": "Media and Event",
+    "primary_category": "Wedding venue",
+    "all_categories": "Wedding venue",
+    "pincode": "305004",
+    "phone_number": "+91 145 277 2431",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Pushkar Rd, Pushkar, Rajasthan 305022",
+    "area": "305004",
+    "latitude": 26.4887278,
+    "longitude": 74.5613865,
+    "place_id": "ChIJhZ9shD3dazkRbYJ9PH5Ua5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhZ9shD3dazkRbYJ9PH5Ua5o",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:33:51"
+  },
+  {
+    "business_name": "Rajasthan Patrika",
+    "search_category": "Media and Event",
+    "primary_category": "Newspaper publisher",
+    "all_categories": "Newspaper publisher",
+    "pincode": "305004",
+    "phone_number": "N/A",
+    "website": "https://sbnews.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "NH 89, Sagar Vihar Colony, Vaishali Nagar, Ajmer, Rajasthan 305004",
+    "area": "Sagar Vihar Colony, Vaishali Nagar",
+    "latitude": 26.4869575,
+    "longitude": 74.6299667,
+    "place_id": "ChIJu4Aii7rnazkRQ3c31xJxpMQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu4Aii7rnazkRQ3c31xJxpMQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:33:51"
+  }
+]

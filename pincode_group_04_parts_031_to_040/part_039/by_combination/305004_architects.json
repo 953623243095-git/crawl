@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JB design Studio",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect",
+    "pincode": "305004",
+    "phone_number": "+91 88757 18149",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shree Vatika Apartment, Chachiwas Road, Makadwali, Rajasthan 305004",
+    "area": "305004",
+    "latitude": 26.5348138,
+    "longitude": 74.6636273,
+    "place_id": "ChIJwQj3SbfpazkRvaSBLs0s-_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwQj3SbfpazkRvaSBLs0s-_A",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:33:34"
+  },
+  {
+    "business_name": "Easyway Architect & Consultancy",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect, Structural engineer",
+    "pincode": "305004",
+    "phone_number": "+91 70143 14401",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shree Ram Colony, Pushkar Rd, HBU Nagar, C Block, Kotra, Ajmer, Rajasthan 305004",
+    "area": "HBU Nagar, C Block, Kotra",
+    "latitude": 26.4794147,
+    "longitude": 74.6059756,
+    "place_id": "ChIJecjCiQPnazkRq47NaVCvlbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJecjCiQPnazkRq47NaVCvlbw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:33:34"
+  }
+]

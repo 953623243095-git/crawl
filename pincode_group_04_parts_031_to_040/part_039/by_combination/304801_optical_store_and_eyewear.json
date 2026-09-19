@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VISION STORE",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "304801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gulzar Bagh, Tonk, Rajasthan 304001",
+    "area": "Gulzar Bagh",
+    "latitude": 26.160712999999998,
+    "longitude": 75.7894412,
+    "place_id": "ChIJN-7OSkFhbjkRceRKFH2LcE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN-7OSkFhbjkRceRKFH2LcE8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:20:19"
+  },
+  {
+    "business_name": "Vision optical",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "304801",
+    "phone_number": "+91 99506 35084",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vision optical, Shivalya Rd, Peeplu, Rajasthan 304801",
+    "area": "304801",
+    "latitude": 26.295234299999997,
+    "longitude": 75.714732,
+    "place_id": "ChIJi0J6xfR9bjkRVH_xGOOwknY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi0J6xfR9bjkRVH_xGOOwknY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:20:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRS Computer Center",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center",
+    "pincode": "304503",
+    "phone_number": "+91 90576 83380",
+    "website": "https://srscomputerinstitute.in/",
+    "rating": 4.9,
+    "reviews_count": 37,
+    "address": "J552+X2J Front Of Police Line, Ward No 35, Sakpura Mohlla, Sikar, Rajasthan 332001",
+    "area": "Ward No 35, Sakpura Mohlla",
+    "latitude": 27.609937499999997,
+    "longitude": 75.15006249999999,
+    "place_id": "ChIJrZZgpHi7bDkRyC3-1-GOYP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZZgpHi7bDkRyC3-1-GOYP8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:14:00"
+  },
+  {
+    "business_name": "MVU Cads Center",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Training center",
+    "all_categories": "Training center",
+    "pincode": "304503",
+    "phone_number": "+91 93584 38933",
+    "website": "http://www.cadscenter.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1st Floor, Front Side (Top Of HDFC ATM, Central Market, Rajasthan Housing Board Colony, Bhiwadi, Rajasthan 301019",
+    "area": "Rajasthan Housing Board Colony",
+    "latitude": 28.2116451,
+    "longitude": 76.8367336,
+    "place_id": "ChIJ_b_yi1M3DTkR8N2dJotXHGA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_b_yi1M3DTkR8N2dJotXHGA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:14:01"
+  }
+]

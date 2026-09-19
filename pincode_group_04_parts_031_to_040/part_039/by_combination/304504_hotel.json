@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sukhdev hotel & restaurant",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "304504",
+    "phone_number": "+91 97847 57570",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "near manshi river, Nimeda, Rajasthan 303005",
+    "area": "304504",
+    "latitude": 26.4869591,
+    "longitude": 75.506602,
+    "place_id": "ChIJVZlj-qonbDkReAtkxEM5_F0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVZlj-qonbDkReAtkxEM5_F0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:15:42"
+  },
+  {
+    "business_name": "होटल श्री साँवरीया पेलेस",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "304504",
+    "phone_number": "+91 88242 48626",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "986M+3X9, गणवर, Malpura, Ganwar, Rajasthan 304502",
+    "area": "गणवर",
+    "latitude": 26.3601554,
+    "longitude": 75.3349796,
+    "place_id": "ChIJC24NnYGhbjkRvAMnTQpDIq0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC24NnYGhbjkRvAMnTQpDIq0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:15:42"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adinath sales agency",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Electronics manufacturer",
+    "all_categories": "Electronics manufacturer, Battery Wholesaler, Car battery store",
+    "pincode": "304001",
+    "phone_number": "+91 80786 00069",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 99,
+    "address": "Tonk Rd, near Pink City Garden, Taru Chhaya Nagar, Jaipur, Rajasthan 302029",
+    "area": "Taru Chhaya Nagar",
+    "latitude": 26.8320974,
+    "longitude": 75.79389669999999,
+    "place_id": "ChIJ2WP40s-1bTkRwmU-5jgJ3_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2WP40s-1bTkRwmU-5jgJ3_E",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:58:33"
+  },
+  {
+    "business_name": "Affiliate marketing",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Business networking company",
+    "all_categories": "Business networking company",
+    "pincode": "304001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Zandsome Mazzu Panch Batti Bawdi road, Tonk, Rajasthan 304001",
+    "area": "Subhash Bazar",
+    "latitude": 26.169936099999997,
+    "longitude": 75.78594149999999,
+    "place_id": "ChIJzxFdvxVhbjkRFs5h6DdsK1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzxFdvxVhbjkRFs5h6DdsK1U",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:58:33"
+  }
+]

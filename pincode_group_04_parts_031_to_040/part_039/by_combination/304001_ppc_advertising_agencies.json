@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amera Global",
+    "search_category": "PPC Advertising Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "304001",
+    "phone_number": "+91 95497 83463",
+    "website": "http://www.ameraglobal.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C-11, opposite main GPO, Sharma Colony, Adarsh Nagar, Tonk, Rajasthan 304001",
+    "area": "Sharma Colony, Adarsh Nagar",
+    "latitude": 26.153803699999997,
+    "longitude": 75.7836475,
+    "place_id": "ChIJV7DNdyBhbjkRnYExozw2Ywc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV7DNdyBhbjkRnYExozw2Ywc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:58:29"
+  },
+  {
+    "business_name": "Digital Gulzar",
+    "search_category": "PPC Advertising Agencies",
+    "primary_category": "Website designer",
+    "all_categories": "Website designer",
+    "pincode": "304001",
+    "phone_number": "+91 77373 56386",
+    "website": "https://digitalgulzar.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WAHID MANSION, C/O, near VIKAS MEDICAL, Kha Ngar, Tonk, Rajasthan 304001",
+    "area": "Kha Ngar",
+    "latitude": 26.163055999999997,
+    "longitude": 75.7971864,
+    "place_id": "ChIJJWe4yLlhbjkReJsI44hfVK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJWe4yLlhbjkReJsI44hfVK8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:58:31"
+  }
+]

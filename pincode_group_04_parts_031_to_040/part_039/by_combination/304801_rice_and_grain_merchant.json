@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jainarayan Radheyshyam",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Agricultural Product Wholesaler",
+    "all_categories": "Agricultural Product Wholesaler, Agricultural service",
+    "pincode": "304801",
+    "phone_number": "+91 1463 244 069",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "A-17, Krishi Mandi Yard, Jaipur Road, Madanganj-Kishangarh, Rajasthan 305801",
+    "area": "Tilak Nagar",
+    "latitude": 26.5912081,
+    "longitude": 74.8751801,
+    "place_id": "ChIJIwsBpCr3azkRO79PixYsKsQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIwsBpCr3azkRO79PixYsKsQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:20:01"
+  },
+  {
+    "business_name": "SMJ Exports Pvt. Ltd",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Exporter",
+    "all_categories": "Exporter, Spices Wholesaler",
+    "pincode": "304801",
+    "phone_number": "+91 291 257 0946",
+    "website": "http://www.smjspices.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "B-17, Main Mandor Rd, Krishi Upaj Mandi, Mandore Mandi, Maderana Colony, Jodhpur, Rajasthan 342007",
+    "area": "Krishi Upaj Mandi, Mandore Mandi, Maderana Colony",
+    "latitude": 26.321409,
+    "longitude": 73.04939689999999,
+    "place_id": "ChIJ9Ye0VHKNQTkRnUyD9xeJtdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Ye0VHKNQTkRnUyD9xeJtdU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:20:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree BR Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "305202",
+    "phone_number": "+91 99283 95380",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "masuda road, near bus stand, Kharwa, Rajasthan 305202",
+    "area": "305202",
+    "latitude": 26.1919674,
+    "longitude": 74.4366652,
+    "place_id": "ChIJIXcTXNdlaTkRPbSM-BFn1ww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIXcTXNdlaTkRPbSM-BFn1ww",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:55:04"
+  },
+  {
+    "business_name": "Ganesh Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "305202",
+    "phone_number": "+91 79760 73739",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "1 Devnarayan Mandir Ke Pass, Nagelao, Rajasthan 305207",
+    "area": "305202",
+    "latitude": 26.2933016,
+    "longitude": 74.39986669999999,
+    "place_id": "ChIJO79Xi1N9aTkRqdflD0cbOaw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO79Xi1N9aTkRqdflD0cbOaw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:55:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MELTING FLOWERS BANGALORE",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Event management company, Event planner, Event venue, Party planner, Wedding photographer, Wedding planner, Wedding service, Wedding venue, Wholesale florist",
+    "pincode": "303908",
+    "phone_number": "+91 76870 08700",
+    "website": "http://www.meltingflowers.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "1st floor, A.K Halli, 23/1, 9th Cross Rd, near Brand Factory Showroom, Arekempanahalli, Wilson Garden, Bengaluru, Karnataka 560011",
+    "area": "Arekempanahalli, Wilson Garden",
+    "latitude": 12.9459859,
+    "longitude": 77.5944806,
+    "place_id": "ChIJU0mP5McVrjsRlnsha5g02h4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU0mP5McVrjsRlnsha5g02h4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:56:02"
+  },
+  {
+    "business_name": "Recent Florist",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "303908",
+    "phone_number": "+91 93515 60017",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "297, Sector-4, Varun Path, Madhyam Marg, Mansarovar, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Mansarovar Sector 31, Swarn Path, Mansarovar Sector 4, Mansarovar",
+    "latitude": 26.8685928,
+    "longitude": 75.7563026,
+    "place_id": "ChIJNzmbbv60bTkRsHg1wlv0VJc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNzmbbv60bTkRsHg1wlv0VJc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:56:03"
+  }
+]

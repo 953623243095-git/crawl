@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, General store",
+    "pincode": "304503",
+    "phone_number": "+91 95878 20920",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Ke Samne, CISF GATE, Church Rd, Ward Number 15, Deoli, Rajasthan 304804",
+    "area": "Ward Number 15",
+    "latitude": 25.7612214,
+    "longitude": 75.3810305,
+    "place_id": "ChIJzxOS_c7hbjkRFwHFxW3k4yQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzxOS_c7hbjkRFwHFxW3k4yQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:12:58"
+  },
+  {
+    "business_name": "Bake Bliss By Kanika",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "304503",
+    "phone_number": "+91 73008 27005",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 34,
+    "address": "Harbutta Cottage, Court Road, Haripur, Herbertpur, Bentwali Mandi, Uttarakhand 248142",
+    "area": "Haripur",
+    "latitude": 30.448224099999997,
+    "longitude": 77.7324342,
+    "place_id": "ChIJT6Njkh8lDzkRQ_GOjSJ2if0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT6Njkh8lDzkRQ_GOjSJ2if0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:12:59"
+  }
+]

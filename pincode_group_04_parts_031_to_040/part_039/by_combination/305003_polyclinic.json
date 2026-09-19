@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Medical Stores",
+    "search_category": "Polyclinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Pet store, Veterinary pharmacy",
+    "pincode": "305003",
+    "phone_number": "+91 94142 12817",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Naya Bazar, Opp Veternary Polyclinic, Naya Bazaar, Ajmer, Rajasthan 305001",
+    "area": "Naya Bazaar",
+    "latitude": 26.460204899999997,
+    "longitude": 74.6324691,
+    "place_id": "ChIJe8RKORvnazkRk20ifuYFkWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe8RKORvnazkRk20ifuYFkWQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:31:17"
+  },
+  {
+    "business_name": "Choudhary medical store",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "305003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "FMXH+865, University chorata, Kankarda Bhonabay, Ajmer, Rajasthan 305001",
+    "area": "305003",
+    "latitude": 26.4982656,
+    "longitude": 74.6781003,
+    "place_id": "ChIJa6Fda-TnazkR_SJqF-EPLrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa6Fda-TnazkR_SJqF-EPLrI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:31:19"
+  }
+]

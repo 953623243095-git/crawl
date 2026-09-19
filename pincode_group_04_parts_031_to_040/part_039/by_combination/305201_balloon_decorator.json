@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fab Decorations",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist, Children's party service, Florist, Flower designer, Party planner",
+    "pincode": "305201",
+    "phone_number": "+91 83608 45418",
+    "website": "https://fabdecorations.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Phase 10, sector 63, Sahibzada Ajit Singh Nagar, Punjab 160062",
+    "area": "Phase 10, sector 63",
+    "latitude": 30.6924457,
+    "longitude": 76.7438444,
+    "place_id": "ChIJX1tvO2DtDzkR-9BnD63-5gs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX1tvO2DtDzkR-9BnD63-5gs",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:54:01"
+  },
+  {
+    "business_name": "Krisha Balloons Decoration",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event venue",
+    "all_categories": "Event venue",
+    "pincode": "305201",
+    "phone_number": "+91 82659 36618",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "house no.2281, phase, 2, Ram Darbar, Chandigarh, 160002",
+    "area": "Ram Darbar",
+    "latitude": 30.687519299999998,
+    "longitude": 76.7892945,
+    "place_id": "ChIJZbvfnGHtDzkRePuZ41gM_ok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZbvfnGHtDzkRePuZ41gM_ok",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:54:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Charbhuja Collection Emitra",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "304505",
+    "phone_number": "+91 97857 00527",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Bhasoo, Rajasthan 305404",
+    "area": "304505",
+    "latitude": 26.019899199999998,
+    "longitude": 75.43115689999999,
+    "place_id": "ChIJUxFmmQHrbjkROJzy80yJbDI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUxFmmQHrbjkROJzy80yJbDI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:16:41"
+  },
+  {
+    "business_name": "Gulab Shoe",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "304505",
+    "phone_number": "+91 99502 72230",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "123, Gumanpura, Kota, Kota Municipal Area, Rajasthan 324007",
+    "area": "Gumanpura",
+    "latitude": 25.1759609,
+    "longitude": 75.84703139999999,
+    "place_id": "ChIJA3MrSC-bbzkRrXfIi_fyPQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA3MrSC-bbzkRrXfIi_fyPQ0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:16:43"
+  }
+]

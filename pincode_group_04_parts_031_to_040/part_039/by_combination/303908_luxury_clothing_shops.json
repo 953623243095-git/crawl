@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Papaya Whims",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store, Clothing supplier, Clothing wholesale market place, Clothing wholesaler, Shopping mall",
+    "pincode": "303908",
+    "phone_number": "+91 82908 50000",
+    "website": "https://papayawhims.com/",
+    "rating": 4.9,
+    "reviews_count": 32,
+    "address": "F 32, Ghiya Marg, Sindhi Colony, Bani Park, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302016",
+    "area": "Sindhi Colony, Bani Park",
+    "latitude": 26.933270699999998,
+    "longitude": 75.7930453,
+    "place_id": "ChIJnWq4-0uzbTkRxT0OMYGwuQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnWq4-0uzbTkRxT0OMYGwuQ0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:55:24"
+  },
+  {
+    "business_name": "Amyra",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Manufacturer, Women's clothing store",
+    "pincode": "303908",
+    "phone_number": "+91 97723 42732",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 531,
+    "address": "Shop No. 2, Tonk Rd, Mansingh Pura, Tonk Phatak, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302015",
+    "area": "Mansingh Pura, Tonk Phatak",
+    "latitude": 26.8714211,
+    "longitude": 75.7970362,
+    "place_id": "ChIJzY1PXavJbTkRYRXQAbnBcr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzY1PXavJbTkRYRXQAbnBcr4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:55:25"
+  }
+]

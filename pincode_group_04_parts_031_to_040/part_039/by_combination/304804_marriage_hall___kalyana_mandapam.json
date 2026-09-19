@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "La Palacio",
+    "search_category": "Marriage Hall / Kalyana Mandapam",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall, Event venue, Party planner, Wedding venue",
+    "pincode": "304804",
+    "phone_number": "+91 84377 11888",
+    "website": "https://lapalacio.com/",
+    "rating": 4.5,
+    "reviews_count": 275,
+    "address": "Patiala highway, VPO, Zirakpur, Chhat, Punjab 140603",
+    "area": "VPO",
+    "latitude": 30.6168873,
+    "longitude": 76.7853779,
+    "place_id": "ChIJk9A2wuvrDzkRpZGX4RR5FCM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk9A2wuvrDzkRpZGX4RR5FCM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:26:17"
+  },
+  {
+    "business_name": "Shubh Nimantran Wedding Palace",
+    "search_category": "Marriage Hall / Kalyana Mandapam",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "304804",
+    "phone_number": "+91 89234 35038",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 265,
+    "address": "7482+CCP, Balawala, Dehradun, Uttarakhand 248019",
+    "area": "Balawala",
+    "latitude": 30.263672,
+    "longitude": 78.10070999999999,
+    "place_id": "ChIJgYrS7R0pCTkR4rQTTqL-oio",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgYrS7R0pCTkR4rQTTqL-oio",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:26:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govind traders",
+    "search_category": "Fish Market",
+    "primary_category": "Confectionery wholesaler",
+    "all_categories": "Confectionery wholesaler",
+    "pincode": "304804",
+    "phone_number": "+91 96363 25936",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Nehru Market, Deoli, Rajasthan 304804",
+    "area": "Nehru Market",
+    "latitude": 25.7617603,
+    "longitude": 75.3741782,
+    "place_id": "ChIJb99cSybhbjkRutgWCAD0HNU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb99cSybhbjkRutgWCAD0HNU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:25:22"
+  },
+  {
+    "business_name": "Nirmal Fish Center",
+    "search_category": "Fish Market",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "304804",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No, ,10, Mata Ji Mandir Ke Samne, Deoli Gaon, Rajasthan 304804",
+    "area": "304804",
+    "latitude": 25.7622145,
+    "longitude": 75.3727911,
+    "place_id": "ChIJ4yaBTv7hbjkRengr9CrhPKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4yaBTv7hbjkRengr9CrhPKE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:25:23"
+  }
+]

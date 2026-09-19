@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satguru Store",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "304503",
+    "phone_number": "+91 84320 44444",
+    "website": "http://satgurustore.in/",
+    "rating": 4.5,
+    "reviews_count": 181,
+    "address": "Nagina Bagh, Mali Mohalla, Ajmer, Rajasthan 305001",
+    "area": "Nagina Bagh, Mali Mohalla",
+    "latitude": 26.4725526,
+    "longitude": 74.6347524,
+    "place_id": "ChIJvehFaBznazkRxx4tIvWKFJo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvehFaBznazkRxx4tIvWKFJo",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:13:06"
+  },
+  {
+    "business_name": "DOLLY KIDS WEAR",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "304503",
+    "phone_number": "+91 62831 44856",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Beas Pind, Punjab 144302",
+    "area": "304503",
+    "latitude": 31.4495613,
+    "longitude": 75.6334947,
+    "place_id": "ChIJi6QoWR1UGjkRHusZx7Cgyr8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi6QoWR1UGjkRHusZx7Cgyr8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:13:08"
+  }
+]

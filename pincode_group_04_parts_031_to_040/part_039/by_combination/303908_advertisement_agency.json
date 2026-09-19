@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "propUPgraphix",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Graphic designer",
+    "all_categories": "Graphic designer, Service establishment",
+    "pincode": "303908",
+    "phone_number": "+91 82097 53915",
+    "website": "https://propupgraphix.odoo.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "propUPgraphix, 303908, India",
+    "area": "303908",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJm8Qs0NCNr0QRc8r0tt1a4GQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm8Qs0NCNr0QRc8r0tt1a4GQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:56:40"
+  },
+  {
+    "business_name": "Shanu Stationers",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Store",
+    "pincode": "303908",
+    "phone_number": "+91 79761 09926",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2, Garoodwasi, Rajasthan 303901",
+    "area": "303908",
+    "latitude": 26.5815406,
+    "longitude": 76.0326618,
+    "place_id": "ChIJaShk7Y7dbTkRpjvKrBKAa4k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaShk7Y7dbTkRpjvKrBKAa4k",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:56:43"
+  }
+]

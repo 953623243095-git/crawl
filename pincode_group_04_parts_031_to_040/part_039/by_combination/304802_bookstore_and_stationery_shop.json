@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shekhawati Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Book store, Sportswear store, Stationery wholesaler",
+    "pincode": "304802",
+    "phone_number": "+91 96946 82487",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 100,
+    "address": "Udaipurwati, Rajasthan 333307",
+    "area": "304802",
+    "latitude": 27.727679199999997,
+    "longitude": 75.4755438,
+    "place_id": "ChIJMVE1yQTPbDkRrNSAweODkow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMVE1yQTPbDkRrNSAweODkow",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:22:57"
+  },
+  {
+    "business_name": "Bajrang Pustak Bhandar",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "304802",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 16,
+    "address": "R3M2+3M3, Bassi Chak, Rajasthan 303301",
+    "area": "304802",
+    "latitude": 26.8326317,
+    "longitude": 76.0516738,
+    "place_id": "ChIJVaVRj2jAbTkRIZNAWedhF58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVaVRj2jAbTkRIZNAWedhF58",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:22:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SOL HOUSE CAFE by RAWAI",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Cafe, Coffee shop",
+    "pincode": "305005",
+    "phone_number": "+91 91166 61667",
+    "website": "https://rawaiexperiences.com/",
+    "rating": 4.7,
+    "reviews_count": 1058,
+    "address": "Rawai Luxury Tents, Pushkar, Brahma Temple Rd, near Savitri Mata Temple, Pushkar, Rajasthan 305022",
+    "area": "305005",
+    "latitude": 26.4835505,
+    "longitude": 74.5449819,
+    "place_id": "ChIJmyKOUKrdazkRe_P7ADYeNjs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmyKOUKrdazkRe_P7ADYeNjs",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:34:42"
+  },
+  {
+    "business_name": "Vijay juice corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "305005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "Shop, Indira Bazar Rd, near Hanuman j mandir, Ajmeri Gate, Jayanti Market, New Colony, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302001",
+    "area": "Ajmeri Gate, Jayanti Market, New Colony",
+    "latitude": 26.9181866,
+    "longitude": 75.8138805,
+    "place_id": "ChIJtTI-jKy2bTkR8En-T3yD0S4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtTI-jKy2bTkR8En-T3yD0S4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:34:43"
+  }
+]

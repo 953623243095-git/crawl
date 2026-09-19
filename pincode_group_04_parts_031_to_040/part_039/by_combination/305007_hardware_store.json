@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajay Hardware & Pipe Fittings",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Electrical supply store",
+    "pincode": "305007",
+    "phone_number": "+91 95093 78320",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "dispensary, near Raj Garden, in front of madar, J P Colony, Ajmer, Rajasthan 305001",
+    "area": "J P Colony",
+    "latitude": 26.459491699999997,
+    "longitude": 74.6804238,
+    "place_id": "ChIJs34GwQHnazkR0PYSXMbjUkg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs34GwQHnazkR0PYSXMbjUkg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:37:11"
+  },
+  {
+    "business_name": "Sushil Hardware Store",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "305007",
+    "phone_number": "+91 145 262 2637",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Madar Gate Rd, Dargah Bazar, Ajmer, Rajasthan 305001",
+    "area": "Dargah Bazar",
+    "latitude": 26.4575377,
+    "longitude": 74.6351785,
+    "place_id": "ChIJo752PRznazkRNXLBSBhs-dg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo752PRznazkRNXLBSBhs-dg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:37:14"
+  }
+]

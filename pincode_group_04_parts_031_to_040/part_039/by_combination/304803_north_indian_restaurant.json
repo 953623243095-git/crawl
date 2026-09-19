@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashoka Dhaba Mandi Waale",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Breakfast restaurant, Dhaba, Fast food restaurant, Hotel, Ice cream shop, Family restaurant, Non Vegetarian Restaurant, Restaurant, Vegetarian restaurant",
+    "pincode": "304803",
+    "phone_number": "+91 70185 02123",
+    "website": "https://www.instagram.com/ashoka_dhabamandiwaale?igsh=MTZobWZ3ZHd1bm1yZw==",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "NH21, chandigarh manali highway, Sambal, Himachal Pradesh 175124",
+    "area": "304803",
+    "latitude": 31.7073771,
+    "longitude": 77.026888,
+    "place_id": "ChIJD7u-kkf9BDkRHJg9sckgdWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD7u-kkf9BDkRHJg9sckgdWg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:23:40"
+  },
+  {
+    "business_name": "Moti Mahal Delux",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Chinese restaurant",
+    "pincode": "304803",
+    "phone_number": "+91 98992 78223",
+    "website": "https://motimahaldelux.in/",
+    "rating": 4.1,
+    "reviews_count": 141,
+    "address": "Station Road Junction, Bhimganj Mandi, Kota, Rajasthan 324002",
+    "area": "Bhimganj Mandi",
+    "latitude": 25.2216818,
+    "longitude": 75.8747946,
+    "place_id": "ChIJ6fKk8VKbbzkRpSWGTcyX8mc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6fKk8VKbbzkRpSWGTcyX8mc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:23:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rudra Pet Shop & Kennel",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Pet store",
+    "pincode": "304802",
+    "phone_number": "+91 97722 38771",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 12,
+    "address": "gourav electronic, Peer baba k agey, k pass main road, Kekri - Deoli Rd, Patel Nagar, Deoli, Rajasthan 304804",
+    "area": "Patel Nagar",
+    "latitude": 25.7578368,
+    "longitude": 75.38025859999999,
+    "place_id": "ChIJHTxEtlzhbjkRW7KZclIwuqQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHTxEtlzhbjkRW7KZclIwuqQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:21:50"
+  },
+  {
+    "business_name": "Modern Pet Store",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "304802",
+    "phone_number": "+91 89016 28889",
+    "website": "https://sites.google.com/view/modernpetstore/home",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "Shop No. 1, near HDFC Bank, Sector C, Defence Colony, Haryana 133010",
+    "area": "Sector C, Defence Colony",
+    "latitude": 30.3826777,
+    "longitude": 76.8629804,
+    "place_id": "ChIJ2ceKaY63DzkRDUtaoXmOxnE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ceKaY63DzkRDUtaoXmOxnE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:21:50"
+  }
+]

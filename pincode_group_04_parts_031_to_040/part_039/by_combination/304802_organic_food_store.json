@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Basyc Organics",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store",
+    "pincode": "304802",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "A-6, near Filter Plant, Patel Nagar, Deoli, Rajasthan 304804",
+    "area": "Patel Nagar",
+    "latitude": 25.7599827,
+    "longitude": 75.3829018,
+    "place_id": "ChIJw6Rk62zhbjkR4FwZwC9XHas",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw6Rk62zhbjkR4FwZwC9XHas",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:21:44"
+  },
+  {
+    "business_name": "Forever living products Distributor",
+    "search_category": "Organic Food Store",
+    "primary_category": "Health and beauty shop",
+    "all_categories": "Health and beauty shop",
+    "pincode": "304802",
+    "phone_number": "+91 90575 37852",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Gadoli, Rajasthan 311201",
+    "area": "304802",
+    "latitude": 25.6883014,
+    "longitude": 75.3739691,
+    "place_id": "ChIJcejy9xDhbjkRRPFcQbbKBCo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcejy9xDhbjkRRPFcQbbKBCo",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:21:46"
+  }
+]

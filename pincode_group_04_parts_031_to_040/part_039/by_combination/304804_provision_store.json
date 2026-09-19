@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "श्री देव ऑल इन 1 स्टोर गांवड़ी",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "304804",
+    "phone_number": "+91 90012 31327",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Gawadi, Bheewarawas, Rajasthan 304804",
+    "area": "Gawadi",
+    "latitude": 25.833987699999998,
+    "longitude": 75.4313856,
+    "place_id": "ChIJwxUAmW_nbjkR9bUkqYoXmEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwxUAmW_nbjkR9bUkqYoXmEg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:25:19"
+  },
+  {
+    "business_name": "Vardhman Provision Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "304804",
+    "phone_number": "+91 99296 11750",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gourav Path, Janta Colony, Jyoti Colony, Deoli, Rajasthan 304804",
+    "area": "Janta Colony, Jyoti Colony",
+    "latitude": 25.755414299999998,
+    "longitude": 75.3777775,
+    "place_id": "ChIJt2sXmNrgbjkR8PAev5dQa-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt2sXmNrgbjkR8PAev5dQa-w",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:25:19"
+  }
+]

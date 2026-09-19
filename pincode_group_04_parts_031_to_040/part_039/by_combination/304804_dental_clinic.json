@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agrawal Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "304804",
+    "phone_number": "+91 98295 44755",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GHOSI MOHALLA, Deoli, Rajasthan 304804",
+    "area": "GHOSI MOHALLA",
+    "latitude": 25.7584114,
+    "longitude": 75.3727126,
+    "place_id": "ChIJySv3As_gbjkRffIQtMbQgu8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJySv3As_gbjkRffIQtMbQgu8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:25:44"
+  },
+  {
+    "business_name": "Bakliwal Dental Hospital &Implant centre",
+    "search_category": "Dental Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "304804",
+    "phone_number": "+91 98875 37399",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-a, 2nd St, Vivekanand Colony, Talwandi, Kota, Deoli, Rajasthan 324005",
+    "area": "Vivekanand Colony, Talwandi",
+    "latitude": 25.7552663,
+    "longitude": 75.38091639999999,
+    "place_id": "ChIJVzFnd_nhbjkRn2_1L85avnk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVzFnd_nhbjkRn2_1L85avnk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:25:44"
+  }
+]

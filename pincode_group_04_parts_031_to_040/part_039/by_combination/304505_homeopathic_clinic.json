@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.Ramhans",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Alternative Medicine Clinic",
+    "all_categories": "Alternative Medicine Clinic, Homeopath",
+    "pincode": "304505",
+    "phone_number": "+91 99297 71318",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kalyan Nagar, Plot.73, Jaipur - Kota Rd, behind Petrol Pump, Shivdaspura, Amirpura Khera, Rajasthan 303903",
+    "area": "304505",
+    "latitude": 26.0172034,
+    "longitude": 75.6898585,
+    "place_id": "ChIJUyA7BpbPbTkRx_BNdmLRA5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUyA7BpbPbTkRx_BNdmLRA5A",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:16:45"
+  },
+  {
+    "business_name": "HOMOEOPATHIC CONSULTATION",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopathic pharmacy",
+    "all_categories": "Homeopathic pharmacy",
+    "pincode": "304505",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "MITRA-NIWAS, Patel Nagar, Deoli, Rajasthan 304804",
+    "area": "Patel Nagar",
+    "latitude": 25.757193899999997,
+    "longitude": 75.3824638,
+    "place_id": "ChIJofdB0fDhbjkR6UC9K6aiBmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJofdB0fDhbjkR6UC9K6aiBmg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:16:48"
+  }
+]

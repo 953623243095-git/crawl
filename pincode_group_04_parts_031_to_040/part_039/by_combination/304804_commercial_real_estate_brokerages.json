@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HDB FINANCIAL SERVICES LTD",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution, Business development service, Car finance and loan company, Loan agency, Mortgage broker, Mortgage lender",
+    "pincode": "304804",
+    "phone_number": "+91 44 4298 4541",
+    "website": "https://www.hdbfs.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1st Floor, No. 120-B/16, Main Road, above PNB, Patel Nagar, Deoli, Rajasthan 304804",
+    "area": "Patel Nagar",
+    "latitude": 25.7576604,
+    "longitude": 75.3817514,
+    "place_id": "ChIJeYsPhJzhbjkRB8c-s7ygkxU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeYsPhJzhbjkRB8c-s7ygkxU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:26:44"
+  },
+  {
+    "business_name": "Aadhar Housing Finance Ltd",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency, Financial advisor, Financial institution, Low income housing program, Mortgage broker, Mortgage lender",
+    "pincode": "304804",
+    "phone_number": "+91 1800 268 4040",
+    "website": "https://aadharhousing.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2nd Floor, Mitra Niwa, No. 19 & 20, Main Market Deoli, Patel Nagar, Deoli, Rajasthan 311201",
+    "area": "Patel Nagar",
+    "latitude": 25.757168699999998,
+    "longitude": 75.3825635,
+    "place_id": "ChIJma0ORFDhbjkRbrdXQ1xPupQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJma0ORFDhbjkRbrdXQ1xPupQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:26:45"
+  }
+]

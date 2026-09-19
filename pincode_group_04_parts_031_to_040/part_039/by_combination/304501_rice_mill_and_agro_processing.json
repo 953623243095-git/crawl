@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mini rice mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "304501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "P2PJ+3R, Hirapur, Chhattisgarh 494237",
+    "area": "304501",
+    "latitude": 19.7351426,
+    "longitude": 82.03204439999999,
+    "place_id": "ChIJhQwTBADtLzoRpF__qyhyrwA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhQwTBADtLzoRpF__qyhyrwA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:10:51"
+  },
+  {
+    "business_name": "Rice mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "304501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "W6RX+252, Punjab 143519",
+    "area": "304501",
+    "latitude": 31.940009399999997,
+    "longitude": 75.2479061,
+    "place_id": "ChIJWdqPbADrGzkRoIEkJEICCNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWdqPbADrGzkRoIEkJEICCNY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:10:51"
+  }
+]

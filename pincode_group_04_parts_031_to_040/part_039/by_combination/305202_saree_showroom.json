@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M'Foks",
+    "search_category": "Saree Showroom",
+    "primary_category": "Fabric store",
+    "all_categories": "Fabric store, Clothes and fabric wholesaler, Designer Clothing Store, Shopping mall, Women's clothing store",
+    "pincode": "305202",
+    "phone_number": "+91 75978 78011",
+    "website": "https://mfoks.com/",
+    "rating": 3.7,
+    "reviews_count": 9,
+    "address": "Kankariya Complex, 3, Pipliya Bazar, Sarawagi Mohalla, Beawar, Rajasthan 305901",
+    "area": "Sarawagi Mohalla",
+    "latitude": 26.099498699999998,
+    "longitude": 74.3187445,
+    "place_id": "ChIJzZsrk0FxaTkRIpwlTyWuxcE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzZsrk0FxaTkRIpwlTyWuxcE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:55:01"
+  },
+  {
+    "business_name": "Shree Nakoda Saree Kharwa",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "305202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shree Nakoda Saree, near Patwar ghar, Kharwa, Beawar, Rajasthan 305202",
+    "area": "305202",
+    "latitude": 26.1916525,
+    "longitude": 74.43682989999999,
+    "place_id": "ChIJ8crzT9plaTkRQfLe_dOR8bY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8crzT9plaTkRQfLe_dOR8bY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:55:01"
+  }
+]

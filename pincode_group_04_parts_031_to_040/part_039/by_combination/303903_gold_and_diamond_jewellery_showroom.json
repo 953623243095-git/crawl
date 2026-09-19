@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NandKishore Meghraj Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "303903",
+    "phone_number": "+91 141 237 3498",
+    "website": "https://meghrajjewellers.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "374, Mirza Ismail Rd, near ajmeri gate, Jayanti Market, Pink City, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302001",
+    "area": "Jayanti Market, Pink City",
+    "latitude": 26.9169909,
+    "longitude": 75.8146719,
+    "place_id": "ChIJT4JgRKy2bTkRfnbJClapkSI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT4JgRKy2bTkRfnbJClapkSI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:49:30"
+  },
+  {
+    "business_name": "ADM Jewellery",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry manufacturer",
+    "all_categories": "Jewelry manufacturer, Jewelry designer",
+    "pincode": "303903",
+    "phone_number": "+91 76159 59540",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 42,
+    "address": "70/115, RHB, Sanganer, Pratap Nagar, Jaipur, Rajasthan 302033",
+    "area": "Sanganer, Pratap Nagar",
+    "latitude": 26.808625199999998,
+    "longitude": 75.81624099999999,
+    "place_id": "ChIJCfT3HGLJbTkRu4rm5i7qLgc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCfT3HGLJbTkRu4rm5i7qLgc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:49:31"
+  }
+]

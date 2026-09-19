@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sampat Beauti Saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "304803",
+    "phone_number": "+91 82092 72334",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "bus stand, Deoli, Rajasthan 304804",
+    "area": "304803",
+    "latitude": 25.7576313,
+    "longitude": 75.3768892,
+    "place_id": "ChIJ_flQ1YzhbjkRWlSdHdE_6GU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_flQ1YzhbjkRWlSdHdE_6GU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:24:24"
+  },
+  {
+    "business_name": "Scissors sallon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "304803",
+    "phone_number": "+91 96672 31857",
+    "website": "https://www.instagram.com/srkkhan_s07?igsh=NnltYXBsZWs2ZDZ3",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Scissors sallon, bus stand, Deoli, Rajasthan 304804",
+    "area": "304803",
+    "latitude": 25.757918,
+    "longitude": 75.37653379999999,
+    "place_id": "ChIJdTmwNQDhbjkRP0s-_1u9Ifs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdTmwNQDhbjkRP0s-_1u9Ifs",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:24:26"
+  }
+]

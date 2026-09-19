@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SR CAR WORLD",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Auto market, Car dealer",
+    "pincode": "303903",
+    "phone_number": "+91 97846 81691",
+    "website": "http://srautoworld.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "23, Main 7 NUMBER STAND, opposite ICICI BANK, Braj Puri, Vidhyadhar Nagar, Sin Ka Barah, Jagatpura, Jaipur, Rajasthan 302017",
+    "area": "Braj Puri, Vidhyadhar Nagar, Sin Ka Barah, Jagatpura",
+    "latitude": 26.824874599999998,
+    "longitude": 75.8466122,
+    "place_id": "ChIJPzna4u_JbTkRV3gH60GBgGI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPzna4u_JbTkRV3gH60GBgGI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:49:49"
+  },
+  {
+    "business_name": "Palace Of Wheels",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, Auto repair shop",
+    "pincode": "303903",
+    "phone_number": "+91 97857 97858",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 21,
+    "address": "Ramchandrapura, E- 2294, near JECRC University - Boys Hostel, Industrial Area, Goner, Jaipur, Vimalpura, Rajasthan 302022",
+    "area": "Industrial Area, Goner",
+    "latitude": 26.7762903,
+    "longitude": 75.87817629999999,
+    "place_id": "ChIJf855GxbJbTkR_PJNjmuR6ro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf855GxbJbTkR_PJNjmuR6ro",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:49:53"
+  }
+]

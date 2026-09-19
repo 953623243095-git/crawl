@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Domino's Pizza | Panchsheel Nagar, Ajmer",
+    "search_category": "Family Restaurant",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Italian restaurant, Pizza delivery, Pizza takeaway, Restaurant",
+    "pincode": "305025",
+    "phone_number": "+91 1800 208 1234",
+    "website": "https://dominos.co.in/",
+    "rating": 3.5,
+    "reviews_count": 246,
+    "address": "Showroom No1, Ground Floor, Block A, near Rajiv Circle, A Block Panchsheel Colony, Commerc, Panchsheel Nagar, Ajmer, Rajasthan 305004",
+    "area": "A Block Panchsheel Colony, Commerc, Panchsheel Nagar",
+    "latitude": 26.5145381,
+    "longitude": 74.63353049999999,
+    "place_id": "ChIJmSdx49vnazkRqIYge_DxLRM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmSdx49vnazkRqIYge_DxLRM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:49:27"
+  },
+  {
+    "business_name": "Royal Rawat Restaurant and pool",
+    "search_category": "Family Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "305025",
+    "phone_number": "+91 82397 72798",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rawato Ki Poll, road, near Bharat gas godam, Kiranipura, Ajmer, Rajasthan 305001",
+    "area": "Adarsh Nagar",
+    "latitude": 26.4483823,
+    "longitude": 74.67987649999999,
+    "place_id": "ChIJp5cNuEnnazkR77YlJJ0SDSo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp5cNuEnnazkR77YlJJ0SDSo",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:49:27"
+  }
+]

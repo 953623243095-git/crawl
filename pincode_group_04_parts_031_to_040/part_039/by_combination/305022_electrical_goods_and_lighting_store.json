@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Electric",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Appliance store, Electronics store, Light bulb supplier, Security system supplier",
+    "pincode": "305022",
+    "phone_number": "+91 95098 75428",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "FHQ4+X5H, near Old Ranji Temple, Choti Basti, Pushkar, Rajasthan 305022",
+    "area": "Choti Basti",
+    "latitude": 26.489940299999997,
+    "longitude": 74.5554952,
+    "place_id": "ChIJn1Yh-iLdazkRDN2JZQ3VWvA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn1Yh-iLdazkRDN2JZQ3VWvA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:44:20"
+  },
+  {
+    "business_name": "Havells Utsav Store - Vedika Enterprises",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store, Electrical equipment supplier",
+    "pincode": "305022",
+    "phone_number": "+91 8071 433 601",
+    "website": "https://partners.havells.com/near-me/nagaur/Thanwala/havells-utsav-store-vedika-enterprises-in-Thanwala-nagaur--4adrU3/home",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Bus Stand, No 01, Ajmer Rd, nearby Government School, Thanwala, Nagaur, Rajasthan 305026",
+    "area": "305022",
+    "latitude": 26.559054,
+    "longitude": 74.46584849999999,
+    "place_id": "ChIJbYm267rFazkRkPSPs5-KXaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbYm267rFazkRkPSPs5-KXaQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:44:20"
+  }
+]

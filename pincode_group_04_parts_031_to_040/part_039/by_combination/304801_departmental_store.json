@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "sheree vinayak coldring",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "304801",
+    "phone_number": "+91 96940 14036",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5QFR+R5V, gandi park ajmer, Rajasthan 305404",
+    "area": "Sanhpura",
+    "latitude": 26.1746119,
+    "longitude": 75.79041409999999,
+    "place_id": "ChIJIT_tmkFhbjkREVAXM3deqME",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIT_tmkFhbjkREVAXM3deqME",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:19:56"
+  },
+  {
+    "business_name": "Gokuldas Gulabchand Tambi",
+    "search_category": "Departmental Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "304801",
+    "phone_number": "+91 96804 04050",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Subhash Bazar, Tonk, Rajasthan 304001",
+    "area": "Subhash Bazar",
+    "latitude": 26.171145,
+    "longitude": 75.7871783,
+    "place_id": "ChIJeTgAUFxhbjkRsPYgc5aAoXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeTgAUFxhbjkRsPYgc5aAoXU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:19:58"
+  }
+]

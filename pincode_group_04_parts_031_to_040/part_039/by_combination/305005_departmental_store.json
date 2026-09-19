@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHAUHAN GROCERY STORE",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "305005",
+    "phone_number": "+91 87348 39524",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near by Harsh Mobile Store, Pancheel Nagar, Ajmer, Hathi Khera, Rajasthan 305005",
+    "area": "Pancheel Nagar",
+    "latitude": 26.464934099999997,
+    "longitude": 74.59284389999999,
+    "place_id": "ChIJpVA-T_zdazkRiJJ0X2HEaWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpVA-T_zdazkRiJJ0X2HEaWQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:34:33"
+  },
+  {
+    "business_name": "Jai Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "305005",
+    "phone_number": "+91 92140 66647",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 8,
+    "address": "Near Pancholi Chorha, Ramnagar, Dayanand Colony, Ajmer, Rajasthan 305004",
+    "area": "Ramnagar, Dayanand Colony",
+    "latitude": 26.468622099999997,
+    "longitude": 74.61164699999999,
+    "place_id": "ChIJq8wA0HXnazkRas5u-sEsH2Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq8wA0HXnazkRas5u-sEsH2Y",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:34:36"
+  }
+]

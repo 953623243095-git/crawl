@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "L.L PET SHOP",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "305005",
+    "phone_number": "+91 85028 30908",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "near Hotel, near Railway station, fort, Pushkar, Ganaheda, Rajasthan 305022",
+    "area": "fort",
+    "latitude": 26.4846075,
+    "longitude": 74.532344,
+    "place_id": "ChIJ9yF2NsfdazkRswo7Yhhwhzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9yF2NsfdazkRswo7Yhhwhzc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:34:39"
+  },
+  {
+    "business_name": "Vetmedics Pet Care Clinic",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Medical clinic",
+    "pincode": "305005",
+    "phone_number": "+91 96497 27555",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Plot No. 992, Hathi Khera Rd, near Kalptru Garden, Pragati Nagar, Kotra, Ajmer, Rajasthan 305004",
+    "area": "Pragati Nagar, Kotra",
+    "latitude": 26.4750394,
+    "longitude": 74.5940227,
+    "place_id": "ChIJQexV9brnazkRvVraOfg8_qw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQexV9brnazkRvVraOfg8_qw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:34:39"
+  }
+]

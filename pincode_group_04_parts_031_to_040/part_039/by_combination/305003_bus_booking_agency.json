@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Honey Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "305003",
+    "phone_number": "+91 94140 02751",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "FJ3M+93P Tent House, Diggi Chowk, Diggi Bazaar, Ajmer, Rajasthan 305001",
+    "area": "Diggi Bazaar",
+    "latitude": 26.453450399999998,
+    "longitude": 74.6327038,
+    "place_id": "ChIJubqmGBnnazkRSka9ZAC_ibo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJubqmGBnnazkRSka9ZAC_ibo",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:31:30"
+  },
+  {
+    "business_name": "Honey Tour & Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency, Airline ticket agency, Bus ticket agency, Railway Ticket Agent",
+    "pincode": "305003",
+    "phone_number": "+91 99282 47147",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "FJ6G+3WQ, Dhan Mandi Chowk, opposite Hotel Mehaman Manzil, Lakhan Kothri, Ajmer, Rajasthan 305001",
+    "area": "Lakhan Kothri",
+    "latitude": 26.460222299999998,
+    "longitude": 74.6273514,
+    "place_id": "ChIJB-hYEBDnazkRBZqgbUwffb8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB-hYEBDnazkRBZqgbUwffb8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:31:30"
+  }
+]

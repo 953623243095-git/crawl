@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JAYPUR PARATHA JUNCTION",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "304503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 452,
+    "address": "NH8 Dudu NH-8, Rajasthan 303008",
+    "area": "304503",
+    "latitude": 26.6601684,
+    "longitude": 75.1871448,
+    "place_id": "ChIJ5YsEbF0RbDkRupWWtChBO-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5YsEbF0RbDkRupWWtChBO-w",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:12:59"
+  },
+  {
+    "business_name": "HOTEL New Highway King(Dober Properties)",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "304503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 23,
+    "address": "Uniyara Khurd, Rajasthan 304502",
+    "area": "304503",
+    "latitude": 26.1563366,
+    "longitude": 75.2204503,
+    "place_id": "ChIJ3YTZNqO7bjkRxueYOTfoaEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3YTZNqO7bjkRxueYOTfoaEE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:13:02"
+  }
+]

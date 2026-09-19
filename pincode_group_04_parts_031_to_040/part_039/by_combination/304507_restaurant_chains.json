@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Namaste And Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Hotel",
+    "pincode": "304507",
+    "phone_number": "+91 98292 72685",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 31,
+    "address": "Jaipur road Bheru Ghat, Udaipurwati, Rajasthan 333307",
+    "area": "304507",
+    "latitude": 27.721322899999997,
+    "longitude": 75.5031468,
+    "place_id": "ChIJJ4br0ivPbDkRHdkHjqa1aFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ4br0ivPbDkRHdkHjqa1aFA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:18:24"
+  },
+  {
+    "business_name": "Jai shree mahakal Rajwadi dhani",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Dessert restaurant, Family restaurant, Indian restaurant, Vegan restaurant, Vegetarian restaurant",
+    "pincode": "304507",
+    "phone_number": "+91 63675 79143",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "J2PG+6W, Aranya Khurd, Rajasthan 326530",
+    "area": "304507",
+    "latitude": 24.635432299999998,
+    "longitude": 76.0273709,
+    "place_id": "ChIJiyr-JABrZTkRGTH58mRjGAw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiyr-JABrZTkRGTH58mRjGAw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:18:25"
+  }
+]

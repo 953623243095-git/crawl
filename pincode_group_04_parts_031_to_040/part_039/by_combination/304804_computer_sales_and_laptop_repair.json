@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HP World - Vallabh Nagar Circle",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "304804",
+    "phone_number": "+91 86579 03692",
+    "website": "https://www.hpworldstores.in/vallabh-nagar-circle-shopping-center/Home",
+    "rating": 4.4,
+    "reviews_count": 146,
+    "address": "337A, Vallabh Nagar Marg, Gumanpura, Kota, Kota Municipal Area, Rajasthan 324007",
+    "area": "Gumanpura",
+    "latitude": 25.1704378,
+    "longitude": 75.8472566,
+    "place_id": "ChIJsa4yk-SbbzkRea9QvUPSHm0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsa4yk-SbbzkRea9QvUPSHm0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:26:35"
+  },
+  {
+    "business_name": "Computer Solutions",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer service",
+    "pincode": "304804",
+    "phone_number": "+91 97801 19446",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 182,
+    "address": "936, Phase-2, Ram Darbar, Chandigarh, 160002",
+    "area": "Phase-2, Ram Darbar",
+    "latitude": 30.6931887,
+    "longitude": 76.7916018,
+    "place_id": "ChIJU5zt0-ftDzkRSTm2boMc9qE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU5zt0-ftDzkRSTm2boMc9qE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:26:37"
+  }
+]

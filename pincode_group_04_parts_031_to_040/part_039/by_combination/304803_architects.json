@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "designICON",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect, Architecture firm, Interior designer",
+    "pincode": "304803",
+    "phone_number": "+91 87440 07600",
+    "website": "http://www.designicon.co.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Lower Ground Floor, 1386, Sector 52, Gurugram, Haryana 122011",
+    "area": "Sarswati Kunj II, Wazirabad, Sector 52",
+    "latitude": 28.4401384,
+    "longitude": 77.08086569999999,
+    "place_id": "ChIJAQAAwNbjDDkRHaevJjOzyec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAwNbjDDkRHaevJjOzyec",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:24:19"
+  },
+  {
+    "business_name": "Shubham Architects",
+    "search_category": "Architects",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "304803",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "514, Main Road, Janta Colony, Teli Mohalla, Deoli, Rajasthan 304804",
+    "area": "Janta Colony, Teli Mohalla",
+    "latitude": 25.7572562,
+    "longitude": 75.37441079999999,
+    "place_id": "ChIJF2C0LwDhbjkR9A4tfzobFFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF2C0LwDhbjkR9A4tfzobFFg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:24:21"
+  }
+]

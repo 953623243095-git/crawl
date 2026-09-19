@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohit store & Shree jee pan palace",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "304504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Dholi darwaja, Diggi, Rajasthan 304504",
+    "area": "Dholi darwaja",
+    "latitude": 26.3768387,
+    "longitude": 75.44049319999999,
+    "place_id": "ChIJAyDZxL6dbjkRqBHx2HpC-Gc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAyDZxL6dbjkRqBHx2HpC-Gc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:16:20"
+  },
+  {
+    "business_name": "श्रीजी मार्केट",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "304504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "श्रीजी मार्केट 10 दुकान, जयपुर रोड, Malpura, Bpar, Rajasthan 304504",
+    "area": "304504",
+    "latitude": 26.3655033,
+    "longitude": 75.4679548,
+    "place_id": "ChIJb2Kzb2mdbjkRtEKfjfIrTKY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb2Kzb2mdbjkRtEKfjfIrTKY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:16:20"
+  }
+]

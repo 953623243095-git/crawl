@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Junia Bagh a Lakeside Homestay",
+    "search_category": "Hotel",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "304502",
+    "phone_number": "N/A",
+    "website": "https://juniabagh.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "73, Manna Maholla, Junia, Kekri, Rajasthan 305406",
+    "area": "304502",
+    "latitude": 26.0850202,
+    "longitude": 75.1895747,
+    "place_id": "ChIJWV0rCLm5bjkRs4lvd1sXkRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWV0rCLm5bjkRs4lvd1sXkRw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:12:07"
+  },
+  {
+    "business_name": "Hotel rising sun",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "304502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 11,
+    "address": "893M+J9G, Unnamed Road, Malpura, Chandsen, Rajasthan 304502",
+    "area": "304502",
+    "latitude": 26.3040719,
+    "longitude": 75.3834404,
+    "place_id": "ChIJ09z6v96YbjkRxn_U8ewmQO8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ09z6v96YbjkRxn_U8ewmQO8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:12:09"
+  }
+]

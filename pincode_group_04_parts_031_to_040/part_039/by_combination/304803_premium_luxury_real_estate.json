@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "UNIMONT IMPERIA",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building, Real Estate Builders & Construction Company",
+    "pincode": "304803",
+    "phone_number": "+91 79001 75555",
+    "website": "http://www.unimontimperia.in/",
+    "rating": 4.5,
+    "reviews_count": 138,
+    "address": "Near Unimont Empire. NH4 - Mumbai, National Highway, Pune, Khopoli, Maharashtra 410203",
+    "area": "Yashwant Nagar",
+    "latitude": 18.7922209,
+    "longitude": 73.3366767,
+    "place_id": "ChIJNbWgl20H6DsRdP7g5EC-ER0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNbWgl20H6DsRdP7g5EC-ER0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:25:01"
+  },
+  {
+    "business_name": "Prime Estates",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "304803",
+    "phone_number": "0300 8466347",
+    "website": "http://www.primeestates.org/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "43-H, Sector H Dha Phase 1, Lahore, 54792, Pakistan",
+    "area": "Sector H Dha Phase 1",
+    "latitude": 31.481509799999998,
+    "longitude": 74.3963266,
+    "place_id": "ChIJmTzbZGoEGTkROmY2_nD6pSU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmTzbZGoEGTkROmY2_nD6pSU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:25:01"
+  }
+]

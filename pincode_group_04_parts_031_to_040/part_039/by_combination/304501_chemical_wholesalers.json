@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gaurav Enterprises Surajpura",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Household chemicals supplier",
+    "all_categories": "Household chemicals supplier",
+    "pincode": "304501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "7G96+2CW, Malpura, Karela, Rajasthan 304501",
+    "area": "304501",
+    "latitude": 26.267612099999997,
+    "longitude": 75.5110905,
+    "place_id": "ChIJGwATTACbbjkRLFF9yMsK66Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGwATTACbbjkRLFF9yMsK66Y",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:10:47"
+  },
+  {
+    "business_name": "Dev bhawan",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Household chemicals supplier",
+    "all_categories": "Household chemicals supplier",
+    "pincode": "304501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7H7F+F5H, Ghasipura, Rajasthan 304501",
+    "area": "304501",
+    "latitude": 26.2636942,
+    "longitude": 75.57297439999999,
+    "place_id": "ChIJR-9LRACFbjkRkKhRZhuYOCo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR-9LRACFbjkRkKhRZhuYOCo",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:10:47"
+  }
+]

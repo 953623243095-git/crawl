@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Poll business",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Notary public",
+    "all_categories": "Notary public",
+    "pincode": "303908",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kaila Ka Bas, Sonar, Rajasthan 303510",
+    "area": "303908",
+    "latitude": 26.687674299999998,
+    "longitude": 76.179823,
+    "place_id": "ChIJndlZOY7vbTkRDENs-WngbdQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJndlZOY7vbTkRDENs-WngbdQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:56:28"
+  },
+  {
+    "business_name": "PERFICIENT FINANCIAL SERVICES",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant",
+    "pincode": "303908",
+    "phone_number": "+91 99833 06533",
+    "website": "http://www.pankajkumarsharma.co.in/",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "Ashoka Tower, JDA Shopping Center, D15 & D16, Tonk Rd, opposite Central Bank, Laxmi Colony, Lalkothi, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302015",
+    "area": "Laxmi Colony, Lalkothi",
+    "latitude": 26.8819482,
+    "longitude": 75.7989997,
+    "place_id": "ChIJrZ6P0Eu1bTkR4or952lY4Do",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZ6P0Eu1bTkR4or952lY4Do",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:56:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JB Event Planner",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Event management company, Event technology service, Party planner, Wedding buffet, Wedding photographer, Wedding planner, Wedding Portrait Studio, Wedding service",
+    "pincode": "305201",
+    "phone_number": "+91 90278 81243",
+    "website": "https://jbevent.co.in/",
+    "rating": 5,
+    "reviews_count": 57,
+    "address": "no 1, Lane, Turner Rd, Bharuwala Colony, Clement Town, Dehradun, Bharu Wala Grant, Uttarakhand 248002",
+    "area": "Bharuwala Colony, Clement Town",
+    "latitude": 30.2739972,
+    "longitude": 78.0045032,
+    "place_id": "ChIJzeLQ3ucrCTkRR65mDt75t6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzeLQ3ucrCTkRR65mDt75t6U",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:54:08"
+  },
+  {
+    "business_name": "N R Event Planar",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "305201",
+    "phone_number": "+91 96499 77826",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pisangan, Rajasthan 305204",
+    "area": "305201",
+    "latitude": 26.3998946,
+    "longitude": 74.3785317,
+    "place_id": "ChIJv3rLOsvQazkRaLOLwQv5cKk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv3rLOsvQazkRaLOLwQv5cKk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:54:12"
+  }
+]

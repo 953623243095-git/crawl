@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TEJAL ICECREAM",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "305022",
+    "phone_number": "+91 82334 33914",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Mg Hospital, Pushkar, Ajmer, Rajasthan 305022",
+    "area": "305022",
+    "latitude": 26.493651999999997,
+    "longitude": 74.5499681,
+    "place_id": "ChIJN6Fk5cXdazkR1mAlVRMUtWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN6Fk5cXdazkR1mAlVRMUtWs",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:43:47"
+  },
+  {
+    "business_name": "VADILAL ICECREAM DISTRIBUTOR PUSHKAR & ICE CUBE AVAILABLE",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "305022",
+    "phone_number": "+91 78499 93258",
+    "website": "https://youtube.com/@flavor_ride?si=RkeL16dus77KFS1f",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Bank of Baroda ke pas, Ganahera, Pushkar, Ganaheda, Rajasthan 305022",
+    "area": "Ganahera",
+    "latitude": 26.495616199999997,
+    "longitude": 74.5405866,
+    "place_id": "ChIJw6QwxtXdazkRDHUfp9cpvaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw6QwxtXdazkRDHUfp9cpvaM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:43:47"
+  }
+]

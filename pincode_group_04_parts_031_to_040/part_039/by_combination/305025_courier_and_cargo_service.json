@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DTDC Courier Company",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "305025",
+    "phone_number": "+91 97849 50173",
+    "website": "http://www.dtdc.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Verma petrol pump, Shreenagar, Rajasthan 305025",
+    "area": "305025",
+    "latitude": 26.443628399999998,
+    "longitude": 74.7846465,
+    "place_id": "ChIJAZp0QD77azkRpnq8SMbnkWI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAZp0QD77azkRpnq8SMbnkWI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:50:42"
+  },
+  {
+    "business_name": "Shree Maruti Courier Service - National Highway",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "305025",
+    "phone_number": "+91 70232 33046",
+    "website": "https://nearme.shreemaruti.com/locator/ajmer/National-Highway-48/shree-maruti-courier-service-in-National-Highway-48-ajmer--7kfBPD/home",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shreenagar, NH 48, nearby Yadav Petrol Pump, Rajasthan 305025",
+    "area": "305025",
+    "latitude": 26.541175799999998,
+    "longitude": 74.86827269999999,
+    "place_id": "ChIJ9WyZt4D7azkRgAnMInnFDCM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9WyZt4D7azkRgAnMInnFDCM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:50:42"
+  }
+]

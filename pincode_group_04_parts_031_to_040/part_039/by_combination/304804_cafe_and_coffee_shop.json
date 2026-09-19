@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Panwar House",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "304804",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Q92M+FPF Panwar, Panwar road, Jyoti Colony, Deoli, Rajasthan 304804",
+    "area": "Jyoti Colony",
+    "latitude": 25.751186,
+    "longitude": 75.3842878,
+    "place_id": "ChIJqw87YgDhbjkRTyNERPVAp9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqw87YgDhbjkRTyNERPVAp9A",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:25:32"
+  },
+  {
+    "business_name": "GUN2 COFFEE PACAKAGING UNIT",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Beverage Store",
+    "all_categories": "Beverage Store",
+    "pincode": "304804",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "62, behind PS GARDEN, Shikshak Nagar, Mata Ka Than, Rawat Nagar, Jodhpur, Rajasthan 342001",
+    "area": "Shikshak Nagar, Mata Ka Than, Rawat Nagar",
+    "latitude": 26.320780199999998,
+    "longitude": 73.08088699999999,
+    "place_id": "ChIJUWNu66GNQTkRKRvlAtau7Y4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUWNu66GNQTkRKRvlAtau7Y4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:25:32"
+  }
+]

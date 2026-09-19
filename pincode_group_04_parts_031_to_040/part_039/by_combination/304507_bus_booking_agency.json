@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ghatiyali Busstend",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "304507",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Q7Q8+CHH, Unnamed Road,, Ghatiyali, Rajasthan 305407",
+    "area": "304507",
+    "latitude": 25.7885526,
+    "longitude": 75.26649619999999,
+    "place_id": "ChIJi2Zn3GjcbjkRUGDSDCGWrTQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi2Zn3GjcbjkRUGDSDCGWrTQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:18:50"
+  },
+  {
+    "business_name": "Sharma Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "304507",
+    "phone_number": "+91 151 222 2111",
+    "website": "http://www.sharmabus.in/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "near Suraj Talkies, Rani Bazar, Bikaner, Bikaner City, Rajasthan 334001",
+    "area": "Rani Bazar",
+    "latitude": 28.0088415,
+    "longitude": 73.3207384,
+    "place_id": "ChIJCYesoIHnPzkR0_lglqJaHYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCYesoIHnPzkR0_lglqJaHYo",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:18:52"
+  }
+]

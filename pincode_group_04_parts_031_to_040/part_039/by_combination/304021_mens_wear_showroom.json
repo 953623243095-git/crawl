@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Peter England Menswear Exclusive Showroom",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "304021",
+    "phone_number": "+91 96940 33216",
+    "website": "http://red.peterengland.com/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Peter England, Aye Finance Building, Tonk Road, Krishna Colony, Newai, Rajasthan 304021",
+    "area": "Krishna Colony",
+    "latitude": 26.355795999999998,
+    "longitude": 75.9245365,
+    "place_id": "ChIJqdbhpuZxbjkRnY4qdvJoDT4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqdbhpuZxbjkRnY4qdvJoDT4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:58:52"
+  },
+  {
+    "business_name": "Shree Dev Fasion Point Newai",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "304021",
+    "phone_number": "+91 98282 88120",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Banasthali Mod, Newai, Rupawas, Rajasthan 304022",
+    "area": "304021",
+    "latitude": 26.3879602,
+    "longitude": 75.9286363,
+    "place_id": "ChIJJ5q6mBl3bjkR6HDZ78Ajd7s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ5q6mBl3bjkR6HDZ78Ajd7s",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:58:52"
+  }
+]

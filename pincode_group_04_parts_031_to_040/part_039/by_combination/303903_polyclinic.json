@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aman Poly Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "303903",
+    "phone_number": "+91 96940 02221",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RQ6Q+9P7, Shikarpura Rd, Subhash Colony, Sanganer, Jaipur, Rajasthan 302029",
+    "area": "Subhash Colony, Sanganer",
+    "latitude": 26.810922299999998,
+    "longitude": 75.7892968,
+    "place_id": "ChIJMWqo1xPKbTkReJSPe2dqV8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMWqo1xPKbTkReJSPe2dqV8I",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:49:44"
+  },
+  {
+    "business_name": "Suman Clinic & Diagnostics Centre",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Diagnostic center",
+    "pincode": "303903",
+    "phone_number": "+91 92140 85107",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop No. 16, Shopping Center, behind Suman Medical, Sanganer, Sector 3, Pratap Nagar, Jaipur, Rajasthan 302033",
+    "area": "Sanganer, Sector 3, Pratap Nagar",
+    "latitude": 26.806462,
+    "longitude": 75.802531,
+    "place_id": "ChIJuz6fIh_KbTkRtrfNhxBkNLE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuz6fIh_KbTkRtrfNhxBkNLE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:49:45"
+  }
+]

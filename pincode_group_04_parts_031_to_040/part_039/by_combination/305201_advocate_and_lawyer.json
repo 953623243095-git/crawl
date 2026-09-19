@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adesh Legal Services",
+    "search_category": "Advocate and Lawyer",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services, Service establishment",
+    "pincode": "305201",
+    "phone_number": "N/A",
+    "website": "https://adeshlegalservices.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Adesh Legal Services, 305201, India",
+    "area": "305201",
+    "latitude": 30.4543486,
+    "longitude": 76.4443752,
+    "place_id": "ChIJIWKFzW-FpkURE4O86z_-PkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIWKFzW-FpkURE4O86z_-PkA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:54:24"
+  },
+  {
+    "business_name": "Arjun S Advocate",
+    "search_category": "Advocate and Lawyer",
+    "primary_category": "Criminal justice attorney",
+    "all_categories": "Criminal justice attorney",
+    "pincode": "305201",
+    "phone_number": "+91 99942 87060",
+    "website": "https://www.askadvocates.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "10-15, Bharathi Salai, Mogappair West, Ambattur Industrial Estate, Chennai, Tamil Nadu 600037",
+    "area": "Mogappair West, Ambattur Industrial Estate",
+    "latitude": 13.0800767,
+    "longitude": 80.1706043,
+    "place_id": "ChIJ42QqGgBjUjoRywxGBSMMe30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ42QqGgBjUjoRywxGBSMMe30",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:54:24"
+  }
+]

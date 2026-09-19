@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma tea stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "304021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 13,
+    "address": "9W2V+888, 80 Feet Rd, Shiv Nagar, Newai, Rajasthan 304021",
+    "area": "Shiv Nagar",
+    "latitude": 26.3507958,
+    "longitude": 75.9433129,
+    "place_id": "ChIJAylW_OZxbjkR9JS3l9mzVVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAylW_OZxbjkR9JS3l9mzVVk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:58:44"
+  },
+  {
+    "business_name": "Dadhich Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store, Soft drinks shop, Vegetarian restaurant",
+    "pincode": "304021",
+    "phone_number": "+91 99294 12953",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 567,
+    "address": "Kaga Road Outside, Nagori Gate Kila Rd, near Mutha Ji Mandir, Lawaran, Jodhpur, Rajasthan 342006",
+    "area": "Outside Nagori Gate, Lawaran",
+    "latitude": 26.304008,
+    "longitude": 73.032861,
+    "place_id": "ChIJp6hcQaSNQTkRJWnkfsnkCCM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp6hcQaSNQTkRJWnkfsnkCCM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:58:44"
+  }
+]

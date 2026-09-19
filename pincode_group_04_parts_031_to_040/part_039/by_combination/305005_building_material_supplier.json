@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SUPER SALES CORPORATION",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "305005",
+    "phone_number": "+91 75970 23003",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "Geet Colony, BK Kaul Nagar, Dayanand Colony, Ajmer, Boraj Kazipura, Rajasthan 305004",
+    "area": "Geet Colony, BK Kaul Nagar, Dayanand Colony",
+    "latitude": 26.4650163,
+    "longitude": 74.6047677,
+    "place_id": "ChIJ2XWHPADnazkRITnX2c8uNwE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2XWHPADnazkRITnX2c8uNwE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:35:22"
+  },
+  {
+    "business_name": "Swastik Tiles & Building Materials",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store",
+    "pincode": "305005",
+    "phone_number": "+91 87694 29552",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "FJ98+F7P, near chandak hospital main, Pushkar Rd, Rajasthan 305004",
+    "area": "Mahaveer Colony",
+    "latitude": 26.4687169,
+    "longitude": 74.61570929999999,
+    "place_id": "ChIJXSFiJnXnazkRPWZMyrBqVrg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXSFiJnXnazkRPWZMyrBqVrg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:35:22"
+  }
+]

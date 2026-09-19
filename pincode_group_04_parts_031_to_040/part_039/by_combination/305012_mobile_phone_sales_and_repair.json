@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parth Mobile",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Cell phone accessory store, Mobile home dealer, Mobile phone repair shop",
+    "pincode": "305012",
+    "phone_number": "+91 98250 59871",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "G-14, Sanskrut Residency, beside Swastik Tower, opp. Gayatri khaman, Sham Nagar, Sarthana Jakat Naka, Nana Varachha, Surat, Gujarat 395013",
+    "area": "Sham Nagar, Sarthana Jakat Naka, Nana Varachha",
+    "latitude": 21.229183,
+    "longitude": 72.90123779999999,
+    "place_id": "ChIJKyykPAZP4DsRKl2K58bT7eg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKyykPAZP4DsRKl2K58bT7eg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:41:21"
+  },
+  {
+    "business_name": "Prasad Cell Care",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop, Cell phone accessory store, Cell phone store, Educational testing service, Electronics repair shop, Institute of technology, Phone repair service, Screen repair service, Training center",
+    "pincode": "305012",
+    "phone_number": "+91 99499 48994",
+    "website": "http://prasadcellcare.com/",
+    "rating": 4.7,
+    "reviews_count": 1043,
+    "address": "30-15-111A, prasadcellcare, woodland show room upstairs, woodland show upstairs, Daba Gardens, Andhra Pradesh 530020",
+    "area": "Daba Gardens, Mahaarajupeta",
+    "latitude": 17.7201923,
+    "longitude": 83.30301709999999,
+    "place_id": "ChIJic8AhfZDOToRne2oeIC16Sc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJic8AhfZDOToRne2oeIC16Sc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:41:22"
+  }
+]

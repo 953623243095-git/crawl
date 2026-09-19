@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Shyam Traders",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "304804",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q95J+65V, Patel Nagar, Deoli, Rajasthan 304804",
+    "area": "Patel Nagar",
+    "latitude": 25.758111,
+    "longitude": 75.3804315,
+    "place_id": "ChIJ3fIUgYPhbjkR_V_TA68zUKw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3fIUgYPhbjkR_V_TA68zUKw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:26:02"
+  },
+  {
+    "business_name": "Raj paints& hardware",
+    "search_category": "Hardware Store",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "304804",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Q94H+38P, Janta Colony, Jyoti Colony, Deoli, Rajasthan 304804",
+    "area": "Janta Colony, Jyoti Colony",
+    "latitude": 25.7552132,
+    "longitude": 75.3783461,
+    "place_id": "ChIJqdCIQADhbjkRtwXD5cEsPpQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqdCIQADhbjkRtwXD5cEsPpQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:26:03"
+  }
+]

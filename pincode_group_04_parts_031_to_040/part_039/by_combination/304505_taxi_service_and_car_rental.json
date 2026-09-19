@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taxi car",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "304505",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Vp-dabardumba, Khatikan Mohalla, Todaraisingh, Toda Raisingh Muncipal Area, Rajasthan 304505",
+    "area": "Khatikan Mohalla",
+    "latitude": 26.024545099999997,
+    "longitude": 75.48382459999999,
+    "place_id": "ChIJsRBN0FPtbjkRQ_7VLIfWxOM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsRBN0FPtbjkRQ_7VLIfWxOM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:17:02"
+  },
+  {
+    "business_name": "Keep Taxi",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Car rental agency, Tour agency, Tour operator",
+    "pincode": "304505",
+    "phone_number": "+91 86962 33888",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 150,
+    "address": "E-1 Surya Darshan Apartment, near Brahma Kumaris Shantivan, Abu Road, Rajasthan 307510",
+    "area": "Talahati",
+    "latitude": 24.528013299999998,
+    "longitude": 72.7954159,
+    "place_id": "ChIJ5boYrK8pXTkRisdi2ZUgDgc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5boYrK8pXTkRisdi2ZUgDgc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:17:02"
+  }
+]

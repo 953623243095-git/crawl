@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "304802",
+    "phone_number": "+91 98298 03298",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "2MCF+JGR, Sadar Bazar Rd, Borawar, Borawad, Rajasthan 341502",
+    "area": "Borawar",
+    "latitude": 27.0216148,
+    "longitude": 74.6737588,
+    "place_id": "ChIJe3m9bI-eazkRkhMWpgC0kj8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe3m9bI-eazkRkhMWpgC0kj8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:22:04"
+  },
+  {
+    "business_name": "Goldsmith",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "304802",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "lakharo ka mohala, near Lakharo ka mohla, Jaitaran, Rajasthan 306302",
+    "area": "304802",
+    "latitude": 26.2047727,
+    "longitude": 73.9301622,
+    "place_id": "ChIJwVl4lY2LaTkRnsc4jqTeQrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwVl4lY2LaTkRnsc4jqTeQrc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:22:04"
+  }
+]

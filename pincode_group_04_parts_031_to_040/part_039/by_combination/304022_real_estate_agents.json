@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Barwal Enterprises",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "304022",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CWQQ+MW7, Mundia Rd, Barh Damodarpura, Gunsi, Rajasthan 304021",
+    "area": "304022",
+    "latitude": 26.4391631,
+    "longitude": 75.9397951,
+    "place_id": "ChIJzxfQYZl3bjkRCKADjpAykzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzxfQYZl3bjkRCKADjpAykzc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:01:51"
+  },
+  {
+    "business_name": "Sauda properties",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "304022",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9W4P+R8P, Jain Colony, Indira Colony, Niwai, Newai, Rajasthan 304021",
+    "area": "Jain Colony, Indira Colony",
+    "latitude": 26.357082899999998,
+    "longitude": 75.9358227,
+    "place_id": "ChIJoW6AXwBxbjkRDPa8vBeEFAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoW6AXwBxbjkRDPa8vBeEFAg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:01:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lokesh kotwal",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "304025",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "74MW+5HH, Bonli, Basra Banesingh, Rajasthan 322023",
+    "area": "304025",
+    "latitude": 26.282937,
+    "longitude": 76.1464743,
+    "place_id": "ChIJMa6jUuYTbjkRlga3GSMcC04",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMa6jUuYTbjkRlga3GSMcC04",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:06:05"
+  },
+  {
+    "business_name": "Doctor house",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Veterinary pharmacy",
+    "all_categories": "Veterinary pharmacy",
+    "pincode": "304025",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jaato ka mohallah, Newai, Nohata, Rajasthan 304025",
+    "area": "304025",
+    "latitude": 26.3309742,
+    "longitude": 76.10443459999999,
+    "place_id": "ChIJ9VzpV60NbjkRbFVky1CyNe0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9VzpV60NbjkRbFVky1CyNe0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:06:06"
+  }
+]

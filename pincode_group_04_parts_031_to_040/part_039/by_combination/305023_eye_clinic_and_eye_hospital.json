@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amar Jyoth Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "305023",
+    "phone_number": "+91 1463 244 575",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 7,
+    "address": "HVP6+C7V, Madanganj, Kishangarh, Rajasthan 305801",
+    "area": "Madanganj",
+    "latitude": 26.5861241,
+    "longitude": 74.8606689,
+    "place_id": "ChIJVVWluNnwazkRcSQfvvK1iCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVWluNnwazkRcSQfvvK1iCk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:45:58"
+  },
+  {
+    "business_name": "Chandak Eye Hospital - Dr.L.N.Chandak",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "305023",
+    "phone_number": "+91 145 242 0595",
+    "website": "http://www.pcmmhospital.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Unnamed Road, Dumada, Hathi Bhata, Ajmer, Rajasthan 305001",
+    "area": "Dumada, Hathi Bhata",
+    "latitude": 26.462873599999998,
+    "longitude": 74.6326812,
+    "place_id": "ChIJWZuPwATnazkRXFCrRJOhR4E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWZuPwATnazkRXFCrRJOhR4E",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:45:59"
+  }
+]

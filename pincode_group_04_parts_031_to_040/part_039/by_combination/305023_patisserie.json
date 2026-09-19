@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The finger licious Bakers Ajmer",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "305023",
+    "phone_number": "+91 90242 21456",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Sarveshwar Nagar, Ajmer, Rajasthan 305001",
+    "area": "Sarveshwar Nagar",
+    "latitude": 26.4833292,
+    "longitude": 74.64840819999999,
+    "place_id": "ChIJBbXfmVHnazkR55MRwxb5Iko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBbXfmVHnazkR55MRwxb5Iko",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:45:35"
+  },
+  {
+    "business_name": "Shreya's Bake HOUSE",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "305023",
+    "phone_number": "+91 77425 51098",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 29,
+    "address": "04, Block A, Mayura City, Ajmer Rd, near Dmart, Mayura City, Kishangarh, Rajasthan 305801",
+    "area": "Mayura City",
+    "latitude": 26.5614752,
+    "longitude": 74.8204454,
+    "place_id": "ChIJjyPMmOzxazkRHltNDeaGDe0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjyPMmOzxazkRHltNDeaGDe0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:45:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Computer",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "304801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Panch kuiyan darwaja, Purani Tonk, Pindaron Ka Mohalla, Tonk, Rajasthan 304001",
+    "area": "Purani Tonk, Pindaron Ka Mohalla",
+    "latitude": 26.1789758,
+    "longitude": 75.7917497,
+    "place_id": "ChIJceCJiCZhbjkRmHEVXPVyHnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJceCJiCZhbjkRmHEVXPVyHnc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:20:39"
+  },
+  {
+    "business_name": "Jain traderas",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "304801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "559, Ghanta Ghar Rd, Saadat Ganj, Tonk, Rajasthan 304001",
+    "area": "Saadat Ganj",
+    "latitude": 26.1652865,
+    "longitude": 75.78634869999999,
+    "place_id": "ChIJTQNgcABhbjkRfQzFA9ojXqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTQNgcABhbjkRfQzFA9ojXqA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:20:39"
+  }
+]

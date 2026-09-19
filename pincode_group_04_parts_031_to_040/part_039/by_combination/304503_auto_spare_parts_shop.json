@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mansuri Tyres & Auto Part's",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "304503",
+    "phone_number": "+91 77929 97569",
+    "website": "N/A",
+    "rating": 1.7,
+    "reviews_count": null,
+    "address": "Lamba Hari Singh, Rajasthan 304503",
+    "area": "304503",
+    "latitude": 26.3062707,
+    "longitude": 75.1638574,
+    "place_id": "ChIJBW_N0QWmbjkR8__7U7ZeWvc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBW_N0QWmbjkR8__7U7ZeWvc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:13:26"
+  },
+  {
+    "business_name": "Adarsh Engineering Company",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "304503",
+    "phone_number": "+91 70145 16177",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ajmer Road, near Welcome Medical, Malpura, Ajmer, Rajasthan 305813",
+    "area": "304503",
+    "latitude": 26.341899899999998,
+    "longitude": 75.1200562,
+    "place_id": "ChIJ34WyyHSZbjkR9iYfXighEjA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ34WyyHSZbjkR9iYfXighEjA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:13:26"
+  }
+]

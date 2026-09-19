@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Buddhiprakash Hair Salon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "304503",
+    "phone_number": "+91 98299 06129",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "54XV+X3, Manoharpura, Rajasthan 305412",
+    "area": "304503",
+    "latitude": 26.1998195,
+    "longitude": 75.1428813,
+    "place_id": "ChIJJ9GVfuaxbjkRkIkYMQvGMmA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ9GVfuaxbjkRkIkYMQvGMmA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:13:43"
+  },
+  {
+    "business_name": "Shubham hair Salon Dabrela",
+    "search_category": "Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser",
+    "pincode": "304503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "Dabrela, Rajasthan 305412",
+    "area": "304503",
+    "latitude": 26.2145624,
+    "longitude": 75.0079379,
+    "place_id": "ChIJG7q2nN-tbjkRuvBDx3JCPho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG7q2nN-tbjkRuvBDx3JCPho",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:13:44"
+  }
+]

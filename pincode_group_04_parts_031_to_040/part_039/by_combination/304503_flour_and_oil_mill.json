@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji oil industries",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "304503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "892H+W8M, Industrial Area, Malpura, Chandsen, Rajasthan 304502",
+    "area": "Industrial Area",
+    "latitude": 26.3023375,
+    "longitude": 75.3782969,
+    "place_id": "ChIJ-xZ0awCZbjkRxJtGdwArXxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-xZ0awCZbjkRxJtGdwArXxI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:14:25"
+  },
+  {
+    "business_name": "Shree Ghati Balaji",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "304503",
+    "phone_number": "+91 97842 96070",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "H1/61-63-74-76, Industrial Area, Malpura, Chandsen, Rajasthan 304502",
+    "area": "Industrial Area",
+    "latitude": 26.3034356,
+    "longitude": 75.3776524,
+    "place_id": "ChIJVVVVldyYbjkRzVpfGjGDfG8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVldyYbjkRzVpfGjGDfG8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:14:25"
+  }
+]

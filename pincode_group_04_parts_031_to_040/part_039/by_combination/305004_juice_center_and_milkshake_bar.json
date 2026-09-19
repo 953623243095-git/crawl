@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Think Juice",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Restaurant",
+    "pincode": "305004",
+    "phone_number": "+91 73033 33412",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shreeji Heights, Shreeji Ville 2, Takandas Kataria Marg, Mainak Wadi, Joshi Vadi, Matunga West, Mumbai, Maharashtra 400016",
+    "area": "Mainak Wadi, Joshi Vadi, Matunga West",
+    "latitude": 19.0306241,
+    "longitude": 72.8453415,
+    "place_id": "ChIJmXUp4cnP5zsR6Zi0upzOtmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmXUp4cnP5zsR6Zi0upzOtmM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:32:50"
+  },
+  {
+    "business_name": "The Juice Art by Gulshan Chawla",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Cafe",
+    "pincode": "305004",
+    "phone_number": "+91 98100 03601",
+    "website": "http://www.thejuiceart.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "1578, Church Rd, Old Delhi, Kashmere Gate, Delhi, 110006",
+    "area": "Old Delhi, Kashmere Gate",
+    "latitude": 28.6666478,
+    "longitude": 77.23128299999999,
+    "place_id": "ChIJAQAAkAr9DDkRl34RmDHO2gE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAkAr9DDkRl34RmDHO2gE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:32:52"
+  }
+]

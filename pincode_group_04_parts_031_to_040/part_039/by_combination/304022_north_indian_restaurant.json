@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajeet Dhaba Khana Khazana Pure Veg Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Dhaba",
+    "pincode": "304022",
+    "phone_number": "+91 90792 45606",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Gumanpura, Kota, Kota Municipal Area, Rajasthan 324007",
+    "area": "Gumanpura",
+    "latitude": 25.1723259,
+    "longitude": 75.851334,
+    "place_id": "ChIJy_bFiCmbbzkRPa6pU5EythY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy_bFiCmbbzkRPa6pU5EythY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:00:35"
+  },
+  {
+    "business_name": "New Maheshwari Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Vegetarian restaurant",
+    "pincode": "304022",
+    "phone_number": "+91 74423 60562",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 1998,
+    "address": "Chhawani Chauraha, Ramchandrapura, Dhanmandi, Kota, Rajasthan 324007",
+    "area": "Ramchandrapura, Dhanmandi",
+    "latitude": 25.1714889,
+    "longitude": 75.85245689999999,
+    "place_id": "ChIJy-W2FNaabzkR5mvQ8wdLNfY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy-W2FNaabzkR5mvQ8wdLNfY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:00:36"
+  }
+]

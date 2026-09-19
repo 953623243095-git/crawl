@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Archana boutique",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "305005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pragati Nagar, Kotra, Ajmer, Rajasthan 305001",
+    "area": "Pragati Nagar, Kotra",
+    "latitude": 26.472813799999997,
+    "longitude": 74.5913698,
+    "place_id": "ChIJa7IHMpjdazkRCvK67-mfYAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa7IHMpjdazkRCvK67-mfYAE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:34:51"
+  },
+  {
+    "business_name": "Ratan Tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "305005",
+    "phone_number": "+91 98291 23947",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ladies tailor, 7, Foy Sagar Rd, Soni Nagar, Jyoti Nagar, Ajmer, Rajasthan 305004",
+    "area": "Soni Nagar, Jyoti Nagar",
+    "latitude": 26.462039899999997,
+    "longitude": 74.6105487,
+    "place_id": "ChIJ2XXJgXHnazkRDt-fcUNmZpM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2XXJgXHnazkRDt-fcUNmZpM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:34:51"
+  }
+]

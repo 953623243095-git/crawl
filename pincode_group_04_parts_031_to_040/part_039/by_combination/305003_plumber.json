@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bathroom Expert",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Service establishment",
+    "pincode": "305003",
+    "phone_number": "N/A",
+    "website": "https://bathroomexpert-1.ueniweb.com/?utm_campaign=gmb",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bathroom Expert, 305003, India",
+    "area": "305003",
+    "latitude": 26.628406199999997,
+    "longitude": 73.8783471,
+    "place_id": "ChIJU8KgXyznazkRkH0Ov69RYMM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU8KgXyznazkRkH0Ov69RYMM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:31:37"
+  },
+  {
+    "business_name": "Pappu Puniya",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Bakery and Cake Shop",
+    "pincode": "305003",
+    "phone_number": "+91 99503 25100",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "4, Lajpat Nagar, Ramganj, Ajmer, Rajasthan 305001",
+    "area": "Lajpat Nagar, Ramganj",
+    "latitude": 26.426849999999998,
+    "longitude": 74.6316997,
+    "place_id": "ChIJfRdlubnnazkRyrJUuh13aGA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfRdlubnnazkRyrJUuh13aGA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:31:37"
+  }
+]

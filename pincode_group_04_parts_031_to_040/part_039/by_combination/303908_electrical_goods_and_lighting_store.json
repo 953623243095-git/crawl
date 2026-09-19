@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A.V. Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store, Electrical appliance wholesaler, Electrical equipment supplier, Electrical products wholesaler, Wholesaler",
+    "pincode": "303908",
+    "phone_number": "+91 94171 50706",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sco-1, Sky tower) , 160062, near katani sweets, Phase 3B1, Sector 68, Kumbra, Sahibzada Ajit Singh Nagar, Punjab 160062",
+    "area": "Phase 3B1, Sector 68, Kumbra",
+    "latitude": 30.6861735,
+    "longitude": 76.7272029,
+    "place_id": "ChIJadpy9aPuDzkR422V-jcaoqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJadpy9aPuDzkR422V-jcaoqA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:55:44"
+  },
+  {
+    "business_name": "Guru Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store, Electrical repair shop, Electronics manufacturer, Electronics repair shop, Light bulb supplier, Electronics wholesaler, Lighting products wholesaler",
+    "pincode": "303908",
+    "phone_number": "+91 93579 96888",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "brar complex, Ms Enclave, Dhakoli, Zirakpur, Punjab 160104",
+    "area": "Ms Enclave, Dhakoli",
+    "latitude": 30.656402,
+    "longitude": 76.8466468,
+    "place_id": "ChIJS2zm-veVDzkRmX47acklfbc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS2zm-veVDzkRmX47acklfbc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:55:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Shree Ram",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "305025",
+    "phone_number": "+91 77429 15006",
+    "website": "https://www.instagram.com/shreeram_hotel?igsh=ajBqbzUwcTZkcG10",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Nh 48, kishangarh Bhilwara highway, Shreenagar, Ajmer, Rajasthan 305025",
+    "area": "305025",
+    "latitude": 26.4719534,
+    "longitude": 74.8137881,
+    "place_id": "ChIJHxV6a6z7azkRQxFYzuxs8Gg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHxV6a6z7azkRQxFYzuxs8Gg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:50:19"
+  },
+  {
+    "business_name": "Hotel JK INN",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "305025",
+    "phone_number": "+91 94608 87744",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 9,
+    "address": "Geeta St, J P Colony, Ajmer, Madarpura, Rajasthan 305024",
+    "area": "J P Colony",
+    "latitude": 26.4592028,
+    "longitude": 74.67981329999999,
+    "place_id": "ChIJ670SUADnazkRugVQVpoaLW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ670SUADnazkRugVQVpoaLW0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:50:21"
+  }
+]

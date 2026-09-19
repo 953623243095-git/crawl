@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GANESH TRADERS",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store, Spices Wholesaler",
+    "pincode": "305005",
+    "phone_number": "+91 99292 01385",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "chaman choraha, Link Rd, near reliance smart point, Sarwar, Rajasthan 305403",
+    "area": "305005",
+    "latitude": 26.0669532,
+    "longitude": 75.0160788,
+    "place_id": "ChIJvbUfRVi0bjkRAAAAcDlZZig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvbUfRVi0bjkRAAAAcDlZZig",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:34:35"
+  },
+  {
+    "business_name": "Vinayaka Dry Fruits",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "305005",
+    "phone_number": "+91 96407 31305",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 71,
+    "address": "Shop No 6, Meerbagh Colony, Ravindra Nagar, Nalgonda, Telangana 508001",
+    "area": "Meerbagh Colony, Ravindra Nagar",
+    "latitude": 17.0682905,
+    "longitude": 79.2642235,
+    "place_id": "ChIJfytdhMYpyzsRsSq3hZeS-D4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfytdhMYpyzsRsSq3hZeS-D4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:34:36"
+  }
+]

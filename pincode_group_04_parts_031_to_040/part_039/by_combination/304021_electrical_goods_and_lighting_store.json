@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jai Kisan trading company",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "304021",
+    "phone_number": "+91 94140 28586",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 13,
+    "address": "Noshey Miyan Ka Pul, Ameer Ganj Bazar, Tonk, Rajasthan 304001",
+    "area": "Rajban",
+    "latitude": 26.1637386,
+    "longitude": 75.7859335,
+    "place_id": "ChIJqZYQUkJhbjkRQ2cPiOZ2JQI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqZYQUkJhbjkRQ2cPiOZ2JQI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:59:20"
+  },
+  {
+    "business_name": "Shri Shyam Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "304021",
+    "phone_number": "+91 97999 12083",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vatika Rd, Kadera, Rajasthan 303901",
+    "area": "304021",
+    "latitude": 26.5952804,
+    "longitude": 75.8338515,
+    "place_id": "ChIJ6VJ7NavRbTkRaqsmdSueTjs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6VJ7NavRbTkRaqsmdSueTjs",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:59:22"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DWARKADHISH FAMILY RESTAURANT",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "305201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "NH 8, Ajmer road, Arjunpura Khalsa, Rajasthan 305203",
+    "area": "305201",
+    "latitude": 26.304056499999998,
+    "longitude": 74.537694,
+    "place_id": "ChIJwXvDRQBhaTkRJfkr4nm4l-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwXvDRQBhaTkRJfkr4nm4l-A",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:53:13"
+  },
+  {
+    "business_name": "MADHAV Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Restaurant",
+    "pincode": "305201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "NH 8, Mangliyawas-Nasirabad Rd, Mangaliyawas, Rajasthan 305203",
+    "area": "305201",
+    "latitude": 26.2851188,
+    "longitude": 74.5200639,
+    "place_id": "ChIJm7yaoCFhaTkRbRMiOjK0KQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm7yaoCFhaTkRbRMiOjK0KQk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:53:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R C Tailor",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Gents Tailor",
+    "pincode": "305023",
+    "phone_number": "+91 63779 77581",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 27,
+    "address": "11, Ajmer, Rajasthan 305001",
+    "area": "Police Lines",
+    "latitude": 26.480266,
+    "longitude": 74.6534396,
+    "place_id": "ChIJqyK_klnmazkRdDX-xn9WV-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqyK_klnmazkRdDX-xn9WV-o",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:45:49"
+  },
+  {
+    "business_name": "Anant Shree Tex Fab",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Textile mill",
+    "all_categories": "Textile mill",
+    "pincode": "305023",
+    "phone_number": "+91 80039 71000",
+    "website": "http://www.anantshreetexfab.com/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "near mahesh dharam kanta, behind RIICO Ind Area, Kishangarh, Gegal, Rajasthan 305023",
+    "area": "305023",
+    "latitude": 26.5419627,
+    "longitude": 74.7720965,
+    "place_id": "ChIJMVp4mRHvazkRsnKfYzENKY8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMVp4mRHvazkRsnKfYzENKY8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:45:49"
+  }
+]

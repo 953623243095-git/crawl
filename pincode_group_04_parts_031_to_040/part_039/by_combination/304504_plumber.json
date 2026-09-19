@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M/s - Ramji Lal & Company",
+    "search_category": "Plumber",
+    "primary_category": "Home builder",
+    "all_categories": "Home builder",
+    "pincode": "304504",
+    "phone_number": "+91 97831 91467",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CJCP+M3X, Kathmana, Rajasthan 304801",
+    "area": "304504",
+    "latitude": 26.421789999999998,
+    "longitude": 75.6352912,
+    "place_id": "ChIJGXEkNdaBbjkRN2RDyfiSthQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGXEkNdaBbjkRN2RDyfiSthQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:15:25"
+  },
+  {
+    "business_name": "Bharat Pipe Company",
+    "search_category": "Plumber",
+    "primary_category": "Bathroom remodeler",
+    "all_categories": "Bathroom remodeler",
+    "pincode": "304504",
+    "phone_number": "+91 94140 04563",
+    "website": "http://www.hindwarehomes.com/",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Naya Bazar, Naya Bazaar, Ajmer, Rajasthan 305001",
+    "area": "Naya Bazaar",
+    "latitude": 26.4611369,
+    "longitude": 74.6315608,
+    "place_id": "ChIJ0S-PZmTnazkRiDQiEtvLTPU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0S-PZmTnazkRiDQiEtvLTPU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:15:26"
+  }
+]

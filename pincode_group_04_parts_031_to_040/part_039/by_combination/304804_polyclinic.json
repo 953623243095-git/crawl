@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JYOTI KIRAN HOSPITAL",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "304804",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 22,
+    "address": "NH34, Deoli, Devli, Rajasthan 304804",
+    "area": "304804",
+    "latitude": 25.7778457,
+    "longitude": 75.3938338,
+    "place_id": "ChIJf9xGYtDmbjkR7zMt1-M0uNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf9xGYtDmbjkR7zMt1-M0uNk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:25:47"
+  },
+  {
+    "business_name": "Dayal Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "General hospital",
+    "all_categories": "General hospital",
+    "pincode": "304804",
+    "phone_number": "+91 77422 86219",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 19,
+    "address": "P9V8+M47, Unchaa, Uncha, Deoli, Rajasthan 304804",
+    "area": "Unchaa",
+    "latitude": 25.7441617,
+    "longitude": 75.3652929,
+    "place_id": "ChIJSXhgABLhbjkREGoNZHTcW44",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSXhgABLhbjkREGoNZHTcW44",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:25:47"
+  }
+]

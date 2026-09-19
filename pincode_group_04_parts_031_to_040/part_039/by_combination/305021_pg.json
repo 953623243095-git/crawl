@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sara PG & Marriage Beuro's",
+    "search_category": "PG",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "305021",
+    "phone_number": "+91 76196 24584",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "House No. 1 Behind T.S.S School Shashtrinagar Ajmer 305 Shashtrinagar, Rajasthan 305001",
+    "area": "Shastri Nagar",
+    "latitude": 26.483601999999998,
+    "longitude": 74.64532659999999,
+    "place_id": "ChIJqY3zoyvnazkRWzu-ymbgEHk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqY3zoyvnazkRWzu-ymbgEHk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:42:51"
+  },
+  {
+    "business_name": "PG SERVICE",
+    "search_category": "PG",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "305021",
+    "phone_number": "+91 99157 52233",
+    "website": "http://pgservice.kesug.com/?i=1",
+    "rating": 4.8,
+    "reviews_count": 157,
+    "address": "1843 to 1850, Sector 22B, Sector 22, Chandigarh, 160022",
+    "area": "Sector 22B, Sector 22",
+    "latitude": 30.731171399999997,
+    "longitude": 76.7742193,
+    "place_id": "ChIJXQt9FLTtDzkRy8w82Py2DAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXQt9FLTtDzkRy8w82Py2DAg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:42:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naman Traders",
+    "search_category": "Supermarket",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "304804",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CISF Link Rd, Deoli, Rajasthan 304804",
+    "area": "304804",
+    "latitude": 25.760323999999997,
+    "longitude": 75.38056209999999,
+    "place_id": "ChIJIbLZezvhbjkRRy6oIwj08KU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIbLZezvhbjkRRy6oIwj08KU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:25:19"
+  },
+  {
+    "business_name": "Reliance jio Mart",
+    "search_category": "Supermarket",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "304804",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 55,
+    "address": "Q94G+8XR, Janta Colony, Jyoti Colony, Deoli, Rajasthan 304804",
+    "area": "Janta Colony, Jyoti Colony",
+    "latitude": 25.7558531,
+    "longitude": 75.37738639999999,
+    "place_id": "ChIJ4zFw0WHhbjkRedS4KxnAkhs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4zFw0WHhbjkRedS4KxnAkhs",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:25:20"
+  }
+]

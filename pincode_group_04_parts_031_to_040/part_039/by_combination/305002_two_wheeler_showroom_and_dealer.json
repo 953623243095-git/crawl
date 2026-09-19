@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yusuf Motors Ajmer",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motor vehicle dealer",
+    "all_categories": "Motor vehicle dealer",
+    "pincode": "305002",
+    "phone_number": "+91 98280 33135",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Beawar Road, near Daurai, Underpass, Ajmer, Dorai, Rajasthan 305001",
+    "area": "Underpass",
+    "latitude": 26.402552399999998,
+    "longitude": 74.6241888,
+    "place_id": "ChIJ0X1-ravhazkRlz_RYNS5pyA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0X1-ravhazkRlz_RYNS5pyA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:29:34"
+  },
+  {
+    "business_name": "Bgauss",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer",
+    "pincode": "305002",
+    "phone_number": "+91 92579 42001",
+    "website": "https://www.bgauss.com/",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "A-13, Nasirabad Rd, near Adarsh Nagar, Shalimar Colony, Adarsh Nagar, Ajmer, Rajasthan 305001",
+    "area": "Shalimar Colony, Adarsh Nagar",
+    "latitude": 26.4178629,
+    "longitude": 74.6527172,
+    "place_id": "ChIJNXL-0PHhazkR4a1I_ieYXvw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNXL-0PHhazkR4a1I_ieYXvw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:29:37"
+  }
+]

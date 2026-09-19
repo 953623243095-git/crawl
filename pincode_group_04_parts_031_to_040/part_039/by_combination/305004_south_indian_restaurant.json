@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radhe Ji Restauraunt",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Breakfast restaurant, Vegetarian restaurant",
+    "pincode": "305004",
+    "phone_number": "+91 93515 25055",
+    "website": "http://www.radhejirestaurant.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "FHQ4+X93, opp. Varah Ghat, Choti Basti, Pushkar, Rajasthan 305022",
+    "area": "Choti Basti",
+    "latitude": 26.4898867,
+    "longitude": 74.5559072,
+    "place_id": "ChIJHxYT8CLdazkRk_xobwBgBCM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHxYT8CLdazkRk_xobwBgBCM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:32:52"
+  },
+  {
+    "business_name": "Swagatam restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Children's party service, Restaurant, North Indian restaurant, Rajasthani Restaurant, Vegetarian restaurant",
+    "pincode": "305004",
+    "phone_number": "+91 92616 28882",
+    "website": "https://www.swagatamrestaurant.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Oop. New ranji tampel, near, Main Market Rd, Choti Basti, Pushkar, Rajasthan 305022",
+    "area": "Choti Basti",
+    "latitude": 26.4876529,
+    "longitude": 74.55809119999999,
+    "place_id": "ChIJ7T9g95_dazkRrcmx8ymZAyU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7T9g95_dazkRrcmx8ymZAyU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:32:52"
+  }
+]

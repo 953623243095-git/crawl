@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Robin Silver Shop",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "305004",
+    "phone_number": "+91 99287 92553",
+    "website": "http://robinjewels.com/",
+    "rating": 4.4,
+    "reviews_count": 153,
+    "address": "Parikrama marg, Badi Basti, Pushkar, Rajasthan 305022",
+    "area": "Badi Basti",
+    "latitude": 26.486558,
+    "longitude": 74.55149,
+    "place_id": "ChIJNzUFUB_dazkRqAbFNeDPhxQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNzUFUB_dazkRqAbFNeDPhxQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:32:59"
+  },
+  {
+    "business_name": "Silver Palace",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Silversmith",
+    "all_categories": "Silversmith",
+    "pincode": "305004",
+    "phone_number": "+91 94146 66524",
+    "website": "https://www.instagram.com/ssilver_palacee?igsh=dHVzNWpoYWNoY2lz",
+    "rating": 4.8,
+    "reviews_count": 34,
+    "address": "In Front Of Shyam Krishna Guest House, Near New Rangnath Temple Choti Basti, Pushkar - 305 022, Pushkar, Rajasthan 305022",
+    "area": "Choti Basti",
+    "latitude": 26.488733699999997,
+    "longitude": 74.557536,
+    "place_id": "ChIJM9PTsCLdazkRaEXbVSzcZzA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM9PTsCLdazkRaEXbVSzcZzA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:33:02"
+  }
+]

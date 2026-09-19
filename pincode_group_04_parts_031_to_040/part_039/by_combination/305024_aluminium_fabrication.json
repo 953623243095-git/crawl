@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M.M. Steel Works",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Metal fabricator",
+    "all_categories": "Metal fabricator",
+    "pincode": "305024",
+    "phone_number": "+91 77278 50198",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FMWJ+5GX, Jaipur Road, Bhonabay, Ajmer, Kankarda Bhonabay, Rajasthan 305001",
+    "area": "305024",
+    "latitude": 26.4954973,
+    "longitude": 74.6813571,
+    "place_id": "ChIJzzjBq3bmazkRtMmEwAmXZXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzzjBq3bmazkRtMmEwAmXZXM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:48:54"
+  },
+  {
+    "business_name": "RudraKavach",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Steel fabricator",
+    "all_categories": "Steel fabricator",
+    "pincode": "305024",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Adarsh Nagar, Ajmer, Rajasthan 305001",
+    "area": "Adarsh Nagar",
+    "latitude": 26.434340799999998,
+    "longitude": 74.6722459,
+    "place_id": "ChIJcbcAxwrnazkREZNw1Z8oY_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcbcAxwrnazkREZNw1Z8oY_A",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:48:54"
+  }
+]

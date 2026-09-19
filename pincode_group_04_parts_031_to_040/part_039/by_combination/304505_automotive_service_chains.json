@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Hi-Tech Gears Ltd.",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto parts manufacturer",
+    "all_categories": "Auto parts manufacturer",
+    "pincode": "304505",
+    "phone_number": "+91 124 471 5100",
+    "website": "http://www.thehitechgears.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Industrial Complex, SP-146, Bhiwadi, Rajasthan 301019",
+    "area": "304505",
+    "latitude": 28.2197179,
+    "longitude": 76.85162869999999,
+    "place_id": "ChIJ66DoCvI3DTkRkUyyUXtdcU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ66DoCvI3DTkRkUyyUXtdcU0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:17:06"
+  },
+  {
+    "business_name": "Svr Auto Pvt. Ltd.",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto parts manufacturer",
+    "all_categories": "Auto parts manufacturer, Cable company",
+    "pincode": "304505",
+    "phone_number": "+91 98110 06463",
+    "website": "http://www.svrauto.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "A&B, Chaupanki, F166, bhiwadi, Gandhola, Rajasthan 301707",
+    "area": "304505",
+    "latitude": 28.1384755,
+    "longitude": 76.887937,
+    "place_id": "ChIJQ4hlj5s2DTkR6yYFkFf7pQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ4hlj5s2DTkR6yYFkFf7pQA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:17:06"
+  }
+]

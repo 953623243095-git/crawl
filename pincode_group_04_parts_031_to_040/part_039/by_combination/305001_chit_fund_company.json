@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajmer News",
+    "search_category": "Chit Fund Company",
+    "primary_category": "Media house",
+    "all_categories": "Media house",
+    "pincode": "305001",
+    "phone_number": "+91 93510 87614",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "lane no. 8, Shyam sadan, New Govind Nagar, Lajpat Nagar, Ramganj, Ajmer, Rajasthan 305001",
+    "area": "New Govind Nagar, Lajpat Nagar, Ramganj",
+    "latitude": 26.428473699999998,
+    "longitude": 74.6326476,
+    "place_id": "ChIJuWmkLPGbQUIRU-b_Ngkn3Ts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuWmkLPGbQUIRU-b_Ngkn3Ts",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:28:33"
+  },
+  {
+    "business_name": "Khwaja Gharib Nawaz Dargah Sharif.",
+    "search_category": "Chit Fund Company",
+    "primary_category": "Religious destination",
+    "all_categories": "Religious destination, Mosque, Shrine",
+    "pincode": "305001",
+    "phone_number": "+91 88753 00786",
+    "website": "http://www.khawajagharibnawaz.com/",
+    "rating": 4.6,
+    "reviews_count": 40387,
+    "address": "Imam Bada, Faiz Manzil 123, Khadim Mohalla, Ajmer, Rajasthan 305001",
+    "area": "Khadim Mohalla, Diggi Bazaar",
+    "latitude": 26.456232999999997,
+    "longitude": 74.628232,
+    "place_id": "ChIJGV0pphDnazkRO5ANkwKf2hc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGV0pphDnazkRO5ANkwKf2hc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:28:35"
+  }
+]

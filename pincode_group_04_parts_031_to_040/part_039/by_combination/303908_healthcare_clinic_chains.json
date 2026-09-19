@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Asopa Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Obstetrician-gynecologist, Gynecologist, Orthopedic clinic, Orthopedic surgeon",
+    "pincode": "303908",
+    "phone_number": "+91 141 224 6161",
+    "website": "http://asopahospital.com/",
+    "rating": 4.6,
+    "reviews_count": 805,
+    "address": "93 B, Ajmer Rd, Heera Nagar, Tagore Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302024",
+    "area": "Heera Nagar, Tagore Nagar",
+    "latitude": 26.8914658,
+    "longitude": 75.741445,
+    "place_id": "ChIJXeCKwJS0bTkR_l4_HWy5hsI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXeCKwJS0bTkR_l4_HWy5hsI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:55:34"
+  },
+  {
+    "business_name": "Dr. Garima's",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "303908",
+    "phone_number": "+91 90070 83097",
+    "website": "http://theglobaldentalcare.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot No, 153, Gopalpura Bypass Rd, behind Krishna heart hospital, near new Aatish market, Santosh Nagar, Shiv Shakti Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302020",
+    "area": "Santosh Nagar, Shiv Shakti Nagar",
+    "latitude": 26.882468199999998,
+    "longitude": 75.7566077,
+    "place_id": "ChIJK3eFF6y1bTkRzqg5aR1xe3U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK3eFF6y1bTkRzqg5aR1xe3U",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:55:35"
+  }
+]

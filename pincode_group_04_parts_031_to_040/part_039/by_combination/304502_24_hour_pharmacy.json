@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHREE MATESHWARI PHARMA",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "304502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Sawai Madhopur Rd, Dwarika Nagari, Tonk, Rajasthan 304001",
+    "area": "Dwarika Nagari",
+    "latitude": 26.1448172,
+    "longitude": 75.7957212,
+    "place_id": "ChIJTS3OH-9hbjkRh8pdDUWKFrg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTS3OH-9hbjkRh8pdDUWKFrg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:11:28"
+  },
+  {
+    "business_name": "Mahi medicose",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "304502",
+    "phone_number": "+91 77340 35004",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Moti Baug Road, Dhola Khera, Tonk, Rajasthan 304001",
+    "area": "Dhola Khera",
+    "latitude": 26.1667547,
+    "longitude": 75.8087989,
+    "place_id": "ChIJH2MHra9nbjkRFWeNdBy4M0A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH2MHra9nbjkRFWeNdBy4M0A",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:11:30"
+  }
+]

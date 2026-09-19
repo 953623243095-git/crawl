@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Panchar ki dukaan",
+    "search_category": "Boutiques",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "304024",
+    "phone_number": "+91 85291 84221",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Kakor, Shyorajpura, Rajasthan 304026",
+    "area": "304024",
+    "latitude": 26.0013327,
+    "longitude": 75.92854,
+    "place_id": "ChIJX4niW5lEbjkREsUy2nON_Rg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX4niW5lEbjkREsUy2nON_Rg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:04:20"
+  },
+  {
+    "business_name": "Braj Bhanu Electronics",
+    "search_category": "Boutiques",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "304024",
+    "phone_number": "+91 94145 43310",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 19,
+    "address": "Dhikoliya th uniyara, Dhikoliya, Rajasthan 304024",
+    "area": "304024",
+    "latitude": 25.9691081,
+    "longitude": 75.9645137,
+    "place_id": "ChIJVxhulEtEbjkR-8D_BNgRGrk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVxhulEtEbjkR-8D_BNgRGrk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:04:21"
+  }
+]

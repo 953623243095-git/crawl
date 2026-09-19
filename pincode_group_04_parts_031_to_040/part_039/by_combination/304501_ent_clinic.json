@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Navneet Suthar",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "304501",
+    "phone_number": "N/A",
+    "website": "https://marwarhospitalbikaner.in/Ent.php",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Marwar Hospital, Sadul Colony Rd, near Ambedkar Circle, Karni Colony, Shardul Colony, Bikaner, Bikaner City, Rajasthan 334003",
+    "area": "Karni Colony, Shardul Colony",
+    "latitude": 28.014698799999998,
+    "longitude": 73.32220869999999,
+    "place_id": "ChIJo2ByfADdPzkR2Fdjl5Ievl4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo2ByfADdPzkR2Fdjl5Ievl4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:09:49"
+  },
+  {
+    "business_name": "Rawat Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Allergist, Surgical oncologist",
+    "pincode": "304501",
+    "phone_number": "+91 75688 83422",
+    "website": "http://rawathospital.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Gate no. 3, Rawat Hospital, C-24, near Shastri Nagar, Shastri Nagar, Nagnechi Ji Scheme, Bikaner, Bikaner City, Rajasthan 334001",
+    "area": "Shastri Nagar, Nagnechi Ji Scheme",
+    "latitude": 28.003595999999998,
+    "longitude": 73.3269778,
+    "place_id": "ChIJ-fN_13nnPzkRv-Rhm1Xdnkk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-fN_13nnPzkRv-Rhm1Xdnkk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:09:49"
+  }
+]

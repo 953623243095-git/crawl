@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashapura Car Rentals in Ahmedabad",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Car rental agency, Taxi service, Travel agency",
+    "pincode": "305012",
+    "phone_number": "+91 70162 17398",
+    "website": "https://ashapuracarrentals.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Komal park society, A 20, Bapa Sitaram Chowk Rd, Parshwanath Township, Nava Naroda, Ahmedabad, Gujarat 382345",
+    "area": "Parshwanath Township, Nava Naroda",
+    "latitude": 23.0543743,
+    "longitude": 72.6581935,
+    "place_id": "ChIJVzglzXGHXjkRP3dveRtjENI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVzglzXGHXjkRP3dveRtjENI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:40:42"
+  },
+  {
+    "business_name": "Surat Car Rental & Cab Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Car rental agency, Tour operator, Travel agency",
+    "pincode": "305012",
+    "phone_number": "+91 92270 32523",
+    "website": "https://suratcarrental.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Niravpark Apt, C-209, Vaishali Rd, Green Park Society, Varachha, Surat, Gujarat 395006",
+    "area": "Green Park Society, Varachha",
+    "latitude": 21.2100234,
+    "longitude": 72.8451836,
+    "place_id": "ChIJp-l2MnZP4DsRCQ8wkXYoH_U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp-l2MnZP4DsRCQ8wkXYoH_U",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:40:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Beyond Horizon",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Computer consultant, Website designer",
+    "pincode": "305001",
+    "phone_number": "N/A",
+    "website": "https://www.thebeyondhorizon.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "40, Pushkar Rd, Ramnagar, Gyan Vihar Colony, Ajmer, Rajasthan 305004",
+    "area": "Ramnagar, Gyan Vihar Colony",
+    "latitude": 26.4688943,
+    "longitude": 74.6008876,
+    "place_id": "ChIJQSNNu8fnazkRA-fj457qdhY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQSNNu8fnazkRA-fj457qdhY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:28:26"
+  },
+  {
+    "business_name": "Federal Bank",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Bank",
+    "all_categories": "Bank, Business banking service, Car finance and loan company, Financial advisor, Financial institution, Investment service, Loan agency, Money transfer service, Private Sector Bank, Savings bank",
+    "pincode": "305001",
+    "phone_number": "+91 1800 425 1199",
+    "website": "https://www.federal.bank.in/?utm_source=branch_locator&utm_medium=brand_website",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Ground Floor, beside Hotel Ajmer Grand, Civil Lines, Ajmer, Rajasthan 305001",
+    "area": "Civil Lines",
+    "latitude": 26.475416499999998,
+    "longitude": 74.6374888,
+    "place_id": "ChIJ9T03rK3nazkRcU4XGKUtKd4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9T03rK3nazkRcU4XGKUtKd4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:28:26"
+  }
+]

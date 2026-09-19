@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Airtel Store - Niwai",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "304025",
+    "phone_number": "+91 70147 73567",
+    "website": "http://www.airtel.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RN enterprises, chawariya complex, near Gandhi park, below Shanti one computer, Newai, Jhilai, Rajasthan 304025",
+    "area": "304025",
+    "latitude": 26.360529999999997,
+    "longitude": 75.997168,
+    "place_id": "ChIJh0o04TJzbjkRDzlTdQznlQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh0o04TJzbjkRDzlTdQznlQA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:07:00"
+  },
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "304025",
+    "phone_number": "+91 87649 02953",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "maliyo ka mohalla, sawaimadhopur, Khirgi, Rajasthan 322704",
+    "area": "304025",
+    "latitude": 26.299999999999997,
+    "longitude": 76.02947,
+    "place_id": "ChIJxTAsGHZzbjkRzZ_aZ1p-x9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxTAsGHZzbjkRzZ_aZ1p-x9c",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:07:00"
+  }
+]

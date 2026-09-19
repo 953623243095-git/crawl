@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Charbhuja Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "305022",
+    "phone_number": "+91 145 405 6026",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 29,
+    "address": "C- Block, Pushkar Rd, Haribhau Upadhyay Nagar Extension, Ajmer, Rajasthan 305004",
+    "area": "Haribhau Upadhyay Nagar Extension",
+    "latitude": 26.482511199999998,
+    "longitude": 74.6061357,
+    "place_id": "ChIJCV66E5DnazkRQSHRVdT5Amc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCV66E5DnazkRQSHRVdT5Amc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:44:04"
+  },
+  {
+    "business_name": "Pushkar Eye",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Visitor center",
+    "all_categories": "Visitor center, Tour agency, Tourist attraction, Travel agency",
+    "pincode": "305022",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "near Narayan Palace, Choti Basti, Pushkar, Rajasthan 305022",
+    "area": "Choti Basti",
+    "latitude": 26.4902494,
+    "longitude": 74.5579453,
+    "place_id": "ChIJjzpSAKrdazkRrbGkD8UDg1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjzpSAKrdazkRrbGkD8UDg1E",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:44:05"
+  }
+]

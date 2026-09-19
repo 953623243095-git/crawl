@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Juice and Bites bar",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "305012",
+    "phone_number": "+91 78956 11508",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "501, Saharanpur Rd, Niranjanpur, Dehradun, Uttarakhand 248171",
+    "area": "Niranjanpur",
+    "latitude": 30.299207799999998,
+    "longitude": 78.0072859,
+    "place_id": "ChIJyzJTjvMrCTkRRnDoK1zjZYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyzJTjvMrCTkRRnDoK1zjZYk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:40:13"
+  },
+  {
+    "business_name": "FRUITBAE® | Raidurgam",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Dessert restaurant",
+    "all_categories": "Dessert restaurant",
+    "pincode": "305012",
+    "phone_number": "+91 70324 41055",
+    "website": "http://www.fruitbae.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No.7, Survey No.82/P, MNR Avenue, Gachibowli Rd, opp. Pakwaan Grand hotel, Silpa Gram Craft Village, Rai Durg, Hyderabad, Telangana 500032",
+    "area": "Silpa Gram Craft Village",
+    "latitude": 17.42625,
+    "longitude": 78.3780032,
+    "place_id": "ChIJNwpXqTqTyzsRUAv8hs6NXSo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNwpXqTqTyzsRUAv8hs6NXSo",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:40:14"
+  }
+]

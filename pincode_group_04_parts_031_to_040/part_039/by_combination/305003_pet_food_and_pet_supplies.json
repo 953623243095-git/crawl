@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Horse Dekho",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store, Equestrian store, Sporting goods store, Tack shop",
+    "pincode": "305003",
+    "phone_number": "+91 92149 34754",
+    "website": "https://www.horsedekho.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Station Rd, Parao, Ajmer, Rajasthan 305001",
+    "area": "Parao",
+    "latitude": 26.4524556,
+    "longitude": 74.6374113,
+    "place_id": "ChIJT6IRkfznazkRuSc8DMattVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT6IRkfznazkRuSc8DMattVY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:30:53"
+  },
+  {
+    "business_name": "Pradeep Pet Shop, Beawar",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "305003",
+    "phone_number": "+91 99284 75861",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Krishna Colony, Beawar, Rajasthan 305901",
+    "area": "Krishna Colony",
+    "latitude": 26.093813299999997,
+    "longitude": 74.3117929,
+    "place_id": "ChIJ6x_WtEp3aTkR9KgXHI7Jfk4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6x_WtEp3aTkR9KgXHI7Jfk4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:30:53"
+  }
+]

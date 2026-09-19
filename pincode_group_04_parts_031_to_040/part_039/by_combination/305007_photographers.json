@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RK FILMS",
+    "search_category": "Photographers",
+    "primary_category": "Wedding photographer",
+    "all_categories": "Wedding photographer, Photographer, Photography studio, Video editing service, Wedding service",
+    "pincode": "305007",
+    "phone_number": "+91 81072 42851",
+    "website": "http://rk-films-weddings.odoo.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "bhaisa complex, kanak sagar hotel, G13-16, near mittal mall, Hathi Bhata, Ajmer, Rajasthan 305001",
+    "area": "Hathi Bhata",
+    "latitude": 26.462263699999998,
+    "longitude": 74.6342767,
+    "place_id": "ChIJGdVmB9bnazkRfCI3PAFR-Pw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGdVmB9bnazkRfCI3PAFR-Pw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:37:31"
+  },
+  {
+    "business_name": "Kapil Digital studio",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "305007",
+    "phone_number": "+91 94147 50998",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 6,
+    "address": "Bus Stand, Near CT, Kundan Nagar, Ajmer, Rajasthan 305007",
+    "area": "Kundan Nagar",
+    "latitude": 26.4612855,
+    "longitude": 74.6559133,
+    "place_id": "ChIJGT844MjnazkRtm6thOOWTtU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGT844MjnazkRtm6thOOWTtU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:37:32"
+  }
+]

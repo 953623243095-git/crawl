@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Washing Center",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "304503",
+    "phone_number": "+91 63759 78433",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "school, Gaurav path, near bhalavato ka kheda, opposite mortuary, Lalbagh, Nathdwara, Rajasthan 313301",
+    "area": "Lalbagh",
+    "latitude": 24.9423039,
+    "longitude": 73.8158101,
+    "place_id": "ChIJgV6a7V8NaDkR2g2M786bKNU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgV6a7V8NaDkR2g2M786bKNU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:13:24"
+  },
+  {
+    "business_name": "Dudes Car Detailing Mafia",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto restoration service",
+    "all_categories": "Auto restoration service",
+    "pincode": "304503",
+    "phone_number": "+91 94953 58550",
+    "website": "http://www.youtube.com/c/Dudescardetailingmafia",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Rajakad Pin 685566, Road, Rajakkad, NR City, Keralam 685566",
+    "area": "304503",
+    "latitude": 9.968670099999999,
+    "longitude": 77.1113522,
+    "place_id": "ChIJmep2LWujBzsR7cmGHyz7094",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmep2LWujBzsR7cmGHyz7094",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:13:25"
+  }
+]

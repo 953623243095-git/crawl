@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ent hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "305002",
+    "phone_number": "+91 145 264 4111",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CJXQ+XX2, Nalasopra, Subhash Nagar, Ajmer, Rajasthan 305001",
+    "area": "Nalasopra, Subhash Nagar",
+    "latitude": 26.449890699999997,
+    "longitude": 74.6398935,
+    "place_id": "ChIJvQCPCSDnazkR-aaC_TcRe1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvQCPCSDnazkR-aaC_TcRe1E",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:29:29"
+  },
+  {
+    "business_name": "Dr. Bhaskar Gopal Rijonia",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "305002",
+    "phone_number": "+91 145 266 5133",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "CJVR+F8V, Shantipura, Railway Quarters, Ajmer, Rajasthan 305001",
+    "area": "Railway Quarters",
+    "latitude": 26.4437397,
+    "longitude": 74.6408115,
+    "place_id": "ChIJFcjaCSDnazkRD6IaQi4cIr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFcjaCSDnazkRD6IaQi4cIr4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:29:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishnu Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "305025",
+    "phone_number": "+91 99821 31568",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CJQM+3M9, near Bhagwanganj, Chouraha, Ajmer, Rajasthan 305001",
+    "area": "Chouraha",
+    "latitude": 26.4376693,
+    "longitude": 74.6342428,
+    "place_id": "ChIJWy66tCjnazkRJsy_pLAZ0MA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWy66tCjnazkRJsy_pLAZ0MA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:49:12"
+  },
+  {
+    "business_name": "Jangid Aata Chakki",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill, General store",
+    "pincode": "305025",
+    "phone_number": "+91 80582 38266",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Jangid Aata Chakki, Kalso Ka Mohalla, Dilwadi, Rajasthan 305601",
+    "area": "Kalso Ka Mohalla",
+    "latitude": 26.3349551,
+    "longitude": 74.7499067,
+    "place_id": "ChIJOQTWLmrnazkRGNWj-0N8rgg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOQTWLmrnazkRGNWj-0N8rgg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:49:14"
+  }
+]

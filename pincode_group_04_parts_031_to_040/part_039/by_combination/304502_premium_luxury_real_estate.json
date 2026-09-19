@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prem's home",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "304502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "QPCX+6FF, Gordhanpura, Krishi Upaj Mandi, Rajasthan 332713",
+    "area": "304502",
+    "latitude": 27.770552799999997,
+    "longitude": 75.7486571,
+    "place_id": "ChIJidyyzJUpbTkRIZrpaZUY5GY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJidyyzJUpbTkRIZrpaZUY5GY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:12:32"
+  },
+  {
+    "business_name": "Prem properties",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "304502",
+    "phone_number": "+91 82332 27473",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5Q8V+P4P, Saadat Ganj, Tonk, Rajasthan 304001",
+    "area": "Saadat Ganj",
+    "latitude": 26.1668515,
+    "longitude": 75.7925963,
+    "place_id": "ChIJjRQjZwBhbjkRX8pkcEQYrcY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjRQjZwBhbjkRX8pkcEQYrcY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:12:33"
+  }
+]

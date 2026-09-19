@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivam Agro",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Pipes Wholesaler",
+    "pincode": "305003",
+    "phone_number": "+91 96364 61606",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Tabiji. Ajmer Tabiji, Ajmer, Rajasthan 305001",
+    "area": "305003",
+    "latitude": 26.365513,
+    "longitude": 74.604754,
+    "place_id": "ChIJ1wpfshThazkRshigV4htJSc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1wpfshThazkRshigV4htJSc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:32:25"
+  },
+  {
+    "business_name": "Shree Balaji Tools And Hardware",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Tool store",
+    "all_categories": "Tool store",
+    "pincode": "305003",
+    "phone_number": "N/A",
+    "website": "https://stringproindia.com/",
+    "rating": 4.2,
+    "reviews_count": 85,
+    "address": "Sabun Marg, Bhopal Ganj, Bhilwara, Rajasthan 311001",
+    "area": "Bhopal Ganj",
+    "latitude": 25.3413327,
+    "longitude": 74.63232289999999,
+    "place_id": "ChIJF8R-RDbCaDkRXhNyBiDwULo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF8R-RDbCaDkRXhNyBiDwULo",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:32:26"
+  }
+]

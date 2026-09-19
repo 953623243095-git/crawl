@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PATEL COLD DRINKS",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "305025",
+    "phone_number": "+91 87587 30641",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near by bheruji temple, Palra, Ajmer, Rajasthan 305025",
+    "area": "305025",
+    "latitude": 26.4131811,
+    "longitude": 74.7150212,
+    "place_id": "ChIJo45BcNrjazkRE5dTTdzASH4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo45BcNrjazkRE5dTTdzASH4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:50:51"
+  },
+  {
+    "business_name": "Mangal Cold",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "305025",
+    "phone_number": "+91 77428 33747",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 9, near by Maharaja School, Sarvodaya Colony, Police Lines, Ajmer, Rajasthan 305001",
+    "area": "Sarvodaya Colony, Police Lines",
+    "latitude": 26.480127699999997,
+    "longitude": 74.650004,
+    "place_id": "ChIJBeHMDUTnazkRakEfwLcu5io",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBeHMDUTnazkRakEfwLcu5io",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:50:53"
+  }
+]

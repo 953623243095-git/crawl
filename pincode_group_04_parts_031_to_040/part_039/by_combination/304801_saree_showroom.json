@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dulhan Saree Shop",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "304801",
+    "phone_number": "+91 92527 20111",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": null,
+    "address": "Near Ghanta Ghar, Sanhpura, Tonk, Rajasthan 304001",
+    "area": "Sanhpura",
+    "latitude": 26.1759876,
+    "longitude": 75.79165139999999,
+    "place_id": "ChIJVVVVBVlhbjkRVyZPe8VxZ5I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVBVlhbjkRVyZPe8VxZ5I",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:20:10"
+  },
+  {
+    "business_name": "Khushboo Sarees",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Saree Shop",
+    "pincode": "304801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khushboo Sarees, Rajban, Tonk, Rajasthan 304001",
+    "area": "Rajban",
+    "latitude": 26.1652547,
+    "longitude": 75.78478,
+    "place_id": "ChIJrQMgfABhbjkR1aFFVYPoV18",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrQMgfABhbjkR1aFFVYPoV18",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:20:10"
+  }
+]

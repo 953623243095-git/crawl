@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ecom Express Pvt Ltd",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "305026",
+    "phone_number": "+91 83768 88888",
+    "website": "https://ecomexpress.in/",
+    "rating": 2.7,
+    "reviews_count": null,
+    "address": "5PPG+WWQ, RJ SH 19, Shastri Nagar, Nagaur, Rajasthan 341001",
+    "area": "Shastri Nagar",
+    "latitude": 27.1873418,
+    "longitude": 73.7273685,
+    "place_id": "ChIJ1cUXykWRajkRE6geCd5llNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1cUXykWRajkRE6geCd5llNY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:52:36"
+  },
+  {
+    "business_name": "Daulatpura",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "305026",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HF47+VW5, Thanwala, Rajasthan 305026",
+    "area": "305026",
+    "latitude": 26.5571259,
+    "longitude": 74.4648478,
+    "place_id": "ChIJlY_9K4nFazkRhdFs-h0GPNg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlY_9K4nFazkRhdFs-h0GPNg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:52:36"
+  }
+]

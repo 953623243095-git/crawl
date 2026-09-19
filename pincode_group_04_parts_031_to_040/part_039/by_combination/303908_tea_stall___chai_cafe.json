@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tip Top Tea",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store, Food manufacturer, Food manufacturing supply, Food products supplier, Spice store, Spices Wholesaler",
+    "pincode": "303908",
+    "phone_number": "+91 83868 00392",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "A 64 G1 SHREE SUNDER SINGH BANDHRI NAGAR N S ROAD SODALA, Shyam Nagar, Jaipur, Rajasthan 302019",
+    "area": "Davi Nagar, Laxman Colony, Shyam Nagar",
+    "latitude": 26.888237999999998,
+    "longitude": 75.7601127,
+    "place_id": "ChIJFQASR6y1bTkRZuG1B7TARL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFQASR6y1bTkRZuG1B7TARL4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:55:08"
+  },
+  {
+    "business_name": "Mangal Chai Central India Tea Company",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea Wholesaler",
+    "all_categories": "Tea Wholesaler",
+    "pincode": "303908",
+    "phone_number": "+91 141 231 5179",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No, A-8, Khanjane Walon ka Rasta, Chandpol Bazar, Chandpole Bazar, Chandpole, Chandpol, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302001",
+    "area": "Chandpol Bazar, Chandpole Bazar, Chandpole, Chandpol",
+    "latitude": 26.9253076,
+    "longitude": 75.8138434,
+    "place_id": "ChIJbTP_61OxbTkRE4KhTA497Js",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbTP_61OxbTkRE4KhTA497Js",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:55:09"
+  }
+]

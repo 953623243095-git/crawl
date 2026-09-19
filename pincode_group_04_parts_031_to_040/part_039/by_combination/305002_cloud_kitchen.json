@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Something Smells Tasty Here",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "305002",
+    "phone_number": "+91 88905 31956",
+    "website": "https://zomato.onelink.me/xqzv/kq60b5pk",
+    "rating": 4.7,
+    "reviews_count": 19,
+    "address": "NANAG NIWAS, Plot NO.17 Gali No.09, Govind Nagar, Saket Nagar, Ramganj, Ajmer, Rajasthan 305001",
+    "area": "Govind Nagar, Saket Nagar, Ramganj",
+    "latitude": 26.426322499999998,
+    "longitude": 74.6313155,
+    "place_id": "ChIJ-7yBEqXhazkRs-yWBmYyrzw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-7yBEqXhazkRs-yWBmYyrzw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:29:10"
+  },
+  {
+    "business_name": "Badi Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "305002",
+    "phone_number": "+91 89055 45389",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 78,
+    "address": "Badi Kithen, Chamunda Mata Road, Ajmer, Pushkar, Rajasthan 305022",
+    "area": "305002",
+    "latitude": 26.4818058,
+    "longitude": 74.55217209999999,
+    "place_id": "ChIJveSO8ZPdazkRRKux5WV607I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJveSO8ZPdazkRRKux5WV607I",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:29:10"
+  }
+]

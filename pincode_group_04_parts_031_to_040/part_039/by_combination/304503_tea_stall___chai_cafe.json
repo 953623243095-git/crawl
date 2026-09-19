@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "the chai.",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "304503",
+    "phone_number": "+91 70158 48004",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Colony Road, near teena bakery, Raheja Colony, Meena Bazaar, Mandi Dabwali, Haryana 125104",
+    "area": "Raheja Colony, Meena Bazaar",
+    "latitude": 29.9638483,
+    "longitude": 74.7028618,
+    "place_id": "ChIJUxsOc-DZFjkR8KiSH4aMF_w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUxsOc-DZFjkR8KiSH4aMF_w",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:12:58"
+  },
+  {
+    "business_name": "Junjhadiya Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "304503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "V8V5+CQG, Nagaur Rd, Degana, Rajasthan 341503",
+    "area": "304503",
+    "latitude": 26.8935621,
+    "longitude": 74.3094638,
+    "place_id": "ChIJN-X7qNWtazkRHZVEVCIDyy4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN-X7qNWtazkRHZVEVCIDyy4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:12:58"
+  }
+]

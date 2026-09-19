@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Stitching Project",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "305022",
+    "phone_number": "N/A",
+    "website": "http://www.the-stitching-project.com/",
+    "rating": 4.1,
+    "reviews_count": 10,
+    "address": "Kishanpura Rd, Chawandia Village, front of Nayak Colony, Pushkar, Rajasthan 305022",
+    "area": "305022",
+    "latitude": 26.4979263,
+    "longitude": 74.5395111,
+    "place_id": "ChIJOxws58jcazkRSCT8yhdASec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOxws58jcazkRSCT8yhdASec",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:43:55"
+  },
+  {
+    "business_name": "Khadi Ghar",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Cotton Supplier",
+    "all_categories": "Cotton Supplier",
+    "pincode": "305022",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FJ7Q+CGC, kuchery road,, Ajmer, Rajasthan 305001",
+    "area": "Hathi Bhata",
+    "latitude": 26.463570599999997,
+    "longitude": 74.63876739999999,
+    "place_id": "ChIJ2ajrvgLnazkRhhqGcFky0Jk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ajrvgLnazkRhhqGcFky0Jk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:43:56"
+  }
+]

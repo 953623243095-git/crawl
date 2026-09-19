@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taste Of Coffee (TOC)",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "303908",
+    "phone_number": "+91 89491 29115",
+    "website": "http://tasteofcoffee.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No.1029, Baba Harishchandra Marg, opp. Prajeet Chat Bhandar, Chandpole Bazar, Chandpole, Chandpol, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302001",
+    "area": "Chandpole Bazar, Chandpole, Chandpol",
+    "latitude": 26.9245466,
+    "longitude": 75.8156576,
+    "place_id": "ChIJTX0LetyxbTkRzsOPpnsQEhY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTX0LetyxbTkRzsOPpnsQEhY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:55:11"
+  },
+  {
+    "business_name": "Olio Rooftop Restaurant & Kitchen",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "303908",
+    "phone_number": "+91 93145 47689",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Kalyan Kunj, 11, khirani phatak road, Ridhi Sidhi Nagar, Awadhpuri, Jhotwara, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302012",
+    "area": "Ridhi Sidhi Nagar, Awadhpuri, Jhotwara",
+    "latitude": 26.943108,
+    "longitude": 75.7433933,
+    "place_id": "ChIJJYJE5s2zbTkRJA5rtGToqS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJYJE5s2zbTkRJA5rtGToqS4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:55:11"
+  }
+]

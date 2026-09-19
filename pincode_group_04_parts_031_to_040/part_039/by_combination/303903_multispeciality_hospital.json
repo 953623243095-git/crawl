@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vedansh Multispeciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "303903",
+    "phone_number": "+91 82094 10387",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Barala Mode, Jaipur, Khijuriya Baman, Rajasthan 303903",
+    "area": "Barala Mode",
+    "latitude": 26.7505137,
+    "longitude": 75.987796,
+    "place_id": "ChIJlc6hsBjFbTkRxlNKUJZTAbA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlc6hsBjFbTkRxlNKUJZTAbA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:49:37"
+  },
+  {
+    "business_name": "SR Multispeciality Hospital & Resacrh Centre",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "303903",
+    "phone_number": "N/A",
+    "website": "https://srhospitaltoonga.in/",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Shop no 11, 15, Jaipur Road, near Petrol Pump, Toonga, Tunga, Rajasthan 303302",
+    "area": "303903",
+    "latitude": 26.7431031,
+    "longitude": 76.1542281,
+    "place_id": "ChIJU7BHyKLpbTkR6gqVyLPsQug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU7BHyKLpbTkR6gqVyLPsQug",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:49:37"
+  }
+]

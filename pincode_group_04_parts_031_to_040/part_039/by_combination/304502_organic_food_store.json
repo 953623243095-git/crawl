@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reliance SMART Superstore",
+    "search_category": "Organic Food Store",
+    "primary_category": "Health food store",
+    "all_categories": "Health food store, Appliance store, Beverage Store, Convenience store, Dairy store, Gourmet grocery store, Hypermarket, Home goods store, Indian grocery store, Produce market",
+    "pincode": "304502",
+    "phone_number": "+91 1800 891 0001",
+    "website": "https://stores.reliancesmartbazaar.com/reliance-smart-superstore-hypermarket-vishwakarma-industrial-area-jaipur-280409/Home",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "G 467 Road No 12, Vishwakarma Industrial Area, Jaipur, Choru, Rajasthan 302013",
+    "area": "Vishwakarma Industrial Area",
+    "latitude": 26.5927616,
+    "longitude": 75.4622527,
+    "place_id": "ChIJs8EYDXIlbDkRAYV3jmZdBtA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs8EYDXIlbDkRAYV3jmZdBtA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:11:05"
+  },
+  {
+    "business_name": "Patanjali Gramin Arogya Kendra",
+    "search_category": "Organic Food Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store, Health food store, Herbal medicine store, Outlet mall",
+    "pincode": "304502",
+    "phone_number": "+91 98295 41535",
+    "website": "https://www.patanjaliayurved.net/?utm_source=locator&utm_medium=googleplaces",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Ground Floor, Malpura Rd, opposite BOI, Phagi, Parli, Rajasthan 303005",
+    "area": "304502",
+    "latitude": 26.545201799999997,
+    "longitude": 75.3060532,
+    "place_id": "ChIJ5dAwyoYZbDkRaDTt4Qm_wB0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5dAwyoYZbDkRaDTt4Qm_wB0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:11:06"
+  }
+]

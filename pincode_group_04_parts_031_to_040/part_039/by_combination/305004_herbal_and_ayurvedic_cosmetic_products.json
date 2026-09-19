@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RM Herbals",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "305004",
+    "phone_number": "+91 44 2485 2196",
+    "website": "http://www.rmherbals.in/",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "94/51, Perumal Koil St, West Saidapet, Saidapet, Chennai, Tamil Nadu 600015",
+    "area": "West Saidapet, Saidapet",
+    "latitude": 13.0231493,
+    "longitude": 80.2168164,
+    "place_id": "ChIJey4goBBnUjoRLVBcDVATLzM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJey4goBBnUjoRLVBcDVATLzM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:33:40"
+  },
+  {
+    "business_name": "Salmara Herbals",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "305004",
+    "phone_number": "+91 93534 36373",
+    "website": "https://salmaraherbals.com/",
+    "rating": 4,
+    "reviews_count": 35,
+    "address": "Panjala Bus Stop, SH 100, Narimogru, Karnataka 574202",
+    "area": "305004",
+    "latitude": 12.7435263,
+    "longitude": 75.2459575,
+    "place_id": "ChIJYZ_JnxyXpDsRRTnJ_4Zu3k4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYZ_JnxyXpDsRRTnJ_4Zu3k4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:33:41"
+  }
+]

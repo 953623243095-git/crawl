@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dog Clinic and home visit",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Emergency veterinarian service",
+    "all_categories": "Emergency veterinarian service",
+    "pincode": "304505",
+    "phone_number": "+91 81041 17657",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kalyan dwar, Near, Nohar, Rajasthan 335523",
+    "area": "304505",
+    "latitude": 29.179446,
+    "longitude": 74.7618648,
+    "place_id": "ChIJzT10kUcbFDkRwvBFHeUfTrU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzT10kUcbFDkRwvBFHeUfTrU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:16:53"
+  },
+  {
+    "business_name": "Balaji veterinary clinical",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinary pharmacy",
+    "all_categories": "Veterinary pharmacy",
+    "pincode": "304505",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Unnamed Road, Chaukri Khurd, Rajasthan 342601",
+    "area": "304505",
+    "latitude": 26.4810935,
+    "longitude": 73.7058055,
+    "place_id": "ChIJffL00xMRajkRyBbbTWYeVYM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJffL00xMRajkRyBbbTWYeVYM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:16:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PARVATI BOUTIQUE",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "305022",
+    "phone_number": "+91 99294 13304",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.9, Laxmi Market, Choti Basti, Pushkar, Ajmer, Rajasthan 305022",
+    "area": "Choti Basti",
+    "latitude": 26.490078099999998,
+    "longitude": 74.55547709999999,
+    "place_id": "ChIJGQ959APdazkReRkGBoHeb1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGQ959APdazkReRkGBoHeb1k",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:43:59"
+  },
+  {
+    "business_name": "Vishwam handicraft pushkar",
+    "search_category": "Boutiques",
+    "primary_category": "Handicrafts Wholesaler",
+    "all_categories": "Handicrafts Wholesaler, Dressmaker, Exporter, Handbags shop, Import export company",
+    "pincode": "305022",
+    "phone_number": "+91 96804 10213",
+    "website": "https://www.etsy.com/shop/Vishwamhandicraft196",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Brahma Mandir Rd, Pushkar, Rajasthan 305022",
+    "area": "305022",
+    "latitude": 26.4886658,
+    "longitude": 74.5487124,
+    "place_id": "ChIJCZUpeCDdazkR8EqsMNG8eCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCZUpeCDdazkR8EqsMNG8eCk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:44:01"
+  }
+]

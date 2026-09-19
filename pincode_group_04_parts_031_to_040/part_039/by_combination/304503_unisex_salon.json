@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Cosmo World - Luxury Salon in Jodhpur",
+    "search_category": "Unisex Salon",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center, Hair extension technician, Hair removal service, Hair transplantation clinic, Laser hair removal service, Make-up artist, Skin care clinic, Hairdresser, Waxing hair removal service",
+    "pincode": "304503",
+    "phone_number": "+91 88816 16616",
+    "website": "http://thecosmoworld.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "The Cosmo World | E, 47, Barkatullah Khan Stadium Rd, near Global Dental Hospital, near Bal Vidhya Mandir School, Sector-E, Shastri Nagar, Jodhpur, Rajasthan 342003",
+    "area": "Sector-E, Shastri Nagar",
+    "latitude": 26.2708124,
+    "longitude": 73.0016167,
+    "place_id": "ChIJUaJYkSCNQTkRrzy1czZpc5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUaJYkSCNQTkRrzy1czZpc5o",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:13:47"
+  },
+  {
+    "business_name": "Shree shyam hair salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser",
+    "pincode": "304503",
+    "phone_number": "+91 89559 19761",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "bus stend se left side jaipur, rod, Uniyara Khurd, Rajasthan 304502",
+    "area": "304503",
+    "latitude": 26.1540203,
+    "longitude": 75.2150279,
+    "place_id": "ChIJzWHE98i7bjkRzl8Do4WfYQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzWHE98i7bjkRzl8Do4WfYQw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:13:47"
+  }
+]

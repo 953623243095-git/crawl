@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "305004",
+    "phone_number": "+91 70142 67116",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "B-435 Maharana pratap nagar ajmer, near Ryan international school, Rajasthan 305004",
+    "area": "Kotra",
+    "latitude": 26.4697785,
+    "longitude": 74.5854954,
+    "place_id": "ChIJH6SCMhTdazkRnhF3XGSw5Vc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH6SCMhTdazkRnhF3XGSw5Vc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:34:01"
+  },
+  {
+    "business_name": "CP Computers & Solution",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer accessories store",
+    "pincode": "305004",
+    "phone_number": "+91 92520 14290",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "SHOP NO 1, C-41, OPP. NIRALA FLATS., HATHIKHERA ROAD,PRAGATI NAGAR, KOTRA, Ajmer, Rajasthan 305004",
+    "area": "Kotra",
+    "latitude": 26.4727183,
+    "longitude": 74.5931523,
+    "place_id": "ChIJoXFYJ37dazkR3b89GX-QaQI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoXFYJ37dazkR3b89GX-QaQI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:34:01"
+  }
+]

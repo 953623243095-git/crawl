@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sree Nanjundeswara Department Stores",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "305021",
+    "phone_number": "+91 80 2337 3278",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 40,
+    "address": "No.101, 1, 1st Main Rd, Kamla Nehru. Extension, Yeswanthpur, Bengaluru, Karnataka 560022",
+    "area": "Kamla Nehru. Extension, Yeswanthpur",
+    "latitude": 13.0241774,
+    "longitude": 77.5573398,
+    "place_id": "ChIJUZ5cbGs9rjsRpGZxVqCogJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUZ5cbGs9rjsRpGZxVqCogJ0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:41:50"
+  },
+  {
+    "business_name": "Provision Stores",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "305021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Madar Gate, Cavanduspura, Parao, Ajmer, Rajasthan 305001",
+    "area": "Cavanduspura, Parao",
+    "latitude": 26.4573428,
+    "longitude": 74.6356138,
+    "place_id": "ChIJo752PRznazkR-5kLBT2SsL0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo752PRznazkR-5kLBT2SsL0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:41:51"
+  }
+]

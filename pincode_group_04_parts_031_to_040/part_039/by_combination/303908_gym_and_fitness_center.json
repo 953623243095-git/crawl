@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "IRON FITNESS GYM",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "303908",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "2, Vatika Rd, Krishi Nagar Vistar, Beelwa, Sukhdeopura Nohara, Jaipur, Shyosinghpura at Kallawala, Rajasthan 302029",
+    "area": "Krishi Nagar Vistar, Beelwa, Sukhdeopura Nohara",
+    "latitude": 26.738975999999997,
+    "longitude": 75.8223752,
+    "place_id": "ChIJx6z-XQDJbTkRC-z-9htf4_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx6z-XQDJbTkRC-z-9htf4_4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:55:33"
+  },
+  {
+    "business_name": "Absolute gym and fitness center",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "303908",
+    "phone_number": "+91 75688 25309",
+    "website": "https://g.co/kgs/EXKtge",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "C, 19, Park Ave Rd, behind wtp, D-Block, Malviya Nagar, Jaipur, Rajasthan 302017",
+    "area": "D-Block, Malviya Nagar",
+    "latitude": 26.8514493,
+    "longitude": 75.8056325,
+    "place_id": "ChIJyx0kPgi2bTkRGctvyzICCsY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyx0kPgi2bTkRGctvyzICCsY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 06:55:34"
+  }
+]
