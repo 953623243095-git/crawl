@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SUKH SEVA SADAN",
+    "search_category": "Commercial Complex",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "305205",
+    "phone_number": "+91 63764 99133",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "road, Miyapur, Rajasthan 305205",
+    "area": "305205",
+    "latitude": 26.3359083,
+    "longitude": 74.61004989999999,
+    "place_id": "ChIJe2Lrt1vhazkRoulnZc8802s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe2Lrt1vhazkRoulnZc8802s",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:01:53"
+  },
+  {
+    "business_name": "Rj auto senter",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "305205",
+    "phone_number": "+91 85028 96175",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 28,
+    "address": "8MFF+H54, Rajosi, Rajasthan 305401",
+    "area": "305205",
+    "latitude": 26.3238998,
+    "longitude": 74.67294079999999,
+    "place_id": "ChIJV45dt0VfaTkR0ay6XxkxkDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV45dt0VfaTkR0ay6XxkxkDM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:01:53"
+  }
+]

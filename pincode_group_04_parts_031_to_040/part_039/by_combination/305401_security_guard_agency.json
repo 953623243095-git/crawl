@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NSS CCTV SYSTEM",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service",
+    "pincode": "305401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Mangliyawas Rd, Pisangan, Nasirabad, Rajasthan 305204",
+    "area": "305401",
+    "latitude": 26.2970506,
+    "longitude": 74.7238378,
+    "place_id": "ChIJ-0b7ouDXazkRxFgKCHc20Ik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-0b7ouDXazkRxFgKCHc20Ik",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:06:58"
+  },
+  {
+    "business_name": "Kamal enterprises",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Computer security service",
+    "all_categories": "Computer security service",
+    "pincode": "305401",
+    "phone_number": "+91 63771 98187",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Ram dev colony, bhalwanta chouraya, Nasirabad, Balwanta, Rajasthan 305601",
+    "area": "305401",
+    "latitude": 26.3445577,
+    "longitude": 74.7204033,
+    "place_id": "ChIJp5gPQ05ZaTkRrsmPx_chejQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp5gPQ05ZaTkRrsmPx_chejQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:06:59"
+  }
+]

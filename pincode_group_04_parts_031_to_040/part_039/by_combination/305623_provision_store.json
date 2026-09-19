@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mehful General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "305623",
+    "phone_number": "+91 82477 61062",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": 2,
+    "address": "Shop No 01, Salarmala Masuda, Ajmer, Rajasthan 305623",
+    "area": "305623",
+    "latitude": 26.1488218,
+    "longitude": 74.5640276,
+    "place_id": "ChIJXXOBldRnaTkRIfhRbbNPiZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXXOBldRnaTkRIfhRbbNPiZs",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:28:50"
+  },
+  {
+    "business_name": "Shree Dev Tea And General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "305623",
+    "phone_number": "+91 94689 49228",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Road Masuda, Masuda, Deomali, Ajmer, Rajasthan 305623",
+    "area": "Masuda",
+    "latitude": 26.0667132,
+    "longitude": 74.4907352,
+    "place_id": "ChIJAzFMsGFvaTkRDZqSceWPv1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAzFMsGFvaTkRDZqSceWPv1k",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:28:50"
+  }
+]

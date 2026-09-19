@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gokul Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Indian sweets shop",
+    "pincode": "305811",
+    "phone_number": "+91 74249 46612",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Janana hospital makerwali road, Ajmer, Makadwali, Rajasthan 305001",
+    "area": "305811",
+    "latitude": 26.5242422,
+    "longitude": 74.66028229999999,
+    "place_id": "ChIJFTkQkbvpazkRAs0w635VmrQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFTkQkbvpazkRAs0w635VmrQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:46:57"
+  },
+  {
+    "business_name": "Radhe Radhe Sweets and Namkeen",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop",
+    "pincode": "305811",
+    "phone_number": "+91 84400 80596",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 7,
+    "address": "Naya bazar Chopar, Dargah Bypass Rd, Ajmer, Rajasthan 305001",
+    "area": "Naya Bazaar",
+    "latitude": 26.460413,
+    "longitude": 74.6316425,
+    "place_id": "ChIJY79ChpznazkRVSdnsvIOzzk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY79ChpznazkRVSdnsvIOzzk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:46:59"
+  }
+]

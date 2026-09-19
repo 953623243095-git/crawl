@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramesh Electric",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "305811",
+    "phone_number": "+91 99281 69995",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "HVP5+PHX, City Rd, opp. Adinath Temple, Teli Mohalla, Madanganj, Kishangarh, Rajasthan 305801",
+    "area": "Teli Mohalla, Madanganj",
+    "latitude": 26.5868567,
+    "longitude": 74.8589721,
+    "place_id": "ChIJ4eFQAtnwazkRJSpGPVW2xgk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4eFQAtnwazkRJSpGPVW2xgk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:47:38"
+  },
+  {
+    "business_name": "Rencel enterprises",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "305811",
+    "phone_number": "+91 80033 78537",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HVP2+3JM, Ajmer Rd, Madanganj, Kishangarh, Rajasthan 305802",
+    "area": "Madanganj",
+    "latitude": 26.5852033,
+    "longitude": 74.8515359,
+    "place_id": "ChIJk2EVO97wazkRbgiZqzIz_9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk2EVO97wazkRbgiZqzIz_9w",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:47:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Any Car Warks Shop",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "305811",
+    "phone_number": "+91 88299 71214",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "079 Kishangarh, Road, Ajmer, Rajasthan 305001",
+    "area": "Adarsh Nagar",
+    "latitude": 26.576172699999997,
+    "longitude": 74.83285339999999,
+    "place_id": "ChIJQdcRNS3xazkRoey9FW2iyKw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQdcRNS3xazkRoey9FW2iyKw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:47:27"
+  },
+  {
+    "business_name": "Shree Bala Ji Auto Part's",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Motorcycle parts store",
+    "all_categories": "Motorcycle parts store",
+    "pincode": "305811",
+    "phone_number": "+91 81070 95578",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Kishangarh Road, Ralawata, Rajasthan 305801",
+    "area": "305811",
+    "latitude": 26.691403899999997,
+    "longitude": 74.86388819999999,
+    "place_id": "ChIJ0QNNXoTzazkRZM8QqGSTIZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0QNNXoTzazkRZM8QqGSTIZA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:47:27"
+  }
+]

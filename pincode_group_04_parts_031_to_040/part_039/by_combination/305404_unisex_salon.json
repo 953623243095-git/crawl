@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.K. HAIR SALOON",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "305404",
+    "phone_number": "+91 80584 42842",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Bazar Main Bazar, Kazupura, Kekri, Rajasthan 305404",
+    "area": "Kazupura",
+    "latitude": 25.9780351,
+    "longitude": 75.15344019999999,
+    "place_id": "ChIJU4lSRufJbjkRBtCRv9-LrnQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU4lSRufJbjkRBtCRv9-LrnQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:11:52"
+  },
+  {
+    "business_name": "Manoj hair Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "305404",
+    "phone_number": "+91 89054 61331",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Shop Number 01, Krishna Talkies, near Bank Of Baroda, Anant's Sweat Colony, Kekri, Rajasthan 305404",
+    "area": "Anant's Sweat Colony",
+    "latitude": 25.970748999999998,
+    "longitude": 75.1526016,
+    "place_id": "ChIJCUxoi5bJbjkRwrRuw_Et1eI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCUxoi5bJbjkRwrRuw_Et1eI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:11:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Accountrics Inc",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Bookkeeping service",
+    "all_categories": "Bookkeeping service",
+    "pincode": "305204",
+    "phone_number": "+91 87550 07107",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "M-6, Raipur Rd, near Pal Physiotherapy Clinic, Dashmesh Vihar, Tapovan Enclave Tarla Amwala, Dehradun, Uttarakhand 248008",
+    "area": "Dashmesh Vihar, Tapovan Enclave Tarla Amwala",
+    "latitude": 30.323181199999997,
+    "longitude": 78.07092159999999,
+    "place_id": "ChIJqcL2V-kpCTkRgotoFjlFsCc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqcL2V-kpCTkRgotoFjlFsCc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:59:50"
+  },
+  {
+    "business_name": "Income Tax Office Balotra",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "305204",
+    "phone_number": "+91 1800 180 1961",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "District Transport Office, Balotra, near RTO Office, Balotra, Rajasthan 344022",
+    "area": "305204",
+    "latitude": 25.8334959,
+    "longitude": 72.24599789999999,
+    "place_id": "ChIJ6_wKaKnpQzkRTE2Z8tzV96E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6_wKaKnpQzkRTE2Z8tzV96E",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:59:50"
+  }
+]

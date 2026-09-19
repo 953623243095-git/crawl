@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Asheville Videography",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Video production service",
+    "all_categories": "Video production service",
+    "pincode": "305601",
+    "phone_number": "N/A",
+    "website": "http://www.ashevillevideography.com/",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "10 Alexander Dr #211, Asheville, NC 28801, United States",
+    "area": "East End - Valley Street",
+    "latitude": 35.591809,
+    "longitude": -82.542497,
+    "place_id": "ChIJWZA5RJnzWYgRYHR_2dM9F_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWZA5RJnzWYgRYHR_2dM9F_4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:24:31"
+  },
+  {
+    "business_name": "Rocky Top Videography",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Video production service",
+    "all_categories": "Video production service, Service establishment",
+    "pincode": "305601",
+    "phone_number": "N/A",
+    "website": "https://www.rockytopvideography.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Rocky Top Videography, 305601, India",
+    "area": "305601",
+    "latitude": 37.065328,
+    "longitude": -85.9786956,
+    "place_id": "ChIJc4weUXGflC0RnwGCtrtOhgU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc4weUXGflC0RnwGCtrtOhgU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:24:32"
+  }
+]

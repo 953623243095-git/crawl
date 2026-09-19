@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "अंजनी ट्रांसपोर्ट कम्पनी",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Trucking company",
+    "all_categories": "Trucking company",
+    "pincode": "305802",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "HWQ3+FG6, Naya Gaon, Tolamal, Rajasthan 305802",
+    "area": "305802",
+    "latitude": 26.588663999999998,
+    "longitude": 74.903753,
+    "place_id": "ChIJ_w4V-Rv3azkRI_gXaTTf8h0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_w4V-Rv3azkRI_gXaTTf8h0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:46:27"
+  },
+  {
+    "business_name": "Blue Dart Express Limited",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "305802",
+    "phone_number": "N/A",
+    "website": "https://www.bluedart.com/",
+    "rating": 3.4,
+    "reviews_count": 92,
+    "address": "Madanganj, Kishangarh, Rajasthan 305801",
+    "area": "Madanganj",
+    "latitude": 26.586333399999997,
+    "longitude": 74.8521646,
+    "place_id": "ChIJzwKWSt7wazkRS38H2hw0CEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzwKWSt7wazkRS38H2hw0CEM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:46:28"
+  }
+]

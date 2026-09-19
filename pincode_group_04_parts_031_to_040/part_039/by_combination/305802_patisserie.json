@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Balaji misthan bander",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "305802",
+    "phone_number": "+91 99291 24466",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "HR8Q+836, Madanganj, Kishangarh, Rajasthan 305801",
+    "area": "Madanganj",
+    "latitude": 26.565794,
+    "longitude": 74.83676799999999,
+    "place_id": "ChIJ2a96CQDxazkR0ojWejF2XWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2a96CQDxazkR0ojWejF2XWs",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:45:08"
+  },
+  {
+    "business_name": "Alizka Corner",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "305802",
+    "phone_number": "+91 97997 95964",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "near Bridge, Gegal, Rajasthan 305023",
+    "area": "305802",
+    "latitude": 26.550334499999998,
+    "longitude": 74.7735198,
+    "place_id": "ChIJre29y_rvazkRqkT1aVl61Gw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJre29y_rvazkRqkT1aVl61Gw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:45:08"
+  }
+]

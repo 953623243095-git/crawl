@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji hotal baghrai",
+    "search_category": "Patisserie",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "305621",
+    "phone_number": "+91 99289 13638",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Ajmer Rd, Bagrai, Rajasthan 305621",
+    "area": "305621",
+    "latitude": 26.1490424,
+    "longitude": 74.6993035,
+    "place_id": "ChIJbW-gbTtFaTkRbMniCJ8WIws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbW-gbTtFaTkRbMniCJ8WIws",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:25:26"
+  },
+  {
+    "business_name": "Balaji Fast Food & Bakers",
+    "search_category": "Patisserie",
+    "primary_category": "Food court",
+    "all_categories": "Food court, Restaurant",
+    "pincode": "305621",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Beawar Road, Bandanwara, Rajasthan 305621",
+    "area": "305621",
+    "latitude": 26.1249604,
+    "longitude": 74.6946605,
+    "place_id": "ChIJN_65niZFaTkRL6YwOnMUxA0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN_65niZFaTkRL6YwOnMUxA0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:25:26"
+  }
+]

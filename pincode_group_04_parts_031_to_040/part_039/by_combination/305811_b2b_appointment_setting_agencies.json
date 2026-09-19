@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Techsential India",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "305811",
+    "phone_number": "+91 98189 88501",
+    "website": "http://techsentialindia.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RZ-15-S, Geetanjali Park, Main Sagarpur, Palam, New Delhi, Delhi 110046",
+    "area": "Shiv Puri, Geetanjali Park, Main Sagarpur, Palam",
+    "latitude": 28.6015597,
+    "longitude": 77.0966871,
+    "place_id": "ChIJWxratFAbDTkRXq9hUZ1G1bc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWxratFAbDTkRXq9hUZ1G1bc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:48:36"
+  },
+  {
+    "business_name": "Central Board of Secondary Education",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "305811",
+    "phone_number": "+91 11 2405 0336",
+    "website": "https://www.cbse.gov.in/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "4, Sector 23, Dwarka, New Delhi, Delhi, 110077",
+    "area": "Sector 23, Dwarka",
+    "latitude": 28.5641492,
+    "longitude": 77.055955,
+    "place_id": "ChIJRWQK0TEbDTkRfTv2Uad-ElY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRWQK0TEbDTkRfTv2Uad-ElY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:48:36"
+  }
+]

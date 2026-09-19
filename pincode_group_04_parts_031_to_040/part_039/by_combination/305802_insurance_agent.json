@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajesh Kumar Joshi",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "305802",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CQVP+C3W, Shreenagar, Rajasthan 305025",
+    "area": "305802",
+    "latitude": 26.443458999999997,
+    "longitude": 74.78538499999999,
+    "place_id": "ChIJVcSsrov9azkR3h0FFrGivGs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVcSsrov9azkR3h0FFrGivGs",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:46:24"
+  },
+  {
+    "business_name": "LIC PREMIUM POINT",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "305802",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "HV8C+XQ2, Old City Rd, near post office, kayasth mohalla, Kishangarh, Rajasthan 305802",
+    "area": "kayasth mohalla",
+    "latitude": 26.5673887,
+    "longitude": 74.8718993,
+    "place_id": "ChIJj1vNAgnxazkRL4TZowp57Go",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj1vNAgnxazkRL4TZowp57Go",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:46:24"
+  }
+]

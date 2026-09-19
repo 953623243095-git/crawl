@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FileCrafts",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop, Service establishment",
+    "pincode": "305802",
+    "phone_number": "+91 94607 80773",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FileCrafts, 305802, India",
+    "area": "305802",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJj1pwu5O3qSYRyL6PnjDQ0Hw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj1pwu5O3qSYRyL6PnjDQ0Hw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:46:10"
+  },
+  {
+    "business_name": "Dear Gifts",
+    "search_category": "Gifting",
+    "primary_category": "Corporate gift supplier",
+    "all_categories": "Corporate gift supplier, Service establishment",
+    "pincode": "305802",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/_deargifts_?igsi=MXNqdGEzdm1mMGZ4bQ==",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dear Gifts, 305802, India",
+    "area": "305802",
+    "latitude": 26.5932978,
+    "longitude": 74.8487341,
+    "place_id": "ChIJX8lL4fG_9IoRxa1AoW3VCFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX8lL4fG_9IoRxa1AoW3VCFA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:46:10"
+  }
+]

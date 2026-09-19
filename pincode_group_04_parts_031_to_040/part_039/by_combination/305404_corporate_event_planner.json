@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radhika tent house sapla kekri",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "305404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "178garg, mohhla, sampla dakhsini, Sapla, Rajasthan 305404",
+    "area": "305404",
+    "latitude": 25.9127141,
+    "longitude": 75.0033239,
+    "place_id": "ChIJ685WtfbNbjkRdFXykyvLP4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ685WtfbNbjkRdFXykyvLP4o",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:12:04"
+  },
+  {
+    "business_name": "Evento",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Event management company",
+    "pincode": "305404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "X4FX+JPC, Raghu Colony, Kekri, Rajasthan 305404",
+    "area": "Raghu Colony",
+    "latitude": 25.9740556,
+    "longitude": 75.149262,
+    "place_id": "ChIJ52cTt4DIbjkRN9ziJpwHMi4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ52cTt4DIbjkRN9ziJpwHMi4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:12:04"
+  }
+]

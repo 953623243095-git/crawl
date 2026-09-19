@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Uppal Enterprises VEDIC STORE",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Ayurvedic clinic, Herbal medicine store, Doctor",
+    "pincode": "305624",
+    "phone_number": "+91 98030 24800",
+    "website": "https://www.vedicstore.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "191, Patiala Rd, Swastik Vihar, Zirakpur, Punjab 140603",
+    "area": "Swastik Vihar",
+    "latitude": 30.6482082,
+    "longitude": 76.8077536,
+    "place_id": "ChIJZ6Y3iCyVDzkR-JSYrVYyt3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ6Y3iCyVDzkR-JSYrVYyt3s",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:31:36"
+  },
+  {
+    "business_name": "Abhinav Ayurvedic and Herbal Store",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Ayurvedic clinic, Herbal medicine store, Pharmacy, Religious goods store",
+    "pincode": "305624",
+    "phone_number": "N/A",
+    "website": "https://sites.google.com/view/ayurvedicmedicines",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Lohgarh Rd, near Sigma City Chowk, Balaji Enclave Phase 2, Lohgarh, Zirakpur, Punjab 140603",
+    "area": "Balaji Enclave Phase 2, Lohgarh",
+    "latitude": 30.6461851,
+    "longitude": 76.8142537,
+    "place_id": "ChIJ90u_peHrDzkRGBphbYCuly4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ90u_peHrDzkRGBphbYCuly4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:31:36"
+  }
+]

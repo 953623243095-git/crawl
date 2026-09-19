@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Foji nivas",
+    "search_category": "Guesthouse",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "305412",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7399+7Q6, Srirampura, Rajasthan 305412",
+    "area": "305412",
+    "latitude": 26.2681528,
+    "longitude": 75.069397,
+    "place_id": "ChIJQSycYpavbjkRpzxjH-t7SOk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQSycYpavbjkRpzxjH-t7SOk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:20:56"
+  },
+  {
+    "business_name": "Yadgar guest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "305412",
+    "phone_number": "+91 145 243 2786",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "FJ4G+FMH, Ander Kote Rd, Tripoliya gate, Lakhan Kothri, Ajmer, Rajasthan 305001",
+    "area": "Tripoliya gate, Lakhan Kothri",
+    "latitude": 26.4561779,
+    "longitude": 74.6267476,
+    "place_id": "ChIJ9fYNxxDnazkRNSnptDB2qw8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9fYNxxDnazkRNSnptDB2qw8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:20:58"
+  }
+]

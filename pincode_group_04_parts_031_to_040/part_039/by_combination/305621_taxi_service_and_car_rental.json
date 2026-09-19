@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taxi services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "305621",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FJ4G+7M3, Adarsh Nagar, indian over Sis bank ke niche, Adarsh Nagar, Ajmer, Rajasthan 305001",
+    "area": "Adarsh Nagar",
+    "latitude": 26.4556498,
+    "longitude": 74.6266649,
+    "place_id": "ChIJDepA8wPnazkRHKd6iw8aOAs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDepA8wPnazkRHKd6iw8aOAs",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:25:58"
+  },
+  {
+    "business_name": "A K Cab Services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Auto upholsterer, Car leasing service, Hat shop, Minibus taxi service, Taxi service",
+    "pincode": "305621",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Saint Haridar Hospital, Shade Road, Industrial Area, Balotra, Rajasthan 344022",
+    "area": "Industrial Area",
+    "latitude": 25.8345557,
+    "longitude": 72.2322867,
+    "place_id": "ChIJ1RwAP_DpQzkREAblXWu_W-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1RwAP_DpQzkREAblXWu_W-w",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:26:00"
+  }
+]

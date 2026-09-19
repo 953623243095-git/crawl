@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mukta Mishri ENT Care",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "305623",
+    "phone_number": "+91 1462 250 760",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "4848+PQ8, Champa Nagar, Beawar, Rajasthan 305901",
+    "area": "Champa Nagar",
+    "latitude": 26.1067952,
+    "longitude": 74.31696029999999,
+    "place_id": "ChIJq6qq2q1waTkRsh40nCwObYM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qq2q1waTkRsh40nCwObYM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:29:21"
+  },
+  {
+    "business_name": "Dr Gopal Thanvi",
+    "search_category": "ENT Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "305623",
+    "phone_number": "+91 164 225 7222",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "4848+PQ9, Champa Nagar, Beawar, Rajasthan 305901",
+    "area": "Champa Nagar",
+    "latitude": 26.1067969,
+    "longitude": 74.3169691,
+    "place_id": "ChIJ_TZpJbFwaTkRS7bZO9zAqdQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_TZpJbFwaTkRS7bZO9zAqdQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:29:21"
+  }
+]

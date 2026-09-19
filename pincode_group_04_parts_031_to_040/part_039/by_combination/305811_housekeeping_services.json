@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunshine Dry Cleaners",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Dry cleaner",
+    "all_categories": "Dry cleaner",
+    "pincode": "305811",
+    "phone_number": "+91 98298 86562",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tilak Complex, Madanganj, Kishangarh, Rajasthan 305801",
+    "area": "Madanganj",
+    "latitude": 26.5876549,
+    "longitude": 74.8569097,
+    "place_id": "ChIJ31_UzdjwazkRegSYKBksscw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ31_UzdjwazkRegSYKBksscw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:48:20"
+  },
+  {
+    "business_name": "Usman aashik house",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "305811",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "MP7Q+5VV, Babayacha, Rajasthan 305811",
+    "area": "305811",
+    "latitude": 26.662966899999997,
+    "longitude": 74.73968479999999,
+    "place_id": "ChIJE0eiOwDtazkR7BB0HN7cPJQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE0eiOwDtazkR7BB0HN7cPJQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:48:20"
+  }
+]

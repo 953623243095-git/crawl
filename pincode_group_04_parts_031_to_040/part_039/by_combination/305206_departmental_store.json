@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THOMAS GROCERY STORES",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "305206",
+    "phone_number": "+91 86929 15911",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near by Gurukul School, Somalpur, Ajmer, Somalpur, Rajasthan 305003",
+    "area": "Somalpur",
+    "latitude": 26.413413799999997,
+    "longitude": 74.6084845,
+    "place_id": "ChIJjSjJ8PLhazkRDVUvRBtxIW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjSjJ8PLhazkRDVUvRBtxIW0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:01:55"
+  },
+  {
+    "business_name": "Salim shop",
+    "search_category": "Departmental Store",
+    "primary_category": "Filipino grocery store",
+    "all_categories": "Filipino grocery store",
+    "pincode": "305206",
+    "phone_number": "+91 90018 34381",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": 2,
+    "address": "Faysager To Ajaysar, Ajaysar, Rajasthan 305005",
+    "area": "305206",
+    "latitude": 26.41491,
+    "longitude": 74.5536391,
+    "place_id": "ChIJ5bVqVbzfazkRNOXrYqS3i9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5bVqVbzfazkRNOXrYqS3i9U",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:01:55"
+  }
+]

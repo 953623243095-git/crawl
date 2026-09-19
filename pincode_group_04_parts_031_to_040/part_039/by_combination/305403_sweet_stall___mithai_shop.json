@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Sitaram Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Dessert shop",
+    "all_categories": "Dessert shop, Store",
+    "pincode": "305403",
+    "phone_number": "+91 98285 89007",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Madar Gate Rd, Parao, Ajmer, Rajasthan 305001",
+    "area": "Parao",
+    "latitude": 26.4572556,
+    "longitude": 74.63549669999999,
+    "place_id": "ChIJkf7sFRznazkR787NeLVYx6A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkf7sFRznazkR787NeLVYx6A",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:09:15"
+  },
+  {
+    "business_name": "R.B.H. SWEET SHOP",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Restaurant",
+    "pincode": "305403",
+    "phone_number": "+91 94145 55545",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 15,
+    "address": "Naya Bajar road, Agra Gate Rd, opp. Ganesh mandir, Ajmer, Rajasthan 305001",
+    "area": "Dumada, Dargah Bazar",
+    "latitude": 26.4630825,
+    "longitude": 74.6314178,
+    "place_id": "ChIJo7dT4ATnazkRsvWDqqKuwY8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo7dT4ATnazkRsvWDqqKuwY8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:09:17"
+  }
+]

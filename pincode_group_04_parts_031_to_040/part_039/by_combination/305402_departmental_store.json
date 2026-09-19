@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "देवकरण",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "305402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9W3Q+HHF, Jhadol, Rajasthan 305402",
+    "area": "305402",
+    "latitude": 26.3539492,
+    "longitude": 74.93890929999999,
+    "place_id": "ChIJ08C2bABVaTkRijJeTA42nn8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ08C2bABVaTkRijJeTA42nn8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:07:21"
+  },
+  {
+    "business_name": "Vaishnav",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "305402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7W2Q+QWJ, Deoliya, Devaliya, Rajasthan 305402",
+    "area": "305402",
+    "latitude": 26.2518086,
+    "longitude": 74.9398336,
+    "place_id": "ChIJYxzbaQBTaTkRDLa3VHQQHj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYxzbaQBTaTkRDLa3VHQQHj4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:07:21"
+  }
+]

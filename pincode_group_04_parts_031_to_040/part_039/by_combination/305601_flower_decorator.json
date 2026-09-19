@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swarn – The Bouquet Studio",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Boutique",
+    "pincode": "305601",
+    "phone_number": "+91 95718 70143",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Anand Nagar, Ajmer, Rajasthan 305001",
+    "area": "Anand Nagar",
+    "latitude": 26.481748699999997,
+    "longitude": 74.6320497,
+    "place_id": "ChIJt_BgRQDnazkRlMMFUuPSqP4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt_BgRQDnazkRlMMFUuPSqP4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:24:27"
+  },
+  {
+    "business_name": "Raja Event and Decoration | Home Decoration | Marriage Decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "305601",
+    "phone_number": "+91 82646 14170",
+    "website": "https://rajaeventanddecor.netlify.app/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop no 23, Kansal building, Raipur Kalan, Panchkula, Chandigarh 160102",
+    "area": "Raipur Kalan",
+    "latitude": 30.6867597,
+    "longitude": 76.8223605,
+    "place_id": "ChIJ-9MttwrtDzkRARcfbteYr5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-9MttwrtDzkRARcfbteYr5o",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:24:30"
+  }
+]

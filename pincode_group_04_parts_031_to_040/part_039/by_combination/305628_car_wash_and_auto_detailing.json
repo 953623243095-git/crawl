@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Detailing Daddy",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "305628",
+    "phone_number": "+91 79065 41975",
+    "website": "https://www.detailingdaddy.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Ground Floor, Gyan Tower, 3/11 D, opposite RIMC Gate, Garhi Cantonment, Nimbuwala, Dehradun, Uttarakhand 248003",
+    "area": "Garhi Cantonment, Nimbuwala",
+    "latitude": 30.349217499999998,
+    "longitude": 78.021063,
+    "place_id": "ChIJi6-PijrXCDkRMHPmwlMPwlw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi6-PijrXCDkRMHPmwlMPwlw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:36:32"
+  },
+  {
+    "business_name": "Detailing Monster",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "305628",
+    "phone_number": "+91 78178 08734",
+    "website": "https://instagram.com/detailingmonsterofficial?utm_source=qr&igshid=YzU1NGVlODEzOA==",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Alka dairy Chowk, GMS Rd, Sewla Kalan, Majra, Dehradun, Uttarakhand 248171",
+    "area": "Sewla Kalan, Majra",
+    "latitude": 30.298416399999997,
+    "longitude": 78.000045,
+    "place_id": "ChIJmdoc-ggrCTkRvhcCBOYqq6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmdoc-ggrCTkRvhcCBOYqq6Y",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:36:32"
+  }
+]

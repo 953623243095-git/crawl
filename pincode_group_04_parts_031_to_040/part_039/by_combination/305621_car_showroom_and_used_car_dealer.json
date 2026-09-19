@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "विजयनगर",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "305621",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "XPV9+P4W, Hanootiya, Ajmer, Rajasthan 305625",
+    "area": "305621",
+    "latitude": 25.994368299999998,
+    "longitude": 74.71782999999999,
+    "place_id": "ChIJC52nJZFHaTkRcjALXRjR7xg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC52nJZFHaTkRcjALXRjR7xg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:25:54"
+  },
+  {
+    "business_name": "Saudagar Car Bazar",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "305621",
+    "phone_number": "+91 94141 01618",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 82,
+    "address": "GCHG+5M6, Banswara Rd, Industrial Area, Commercial Colony, Banswara, Rajasthan 327001",
+    "area": "Industrial Area, Commercial Colony",
+    "latitude": 23.5436116,
+    "longitude": 74.4387734,
+    "place_id": "ChIJGVeXbgDPZjkR22yUuea1fFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGVeXbgDPZjkR22yUuea1fFs",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:25:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Namdev Traders Juniya",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "305406",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "35MR+6PJ, Rd Number 6, Junia, Rajasthan 305406",
+    "area": "305406",
+    "latitude": 26.0830935,
+    "longitude": 75.1917611,
+    "place_id": "ChIJCceLha-5bjkR9HKzixD2Zcg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCceLha-5bjkR9HKzixD2Zcg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:14:52"
+  },
+  {
+    "business_name": "Pareek Shop",
+    "search_category": "Boutiques",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "305406",
+    "phone_number": "+91 99294 35525",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop written om, Raghunath chowk, Pareek street, Hingoniyan, Rajasthan 305406",
+    "area": "305406",
+    "latitude": 26.0653665,
+    "longitude": 75.1295902,
+    "place_id": "ChIJSVN3J5i3bjkRZj6r4cdhAaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSVN3J5i3bjkRZj6r4cdhAaQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:14:53"
+  }
+]

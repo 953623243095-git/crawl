@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "सुरज,,भील",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "305628",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2VVX+242, Keriya Khurd, Rajasthan 305628",
+    "area": "305628",
+    "latitude": 26.042509799999998,
+    "longitude": 74.8977747,
+    "place_id": "ChIJTUSnZsxLaTkRNvorej6F2EA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTUSnZsxLaTkRNvorej6F2EA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:36:09"
+  },
+  {
+    "business_name": "Shree Dev Juice And Ice Cream Vale",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Juice shop",
+    "pincode": "305628",
+    "phone_number": "+91 75689 08735",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Vijay Nagar Road, near Bus Stand, Kekri, Devliya Kalan, Rajasthan 305629",
+    "area": "Kekri",
+    "latitude": 25.908781299999998,
+    "longitude": 74.7853808,
+    "place_id": "ChIJH-f4ul43aTkRGti9z6NcNUc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH-f4ul43aTkRGti9z6NcNUc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:36:10"
+  }
+]

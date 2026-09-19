@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mewara Shoe Store",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "305403",
+    "phone_number": "+91 87693 59757",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "3288, Link Rd, F2G, Sarwar, Rajasthan 305403",
+    "area": "F2G",
+    "latitude": 26.0661889,
+    "longitude": 75.0150784,
+    "place_id": "ChIJUWZv8IW1bjkR6lqZtNRsbpo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUWZv8IW1bjkR6lqZtNRsbpo",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:09:28"
+  },
+  {
+    "business_name": "Friends Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "305403",
+    "phone_number": "+91 63787 69112",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "chaman choraha, Sarwar Link Road, Ajmer - Kota Rd, Sarwar, Rajasthan 305403",
+    "area": "305403",
+    "latitude": 26.066440099999998,
+    "longitude": 75.0168874,
+    "place_id": "ChIJjXxlw1K1bjkRge6lKlBa9wg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjXxlw1K1bjkRge6lKlBa9wg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:09:28"
+  }
+]

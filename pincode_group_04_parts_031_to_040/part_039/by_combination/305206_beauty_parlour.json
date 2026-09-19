@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anjani beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "305206",
+    "phone_number": "+91 70730 98899",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shyam vatika jawar ki nadi, Gali No. 1, umravati nagar, Ajmer, Rajasthan 305001",
+    "area": "umravati nagar, Chandra Vardai Nagar",
+    "latitude": 26.415131199999998,
+    "longitude": 74.6229743,
+    "place_id": "ChIJye6IeCvhazkRYBQAeyP-h24",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJye6IeCvhazkRYBQAeyP-h24",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:02:50"
+  },
+  {
+    "business_name": "Kamakshi Parlor And Training Center",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Health and beauty shop",
+    "pincode": "305206",
+    "phone_number": "+91 80790 47197",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Ajay housing society, Plot Number 9A, Jawahar Ki Nadi, near Oxford Convent School, Chandra Vardai Nagar, Ajmer, Rajasthan 305003",
+    "area": "Chandra Vardai Nagar",
+    "latitude": 26.4172086,
+    "longitude": 74.6250337,
+    "place_id": "ChIJub5Xg73hazkRGn0AXggmWcE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJub5Xg73hazkRGn0AXggmWcE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:02:50"
+  }
+]

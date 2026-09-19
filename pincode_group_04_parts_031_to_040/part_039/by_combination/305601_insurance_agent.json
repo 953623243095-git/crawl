@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The oriental insurance agency",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "305601",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": 3,
+    "address": "8P6X+H92, NH 79, Dilwara, Bara Patthar, Rajasthan 305601",
+    "area": "305601",
+    "latitude": 26.3113893,
+    "longitude": 74.7483859,
+    "place_id": "ChIJBUP9FHxZaTkR7TSqYnUFVp8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBUP9FHxZaTkR7TSqYnUFVp8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:24:51"
+  },
+  {
+    "business_name": "National Insurance Company",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "305601",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7QP2+8M3 National Insurance, Choraha Bypass, Derathu, Nasirabad, Deharathun, Rajasthan 305601",
+    "area": "Derathu",
+    "latitude": 26.2857554,
+    "longitude": 74.75165969999999,
+    "place_id": "ChIJD8IDzVhZaTkRL8LNmsR2_I0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD8IDzVhZaTkRL8LNmsR2_I0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:24:52"
+  }
+]

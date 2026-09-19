@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Choudhary Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "305406",
+    "phone_number": "+91 79765 01990",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "FJ7Q 59R, Bhawani Ram Bhawan, Kutchery Road, near Raj Honda, Hathi Bhata, Ajmer, Rajasthan 305001",
+    "area": "Hathi Bhata",
+    "latitude": 26.4630121,
+    "longitude": 74.6383985,
+    "place_id": "ChIJb_7lwL_nazkRfhjFw3X9CTQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb_7lwL_nazkRfhjFw3X9CTQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:14:34"
+  },
+  {
+    "business_name": "Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "305406",
+    "phone_number": "+91 78508 47695",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tea Cabin, Mittal Hospital, Pushkar Rd, Haribhau Upadhyay Nagar, Ajmer, Rajasthan 305004",
+    "area": "Haribhau Upadhyay Nagar",
+    "latitude": 26.4769234,
+    "longitude": 74.6111817,
+    "place_id": "ChIJRxOOOKHnazkRLSXYEFfutAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRxOOOKHnazkRLSXYEFfutAg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:14:37"
+  }
+]

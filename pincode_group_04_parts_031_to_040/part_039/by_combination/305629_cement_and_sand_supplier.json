@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Atul Traders",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "305629",
+    "phone_number": "+91 98250 17200",
+    "website": "http://atulbuildcare.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "End Of Kalupur Bridge, 4, Naroda Rd, opp. sumel, Amdupura, Ahmedabad, Gujarat 380025",
+    "area": "Amdupura, Saraspur",
+    "latitude": 23.034250999999998,
+    "longitude": 72.6040902,
+    "place_id": "ChIJVVVVlSCEXjkRbzZ_lw1arNs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVlSCEXjkRbzZ_lw1arNs",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:38:25"
+  },
+  {
+    "business_name": "River Sand Dealers",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Sand & gravel supplier",
+    "all_categories": "Sand & gravel supplier",
+    "pincode": "305629",
+    "phone_number": "+91 99000 36207",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": 10,
+    "address": "34, 4th E Cross Rd, Marappa Industrial Estate, Sannakki Bayalu, Vinayaka Nagar, Kamakshipalya, Bengaluru, Karnataka 560079",
+    "area": "Marappa Industrial Estate, Sannakki Bayalu, Vinayaka Nagar, Kamakshipalya",
+    "latitude": 12.988132,
+    "longitude": 77.5255438,
+    "place_id": "ChIJ2wx_6bA9rjsRIf6WBTkhbKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2wx_6bA9rjsRIf6WBTkhbKg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:38:28"
+  }
+]

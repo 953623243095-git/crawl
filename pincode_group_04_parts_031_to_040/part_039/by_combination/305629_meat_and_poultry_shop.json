@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Kaveri cuts",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat products store",
+    "all_categories": "Meat products store",
+    "pincode": "305629",
+    "phone_number": "+91 98486 88863",
+    "website": "https://www.srikavericuts.com/",
+    "rating": 3.5,
+    "reviews_count": 101,
+    "address": "Bonsai homes, Plot no 704-A, Nallagandla - Tellapur Rd, opp. incor, Tellapur, Hyderabad, Serilingampalle (M), Telangana 502032",
+    "area": "Tellapur",
+    "latitude": 17.4743446,
+    "longitude": 78.29912449999999,
+    "place_id": "ChIJB9bA_2mTyzsRMbydc7GE5JI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB9bA_2mTyzsRMbydc7GE5JI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:37:45"
+  },
+  {
+    "business_name": "Pick & Pack",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat products store",
+    "all_categories": "Meat products store",
+    "pincode": "305629",
+    "phone_number": "+91 81233 60022",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 240,
+    "address": "JRR Complex, MS Ramaiah Rd, Gokula 1st Stage, Mathikere Extension, Mathikere, Bengaluru, Karnataka 560054",
+    "area": "Gokula 1st Stage, Mathikere Extension, Mathikere",
+    "latitude": 13.0298357,
+    "longitude": 77.5609332,
+    "place_id": "ChIJd9HmxWE9rjsReonIoZqvyMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd9HmxWE9rjsReonIoZqvyMA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:37:45"
+  }
+]

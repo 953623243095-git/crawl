@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agarwal associates",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Notary public",
+    "all_categories": "Notary public",
+    "pincode": "305623",
+    "phone_number": "N/A",
+    "website": "https://agarwalassociatescom.netlify.app/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ajmeri Gate, outside, Amla Marg, Diggi Mohalla, Beawar, Rajasthan 305901",
+    "area": "Diggi Mohalla",
+    "latitude": 26.102618399999997,
+    "longitude": 74.3210763,
+    "place_id": "ChIJkZLV1-1xaTkRbC-9lA0IWx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkZLV1-1xaTkRbC-9lA0IWx0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:30:19"
+  },
+  {
+    "business_name": "Insurance Legal Support",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Law firm",
+    "all_categories": "Law firm",
+    "pincode": "305623",
+    "phone_number": "+91 98728 03145",
+    "website": "https://insurancelegalsupport.com/",
+    "rating": 5,
+    "reviews_count": 218,
+    "address": "669, Phase 10 Inner Rd, Phase 10, Sector 64, Sahibzada Ajit Singh Nagar, Punjab 160062",
+    "area": "Phase 10, Sector 64",
+    "latitude": 30.689826699999998,
+    "longitude": 76.7425228,
+    "place_id": "ChIJE01sxULtDzkRoWpNHjF-62s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE01sxULtDzkRoWpNHjF-62s",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:30:20"
+  }
+]

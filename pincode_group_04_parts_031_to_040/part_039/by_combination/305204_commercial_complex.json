@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R K Complex",
+    "search_category": "Commercial Complex",
+    "primary_category": "Apartment complex",
+    "all_categories": "Apartment complex",
+    "pincode": "305204",
+    "phone_number": "+91 96495 68544",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 18,
+    "address": "99QH+79W, Pisangan, Rajasthan 305204",
+    "area": "305204",
+    "latitude": 26.3882293,
+    "longitude": 74.3784448,
+    "place_id": "ChIJm-VXZTfXazkRqZnB1LrFvlY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm-VXZTfXazkRqZnB1LrFvlY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:00:04"
+  },
+  {
+    "business_name": "Prabhu complex",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "305204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sadar bajar, Pisangan, Rajasthan 305204",
+    "area": "305204",
+    "latitude": 26.3905012,
+    "longitude": 74.3792698,
+    "place_id": "ChIJ_TVbqpnXazkRyrn9UmAcVGU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_TVbqpnXazkRyrn9UmAcVGU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:00:06"
+  }
+]

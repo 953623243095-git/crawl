@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sk Pet Point",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "305404",
+    "phone_number": "+91 96642 13704",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop Number 01, Near, Gate, Purani Kekri, Sarsari, Kekri, Rajasthan 305404",
+    "area": "Purani Kekri",
+    "latitude": 25.970454,
+    "longitude": 75.1535918,
+    "place_id": "ChIJB-srAejJbjkRqnvHzSA-bBE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB-srAejJbjkRqnvHzSA-bBE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:11:03"
+  },
+  {
+    "business_name": "The Pet point kekri",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Pet store",
+    "pincode": "305404",
+    "phone_number": "+91 89490 43247",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sethi complex, Ajmer Rd, Krishna Nagar, Kekri, Rajasthan 305404",
+    "area": "Krishna Nagar",
+    "latitude": 25.9759085,
+    "longitude": 75.14412229999999,
+    "place_id": "ChIJ_8r5oNjJbjkRQbzjEMpxd0Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_8r5oNjJbjkRQbzjEMpxd0Q",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:11:03"
+  }
+]

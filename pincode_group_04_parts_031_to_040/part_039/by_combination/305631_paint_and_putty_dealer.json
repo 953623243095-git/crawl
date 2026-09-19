@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Preet Paint And Hardware Store",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "305631",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "MR39+PP4, Patiala Rd, Dashmesh Nagar, Utrathiya, Zirakpur, Punjab 140603",
+    "area": "Dashmesh Nagar, Utrathiya",
+    "latitude": 30.654265799999997,
+    "longitude": 76.8193288,
+    "place_id": "ChIJ3wthbjbrDzkREzRtDMCJI1Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3wthbjbrDzkREzRtDMCJI1Q",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:42:01"
+  },
+  {
+    "business_name": "South Paints Emporium",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "305631",
+    "phone_number": "+91 97485 06115",
+    "website": "https://www.asianpaints.com/",
+    "rating": 4.8,
+    "reviews_count": 206,
+    "address": "No 105/B, Rash Behari Avenue, Lake View Rd, near Priya Cinema, Kolkata, West Bengal 700029",
+    "area": "Manoharpukur, Kalighat",
+    "latitude": 22.518104899999997,
+    "longitude": 88.35547059999999,
+    "place_id": "ChIJaVl_U9R2AjoRHGjqpto6UDk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaVl_U9R2AjoRHGjqpto6UDk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:42:02"
+  }
+]

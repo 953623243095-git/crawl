@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PRITAM GUEST HOUSE",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "305402",
+    "phone_number": "+91 99822 13988",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 3,
+    "address": "FJ6H+M35, Dargah Bazar Rd, Dargah Bazar, Ajmer, Rajasthan 305001",
+    "area": "Dargah Bazar",
+    "latitude": 26.461626,
+    "longitude": 74.6277252,
+    "place_id": "ChIJoaoY-w_nazkRIfDichpqMUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoaoY-w_nazkRIfDichpqMUQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:08:27"
+  },
+  {
+    "business_name": "Jai Mahal",
+    "search_category": "Guesthouse",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "305402",
+    "phone_number": "+91 1422 695 143",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "9MW8+Q28 jai mahal, Makhupura, Ajmer, Rajasthan 305002",
+    "area": "Makhupura",
+    "latitude": 26.396908,
+    "longitude": 74.6650926,
+    "place_id": "ChIJeR5vaG3hazkRQkuII4xVIWY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeR5vaG3hazkRQkuII4xVIWY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:08:30"
+  }
+]

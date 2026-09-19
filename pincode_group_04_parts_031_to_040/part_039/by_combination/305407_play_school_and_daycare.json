@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "B Jay's home",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "305407",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "M43G+Q6V, Jahazpur, Teetori, Rajasthan 311202",
+    "area": "305407",
+    "latitude": 25.6544989,
+    "longitude": 75.12556,
+    "place_id": "ChIJZ0d9I9rXbjkR9u3XEQuRL_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ0d9I9rXbjkR9u3XEQuRL_c",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:17:25"
+  },
+  {
+    "business_name": "The Santakidz",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "305407",
+    "phone_number": "+91 93146 71788",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chetak Chouraha, Chhipon ka Mohalla, Jahazpur, Rajasthan 311201",
+    "area": "305407",
+    "latitude": 25.618907999999998,
+    "longitude": 75.27493729999999,
+    "place_id": "ChIJhYApW_QhbzkRil-ZUr_OY10",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhYApW_QhbzkRil-ZUr_OY10",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:17:25"
+  }
+]

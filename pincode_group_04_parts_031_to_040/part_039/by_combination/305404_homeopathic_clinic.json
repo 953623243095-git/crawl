@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Mathur Homyopethic Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Hospital",
+    "pincode": "305404",
+    "phone_number": "+91 94142 14789",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Krishna Complex, Ganesh pyau, sadar bajar, Kekri, Rajasthan 305404",
+    "area": "sadar bajar",
+    "latitude": 25.9736002,
+    "longitude": 75.1542417,
+    "place_id": "ChIJD1cZJoDIbjkRZZlwwD6zL-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD1cZJoDIbjkRZZlwwD6zL-c",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:11:23"
+  },
+  {
+    "business_name": "University College of Homoeopathy, Kekri",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "College",
+    "all_categories": "College",
+    "pincode": "305404",
+    "phone_number": "+91 1467 299 166",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "X5G2+2VV, Ajmeri Gate Rd, Raghu Colony, Kekri, Rajasthan 305404",
+    "area": "Raghu Colony",
+    "latitude": 25.9751473,
+    "longitude": 75.1521995,
+    "place_id": "ChIJM8byVVfJbjkRARMEXMvXOwA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM8byVVfJbjkRARMEXMvXOwA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:11:23"
+  }
+]

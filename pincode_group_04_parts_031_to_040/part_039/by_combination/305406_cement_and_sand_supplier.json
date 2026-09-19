@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunil Traders",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Cement Supplier",
+    "all_categories": "Cement Supplier",
+    "pincode": "305406",
+    "phone_number": "+91 145 329 1162",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "CM54+X52, Near S.B.B.J Bank, Industrial Area, Parbatpura, Ajmer, Rajasthan 305002",
+    "area": "Parbatpura",
+    "latitude": 26.409890299999997,
+    "longitude": 74.65538149999999,
+    "place_id": "ChIJEYbzUTzhazkRvqmIgq2bz90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEYbzUTzhazkRvqmIgq2bz90",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:15:16"
+  },
+  {
+    "business_name": "JK Lakshmi Cement Ltd. - Shree Ram Traders",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Cement Supplier",
+    "all_categories": "Cement Supplier",
+    "pincode": "305406",
+    "phone_number": "+91 94601 12449",
+    "website": "https://www.jklakshmicement.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Jaliya Road, Jawahar Nagar, Ajmer, Rajasthan 305901",
+    "area": "Jawahar Nagar",
+    "latitude": 26.4797805,
+    "longitude": 74.6443323,
+    "place_id": "ChIJTbvnm4TnazkR1DUUOnllDjk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTbvnm4TnazkR1DUUOnllDjk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:15:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Soni Farm House",
+    "search_category": "Hostels",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "305802",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "the front of PTS, Silora Rd, Kishangarh, Rajasthan 305802",
+    "area": "305802",
+    "latitude": 26.541468,
+    "longitude": 74.8698509,
+    "place_id": "ChIJu0urfD7xazkRi_3GdzjSX_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu0urfD7xazkRi_3GdzjSX_g",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:46:06"
+  },
+  {
+    "business_name": "Kishangarh Ajmer",
+    "search_category": "Hostels",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel",
+    "pincode": "305802",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "HVP3+MM3, Madanganj, Kishangarh, Rajasthan 305801",
+    "area": "Madanganj",
+    "latitude": 26.5866303,
+    "longitude": 74.8541759,
+    "place_id": "ChIJbx7HNgDxazkR5kpI-5Qa5Zc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbx7HNgDxazkR5kpI-5Qa5Zc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:46:07"
+  }
+]

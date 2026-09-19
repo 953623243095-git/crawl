@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nimbooda Creations",
+    "search_category": "Exhibitions",
+    "primary_category": "Art dealer",
+    "all_categories": "Art dealer",
+    "pincode": "305628",
+    "phone_number": "N/A",
+    "website": "https://nimbooda.netlify.app/",
+    "rating": 4.4,
+    "reviews_count": 8,
+    "address": "Naya Ghar, Udaipur Kalan, Kishangarh, Rajasthan 305802",
+    "area": "Naya Ghar",
+    "latitude": 26.4917743,
+    "longitude": 74.8565613,
+    "place_id": "ChIJZ4TlTof7azkRg7Fo2iKJKBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ4TlTof7azkRg7Fo2iKJKBw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:37:31"
+  },
+  {
+    "business_name": "Local business",
+    "search_category": "Exhibitions",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "305628",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CM54+7CG, Parbatpura, Ajmer, Rajasthan 305001",
+    "area": "Parbatpura",
+    "latitude": 26.4081765,
+    "longitude": 74.6560913,
+    "place_id": "ChIJlS-GByXhazkROSJXin72S7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlS-GByXhazkROSJXin72S7c",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:37:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Artist B tattooz",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo artist",
+    "all_categories": "Tattoo artist",
+    "pincode": "305624",
+    "phone_number": "+91 95929 89802",
+    "website": "https://www.instagram.com/artist_b_tattooz/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "1635, Near Mini Rose Garden, Uncha Tiba, Prem Nagar, Amarpura, Ludhiana, Punjab 141008",
+    "area": "Near Mini Rose Garden, Uncha Tiba, Prem Nagar",
+    "latitude": 30.904011899999997,
+    "longitude": 75.86180639999999,
+    "place_id": "ChIJLff3xOODGjkRHEae09YMUJs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLff3xOODGjkRHEae09YMUJs",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:31:35"
+  },
+  {
+    "business_name": "Gill Ink Studio",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo shop",
+    "all_categories": "Tattoo shop",
+    "pincode": "305624",
+    "phone_number": "+91 62830 73051",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Chaunda, Punjab 148023",
+    "area": "305624",
+    "latitude": 30.5106008,
+    "longitude": 76.0586517,
+    "place_id": "ChIJU9igAHVrEDkRLtv9NBsvHEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU9igAHVrEDkRLtv9NBsvHEg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:31:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "786 Flower Shop",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "305403",
+    "phone_number": "+91 86902 44110",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Flower Shop, 786, near Aulia Masjid 786 Flower Shop, Ajmer, Rajasthan 305001",
+    "area": "Khadim Mohalla, Diggi Bazaar",
+    "latitude": 26.4563357,
+    "longitude": 74.628374,
+    "place_id": "ChIJt_7cMMnnazkRyhYb-TyffcQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt_7cMMnnazkRyhYb-TyffcQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:10:09"
+  },
+  {
+    "business_name": "Shri Shyam Flowers Decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Flower market",
+    "pincode": "305403",
+    "phone_number": "+91 89478 88373",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "2/2, Sendra Rd, opp. Gangaur Hotel, Pratap Nagar, Moti Nagar, Beawar, Rajasthan 305901",
+    "area": "Pratap Nagar, Moti Nagar",
+    "latitude": 26.1010274,
+    "longitude": 74.3103824,
+    "place_id": "ChIJ6cqvW0x3aTkR7TK12EhM_n4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6cqvW0x3aTkR7TK12EhM_n4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:10:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mr Car Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "305404",
+    "phone_number": "+91 78208 14800",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Ajmer - Kota Rd, Krishna Nagar, Kekri, Rajasthan 305404",
+    "area": "Krishna Nagar",
+    "latitude": 25.9827606,
+    "longitude": 75.133702,
+    "place_id": "ChIJYy63tOvJbjkRGKgcEFM72gA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYy63tOvJbjkRGKgcEFM72gA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:11:33"
+  },
+  {
+    "business_name": "Autowaves, Kekri - Car Wash | Carvice",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto repair shop",
+    "pincode": "305404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X545+W33, Deoli-Sawar Rd, Gopal Pura, Kekri, Rajasthan 305407",
+    "area": "Gopal Pura",
+    "latitude": 25.9572617,
+    "longitude": 75.1576767,
+    "place_id": "ChIJ8eCHQZ_HbjkRMnvOrccmB3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8eCHQZ_HbjkRMnvOrccmB3g",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:11:33"
+  }
+]

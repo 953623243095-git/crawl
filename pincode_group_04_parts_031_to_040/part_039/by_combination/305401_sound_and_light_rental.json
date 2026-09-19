@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Soundhouse Rentals ATX",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "Audiovisual equipment rental service",
+    "all_categories": "Audiovisual equipment rental service",
+    "pincode": "305401",
+    "phone_number": "N/A",
+    "website": "https://www.soundhouseatx.com/",
+    "rating": 5,
+    "reviews_count": 126,
+    "address": "2205 Woodward St, Austin, TX 78744, United States",
+    "area": "McKinney",
+    "latitude": 30.2111481,
+    "longitude": -97.7470199,
+    "place_id": "ChIJPSaJq3L5wCAR0pzmD5qSYK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPSaJq3L5wCAR0pzmD5qSYK0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:06:35"
+  },
+  {
+    "business_name": "Puja Stage Light",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "Association / Organization",
+    "all_categories": "Association / Organization",
+    "pincode": "305401",
+    "phone_number": "+91 96093 89686",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "4WVW+MX9, Tatharibar - Dakshin Kasimnagar Rd, Itamagra, West Bengal 721632",
+    "area": "305401",
+    "latitude": 22.1441548,
+    "longitude": 87.9474922,
+    "place_id": "ChIJsWN1DADtAjoRDcNIcyCzJCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsWN1DADtAjoRDcNIcyCzJCY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:06:36"
+  }
+]

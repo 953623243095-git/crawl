@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Geeta Pustak Mart",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "305406",
+    "phone_number": "+91 94147 29256",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FJ9W+W33, Bus Station, Ajmer, Rajasthan 305001",
+    "area": "Bus Station",
+    "latitude": 26.4697732,
+    "longitude": 74.6451579,
+    "place_id": "ChIJzRALuv7mazkRAAAAMMcWG0M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzRALuv7mazkRAAAAMMcWG0M",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:15:44"
+  },
+  {
+    "business_name": "Narayan Book Binding Works And Stationery's",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "305406",
+    "phone_number": "+91 98297 22508",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 11,
+    "address": "39, Kutcherry Rd, Patel Nagar, Topdara, Ajmer, Rajasthan 305001",
+    "area": "Patel Nagar, Topdara",
+    "latitude": 26.4616303,
+    "longitude": 74.63785969999999,
+    "place_id": "ChIJQ0omMB3nazkRjXMG__N5jmE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ0omMB3nazkRjXMG__N5jmE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:15:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Advait HR Solutions",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Employment consultant, Recruiter",
+    "pincode": "305204",
+    "phone_number": "+91 98999 79034",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Block E, Mohan Cooperative Industrial Estate, Badarpur, New Delhi, Delhi 110044",
+    "area": "Block E, Mohan Cooperative Industrial Estate, Badarpur",
+    "latitude": 28.5102495,
+    "longitude": 77.2985884,
+    "place_id": "ChIJ63Ok5RjnDDkRnFQfyOckRrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ63Ok5RjnDDkRnFQfyOckRrc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:59:46"
+  },
+  {
+    "business_name": "SnehVin Business Solutions",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "305204",
+    "phone_number": "+91 98722 69055",
+    "website": "https://snehvin.com/",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "SnehVin Business Solutions, 305204, India",
+    "area": "305204",
+    "latitude": 30.732280399999997,
+    "longitude": 76.7707136,
+    "place_id": "ChIJPU8Q8FvoRG8RFMQ4LbCUNwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPU8Q8FvoRG8RFMQ4LbCUNwM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:59:46"
+  }
+]

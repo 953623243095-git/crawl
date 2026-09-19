@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohan milk dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "305406",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "NH8 Jaipur Road, Bypass, Ratanzila, Ajmer, Palra, Rajasthan 305025",
+    "area": "Ratanzila",
+    "latitude": 26.430965099999998,
+    "longitude": 74.6865566,
+    "place_id": "ChIJZaoyLpzhazkRbd3f4On_3Js",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZaoyLpzhazkRbd3f4On_3Js",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:14:28"
+  },
+  {
+    "business_name": "My Pure",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy Products Supplier",
+    "all_categories": "Dairy Products Supplier, Dairy, Dairy farm, Dairy store, Milk delivery service, Millwork shop",
+    "pincode": "305406",
+    "phone_number": "+91 99589 19875",
+    "website": "http://www.mypure.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Anand Pura Yojna, Transport Nagar, Rangbari, Kota, Kota Municipal Area, Rajasthan 324005",
+    "area": "Anand Pura Yojna, Transport Nagar, Rangbari",
+    "latitude": 25.1260747,
+    "longitude": 75.8543036,
+    "place_id": "ChIJZUMwN4OFbzkR7atFx750JXo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZUMwN4OFbzkR7atFx750JXo",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:14:29"
+  }
+]

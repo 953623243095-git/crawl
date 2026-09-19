@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pahuna Haveli",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Home Stay",
+    "pincode": "305621",
+    "phone_number": "+91 80033 83887",
+    "website": "http://www.pahunahaveli.com/",
+    "rating": 4.5,
+    "reviews_count": 39,
+    "address": "211, Sardarpura, Udaipur, Rajasthan 313004",
+    "area": "Sardarpura",
+    "latitude": 24.5976705,
+    "longitude": 73.6960893,
+    "place_id": "ChIJS7hRgYfvZzkRMLuj5J26XgA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS7hRgYfvZzkRMLuj5J26XgA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:26:25"
+  },
+  {
+    "business_name": "Hotel Raman Palace",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "305621",
+    "phone_number": "+91 95218 22788",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 869,
+    "address": "72JH+FP5, Shiv Rd, opposite Kesar Bagh, Subhash Chowk, Ratanada, Jodhpur, Rajasthan 342001",
+    "area": "Subhash Chowk, Ratanada",
+    "latitude": 26.281148899999998,
+    "longitude": 73.0293732,
+    "place_id": "ChIJreCFN06MQTkRycySLllfDRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJreCFN06MQTkRycySLllfDRw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:26:25"
+  }
+]

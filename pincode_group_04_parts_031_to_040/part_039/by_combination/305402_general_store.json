@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SURENDRA CAFE SHOP",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "305402",
+    "phone_number": "+91 75069 31040",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near by Shamkmbari Mata Mandir, Ramsar, Rajasthan 305402",
+    "area": "305402",
+    "latitude": 26.282070599999997,
+    "longitude": 74.88513999999999,
+    "place_id": "ChIJi46fpcFVaTkRPVhkIDmsI7g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi46fpcFVaTkRPVhkIDmsI7g",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:07:24"
+  },
+  {
+    "business_name": "MONU GENERAL STORE RAMSAR",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "305402",
+    "phone_number": "+91 90242 60139",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Sadar Bazar, Ramsar, Rajasthan 305402",
+    "area": "Sadar Bazar",
+    "latitude": 26.282902999999997,
+    "longitude": 74.8794339,
+    "place_id": "ChIJ4XKpmRxUaTkRjVagJ_q75Nk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4XKpmRxUaTkRjVagJ_q75Nk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:07:24"
+  }
+]

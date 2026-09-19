@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JAM IT Solutions",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services, Service establishment",
+    "pincode": "305415",
+    "phone_number": "N/A",
+    "website": "https://www.jam-it.pro/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "JAM IT Solutions, 305415, India",
+    "area": "305415",
+    "latitude": 34.2375195,
+    "longitude": -83.199884,
+    "place_id": "ChIJ8aT5FdW91I0R0vz5pF5vNzw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8aT5FdW91I0R0vz5pF5vNzw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:22:58"
+  },
+  {
+    "business_name": "InfoGanga Solutions",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "305415",
+    "phone_number": "+91 88823 92727",
+    "website": "https://www.infogangasolutions.com/",
+    "rating": 4.8,
+    "reviews_count": 8,
+    "address": "H-113, Bareilly - Nainital Rd, near Old Dhanmil, Mayur Vihar, Haldwani, Haldwani Talli, Uttarakhand 263139",
+    "area": "Mayur Vihar",
+    "latitude": 29.1936587,
+    "longitude": 79.5201739,
+    "place_id": "ChIJ_zdOCICboDkRsfWQExu4NOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_zdOCICboDkRsfWQExu4NOI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:22:59"
+  }
+]

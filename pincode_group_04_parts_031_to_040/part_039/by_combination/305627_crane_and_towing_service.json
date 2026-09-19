@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Grizzle's Towing Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Service establishment",
+    "pincode": "305627",
+    "phone_number": "N/A",
+    "website": "https://dahlonegatowing.com/",
+    "rating": 5,
+    "reviews_count": 270,
+    "address": "Grizzle's Towing Service, 305627, India",
+    "area": "305627",
+    "latitude": 34.5147529,
+    "longitude": -83.90314049999999,
+    "place_id": "ChIJIfRMODRpX4gRtqVkQ9fbxRM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIfRMODRpX4gRtqVkQ9fbxRM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:34:52"
+  },
+  {
+    "business_name": "Stonebrook Towing",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "305627",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 34,
+    "address": "145 Alley's Chapel Rd, Clarkesville, GA 30523, United States",
+    "area": "305627",
+    "latitude": 34.6657197,
+    "longitude": -83.5686755,
+    "place_id": "ChIJw9b5n13HWIgREaw2OaaB178",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw9b5n13HWIgREaw2OaaB178",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:34:52"
+  }
+]

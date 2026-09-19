@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DATAR EVENT TANTOTI",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "305601",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4RQ9+XR2, Tantoti, Rajasthan 305627",
+    "area": "305601",
+    "latitude": 26.139876899999997,
+    "longitude": 74.8195049,
+    "place_id": "ChIJXRcxbgBPaTkRS1L-0xuzZz4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXRcxbgBPaTkRS1L-0xuzZz4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:24:36"
+  },
+  {
+    "business_name": "Mani Tour & Event Planner",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Tour operator",
+    "pincode": "305601",
+    "phone_number": "+91 89553 97221",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Baptist Colony, Parbatpura, Ajmer, Rajasthan 305001",
+    "area": "Baptist Colony, Parbatpura",
+    "latitude": 26.4081504,
+    "longitude": 74.6561002,
+    "place_id": "ChIJf6_JE1fhazkR7_kLqTNZNus",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf6_JE1fhazkR7_kLqTNZNus",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:24:39"
+  }
+]

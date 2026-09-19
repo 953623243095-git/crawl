@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kherad Chikan",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "305407",
+    "phone_number": "+91 97837 77580",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Shop No. 7, Jahazpur - Deoli Rd, Jahazpur, Rajasthan 311201",
+    "area": "305407",
+    "latitude": 25.629304899999998,
+    "longitude": 75.28532489999999,
+    "place_id": "ChIJCWFz9PogbzkRTfJ4fl-j9CU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCWFz9PogbzkRTfJ4fl-j9CU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:16:19"
+  },
+  {
+    "business_name": "Raza poultry farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "305407",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "J79F+JWP, Jahazpur, Rajasthan 311201",
+    "area": "305407",
+    "latitude": 25.6190866,
+    "longitude": 75.2748154,
+    "place_id": "ChIJu1yhDwAhbzkRJuMAbMtkm9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu1yhDwAhbzkRJuMAbMtkm9c",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:16:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhagwati Kirana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Shopping mall",
+    "pincode": "305204",
+    "phone_number": "+91 63676 47044",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 5,
+    "address": "Unnamed Road, Sewariya, Rajasthan 305001",
+    "area": "305204",
+    "latitude": 26.3574792,
+    "longitude": 74.25214,
+    "place_id": "ChIJM9uLCC3VazkRh7__BDqdR3Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM9uLCC3VazkRh7__BDqdR3Y",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:58:23"
+  },
+  {
+    "business_name": "Karan Kirana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "305204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 8,
+    "address": "Near Chaar Bhuja Mandir, Ward no 7, Ras - Babra Rd, Raipur, Rajasthan 306101",
+    "area": "305204",
+    "latitude": 26.2407918,
+    "longitude": 74.24884519999999,
+    "place_id": "ChIJ6QLuyg5_aTkR-SYTJ-k13tc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6QLuyg5_aTkR-SYTJ-k13tc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:58:23"
+  }
+]

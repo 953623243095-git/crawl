@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sika Shop",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Waterproofing service",
+    "all_categories": "Waterproofing service, Construction Material Wholesaler",
+    "pincode": "305801",
+    "phone_number": "+91 96364 74887",
+    "website": "https://ind.sika.com/",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Surajmal Tansukhrai, Paharia Bhawan, Katla Market, RICCO Industrial Area, Kishangarh, Rajasthan 305801",
+    "area": "RICCO Industrial Area",
+    "latitude": 26.59807,
+    "longitude": 74.8528,
+    "place_id": "ChIJw5qGytTxazkRrYZmf--7Qsg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw5qGytTxazkRrYZmf--7Qsg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:43:55"
+  },
+  {
+    "business_name": "Jagdamba Sales Agency",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store, Building materials store",
+    "pincode": "305801",
+    "phone_number": "+91 99281 20418",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "HVR2+98X, Rupangarh Rd, Near Hans Ashram, Madanganj, Kishangarh, Rajasthan 305801",
+    "area": "Madanganj",
+    "latitude": 26.590996399999998,
+    "longitude": 74.850856,
+    "place_id": "ChIJw6BUJiDxazkRElk7FurfEiY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw6BUJiDxazkRElk7FurfEiY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:43:56"
+  }
+]

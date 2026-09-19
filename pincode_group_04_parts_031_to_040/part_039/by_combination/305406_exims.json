@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Masuda Fort",
+    "search_category": "EXIMS",
+    "primary_category": "Historical place museum",
+    "all_categories": "Historical place museum",
+    "pincode": "305406",
+    "phone_number": "N/A",
+    "website": "http://fortmasuda.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "3GR4+J8J, Gandhi Chowk, Masuda, Rajasthan 305623",
+    "area": "Gandhi Chowk",
+    "latitude": 26.091579799999998,
+    "longitude": 74.5057686,
+    "place_id": "ChIJM7dqd9ZoaTkRlvDPboxHC6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM7dqd9ZoaTkRlvDPboxHC6s",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:16:06"
+  },
+  {
+    "business_name": "Ajmer Pushkar Tour",
+    "search_category": "EXIMS",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency, Travel clinic",
+    "pincode": "305406",
+    "phone_number": "+91 94607 07711",
+    "website": "https://ajmerpushkartours.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Pragati Nagar Road Haribhau Upadhyay Nagar, Gyan Vihar Colony, Ajmer, Rajasthan 305004",
+    "area": "Gyan Vihar Colony",
+    "latitude": 26.4729919,
+    "longitude": 74.6068684,
+    "place_id": "ChIJg5o3HZ3nazkRosPNpMRTTcM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg5o3HZ3nazkRosPNpMRTTcM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:16:06"
+  }
+]

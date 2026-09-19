@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hindustan Unilever Distributor",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "305624",
+    "phone_number": "+91 98292 49900",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Housing board, Road, above Sajjanabad, Gulabpura, Rajasthan 311021",
+    "area": "305624",
+    "latitude": 25.9008543,
+    "longitude": 74.65686269999999,
+    "place_id": "ChIJR_--kSU_aTkR4CepDUbnaN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR_--kSU_aTkR4CepDUbnaN0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:30:44"
+  },
+  {
+    "business_name": "Regent Sales Agency",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler, FMCG Manufacturer, Wholesaler",
+    "pincode": "305624",
+    "phone_number": "+91 83600 56737",
+    "website": "https://www.indiamart.com/regent-sales-agency/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "PLOT NO. 2, near SAMPARK, Makhan Majra, Chandigarh, 160101",
+    "area": "Makhan Majra",
+    "latitude": 30.6826866,
+    "longitude": 76.8164585,
+    "place_id": "ChIJRcOWtpvtDzkRI9k9bGaaBe4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRcOWtpvtDzkRI9k9bGaaBe4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:30:44"
+  }
+]

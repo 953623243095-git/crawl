@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paras Down Town Square Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "305630",
+    "phone_number": "+91 62830 62076",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Paras Down Town Square Mall The Golden Plaza Hotel, Near, Ambala - Chandigarh Expy, Chandigar, Zirakpur, Punjab 140603",
+    "area": "305630",
+    "latitude": 30.6602061,
+    "longitude": 76.8221764,
+    "place_id": "ChIJ_c7SvUvrDzkRfa8OVg7CaGk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_c7SvUvrDzkRfa8OVg7CaGk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:41:11"
+  },
+  {
+    "business_name": "Nashik City Centre Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "305630",
+    "phone_number": "+91 92251 29632",
+    "website": "http://www.nashikcitycentre.com/",
+    "rating": 4.3,
+    "reviews_count": 41243,
+    "address": "Untwadi Rd, Lavate Nagar, Parijat Nagar, Nashik, Maharashtra 422002",
+    "area": "Lavate Nagar, Parijat Nagar",
+    "latitude": 19.9905761,
+    "longitude": 73.762124,
+    "place_id": "ChIJ-_-PFHLs3TsReXGWx7avrSo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-_-PFHLs3TsReXGWx7avrSo",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:41:12"
+  }
+]

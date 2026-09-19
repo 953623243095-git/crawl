@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OYO 48985 Rupali Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "305203",
+    "phone_number": "+91 124 620 1158",
+    "website": "https://www.oyorooms.com/78984/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Saradhana N.H. 8, Service Rd, Ajmer, Rajasthan 305206",
+    "area": "305203",
+    "latitude": 26.331145,
+    "longitude": 74.56332499999999,
+    "place_id": "ChIJdUWeyF3fazkRnquFgHFVcZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdUWeyF3fazkRnquFgHFVcZQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:57:39"
+  },
+  {
+    "business_name": "Clarks Resorts",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "305203",
+    "phone_number": "+91 97171 70578",
+    "website": "https://www.theclarkshotels.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "4MHX+V4W, Ajmer Rd, Bandanwara, Rajasthan 305621",
+    "area": "305203",
+    "latitude": 26.1297417,
+    "longitude": 74.697839,
+    "place_id": "ChIJ46vCDYJFaTkRnQZ0jlAW8yQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ46vCDYJFaTkRnQZ0jlAW8yQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:57:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tour and travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "305622",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jhabarkiya, Jhanbarkiya, Rajasthan 305624",
+    "area": "Jhabarkiya",
+    "latitude": 25.985466,
+    "longitude": 74.7537981,
+    "place_id": "ChIJdz3ISeNHaTkRBGViUfV0qZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdz3ISeNHaTkRBGViUfV0qZU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:27:43"
+  },
+  {
+    "business_name": "Abdullah Travels S B",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "305622",
+    "phone_number": "+91 97616 66651",
+    "website": "http://abdullahtravelssb.com/",
+    "rating": 4.9,
+    "reviews_count": 180,
+    "address": "Sanpla Bakkal Deoband Deoband, Uttar Pradesh 247554",
+    "area": "305622",
+    "latitude": 29.677041,
+    "longitude": 77.7290407,
+    "place_id": "ChIJ1aB85dCnDjkR4QHJNcIsSTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1aB85dCnDjkR4QHJNcIsSTY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:27:45"
+  }
+]

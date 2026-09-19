@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Doty Events",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Balloon artist, Florist, Party planner, Wedding service",
+    "pincode": "305622",
+    "phone_number": "+91 73792 78999",
+    "website": "https://www.dotyevents.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "House no. 15, khasra no. 408, Kursi Rd, behind hotel rudra inn, Adhar Khera, Uttar Pradesh 226026",
+    "area": "305622",
+    "latitude": 26.9494391,
+    "longitude": 80.9879953,
+    "place_id": "ChIJkec9d7RXmTkRKdh4yFzZoik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkec9d7RXmTkRKdh4yFzZoik",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:28:04"
+  },
+  {
+    "business_name": "Rajvi Events Management",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist, Advertising agency, Balloon store, Banquet hall, DJ service, Event management company, Event planner, Event venue, Florist, Restaurant supply store",
+    "pincode": "305622",
+    "phone_number": "+91 95746 92507",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 120,
+    "address": "RADHE SQUARE, Reliance Circle, Kudasan, Gandhinagar, Gujarat 382419",
+    "area": "Kudasan",
+    "latitude": 23.1848665,
+    "longitude": 72.6298582,
+    "place_id": "ChIJa7sw5g8rXDkRte3SmsT6SGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa7sw5g8rXDkRte3SmsT6SGY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:28:06"
+  }
+]

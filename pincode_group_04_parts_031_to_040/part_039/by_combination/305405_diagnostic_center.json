@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kadera",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "305405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "R333+XFH, Near govt. Hospital kadera chaksu, Kadera, Rajasthan 305405",
+    "area": "305405",
+    "latitude": 25.8049453,
+    "longitude": 75.0537336,
+    "place_id": "ChIJAdxIDQDTbjkRY8srLqyFI8o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAdxIDQDTbjkRY8srLqyFI8o",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:13:10"
+  },
+  {
+    "business_name": "Krsnaa Diagnostics (Y N Hospital Kishangarh)",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "305405",
+    "phone_number": "N/A",
+    "website": "http://www.krsnaadiagnostics.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HVJ6+GCX, Kishangarh Rd, Mitra Niwas Colony, Kishangarh, Rajasthan 305801",
+    "area": "Mitra Niwas Colony",
+    "latitude": 26.5813691,
+    "longitude": 74.8611133,
+    "place_id": "ChIJrX3ritrwazkRo7bbS1plXQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrX3ritrwazkRo7bbS1plXQc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:13:13"
+  }
+]

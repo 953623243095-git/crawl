@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jai bajrang bali restaurant and misthan bhandar",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "305402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "12, mil chouraha, Sarana, Rajasthan 305601",
+    "area": "305402",
+    "latitude": 26.189246699999998,
+    "longitude": 74.88235259999999,
+    "place_id": "ChIJJQGhdQBTaTkRv1Qo2YKZIho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJQGhdQBTaTkRv1Qo2YKZIho",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:07:33"
+  },
+  {
+    "business_name": "Samrathal dhaba",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "305402",
+    "phone_number": "+91 79762 51247",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 79,
+    "address": "Kota Rd, Loharwara, Rajasthan 305601",
+    "area": "305402",
+    "latitude": 26.2396446,
+    "longitude": 74.81557219999999,
+    "place_id": "ChIJdV07iEtRaTkR2WPcroB-RIw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdV07iEtRaTkR2WPcroB-RIw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:07:33"
+  }
+]

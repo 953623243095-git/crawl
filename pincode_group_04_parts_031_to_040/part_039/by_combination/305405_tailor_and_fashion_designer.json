@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bespoke Fashion",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor, Boutique, Clothing store, Custom tailor, Designer Clothing Store, Fashion designer, Men's clothing store",
+    "pincode": "305405",
+    "phone_number": "+91 90085 73000",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 70,
+    "address": "The Leela Palace Road, 44, 6th Cross, near masjid, HAL 3rd Stage, Kodihalli, Bengaluru, Karnataka 560008",
+    "area": "HAL 3rd Stage, Kodihalli",
+    "latitude": 12.9659651,
+    "longitude": 77.6496557,
+    "place_id": "ChIJC9HYo0gVrjsRZQZyoInd9JY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC9HYo0gVrjsRZQZyoInd9JY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:13:01"
+  },
+  {
+    "business_name": "Gangotri Boutique | G3 Designer Studio",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store, Clothing alteration service, Custom tailor",
+    "pincode": "305405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 8,
+    "address": "No.1196, 60/1, 18th A Main Rd, 5th Block, Rajajinagar, Bengaluru, Karnataka 560010",
+    "area": "5th Block, Rajajinagar",
+    "latitude": 12.9865113,
+    "longitude": 77.5507603,
+    "place_id": "ChIJ8ehku-w9rjsRdBQsTaha15g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8ehku-w9rjsRdBQsTaha15g",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:13:01"
+  }
+]

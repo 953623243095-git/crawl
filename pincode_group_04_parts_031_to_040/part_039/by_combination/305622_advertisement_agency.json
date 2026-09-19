@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Local advertiser",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "305622",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XR5M+M8M, Lamgara, Devliya Kalan, Rajasthan 305629",
+    "area": "305622",
+    "latitude": 25.9592141,
+    "longitude": 74.83328929999999,
+    "place_id": "ChIJrSIsuA43aTkR9aPQSaIZBSc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrSIsuA43aTkR9aPQSaIZBSc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:28:41"
+  },
+  {
+    "business_name": "Vardhman Advertising",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "305622",
+    "phone_number": "+91 98240 24990",
+    "website": "http://www.vardhmanads.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "307, Abhishilp Complex, Opposite Keshav Baug, Mansi Tower, Ahmedabad, Gujarat 380015",
+    "area": "Suryapooja Block B, Satellite",
+    "latitude": 23.029349999999997,
+    "longitude": 72.52835499999999,
+    "place_id": "ChIJq96mMcmEXjkR_0xoVVpfZFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq96mMcmEXjkR_0xoVVpfZFo",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:28:42"
+  }
+]

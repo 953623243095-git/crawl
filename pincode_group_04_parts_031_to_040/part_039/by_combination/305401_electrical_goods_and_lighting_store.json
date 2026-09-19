@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R.K. Sales Corporation",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Battery Store",
+    "all_categories": "Battery Store, Electrical supply store",
+    "pincode": "305401",
+    "phone_number": "+91 98879 34731",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CMC2+HPW, Near Adarsh Nagar Gate, Adarsh Nagar, Ajmer, Rajasthan 305002",
+    "area": "Adarsh Nagar",
+    "latitude": 26.4214831,
+    "longitude": 74.651833,
+    "place_id": "ChIJDSFh2DHhazkRNyJLOd3Cpdk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDSFh2DHhazkRNyJLOd3Cpdk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:06:18"
+  },
+  {
+    "business_name": "Jeewan Electronic",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "305401",
+    "phone_number": "+91 1462 254 886",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "4828+FGV, Pali Bazar, near Maheshwari Bhavan, Shahpura Mohalla, Beawar, Rajasthan 305901",
+    "area": "Shahpura Mohalla",
+    "latitude": 26.1012466,
+    "longitude": 74.3162956,
+    "place_id": "ChIJs9XI2bNwaTkREPXaxQVm4IE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs9XI2bNwaTkREPXaxQVm4IE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:06:19"
+  }
+]

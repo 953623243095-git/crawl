@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishnu Surgicals",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier, Medical Equipment Manufacturer",
+    "pincode": "305621",
+    "phone_number": "+91 94404 92189",
+    "website": "https://www.vishnusurgicals.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "F6X2+W6P, Vadookara Rd, Vadookara, Thrissur, Keralam 680007",
+    "area": "Vadookara",
+    "latitude": 10.499829,
+    "longitude": 76.2005898,
+    "place_id": "ChIJ68duRB_upzsRtnTbvhBXe2g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ68duRB_upzsRtnTbvhBXe2g",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:25:50"
+  },
+  {
+    "business_name": "Maxwell Surgicals Pvt Ltd",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical Products Wholesaler",
+    "all_categories": "Surgical Products Wholesaler",
+    "pincode": "305621",
+    "phone_number": "+91 92146 09446",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Seth Ji ki Bari, Madhuban, Udaipur, Rajasthan 313001",
+    "area": "Madhuban",
+    "latitude": 24.592128,
+    "longitude": 73.6928269,
+    "place_id": "ChIJ_XztPgDlZzkRO__aCkPDi7E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_XztPgDlZzkRO__aCkPDi7E",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:25:50"
+  }
+]

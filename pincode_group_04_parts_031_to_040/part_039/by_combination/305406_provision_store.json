@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AMARCHAND GENERAL STORE",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "305406",
+    "phone_number": "+91 96100 12077",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gurjar Mohalla, near Devnarayan Mandir, Chhabariya, Rajasthan 305415",
+    "area": "305406",
+    "latitude": 26.0441766,
+    "longitude": 75.232736,
+    "place_id": "ChIJs5sXW425bjkR8Dam_GJzhxQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs5sXW425bjkR8Dam_GJzhxQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:14:27"
+  },
+  {
+    "business_name": "श्री आदिनाथ ट्रेडर्स",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "305406",
+    "phone_number": "+91 92562 81572",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "35MV+62V, Junia, Rajasthan 305406",
+    "area": "305406",
+    "latitude": 26.0831122,
+    "longitude": 75.19253379999999,
+    "place_id": "ChIJY1IpZAC5bjkRxHhm4UPHJ_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY1IpZAC5bjkRxHhm4UPHJ_o",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:14:28"
+  }
+]

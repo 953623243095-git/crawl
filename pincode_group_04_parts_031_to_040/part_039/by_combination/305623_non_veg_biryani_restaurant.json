@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bombay chicken biryani",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "305623",
+    "phone_number": "+91 96109 40146",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Karbla marg, near by ashirwad city, Mili Colony, Beawar, Rajasthan 305091",
+    "area": "Mili Colony",
+    "latitude": 26.1081352,
+    "longitude": 74.3086357,
+    "place_id": "ChIJ-4ygt5B3aTkR0j-dDnTlsXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-4ygt5B3aTkR0j-dDnTlsXw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:29:02"
+  },
+  {
+    "business_name": "Rasoi Se Non Veg Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Non Vegetarian Restaurant",
+    "all_categories": "Non Vegetarian Restaurant",
+    "pincode": "305623",
+    "phone_number": "+91 77261 60033",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 29,
+    "address": "in front of Mission Ground, Mission Compound, Beawar, Rajasthan 305901",
+    "area": "Mission Compound",
+    "latitude": 26.105137499999998,
+    "longitude": 74.31717189999999,
+    "place_id": "ChIJy_dONA9xaTkRalaOFO-xN-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy_dONA9xaTkRalaOFO-xN-0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:29:02"
+  }
+]

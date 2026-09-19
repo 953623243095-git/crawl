@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kishan Batteries",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "305412",
+    "phone_number": "+91 73398 48965",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Narayan Choraya, Sarwar Road, Borada, Rajasthan 305412",
+    "area": "305412",
+    "latitude": 26.203933799999998,
+    "longitude": 75.0442752,
+    "place_id": "ChIJHZts6dqtbjkRBeRoH02letY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHZts6dqtbjkRBeRoH02letY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:20:35"
+  },
+  {
+    "business_name": "MK Hardware & Electronics",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Construction equipment supplier, Electronics repair shop, Tractor parts store",
+    "pincode": "305412",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Near, Jama Masjid Bandanwara Road, Tantoti, Rajasthan 305627",
+    "area": "305412",
+    "latitude": 26.1397999,
+    "longitude": 74.815258,
+    "place_id": "ChIJFbZVXABPaTkReMVcQquMyN8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFbZVXABPaTkReMVcQquMyN8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:20:35"
+  }
+]

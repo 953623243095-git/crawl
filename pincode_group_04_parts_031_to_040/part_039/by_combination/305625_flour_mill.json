@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aasrwa Flour",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "305625",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Deogarh at Sooti Khera, Devgarh, Rajasthan 305624",
+    "area": "305625",
+    "latitude": 25.922754599999998,
+    "longitude": 74.5937927,
+    "place_id": "ChIJH4TvGtY_aTkRX_D39LAR7pU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH4TvGtY_aTkRX_D39LAR7pU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:32:28"
+  },
+  {
+    "business_name": "Shree Ram Flour Mills",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "305625",
+    "phone_number": "+91 94623 64011",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "WM56+44J, Gulabpura, Rajasthan 311021",
+    "area": "305625",
+    "latitude": 25.907843,
+    "longitude": 74.6602642,
+    "place_id": "ChIJWexgCek-aTkRPFovw30AmBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWexgCek-aTkRPFovw30AmBo",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:32:29"
+  }
+]

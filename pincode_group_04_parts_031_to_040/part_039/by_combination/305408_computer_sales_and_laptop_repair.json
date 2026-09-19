@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Comp Care System",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer accessories store, Computer security service",
+    "pincode": "305408",
+    "phone_number": "+91 99978 66074",
+    "website": "https://www.compcareddn.com/",
+    "rating": 4.9,
+    "reviews_count": 344,
+    "address": "Shop No.30, Block 5, Old Connaught Place, Chakrata Rd, Clock Tower, Old Cannaught Place, Tagore Villa, Connaught Place, Dehradun, Uttarakhand 248001",
+    "area": "Clock Tower, Old Cannaught Place, Tagore Villa, Connaught Place",
+    "latitude": 30.326382499999998,
+    "longitude": 78.03676469999999,
+    "place_id": "ChIJb-hG9uspCTkRbo6zo4mliSY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb-hG9uspCTkRbo6zo4mliSY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:19:24"
+  },
+  {
+    "business_name": "Access Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer networking service, Computer repair service, Computer service, Computer software store, Used computer store",
+    "pincode": "305408",
+    "phone_number": "+91 79837 47901",
+    "website": "https://accesscomputers.co.in/",
+    "rating": 5,
+    "reviews_count": 148,
+    "address": "61, Kanwali Rd, Tilak Nagar, Khurbura Mohalla, Dehradun, Uttarakhand 248001",
+    "area": "Tilak Nagar, Khurbura Mohalla",
+    "latitude": 30.320680799999998,
+    "longitude": 78.0249754,
+    "place_id": "ChIJWWCQq_QpCTkRhT91oSOceA4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWWCQq_QpCTkRhT91oSOceA4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:19:24"
+  }
+]

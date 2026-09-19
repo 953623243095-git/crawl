@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manyavar",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store",
+    "pincode": "305205",
+    "phone_number": "+91 80 3700 2431",
+    "website": "https://www.manyavar.com/en-in/store-india/chhattisgarh/raigarh/manyavar-gaddi-chowk-VFPLDSRG",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ground Floor, Palace Rd, Gaddi Chowk, Raigarh, Chhattisgarh 496001",
+    "area": "Gaddi Chowk",
+    "latitude": 21.8959115,
+    "longitude": 83.3939673,
+    "place_id": "ChIJjWDRiWUlJzoRh4urBO3avLY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjWDRiWUlJzoRh4urBO3avLY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:00:25"
+  },
+  {
+    "business_name": "Purple United Kids",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store",
+    "pincode": "305205",
+    "phone_number": "+91 84234 10062",
+    "website": "https://purpleunited.com/",
+    "rating": 4.8,
+    "reviews_count": 70,
+    "address": "Unit No. SH/2F/25, Mall of Dehradun, Haridwar Rd, IIP, Mohkampur, Dehradun, Mohkam Pur Khurd, Uttarakhand 248005",
+    "area": "IIP, Mohkampur",
+    "latitude": 30.2667969,
+    "longitude": 78.0819276,
+    "place_id": "ChIJ25In_YEpCTkRICYP6eVtLB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ25In_YEpCTkRICYP6eVtLB4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:00:26"
+  }
+]

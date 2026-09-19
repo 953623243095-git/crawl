@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Trip Maker Taxi Service - Jollygrant Dehradun Airport Taxi and Cab Available",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Tour operator",
+    "pincode": "305205",
+    "phone_number": "+91 94129 91145",
+    "website": "http://tripmakertaxiservice.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Himalayan Chowk, Jollygrant, Sangatiya Walakhur, Uttarakhand 248016",
+    "area": "Jollygrant",
+    "latitude": 30.1873421,
+    "longitude": 78.16213669999999,
+    "place_id": "ChIJhWsKzyElCTkRxoUSP5nuxoo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhWsKzyElCTkRxoUSP5nuxoo",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:00:48"
+  },
+  {
+    "business_name": "Alpine Taxi Services | Taxi Service in Dehradun",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Airport Shuttle Service Provider, Car leasing service, Car rental agency, Tour operator",
+    "pincode": "305205",
+    "phone_number": "+91 95369 45010",
+    "website": "https://www.alpinetaxiservices.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "HP petrol pump, Jolly Grant bhaniwala near airport landmark, Dehradun, Uttarakhand 248140",
+    "area": "305205",
+    "latitude": 30.1854405,
+    "longitude": 78.1445042,
+    "place_id": "ChIJ8ZKXB0glCTkRpOYTvUuzBhE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8ZKXB0glCTkRpOYTvUuzBhE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:00:49"
+  }
+]

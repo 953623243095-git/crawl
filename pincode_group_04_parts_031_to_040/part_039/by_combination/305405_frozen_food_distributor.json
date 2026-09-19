@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wholesale Foods Enterprises",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen dessert supplier",
+    "all_categories": "Frozen dessert supplier",
+    "pincode": "305405",
+    "phone_number": "+91 87006 26780",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "P-95 Gali No-8, North West, Prem Nagar II, Kirari Suleman Nagar, Delhi, 110086",
+    "area": "Block V, Prem Nagar II, Kirari Suleman Nagar",
+    "latitude": 28.6960186,
+    "longitude": 77.0556749,
+    "place_id": "ChIJgcTQRb8FDTkRoHTv-2A-Wks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgcTQRb8FDTkRoHTv-2A-Wks",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:12:49"
+  },
+  {
+    "business_name": "Maximus Frozen Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food manufacturer",
+    "all_categories": "Frozen food manufacturer",
+    "pincode": "305405",
+    "phone_number": "+91 99465 16605",
+    "website": "https://maximusdelight.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Panvel - Kochi - Kanyakumari Hwy, Swagathamad, Kottakkal, Thennala, Keralam 676510",
+    "area": "Swagathamad",
+    "latitude": 10.9793392,
+    "longitude": 76.0011786,
+    "place_id": "ChIJ9fdo48-1pzsRknGhT5ejbMc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9fdo48-1pzsRknGhT5ejbMc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:12:49"
+  }
+]

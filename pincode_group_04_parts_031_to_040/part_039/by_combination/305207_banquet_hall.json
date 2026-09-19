@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LAZ HAVELI",
+    "search_category": "Banquet Hall",
+    "primary_category": "Function room facility",
+    "all_categories": "Function room facility, Hotel",
+    "pincode": "305207",
+    "phone_number": "+91 92510 08808",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Mill Rd, Near Gurudwara, Kisan Ganj, Beawar, Rajasthan 305901",
+    "area": "Kisan Ganj",
+    "latitude": 26.1053528,
+    "longitude": 74.3117635,
+    "place_id": "ChIJwaRCj_53aTkRI9BsDdbNc1w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwaRCj_53aTkRI9BsDdbNc1w",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:04:47"
+  },
+  {
+    "business_name": "Village Community Hall and Well",
+    "search_category": "Banquet Hall",
+    "primary_category": "Community center",
+    "all_categories": "Community center",
+    "pincode": "305207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7GF3+VQC, Mangliyawas, Mangaliyawas, Rajasthan 305203",
+    "area": "305207",
+    "latitude": 26.274691699999998,
+    "longitude": 74.5043769,
+    "place_id": "ChIJ7bpudgBhaTkRQrc7agJLZbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7bpudgBhaTkRQrc7agJLZbU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:04:48"
+  }
+]

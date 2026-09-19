@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CAR DOCTOR",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "305407",
+    "phone_number": "+91 99140 99200",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jalalabad, Punjab 152024",
+    "area": "305407",
+    "latitude": 30.6127115,
+    "longitude": 74.2581618,
+    "place_id": "ChIJ2x6WRwd_FzkRr61GJHaVkDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2x6WRwd_FzkRr61GJHaVkDA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:16:52"
+  },
+  {
+    "business_name": "Massey Ferguson - S.K. Motors",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer, Agricultural machinery manufacturer, Farm equipment supplier, Machinery parts manufacturer, Tractor parts store, Tractor repair shop",
+    "pincode": "305407",
+    "phone_number": "+91 80 4492 4560",
+    "website": "https://dealers.masseyfergusonindia.com/tractors-in-sarsiya-bhilwara-rajasthan-311201/home",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rajasthan State Highway 39, SH39, near Havmor Ice Cream, Sarsiya, Jahazpur, Rajasthan 311201",
+    "area": "305407",
+    "latitude": 25.6138439,
+    "longitude": 75.2830255,
+    "place_id": "ChIJUelVgAkhbzkRH3KGnkenN9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUelVgAkhbzkRH3KGnkenN9M",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:16:53"
+  }
+]

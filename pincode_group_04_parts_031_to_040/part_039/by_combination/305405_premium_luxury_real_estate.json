@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dehradun Prime",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "305405",
+    "phone_number": "+91 86989 01896",
+    "website": "https://dehradunprime.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rajpur Rd, Hathibarkala, Dehradun, Uttarakhand 248001",
+    "area": "Hathibarkala",
+    "latitude": 30.3561107,
+    "longitude": 78.0652126,
+    "place_id": "ChIJfxotClHXCDkRjN7YZQ528TA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfxotClHXCDkRjN7YZQ528TA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:14:09"
+  },
+  {
+    "business_name": "SOBHA Windsor",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "305405",
+    "phone_number": "+91 80 4646 4500",
+    "website": "https://www.sobha.com/bengaluru/sobha-windsor-apartments-in-whitefield/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Immadihalli Main Rd, Vijayanagara, Whitefield, Bengaluru, Karnataka 560066",
+    "area": "Vijayanagara, Whitefield",
+    "latitude": 12.9722495,
+    "longitude": 77.7644794,
+    "place_id": "ChIJ5cyMCKgNrjsR0EwIuXuYZ48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5cyMCKgNrjsR0EwIuXuYZ48",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:14:09"
+  }
+]

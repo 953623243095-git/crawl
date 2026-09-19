@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Boss",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "305412",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "649J+JM9, Laxmipura, Rajasthan 305412",
+    "area": "305412",
+    "latitude": 26.218428199999998,
+    "longitude": 75.13189179999999,
+    "place_id": "ChIJG9tbquWvbjkRsPVFg2h2LV0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG9tbquWvbjkRsPVFg2h2LV0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:21:20"
+  },
+  {
+    "business_name": "Hotel",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "305412",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "62W8+3M5, Dhanwa, Ringanot, Rajasthan 305412",
+    "area": "305412",
+    "latitude": 26.2451378,
+    "longitude": 75.0167389,
+    "place_id": "ChIJjX0gSACtbjkRxyJ-cT9fUTE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjX0gSACtbjkRxyJ-cT9fUTE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:21:20"
+  }
+]

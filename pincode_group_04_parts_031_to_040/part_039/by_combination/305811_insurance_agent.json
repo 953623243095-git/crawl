@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OFFICE",
+    "search_category": "Insurance Agent",
+    "primary_category": "Life insurance agency",
+    "all_categories": "Life insurance agency",
+    "pincode": "305811",
+    "phone_number": "+91 98296 71445",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "JQ4P+24Q, Sarana, Rajasthan 305811",
+    "area": "305811",
+    "latitude": 26.6050917,
+    "longitude": 74.7853647,
+    "place_id": "ChIJn83VCwDxazkRYVgifTd79RI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn83VCwDxazkRYVgifTd79RI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:48:15"
+  },
+  {
+    "business_name": "All kind of Insurance",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "305811",
+    "phone_number": "+91 81071 40786",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Village post, ke pass, near Government school, Babayacha, Rajasthan 305811",
+    "area": "305811",
+    "latitude": 26.686141499999998,
+    "longitude": 74.7395591,
+    "place_id": "ChIJUdo0KCPtazkR4j2B92N6f5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUdo0KCPtazkR4j2B92N6f5A",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:48:17"
+  }
+]

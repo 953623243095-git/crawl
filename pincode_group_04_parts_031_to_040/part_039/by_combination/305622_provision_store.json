@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Firoj General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "305622",
+    "phone_number": "+91 98291 73323",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Road, Bhinai, Rajasthan 305001",
+    "area": "305622",
+    "latitude": 26.0506253,
+    "longitude": 74.7700974,
+    "place_id": "ChIJyxcWzHpHaTkRcwz1CEE-fLw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyxcWzHpHaTkRcwz1CEE-fLw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:27:04"
+  },
+  {
+    "business_name": "Jainam Store",
+    "search_category": "Provision Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "305622",
+    "phone_number": "+91 77376 26038",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 95,
+    "address": "Bijainagar, Rajasthan 305624",
+    "area": "305622",
+    "latitude": 25.9261119,
+    "longitude": 74.6496629,
+    "place_id": "ChIJTV_rEQM_aTkRa22VkQ8H2VY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTV_rEQM_aTkRa22VkQ8H2VY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:27:05"
+  }
+]

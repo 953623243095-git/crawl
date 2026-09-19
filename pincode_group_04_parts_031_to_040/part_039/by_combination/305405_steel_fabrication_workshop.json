@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Fabricators",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Metal fabricator",
+    "all_categories": "Metal fabricator, Service establishment",
+    "pincode": "305405",
+    "phone_number": "+91 80779 93771",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Indian Fabricators, 305405, India",
+    "area": "305405",
+    "latitude": 29.8958536,
+    "longitude": 77.9321119,
+    "place_id": "ChIJqUiRx06AXWsRdM0U9W69GjQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqUiRx06AXWsRdM0U9W69GjQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:14:10"
+  },
+  {
+    "business_name": "End of the Trail Fabrication",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Welder",
+    "all_categories": "Welder",
+    "pincode": "305405",
+    "phone_number": "N/A",
+    "website": "https://endtrailfabrication.com/",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "191 Chili Wy, Dahlonega, GA 30533, United States",
+    "area": "305405",
+    "latitude": 34.491678,
+    "longitude": -83.8852083,
+    "place_id": "ChIJEZQZsTVdX4gR5dquG-ISJtw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEZQZsTVdX4gR5dquG-ISJtw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:14:11"
+  }
+]

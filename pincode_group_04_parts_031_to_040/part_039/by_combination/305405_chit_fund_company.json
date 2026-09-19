@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MyChits",
+    "search_category": "Chit Fund Company",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service, Loan agency",
+    "pincode": "305405",
+    "phone_number": "N/A",
+    "website": "http://www.mychits.co.in/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "11/36, Kathreguppe Cross Road, Kathreguppe, Banashankari 3rd Stage, Banashankari, Bengaluru, Karnataka 560085",
+    "area": "Kathreguppe, Banashankari 3rd Stage, Banashankari",
+    "latitude": 12.9335851,
+    "longitude": 77.5577419,
+    "place_id": "ChIJKbS_SV49rjsR4Lv_6eQW1GQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKbS_SV49rjsR4Lv_6eQW1GQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:14:04"
+  },
+  {
+    "business_name": "Kapil Chits funds Pvt Ltd",
+    "search_category": "Chit Fund Company",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service",
+    "pincode": "305405",
+    "phone_number": "N/A",
+    "website": "http://www.kapilchits.com/",
+    "rating": 2.2,
+    "reviews_count": null,
+    "address": "Flat No-204, Anand Nagar Colony, Khairtabad, Hyderabad, Telangana 500004",
+    "area": "Anand Nagar Colony, Khairtabad",
+    "latitude": 17.4099438,
+    "longitude": 78.4606127,
+    "place_id": "ChIJccGAZESXyzsRzyDKLF_gR9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJccGAZESXyzsRzyDKLF_gR9M",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:14:06"
+  }
+]

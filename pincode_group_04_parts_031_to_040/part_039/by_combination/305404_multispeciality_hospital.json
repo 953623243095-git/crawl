@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swaastik Lifecare Hospital(Swastik Hospital)",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Obstetrician-gynecologist, Private hospital",
+    "pincode": "305404",
+    "phone_number": "+91 83868 87766",
+    "website": "http://www.swaastiklifecarehospital.com/",
+    "rating": 4.8,
+    "reviews_count": 267,
+    "address": "Rajpura Rd, Kekri, Rajasthan 305404",
+    "area": "305404",
+    "latitude": 25.985792,
+    "longitude": 75.14538,
+    "place_id": "ChIJEfulfYDIbjkRXIOyYYzXN_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEfulfYDIbjkRXIOyYYzXN_4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:11:24"
+  },
+  {
+    "business_name": "Government District Hospital Kekri",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital, Hospital",
+    "pincode": "305404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 119,
+    "address": "Ajmer - Kota Rd, Raghu Colony, Kekri, Rajasthan 305404",
+    "area": "Raghu Colony",
+    "latitude": 25.986868599999998,
+    "longitude": 75.1273535,
+    "place_id": "ChIJveOsB0PIbjkRx7o7-BJDf_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJveOsB0PIbjkRx7o7-BJDf_M",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:11:24"
+  }
+]

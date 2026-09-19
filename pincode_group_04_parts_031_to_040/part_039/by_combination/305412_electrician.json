@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Electricales",
+    "search_category": "Electrician",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "305412",
+    "phone_number": "+91 95092 14254",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Arain Road, Dhasooh, Dhasook, Rajasthan 305813",
+    "area": "Dhasooh",
+    "latitude": 26.3520735,
+    "longitude": 75.1036347,
+    "place_id": "ChIJd_SbmSSpbjkRYQVRkGqzDW4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd_SbmSSpbjkRYQVRkGqzDW4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:20:40"
+  },
+  {
+    "business_name": "Viswkarma electricals",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "305412",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "347H+X68, Hingoniya, Hingoniyan, Rajasthan 305406",
+    "area": "305412",
+    "latitude": 26.0648177,
+    "longitude": 75.12799389999999,
+    "place_id": "ChIJNWCTYAC3bjkRdJi66Al7kQM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNWCTYAC3bjkRdJi66Al7kQM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:20:40"
+  }
+]

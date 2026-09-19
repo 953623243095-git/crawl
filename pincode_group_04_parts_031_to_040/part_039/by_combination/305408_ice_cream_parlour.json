@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jain Ice Cream Parlour Baghera",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "305408",
+    "phone_number": "+91 81040 95565",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Baghera, Rajasthan 305415",
+    "area": "305408",
+    "latitude": 26.020180099999997,
+    "longitude": 75.3154485,
+    "place_id": "ChIJj32_c2vAbjkRmKNKzSvLaTQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj32_c2vAbjkRmKNKzSvLaTQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:18:16"
+  },
+  {
+    "business_name": "Kauthiig Ice Cream Parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "305408",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "Raipur Rd, near Abhinandan wedding point, Tunwala, Nathuawala, Dehradun, Ranjhawala, Uttarakhand 248008",
+    "area": "Tunwala, Nathuawala",
+    "latitude": 30.293438,
+    "longitude": 78.0999594,
+    "place_id": "ChIJ5d1uOzIpCTkR6y_AWKaYR9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5d1uOzIpCTkR6y_AWKaYR9I",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:18:17"
+  }
+]

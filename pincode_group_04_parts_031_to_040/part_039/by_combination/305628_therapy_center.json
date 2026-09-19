@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Teja home",
+    "search_category": "Therapy Center",
+    "primary_category": "Family counselor",
+    "all_categories": "Family counselor",
+    "pincode": "305628",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "XX88+6QJ, Unnamed Road, Neemra, Neemeda, Rajasthan 305628",
+    "area": "305628",
+    "latitude": 25.96558,
+    "longitude": 74.966887,
+    "place_id": "ChIJYfhtQKg1aTkRdlkEwpjCEBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYfhtQKg1aTkRdlkEwpjCEBo",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:36:53"
+  },
+  {
+    "business_name": "Therapy Centre Lalru",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "305628",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FQQX+QWR, Ambala - Chandigarh Expy, Lalru, Punjab 140501",
+    "area": "305628",
+    "latitude": 30.489497,
+    "longitude": 76.7997546,
+    "place_id": "ChIJN2mtXADHDzkRVoqE1UnKfXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN2mtXADHDzkRVoqE1UnKfXM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:36:57"
+  }
+]

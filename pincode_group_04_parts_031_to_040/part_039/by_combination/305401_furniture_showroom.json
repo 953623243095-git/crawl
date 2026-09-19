@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Girdhar Furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "305401",
+    "phone_number": "+91 94144 36061",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ajmer Rd, Nasirabad, Dilwara, Rajasthan 305601",
+    "area": "305401",
+    "latitude": 26.334678099999998,
+    "longitude": 74.72282349999999,
+    "place_id": "ChIJZf7HR4VYaTkRbMw_4FpafAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZf7HR4VYaTkRbMw_4FpafAc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:06:26"
+  },
+  {
+    "business_name": "Shree Dev Traders",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "305401",
+    "phone_number": "+91 77349 26141",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Ajmer Rd, near by Tarang Building, Nasirabad, Ajmer, Rajasthan 305025",
+    "area": "305401",
+    "latitude": 26.346413499999997,
+    "longitude": 74.71710279999999,
+    "place_id": "ChIJRxYSq3zjazkR_O5HKfPZO7Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRxYSq3zjazkR_O5HKfPZO7Q",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:06:27"
+  }
+]

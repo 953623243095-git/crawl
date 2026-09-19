@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "J.S. AUTO WORKS",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "305207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Raikot, Punjab 141109",
+    "area": "305207",
+    "latitude": 30.646778899999997,
+    "longitude": 75.6082117,
+    "place_id": "ChIJn00PifCFEDkRUGmEWZm_aE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn00PifCFEDkRUGmEWZm_aE8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:04:32"
+  },
+  {
+    "business_name": "ADVANCE AUTO CARE",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "305207",
+    "phone_number": "+91 98150 35049",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "opposite Gurdwara Sahib, Bhoglan, Rajpura, Bhoglan, Pb 140402",
+    "area": "Bhoglan",
+    "latitude": 30.4511704,
+    "longitude": 76.5963776,
+    "place_id": "ChIJdyfGuArbDzkR2AXH3JlNzGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdyfGuArbDzkR2AXH3JlNzGY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:04:32"
+  }
+]

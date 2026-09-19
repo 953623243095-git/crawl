@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.K..COMPLAX.RAJOSI.NSD.RODE",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical office",
+    "all_categories": "Medical office",
+    "pincode": "305205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8MGF+94P, Ajmer, Rajosi, Rajasthan 305401",
+    "area": "305205",
+    "latitude": 26.325970299999998,
+    "longitude": 74.672832,
+    "place_id": "ChIJiVLTP_dfaTkRO98hTWUFFcY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiVLTP_dfaTkRO98hTWUFFcY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:00:36"
+  },
+  {
+    "business_name": "Palak Medical Store Jyani Sadan",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "305205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "9J46+MGH, Tabiji, Tabeeji Rural, Rajasthan 305206",
+    "area": "305205",
+    "latitude": 26.3566871,
+    "longitude": 74.6113682,
+    "place_id": "ChIJQ9sxBADhazkRiubSX1liGJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ9sxBADhazkRiubSX1liGJI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:00:39"
+  }
+]

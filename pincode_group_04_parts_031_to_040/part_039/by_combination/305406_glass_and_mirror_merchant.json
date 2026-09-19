@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sam Glasses",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass merchant",
+    "all_categories": "Glass merchant",
+    "pincode": "305406",
+    "phone_number": "+91 92521 23333",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "T-20, Shastri Nagar, Ajmer, Rajasthan 305001",
+    "area": "Shastri Nagar",
+    "latitude": 26.481300899999997,
+    "longitude": 74.6428799,
+    "place_id": "ChIJPUwvuJfnazkROS_oD4npwzU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPUwvuJfnazkROS_oD4npwzU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:15:15"
+  },
+  {
+    "business_name": "R.N Glass and Aluminium work",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass & mirror shop",
+    "all_categories": "Glass & mirror shop, Hardware store",
+    "pincode": "305406",
+    "phone_number": "+91 78777 89365",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near old petrol pump, Pushkar, Baseli, Rajasthan 305022",
+    "area": "305406",
+    "latitude": 26.5054001,
+    "longitude": 74.5422608,
+    "place_id": "ChIJCfKPfGfdazkRDQvoWjBlGD4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCfKPfGfdazkRDQvoWjBlGD4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:15:15"
+  }
+]

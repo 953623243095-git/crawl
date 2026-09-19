@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel kajal inn",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "305402",
+    "phone_number": "+91 77424 40293",
+    "website": "https://hotelkajalinn.com/contacts.php",
+    "rating": 2.1,
+    "reviews_count": 17,
+    "address": "purani barf factory, Hathi Bhata, Ajmer, Rajasthan 305001",
+    "area": "Hathi Bhata",
+    "latitude": 26.4618616,
+    "longitude": 74.63505479999999,
+    "place_id": "ChIJw-A_mtTnazkRwE1PyIS102I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw-A_mtTnazkRwE1PyIS102I",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:08:28"
+  },
+  {
+    "business_name": "Hotel ATA Inn And Restaurant",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "305402",
+    "phone_number": "+91 145 242 6633",
+    "website": "http://hotelatainn.com/",
+    "rating": 4.1,
+    "reviews_count": 924,
+    "address": "Nala Bazar Rd, dargah shareef, Near, Diggi Bazaar, Ajmer, Rajasthan 305001",
+    "area": "dargah shareef, Near, Diggi Bazaar",
+    "latitude": 26.4571719,
+    "longitude": 74.6290807,
+    "place_id": "ChIJfxGgcxrnazkRcNaTZ5yIAzU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfxGgcxrnazkRcNaTZ5yIAzU",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:08:28"
+  }
+]

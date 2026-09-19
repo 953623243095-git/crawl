@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sodani Medical",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "305401",
+    "phone_number": "+91 90579 87753",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "FJ2P+575, Main Market Main Market, Rajasthan 305001",
+    "area": "Parao",
+    "latitude": 26.450384,
+    "longitude": 74.6357312,
+    "place_id": "ChIJv7LB3yHnazkRAAAAMAWJjVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv7LB3yHnazkRAAAAMAWJjVY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:05:57"
+  },
+  {
+    "business_name": "Pioneer Medical Hall",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "305401",
+    "phone_number": "+91 94143 54775",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Kutchary Road, opposite Railway Stationery, Nalasopra, Railway Quarters, Ajmer, Rajasthan 305001",
+    "area": "Nalasopra, Railway Quarters",
+    "latitude": 26.45,
+    "longitude": 74.64,
+    "place_id": "ChIJFcjaCSDnazkRcx_X3mToIlA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFcjaCSDnazkRcx_X3mToIlA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:05:57"
+  }
+]

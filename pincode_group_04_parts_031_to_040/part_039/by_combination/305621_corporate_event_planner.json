@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eventlope",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Advertising agency, Public relations firm",
+    "pincode": "305621",
+    "phone_number": "+91 98397 93584",
+    "website": "http://www.eventlope.com/",
+    "rating": 4.9,
+    "reviews_count": 128,
+    "address": "B2-1424 Tower-B2 DLF Mypad TCG 6/6, Vibhuti Khand, Gomti Nagar, Lucknow -226010, Lucknow, Uttar Pradesh 226010",
+    "area": "Vijaipur Colony, Vibhuti Khand, Gomti Nagar",
+    "latitude": 26.8657996,
+    "longitude": 81.00635609999999,
+    "place_id": "ChIJg7gL13BXmTkRs5jHfd5Tq8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg7gL13BXmTkRs5jHfd5Tq8I",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:26:25"
+  },
+  {
+    "business_name": "Insight Eventz",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Caterer, Entertainment agency, Event planner, Event venue, Party planner, Professional organizer, Wedding photographer, Wedding planner, Wedding service",
+    "pincode": "305621",
+    "phone_number": "+91 99566 94367",
+    "website": "http://www.insighteventz.in/",
+    "rating": 4.9,
+    "reviews_count": 202,
+    "address": "Budh Vihar, Shivaji Puram, Phase 1, Indiranagar, Lucknow, Uttar Pradesh 226016",
+    "area": "Budh Vihar, Shivaji Puram, Phase 1, Indiranagar",
+    "latitude": 26.900517599999997,
+    "longitude": 81.0112025,
+    "place_id": "ChIJN_Mt3l9ZmTkR4HQ07gVawuA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN_Mt3l9ZmTkR4HQ07gVawuA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:26:26"
+  }
+]

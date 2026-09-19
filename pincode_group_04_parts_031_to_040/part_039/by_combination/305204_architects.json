@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Building planner",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "305204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Krishna colony Mewadiya, road, Pisangan, Rajasthan 305204",
+    "area": "305204",
+    "latitude": 26.3905267,
+    "longitude": 74.3793026,
+    "place_id": "ChIJ62LIyDvXazkRXouXrQTEYds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ62LIyDvXazkRXouXrQTEYds",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:59:11"
+  },
+  {
+    "business_name": "Shree Krishna Architecture",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "305204",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/shreekrishnaarchitecture?igsh=MXF5YWFob3pvbXFtdg==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Shani Mandir, Pisangan, Rajasthan 305204",
+    "area": "305204",
+    "latitude": 26.3914744,
+    "longitude": 74.3834791,
+    "place_id": "ChIJa-bdXADXazkRczGYIxn_0JM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa-bdXADXazkRczGYIxn_0JM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:59:14"
+  }
+]

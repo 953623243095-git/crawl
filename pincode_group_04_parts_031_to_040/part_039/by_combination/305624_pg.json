@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Room rent and PG (PG only for girls)",
+    "search_category": "PG",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "305624",
+    "phone_number": "+91 90013 21320",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "House no. 3, near sindhi colony, devnarayan mandir k pas, bijainagar, Ajmer, Rajasthan 305624",
+    "area": "305624",
+    "latitude": 25.9352509,
+    "longitude": 74.6490027,
+    "place_id": "ChIJRfidGV8_aTkR5cLtw5s47X0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRfidGV8_aTkR5cLtw5s47X0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:31:42"
+  },
+  {
+    "business_name": "Nakoda Hp Gas Agency",
+    "search_category": "PG",
+    "primary_category": "Gas logs supplier",
+    "all_categories": "Gas logs supplier",
+    "pincode": "305624",
+    "phone_number": "+91 94133 00355",
+    "website": "http://www.hindpetro.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "shop no 5-6, laxmi narayan mandir, campus, Near, Bijainagar, Rajasthan 305624",
+    "area": "305624",
+    "latitude": 25.926495799999998,
+    "longitude": 74.6509834,
+    "place_id": "ChIJ4zUkw0U_aTkR1ezo7iaVUZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4zUkw0U_aTkR1ezo7iaVUZI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:31:43"
+  }
+]

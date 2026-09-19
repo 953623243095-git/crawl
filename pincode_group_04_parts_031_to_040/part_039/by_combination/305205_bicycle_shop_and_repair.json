@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chirag Cycle Mart",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "305205",
+    "phone_number": "+91 99042 58845",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 28,
+    "address": "Shop No. 10, Astha Avenue, New IPCL Rd, Near Anandvan Complex, Gorwa, Vadodara, Gujarat 390023",
+    "area": "Near Anandvan Complex, Gorwa",
+    "latitude": 22.328524299999998,
+    "longitude": 73.1544636,
+    "place_id": "ChIJhUgz7-jIXzkRKwazEQNUjUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhUgz7-jIXzkRKwazEQNUjUQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:00:49"
+  },
+  {
+    "business_name": "Rajasthan Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle repair shop, Bicycle wholesaler, Childrens Store",
+    "pincode": "305205",
+    "phone_number": "+91 99741 21319",
+    "website": "http://www.cyclecompany.co.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "62, Bamroli Rd, near davkinandan school, Mukti Nagar, Gujarat Housing Board,Nem Nagar, Pandesara, Udhana, Surat, Gujarat 394210",
+    "area": "Mukti Nagar, Gujarat Housing Board,Nem Nagar, Pandesara, Udhana",
+    "latitude": 21.1459492,
+    "longitude": 72.82760569999999,
+    "place_id": "ChIJGWEgYedR4DsRNyHzsXGuGPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGWEgYedR4DsRNyHzsXGuGPc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:00:50"
+  }
+]

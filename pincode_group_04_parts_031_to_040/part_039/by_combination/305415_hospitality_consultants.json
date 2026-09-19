@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "First Priority Hospitality Pvt Ltd",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Business development service",
+    "all_categories": "Business development service, Business management consultant, Marketing agency, Recruiter",
+    "pincode": "305415",
+    "phone_number": "+91 93685 97989",
+    "website": "http://www.firstpriorityhospitality.com/",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Lane 9, Bhagirathi Puram, Jakhan, Dehradun, Uttarakhand 248003",
+    "area": "Bhagirathi Puram, Jakhan",
+    "latitude": 30.3623154,
+    "longitude": 78.0610452,
+    "place_id": "ChIJ2SKj3vvXCDkR0iFpcBAQYeo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2SKj3vvXCDkR0iFpcBAQYeo",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:22:46"
+  },
+  {
+    "business_name": "Best Hotel Jobs - Hospitality Recruitment",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Employment consultant",
+    "all_categories": "Employment consultant, Human resource consulting, Recruiter",
+    "pincode": "305415",
+    "phone_number": "N/A",
+    "website": "https://besthoteljobs.com/",
+    "rating": 5,
+    "reviews_count": 18,
+    "address": "9, Ballupur Rd, behind Subway Restaurant, Vijay Park, Dehradun, Uttarakhand 248001",
+    "area": "Vijay Park",
+    "latitude": 30.3332828,
+    "longitude": 78.0162967,
+    "place_id": "ChIJ5Xx839grCTkR_k0Wl-fGmoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Xx839grCTkR_k0Wl-fGmoA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:22:49"
+  }
+]

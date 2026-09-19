@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Choudhary Hotel",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "305202",
+    "phone_number": "+91 73729 42459",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ramdevra Choraya, Jethana, Rajasthan 305001",
+    "area": "305202",
+    "latitude": 26.2849348,
+    "longitude": 74.4725287,
+    "place_id": "ChIJXRqb7uJjaTkRx3wtx0Rg7D0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXRqb7uJjaTkRx3wtx0Rg7D0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:56:25"
+  },
+  {
+    "business_name": "Hira Lal",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "305202",
+    "phone_number": "+91 99825 95832",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sumel, Gola, Rajasthan 305001",
+    "area": "305202",
+    "latitude": 26.2276822,
+    "longitude": 74.3384019,
+    "place_id": "ChIJ1_QUQJl9aTkRcuToXb1r9Po",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1_QUQJl9aTkRcuToXb1r9Po",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 07:56:27"
+  }
+]

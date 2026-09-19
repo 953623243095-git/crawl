@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Shrinath Restaurant and Cold Drinks",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "305407",
+    "phone_number": "+91 63761 20407",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Ke Pass, Bus Stand, Jahazpur Road, Saver, Rajasthan 305407",
+    "area": "305407",
+    "latitude": 25.7589105,
+    "longitude": 75.2188461,
+    "place_id": "ChIJ42rK9BvbbjkRtgK0tJfG-Q0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ42rK9BvbbjkRtgK0tJfG-Q0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:17:51"
+  },
+  {
+    "business_name": "GOUTAM COLD BEVERAGES",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "305407",
+    "phone_number": "+91 62395 86745",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhilwara Road, near by Tak Vatika, Jahazpur, Rajasthan 311201",
+    "area": "305407",
+    "latitude": 25.6201567,
+    "longitude": 75.2734832,
+    "place_id": "ChIJ--V0bnshbzkRlXGfqCZ0Mgk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ--V0bnshbzkRlXGfqCZ0Mgk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:17:51"
+  }
+]

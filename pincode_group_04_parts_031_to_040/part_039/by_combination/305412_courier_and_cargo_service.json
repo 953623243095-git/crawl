@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "POST OFFICE",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "305412",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "5XGG+QPX, Shergarh, Rajasthan 305412",
+    "area": "305412",
+    "latitude": 26.1769803,
+    "longitude": 74.97685729999999,
+    "place_id": "ChIJI7rv0a-ybjkRn9gtxm1K0Us",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI7rv0a-ybjkRn9gtxm1K0Us",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:21:16"
+  },
+  {
+    "business_name": "Post Office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Shipping and mailing service",
+    "all_categories": "Shipping and mailing service",
+    "pincode": "305412",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "35MR+7PG, Junia, Rajasthan 305406",
+    "area": "305412",
+    "latitude": 26.0842065,
+    "longitude": 75.1910249,
+    "place_id": "ChIJxUEKIgC5bjkRhuR7QCXuaUg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxUEKIgC5bjkRhuR7QCXuaUg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:21:16"
+  }
+]

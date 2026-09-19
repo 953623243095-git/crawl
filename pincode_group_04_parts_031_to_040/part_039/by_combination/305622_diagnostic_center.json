@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mateshwari medical store",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "305622",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2V5F+63J, Nagola, Rajasthan 305628",
+    "area": "305622",
+    "latitude": 26.008077,
+    "longitude": 74.87264259999999,
+    "place_id": "ChIJdVubKABJaTkR9ZmZYDc98aY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdVubKABJaTkR9ZmZYDc98aY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:27:32"
+  },
+  {
+    "business_name": "Shree Bala Ji Medical And Janral Store tantoti",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "305622",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4RQ7+RH3, Tantoti, Rajasthan 305627",
+    "area": "305622",
+    "latitude": 26.1398735,
+    "longitude": 74.8139236,
+    "place_id": "ChIJhVD1JABPaTkROh6NLPboAd4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhVD1JABPaTkROh6NLPboAd4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:27:32"
+  }
+]

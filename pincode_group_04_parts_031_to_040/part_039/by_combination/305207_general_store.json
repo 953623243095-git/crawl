@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "कुबेर किराणा स्टोर",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "305207",
+    "phone_number": "+91 77278 31662",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nathuthala dodiyana Jethana,pisangan, Rajasthan 305207",
+    "area": "305207",
+    "latitude": 26.3620387,
+    "longitude": 74.4987299,
+    "place_id": "ChIJUxxCWwDZazkRY_gn06K3cfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUxxCWwDZazkRY_gn06K3cfA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:03:48"
+  },
+  {
+    "business_name": "Cheeta General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "305207",
+    "phone_number": "+91 96806 21096",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "Mahakupura, Mahakupra, Rajasthan 305002",
+    "area": "Ratanzila",
+    "latitude": 26.421501499999998,
+    "longitude": 74.6762981,
+    "place_id": "ChIJK5o-Dg_hazkR046YwESBMkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK5o-Dg_hazkR046YwESBMkA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:03:50"
+  }
+]

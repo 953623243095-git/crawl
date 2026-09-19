@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Efforts India Hospitality Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning service",
+    "all_categories": "Cleaning service",
+    "pincode": "305802",
+    "phone_number": "+91 70736 26225",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "44, Kusum Vihar, Colony, Kishangarh, Rajasthan 305801",
+    "area": "Kusum Vihar, Colony",
+    "latitude": 26.5866303,
+    "longitude": 74.8541759,
+    "place_id": "ChIJN9FVAt_wazkRZxM3BQvJIHM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN9FVAt_wazkRZxM3BQvJIHM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:46:28"
+  },
+  {
+    "business_name": "Pratiksha Crockery and plastic",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Household goods wholesaler",
+    "all_categories": "Household goods wholesaler",
+    "pincode": "305802",
+    "phone_number": "+91 94629 33605",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sardar Petrol Pump, Near, Kishangarh, Rajasthan 305802",
+    "area": "Agrasen Nagar",
+    "latitude": 26.589418799999997,
+    "longitude": 74.8617727,
+    "place_id": "ChIJlRgDpYbxazkRh3fOPUVpplc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlRgDpYbxazkRh3fOPUVpplc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:46:30"
+  }
+]

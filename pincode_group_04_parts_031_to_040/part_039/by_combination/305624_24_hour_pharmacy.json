@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Ram medical store Sathana",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "305624",
+    "phone_number": "+91 97993 23351",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "choraha, Sathana, Rajasthan 305624",
+    "area": "choraha",
+    "latitude": 25.9822636,
+    "longitude": 74.6260976,
+    "place_id": "ChIJXQPjy_FBaTkRrLiBCNcw2kk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXQPjy_FBaTkRrLiBCNcw2kk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:31:04"
+  },
+  {
+    "business_name": "Rathore agriculture form",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "305624",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XM9V+WC4, Shivrani, Rajasthan 305624",
+    "area": "305624",
+    "latitude": 25.9697657,
+    "longitude": 74.6935632,
+    "place_id": "ChIJ84F1q6Q5aTkRSqeieezRWF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ84F1q6Q5aTkRSqeieezRWF4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:31:04"
+  }
+]

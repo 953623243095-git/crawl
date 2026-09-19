@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SARKAR CLINIC+",
+    "search_category": "Doctors",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "305601",
+    "phone_number": "+91 63504 57426",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 7,
+    "address": "NEAR, Kota Rd, Nasirabad, Loharwara, Rajasthan 305601",
+    "area": "305601",
+    "latitude": 26.253800299999998,
+    "longitude": 74.7917106,
+    "place_id": "ChIJIzcEAmxRaTkRgUuQYjYTQQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIzcEAmxRaTkRgUuQYjYTQQc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:23:53"
+  },
+  {
+    "business_name": "Vanshika health care",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "305601",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sarana, Nasirabad, Rajasthan 305601",
+    "area": "305601",
+    "latitude": 26.166593799999998,
+    "longitude": 74.8857989,
+    "place_id": "ChIJ5QYTNaVNaTkRL8yTnaT_6oM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5QYTNaVNaTkRL8yTnaT_6oM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:23:53"
+  }
+]

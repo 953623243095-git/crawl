@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Car mechanic workshop",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "305621",
+    "phone_number": "+91 95983 86487",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Sarai Meer, Shervan, Uttar Pradesh 276305",
+    "area": "305621",
+    "latitude": 26.0255904,
+    "longitude": 82.9170015,
+    "place_id": "ChIJcdXhdLuzkTkRwXSCE1U-FoE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcdXhdLuzkTkRwXSCE1U-FoE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:25:53"
+  },
+  {
+    "business_name": "Technical Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "305621",
+    "phone_number": "+91 76653 83390",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop Number 1, Ajmer Road, Bandarsndari, Kishangarh, Rajasthan 305801",
+    "area": "305621",
+    "latitude": 26.6113955,
+    "longitude": 75.0364472,
+    "place_id": "ChIJ-z1Fnx8JbDkRJmb28W-YBNo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-z1Fnx8JbDkRJmb28W-YBNo",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:25:55"
+  }
+]

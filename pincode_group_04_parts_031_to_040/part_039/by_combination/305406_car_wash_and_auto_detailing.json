@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kings auto care",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "305406",
+    "phone_number": "+91 99099 14127",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near rajhans hotel, choraya, Raila, himratan city, Rajasthan 311024",
+    "area": "choraya",
+    "latitude": 25.641911399999998,
+    "longitude": 74.59474019999999,
+    "place_id": "ChIJS0koXaUfaTkRG-Zt72tNWxE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS0koXaUfaTkRG-Zt72tNWxE",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:15:04"
+  },
+  {
+    "business_name": "Car wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "305406",
+    "phone_number": "+91 70143 37593",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Nheru nagar road, beside gov school, beside Swaroop hair saloon, Vinay Nagar, Pal Bhichala, Ajmer, Rajasthan 305007",
+    "area": "Vinay Nagar, Pal Bhichala",
+    "latitude": 26.4530495,
+    "longitude": 74.64206829999999,
+    "place_id": "ChIJ_xHBZATnazkR76wNDUrPf_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_xHBZATnazkR76wNDUrPf_M",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:15:05"
+  }
+]

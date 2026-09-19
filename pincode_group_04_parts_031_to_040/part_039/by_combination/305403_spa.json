@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Keshav Madhav Medical",
+    "search_category": "Spa",
+    "primary_category": "Medical spa",
+    "all_categories": "Medical spa",
+    "pincode": "305403",
+    "phone_number": "+91 99298 02407",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3255+HX2, Sarwar, Rajasthan 305403",
+    "area": "305403",
+    "latitude": 26.0588892,
+    "longitude": 75.0099024,
+    "place_id": "ChIJIYFaSvm0bjkRj3Zn9eUFpGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIYFaSvm0bjkRj3Zn9eUFpGg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:10:04"
+  },
+  {
+    "business_name": "Jai ma kalika hotel vej and non vej",
+    "search_category": "Spa",
+    "primary_category": "Wellness hotel",
+    "all_categories": "Wellness hotel",
+    "pincode": "305403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "4WMV+3M7, Kota Rd, Goyla, Rajasthan 305601",
+    "area": "305403",
+    "latitude": 26.1326565,
+    "longitude": 74.94417039999999,
+    "place_id": "ChIJ8-OBq6lNaTkRwknnBgSeCLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8-OBq6lNaTkRwknnBgSeCLo",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:10:04"
+  }
+]

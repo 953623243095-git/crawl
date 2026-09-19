@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sen beauty parlor",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "305402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "9VVX+4M7, MDR 6, Tihari, Rajasthan 305025",
+    "area": "305402",
+    "latitude": 26.3927868,
+    "longitude": 74.89917729999999,
+    "place_id": "ChIJM5yucEj_azkRAmA_JpBoMyI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM5yucEj_azkRAmA_JpBoMyI",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:08:16"
+  },
+  {
+    "business_name": "Kartika Hair saloon",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "305402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8396+J3C, Jheerota, Rajasthan 305813",
+    "area": "305402",
+    "latitude": 26.3190721,
+    "longitude": 75.060137,
+    "place_id": "ChIJmSk2fwCrbjkRUPLvD8wYS-E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmSk2fwCrbjkRUPLvD8wYS-E",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:08:18"
+  }
+]

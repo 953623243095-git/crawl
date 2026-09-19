@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Shyam auto service centre",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "305404",
+    "phone_number": "+91 63505 35621",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shree Shyam auto service centre, Anant's Sweat Colony, Kekri, Rajasthan 305404",
+    "area": "Anant's Sweat Colony",
+    "latitude": 25.9748064,
+    "longitude": 75.1529425,
+    "place_id": "ChIJaaQXAQDJbjkRO1IXiz4l21Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaaQXAQDJbjkRO1IXiz4l21Y",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:11:36"
+  },
+  {
+    "business_name": "Chabi Ki Dukaan",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "305404",
+    "phone_number": "+91 78775 23778",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kekri, Rajasthan 313001",
+    "area": "Kalyan Colony",
+    "latitude": 25.972239199999997,
+    "longitude": 75.1504286,
+    "place_id": "ChIJ-yEOB5PJbjkRFEUWxnvsUTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-yEOB5PJbjkRFEUWxnvsUTk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:11:36"
+  }
+]

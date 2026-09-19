@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Adinath Bartan",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "305407",
+    "phone_number": "+91 88900 47676",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ke Pass, Sabji Mandi, Kekri Road, Saver, Rajasthan 305407",
+    "area": "305407",
+    "latitude": 25.7583888,
+    "longitude": 75.2298861,
+    "place_id": "ChIJNe61nLrbbjkR4NTnmPhB-t0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNe61nLrbbjkR4NTnmPhB-t0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:16:16"
+  },
+  {
+    "business_name": "SHUBHAM TRADERS",
+    "search_category": "Supermarket",
+    "primary_category": "General store",
+    "all_categories": "General store, Grocery delivery service",
+    "pincode": "305407",
+    "phone_number": "+91 95099 99150",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shubham Traders, Deoli-Sawar Rd, Saver, Rajasthan 305407",
+    "area": "305407",
+    "latitude": 25.7656939,
+    "longitude": 75.2177148,
+    "place_id": "ChIJJ-04b8TbbjkR2ezClr0eJpY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ-04b8TbbjkR2ezClr0eJpY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:16:18"
+  }
+]

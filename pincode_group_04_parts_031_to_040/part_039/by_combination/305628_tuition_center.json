@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BL ACADEMY",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "305628",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bhinay, near Boarding school, Devliya Kalan, Rajasthan 305926",
+    "area": "305628",
+    "latitude": 25.907865899999997,
+    "longitude": 74.7844136,
+    "place_id": "ChIJVXY7F2Y3aTkRmIbCdqh7TDw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVXY7F2Y3aTkRmIbCdqh7TDw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:37:06"
+  },
+  {
+    "business_name": "Jai Ambay Coaching Center nagola",
+    "search_category": "Tuition Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center",
+    "pincode": "305628",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nagola, Rajasthan 305628",
+    "area": "305628",
+    "latitude": 26.007624399999997,
+    "longitude": 74.8726507,
+    "place_id": "ChIJJy3mfPBJaTkRyhZ14zhH65s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJy3mfPBJaTkRyhZ14zhH65s",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:37:06"
+  }
+]

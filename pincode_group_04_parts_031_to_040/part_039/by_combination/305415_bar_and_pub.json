@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sphere Lounge",
+    "search_category": "Bar and Pub",
+    "primary_category": "Lounge bar",
+    "all_categories": "Lounge bar, Restaurant",
+    "pincode": "305415",
+    "phone_number": "+91 99091 72226",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Ramada Hotel, Corporate Rd, opp. Prahladnagar, Garden, Prahlad Nagar, Ahmedabad, Gujarat 380015",
+    "area": "Garden, Prahlad Nagar",
+    "latitude": 23.0104397,
+    "longitude": 72.50493089999999,
+    "place_id": "ChIJ2QBDvyebXjkRZxoU7_Ye_Eo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2QBDvyebXjkRZxoU7_Ye_Eo",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:21:54"
+  },
+  {
+    "business_name": "Ajit Singh",
+    "search_category": "Bar and Pub",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "305415",
+    "phone_number": "+91 63780 06201",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Baghera Rd, Kekri, Rajasthan 305404",
+    "area": "305415",
+    "latitude": 25.9918572,
+    "longitude": 75.17125589999999,
+    "place_id": "ChIJHyMSeS7HbjkRh_rmLJUj_mM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHyMSeS7HbjkRh_rmLJUj_mM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:21:56"
+  }
+]

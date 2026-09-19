@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bookland Book Sellers",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Book publisher, Books Wholesaler, Children's Book Store, Comic book store, Library, Rare book store, Religious Book Store",
+    "pincode": "305403",
+    "phone_number": "+91 94138 09876",
+    "website": "https://booklandajmer.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "shop No.75 Kutchery, Road, Ajmer, Rajasthan 305001",
+    "area": "Patel Nagar, Topdara",
+    "latitude": 26.460648199999998,
+    "longitude": 74.6372609,
+    "place_id": "ChIJL54aIR3nazkRcgpXnkH3c0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL54aIR3nazkRcgpXnkH3c0Y",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:10:23"
+  },
+  {
+    "business_name": "A.K Stationers Ajay Nagar,Ajmer",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Pen store",
+    "all_categories": "Pen store",
+    "pincode": "305403",
+    "phone_number": "+91 70149 05253",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Jivatram colony, Satguru Colony, Ajay Nagar, Ajmer, Rajasthan 305001",
+    "area": "Satguru Colony, Ajay Nagar",
+    "latitude": 26.4317124,
+    "longitude": 74.6291088,
+    "place_id": "ChIJUwSNgCHnazkRypeDrv9FExk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUwSNgCHnazkRypeDrv9FExk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:10:24"
+  }
+]

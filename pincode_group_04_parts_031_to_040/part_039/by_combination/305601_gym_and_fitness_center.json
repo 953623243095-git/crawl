@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Just fit & fine gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "305601",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sindhi baaza front of padam studio, Sher Khan Rd, Sindhi Bazar, Sindhi baazar, Nasirabad, Rajasthan 305601",
+    "area": "Sindhi Bazar, Sindhi baazar",
+    "latitude": 26.2990562,
+    "longitude": 74.7342678,
+    "place_id": "ChIJP0H0rwZZaTkRXEo_nswBiL8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP0H0rwZZaTkRXEo_nswBiL8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:24:00"
+  },
+  {
+    "business_name": "Red Rocks Fittness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "305601",
+    "phone_number": "+91 87695 70269",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 7,
+    "address": "7MPF+5X6, Bhawani Khera, Rajasthan 305401",
+    "area": "305601",
+    "latitude": 26.285404999999997,
+    "longitude": 74.6748759,
+    "place_id": "ChIJq6BGedpeaTkRWD9Dixvk0Sg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6BGedpeaTkRWD9Dixvk0Sg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:24:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi oil",
+    "search_category": "Organic Food Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "305206",
+    "phone_number": "+91 98281 70072",
+    "website": "http://tiloil.infinityfreeapp.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Khanpura Rd, Subhash Nagar, Ajmer, Rajasthan 305003",
+    "area": "Subhash Nagar",
+    "latitude": 26.418593299999998,
+    "longitude": 74.6365826,
+    "place_id": "ChIJGa8Li1jhazkRfK_eKjTMBJ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGa8Li1jhazkRfK_eKjTMBJ4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:01:56"
+  },
+  {
+    "business_name": "अज्जू फार्म हाउस मकरेड़ा",
+    "search_category": "Organic Food Store",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "305206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8GMG+44P, Makrera, Rajasthan 305206",
+    "area": "305206",
+    "latitude": 26.3328433,
+    "longitude": 74.525323,
+    "place_id": "ChIJixxjNaPfazkRi3MfeUQFRQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJixxjNaPfazkRi3MfeUQFRQg",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:01:56"
+  }
+]

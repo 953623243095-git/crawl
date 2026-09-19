@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khatri's Automobile",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "305406",
+    "phone_number": "+91 77289 84181",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No.5, Jaipur Rd, Kankarda Bhonabay, Ajmer, Rajasthan 305001",
+    "area": "305406",
+    "latitude": 26.4945976,
+    "longitude": 74.6808057,
+    "place_id": "ChIJ8R5LCl3nazkRHMBuGdTYUeQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8R5LCl3nazkRHMBuGdTYUeQ",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:15:14"
+  },
+  {
+    "business_name": "A.C. CAR CARE",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "305406",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CM44+8WP, Service Rd, Parbatpura, Ajmer, Rajasthan 305002",
+    "area": "Parbatpura",
+    "latitude": 26.4058268,
+    "longitude": 74.6573375,
+    "place_id": "ChIJ6dFrCRbhazkRGH7LVUj8PiA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6dFrCRbhazkRGH7LVUj8PiA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:15:14"
+  }
+]

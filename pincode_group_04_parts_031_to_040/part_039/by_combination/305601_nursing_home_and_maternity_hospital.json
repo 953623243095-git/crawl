@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai health care",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Home health care service",
+    "all_categories": "Home health care service",
+    "pincode": "305601",
+    "phone_number": "N/A",
+    "website": "http://www.saihealthcare.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "opp. Kshetrapal hospital, C Block, Panchsheel Nagar, Ajmer, Rajasthan 305001",
+    "area": "C Block, Panchsheel Nagar",
+    "latitude": 26.504431999999998,
+    "longitude": 74.634912,
+    "place_id": "ChIJSybe2IbnazkRbFHo__QIhfo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSybe2IbnazkRbFHo__QIhfo",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:23:53"
+  },
+  {
+    "business_name": "Nasirabad, Rajasthan 305601",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "305601",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nasirabad, Rajasthan",
+    "area": "305601",
+    "latitude": 26.2795088,
+    "longitude": 74.7571147,
+    "place_id": "ChIJ5yXOhX1XaTkRl1UNKWHr3wc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5yXOhX1XaTkRl1UNKWHr3wc",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:23:55"
+  }
+]

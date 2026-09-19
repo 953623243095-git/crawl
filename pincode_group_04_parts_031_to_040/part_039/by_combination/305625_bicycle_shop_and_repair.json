@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taslim Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "305625",
+    "phone_number": "+91 75682 16105",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 01, Munim Colony, Bijainagar, Rajasthan 305624",
+    "area": "Munim Colony",
+    "latitude": 25.9261224,
+    "longitude": 74.6476905,
+    "place_id": "ChIJWzS7F2w_aTkRUr9FWlO645s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWzS7F2w_aTkRUr9FWlO645s",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:33:05"
+  },
+  {
+    "business_name": "SS bike service and tyre workshop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "305625",
+    "phone_number": "+91 63751 94898",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "29, Mai Chauraha, near SBI Bank, Gulabpura, Rajasthan 311021",
+    "area": "305625",
+    "latitude": 25.902017999999998,
+    "longitude": 74.6649807,
+    "place_id": "ChIJuU5obnE_aTkR2GRexvE0tPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuU5obnE_aTkR2GRexvE0tPY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:33:05"
+  }
+]

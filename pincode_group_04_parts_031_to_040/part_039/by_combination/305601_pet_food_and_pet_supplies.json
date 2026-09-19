@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paws for tails",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "305601",
+    "phone_number": "+91 81474 49720",
+    "website": "http://pawsfortails.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3235, Suttar Khana Mohalla, Nasirabad, Rajasthan 305601",
+    "area": "305601",
+    "latitude": 26.2984296,
+    "longitude": 74.7354058,
+    "place_id": "ChIJWQWK66pZaTkRTR8_31RcpQo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWQWK66pZaTkRTR8_31RcpQo",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:23:33"
+  },
+  {
+    "business_name": "Dog kennels ajmer",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store, Dog breeder",
+    "pincode": "305601",
+    "phone_number": "+91 70141 81829",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "CQHH+4G9 Shrinagar, Road, Ajmer, Rajasthan 305001",
+    "area": "305601",
+    "latitude": 26.427783299999998,
+    "longitude": 74.7788736,
+    "place_id": "ChIJG5aw4rvnazkRH9r3jaGRF_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG5aw4rvnazkRH9r3jaGRF_4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:23:33"
+  }
+]

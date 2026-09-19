@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JAI DHANOP MAHARANI RESORT",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "305404",
+    "phone_number": "+91 96725 71820",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "VXQ5+6MC, Kairot, Kerot, Rajasthan 305404",
+    "area": "Kairot",
+    "latitude": 25.8880548,
+    "longitude": 74.9591482,
+    "place_id": "ChIJ8WW0cAAzaTkR_bNA0ibAmdA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8WW0cAAzaTkR_bNA0ibAmdA",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:12:01"
+  },
+  {
+    "business_name": "Swastik Garden and Resort",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "305404",
+    "phone_number": "+91 96806 37789",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Q6F7+2CQ, Kota Rd, Saver, Unkarpura, Rajasthan 305407",
+    "area": "305404",
+    "latitude": 25.772593699999998,
+    "longitude": 75.21361499999999,
+    "place_id": "ChIJoTdUuLvbbjkR2c4Gmyw_lg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoTdUuLvbbjkR2c4Gmyw_lg8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:12:02"
+  }
+]

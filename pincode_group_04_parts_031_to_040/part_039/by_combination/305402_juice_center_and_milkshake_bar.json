@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Juice & shake center",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "305402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "24, Jail Rd, Devendra Nagar, Raipur, Chhattisgarh 492001",
+    "area": "Devendra Nagar",
+    "latitude": 21.2539542,
+    "longitude": 81.6402205,
+    "place_id": "ChIJjUKveQDdKDoRy9mpgla53EY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjUKveQDdKDoRy9mpgla53EY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:07:28"
+  },
+  {
+    "business_name": "JUICE BAR",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "305402",
+    "phone_number": "+91 75007 85417",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "GMS Rd, near K E, Sewla Kalan, Chok, Dehradun, Uttarakhand 248171",
+    "area": "Sewla Kalan, Chok",
+    "latitude": 30.2991285,
+    "longitude": 78.00051479999999,
+    "place_id": "ChIJ8WzygKMrCTkRk28tsqwvn0s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8WzygKMrCTkRk28tsqwvn0s",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:07:31"
+  }
+]

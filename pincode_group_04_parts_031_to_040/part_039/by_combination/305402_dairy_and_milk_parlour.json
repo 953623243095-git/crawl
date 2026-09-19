@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naga Dairy farm",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Ranch",
+    "all_categories": "Ranch",
+    "pincode": "305402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "मंडा रोड, Purani Kekri, Kekri, Rajasthan 305404",
+    "area": "Purani Kekri",
+    "latitude": 25.9701427,
+    "longitude": 75.163243,
+    "place_id": "ChIJ76MLFtjHbjkRw9rxf79oYy4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ76MLFtjHbjkRw9rxf79oYy4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:07:22"
+  },
+  {
+    "business_name": "Ramsar, Rajasthan 305402",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "305402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ramsar, Rajasthan",
+    "area": "305402",
+    "latitude": 26.340711199999998,
+    "longitude": 74.8974925,
+    "place_id": "ChIJTRYg3-5VaTkRCLdR3sqTVXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTRYg3-5VaTkRCLdR3sqTVXM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:07:23"
+  }
+]

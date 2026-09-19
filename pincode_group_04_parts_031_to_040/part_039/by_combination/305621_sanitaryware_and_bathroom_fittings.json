@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiv Enterprises",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Bathroom supply store",
+    "pincode": "305621",
+    "phone_number": "+91 86999 80330",
+    "website": "http://www.vanitobathware.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "E170, Phase 7, Industrial Area, Sector 73, Sahibzada Ajit Singh Nagar, Punjab 160055",
+    "area": "Phase 7, Industrial Area, Sector 73",
+    "latitude": 30.716500399999997,
+    "longitude": 76.7036395,
+    "place_id": "ChIJb3XIf1rvDzkRCZoBERaFpck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb3XIf1rvDzkRCZoBERaFpck",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:26:02"
+  },
+  {
+    "business_name": "Shree Ganesh Sanitary Showroom",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "305621",
+    "phone_number": "+91 95300 95387",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Dhan Mandi Road, Gandhi Colony, Baran, Rajasthan 325205",
+    "area": "Gandhi Colony",
+    "latitude": 25.1039224,
+    "longitude": 76.50087649999999,
+    "place_id": "ChIJjXsl3oEBcDkRtHgQtSWsVao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjXsl3oEBcDkRtHgQtSWsVao",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:26:03"
+  }
+]

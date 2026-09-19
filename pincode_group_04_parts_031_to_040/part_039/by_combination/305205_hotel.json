@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HOTEL ARENA",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "305205",
+    "phone_number": "+91 91191 32785",
+    "website": "https://www.hotelarena.in/",
+    "rating": 4.1,
+    "reviews_count": 78,
+    "address": "NH 48, Nasirabad, Rajasthan 305601",
+    "area": "305205",
+    "latitude": 26.2969995,
+    "longitude": 74.75419819999999,
+    "place_id": "ChIJC1fETABZaTkRwd8INQMhhjw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC1fETABZaTkRwd8INQMhhjw",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:01:13"
+  },
+  {
+    "business_name": "Hotel Akshara Inn",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "305205",
+    "phone_number": "+91 82333 78598",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 70,
+    "address": "1888/1886, Bara Patthar, Rajasthan 305601",
+    "area": "305205",
+    "latitude": 26.304025,
+    "longitude": 74.7519794,
+    "place_id": "ChIJJUvLUwBZaTkRtDDLXSONVD0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJUvLUwBZaTkRtDDLXSONVD0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:01:13"
+  }
+]

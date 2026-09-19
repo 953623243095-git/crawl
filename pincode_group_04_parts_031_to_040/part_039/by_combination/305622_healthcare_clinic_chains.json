@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Marble City Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "305622",
+    "phone_number": "+91 81042 14444",
+    "website": "https://www.marblecityhospital.in/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Jaipur - Jodhpur National Hwy, RICCO Industrial Area, Kishangarh, Rajasthan 305801",
+    "area": "RICCO Industrial Area",
+    "latitude": 26.6003635,
+    "longitude": 74.86270619999999,
+    "place_id": "ChIJu7TSiy_xazkRGT1L4aY7a9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu7TSiy_xazkRGT1L4aY7a9w",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:27:37"
+  },
+  {
+    "business_name": "HEALTH CARE CLINIC",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "305622",
+    "phone_number": "+91 97808 06011",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mata Bhag Kaur Nagar, Gobindgarh, Ludhiana, Punjab 141003",
+    "area": "Mata Bhag Kaur Nagar",
+    "latitude": 30.863751999999998,
+    "longitude": 75.9469244,
+    "place_id": "ChIJBzWQcYKdGjkRxzyag9REEmk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBzWQcYKdGjkRxzyag9REEmk",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:27:38"
+  }
+]

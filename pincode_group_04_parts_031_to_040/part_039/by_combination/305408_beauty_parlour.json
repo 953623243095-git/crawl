@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharmani Mata beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "305408",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chhipa mohila baghera, Kekri, Baghera, Rajasthan 305415",
+    "area": "305408",
+    "latitude": 26.020673499999997,
+    "longitude": 75.3167328,
+    "place_id": "ChIJo6q_cL7BbjkRBGu9UyfphoM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo6q_cL7BbjkRBGu9UyfphoM",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:19:01"
+  },
+  {
+    "business_name": "Ruby makeover kekri",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "305408",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SitaRam Mandir, Purani Kekri, Kekri, Rajasthan 305404",
+    "area": "Purani Kekri",
+    "latitude": 25.9664313,
+    "longitude": 75.1618345,
+    "place_id": "ChIJRYc2toLHbjkRgZd4nzLPbQs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRYc2toLHbjkRgZd4nzLPbQs",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:19:01"
+  }
+]

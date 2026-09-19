@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BEST HAIR Saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "305405",
+    "phone_number": "+91 89792 66756",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Nehru Market, Dakpatthar, Uttarakhand 248125",
+    "area": "Shivpuri Colony",
+    "latitude": 30.495257799999997,
+    "longitude": 77.7918669,
+    "place_id": "ChIJVbJxwywuDzkR485vbAahe_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVbJxwywuDzkR485vbAahe_4",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:13:36"
+  },
+  {
+    "business_name": "Unisex Saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "305405",
+    "phone_number": "+91 90792 78238",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Florence, Azad Nagar, Ajmer, Rajasthan 305001",
+    "area": "Azad Nagar",
+    "latitude": 26.4746562,
+    "longitude": 74.6018421,
+    "place_id": "ChIJkZmyGh3nazkR-cbziR3lH_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkZmyGh3nazkR-cbziR3lH_8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:13:37"
+  }
+]

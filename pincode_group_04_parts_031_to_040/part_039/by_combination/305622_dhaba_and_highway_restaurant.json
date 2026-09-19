@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "choudhary hotel",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "305622",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "WJVJ+CRJ, NH 48, Bijainagar, Rajasthan 305624",
+    "area": "305622",
+    "latitude": 25.9435909,
+    "longitude": 74.6320296,
+    "place_id": "ChIJ2Tm-nJg_aTkRosMTs2L_xeY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2Tm-nJg_aTkRosMTs2L_xeY",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:27:13"
+  },
+  {
+    "business_name": "Raj Hotal",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "305622",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "XJ9M+7VG, NH 48, Gudha, Pilani, Sathana, Rajasthan 305624",
+    "area": "Gudha",
+    "latitude": 25.9681762,
+    "longitude": 74.6347019,
+    "place_id": "ChIJdQ9ANn9AaTkRJoHAdJfdEP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdQ9ANn9AaTkRJoHAdJfdEP0",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:27:13"
+  }
+]

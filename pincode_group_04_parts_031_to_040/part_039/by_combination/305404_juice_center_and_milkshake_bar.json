@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JAIN JUICE AND ICECREAM PARLOUR",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "305404",
+    "phone_number": "+91 99285 76044",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Asha Juice Center Ke Samne, BUS STEND, Anant's Sweat Colony, Kekri, Rajasthan 305404",
+    "area": "Anant's Sweat Colony",
+    "latitude": 25.9721457,
+    "longitude": 75.1519517,
+    "place_id": "ChIJU2NMURDJbjkRVvKdjztTfK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU2NMURDJbjkRVvKdjztTfK8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:11:05"
+  },
+  {
+    "business_name": "The Cafe juice Bar🍕",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "305404",
+    "phone_number": "+91 89380 01234",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Motipur, Premnagr, Mahendra Chowk, Dehradun, Uttarakhand 248007",
+    "area": "Motipur, Premnagr, Mahendra Chowk",
+    "latitude": 30.3253952,
+    "longitude": 77.931168,
+    "place_id": "ChIJ2_mWdlorCTkREsfNCO_j8k8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2_mWdlorCTkREsfNCO_j8k8",
+    "part_id": "part_039",
+    "crawled_at": "2026-09-19 08:11:05"
+  }
+]
