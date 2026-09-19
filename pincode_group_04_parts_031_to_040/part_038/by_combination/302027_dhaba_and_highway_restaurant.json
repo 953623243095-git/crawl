@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaipur Heritage Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "302027",
+    "phone_number": "+91 97848 59000",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Road No.14, Sikar Rd, Vishwakarma Industrial Area, Jaipur, Rajasthan 302013",
+    "area": "Vishwakarma Industrial Area",
+    "latitude": 26.996852399999998,
+    "longitude": 75.771849,
+    "place_id": "ChIJv88LXGOzbTkR_6MQdOF0yMU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv88LXGOzbTkR_6MQdOF0yMU",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:18:43"
+  },
+  {
+    "business_name": "DHABA JUNCTION",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "302027",
+    "phone_number": "+91 91161 61337",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Bajri Mandi Road, 80 Feet Road, 46-A, Vaishali Marg W, Panchyawala, Jaipur, Rajasthan 302034",
+    "area": "Panchyawala",
+    "latitude": 26.915411499999998,
+    "longitude": 75.72493759999999,
+    "place_id": "ChIJyU_HZVezbTkRVEcT5ggMQeE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyU_HZVezbTkRVEcT5ggMQeE",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:18:45"
+  }
+]

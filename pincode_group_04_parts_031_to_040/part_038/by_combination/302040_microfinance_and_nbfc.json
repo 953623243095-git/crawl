@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NFI Nidhi Limited",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution",
+    "pincode": "302040",
+    "phone_number": "+91 81043 37565",
+    "website": "http://nfinidhi.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "KAMLA SADAN 6/340, RHB Colony, Hanumangarh, Rajasthan 335512",
+    "area": "RHB Colony, Housing Board",
+    "latitude": 29.608386999999997,
+    "longitude": 74.2738798,
+    "place_id": "ChIJF_GZfub0FjkR9kyfxC22jJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF_GZfub0FjkR9kyfxC22jJA",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:40:21"
+  },
+  {
+    "business_name": "Fusion Microfinance pvt ltd.",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Bank",
+    "all_categories": "Bank",
+    "pincode": "302040",
+    "phone_number": "+91 11 4664 6600",
+    "website": "http://fusionmicrofinance.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "F4PG+2RJ, Naraingarh, Haryana 134203",
+    "area": "302040",
+    "latitude": 30.485096799999997,
+    "longitude": 77.1270241,
+    "place_id": "ChIJpX3QavWmDzkRBr2v8ebV4YM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpX3QavWmDzkRBr2v8ebV4YM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:40:21"
+  }
+]

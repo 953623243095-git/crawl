@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Garvit Computers & Fancy Store",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Cosmetics store",
+    "pincode": "302031",
+    "phone_number": "+91 82396 96963",
+    "website": "https://www.facebook.com/Garvit-Computers-E-Mitra-Services-100498181632893/",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "18, Agra Rd, opposite Upadhyay Medical, behind Poultry Farm, Shrinath Vihar, Jamdoli, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302031",
+    "area": "Shrinath Vihar, Jamdoli",
+    "latitude": 26.896285,
+    "longitude": 75.88373829999999,
+    "place_id": "ChIJQyro0-K3bTkRPqDbQZ5RXl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQyro0-K3bTkRPqDbQZ5RXl8",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:26:05"
+  },
+  {
+    "business_name": "Shri Shyam Digital Solution & E-mitra",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "302031",
+    "phone_number": "+91 77919 83502",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 18,
+    "address": "Near Petals millenium School, Shri Radha Govind Nagar Pani ki tanki ke pass, Agra Rd, Jamdoli, Jaipur, Rajasthan 302031",
+    "area": "Shri Radha Govind Nagar, Jamdoli",
+    "latitude": 26.900453499999998,
+    "longitude": 75.8933587,
+    "place_id": "ChIJOTddeGO3bTkRdcZg292Ed2s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOTddeGO3bTkRdcZg292Ed2s",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:26:08"
+  }
+]

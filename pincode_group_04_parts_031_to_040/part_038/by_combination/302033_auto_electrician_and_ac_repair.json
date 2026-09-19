@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goodwill Automobiles",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto painting, Auto restoration service, Painting",
+    "pincode": "302033",
+    "phone_number": "+91 99502 83081",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 16,
+    "address": "Sector 16, Pratap Nagar, Jaipur, Rajasthan 302033",
+    "area": "Sector 16, Pratap Nagar",
+    "latitude": 26.803034,
+    "longitude": 75.8263516,
+    "place_id": "ChIJW8t8JRjJbTkRbVkSe-DVIBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW8t8JRjJbTkRbVkSe-DVIBw",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:27:28"
+  },
+  {
+    "business_name": "New Tech Engineers",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Air conditioning store",
+    "all_categories": "Air conditioning store, Air conditioning system supplier, Electronics wholesaler, Power station",
+    "pincode": "302033",
+    "phone_number": "+91 96803 43335",
+    "website": "https://newtechengineers.in/",
+    "rating": 4.4,
+    "reviews_count": 54,
+    "address": "175, OPP. MIDAS RESIDENCY, Ajmer Rd, Doctors Colony, DCM, Jaipur, Rajasthan 302021",
+    "area": "Doctors Colony, DCM",
+    "latitude": 26.8981513,
+    "longitude": 75.7432994,
+    "place_id": "ChIJdbJNUJK0bTkRELTHZJeYN7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdbJNUJK0bTkRELTHZJeYN7Y",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:27:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dubey Medical Equipments",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier",
+    "pincode": "302031",
+    "phone_number": "+91 95181 26285",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "D1D, Agra Rd, near 21 no. Auto Stand, J D A Colony, Paldi Meena, Jaipur, Rajasthan 302031",
+    "area": "J D A Colony, Paldi Meena",
+    "latitude": 26.878330499999997,
+    "longitude": 75.9050455,
+    "place_id": "ChIJ66Ksv1W5bTkR0qbwBU3i0UM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ66Ksv1W5bTkR0qbwBU3i0UM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:25:13"
+  },
+  {
+    "business_name": "Gopal medical",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "302031",
+    "phone_number": "+91 99295 03354",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "VVGJ+PRP, Goner Rd, Paldi Meena, Jaipur, Rajasthan 303012",
+    "area": "Paldi Meena",
+    "latitude": 26.8768447,
+    "longitude": 75.8820849,
+    "place_id": "ChIJO_GUJA63bTkRuc0xi5i5V-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_GUJA63bTkRuc0xi5i5V-g",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:25:13"
+  }
+]

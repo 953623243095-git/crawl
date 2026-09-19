@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Furbabies",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store, Dog breeder, Dog cafe, Dog day care center, Dog trainer, Dog walker, Pet boarding service, Pet groomer, Pet sitter",
+    "pincode": "302019",
+    "phone_number": "+91 85600 60054",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "plot number 166 , gali number 2, Sirsi Rd, Panchyawala, Jaipur, Rajasthan 302034",
+    "area": "Moti Nagar, Nityanand Nagar, Panchyawala",
+    "latitude": 26.9054714,
+    "longitude": 75.7496554,
+    "place_id": "ChIJ_waTfz61bTkR0THkHkJroKI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_waTfz61bTkR0THkHkJroKI",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:08:35"
+  },
+  {
+    "business_name": "Dog n Pups",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store, Pet groomer",
+    "pincode": "302019",
+    "phone_number": "+91 93524 33825",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop no .20 Tamanna tower, Amrapali Marg, Vaishali Nagar, Jaipur, Rajasthan 302021",
+    "area": "B Block, Vaishali Nagar",
+    "latitude": 26.9112756,
+    "longitude": 75.73078079999999,
+    "place_id": "ChIJkX07fK-zbTkRQ5acxl2e_qM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkX07fK-zbTkRQ5acxl2e_qM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:08:38"
+  }
+]

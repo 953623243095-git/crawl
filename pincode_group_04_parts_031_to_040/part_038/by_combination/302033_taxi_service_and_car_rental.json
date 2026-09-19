@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaipur tours taxi",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "302033",
+    "phone_number": "+91 89491 55151",
+    "website": "https://www.jaipurtourstaxi.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "105/66, Kumbha Marg, Sector 10, Sector 6, Pratap Nagar, Jaipur, Rajasthan 302033",
+    "area": "Sector 10, Sector 6, Pratap Nagar",
+    "latitude": 26.7974547,
+    "longitude": 75.8204107,
+    "place_id": "ChIJdfsQJ8zJbTkRm8vF0adWF3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdfsQJ8zJbTkRm8vF0adWF3o",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:27:27"
+  },
+  {
+    "business_name": "Hello My Cab -Taxi service in jaipur",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Tour operator",
+    "pincode": "302033",
+    "phone_number": "N/A",
+    "website": "http://hellomycabs.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Plot no 5, Chinab Apartment Rd, Sector 28, Pratap Nagar, Jaipur, Rajasthan 302033",
+    "area": "Sector 28, Pratap Nagar",
+    "latitude": 26.7988459,
+    "longitude": 75.8461318,
+    "place_id": "ChIJ7R8iEofJbTkRXDR9X-OyTHk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7R8iEofJbTkRXDR9X-OyTHk",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:27:27"
+  }
+]

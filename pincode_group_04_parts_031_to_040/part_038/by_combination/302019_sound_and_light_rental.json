@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VIRTUAL GRAPHICS",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "Audiovisual equipment rental service",
+    "all_categories": "Audiovisual equipment rental service, Advertising agency, Audio visual equipment supplier, Event management company, Event planner, Event technology service, Exhibition planner, Wedding planner, Wedding service",
+    "pincode": "302019",
+    "phone_number": "+91 83850 37706",
+    "website": "https://www.virtualgraphics.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Plot No. F - 40, Kirti Sagar F Block, Vande Mataram Marg, near Bharat Mata Circle, Manyawas, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Manyawas, Mansarovar",
+    "latitude": 26.8606421,
+    "longitude": 75.7336776,
+    "place_id": "ChIJmbYOSSW0bTkRTaouypsrTMQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmbYOSSW0bTkRTaouypsrTMQ",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:09:34"
+  },
+  {
+    "business_name": "Oskillo Studio",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "Video production service",
+    "all_categories": "Video production service",
+    "pincode": "302019",
+    "phone_number": "+91 96101 80066",
+    "website": "https://oskillo.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "3rd floor, Vr Theme Park, 1/9, Gandhi Path Rd, Vaishali Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "Vaishali Nagar",
+    "latitude": 26.9058879,
+    "longitude": 75.7368431,
+    "place_id": "ChIJA1y-nAC1bTkR7vloBeo1roQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA1y-nAC1bTkR7vloBeo1roQ",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:09:34"
+  }
+]

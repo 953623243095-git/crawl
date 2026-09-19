@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neha Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "302031",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "54, Station Rd, Painter Colony, Nahari Ka Naka, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302016",
+    "area": "Painter Colony, Nahari Ka Naka",
+    "latitude": 26.9331854,
+    "longitude": 75.8048884,
+    "place_id": "ChIJX5scOpyzbTkReA6k_F8I57s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX5scOpyzbTkReA6k_F8I57s",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:25:05"
+  },
+  {
+    "business_name": "Vashisth Nursing Home Care",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Home health care service",
+    "all_categories": "Home health care service",
+    "pincode": "302031",
+    "phone_number": "+91 93093 05777",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 70,
+    "address": "p.no, 26, Ganesh Vihar, near Royal International School, Jamdoli, Jaipur, Rajasthan 302031",
+    "area": "Bharat Vihar, Jamdoli",
+    "latitude": 26.8972299,
+    "longitude": 75.8913267,
+    "place_id": "ChIJ1_Ru6-C3bTkR40r39lxO99Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1_Ru6-C3bTkR40r39lxO99Q",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:25:09"
+  }
+]

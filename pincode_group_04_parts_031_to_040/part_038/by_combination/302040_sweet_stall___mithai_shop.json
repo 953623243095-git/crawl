@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Simla Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "302040",
+    "phone_number": "+91 98148 30006",
+    "website": "http://www.simlasweets.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "41 Main Market, Nangal, Punjab 140124",
+    "area": "DD block",
+    "latitude": 31.3881333,
+    "longitude": 76.3756413,
+    "place_id": "ChIJ26xsW6zNGjkRIW_HFamnZr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ26xsW6zNGjkRIW_HFamnZr4",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:38:56"
+  },
+  {
+    "business_name": "Kesri sweet shop",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "302040",
+    "phone_number": "+91 188 722 2202",
+    "website": "https://www.instagram.com/kesrisweets?igsh=MTluN3FzZjV1NWtyag%3D%3D&utm_source=qr",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Naya Nangal, Punjab 140126",
+    "area": "302040",
+    "latitude": 31.387908799999998,
+    "longitude": 76.3586152,
+    "place_id": "ChIJydcw2QnPGjkR0gPjdmBUGRc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJydcw2QnPGjkR0gPjdmBUGRc",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:38:56"
+  }
+]

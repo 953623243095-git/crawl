@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "P&R Food and Herbs",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Herbal medicine store",
+    "all_categories": "Herbal medicine store",
+    "pincode": "302021",
+    "phone_number": "+91 96644 86683",
+    "website": "https://pandrfood.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "17-A, Vashistha Marg, Khatipura Rd, Pratap Nagar, Jaipur, Rajasthan 302021",
+    "area": "Pratap Nagar",
+    "latitude": 26.921689999999998,
+    "longitude": 75.7486189,
+    "place_id": "ChIJA3P7PYCzbTkRsVohbSYQS3U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA3P7PYCzbTkRsVohbSYQS3U",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:13:31"
+  },
+  {
+    "business_name": "Yogi Globals",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Exporter",
+    "pincode": "302021",
+    "phone_number": "+91 78777 77060",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 40,
+    "address": "Yogi Globals, C-4/152, Sector-4, Chitrakoot Scheme, Vaishali Nagar, Jaipur, Rajasthan 302021",
+    "area": "Vaishali Nagar",
+    "latitude": 26.8990671,
+    "longitude": 75.73350219999999,
+    "place_id": "ChIJPUh9Kpa0bTkRF8AyAtOrRx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPUh9Kpa0bTkRF8AyAtOrRx0",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:13:32"
+  }
+]

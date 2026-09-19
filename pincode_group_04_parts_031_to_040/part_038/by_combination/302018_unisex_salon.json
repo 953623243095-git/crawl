@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Look Unisex Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Barber shop, Bridal shop, Hair extension technician, Hair replacement service, Make-up artist, Skin care clinic",
+    "pincode": "302018",
+    "phone_number": "+91 97854 40315",
+    "website": "https://www.mrnewlook.in/",
+    "rating": 4.7,
+    "reviews_count": 155,
+    "address": "16 Kailashpuri, Tonk Rd, opp. Khandaka hospital, Gopalpura Mode, Jaipur, Rajasthan 302018",
+    "area": "Gopalpura Mode, Kailash Puri Colony",
+    "latitude": 26.856768499999998,
+    "longitude": 75.79610269999999,
+    "place_id": "ChIJeTyzMWe1bTkRSajBnhEr3YQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeTyzMWe1bTkRSajBnhEr3YQ",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:07:28"
+  },
+  {
+    "business_name": "DYD UNISEX SALON",
+    "search_category": "Unisex Salon",
+    "primary_category": "Eyelash salon",
+    "all_categories": "Eyelash salon",
+    "pincode": "302018",
+    "phone_number": "+91 96670 89330",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gopalpura Bypass Rd, Sona Bari Colony, Dayal Nagar, gopalpur mode, Jaipur, Rajasthan 303006",
+    "area": "Sona Bari Colony, Dayal Nagar, gopalpur mode",
+    "latitude": 26.873292199999998,
+    "longitude": 75.7806616,
+    "place_id": "ChIJzToWDVm1bTkR3yjqggvqglo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzToWDVm1bTkR3yjqggvqglo",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:07:28"
+  }
+]

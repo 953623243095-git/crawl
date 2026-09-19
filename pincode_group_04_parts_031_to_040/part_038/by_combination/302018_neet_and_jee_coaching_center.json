@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Elixir",
+    "search_category": "NEET and JEE Coaching Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center, Educational institution, Training center, Tutoring service",
+    "pincode": "302018",
+    "phone_number": "+91 74138 41999",
+    "website": "https://theelixir.websarathi.in/",
+    "rating": 4.9,
+    "reviews_count": 66,
+    "address": "The Elixir, 52/191, VT Rd, Ward 27, Mansarovar Sector 5, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Ward 27, Mansarovar Sector 5, Mansarovar",
+    "latitude": 26.8655975,
+    "longitude": 75.7687981,
+    "place_id": "ChIJiahCKlK1bTkRLX2_0uUZwr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiahCKlK1bTkRLX2_0uUZwr4",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:07:47"
+  },
+  {
+    "business_name": "Career Point Jaipur",
+    "search_category": "NEET and JEE Coaching Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center",
+    "pincode": "302018",
+    "phone_number": "+91 141 276 2774",
+    "website": "http://careerpoint.ac.in/center/jaipur",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "B-28, Gopalpura Bypass Rd, 10-B Scheme, Triveni Nagar, Arjun Nagar, Jaipur, Rajasthan 302018",
+    "area": "10-B Scheme, Triveni Nagar, Arjun Nagar",
+    "latitude": 26.872642199999998,
+    "longitude": 75.77710379999999,
+    "place_id": "ChIJq6qqqkm0bTkRI9LotB2Ebkg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqkm0bTkRI9LotB2Ebkg",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:07:48"
+  }
+]

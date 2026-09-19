@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr BMSharma",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "302016",
+    "phone_number": "+91 94140 52252",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 9,
+    "address": "F-88, Major Shaitan Singh Colony, Vidyadhar Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302016",
+    "area": "Major Shaitan Singh Colony, Vidyadhar Nagar",
+    "latitude": 26.948697199999998,
+    "longitude": 75.794617,
+    "place_id": "ChIJcXNu9AOzbTkRl0C2vmY7uh4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcXNu9AOzbTkRl0C2vmY7uh4",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:02:58"
+  },
+  {
+    "business_name": "Dr. Dinesh Agarwal ENT",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "302016",
+    "phone_number": "+91 97992 97081",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 48,
+    "address": "Sector 8 Main Rd, Sector 8, Sector 5, Vidyadhar Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302032",
+    "area": "Sector 8, Sector 5, Vidyadhar Nagar",
+    "latitude": 26.9620553,
+    "longitude": 75.7899879,
+    "place_id": "ChIJmb20jZqzbTkRryqYUeQBSxA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmb20jZqzbTkRryqYUeQBSxA",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:02:58"
+  }
+]

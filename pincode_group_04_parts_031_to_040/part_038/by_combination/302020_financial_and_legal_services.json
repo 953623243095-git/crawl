@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LAWPROCTOR",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Law firm",
+    "all_categories": "Law firm, Criminal justice attorney, Tax attorney",
+    "pincode": "302020",
+    "phone_number": "+91 83022 04007",
+    "website": "https://www.lawproctor.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "106/160, Vijay Path, New, New Sanganer Rd, near St. Wilfred's College, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Sector 101, Sector 106, Mansarovar",
+    "latitude": 26.8470792,
+    "longitude": 75.7646587,
+    "place_id": "ChIJZVrzZQ21bTkRh2Hd2TG3X3M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZVrzZQ21bTkRh2Hd2TG3X3M",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:12:03"
+  },
+  {
+    "business_name": "LEGALMAN JAIPUR OFFICE",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant",
+    "pincode": "302020",
+    "phone_number": "+91 99833 90888",
+    "website": "https://www.legalman.in/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "G-1, Plot No. 25, Satya Colony, Ajmer Rd, Heerapura, Jaipur, Rajasthan 302021",
+    "area": "Heerapura, Tagore Nagar",
+    "latitude": 26.892579899999998,
+    "longitude": 75.7367398,
+    "place_id": "ChIJN5lxAT21bTkRDItQ4bU8_YY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN5lxAT21bTkRDItQ4bU8_YY",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:12:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "YAKUB FISH CENTRE",
+    "search_category": "Fish Market",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "302003",
+    "phone_number": "+91 99506 59020",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No. 12, Fish Market, Luharo Ka Khura, near Qamar Chock, Ghat Gate, Ghat Gate Bazar, Pink City, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302003",
+    "area": "Ghat Gate, Ghat Gate Bazar, Pink City",
+    "latitude": 26.9179927,
+    "longitude": 75.83455479999999,
+    "place_id": "ChIJG4WcCv23bTkRyfuMU844FF0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG4WcCv23bTkRyfuMU844FF0",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:48:24"
+  },
+  {
+    "business_name": "Exotic mart",
+    "search_category": "Fish Market",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "302003",
+    "phone_number": "+91 91160 20565",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Gali Number 2, opp. Hotel dodas palace, Raja Park, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302004",
+    "area": "Raja Park",
+    "latitude": 26.8952435,
+    "longitude": 75.82688329999999,
+    "place_id": "ChIJdzUTVpS2bTkRsOMzSqQhnp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdzUTVpS2bTkRsOMzSqQhnp4",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:48:24"
+  }
+]

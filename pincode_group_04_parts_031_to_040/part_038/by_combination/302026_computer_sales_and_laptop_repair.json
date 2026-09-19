@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Computer Plus",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service",
+    "pincode": "302026",
+    "phone_number": "+91 99283 24379",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ashok hospital ke piche, Neer Sagar Market, Bhakrota, Jaipur, Rajasthan 302026",
+    "area": "Neer Sagar Market, Bhakrota",
+    "latitude": 26.871181099999998,
+    "longitude": 75.6951268,
+    "place_id": "ChIJya6UyS9LbDkRPjy_XbEpHXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJya6UyS9LbDkRPjy_XbEpHXw",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:17:56"
+  },
+  {
+    "business_name": "Priya Communication",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "302026",
+    "phone_number": "+91 93142 41980",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Teja Ji Mandir, near 29 No Bus Stand, Bhakrota, Jaipur, Rajasthan 302026",
+    "area": "Bhakrota",
+    "latitude": 26.8714206,
+    "longitude": 75.697158,
+    "place_id": "ChIJk60thiRLbDkRNyGUb2qR8fM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk60thiRLbDkRNyGUb2qR8fM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:17:56"
+  }
+]

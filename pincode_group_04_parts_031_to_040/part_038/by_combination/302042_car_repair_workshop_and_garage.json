@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAI AUTO REPAIR",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "302042",
+    "phone_number": "+91 99967 37167",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jagadhri, Haryana 135003",
+    "area": "302042",
+    "latitude": 30.1724085,
+    "longitude": 77.3136181,
+    "place_id": "ChIJx32LbJL7DjkRXpOHOfTNWmo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx32LbJL7DjkRXpOHOfTNWmo",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:43:21"
+  },
+  {
+    "business_name": "JAI MARKANDA AUTO WORKS",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "302042",
+    "phone_number": "+91 98886 17036",
+    "website": "https://www.instagram.com/jaimarkanda?igsh=dHBmYjdseWl1MGJt",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Srinagar - Kanyakumari Hwy, Kishan Garh, Shahbad, Mohanpur, Haryana 136135",
+    "area": "Kishan Garh",
+    "latitude": 30.139408099999997,
+    "longitude": 76.86803549999999,
+    "place_id": "ChIJo-U4MPRJDjkRk3SwIWJzf4I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo-U4MPRJDjkRk3SwIWJzf4I",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:43:21"
+  }
+]

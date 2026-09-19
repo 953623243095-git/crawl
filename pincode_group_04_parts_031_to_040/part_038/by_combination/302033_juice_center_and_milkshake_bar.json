@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Ram Juice Corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "302033",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1, Mall Rd, Sector-3, Ambabari, Naya Khera, Vidyadhar Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302039",
+    "area": "Sector-3, Ambabari, Naya Khera, Vidyadhar Nagar",
+    "latitude": 26.955319,
+    "longitude": 75.77914539999999,
+    "place_id": "ChIJexXawrazbTkRdFZgJIyRr58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJexXawrazbTkRdFZgJIyRr58",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:26:53"
+  },
+  {
+    "business_name": "Sugarcane juice shop",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "302033",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 41,
+    "address": "A-414, Shivanand Marg, Block-B, Sector 4, Malviya Nagar, Jaipur, Rajasthan 302017",
+    "area": "Block-B, Sector 4, Malviya Nagar",
+    "latitude": 26.8511158,
+    "longitude": 75.819058,
+    "place_id": "ChIJM3KrpRK2bTkRBE0iM9M_Mog",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM3KrpRK2bTkRBE0iM9M_Mog",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:26:53"
+  }
+]

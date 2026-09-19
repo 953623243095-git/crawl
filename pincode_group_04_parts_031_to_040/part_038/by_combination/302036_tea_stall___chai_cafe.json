@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Marwadi Chaska",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "302036",
+    "phone_number": "+91 95496 58518",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "320, Old Amer Rd, near Natwara House, Subhash Chowk, Pink City, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302002",
+    "area": "Subhash Chowk, Pink City",
+    "latitude": 26.9315844,
+    "longitude": 75.8320439,
+    "place_id": "ChIJR2Za4_qxbTkRb9Lzg3-uRTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR2Za4_qxbTkRb9Lzg3-uRTk",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:30:59"
+  },
+  {
+    "business_name": "Best Chai in Jaipur",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "302036",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WR9G+GCP, MSB Ka Rasta, Johri Bazar, Ghat Darwaza, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302003",
+    "area": "Johri Bazar, Ghat Darwaza",
+    "latitude": 26.918841099999998,
+    "longitude": 75.82602829999999,
+    "place_id": "ChIJCTdBXQC3bTkRd8OjfTHSjGA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCTdBXQC3bTkRd8OjfTHSjGA",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:31:01"
+  }
+]

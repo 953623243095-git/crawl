@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Sitikanth SPA",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "302042",
+    "phone_number": "+91 96363 80697",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mahindra world city, Jhai road, Khatwara, Kalwara, Bhankrota, Rajasthan 303007",
+    "area": "Khatwara",
+    "latitude": 26.8189352,
+    "longitude": 75.6544193,
+    "place_id": "ChIJsTLgl7ZLbDkRM9hAOblMD5M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsTLgl7ZLbDkRM9hAOblMD5M",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:43:41"
+  },
+  {
+    "business_name": "REST & RELAX SPA",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "302042",
+    "phone_number": "+91 91668 61171",
+    "website": "https://bodymassagecenterinjaipur.nowfloats.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop No, Hanumant Tower, G 29, Sector 2, Central Spine, Vidyadhar Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302039",
+    "area": "Sector 2, Central Spine, Vidyadhar Nagar",
+    "latitude": 26.9594749,
+    "longitude": 75.77894309999999,
+    "place_id": "ChIJj_YoaAGzbTkRM3XbzvuITxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj_YoaAGzbTkRM3XbzvuITxk",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:43:44"
+  }
+]

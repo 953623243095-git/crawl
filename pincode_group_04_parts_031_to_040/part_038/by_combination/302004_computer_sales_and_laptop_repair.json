@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laptop Adda",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "302004",
+    "phone_number": "+91 63673 72712",
+    "website": "http://www.laptopadda.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Tonk Rd, opp. Glass factory, opp. Gulabchand building, Mansingh Pura, Tonk Phatak, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302016",
+    "area": "Mansingh Pura, Tonk Phatak",
+    "latitude": 26.871484199999998,
+    "longitude": 75.7970881,
+    "place_id": "ChIJEd7LyPi3bTkRoH2l3Yr3uzY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEd7LyPi3bTkRoH2l3Yr3uzY",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:51:52"
+  },
+  {
+    "business_name": "IGOODS STORE",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer accessories store, Computer consultant, Computer Hardware Company, Computer networking service, Computer repair service, Computer service, Computer software store, Computer Wholesaler, Used computer store",
+    "pincode": "302004",
+    "phone_number": "+91 96499 89999",
+    "website": "http://www.igoods.co.in/",
+    "rating": 4.2,
+    "reviews_count": 73,
+    "address": "Shop No-9, Crystal Court Mall, Basement, Jawahar Lal Nehru Marg, near GT Central and ICICI Bank, Malviya Nagar, Jaipur, Rajasthan 302017",
+    "area": "D-Block, Crystal Court, Malviya Nagar",
+    "latitude": 26.8563032,
+    "longitude": 75.8067478,
+    "place_id": "ChIJc9NDx6q1bTkR5m9HjFEj0BI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc9NDx6q1bTkR5m9HjFEj0BI",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:51:54"
+  }
+]

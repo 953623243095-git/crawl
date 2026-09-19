@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Shyam Store",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Plastic Products Supplier",
+    "pincode": "302029",
+    "phone_number": "+91 99506 66637",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shree Shayam Store, 234, New Sanganer Rd, Sachivalaya Vihar, Kalyanpura, Sanganer, Jaipur, Rajasthan 302029",
+    "area": "Sachivalaya Vihar, Kalyanpura, Sanganer",
+    "latitude": 26.8276488,
+    "longitude": 75.7701163,
+    "place_id": "ChIJ-w-Wo-u1bTkR4oKH53-pa-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-w-Wo-u1bTkR4oKH53-pa-I",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:23:38"
+  },
+  {
+    "business_name": "Balaji traders",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler, General store, Jewelry store",
+    "pincode": "302029",
+    "phone_number": "+91 97820 03341",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Malpura gate, Sanganer, Jaipur, Rajasthan 302029",
+    "area": "Raigarh Chhota Mohalla, Dada Gurudev Nagar, Sanganer",
+    "latitude": 26.812038899999997,
+    "longitude": 75.78291589999999,
+    "place_id": "ChIJQ9ofRbLLbTkRy_XuXKxENKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ9ofRbLLbTkRy_XuXKxENKQ",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:23:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "White Kitchens",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Takeout restaurant",
+    "all_categories": "Takeout restaurant",
+    "pincode": "302003",
+    "phone_number": "+91 95632 51111",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Sahakar Marg, near Imli Phatak, Ambedkar Nagar, Lal Kothi Scheme, Tonk Phatak, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302015",
+    "area": "Ambedkar Nagar, Lal Kothi Scheme, Tonk Phatak",
+    "latitude": 26.8882567,
+    "longitude": 75.79525249999999,
+    "place_id": "ChIJ3eGr6761bTkRjrtBHpk58LE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3eGr6761bTkRjrtBHpk58LE",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:48:33"
+  },
+  {
+    "business_name": "Kitchen No.808 (The cloud kitchen)",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Takeout restaurant",
+    "all_categories": "Takeout restaurant",
+    "pincode": "302003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Urbana jewels, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302029",
+    "area": "302003",
+    "latitude": 26.793097099999997,
+    "longitude": 75.75353,
+    "place_id": "ChIJCQBI4TfLbTkR7wgGxIiu9Sg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCQBI4TfLbTkR7wgGxIiu9Sg",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:48:34"
+  }
+]

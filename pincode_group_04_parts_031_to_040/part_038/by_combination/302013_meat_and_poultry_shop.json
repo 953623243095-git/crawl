@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pink City Mutton Chicken And Fish",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "302013",
+    "phone_number": "+91 75683 16446",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "11, Naradpura Rd, Kunda, Amer, Jaipur, Jaipur Heritage (M Corp.) (Part), Rajasthan 302028",
+    "area": "Kunda, Amer",
+    "latitude": 26.9991775,
+    "longitude": 75.88806679999999,
+    "place_id": "ChIJsR0iotSxbTkRMQnCZ3T5bbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsR0iotSxbTkRMQnCZ3T5bbU",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:58:28"
+  },
+  {
+    "business_name": "New Jaipur Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "302013",
+    "phone_number": "+91 97829 52333",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 33, Sector 6, Malviya Nagar, Jaipur, Rajasthan 302018",
+    "area": "Sector 6, Malviya Nagar",
+    "latitude": 26.8445668,
+    "longitude": 75.8084367,
+    "place_id": "ChIJYxE5vEy3bTkRkStCOjmyCus",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYxE5vEy3bTkRkStCOjmyCus",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:58:30"
+  }
+]

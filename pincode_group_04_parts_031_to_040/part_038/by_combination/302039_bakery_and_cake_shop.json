@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Crust",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "302039",
+    "phone_number": "+91 70235 55541",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 835,
+    "address": "Mall Road Shopping Complex, kheda Sector-3, Naya, B 12, Mall Rd, SONI KA BAG, Vidyadhar Nagar, Jaipur, Rajasthan 302039",
+    "area": "Vijay Vihar Colony, SONI KA BAG, Vidyadhar Nagar",
+    "latitude": 26.9521692,
+    "longitude": 75.7782643,
+    "place_id": "ChIJsYEYUrezbTkR81zYUZXbwx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsYEYUrezbTkR81zYUZXbwx0",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:36:56"
+  },
+  {
+    "business_name": "Soni Cake And Bake",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "302039",
+    "phone_number": "+91 93525 86138",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 24,
+    "address": "Ga-120 bhawani nagar, Murlipura, Jaipur, Rajasthan 302039",
+    "area": "Vikas Nagar, Murlipura",
+    "latitude": 26.9629253,
+    "longitude": 75.7673983,
+    "place_id": "ChIJLRfC81qzbTkRyZ6btUk_yT8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLRfC81qzbTkRyZ6btUk_yT8",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:36:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neelam auto parts",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "302016",
+    "phone_number": "+91 90010 31278",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "A-4, near pnb atm, Sikar House, Subhash Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302016",
+    "area": "Sikar House, Subhash Nagar",
+    "latitude": 26.9315313,
+    "longitude": 75.80349559999999,
+    "place_id": "ChIJmf-4qlmzbTkRfX3-cLuImWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmf-4qlmzbTkRfX3-cLuImWk",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:03:01"
+  },
+  {
+    "business_name": "Saini Bike Repairing",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "302016",
+    "phone_number": "+91 98294 58008",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "WQPR+R35, SC Rd, Pani Pech, Indra Colony, Bani Park, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302016",
+    "area": "Pani Pech, Indra Colony, Bani Park",
+    "latitude": 26.937124999999998,
+    "longitude": 75.7904928,
+    "place_id": "ChIJsU8jPwCzbTkRY4VpVitZ7y4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsU8jPwCzbTkRY4VpVitZ7y4",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:03:01"
+  }
+]

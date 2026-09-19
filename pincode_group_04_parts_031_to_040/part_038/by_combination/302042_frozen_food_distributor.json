@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Green Basket",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier, Fast food restaurant, Food and beverage consultant, Food Processing Company, Frozen food manufacturer, Frozen food store, Wholesale Food Store",
+    "pincode": "302042",
+    "phone_number": "+91 87790 64682",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 115,
+    "address": "Mafco Market, A/4, opp. Yogi Executive, Sector 18, Turbhe, Navi Mumbai, Maharashtra 400705",
+    "area": "Sector 18, Turbhe",
+    "latitude": 19.0704259,
+    "longitude": 73.0072004,
+    "place_id": "ChIJC6XrbYzB5zsRDdhVXiR1W68",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC6XrbYzB5zsRDdhVXiR1W68",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:42:53"
+  },
+  {
+    "business_name": "Budget Basket",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "302042",
+    "phone_number": "+91 81043 88381",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Shop no 26, Maryland Building, Sector 23, Darave Village, Sector 28, Nerul, Navi Mumbai, Maharashtra 400706",
+    "area": "Sector 23, Darave Village, Sector 28, Nerul",
+    "latitude": 19.028247099999998,
+    "longitude": 73.0179744,
+    "place_id": "ChIJ6eVZ0JTD5zsRbSsKMdaYUTI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6eVZ0JTD5zsRbSsKMdaYUTI",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:42:53"
+  }
+]

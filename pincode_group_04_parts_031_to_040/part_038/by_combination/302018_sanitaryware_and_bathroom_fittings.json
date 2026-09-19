@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahaveer Sanitary Store",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Bathroom supply store",
+    "all_categories": "Bathroom supply store",
+    "pincode": "302018",
+    "phone_number": "+91 93515 10545",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "54/217, Madhyam Marg, Mansarover, Mansarovar Sector 5, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Mansarover, Mansarovar Sector 5, Mansarovar",
+    "latitude": 26.8625938,
+    "longitude": 75.7617889,
+    "place_id": "ChIJ55f7JaS1bTkRssQif1sO_mY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ55f7JaS1bTkRssQif1sO_mY",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:07:17"
+  },
+  {
+    "business_name": "Coco Bathware",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Sanitation service",
+    "all_categories": "Sanitation service",
+    "pincode": "302018",
+    "phone_number": "+91 73740 00002",
+    "website": "http://cocobathware.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "RIDHI SIDHI CHORAHA, Mansarovar Link Rd, JDA Market, Keshav Vihar, Arjun Nagar, Jaipur, Rajasthan 302015",
+    "area": "JDA Market, Keshav Vihar, Arjun Nagar",
+    "latitude": 26.873161099999997,
+    "longitude": 75.7758003,
+    "place_id": "ChIJ97mNvae1bTkR_CPAgZSLYWI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ97mNvae1bTkR_CPAgZSLYWI",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:07:18"
+  }
+]

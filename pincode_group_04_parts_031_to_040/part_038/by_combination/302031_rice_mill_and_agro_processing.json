@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mantri Food Industries",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office, FMCG Manufacturer",
+    "pincode": "302031",
+    "phone_number": "+91 86192 55312",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "Plot no G-1, 458 C, Road No. 12, near Priya Dharma kanta, Vishwakarma Industrial Area, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302013",
+    "area": "Vishwakarma Industrial Area",
+    "latitude": 26.9917563,
+    "longitude": 75.7755955,
+    "place_id": "ChIJy4rVPKqzbTkRRmQu68GavbA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy4rVPKqzbTkRRmQu68GavbA",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:26:25"
+  },
+  {
+    "business_name": "Nirankar General Store",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store, Flour mill, Print shop",
+    "pincode": "302031",
+    "phone_number": "+91 97998 78458",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7mb/254, behind Girnar Apartment, Indira Nagar, Sector 7, Ghati Karolan, Jaipur, Rajasthan 302017",
+    "area": "Indira Nagar, Sector 7, Ghati Karolan",
+    "latitude": 26.8456847,
+    "longitude": 75.8964056,
+    "place_id": "ChIJxReKBLa3bTkRqnaZukITXUc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxReKBLa3bTkRqnaZukITXUc",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:26:25"
+  }
+]

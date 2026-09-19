@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarvanand Beauty Store",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler",
+    "pincode": "302005",
+    "phone_number": "+91 95557 37888",
+    "website": "https://www.sarvanandcosmetics.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "32, Singalpur Village, West Shalimar Bagh, Shalimar Bagh, New Delhi, Delhi, 110088",
+    "area": "Singalpur Village, West Shalimar Bagh, Shalimar Bagh",
+    "latitude": 28.7056746,
+    "longitude": 77.1554159,
+    "place_id": "ChIJz91cbYoBDTkRDq9caqel0Yg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz91cbYoBDTkRDq9caqel0Yg",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:53:28"
+  },
+  {
+    "business_name": "Jainish Collection",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Beauty product supplier",
+    "all_categories": "Beauty product supplier, General store",
+    "pincode": "302005",
+    "phone_number": "+91 94140 74826",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "S. No. 3, 25, Kiran Path, Crossing, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Crossing, Mansarovar",
+    "latitude": 26.867668799999997,
+    "longitude": 75.7571499,
+    "place_id": "ChIJW-0AzAG1bTkRMyBjbcoUz94",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW-0AzAG1bTkRMyBjbcoUz94",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:53:29"
+  }
+]

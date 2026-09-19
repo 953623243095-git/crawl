@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal sports flooring",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "302036",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2Q4R+5CX, Vishwakarma Industrial Area, Jaipur, Jaipur Greater (M Corp.) (Part), Rajasthan 302013",
+    "area": "Vishwakarma Industrial Area",
+    "latitude": 27.0054844,
+    "longitude": 75.79111259999999,
+    "place_id": "ChIJqSASGQCzbTkRfBFidUrBcmo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqSASGQCzbTkRfBFidUrBcmo",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:32:16"
+  },
+  {
+    "business_name": "Shri Hukam Singh Cricket Academy & Ground",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Cricket ground",
+    "all_categories": "Cricket ground",
+    "pincode": "302036",
+    "phone_number": "+91 80033 33914",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 277,
+    "address": "Govind sarover tempal, Govind Sarovar, Hathoj, Rajasthan 302044",
+    "area": "302036",
+    "latitude": 26.9638101,
+    "longitude": 75.67832849999999,
+    "place_id": "ChIJuc8CGgVNbDkRiq46Xknjlik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuc8CGgVNbDkRiq46Xknjlik",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:32:17"
+  }
+]

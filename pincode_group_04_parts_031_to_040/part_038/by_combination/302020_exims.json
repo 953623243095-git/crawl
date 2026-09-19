@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Perfect Look",
+    "search_category": "EXIMS",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Wholesaler",
+    "pincode": "302020",
+    "phone_number": "+91 80 4763 0975",
+    "website": "http://perfectlookjpr.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Patel Bhawan, Thana, New Sanganer Rd, opp. Saroj Nursery, Sanganer, Jaipur, Rajasthan 302029",
+    "area": "Sanganer",
+    "latitude": 26.8186312,
+    "longitude": 75.7934322,
+    "place_id": "ChIJz_YwKW3KbTkRqs8_dNx8EiI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz_YwKW3KbTkRqs8_dNx8EiI",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:12:14"
+  },
+  {
+    "business_name": "Arvind exim Janki",
+    "search_category": "EXIMS",
+    "primary_category": "Fabric store",
+    "all_categories": "Fabric store",
+    "pincode": "302020",
+    "phone_number": "+91 98281 41597",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "RQ26+34R, Kankha Ki Dhani, Jaipur, Rajasthan 302029",
+    "area": "Kankha Ki Dhani",
+    "latitude": 26.800231099999998,
+    "longitude": 75.7602603,
+    "place_id": "ChIJS7F6OuzLbTkRVMB0SmcwqU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS7F6OuzLbTkRVMB0SmcwqU0",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:12:15"
+  }
+]

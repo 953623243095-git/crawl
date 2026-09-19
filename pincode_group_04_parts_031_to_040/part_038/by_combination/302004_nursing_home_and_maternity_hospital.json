@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HOPE Hospitals",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Children's hospital",
+    "all_categories": "Children's hospital, Maternity Centre, Neonatal physician",
+    "pincode": "302004",
+    "phone_number": "+91 73003 33666",
+    "website": "https://www.hopehospitaljaipur.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Jai Jawan Colony-II 8, टौन्क मार्ग Near Durga Pura, Flyover, Milap Nagar, Jaipur, Rajasthan 302018",
+    "area": "Jai Jawan Colony, Milap Nagar",
+    "latitude": 26.853703,
+    "longitude": 75.79505,
+    "place_id": "ChIJi72Ah03JbTkRJz3qKjLmQgE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi72Ah03JbTkRJz3qKjLmQgE",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:50:54"
+  },
+  {
+    "business_name": "Ghiya Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Fertility clinic, Obstetrician-gynecologist, Gynecologist, Women's health clinic",
+    "pincode": "302004",
+    "phone_number": "+91 99296 11882",
+    "website": "https://www.ghiyahospital.com/",
+    "rating": 4.7,
+    "reviews_count": 760,
+    "address": "Girdhar Marg, Sector 12 Rd, E-68, Malviya Nagar, Jaipur, Rajasthan 302017",
+    "area": "Siddharth Nagar, E-68, Malviya Nagar",
+    "latitude": 26.846686499999997,
+    "longitude": 75.8103446,
+    "place_id": "ChIJVVVVlV8cbDkR4o12YQcfDlo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVlV8cbDkR4o12YQcfDlo",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:50:54"
+  }
+]

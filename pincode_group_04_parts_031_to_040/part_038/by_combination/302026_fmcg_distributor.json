@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Clox",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Manufacturer",
+    "all_categories": "FMCG Manufacturer, Cleaning products supplier",
+    "pincode": "302026",
+    "phone_number": "+91 94140 60100",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "94, Govind Vihar, Hatoj - Kalwar - Jaipur Rd, Jaipur, Rajasthan 302044",
+    "area": "302026",
+    "latitude": 26.958522199999997,
+    "longitude": 75.6858862,
+    "place_id": "ChIJZ085dUFNbDkR1UOjLVsiV2o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ085dUFNbDkR1UOjLVsiV2o",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:16:32"
+  },
+  {
+    "business_name": "KK Natural Food Industries LLP",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Manufacturer",
+    "all_categories": "FMCG Manufacturer",
+    "pincode": "302026",
+    "phone_number": "+91 97837 83123",
+    "website": "http://www.kknaturalfood.com/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Khasra No 3156, 3157/515 Village Muhana, Sanganer, Jaipur, Rajasthan 303904",
+    "area": "Sanganer",
+    "latitude": 26.787140299999997,
+    "longitude": 75.7160615,
+    "place_id": "ChIJMSBb26DLbTkRlTC79suUKqg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMSBb26DLbTkRlTC79suUKqg",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:16:32"
+  }
+]

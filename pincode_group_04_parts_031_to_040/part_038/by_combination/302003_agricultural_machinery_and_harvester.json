@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vikas Agro Industries",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Construction equipment supplier",
+    "all_categories": "Construction equipment supplier",
+    "pincode": "302003",
+    "phone_number": "+91 96600 36668",
+    "website": "https://www.vikasagro.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G-1/86, Bhadharna extn, Vishwakarma Industrial Area, Jaipur, Jaipur Greater (M Corp.) (Part), Rajasthan 302013",
+    "area": "Bhadharna extn, Vishwakarma Industrial Area",
+    "latitude": 27.0045224,
+    "longitude": 75.7831301,
+    "place_id": "ChIJf4ZlK5uzbTkRaCDEr4flm-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf4ZlK5uzbTkRaCDEr4flm-o",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:50:10"
+  },
+  {
+    "business_name": "HIND Combine Harvesters",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Farm equipment supplier",
+    "all_categories": "Farm equipment supplier, Agricultural machinery manufacturer, Exporter",
+    "pincode": "302003",
+    "phone_number": "+91 98881 04333",
+    "website": "http://www.hindagro.net/",
+    "rating": 4,
+    "reviews_count": 20,
+    "address": "Military Area, Cantt. Road, Nabha, Punjab 147201",
+    "area": "302003",
+    "latitude": 30.3851759,
+    "longitude": 76.15389239999999,
+    "place_id": "ChIJa3FS0Ao5EDkR-s3RdObXJtM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa3FS0Ao5EDkR-s3RdObXJtM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:50:12"
+  }
+]

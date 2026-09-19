@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat Chicken Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat products store",
+    "all_categories": "Meat products store",
+    "pincode": "302020",
+    "phone_number": "+91 75686 11087",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Meat market, 4/226, Varun Path, Mansarovar Sector 31, Swarn Path, Mansarovar Sector 4, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Mansarovar Sector 31, Swarn Path, Mansarovar Sector 4, Mansarovar",
+    "latitude": 26.8682376,
+    "longitude": 75.75605039999999,
+    "place_id": "ChIJ06U31CW1bTkRpXqeRzi0fqM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ06U31CW1bTkRpXqeRzi0fqM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:10:28"
+  },
+  {
+    "business_name": "M.D poultry Farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "302020",
+    "phone_number": "+91 93512 66666",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 15,
+    "address": "Meeno ki dhani, Rajasthan 302026",
+    "area": "302020",
+    "latitude": 26.8868634,
+    "longitude": 75.6791795,
+    "place_id": "ChIJG84oZ_BLbDkRfkZw05ErWDo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG84oZ_BLbDkRfkZw05ErWDo",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:10:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Saree Stores",
+    "search_category": "Saree Showroom",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store, Bedding store",
+    "pincode": "302019",
+    "phone_number": "+91 77278 34150",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "shop 2, kpg prime 1, Plot 160, Ajmer Rd, near Jain mandir, near Apollo pharmacy, Doctors Colony, dcm, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "Doctors Colony, dcm",
+    "latitude": 26.8969204,
+    "longitude": 75.7443131,
+    "place_id": "ChIJURatrqu2bTkRFtvWTpRKVyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJURatrqu2bTkRFtvWTpRKVyQ",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:08:42"
+  },
+  {
+    "business_name": "Satyam Sarees Jaipur",
+    "search_category": "Saree Showroom",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store, Bridal shop",
+    "pincode": "302019",
+    "phone_number": "+91 98288 62555",
+    "website": "https://www.instagram.com/satyam_designs_official",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "SBI Square, D6-432, Chitrakoot Marg, Akruti Apartments, Vaishali Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "Akruti Apartments, Vaishali Nagar",
+    "latitude": 26.897228799999997,
+    "longitude": 75.73905789999999,
+    "place_id": "ChIJnaKfc5m1bTkRKF55-kbByAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnaKfc5m1bTkRKF55-kbByAE",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:08:42"
+  }
+]

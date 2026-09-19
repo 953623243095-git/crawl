@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Tiles Shoppe",
+    "search_category": "Tile and Marble Showroom",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store",
+    "pincode": "302042",
+    "phone_number": "+91 97988 55665",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 143,
+    "address": "Yashoda Complex, Dimna Rd, Shankoshai, Mango, Jamshedpur, Jharkhand 831012",
+    "area": "Shankoshai, Mango",
+    "latitude": 22.8292649,
+    "longitude": 86.22475899999999,
+    "place_id": "ChIJ4_7ZfwTj9TkRqmfhscuj4p8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4_7ZfwTj9TkRqmfhscuj4p8",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:43:32"
+  },
+  {
+    "business_name": "Tawakkal Tiles",
+    "search_category": "Tile and Marble Showroom",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store",
+    "pincode": "302042",
+    "phone_number": "+91 92705 65515",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 49,
+    "address": "Perfect Dharam Kata Chowk, Walgaon Rd, Paradise Colony, Amravati, Maharashtra 444601",
+    "area": "Paradise Colony",
+    "latitude": 20.9516875,
+    "longitude": 77.7396875,
+    "place_id": "ChIJPbbZ4rO81jsRRUtrg5amLbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPbbZ4rO81jsRRUtrg5amLbg",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:43:34"
+  }
+]

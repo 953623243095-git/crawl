@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naveen Electronics",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Appliance store",
+    "pincode": "302033",
+    "phone_number": "+91 98280 22441",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 113,
+    "address": "Shop No. 28 29, opp. Tonk Road, Sanganer, Pratap Nagar, Jaipur, Rajasthan 302033",
+    "area": "Sanganer, Pratap Nagar",
+    "latitude": 26.8083091,
+    "longitude": 75.8052517,
+    "place_id": "ChIJVVVVlV8cbDkRpNb85obs8LE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVlV8cbDkRpNb85obs8LE",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:28:46"
+  },
+  {
+    "business_name": "Packing store",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Packaging company",
+    "all_categories": "Packaging company",
+    "pincode": "302033",
+    "phone_number": "+91 63782 04636",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "75/197 sector 7 , near sheopur garh , pratap nagar, near sheopur, Sanganer, garh, Jaipur, Rajasthan 302033",
+    "area": "Ganesh Nagar, Sanganer, garh",
+    "latitude": 26.8094573,
+    "longitude": 75.819234,
+    "place_id": "ChIJ149WVK_JbTkRMJJ5uRFP25o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ149WVK_JbTkRMJJ5uRFP25o",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:28:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gurukul Computer Academy",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "302039",
+    "phone_number": "+91 96195 28456",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Plot No. 610 Shop No. 1 Near Mataji Mandir Road no. 9 VKIA Pratap Nagar Extension, Vaidji ka Chouraha, Murlipura, Jaipur, Rajasthan 302039",
+    "area": "Vishwakarma Industrial Area, Murlipura",
+    "latitude": 26.986902299999997,
+    "longitude": 75.76543459999999,
+    "place_id": "ChIJcR73kOmzbTkRXRhMVt2vh_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcR73kOmzbTkRXRhMVt2vh_A",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:38:08"
+  },
+  {
+    "business_name": "Samyak Computer Classes, Murlipura, Jaipur",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Training center",
+    "all_categories": "Training center, Coaching Center",
+    "pincode": "302039",
+    "phone_number": "+91 91051 06105",
+    "website": "https://www.samyakinfotech.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "C-35, near Shani Dev Mandir, Bank Colony, Murlipura Scheme, Murlipura, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302039",
+    "area": "Bank Colony, Murlipura Scheme, Murlipura",
+    "latitude": 26.9732675,
+    "longitude": 75.76188599999999,
+    "place_id": "ChIJpR3GYYOzbTkRDgmZoc4HDUY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpR3GYYOzbTkRDgmZoc4HDUY",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:38:09"
+  }
+]

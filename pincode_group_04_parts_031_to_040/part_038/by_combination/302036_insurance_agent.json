@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Insurance Basket",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance company",
+    "all_categories": "Insurance company, Service establishment, Financial planner, Health insurance agency, Insurance broker",
+    "pincode": "302036",
+    "phone_number": "+91 98733 24650",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Insurance Basket, 302036, India",
+    "area": "302036",
+    "latitude": 28.6773445,
+    "longitude": 77.2873188,
+    "place_id": "ChIJqeoWMWDyNKIROwrB-B-Cx4M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqeoWMWDyNKIROwrB-B-Cx4M",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:32:23"
+  },
+  {
+    "business_name": "Abhimanyu Insurance And Investment",
+    "search_category": "Insurance Agent",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service, Financial consultant, Financial planner",
+    "pincode": "302036",
+    "phone_number": "+91 80581 23560",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 12, Purani Chungi naka, Highway Royal City Market, Cera Tiles Street, Paldi Meena, Jaipur, Rajasthan 302031",
+    "area": "Paldi Meena",
+    "latitude": 26.880467399999997,
+    "longitude": 75.9097164,
+    "place_id": "ChIJ_3xR2Ha5bTkRP2zm2B-6tIg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_3xR2Ha5bTkRP2zm2B-6tIg",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:32:24"
+  }
+]

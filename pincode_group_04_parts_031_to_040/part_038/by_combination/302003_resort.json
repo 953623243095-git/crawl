@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "StayVista at Eleganza Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Cottage, Farmstay, Hotel",
+    "pincode": "302003",
+    "phone_number": "+91 81049 54254",
+    "website": "https://www.stayvista.com/villa/eleganza-resort",
+    "rating": 4.5,
+    "reviews_count": 143,
+    "address": "Jaisinghpura Khor Rd, near Jamdoli, Sumel, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302027",
+    "area": "Sumel",
+    "latitude": 26.9221304,
+    "longitude": 75.8978592,
+    "place_id": "ChIJF3X6uYi3bTkRybiWGNxBFyc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF3X6uYi3bTkRybiWGNxBFyc",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:49:35"
+  },
+  {
+    "business_name": "The Oberoi Rajvilas, Jaipur",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Resort hotel",
+    "pincode": "302003",
+    "phone_number": "+91 141 361 0101",
+    "website": "https://www.oberoihotels.com/hotels-in-jaipur-rajvilas-resort/?utm_source=GMBlisting&utm_medium=organic",
+    "rating": 4.7,
+    "reviews_count": 4216,
+    "address": "Babaji Ka Modh, Goner Rd, Jagdish Colony, Prem Nagar, Jaipur, Rajasthan 302031",
+    "area": "Jagdish Colony, Prem Nagar",
+    "latitude": 26.8761643,
+    "longitude": 75.882671,
+    "place_id": "ChIJvx8uaJy3bTkRjeNuvRMqPp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvx8uaJy3bTkRjeNuvRMqPp4",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:49:35"
+  }
+]

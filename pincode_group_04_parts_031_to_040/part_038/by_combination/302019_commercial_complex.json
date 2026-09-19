@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Urbanite developers",
+    "search_category": "Commercial Complex",
+    "primary_category": "Commercial real estate agency",
+    "all_categories": "Commercial real estate agency",
+    "pincode": "302019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Big Benn Tower, palika bazar, UG7, Swej Farm Rd, Shiva Colony, Govindpuri, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302019",
+    "area": "Shiva Colony, Govindpuri",
+    "latitude": 26.8908371,
+    "longitude": 75.7728341,
+    "place_id": "ChIJwQQ-YHu1bTkRvrRdgJ4s6DM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwQQ-YHu1bTkRvrRdgJ4s6DM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:10:20"
+  },
+  {
+    "business_name": "GCware Authorized Dealer - Kamal Sales",
+    "search_category": "Commercial Complex",
+    "primary_category": "Bathroom supply store",
+    "all_categories": "Bathroom supply store",
+    "pincode": "302019",
+    "phone_number": "+91 98290 14895",
+    "website": "https://www.gcware.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "New Sanganer Rd, near J C Automation, Gangaram Nagar, New Aatish Market, Shanthi Nagar, Mansarovar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302020",
+    "area": "Gangaram Nagar, New Aatish Market, Shanthi Nagar, Mansarovar",
+    "latitude": 26.8789788,
+    "longitude": 75.7597294,
+    "place_id": "ChIJUYpDtJi1bTkR2i_dI0muvTI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUYpDtJi1bTkR2i_dI0muvTI",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:10:22"
+  }
+]

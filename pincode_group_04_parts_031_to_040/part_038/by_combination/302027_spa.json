@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhavin spa",
+    "search_category": "Spa",
+    "primary_category": "Spa and health club",
+    "all_categories": "Spa and health club, Day spa, Facial spa, Foot massage parlor, Health resort, Massage spa, Massage therapist, Spa, Thai massage therapist, Wellness center",
+    "pincode": "302027",
+    "phone_number": "+91 95210 04414",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sp-36B, opp. Aarya Cemps 42, RIICO, Kukas, Jaipur, Rajasthan 302038",
+    "area": "RIICO",
+    "latitude": 27.032543099999998,
+    "longitude": 75.8950189,
+    "place_id": "ChIJGWwCTpCvbTkRJUg4jRJpLTI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGWwCTpCvbTkRJUg4jRJpLTI",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:19:34"
+  },
+  {
+    "business_name": "Spa In Jaipur",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "302027",
+    "phone_number": "N/A",
+    "website": "https://spaathomejaipur.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4th Floor, c.s.plaza, Vaishali Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "Vaishali Nagar",
+    "latitude": 26.9058243,
+    "longitude": 75.7361269,
+    "place_id": "ChIJ83W-hXe1bTkRm-U1bWnRxfg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ83W-hXe1bTkRm-U1bWnRxfg",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:19:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajputana Holidays",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator, Tour agency, Travel agency",
+    "pincode": "302036",
+    "phone_number": "+91 99288 81636",
+    "website": "https://rajputanaholidays.com/",
+    "rating": 4.7,
+    "reviews_count": 96,
+    "address": "280, Bharat Path , Green City 16 , Govindpura - Sirsi Link Road, Road, Govindpura, Kalwar, Jaipur, Rajasthan 302044",
+    "area": "Govindpura",
+    "latitude": 26.943503399999997,
+    "longitude": 75.69959109999999,
+    "place_id": "ChIJvbfoyqRNbDkRqVa8aZ-DqOM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvbfoyqRNbDkRqVa8aZ-DqOM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:31:36"
+  },
+  {
+    "business_name": "Rajasthan Travel Operator",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator",
+    "pincode": "302036",
+    "phone_number": "+91 92510 41418",
+    "website": "https://www.rajasthantraveloperator.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "06, Durga vihar, Kalwar Rd, Govindpura, Jaipur, Rajasthan 302044",
+    "area": "Govindpura",
+    "latitude": 26.951497099999997,
+    "longitude": 75.7022769,
+    "place_id": "ChIJYeIn4LVNbDkRRKEqNV5hJtE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYeIn4LVNbDkRRKEqNV5hJtE",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:31:39"
+  }
+]

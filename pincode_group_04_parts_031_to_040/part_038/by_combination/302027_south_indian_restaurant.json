@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kanchipuram - The Taste of South",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "302027",
+    "phone_number": "+91 80001 98133",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "244-245, Dhruv Marg, Parnami Block, Tilak Nagar, Raja Park, Kanchipuram, Jaipur, Rajasthan 302004",
+    "area": "Parnami Block, Tilak Nagar, Raja Park",
+    "latitude": 26.8950124,
+    "longitude": 75.822345,
+    "place_id": "ChIJsfGWGkC3bTkRb4kc7_R7120",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsfGWGkC3bTkRb4kc7_R7120",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:18:43"
+  },
+  {
+    "business_name": "Aiyo Anna!",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "302027",
+    "phone_number": "+91 77370 23333",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "34, Talkatora Rd, Talkatora Colony, Joshi Colony, J.D.A. Market, Kanwar Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302002",
+    "area": "Talkatora Colony, Joshi Colony, J.D.A. Market, Kanwar Nagar",
+    "latitude": 26.9326325,
+    "longitude": 75.8267942,
+    "place_id": "ChIJq9wxSACxbTkRGsyW3-ob8DM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq9wxSACxbTkRGsyW3-ob8DM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:18:44"
+  }
+]

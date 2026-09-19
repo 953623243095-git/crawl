@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "E Mitra",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Computer networking service",
+    "all_categories": "Computer networking service",
+    "pincode": "302031",
+    "phone_number": "+91 98288 10890",
+    "website": "http://emitra.rajasthan.gov.in/",
+    "rating": 3.6,
+    "reviews_count": 7,
+    "address": "D 24 Ganesh Nagar Road No 14, Sikar Rd, V.K.I, Vishwakarma Industrial Area, Jaipur, Rajasthan 302013",
+    "area": "V.K.I, Vishwakarma Industrial Area, Murlipura",
+    "latitude": 26.9750716,
+    "longitude": 75.76523209999999,
+    "place_id": "ChIJwx3Dk1mybTkRYAGgPdRc9eI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwx3Dk1mybTkRYAGgPdRc9eI",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:26:05"
+  },
+  {
+    "business_name": "AN INTERNET SOLUTIONS",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer software store, Internet shop",
+    "pincode": "302031",
+    "phone_number": "+91 78919 13546",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 9,
+    "address": "Plot no, 2-A, Jhotwara Rd, Indra Colony, Bani Park, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302016",
+    "area": "Indra Colony, Bani Park",
+    "latitude": 26.938612,
+    "longitude": 75.787167,
+    "place_id": "ChIJd56wUeqzbTkRLNdCecV3MVQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd56wUeqzbTkRLNdCecV3MVQ",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:26:05"
+  }
+]

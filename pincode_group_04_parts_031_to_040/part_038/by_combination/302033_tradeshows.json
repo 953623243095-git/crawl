@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj traders",
+    "search_category": "Tradeshows",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Industrial equipment supplier",
+    "pincode": "302033",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "E-558, Jeen Mata Marg, opposite Capri loans, Pravasi Nagar, Murlipura Scheme, Murlipura, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302039",
+    "area": "Pravasi Nagar, Murlipura Scheme, Murlipura",
+    "latitude": 26.970878,
+    "longitude": 75.7652864,
+    "place_id": "ChIJS5M-cwCzbTkRxqGdUe7VwgQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS5M-cwCzbTkRxqGdUe7VwgQ",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:28:38"
+  },
+  {
+    "business_name": "Jaipur Trade",
+    "search_category": "Tradeshows",
+    "primary_category": "Fabric product manufacturer",
+    "all_categories": "Fabric product manufacturer",
+    "pincode": "302033",
+    "phone_number": "+91 92515 86101",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "RQGC+HQ7, Unnamed Road, Aaykar Nagar, Kalyanpura, Sanganer, Jaipur, Rajasthan 302029",
+    "area": "Aaykar Nagar, Kalyanpura, Sanganer",
+    "latitude": 26.8264037,
+    "longitude": 75.7719371,
+    "place_id": "ChIJ_fBxsee1bTkRHmdocEh9T-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_fBxsee1bTkRHmdocEh9T-4",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:28:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Business Café & Consultancy Studio",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant, Consultant, Investment service, Legal services",
+    "pincode": "302020",
+    "phone_number": "+91 78778 31941",
+    "website": "http://djaybusinesscafe.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "60/113, Shraddha Marg, Ward 27, Rajat Path, Mansarovar Sector 6, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Ward 27, Rajat Path, Mansarovar Sector 6, Mansarovar",
+    "latitude": 26.8620859,
+    "longitude": 75.7566621,
+    "place_id": "ChIJH4bJVSm1bTkRenWR-PrksAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH4bJVSm1bTkRenWR-PrksAI",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:11:59"
+  },
+  {
+    "business_name": "OBG Outsourcing Private Limited",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office, Accounting firm, Tax preparation service",
+    "pincode": "302020",
+    "phone_number": "+91 86969 16508",
+    "website": "https://www.obgoutsourcing.com/",
+    "rating": 4.8,
+    "reviews_count": 20,
+    "address": "First Floor, Prithvi Tower, Prithvi Choraha, 117, Sumer Nagar, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Sumer Nagar, Mansarovar",
+    "latitude": 26.836128799999997,
+    "longitude": 75.76386049999999,
+    "place_id": "ChIJN4hibXu1bTkRqts0hN8FhMQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN4hibXu1bTkRqts0hN8FhMQ",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:12:00"
+  }
+]

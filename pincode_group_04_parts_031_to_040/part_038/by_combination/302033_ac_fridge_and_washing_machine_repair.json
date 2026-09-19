@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "School of Repair",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Air conditioning repair service, Microwave oven repair service, Refrigerator repair service, Television repair service, Washer & dryer repair service",
+    "pincode": "302033",
+    "phone_number": "+91 96538 58758",
+    "website": "https://www.schoolofrepair.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "RR37+C7Q, Chetak Marg, Pratap Nagar, Sanganer, Sector 6, Pratap Nagar, Jaipur, Rajasthan 302033",
+    "area": "Pratap Nagar, Sanganer, Sector 6, Pratap Nagar",
+    "latitude": 26.8036447,
+    "longitude": 75.8132096,
+    "place_id": "ChIJow8vEgDJbTkRR_shHfVNOBc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJow8vEgDJbTkRR_shHfVNOBc",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:27:41"
+  },
+  {
+    "business_name": "Urban Refrigeration",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Refrigerator repair service",
+    "all_categories": "Refrigerator repair service, Washer & dryer repair service",
+    "pincode": "302033",
+    "phone_number": "+91 77429 44290",
+    "website": "https://urbanrefrigeration.shop/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "171/15, Sector 17, Pratap Nagar, Jaipur, Rajasthan 302033",
+    "area": "Sector 17, Pratap Nagar",
+    "latitude": 26.8108361,
+    "longitude": 75.8313361,
+    "place_id": "ChIJDUqGJwDJbTkRZhWObmO3Qrs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDUqGJwDJbTkRZhWObmO3Qrs",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:27:41"
+  }
+]

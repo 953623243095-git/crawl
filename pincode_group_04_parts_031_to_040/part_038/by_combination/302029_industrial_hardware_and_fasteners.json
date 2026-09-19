@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dorpick",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Bedroom furniture store, Door supplier",
+    "pincode": "302029",
+    "phone_number": "+91 98290 65227",
+    "website": "https://dorpick.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Hardware house, Chauraha, Gopalpura Bypass Rd, near Triveni Nagar, Shakti Nagar, Gopal Pura Mode, Jaipur, Rajasthan 302018",
+    "area": "Shakti Nagar, Gopal Pura Mode",
+    "latitude": 26.869270699999998,
+    "longitude": 75.78366079999999,
+    "place_id": "ChIJWbXvasS1bTkR8SutTMiAPYM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWbXvasS1bTkR8SutTMiAPYM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:24:19"
+  },
+  {
+    "business_name": "Iontech Power",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "302029",
+    "phone_number": "+91 95496 57682",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mahima nagar, 1-B Back Side, Vistar, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Gyan Vihar Colony, Khejdo Ka Vas, Vistar, Mansarovar",
+    "latitude": 26.8401566,
+    "longitude": 75.7590483,
+    "place_id": "ChIJ6dNTlMG1bTkR7L8O0_vJykg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6dNTlMG1bTkR7L8O0_vJykg",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:24:19"
+  }
+]

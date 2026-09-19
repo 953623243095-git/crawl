@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Institute Of Urology",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Urologist, Urology clinic",
+    "pincode": "302003",
+    "phone_number": "+91 98290 13468",
+    "website": "http://www.instituteofurology.in/",
+    "rating": 4.9,
+    "reviews_count": 1831,
+    "address": "4/A, Tilak Marg, opposite Udyag Bhawan, C Scheme, Ashok Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302005",
+    "area": "C Scheme, Ashok Nagar",
+    "latitude": 26.9010689,
+    "longitude": 75.7975883,
+    "place_id": "ChIJuVKlmRu0bTkR7rjZ_qRyEd0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuVKlmRu0bTkR7rjZ_qRyEd0",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:48:56"
+  },
+  {
+    "business_name": "KDH Care Center - Dr. Manoj Khandelwal",
+    "search_category": "Dialysis Center",
+    "primary_category": "Endocrinologist",
+    "all_categories": "Endocrinologist, Nephrologist",
+    "pincode": "302003",
+    "phone_number": "+91 91166 56440",
+    "website": "http://www.drmanojkhandelwal.com/",
+    "rating": 4.9,
+    "reviews_count": 43,
+    "address": "B-94, Sethi Colony, Near Satelite Hospital, Jaipur near Satelite Hospital, Sethi Colony, Adarsh Nagar, Raja Park, Jaipur, Rajasthan 302004",
+    "area": "Raja Park",
+    "latitude": 26.903052,
+    "longitude": 75.842586,
+    "place_id": "ChIJs6phMMa2bTkR4CsCFlX6vIg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs6phMMa2bTkR4CsCFlX6vIg",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:48:56"
+  }
+]

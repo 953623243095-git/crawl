@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "D. H. Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "302028",
+    "phone_number": "N/A",
+    "website": "http://www.dhhospital.com/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "VVGV+PX8, J D A Colony, Paldi Meena, Jaipur, Rajasthan 302031",
+    "area": "J D A Colony, Paldi Meena",
+    "latitude": 26.876798299999997,
+    "longitude": 75.8949387,
+    "place_id": "ChIJPey-s4a3bTkRD7-9MlupaPQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPey-s4a3bTkRD7-9MlupaPQ",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:21:04"
+  },
+  {
+    "business_name": "Kookas, Rajasthan 302028",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "302028",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kookas, Rajasthan",
+    "area": "302028",
+    "latitude": 27.008895199999998,
+    "longitude": 75.8882508,
+    "place_id": "ChIJB8xG2eCvbTkRIKvw_jhxdFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB8xG2eCvbTkRIKvw_jhxdFU",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:21:06"
+  }
+]

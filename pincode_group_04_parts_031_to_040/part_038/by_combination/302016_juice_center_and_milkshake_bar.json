@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TGIH Thank God Its Healthy",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Breakfast restaurant, Cafe, Health food restaurant, Takeout restaurant, Restaurant",
+    "pincode": "302016",
+    "phone_number": "+91 80007 50533",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "15 A, Ajmer Rd, Shiv Marg, Gopalbari, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302001",
+    "area": "Shiv Marg, Gopalbari",
+    "latitude": 26.915551699999998,
+    "longitude": 75.7945788,
+    "place_id": "ChIJqVcmchC0bTkRaot3yr1oLv4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqVcmchC0bTkRaot3yr1oLv4",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:02:33"
+  },
+  {
+    "business_name": "RAMA COLD DRINKS",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Fast food restaurant",
+    "pincode": "302016",
+    "phone_number": "+91 99826 85580",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shop-1, Mirza Ismail Rd, near by HP Petrol Pump, Sangram Colony, Ashok Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302003",
+    "area": "Sangram Colony, Ashok Nagar",
+    "latitude": 26.9166796,
+    "longitude": 75.8169692,
+    "place_id": "ChIJ01x9wK22bTkRygLNlbP3Yi8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ01x9wK22bTkRygLNlbP3Yi8",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:02:34"
+  }
+]

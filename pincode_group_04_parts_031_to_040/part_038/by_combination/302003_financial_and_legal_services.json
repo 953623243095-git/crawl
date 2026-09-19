@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AKST and Co.",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant",
+    "pincode": "302003",
+    "phone_number": "+91 96363 60281",
+    "website": "https://akstax.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "107 - 1st Floor, Arihant Towers, Agra Rd, near Agarwal College, Central Jail, Fateh Tibba, Adarsh Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302003",
+    "area": "Central Jail, Fateh Tibba, Adarsh Nagar",
+    "latitude": 26.9141864,
+    "longitude": 75.82886049999999,
+    "place_id": "ChIJ4XlIeFG3bTkRLq70NlQU_zM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4XlIeFG3bTkRLq70NlQU_zM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:50:02"
+  },
+  {
+    "business_name": "Advocate Chamber",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Notary public",
+    "all_categories": "Notary public",
+    "pincode": "302003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "1872, Topkhana Hazuri, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302003",
+    "area": "Topkhana Hazuri",
+    "latitude": 26.914522299999998,
+    "longitude": 75.8380849,
+    "place_id": "ChIJ4WugdQC3bTkROY7JMn1uCQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4WugdQC3bTkROY7JMn1uCQA",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:50:04"
+  }
+]

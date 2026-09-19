@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GoMechAutomobile",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "302040",
+    "phone_number": "+91 95210 09355",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RajEngineering Campus, near Reliance Petrol Pump, RICO Industrial Area, Kushal Magri, Dungarpur, Rajasthan 314001",
+    "area": "RICO Industrial Area",
+    "latitude": 23.8463019,
+    "longitude": 73.7328963,
+    "place_id": "ChIJ_zQ_8ddxZzkR_ig9kX-i0CM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_zQ_8ddxZzkR_ig9kX-i0CM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:39:36"
+  },
+  {
+    "business_name": "K.S. Automotives",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "302040",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Plot no 98 Shyam vatika, Opp. Power house grid, Kalwar Rd, near machva bus stand, Machva, Rajasthan 303706",
+    "area": "Royal City",
+    "latitude": 26.9653247,
+    "longitude": 75.6554238,
+    "place_id": "ChIJRX7wdopNbDkRgmeqaj7y3sc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRX7wdopNbDkRgmeqaj7y3sc",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:39:37"
+  }
+]

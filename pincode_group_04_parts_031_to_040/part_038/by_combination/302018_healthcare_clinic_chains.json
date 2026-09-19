@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Health Care Clinics",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Obstetrician-gynecologist",
+    "all_categories": "Obstetrician-gynecologist, Cardiologist, Neurosurgeon, Pharmacy",
+    "pincode": "302018",
+    "phone_number": "+91 96724 99956",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 31,
+    "address": "22-A-6 Haldighati Marg Sector-22, Pratap Nagar, Manoharpura, Jaipur, Rajasthan 302033",
+    "area": "Pratap Nagar, Manoharpura",
+    "latitude": 26.814713599999997,
+    "longitude": 75.841432,
+    "place_id": "ChIJJ_6jm-zJbTkRwgFvW1Av1rg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ_6jm-zJbTkRwgFvW1Av1rg",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:07:04"
+  },
+  {
+    "business_name": "Lipi Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "302018",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 9,
+    "address": "Vishnu Vihar, 78, Mahaveer Nagar, Durgapura, Jaipur, Rajasthan 302018",
+    "area": "Vishnupuri, Mahaveer Nagar, Durgapura",
+    "latitude": 26.8512104,
+    "longitude": 75.7907464,
+    "place_id": "ChIJHVRDKwC1bTkRVeZfHQE1BCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHVRDKwC1bTkRVeZfHQE1BCY",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:07:05"
+  }
+]

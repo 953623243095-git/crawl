@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Saras Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store, General store",
+    "pincode": "302019",
+    "phone_number": "+91 141 514 8290",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 15,
+    "address": "VQ45+F9Q, New Sanganer Rd, Opposite V.T. Road, Bahubali Nagar, Mansarovar Sector 6, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Bahubali Nagar, Mansarovar Sector 6, Mansarovar",
+    "latitude": 26.8562178,
+    "longitude": 75.7584739,
+    "place_id": "ChIJNy86aQi1bTkRMt6ilLJsKcs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNy86aQi1bTkRMt6ilLJsKcs",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:08:27"
+  },
+  {
+    "business_name": "Shri Amul Raj Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store, Department store",
+    "pincode": "302019",
+    "phone_number": "+91 97995 76580",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 5,
+    "address": "Shop No 1, Akshardham Temple, Vidyut Nagar, Chitrakoot, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "Vidyut Nagar, Chitrakoot",
+    "latitude": 26.9019966,
+    "longitude": 75.74193439999999,
+    "place_id": "ChIJKxOnWJe0bTkRAxT9ygyFcBM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKxOnWJe0bTkRAxT9ygyFcBM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:08:27"
+  }
+]

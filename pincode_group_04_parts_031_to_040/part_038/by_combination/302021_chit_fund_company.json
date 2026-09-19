@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MCI chit fund",
+    "search_category": "Chit Fund Company",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant",
+    "pincode": "302021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "2nd floor, No.16, 4th Cross Rd, 2nd Block, Nagarbhavi 1st Stage, Maruthi Nagar, Chandra Layout, Bengaluru, Karnataka 560072",
+    "area": "2nd Block, Nagarbhavi 1st Stage, Maruthi Nagar, Chandra Layout",
+    "latitude": 12.9592627,
+    "longitude": 77.5233204,
+    "place_id": "ChIJX8o-Hx0_rjsRHizPWEfyec4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX8o-Hx0_rjsRHizPWEfyec4",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:14:02"
+  },
+  {
+    "business_name": "ACE Capital Investment",
+    "search_category": "Chit Fund Company",
+    "primary_category": "Investment company",
+    "all_categories": "Investment company, Financial consultant, Investment service",
+    "pincode": "302021",
+    "phone_number": "+91 88242 20007",
+    "website": "https://www.acecapinvest.com/",
+    "rating": 5,
+    "reviews_count": 108,
+    "address": "Amrapali Circle, Vaishali Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302012",
+    "area": "Amrapali Circle, Vaishali Nagar",
+    "latitude": 26.9115902,
+    "longitude": 75.7437774,
+    "place_id": "ChIJkQ12gqC1bTkRlln9tzcsKw0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkQ12gqC1bTkRlln9tzcsKw0",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:14:02"
+  }
+]

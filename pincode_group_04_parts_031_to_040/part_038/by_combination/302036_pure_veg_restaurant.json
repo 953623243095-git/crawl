@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spot of taste",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "302036",
+    "phone_number": "+91 78788 45065",
+    "website": "https://zomato.onelink.me/xqzv/v22rmkym",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "WPQ6+5CJ, Gokulpura, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302012",
+    "area": "Gokulpura",
+    "latitude": 26.9379386,
+    "longitude": 75.7110904,
+    "place_id": "ChIJr3BDOwBNbDkRwI5JU1wM51w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr3BDOwBNbDkRwI5JU1wM51w",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:31:00"
+  },
+  {
+    "business_name": "Shree Gopi Sabji Walas",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Takeout restaurant",
+    "all_categories": "Takeout restaurant, Fast food restaurant",
+    "pincode": "302036",
+    "phone_number": "+91 98873 37373",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 344,
+    "address": "Metro Pillar No. 80, In Front Of Shop No. 28 & 29, Near, New Sanganer Rd, Vishwa Nagar, Devi Nagar, Govindpuri, Jaipur, Rajasthan 302019",
+    "area": "Vishwa Nagar, Devi Nagar, Govindpuri",
+    "latitude": 26.885585799999998,
+    "longitude": 75.76806859999999,
+    "place_id": "ChIJif__A1u0bTkRVOPw5UHGrRo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJif__A1u0bTkRVOPw5UHGrRo",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:31:02"
+  }
+]

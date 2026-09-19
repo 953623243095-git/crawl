@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pink city decoration",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist, Service establishment, Event management company",
+    "pincode": "302029",
+    "phone_number": "+91 80009 89153",
+    "website": "https://pinkcitydecoration.in/",
+    "rating": 4.7,
+    "reviews_count": 24,
+    "address": "Pink city decoration, 302029, India",
+    "area": "302029",
+    "latitude": 26.865792,
+    "longitude": 75.7592104,
+    "place_id": "ChIJS5fZNtKG_EUR6kYFDGMT5FE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS5fZNtKG_EUR6kYFDGMT5FE",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:23:43"
+  },
+  {
+    "business_name": "Satyam Balloon Decoration",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist, Service establishment",
+    "pincode": "302029",
+    "phone_number": "N/A",
+    "website": "https://satyamballoondecoratioin.in/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Satyam Balloon Decoration, 302029, India",
+    "area": "302029",
+    "latitude": 26.8852108,
+    "longitude": 75.7905578,
+    "place_id": "ChIJJ31wu36eFS8Rtw8VF1xx4y8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ31wu36eFS8Rtw8VF1xx4y8",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:23:46"
+  }
+]

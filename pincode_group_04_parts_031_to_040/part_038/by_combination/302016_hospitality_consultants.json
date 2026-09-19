@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apins Consultants Private Limited",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "302016",
+    "phone_number": "+91 98290 50969",
+    "website": "http://www.apins.co/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "3rd Floor, Durga Business Center, 309, Mirza Ismail Rd, opposite Hotel Gangour, Gopalbari, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302001",
+    "area": "Gopalbari",
+    "latitude": 26.919042899999997,
+    "longitude": 75.7957134,
+    "place_id": "ChIJlZaUAc6zbTkR0AcR6Z3zttM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlZaUAc6zbTkR0AcR6Z3zttM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:03:38"
+  },
+  {
+    "business_name": "Sapient Vacations",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Aviation consultant, Tour operator, Visa Agent",
+    "pincode": "302016",
+    "phone_number": "+91 98291 29662",
+    "website": "https://www.sapientvacations.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "519, 3rd Floor, Anchor Mall, Ajmer Rd, Madrampur, Ganpati Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302006",
+    "area": "Madrampur, Ganpati Nagar",
+    "latitude": 26.9110358,
+    "longitude": 75.7837876,
+    "place_id": "ChIJJ7ufr4m1bTkRS9FyryYsaNs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ7ufr4m1bTkRS9FyryYsaNs",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:03:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anjary Creation",
+    "search_category": "Boutiques",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "302013",
+    "phone_number": "+91 97825 91892",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "117/687, Agarwal Farm, Jhalana Chhod, Mansarovar, Jaipur, Rajasthan 302029",
+    "area": "Agarwal Farm, Jhalana Chhod, Mansarovar",
+    "latitude": 26.8436257,
+    "longitude": 75.7760898,
+    "place_id": "ChIJjS6Wk8S1bTkRFNV1vLXWWCc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjS6Wk8S1bTkRFNV1vLXWWCc",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:58:48"
+  },
+  {
+    "business_name": "Jolly fashion and boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Clothing alteration service, Fashion design school, Fashion designer, Stitching Class, Tailor",
+    "pincode": "302013",
+    "phone_number": "+91 77371 96469",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "North Avenue, ghati, Harmada, Jaipur, Jaipur Greater (M Corp.) (Part), Rajasthan 302013",
+    "area": "ghati, Harmada",
+    "latitude": 27.0213948,
+    "longitude": 75.76609789999999,
+    "place_id": "ChIJf5SeThutbTkRcvUm9pLRy3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf5SeThutbTkRcvUm9pLRy3I",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:58:51"
+  }
+]

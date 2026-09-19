@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Banna Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store, Coffee shop",
+    "pincode": "302040",
+    "phone_number": "+91 79765 18878",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Shop644, near Vasant Nagar, Shyam Nagar, Jhotwara, Jaipur, Rajasthan 302012",
+    "area": "Shyam Nagar, Nirmal Vihar, Jhotwara",
+    "latitude": 26.9637255,
+    "longitude": 75.74060539999999,
+    "place_id": "ChIJ1-G3VUizbTkR546sEqxsppE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1-G3VUizbTkR546sEqxsppE",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:38:57"
+  },
+  {
+    "business_name": "Jain Tea Corp",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea Wholesaler",
+    "all_categories": "Tea Wholesaler",
+    "pincode": "302040",
+    "phone_number": "+91 81000 94757",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 31,
+    "address": "Narayan Vihar, Jaipur, Rajasthan 302020",
+    "area": "Narayan Vihar",
+    "latitude": 26.864532999999998,
+    "longitude": 75.72175279999999,
+    "place_id": "ChIJV_HKnFe1bTkRnuIhbeeK9YE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV_HKnFe1bTkRnuIhbeeK9YE",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:39:00"
+  }
+]

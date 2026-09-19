@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Patel Golden Timbers",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier, Lumber store",
+    "pincode": "302018",
+    "phone_number": "+91 141 250 2243",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no 4, Gopalpura Bypass Rd, Krishna Vihar, Agrasen Nagar, Gopal Pura Mode, Jaipur, Rajasthan 302015",
+    "area": "Krishna Vihar, Agrasen Nagar, Gopal Pura Mode",
+    "latitude": 26.870697699999997,
+    "longitude": 75.7818593,
+    "place_id": "ChIJ9xN-Yky0bTkR4oM8l_bk2pw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9xN-Yky0bTkR4oM8l_bk2pw",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:07:17"
+  },
+  {
+    "business_name": "Gheeya Plywood",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Lumber store",
+    "all_categories": "Lumber store",
+    "pincode": "302018",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "54/216, Madhyam Marg, Ward 27, Mansarovar Sector 5, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Ward 27, Mansarovar Sector 5, Mansarovar",
+    "latitude": 26.8625792,
+    "longitude": 75.76191349999999,
+    "place_id": "ChIJma3Zkqm1bTkR6LhmVaWp6hw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJma3Zkqm1bTkR6LhmVaWp6hw",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:07:21"
+  }
+]

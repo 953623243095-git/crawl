@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GOLDEN CRESSIDE RESORT & PALACE",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "302042",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Harchandpura at Deoliya, Rampurawas, Rajasthan 302042",
+    "area": "302042",
+    "latitude": 26.837490799999998,
+    "longitude": 75.59631209999999,
+    "place_id": "ChIJc4vEnr1JbDkRnxyKgk0pNSo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc4vEnr1JbDkRnxyKgk0pNSo",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:43:54"
+  },
+  {
+    "business_name": "Balaji Resort",
+    "search_category": "Resort",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "302042",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 23,
+    "address": "WMFR+765, Sirsi Rd, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302041",
+    "area": "302042",
+    "latitude": 26.9231263,
+    "longitude": 75.6906231,
+    "place_id": "ChIJl6LxDhRNbDkR0nJhD7x2VW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl6LxDhRNbDkR0nJhD7x2VW0",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:43:54"
+  }
+]

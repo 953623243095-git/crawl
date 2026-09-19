@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GL Media House",
+    "search_category": "Media and Event",
+    "primary_category": "Video production service",
+    "all_categories": "Video production service, Video editing service",
+    "pincode": "302041",
+    "phone_number": "N/A",
+    "website": "https://glmediahouse.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shyam Sarovar, 296, keshav marg, Govind Vihar, Govindpura, Jaipur, Rajasthan 302044",
+    "area": "Govind Vihar, Govindpura",
+    "latitude": 26.9501162,
+    "longitude": 75.6928871,
+    "place_id": "ChIJx-RGqshNbDkRSxlUK_Pm9YQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx-RGqshNbDkRSxlUK_Pm9YQ",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:42:01"
+  },
+  {
+    "business_name": "TrendsUp Media Recording Studio",
+    "search_category": "Media and Event",
+    "primary_category": "Recording studio",
+    "all_categories": "Recording studio, Audio visual consultant, Movie studio, Software Training Institute, Training center, Video editing service, Video production service, Vocal Instructor",
+    "pincode": "302041",
+    "phone_number": "+91 90572 96732",
+    "website": "https://trendsupmedia.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Amrapali Nagar, B 41 South, Jaipur, Rajasthan 302021",
+    "area": "Girdharipura",
+    "latitude": 26.897227599999997,
+    "longitude": 75.7021977,
+    "place_id": "ChIJjWnzFuC1bTkR1IQIdz3oKZ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjWnzFuC1bTkR1IQIdz3oKZ0",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:42:01"
+  }
+]

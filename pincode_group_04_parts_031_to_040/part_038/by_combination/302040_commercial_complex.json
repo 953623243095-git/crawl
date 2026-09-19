@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samota tower",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "302040",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "16-D, Nangal Rd, Nangal Colony, Suraj Nagar, Nirmal Vihar, Jhotwara, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302012",
+    "area": "Nangal Colony, Suraj Nagar, Nirmal Vihar, Jhotwara",
+    "latitude": 26.9645728,
+    "longitude": 75.7410716,
+    "place_id": "ChIJZwA4pCizbTkROI1_6rs8V08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZwA4pCizbTkROI1_6rs8V08",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:40:45"
+  },
+  {
+    "business_name": "Virat NRI Avenue",
+    "search_category": "Commercial Complex",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "302040",
+    "phone_number": "+91 85951 35135",
+    "website": "https://viratgroup.co/nri-avenue/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Pratap Enclave, Pratap Nagar, Jaipur, Rajasthan 302017",
+    "area": "Pratap Enclave, Pratap Nagar",
+    "latitude": 26.8166713,
+    "longitude": 75.8467733,
+    "place_id": "ChIJ18eseADJbTkRlVTGQvdk718",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ18eseADJbTkRlVTGQvdk718",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:40:46"
+  }
+]

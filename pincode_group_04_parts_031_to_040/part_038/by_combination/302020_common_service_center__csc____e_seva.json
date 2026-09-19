@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "darshan computer & emitra",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "302020",
+    "phone_number": "+91 97846 46756",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 29,
+    "address": "shop no. 3 darshan computer Rampura, Patrakar Colony, Hajiwala, Bhankrota, Rajasthan 302020",
+    "area": "Patrakar Colony, Hajiwala",
+    "latitude": 26.835680399999998,
+    "longitude": 75.73027569999999,
+    "place_id": "ChIJka-lbES1bTkRvZs6wJf4-MU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJka-lbES1bTkRvZs6wJf4-MU",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:11:51"
+  },
+  {
+    "business_name": "Om eMitra & CSC Center Jaipur",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Government office",
+    "all_categories": "Government office, Computer service, Computer store",
+    "pincode": "302020",
+    "phone_number": "+91 90574 24257",
+    "website": "https://om-emitra-csc-center.bizportal.in/",
+    "rating": 4.9,
+    "reviews_count": 12,
+    "address": "Shop No 50, Rampura Rd, Suraj Nagar, Kalyanpura, Sanganer, Jaipur, Rajasthan 302029",
+    "area": "Suraj Nagar, Kalyanpura, Sanganer",
+    "latitude": 26.8215285,
+    "longitude": 75.7570018,
+    "place_id": "ChIJGdLrNX2z_EURR5Z3A_wENso",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGdLrNX2z_EURR5Z3A_wENso",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:11:52"
+  }
+]

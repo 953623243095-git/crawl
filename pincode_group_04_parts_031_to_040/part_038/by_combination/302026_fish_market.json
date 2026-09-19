@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaipur Farms",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market, Fresh food market, Grocery store, Meat dish restaurant, Meat wholesaler, Non Vegetarian Restaurant, Prawn fishing, Meat products store",
+    "pincode": "302026",
+    "phone_number": "+91 73400 44561",
+    "website": "https://www.zomato.com/jaipur/jaipur-farms-chitrakoot/order",
+    "rating": 4,
+    "reviews_count": 144,
+    "address": "119, Chitrakoot Marg, Between Akshar Dham Crossing And Global Heart Hospital, Vidyut Nagar, Vidyut Nagar-C, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "Vidyut Nagar, Vidyut Nagar-C",
+    "latitude": 26.9034178,
+    "longitude": 75.7391663,
+    "place_id": "ChIJTXSDRJi0bTkREbhXArhFbY4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTXSDRJi0bTkREbhXArhFbY4",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:16:32"
+  },
+  {
+    "business_name": "Ten Bandu Chauraha",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "302026",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SEZ, to, Delhi - Ajmer Expy, Mahapura, Rajasthan 302026",
+    "area": "302026",
+    "latitude": 26.838433499999997,
+    "longitude": 75.6552766,
+    "place_id": "ChIJBaL7xRRLbDkRmqDePBwaaz0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBaL7xRRLbDkRmqDePBwaaz0",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:16:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ARCHNAV",
+    "search_category": "Fish Market",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Appliance parts supplier, Appliance store, Electrical appliance wholesaler, Small appliance repair service",
+    "pincode": "302016",
+    "phone_number": "+91 63750 30846",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 88,
+    "address": "A-61, Subhash Nagar Shopping Center, Subhash Nagar, Jaipur, Pincode-302016, Jaipur, Rajasthan 302016",
+    "area": "Subash Nagar, Shastri Nagar",
+    "latitude": 26.9372319,
+    "longitude": 75.7951102,
+    "place_id": "ChIJ19DQZLGzbTkRlYeLDAZiIsM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ19DQZLGzbTkRlYeLDAZiIsM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:02:28"
+  },
+  {
+    "business_name": "Gangori Bazar Chogan Stadium",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "302016",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 280,
+    "address": "WRJC+4GP, Gangori Bazaar, Gangori Bazar, Purani Basti, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302001",
+    "area": "Gangori Bazaar, Gangori Bazar, Purani Basti",
+    "latitude": 26.9303329,
+    "longitude": 75.82132349999999,
+    "place_id": "ChIJz4lHr1GxbTkRtcScDweoBdk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz4lHr1GxbTkRtcScDweoBdk",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:02:29"
+  }
+]

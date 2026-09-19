@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Happy Housekeeping",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Service establishment, Floor sanding and polishing service, Cleaning Services, Painting, Pest control service",
+    "pincode": "302040",
+    "phone_number": "+91 86386 58591",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Happy Housekeeping, 302040, India",
+    "area": "302040",
+    "latitude": 26.174698,
+    "longitude": 91.76129499999999,
+    "place_id": "ChIJr5o1mddZWjcRmhiaOdz1z8g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr5o1mddZWjcRmhiaOdz1z8g",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:40:26"
+  },
+  {
+    "business_name": "Esha Corporate Cleaner Service",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "302040",
+    "phone_number": "N/A",
+    "website": "https://www.japamaidservices.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Office 942, Nehru Rd, near Big Apple, South Extension I, Kotla Mubarakpur, New Delhi, Delhi 110003",
+    "area": "South Extension I, Kotla Mubarakpur",
+    "latitude": 28.569246699999997,
+    "longitude": 77.2244837,
+    "place_id": "ChIJ8ypidFviDDkRsux97EgFOWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8ypidFviDDkRsux97EgFOWQ",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:40:26"
+  }
+]

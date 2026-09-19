@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BARALA HOSPITAL & RESEARCH CENTRE",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "General hospital",
+    "all_categories": "General hospital, Emergency care service, Hospital",
+    "pincode": "302040",
+    "phone_number": "+91 88750 04330",
+    "website": "https://baralahospital.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "N.H.52, Radha Swami Bagh, Jaipur - Sikar Road, Chomu, Rajasthan 303702",
+    "area": "302040",
+    "latitude": 27.1432741,
+    "longitude": 75.7298455,
+    "place_id": "ChIJSTUmqLaqbTkRu0ijug8UMBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSTUmqLaqbTkRu0ijug8UMBU",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:39:17"
+  },
+  {
+    "business_name": "K. R. Memorial Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Dentist, Gynecologist, Heart hospital, Orthopedic clinic, Physiotherapist, Urology clinic",
+    "pincode": "302040",
+    "phone_number": "+91 83060 05111",
+    "website": "https://www.krmemorialhospital.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Radha Swami Bagh, K. R. Memorial Hospital NH-52, Chomu, Rajasthan 303702",
+    "area": "302040",
+    "latitude": 27.142384399999997,
+    "longitude": 75.7298304,
+    "place_id": "ChIJf6Wxp5mrbTkRaRM3VQjgdFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf6Wxp5mrbTkRaRM3VQjgdFg",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:39:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MUMBAI CHATKARA",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "302020",
+    "phone_number": "+91 80059 92723",
+    "website": "http://www.aquify.co.in/",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "Shop No. 1-2, A-14, Tirupati Vihar Road, Golyawas, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Golyawas, Mansarovar",
+    "latitude": 26.845301,
+    "longitude": 75.7520571,
+    "place_id": "ChIJL3jMvBm1bTkR4v6UYfW4FyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL3jMvBm1bTkR4v6UYfW4FyQ",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:10:36"
+  },
+  {
+    "business_name": "Chacha Bhatija chaat corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "302020",
+    "phone_number": "+91 97834 16181",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Nemi Nagar Extension, Block A, Vaishali Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "Nemi Nagar Extension, Block A, Vaishali Nagar",
+    "latitude": 26.911555,
+    "longitude": 75.7377133,
+    "place_id": "ChIJzamIayW1bTkRoGv5WsPh5RY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzamIayW1bTkRoGv5WsPh5RY",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:10:36"
+  }
+]

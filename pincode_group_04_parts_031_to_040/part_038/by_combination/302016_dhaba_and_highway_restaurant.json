@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Keshar Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Restaurant",
+    "pincode": "302016",
+    "phone_number": "+91 98289 21445",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 168,
+    "address": "Shop No, Khetan Hospital, Sikar Rd, Vikas Nagar, Bhawani Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302039",
+    "area": "Vikas Nagar, Bhawani Nagar",
+    "latitude": 26.9601966,
+    "longitude": 75.7714019,
+    "place_id": "ChIJ9_iuTeGzbTkR3kb3Z9R5g2Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9_iuTeGzbTkR3kb3Z9R5g2Y",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:02:38"
+  },
+  {
+    "business_name": "Shankar Dhaba & Family Restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "302016",
+    "phone_number": "+91 89495 70049",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": 53,
+    "address": "B - 143, Maa Hingloj Nagar Gandhi Path West Lalarpura, Rd, Vaishali Nagar, Jaipur, Rajasthan 302021",
+    "area": "Vaishali Nagar",
+    "latitude": 26.9020871,
+    "longitude": 75.71310179999999,
+    "place_id": "ChIJ-8fbFrdLbDkR66dQcDg_5RM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-8fbFrdLbDkR66dQcDg_5RM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:02:38"
+  }
+]

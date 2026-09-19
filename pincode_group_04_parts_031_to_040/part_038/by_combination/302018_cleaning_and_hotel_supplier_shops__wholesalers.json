@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arya Company",
+    "search_category": "Cleaning and Hotel Supplier shops/ wholesalers",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Carpet cleaning service, Cleaning Services, Cleaning products supplier, Dryer vent cleaning service, Security service, Pool cleaning service, Tile cleaning service, Upholstery cleaning service, Window cleaning service",
+    "pincode": "302018",
+    "phone_number": "N/A",
+    "website": "https://aryacompany.in/",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "shop No. 01, B-1, Ekta Path, behind Hotel Royal Orchid, Krishi Nagar, Vasundhara Colony, Durgapura, Jaipur, Rajasthan 302018",
+    "area": "Krishi Nagar, Vasundhara Colony, Durgapura",
+    "latitude": 26.8451065,
+    "longitude": 75.7924317,
+    "place_id": "ChIJP-dv9de1bTkRChQZNsUaknw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP-dv9de1bTkRChQZNsUaknw",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:07:40"
+  },
+  {
+    "business_name": "Bharat Pest Control Services",
+    "search_category": "Cleaning and Hotel Supplier shops/ wholesalers",
+    "primary_category": "Pest control service",
+    "all_categories": "Pest control service, Agrochemicals Supplier, Chemical wholesaler",
+    "pincode": "302018",
+    "phone_number": "+91 99837 55566",
+    "website": "https://bharatpest.in/",
+    "rating": 4.7,
+    "reviews_count": 100,
+    "address": "S-23/A, Shri Gopal Nagar, Gopal pura By-pass Road, Opp.: Mahesh Nagar Police Station, Jaipur, Rajasthan 302019",
+    "area": "Gangaram nagar Jaipur, Shri Gopal Nagar, Arjun Nagar",
+    "latitude": 26.876752999999997,
+    "longitude": 75.773241,
+    "place_id": "ChIJvbUGDU60bTkRHHIa7Ual4x8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvbUGDU60bTkRHHIa7Ual4x8",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:07:40"
+  }
+]

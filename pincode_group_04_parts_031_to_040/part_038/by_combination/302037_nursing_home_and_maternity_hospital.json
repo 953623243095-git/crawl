@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chirayu hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "302037",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CHIRAYU HOSPITAL, Jaipur, Hathoj, Rajasthan 302044",
+    "area": "302037",
+    "latitude": 26.9559376,
+    "longitude": 75.6867158,
+    "place_id": "ChIJW4Q8CQBNbDkRou9xXDUg2MI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW4Q8CQBNbDkRou9xXDUg2MI",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:33:23"
+  },
+  {
+    "business_name": "Chaitanya Hospital & Maternity Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "302037",
+    "phone_number": "+91 89795 24402",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Unnamed Road, Sai Lok Colony, Sailok, Kanwali, Dehradun, Uttarakhand 248171",
+    "area": "Sai Lok Colony, Sailok, Kanwali",
+    "latitude": 30.3055699,
+    "longitude": 78.0018357,
+    "place_id": "ChIJsVCVNzcqCTkRtNUFYo795O0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsVCVNzcqCTkRtNUFYo795O0",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:33:25"
+  }
+]

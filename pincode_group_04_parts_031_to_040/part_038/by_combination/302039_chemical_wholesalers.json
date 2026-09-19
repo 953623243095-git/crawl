@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubham Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler, Industrial chemicals wholesaler",
+    "pincode": "302039",
+    "phone_number": "+91 80765 60961",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "B-81, near Dhakad cafe, Ganga Jamuna Colony, Murlipura, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302039",
+    "area": "Ganga Jamuna Colony, Murlipura",
+    "latitude": 26.9658218,
+    "longitude": 75.7563478,
+    "place_id": "ChIJ8aJtGf6zbTkRzFRvxyNPwgs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8aJtGf6zbTkRzFRvxyNPwgs",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:38:31"
+  },
+  {
+    "business_name": "Gupta Colour & Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Chemical Manufacturer",
+    "pincode": "302039",
+    "phone_number": "+91 98290 61038",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 107, Dhanshree Tower 1st, Central Spine, Vidyadhar Nagar, Jaipur, Rajasthan 302039",
+    "area": "Sector 2, Central Spine, Vidyadhar Nagar",
+    "latitude": 26.959221499999998,
+    "longitude": 75.7781889,
+    "place_id": "ChIJJQhCcbSzbTkR1T_CVWHLfrE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJQhCcbSzbTkR1T_CVWHLfrE",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:38:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jasnoor Real Estate",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "302040",
+    "phone_number": "+91 70098 49380",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Sanjay Gandhi Colony, Sector 32A, Ludhiana, Punjab 141008",
+    "area": "Sanjay Gandhi Colony, Sector 32A",
+    "latitude": 30.913930899999997,
+    "longitude": 75.8952643,
+    "place_id": "ChIJe6Q8PjSDGjkRGLNHUJ0VwPQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe6Q8PjSDGjkRGLNHUJ0VwPQ",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:40:27"
+  },
+  {
+    "business_name": "Maha laxmi real estate and associates",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Industrial real estate agency",
+    "all_categories": "Industrial real estate agency, Real Estate Builders & Construction Company, Property management company, Real estate agent",
+    "pincode": "302040",
+    "phone_number": "+91 92139 10988",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no. 1, near D.K depot, Block B, Laxmi Vihar Colony, Najafgarh, Delhi, 110043",
+    "area": "Block B, Laxmi Vihar Colony, Najafgarh",
+    "latitude": 28.627509099999997,
+    "longitude": 76.9955043,
+    "place_id": "ChIJXcse81sPDTkRT7yV9T4MNm4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXcse81sPDTkRT7yV9T4MNm4",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:40:29"
+  }
+]

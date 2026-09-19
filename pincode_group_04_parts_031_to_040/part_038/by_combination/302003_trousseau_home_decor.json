@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Platinum Home Decor",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Home improvement store",
+    "all_categories": "Home improvement store, Countertop store, Home goods store",
+    "pincode": "302003",
+    "phone_number": "+91 94603 88283",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Park Street, E-49 A Lal Bahadhur Nagar 3rd Avenue, Jawahar Lal Nehru Marg, Jaipur, Rajasthan 302018",
+    "area": "Lal Bahadur Nagar, Chandrakala Colony, Durgapura",
+    "latitude": 26.8492546,
+    "longitude": 75.7991255,
+    "place_id": "ChIJFVMfs_61bTkRfkGPfNmOq-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFVMfs_61bTkRfkGPfNmOq-8",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:49:38"
+  },
+  {
+    "business_name": "Hampers Emporio",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Gift basket store",
+    "all_categories": "Gift basket store",
+    "pincode": "302003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "181, Ram Gali Number 2, near Panchwati Circle, Raja Park, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302004",
+    "area": "Raja Park",
+    "latitude": 26.8948523,
+    "longitude": 75.8308201,
+    "place_id": "ChIJlTCLC1-3bTkRbTegX9tG7uc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlTCLC1-3bTkRbTegX9tG7uc",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:49:38"
+  }
+]

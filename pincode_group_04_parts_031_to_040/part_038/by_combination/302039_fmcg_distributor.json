@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gladful",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Manufacturer",
+    "all_categories": "FMCG Manufacturer, Food products supplier",
+    "pincode": "302039",
+    "phone_number": "N/A",
+    "website": "http://www.gladful.in/",
+    "rating": 4.5,
+    "reviews_count": 6,
+    "address": "Climb Food Pvt Ltd, E-112, Durga Park, Ambabari, Jaipur, Rajasthan 302039",
+    "area": "Ambabari, Vidyadhar Nagar",
+    "latitude": 26.942317199999998,
+    "longitude": 75.7760565,
+    "place_id": "ChIJrXzi2TWzbTkRpenJKmSFfJU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrXzi2TWzbTkRpenJKmSFfJU",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:36:56"
+  },
+  {
+    "business_name": "Shree Krishna Impex",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier, Service establishment, FMCG Goods Wholesaler",
+    "pincode": "302039",
+    "phone_number": "+91 70111 42122",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shree Krishna Impex, 302039, India",
+    "area": "302039",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJlTTDooCzbTkR-KhnbD5pTz4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlTTDooCzbTkR-KhnbD5pTz4",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:36:56"
+  }
+]

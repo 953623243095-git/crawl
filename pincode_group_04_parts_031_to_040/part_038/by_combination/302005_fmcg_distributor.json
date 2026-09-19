@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India Agency",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "302005",
+    "phone_number": "+91 99298 04330",
+    "website": "https://www.indiamart.com/indiaagency-jaipur/",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "45-46, Mirza Ismail Rd, Jayanti Market, Extension, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302001",
+    "area": "Jayanti Market, Extension",
+    "latitude": 26.9188463,
+    "longitude": 75.8102868,
+    "place_id": "ChIJswoLIqu2bTkRDn6-Mt4urwA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJswoLIqu2bTkRDn6-Mt4urwA",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:52:32"
+  },
+  {
+    "business_name": "Saboo Sodium Chloro Limited",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "302005",
+    "phone_number": "+91 141 237 9483",
+    "website": "http://saboonacl.com/",
+    "rating": 3.7,
+    "reviews_count": 23,
+    "address": "L-5, B-2, Krishna Marg, C Scheme, Ashok Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302001",
+    "area": "C Scheme, Ashok Nagar",
+    "latitude": 26.909723699999997,
+    "longitude": 75.80224439999999,
+    "place_id": "ChIJnzWxbgO0bTkRbUZ775Utu6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnzWxbgO0bTkRbUZ775Utu6E",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:52:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DS Logistics",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service",
+    "pincode": "302040",
+    "phone_number": "+91 94011 88366",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 3, Shri Ram Nagar , Delhi Bypass, Road No. 14, Vishwakarma Industrial Area, Jaipur, Rajasthan 302013",
+    "area": "Vishwakarma Industrial Area, Harmada",
+    "latitude": 27.002627099999998,
+    "longitude": 75.77744919999999,
+    "place_id": "ChIJRcGsdfmzbTkRZdo1v2io6CA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRcGsdfmzbTkRZdo1v2io6CA",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:39:34"
+  },
+  {
+    "business_name": "Indian Logistics Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Logistics and Transport Services",
+    "all_categories": "Logistics and Transport Services",
+    "pincode": "302040",
+    "phone_number": "+91 98289 44005",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "46, Green Nagar, Jamna Puri, Jaipur, Jaipur Greater (M Corp.) (Part), Rajasthan 302013",
+    "area": "Green Nagar, Jamna Puri",
+    "latitude": 26.993755,
+    "longitude": 75.75276699999999,
+    "place_id": "ChIJuVmCbI-ybTkRSv0ikVODsOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuVmCbI-ybTkRSv0ikVODsOg",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:39:34"
+  }
+]

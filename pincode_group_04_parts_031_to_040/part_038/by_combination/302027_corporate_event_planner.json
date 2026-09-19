@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anhancing Dreams",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Event venue, Party planner, Wedding planner, Wedding service, Wedding store",
+    "pincode": "302027",
+    "phone_number": "+91 90796 13663",
+    "website": "http://www.anhancingdreams.com/",
+    "rating": 4.7,
+    "reviews_count": 29,
+    "address": "46, Govind Bhawan, Phool Bagh Palace, Amer Rd, Jaipur, Rajasthan 302028",
+    "area": "Amer",
+    "latitude": 26.9912736,
+    "longitude": 75.86895009999999,
+    "place_id": "ChIJpw6rIvKxbTkRIKDlk-O0WIo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpw6rIvKxbTkRIKDlk-O0WIo",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:19:50"
+  },
+  {
+    "business_name": "Golden Dazzle Events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "302027",
+    "phone_number": "+91 77375 20634",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 12,
+    "address": "opp. Rseb Office, Kunda, Amer, Jaipur, Peepalawali, Rajasthan 302028",
+    "area": "Kunda, Amer",
+    "latitude": 26.988205999999998,
+    "longitude": 75.91148299999999,
+    "place_id": "ChIJi____4-6bTkRaMshs38oAII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi____4-6bTkRaMshs38oAII",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:19:50"
+  }
+]

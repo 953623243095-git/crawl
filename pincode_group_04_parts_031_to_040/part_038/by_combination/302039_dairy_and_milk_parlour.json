@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saras Milk Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Milk delivery service",
+    "all_categories": "Milk delivery service, Dairy store",
+    "pincode": "302039",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 4,
+    "address": "XP2X+3QJ, Jhotwara Rd, Bismilla Colony, Jagannath Puri, Jhotwara Industrial Area, Jhotwara, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302012",
+    "area": "Bismilla Colony, Jagannath Puri, Jhotwara Industrial Area, Jhotwara",
+    "latitude": 26.950224799999997,
+    "longitude": 75.749366,
+    "place_id": "ChIJzc-8MQWzbTkRjLEF8LZqD9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzc-8MQWzbTkRjLEF8LZqD9c",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:36:53"
+  },
+  {
+    "business_name": "Shri Karni Saras Parlor",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "302039",
+    "phone_number": "+91 97999 99689",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 17,
+    "address": "WPMV+Q9P, Tara Nagar-A, Tara Nagar, Jhotwara, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302012",
+    "area": "Tara Nagar-A, Tara Nagar, Jhotwara",
+    "latitude": 26.934463599999997,
+    "longitude": 75.743439,
+    "place_id": "ChIJvQyoqGyzbTkRRomU-K5t1EI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvQyoqGyzbTkRRomU-K5t1EI",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:36:53"
+  }
+]

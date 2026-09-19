@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Uni-Ref",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "302006",
+    "phone_number": "+91 80 4764 3899",
+    "website": "http://unirefindia.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Plot No. 1, Mahadev Nagar Rd, Mahadev Nagar, Swage Farm, Nandpuri Colony, Bais Godam, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302006",
+    "area": "Mahadev Nagar, Swage Farm, Nandpuri Colony, Bais Godam",
+    "latitude": 26.888359299999998,
+    "longitude": 75.77756029999999,
+    "place_id": "ChIJlxrK_kO0bTkR2mOyN56l2m4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlxrK_kO0bTkR2mOyN56l2m4",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:56:10"
+  },
+  {
+    "business_name": "Shree Shubham Logistics",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "302006",
+    "phone_number": "+91 95870 18006",
+    "website": "https://www.ssll.in/contact.php",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Kings Rd, Everest Vihar, Padmavti Colony, Nirman Nagar, Brijlalpura, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302019",
+    "area": "Everest Vihar, Padmavti Colony, Nirman Nagar, Brijlalpura",
+    "latitude": 26.8829037,
+    "longitude": 75.7523412,
+    "place_id": "ChIJJd9eDvC0bTkR3PIzUWmHQlA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJd9eDvC0bTkR3PIzUWmHQlA",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:56:10"
+  }
+]

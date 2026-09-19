@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Social Brainz",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Internet marketing service, Marketing agency, Marketing consultant",
+    "pincode": "302012",
+    "phone_number": "+91 95097 20140",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 28,
+    "address": "Office No. 429, 4th Floor Jaipur Electronic Market, Riddhi Sidhhi Circle, Gopalpura Bypass Rd, Jaipur, Rajasthan 302015",
+    "area": "Mohan Nagar, Triveni Nagar, Arjun Nagar",
+    "latitude": 26.871840499999998,
+    "longitude": 75.7754904,
+    "place_id": "ChIJNyn9jxC1bTkRGH_9JbJORhg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNyn9jxC1bTkRGH_9JbJORhg",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:58:19"
+  },
+  {
+    "business_name": "DeskMoz",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services",
+    "pincode": "302012",
+    "phone_number": "+91 141 401 2521",
+    "website": "https://deskmoz.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Mansarovar Plaza, 609-610, Madhyam Marg, Mansarovar Sector 7, Agarwal Farm, Sector 9, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Mansarovar Sector 7, Agarwal Farm, Sector 9, Mansarovar",
+    "latitude": 26.8543439,
+    "longitude": 75.7668272,
+    "place_id": "ChIJHU18I6S1bTkRNuB4OzD3i2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHU18I6S1bTkRNuB4OzD3i2Q",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:58:20"
+  }
+]

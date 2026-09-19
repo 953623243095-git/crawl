@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajasthan Meat shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat wholesaler",
+    "all_categories": "Meat wholesaler",
+    "pincode": "302036",
+    "phone_number": "+91 88249 59457",
+    "website": "https://www.tourism.rajasthan.gov.in/content/rajasthan-tourism/en/rajasthani-cuisine.html",
+    "rating": 4.3,
+    "reviews_count": 4,
+    "address": "J-47 bhomiyo ji ki chatri, Adarsh Nagar, Jaipur, Rajasthan 302004",
+    "area": "Fateh Tibba, Adarsh Nagar",
+    "latitude": 26.906370199999998,
+    "longitude": 75.8258415,
+    "place_id": "ChIJ9b-uFLm2bTkRzTnufjhOqgM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9b-uFLm2bTkRzTnufjhOqgM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:30:55"
+  },
+  {
+    "business_name": "Suryavanshi meat point",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat dish restaurant",
+    "all_categories": "Meat dish restaurant, Non Vegetarian Restaurant",
+    "pincode": "302036",
+    "phone_number": "+91 91458 06757",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "150/S8-13 S14-19, Shipra Path, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Mansarovar",
+    "latitude": 26.8565285,
+    "longitude": 75.7733071,
+    "place_id": "ChIJ_Y793Lq1bTkROO2Q6HO3dU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_Y793Lq1bTkROO2Q6HO3dU4",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:30:56"
+  }
+]

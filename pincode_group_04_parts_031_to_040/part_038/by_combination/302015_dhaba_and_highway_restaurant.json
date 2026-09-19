@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dana King Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, North Indian restaurant, Rajasthani Restaurant, Vegetarian restaurant",
+    "pincode": "302015",
+    "phone_number": "+91 91664 98609",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "No.40/41 S-11 JDA Market Mansarovar Link Road, Gopalpura Bypass Rd, near Riddhi Siddhi Choraha, Jaipur, Rajasthan 302015",
+    "area": "Usha Vihar, Keshav Vihar, Arjun Nagar",
+    "latitude": 26.869952899999998,
+    "longitude": 75.773833,
+    "place_id": "ChIJfaASR5i1bTkR4ekIjjO11mw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfaASR5i1bTkR4ekIjjO11mw",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:00:32"
+  },
+  {
+    "business_name": "Hare Rama Hare Krishna Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Fast food restaurant, Vegetarian restaurant",
+    "pincode": "302015",
+    "phone_number": "+91 77422 86397",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 1786,
+    "address": "Plot No 90 7 Opp H D F C Bank A T M, Patel Marg, Mansrovar, Madhyam Marg, Mansarovar Sector 7, Sector 9, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Mansarovar Sector 7, Sector 9, Mansarovar",
+    "latitude": 26.851436399999997,
+    "longitude": 75.7680532,
+    "place_id": "ChIJ84q5k6O1bTkR3d9uf5lby0o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ84q5k6O1bTkR3d9uf5lby0o",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:00:35"
+  }
+]

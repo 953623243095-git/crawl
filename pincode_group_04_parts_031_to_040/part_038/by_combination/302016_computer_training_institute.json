@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunshine Computer Institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center",
+    "pincode": "302016",
+    "phone_number": "+91 99820 64449",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 45,
+    "address": "shopping center, 33/34, Sector 1, Ram Nagar, Shastri Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302016",
+    "area": "Sector 1, Ram Nagar, Shastri Nagar",
+    "latitude": 26.946438399999998,
+    "longitude": 75.79846859999999,
+    "place_id": "ChIJXUs1f4WzbTkRBxmur8JtYTQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXUs1f4WzbTkRBxmur8JtYTQ",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:03:43"
+  },
+  {
+    "business_name": "K K Computer Centre",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "302016",
+    "phone_number": "+91 94602 75999",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 44,
+    "address": "B, 132, LS Nagar Rd, near Biyani college, Sector-3, Naya Khera, Vidyadhar Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302039",
+    "area": "Sector-3, Naya Khera, Vidyadhar Nagar",
+    "latitude": 26.955273899999998,
+    "longitude": 75.78178869999999,
+    "place_id": "ChIJ06JclDuzbTkROKHdSV5VcEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ06JclDuzbTkROKHdSV5VcEg",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:03:43"
+  }
+]

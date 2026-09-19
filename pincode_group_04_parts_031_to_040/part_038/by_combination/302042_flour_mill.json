@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "302042",
+    "phone_number": "+91 96605 05250",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "RJX9+CQV, Road, Sanjhariya, Thikariya, Rajasthan 302042",
+    "area": "302042",
+    "latitude": 26.8486019,
+    "longitude": 75.6194172,
+    "place_id": "ChIJHwSCS4dJbDkRLilqdYgt0d0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHwSCS4dJbDkRLilqdYgt0d0",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:42:48"
+  },
+  {
+    "business_name": "Laxmi Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill, Exporter, Food processing equipment, Manufacturer",
+    "pincode": "302042",
+    "phone_number": "+91 99742 11144",
+    "website": "http://www.laxmiflourmill.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Shed no.106, Barcelona Estate, Sardar Patel Ring Rd, Odhav, Ahmedabad, Gujarat 382415",
+    "area": "Odhav",
+    "latitude": 23.026517,
+    "longitude": 72.672263,
+    "place_id": "ChIJfUih5KqHXjkRsOPdxB4cAfg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfUih5KqHXjkRsOPdxB4cAfg",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:42:50"
+  }
+]

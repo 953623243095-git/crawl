@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BAWARCHI RESTURANT VEG&NONVEG",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "302040",
+    "phone_number": "+91 85600 45430",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Plot No :5, 200 Feet Bypass Rd, near nangal puliya, Nirmal Vihar, Jhotwara, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302012",
+    "area": "Nirmal Vihar, Jhotwara",
+    "latitude": 26.9652277,
+    "longitude": 75.7419642,
+    "place_id": "ChIJHX1l8gKzbTkRQM0aMdxg_LU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHX1l8gKzbTkRQM0aMdxg_LU",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:38:58"
+  },
+  {
+    "business_name": "Ninu Dhaba",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "302040",
+    "phone_number": "+91 85285 99543",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Nangal Town Ship, Nangal, Punjab 140124",
+    "area": "Nangal Town Ship",
+    "latitude": 31.3877208,
+    "longitude": 76.3806534,
+    "place_id": "ChIJz-V_-DDNGjkRnjz0Pzdkkvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz-V_-DDNGjkRnjz0Pzdkkvg",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:38:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Disaan Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Cardiologist",
+    "all_categories": "Cardiologist, Heart hospital, Pediatric cardiologist",
+    "pincode": "302016",
+    "phone_number": "+91 92140 08777",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhag Singh Rd, near Babylon hospital, choraha, Adarsh Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302004",
+    "area": "choraha, Adarsh Nagar",
+    "latitude": 26.8979991,
+    "longitude": 75.82771009999999,
+    "place_id": "ChIJF1Zq3oO3bTkRURVYZChXa-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF1Zq3oO3bTkRURVYZChXa-o",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:03:01"
+  },
+  {
+    "business_name": "Eternal Hospital Sanganer",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Physiotherapy Center",
+    "pincode": "302016",
+    "phone_number": "+91 72310 44444",
+    "website": "https://www.eternalhospital.com/sanganer",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Eternal hospital, Sanganer, Jaipur, Rajasthan 302029",
+    "area": "Sanganer",
+    "latitude": 26.8186406,
+    "longitude": 75.7948262,
+    "place_id": "ChIJ145zxmfLbTkRZRDkvuP6kY0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ145zxmfLbTkRZRDkvuP6kY0",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:03:02"
+  }
+]

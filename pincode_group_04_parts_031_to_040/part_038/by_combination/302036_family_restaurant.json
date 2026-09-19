@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ALPHA KITCHEN EQUIPMENTS",
+    "search_category": "Family Restaurant",
+    "primary_category": "Kitchen supply store",
+    "all_categories": "Kitchen supply store",
+    "pincode": "302036",
+    "phone_number": "+91 95095 11243",
+    "website": "https://www.indiamart.com/alpha-kitchen-equipments/",
+    "rating": 4.6,
+    "reviews_count": 13,
+    "address": "H-179, Malviya Nagar Industrial Area, Malviya Nagar, Jaipur, Rajasthan 302017",
+    "area": "Malviya Nagar Industrial Area, Malviya Nagar",
+    "latitude": 26.8579679,
+    "longitude": 75.83136019999999,
+    "place_id": "ChIJu4WznMm3bTkRvmxOeSvqn5k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu4WznMm3bTkRvmxOeSvqn5k",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:31:08"
+  },
+  {
+    "business_name": "Royal paan family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "302036",
+    "phone_number": "+91 96109 55594",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Mahendra sez, road T-point, Kalwara, Neota, Rajasthan 302037",
+    "area": "302036",
+    "latitude": 26.7979406,
+    "longitude": 75.65122099999999,
+    "place_id": "ChIJvX8RHHU1bDkRBIeIyqRL4js",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvX8RHHU1bDkRBIeIyqRL4js",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:31:09"
+  }
+]

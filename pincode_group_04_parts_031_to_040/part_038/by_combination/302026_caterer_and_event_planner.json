@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Radha Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "302026",
+    "phone_number": "+91 95095 41021",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 56,
+    "address": "Lalarpura Rd, near maan palace, vaishali nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302041",
+    "area": "vaishali nagar",
+    "latitude": 26.905260199999997,
+    "longitude": 75.6946698,
+    "place_id": "ChIJ_xNG9IZLbDkRyFReHuWIBxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_xNG9IZLbDkRyFReHuWIBxk",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:17:40"
+  },
+  {
+    "business_name": "Halwai Pandit Madan Lal Sharma",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "302026",
+    "phone_number": "+91 94140 54086",
+    "website": "https://halwaimadanlal.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "208, Preetam Plaza, 37/207, Sector 37, Rajat Path, Mansarovar Sector 3, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Sector 37, Rajat Path, Mansarovar Sector 3, Mansarovar",
+    "latitude": 26.865716,
+    "longitude": 75.7606725,
+    "place_id": "ChIJ9y4K4lq1bTkRFTuy7rAogPI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9y4K4lq1bTkRFTuy7rAogPI",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:17:43"
+  }
+]

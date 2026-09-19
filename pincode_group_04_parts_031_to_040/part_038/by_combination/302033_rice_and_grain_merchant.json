@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Grain Dealers",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice and Grain Merchant",
+    "all_categories": "Rice and Grain Merchant",
+    "pincode": "302033",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6, Purani Basti, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302002",
+    "area": "Purani Basti",
+    "latitude": 26.92721,
+    "longitude": 75.8094629,
+    "place_id": "ChIJIUnGo1WxbTkRZ1pAFtyyIjs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIUnGo1WxbTkRZ1pAFtyyIjs",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:26:46"
+  },
+  {
+    "business_name": "Rajesh Trading Company",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier, Company",
+    "pincode": "302033",
+    "phone_number": "+91 94133 44391",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "A-90, Rajdhani Krushi Mandi, 9 Number, Sikar Rd, Anaj Mandi, Jaipur, Rajasthan 302013",
+    "area": "Anaj Mandi, Murlipura",
+    "latitude": 26.9875033,
+    "longitude": 75.76950169999999,
+    "place_id": "ChIJj-GdPmaybTkRNHNF-DwpehM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj-GdPmaybTkRNHNF-DwpehM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:26:46"
+  }
+]

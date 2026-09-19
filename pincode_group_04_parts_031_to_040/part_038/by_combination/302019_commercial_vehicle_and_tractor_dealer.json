@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ttoys Bazar Pvt. Ltd",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Toy store",
+    "all_categories": "Toy store, Game store, Toy manufacturer",
+    "pincode": "302019",
+    "phone_number": "+91 99821 80001",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "293-C, Jagdamba Nagar, Heerapura, Girdharipura, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302020",
+    "area": "Jagdamba Nagar, Heerapura, Girdharipura",
+    "latitude": 26.892008999999998,
+    "longitude": 75.7237186,
+    "place_id": "ChIJp0QdEre0bTkRBSHd78949kc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp0QdEre0bTkRBSHd78949kc",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:09:07"
+  },
+  {
+    "business_name": "AARVI TRADE SOLUTION LLP",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Industrial equipment supplier",
+    "all_categories": "Industrial equipment supplier, Foreign Trade Consultant, Manufacturer",
+    "pincode": "302019",
+    "phone_number": "+91 131 501 1158",
+    "website": "http://thegpsindia.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "711, 7th, Okay Plus Square, Madhyam Marg, Mansarovar Sector 7, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Mansarovar Sector 7, Mansarovar",
+    "latitude": 26.866621799999997,
+    "longitude": 75.7212663,
+    "place_id": "ChIJe3mMr9W1bTkRw_G9ej3qvOM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe3mMr9W1bTkRw_G9ej3qvOM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:09:10"
+  }
+]

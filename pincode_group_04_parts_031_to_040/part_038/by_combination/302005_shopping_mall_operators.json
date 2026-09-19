@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Orbit Mall, Jaipur",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "302005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Elevated Ajmer Rd, Jai Ambey Colony, Civil Lines, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302006",
+    "area": "Jai Ambey Colony, Civil Lines",
+    "latitude": 26.9099287,
+    "longitude": 75.7807424,
+    "place_id": "ChIJp_MOTlO1bTkR8320pdA9Reo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp_MOTlO1bTkR8320pdA9Reo",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:54:20"
+  },
+  {
+    "business_name": "Funland",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Video arcade",
+    "all_categories": "Video arcade, Amusement center, Bowling alley, Bowling club, Food court, Video game store",
+    "pincode": "302005",
+    "phone_number": "+91 72968 47907",
+    "website": "https://www.mgf.co/business-areas/mgf-mall-management/mgf-metropolitan-jaipur/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "WQ2V+WJJ, 22 Godam Cir, Durgadas Colony, C Scheme, Ashok Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302001",
+    "area": "Durgadas Colony, C Scheme, Ashok Nagar",
+    "latitude": 26.9023965,
+    "longitude": 75.79392,
+    "place_id": "ChIJ_a_ATQC1bTkRXlLZzdyYcPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_a_ATQC1bTkRXlLZzdyYcPc",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:54:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Motu's",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Buffet restaurant, Family restaurant, North Indian restaurant, Restaurant",
+    "pincode": "302026",
+    "phone_number": "+91 91166 67581",
+    "website": "http://motusbuffet.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shree Govindam Business Tower, G-1, Gautam Marg, Nemi Nagar, Vaishali Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "Nemi Nagar, Vaishali Nagar",
+    "latitude": 26.906048199999997,
+    "longitude": 75.7427345,
+    "place_id": "ChIJu7MgjpK1bTkRg-REnnR-1rg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu7MgjpK1bTkRg-REnnR-1rg",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:16:41"
+  },
+  {
+    "business_name": "JAIPUR CHAAP CORNER",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "302026",
+    "phone_number": "+91 99283 27499",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Arawali marg, VT Rd, near City park, Jaipur, Rajasthan 302020",
+    "area": "Mansarovar Sector 7, Mansarovar Sector 5, Mansarovar",
+    "latitude": 26.860687,
+    "longitude": 75.76604449999999,
+    "place_id": "ChIJCYe-UQC1bTkRumP_oB8YtzA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCYe-UQC1bTkRumP_oB8YtzA",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:16:42"
+  }
+]

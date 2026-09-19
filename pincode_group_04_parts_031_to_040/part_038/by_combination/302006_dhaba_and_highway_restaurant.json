@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saini Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Vegetarian restaurant",
+    "pincode": "302006",
+    "phone_number": "+91 99286 00735",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "237, New Sanganer Rd, Ved-Vatika, Saket Nagar, Sodala, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302019",
+    "area": "Ved-Vatika, Saket Nagar, Sodala",
+    "latitude": 26.8982559,
+    "longitude": 75.77185209999999,
+    "place_id": "ChIJd-wdHWa0bTkRAhNb-3nRoR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd-wdHWa0bTkRAhNb-3nRoR0",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:54:33"
+  },
+  {
+    "business_name": "Dilli Cantt The Punjabi Kitchen",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Delivery service, Mughlai restaurant, Non Vegetarian Restaurant, North Indian restaurant, Restaurant, Vegetarian restaurant",
+    "pincode": "302006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "149, Kings Rd, Ajmera Garden, Shanti Nagar, Brijlalpura, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302019",
+    "area": "Ajmera Garden, Shanti Nagar, Brijlalpura",
+    "latitude": 26.894886699999997,
+    "longitude": 75.75096099999999,
+    "place_id": "ChIJE9eBBQC1bTkRkp4zuK8cCdM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE9eBBQC1bTkRkp4zuK8cCdM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:54:34"
+  }
+]

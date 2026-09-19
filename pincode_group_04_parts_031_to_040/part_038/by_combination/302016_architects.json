@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "newness",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "302016",
+    "phone_number": "+91 98297 30832",
+    "website": "http://www.newness.in/",
+    "rating": 4.6,
+    "reviews_count": 25,
+    "address": "1st floor 33 - yadav nagar, Pani Pech, Jaipur, Rajasthan 302016",
+    "area": "Pani Pech, Block B, Sanjay Colony, Nehru Nagar",
+    "latitude": 26.942308999999998,
+    "longitude": 75.78328359999999,
+    "place_id": "ChIJd1o2WquzbTkR3THu3fAQcTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd1o2WquzbTkR3THu3fAQcTY",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:03:19"
+  },
+  {
+    "business_name": "AXES IN EXCESS",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm, Supplier, Manufacturer, Metal fabricator",
+    "pincode": "302016",
+    "phone_number": "+91 89059 32399",
+    "website": "https://axesinexcess.com/",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "1st Floor, Plot No 21, near Krishna Kripa -2, Subash Nagar, Shastri Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302016",
+    "area": "Subash Nagar, Shastri Nagar",
+    "latitude": 26.939214999999997,
+    "longitude": 75.796602,
+    "place_id": "ChIJy3UuRISzbTkRGqHr6enVFiw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy3UuRISzbTkRGqHr6enVFiw",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:03:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ART EFFECT",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Wedding planner, Meeting planning service, Tour operator",
+    "pincode": "302015",
+    "phone_number": "+91 98280 14822",
+    "website": "http://arteffect.events/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ridhi Sidhi Crossing, JAIPUR ELECTRONIC MARKET, Office No. SF 45, 2nd Floor Manglam, Mansarovar Link Rd, Jaipur, Rajasthan 302018",
+    "area": "Mohan Nagar, Triveni Nagar, Arjun Nagar",
+    "latitude": 26.871556299999998,
+    "longitude": 75.7758478,
+    "place_id": "ChIJyU2Dil3LbTkRXu21CXzBqh4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyU2Dil3LbTkRXu21CXzBqh4",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:01:40"
+  },
+  {
+    "business_name": "Eventura Event And Company",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "302015",
+    "phone_number": "+91 72319 50177",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1100-C, Kissan Marg, Shivshakti Colony, Barkat Nagar, Tonk Phatak, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302015",
+    "area": "Shivshakti Colony, Barkat Nagar, Tonk Phatak",
+    "latitude": 26.873215199999997,
+    "longitude": 75.7924523,
+    "place_id": "ChIJtZjZMQq1bTkRykRVsxDljFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtZjZMQq1bTkRykRVsxDljFA",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:01:40"
+  }
+]

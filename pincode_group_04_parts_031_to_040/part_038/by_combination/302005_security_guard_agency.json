@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Z plus Securities",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security service",
+    "all_categories": "Security service",
+    "pincode": "302005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Ashok marg, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302001",
+    "area": "302005",
+    "latitude": 26.9033528,
+    "longitude": 75.79324559999999,
+    "place_id": "ChIJLSUsKH61bTkRFCHRZChIY_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLSUsKH61bTkRFCHRZChIY_A",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:54:01"
+  },
+  {
+    "business_name": "SM INDIA SOLUTIONS",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service",
+    "pincode": "302005",
+    "phone_number": "+91 63771 77417",
+    "website": "https://smindiasolutions.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sheopur Rd, Sanganer, Pratap Nagar, Jaipur, Rajasthan 302029",
+    "area": "Sanganer, Pratap Nagar",
+    "latitude": 26.811058199999998,
+    "longitude": 75.8055298,
+    "place_id": "ChIJ-zMhBeDJbTkRsw-iFx3RXbQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-zMhBeDJbTkRsw-iFx3RXbQ",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:54:02"
+  }
+]

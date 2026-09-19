@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shekhawati chai house",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "302031",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VV5C+HRC, JNU Hostel Rd, Ghati Karolan, Jaipur, Rajasthan 302017",
+    "area": "Ghati Karolan",
+    "latitude": 26.8589284,
+    "longitude": 75.872002,
+    "place_id": "ChIJsxY5HAC3bTkRsWh1MJXaxK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsxY5HAC3bTkRsWh1MJXaxK8",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:24:44"
+  },
+  {
+    "business_name": "Fouji chai ka theka",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Chinese tea house",
+    "all_categories": "Chinese tea house, Açaí shop",
+    "pincode": "302031",
+    "phone_number": "+91 78783 88335",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 49,
+    "address": "145, Dayanand Nagar, Someshwarpuri, Ghat Ki Guni, Jaipur, Rajasthan 302004",
+    "area": "Dayanand Nagar, Someshwarpuri, Ghat Ki Guni",
+    "latitude": 26.8730735,
+    "longitude": 75.8236434,
+    "place_id": "ChIJF4yWk_-3bTkREjugzYX9vsA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF4yWk_-3bTkREjugzYX9vsA",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:24:46"
+  }
+]

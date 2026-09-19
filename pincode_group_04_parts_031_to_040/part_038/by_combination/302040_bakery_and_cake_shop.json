@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bake Nutritious",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Cake decorating equipment shop, Cake shop, Chocolate shop, Cookie shop, Cupcake shop, Pastry shop, Pizza restaurant, Sandwich shop, Wedding bakery",
+    "pincode": "302040",
+    "phone_number": "+91 87004 58309",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No - 2, RZ - 1, near Khaira More, Gopal Nagar Extension, Najafgarh, New Delhi, Delhi, 110043",
+    "area": "Gopal Nagar Extension, Najafgarh",
+    "latitude": 28.611561,
+    "longitude": 76.9752348,
+    "place_id": "ChIJEasjJH0RDTkRpKFxN1mBX74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEasjJH0RDTkRpKFxN1mBX74",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:38:59"
+  },
+  {
+    "business_name": "Bake House",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "302040",
+    "phone_number": "+91 94643 32854",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "44G8+R92, Arya Samaj Rd, Satgur Nagar, Nawanshahr, Punjab 144514",
+    "area": "Satgur Nagar",
+    "latitude": 31.126907799999998,
+    "longitude": 76.1159377,
+    "place_id": "ChIJnWqivca9GjkRHiCyuXwJ63c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnWqivca9GjkRHiCyuXwJ63c",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:38:59"
+  }
+]

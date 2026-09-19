@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucky Fish And Meat Shop",
+    "search_category": "Fish Market",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Store",
+    "pincode": "302022",
+    "phone_number": "+91 86903 84971",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1, Sana gamer, Ravi Appartment, Pratap Nagar, Jaipur, Rajasthan 302033",
+    "area": "Pratap Nagar",
+    "latitude": 26.7994332,
+    "longitude": 75.8433984,
+    "place_id": "ChIJebBmYBjJbTkRHP_xNmD-njU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJebBmYBjJbTkRHP_xNmD-njU",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:14:35"
+  },
+  {
+    "business_name": "Nova Fish Market",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market, Fish & chips restaurant, Fish restaurant, Fresh food market",
+    "pincode": "302022",
+    "phone_number": "+91 92072 16760",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Kempanna Main Rd, Ramaiahreddy Colony, Doddanekundi, Basavanagara, Bengaluru, Karnataka 560037",
+    "area": "Ramaiahreddy Colony, Doddanekundi, Basavanagara",
+    "latitude": 12.971827399999999,
+    "longitude": 77.67979489999999,
+    "place_id": "ChIJF6oRUwARrjsRBPXKL3SgcV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF6oRUwARrjsRBPXKL3SgcV4",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:14:35"
+  }
+]

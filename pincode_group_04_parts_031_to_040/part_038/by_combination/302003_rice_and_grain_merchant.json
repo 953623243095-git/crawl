@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mega Metro Store",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "302003",
+    "phone_number": "+91 94618 98934",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 65,
+    "address": "Shop no 3,4,5, Kalwar Rd, near Vivek college, Jaipur, Rajasthan 302012",
+    "area": "302003",
+    "latitude": 26.9844516,
+    "longitude": 75.594476,
+    "place_id": "ChIJ7_wQTh9ObDkRKKGikE3L23E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7_wQTh9ObDkRKKGikE3L23E",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:48:23"
+  },
+  {
+    "business_name": "Shubham Trading co.",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Aluminium Supplier",
+    "all_categories": "Aluminium Supplier, Furniture store",
+    "pincode": "302003",
+    "phone_number": "+91 85610 19630",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "WRWR+97W, New Ramgarh Rd, Shankar Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302002",
+    "area": "Shankar Nagar",
+    "latitude": 26.9459895,
+    "longitude": 75.8406942,
+    "place_id": "ChIJa1y9Wz2xbTkRQMc55Jtshg4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa1y9Wz2xbTkRQMc55Jtshg4",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:48:25"
+  }
+]

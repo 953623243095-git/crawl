@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K.P Financial",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service, Financial consultant, Investment company, Stock broker",
+    "pincode": "302042",
+    "phone_number": "+91 99083 61090",
+    "website": "http://www.kpfinancial.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2nd Floor, Padmavati Plaza, 303, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "HMT Sathavahana Nagar, Kukatpally",
+    "latitude": 17.495044999999998,
+    "longitude": 78.4006021,
+    "place_id": "ChIJFfy8iy2RyzsRdRhwxfCNrj8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFfy8iy2RyzsRdRhwxfCNrj8",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:44:18"
+  },
+  {
+    "business_name": "Lex Mores",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services",
+    "pincode": "302042",
+    "phone_number": "+91 95602 42438",
+    "website": "http://www.lexmores.com/",
+    "rating": 4.7,
+    "reviews_count": 23,
+    "address": "Block 1, Dynamic House, Block I, Sector 41, Noida, Uttar Pradesh 201303",
+    "area": "Block I, Sector 41",
+    "latitude": 28.5614453,
+    "longitude": 77.3608409,
+    "place_id": "ChIJR0eY6U_lDDkRuxT2T31xa8s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR0eY6U_lDDkRuxT2T31xa8s",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:44:19"
+  }
+]

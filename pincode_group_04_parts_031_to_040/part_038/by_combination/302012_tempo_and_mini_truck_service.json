@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zorvia Cabs",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "302012",
+    "phone_number": "+91 98299 51375",
+    "website": "https://zorviacabs.github.io/",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Shree Ganesh Apartment, Plot Number 112, Kalyanpura, Sanganer, Jaipur, Rajasthan 302020",
+    "area": "Kalyanpura, Sanganer",
+    "latitude": 26.824592799999998,
+    "longitude": 75.75871029999999,
+    "place_id": "ChIJh9pmYuq1bTkRH06yn0VhJuo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh9pmYuq1bTkRH06yn0VhJuo",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:57:12"
+  },
+  {
+    "business_name": "Shrinath Tempo Service",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "302012",
+    "phone_number": "+91 95490 59666",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Road No. 12, Vishwakarma Industrial Area, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302013",
+    "area": "Vishwakarma Industrial Area",
+    "latitude": 26.9934838,
+    "longitude": 75.7791276,
+    "place_id": "ChIJB1u-L66zbTkRFu1QdjTcl5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB1u-L66zbTkRFu1QdjTcl5s",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:57:14"
+  }
+]

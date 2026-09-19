@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BMS ACADEMY",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Training center",
+    "all_categories": "Training center, Education center, Educational institution",
+    "pincode": "302031",
+    "phone_number": "+91 96600 38052",
+    "website": "https://bmsacademy.com/",
+    "rating": 5,
+    "reviews_count": 28,
+    "address": "1st Floor, Park Plaza, BMS ACADEMY, Goner Rd, opp. SBI Bank, Luniyawas, Jaipur, Rajasthan 302031",
+    "area": "Luniyawas, Paldi Meena",
+    "latitude": 26.8673821,
+    "longitude": 75.8915395,
+    "place_id": "ChIJ91GbNKa3bTkRU8i0d-hLTtM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ91GbNKa3bTkRU8i0d-hLTtM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:25:57"
+  },
+  {
+    "business_name": "Jaipur Computer Academy",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Training center",
+    "all_categories": "Training center",
+    "pincode": "302031",
+    "phone_number": "+91 82094 46082",
+    "website": "https://jaipur-computer-academy.ueniweb.com/?utm_campaign=gmb",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "31-b Pratap nagar extension, No. Underpass, near 5, Shankar Vihar Extension, Jamna Puri, Jaipur, Rajasthan 302039",
+    "area": "Shankar Vihar Extension, Jamna Puri",
+    "latitude": 26.9845966,
+    "longitude": 75.758887,
+    "place_id": "ChIJ7bIwtlaxbTkRRb55gevEhBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7bIwtlaxbTkRRb55gevEhBw",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:26:00"
+  }
+]

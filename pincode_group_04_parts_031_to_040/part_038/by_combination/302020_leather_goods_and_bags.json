@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAFARI",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop, Luggage store",
+    "pincode": "302020",
+    "phone_number": "N/A",
+    "website": "https://safaribags.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop number 281, GOYAL TOWER, Varun Path, near jodhpur sweets, Madhyam Marg, choraha, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Madhyam Marg, choraha, Mansarovar",
+    "latitude": 26.8688079,
+    "longitude": 75.75657489999999,
+    "place_id": "ChIJI_v5nwO1bTkRFCLONs1mSio",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI_v5nwO1bTkRFCLONs1mSio",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:10:46"
+  },
+  {
+    "business_name": "Goel Luggage Corner",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Luggage store",
+    "all_categories": "Luggage store",
+    "pincode": "302020",
+    "phone_number": "+91 98290 57444",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "56/11, Madhyam Marg, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Ward 27, Rajat Path, Mansarovar Sector 5, Mansarovar",
+    "latitude": 26.8635877,
+    "longitude": 75.7593382,
+    "place_id": "ChIJp4JVsQC1bTkRV1on2jA22XI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp4JVsQC1bTkRV1on2jA22XI",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:10:48"
+  }
+]

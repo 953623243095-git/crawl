@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahak Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "302041",
+    "phone_number": "+91 74107 49039",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Unnamed Road, Lalarpura, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "Lalarpura",
+    "latitude": 26.8995918,
+    "longitude": 75.7041979,
+    "place_id": "ChIJdXZrhSZLbDkRUoay514Xprw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdXZrhSZLbDkRUoay514Xprw",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:41:00"
+  },
+  {
+    "business_name": "Garg Chaat",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Panipuri shop",
+    "pincode": "302041",
+    "phone_number": "+91 90403 23000",
+    "website": "https://www.zomato.com/chandigarh/garg-chaat-sector-23",
+    "rating": 4,
+    "reviews_count": 9405,
+    "address": "35, 23C, Sector 23, Chandigarh, 160023",
+    "area": "23C, Sector 23",
+    "latitude": 30.737686399999998,
+    "longitude": 76.7664759,
+    "place_id": "ChIJO9eD5rztDzkR6anyZCYnbWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO9eD5rztDzkR6anyZCYnbWo",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:41:01"
+  }
+]

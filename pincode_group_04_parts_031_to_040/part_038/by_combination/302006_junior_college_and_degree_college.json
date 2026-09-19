@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CollegeBatch",
+    "search_category": "Junior College and Degree College",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "302006",
+    "phone_number": "N/A",
+    "website": "https://www.collegebatch.com/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "2nd Floor, 18, Ajmer Rd, above ICICI Bank, Purani Chungi, Vidhyut Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "Purani Chungi, Vidhyut Nagar",
+    "latitude": 26.8968419,
+    "longitude": 75.7524756,
+    "place_id": "ChIJmY1epEG1bTkR7EEMIWVQRKY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmY1epEG1bTkR7EEMIWVQRKY",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:55:41"
+  },
+  {
+    "business_name": "KISAN LAW COLLEGE",
+    "search_category": "Junior College and Degree College",
+    "primary_category": "College",
+    "all_categories": "College, Law College, Legal services",
+    "pincode": "302006",
+    "phone_number": "+91 94133 44904",
+    "website": "http://www.klcjaipur.com/",
+    "rating": 4.8,
+    "reviews_count": 155,
+    "address": "KLC, Kanti Chandra Rd, Banipark, Jaipur, Rajasthan 302016",
+    "area": "Banipark, Kanti Nagar, Bani Park",
+    "latitude": 26.925559399999997,
+    "longitude": 75.7956031,
+    "place_id": "ChIJ3RAdvn-zbTkRqPlpj2pTHh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3RAdvn-zbTkRqPlpj2pTHh0",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:55:42"
+  }
+]

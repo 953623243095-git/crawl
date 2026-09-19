@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kidney & Kiddoz",
+    "search_category": "Dialysis Center",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "302018",
+    "phone_number": "+91 83064 52026",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Gayatri Nagar B, 48 A, Maharani Farm, Durgapura, Jaipur, Rajasthan 302018",
+    "area": "Maharani Farm, Gayatri Nagar B, Durgapura",
+    "latitude": 26.8496342,
+    "longitude": 75.7780904,
+    "place_id": "ChIJIVuE2uW1bTkRWWucLWuUv5g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIVuE2uW1bTkRWWucLWuUv5g",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:07:02"
+  },
+  {
+    "business_name": "Dr A. K. Sharma",
+    "search_category": "Dialysis Center",
+    "primary_category": "Nephrologist",
+    "all_categories": "Nephrologist, Transplant surgeon",
+    "pincode": "302018",
+    "phone_number": "+91 95491 58888",
+    "website": "https://www.eternalhospital.com/doctor/a-k-sharma",
+    "rating": 4.5,
+    "reviews_count": 77,
+    "address": "Eternal Hospital, 3A, Jagatpura Rd, near Jawahar Circle, Akhil Nagar, Chainpura, Malviya Nagar, Jaipur, Rajasthan 302017",
+    "area": "Akhil Nagar, Chainpura, Malviya Nagar",
+    "latitude": 26.8405512,
+    "longitude": 75.80577029999999,
+    "place_id": "ChIJ_Vca5P21bTkR9mxfPxfrnww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_Vca5P21bTkR9mxfPxfrnww",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:07:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DogZilla Pet Kennel",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "302003",
+    "phone_number": "N/A",
+    "website": "https://www.facebook.com/dogzillapetkennel/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Baldeogarh, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302031",
+    "area": "Baldeogarh",
+    "latitude": 26.8937065,
+    "longitude": 75.88477429999999,
+    "place_id": "ChIJPVolpIm3bTkRKO2mRlPjy2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPVolpIm3bTkRKO2mRlPjy2Q",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:48:28"
+  },
+  {
+    "business_name": "Universal Dog Market Jaipur",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "302003",
+    "phone_number": "+91 98280 67274",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Gobind Bhawan, JMC 46, Mirza Ismail Rd, Panch Batti, Jayanti Market, New Colony, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302001",
+    "area": "Panch Batti, Jayanti Market, New Colony",
+    "latitude": 26.917282099999998,
+    "longitude": 75.81210589999999,
+    "place_id": "ChIJfxwCayS3bTkR3jsAvtIws6Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfxwCayS3bTkR3jsAvtIws6Q",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:48:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jp Lights Decor",
+    "search_category": "Tradeshows",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "302041",
+    "phone_number": "+91 99829 27999",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Sirsi Rd, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302041",
+    "area": "302041",
+    "latitude": 26.921613999999998,
+    "longitude": 75.68252199999999,
+    "place_id": "ChIJLzVifpazbTkRKdq5H_N8WUM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLzVifpazbTkRKdq5H_N8WUM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:42:35"
+  },
+  {
+    "business_name": "SMG Events",
+    "search_category": "Tradeshows",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "302041",
+    "phone_number": "+91 99292 59792",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "near kumawat house, Alankar Vihar, Kanakpura, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302034",
+    "area": "Alankar Vihar, Kanakpura",
+    "latitude": 26.9171165,
+    "longitude": 75.7138263,
+    "place_id": "ChIJU2VzjAhNbDkRPJJoICZRPjw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU2VzjAhNbDkRPJJoICZRPjw",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:42:36"
+  }
+]

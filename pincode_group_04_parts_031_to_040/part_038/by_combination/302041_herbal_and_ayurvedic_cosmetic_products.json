@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sea Herbal",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic",
+    "pincode": "302041",
+    "phone_number": "N/A",
+    "website": "https://www.seaherbalstore.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4/1, KCC Nagar Rd, KCC Nagar, Jaipur, Rajasthan 302021",
+    "area": "KCC Nagar",
+    "latitude": 26.8786284,
+    "longitude": 75.7128207,
+    "place_id": "ChIJidYO_2dLbDkROkUbZ2gWSO8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJidYO_2dLbDkROkUbZ2gWSO8",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:41:49"
+  },
+  {
+    "business_name": "Saint Ayurveda",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company",
+    "pincode": "302041",
+    "phone_number": "+91 80 4763 2706",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot No. 50, Ring Road, Chimanpura - Mahpura, Mahapura Rd, near Bhankrota, Jaipur, Rajasthan 302026",
+    "area": "302041",
+    "latitude": 26.8558788,
+    "longitude": 75.67900689999999,
+    "place_id": "ChIJmWCAky1LbDkRaZT13uJmyqk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmWCAky1LbDkRaZT13uJmyqk",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:41:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kelivana",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Flower delivery, Flower designer",
+    "pincode": "302036",
+    "phone_number": "+91 98992 66106",
+    "website": "https://www.kelivana.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1/6996, near Arya Samaj Mandir, Shivaji Park, Shahdara, Delhi, 110032",
+    "area": "Shivaji Park, Shahdara",
+    "latitude": 28.6820454,
+    "longitude": 77.287151,
+    "place_id": "ChIJ2wmKZXn8DDkRcAihIxlu_bw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2wmKZXn8DDkRcAihIxlu_bw",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:31:59"
+  },
+  {
+    "business_name": "Vivaan Flora",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower delivery",
+    "all_categories": "Flower delivery, Dried flower shop, Florist, Flower designer",
+    "pincode": "302036",
+    "phone_number": "N/A",
+    "website": "https://vivaan-flora.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "A-152, Supermart-1, DLF Phase IV, Gurugram, Haryana 122009",
+    "area": "Supermart-1, DLF Phase IV",
+    "latitude": 28.4622867,
+    "longitude": 77.0869173,
+    "place_id": "ChIJf69xkRoZDTkRwzgWpTLQv7E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf69xkRoZDTkRwzgWpTLQv7E",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:31:59"
+  }
+]

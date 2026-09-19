@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Utkarsh Ayurved",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company, Ayurvedic clinic",
+    "pincode": "302026",
+    "phone_number": "+91 94133 40151",
+    "website": "https://www.utkarshayurveda.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "H1, 94, Road No. 5, RIICO Industrial Area, Bindayaka, Jaipur, Neemera, Rajasthan 302041",
+    "area": "RIICO Industrial Area, Bindayaka",
+    "latitude": 26.915039099999998,
+    "longitude": 75.644857,
+    "place_id": "ChIJfwAjAO1NbDkRfZIcljUAJp8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfwAjAO1NbDkRfZIcljUAJp8",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:17:34"
+  },
+  {
+    "business_name": "Rishi ayurvedaam",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "302026",
+    "phone_number": "+91 86198 63595",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 35,
+    "address": "WP5C+V85, Rangoli Garden Rd, Bankers Colony, Vaishali Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302034",
+    "area": "Bankers Colony, Vaishali Nagar",
+    "latitude": 26.9096451,
+    "longitude": 75.72078669999999,
+    "place_id": "ChIJ26dBHAC1bTkRHv-HP_GEF_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ26dBHAC1bTkRHv-HP_GEF_o",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:17:34"
+  }
+]

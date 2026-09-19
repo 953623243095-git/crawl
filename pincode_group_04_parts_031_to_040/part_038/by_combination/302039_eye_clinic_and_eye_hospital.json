@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganpati eye care",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "302039",
+    "phone_number": "+91 80790 02860",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "146, Surya Nagar, Jamunapuri, Murlipura, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302039",
+    "area": "Surya Nagar, Jamunapuri, Murlipura",
+    "latitude": 26.980840099999998,
+    "longitude": 75.7624702,
+    "place_id": "ChIJBb6ofjqzbTkRFVrT76lCqZ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBb6ofjqzbTkRFVrT76lCqZ0",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:37:18"
+  },
+  {
+    "business_name": "Neelam Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "302039",
+    "phone_number": "+91 94147 09188",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "p.no:89,krishna colony,Near prerna hospital sec-1, vidhydhar nagar, Sikar Rd, Murlipura, Jaipur, Rajasthan 302039",
+    "area": "Sector 2, Radha Govind Colony, Murlipura",
+    "latitude": 26.955156,
+    "longitude": 75.771902,
+    "place_id": "ChIJ3_RHIK6zbTkRJw8YzbOhBhA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3_RHIK6zbTkRJw8YzbOhBhA",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:37:18"
+  }
+]

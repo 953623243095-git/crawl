@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Expert Auto Care",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "302027",
+    "phone_number": "+91 95877 81661",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "jay, bank of broda, P 70, Agra Rd, Lakshmi Nagar, Paldi Meena, Jaipur, Bagrana, Rajasthan 302031",
+    "area": "Lakshmi Nagar, Paldi Meena",
+    "latitude": 26.879703,
+    "longitude": 75.9162029,
+    "place_id": "ChIJMd_0wmu5bTkRYqPFECcdqbs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMd_0wmu5bTkRYqPFECcdqbs",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:19:11"
+  },
+  {
+    "business_name": "The Platinum Autohaus",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "302027",
+    "phone_number": "+91 91668 06578",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Narayan Dham, Plot No. 83, near Bharat Mata Circle, Manyawas, Mansarover, Narayan Vihar, Jaipur, Rajasthan 302020",
+    "area": "Manyawas, Mansarover, Narayan Vihar",
+    "latitude": 26.8593926,
+    "longitude": 75.728047,
+    "place_id": "ChIJP7WS-3y1bTkRNZ6Ufe8UVZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP7WS-3y1bTkRNZ6Ufe8UVZ4",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:19:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Iconix Hospital",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "302019",
+    "phone_number": "+91 82398 88451",
+    "website": "https://iconixhospital.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "D-9/90, opp. Akshardham Temple, Akruti Apartments, Chitrakoot, Vaishali Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "Akruti Apartments, Chitrakoot, Vaishali Nagar",
+    "latitude": 26.9017645,
+    "longitude": 75.740095,
+    "place_id": "ChIJbYIwEMy1bTkRjq1yso6LybE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbYIwEMy1bTkRjq1yso6LybE",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:09:02"
+  },
+  {
+    "business_name": "Shree Maheshwari Diagnostic & Physiotherapy Center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "302019",
+    "phone_number": "+91 83063 00304",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 9,
+    "address": "VPMR+CMG, near Dr. Rajendra Prasad Nagar-A, Rani Sati Nagar, Nirman Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302019",
+    "area": "Rani Sati Nagar, Nirman Nagar",
+    "latitude": 26.8835557,
+    "longitude": 75.7417091,
+    "place_id": "ChIJawVZHzq1bTkRvJCt7EU_SaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJawVZHzq1bTkRvJCt7EU_SaE",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:09:03"
+  }
+]

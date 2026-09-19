@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "N Singhal & Company",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant, Financial planner",
+    "pincode": "302006",
+    "phone_number": "N/A",
+    "website": "http://nsac.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "23, Wisdom Lakshmi Dharam, kanta Lane, Purohit Ka Bass, Geejgarh Vihar Colony, Bais Godam, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302016",
+    "area": "Purohit Ka Bass, Geejgarh Vihar Colony, Bais Godam",
+    "latitude": 26.9003315,
+    "longitude": 75.7881623,
+    "place_id": "ChIJPemHDBS0bTkRMDrQXTKw2f0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPemHDBS0bTkRMDrQXTKw2f0",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:56:02"
+  },
+  {
+    "business_name": "Rishabh Group of Companies",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Business center",
+    "all_categories": "Business center",
+    "pincode": "302006",
+    "phone_number": "+91 141 235 0272",
+    "website": "https://www.rishabhgroups.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "World Business Center, Ridhiraj, Sushilpura, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "Ridhiraj, Sushilpura",
+    "latitude": 26.8980721,
+    "longitude": 75.7585332,
+    "place_id": "ChIJU-xwDuizbTkR4qtQy4j_b4A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU-xwDuizbTkR4qtQy4j_b4A",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:56:04"
+  }
+]

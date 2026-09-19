@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "shree dev honda care",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop, Bike wash, Mechanic, Motorcycle shop, Oil change service, Vehicle inspection service",
+    "pincode": "302034",
+    "phone_number": "+91 95876 15346",
+    "website": "http://reoox.com/bike%20services/9587615346",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "rd number 1, Sirsi Rd, Panchyawala, Jaipur, Rajasthan 302034",
+    "area": "Panchyawala",
+    "latitude": 26.921562299999998,
+    "longitude": 75.72749979999999,
+    "place_id": "ChIJM7O63lGzbTkR5j00YN-IrUw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM7O63lGzbTkR5j00YN-IrUw",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:29:40"
+  },
+  {
+    "business_name": "Auto Malleable",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto parts manufacturer",
+    "all_categories": "Auto parts manufacturer",
+    "pincode": "302034",
+    "phone_number": "+91 98283 36608",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Rd No.15, Vishwakarma Industrial Area, Jaipur, Jaipur Greater (M Corp.) (Part), Rajasthan 302013",
+    "area": "Vishwakarma Industrial Area",
+    "latitude": 26.9965752,
+    "longitude": 75.7880507,
+    "place_id": "ChIJFSkMOBKybTkRkRWvMRZx4aQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFSkMOBKybTkRkRWvMRZx4aQ",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:29:41"
+  }
+]

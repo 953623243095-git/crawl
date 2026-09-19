@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rakesh Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Jeweler",
+    "pincode": "302037",
+    "phone_number": "+91 80501 88402",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "112/1, Hemaredy complex, Mangammanapalya Main Rd, next to state bank of India, Bengaluru, Karnataka 560068",
+    "area": "Rajiv Gandhi Nagar, 7th Sector, HSR Layout",
+    "latitude": 12.906589499999999,
+    "longitude": 77.6305407,
+    "place_id": "ChIJsU3kVOsUrjsRAcSvn-1lJK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsU3kVOsUrjsRAcSvn-1lJK0",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:33:16"
+  },
+  {
+    "business_name": "Repair Gold Jewellery Beads",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry repair service",
+    "all_categories": "Jewelry repair service, Jewelry designer, Jewelry manufacturer, Jewelry store",
+    "pincode": "302037",
+    "phone_number": "+91 82838 87199",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "60 Ghara Mohalla, Victoria School rd, near Books Market Road, Patiala, Punjab 147001",
+    "area": "Old Lal Bagh Mohalla",
+    "latitude": 30.3303966,
+    "longitude": 76.4018242,
+    "place_id": "ChIJfRGOwvgpEDkRZLmWrwgFl4g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfRGOwvgpEDkRZLmWrwgFl4g",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:33:16"
+  }
+]

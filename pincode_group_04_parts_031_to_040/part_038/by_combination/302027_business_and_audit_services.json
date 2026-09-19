@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "First Reports",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Tax preparation service",
+    "all_categories": "Tax preparation service",
+    "pincode": "302027",
+    "phone_number": "+91 82399 26435",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "UDB Tower, 305, 3RD FLOOR, BUSINESS AVENUE, Govind Marg, Raja Park, Jaipur, Rajasthan 302004",
+    "area": "Saket Colony, Raja Park",
+    "latitude": 26.8998596,
+    "longitude": 75.8345799,
+    "place_id": "ChIJiy7TlHa3bTkRPt9GRiPAnWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiy7TlHa3bTkRPt9GRiPAnWg",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:20:11"
+  },
+  {
+    "business_name": "S Manish & Associates",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant",
+    "pincode": "302027",
+    "phone_number": "+91 99829 98088",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 30,
+    "address": "BHUVI\", B-23 & 24, Agra Rd, Green Park, Jaipur, Rajasthan 302031",
+    "area": "Vijaypura, Green Park",
+    "latitude": 26.886971499999998,
+    "longitude": 75.89658519999999,
+    "place_id": "ChIJoSL68363bTkReHRsw1l2t7w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoSL68363bTkReHRsw1l2t7w",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:20:11"
+  }
+]

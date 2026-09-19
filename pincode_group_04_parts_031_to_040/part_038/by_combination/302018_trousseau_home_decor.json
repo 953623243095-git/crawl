@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HH Box Studio",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "302018",
+    "phone_number": "+91 75685 52666",
+    "website": "http://www.instagram.com/giftee_giftboxes",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "90/142, Patel Marg, Mansarovar Sector 7, Sector 9, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Mansarovar Sector 7, Sector 9, Mansarovar",
+    "latitude": 26.8511454,
+    "longitude": 75.7687545,
+    "place_id": "ChIJzygLC2a1bTkRk4rM8MgOJf8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzygLC2a1bTkRk4rM8MgOJf8",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:07:40"
+  },
+  {
+    "business_name": "Blissful Decor",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Art gallery",
+    "all_categories": "Art gallery",
+    "pincode": "302018",
+    "phone_number": "+91 95711 62334",
+    "website": "https://blissfulhomesbyshruti.com/",
+    "rating": 4.8,
+    "reviews_count": 65,
+    "address": "175 Bairathi Street,Gayatri NagarB, Maharani Farm, Durgapura, Jaipur, Rajasthan 302018",
+    "area": "Mahaveer Nagar 2, Maharani Farm, Gayatri Nagar B, Durgapura",
+    "latitude": 26.8495377,
+    "longitude": 75.77959539999999,
+    "place_id": "ChIJi8H-4Qu1bTkRQsNHGK8x6o4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi8H-4Qu1bTkRQsNHGK8x6o4",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:07:41"
+  }
+]

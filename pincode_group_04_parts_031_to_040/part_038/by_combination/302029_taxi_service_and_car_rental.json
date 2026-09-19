@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dadhich Tour and travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Air taxi, Auto upholsterer, Car leasing service",
+    "pincode": "302029",
+    "phone_number": "+91 86968 65014",
+    "website": "http://eagerpay.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Balaji Tower, 75, Rampura Rd, near Water Tank, Sanganer, Jaipur, Rajasthan 302029",
+    "area": "Sanganer",
+    "latitude": 26.8205587,
+    "longitude": 75.7604112,
+    "place_id": "ChIJx_12XZrLbTkR9v2VvY_SUBM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx_12XZrLbTkR9v2VvY_SUBM",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:23:22"
+  },
+  {
+    "business_name": "Jaipur Taxi & Self Drive Cars",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "302029",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ashok Vihar, C38, Muhana Mandi Rd, Sanganer, Jaipur, Muhana, Rajasthan 302029",
+    "area": "Sanganer",
+    "latitude": 26.8011691,
+    "longitude": 75.7425447,
+    "place_id": "ChIJX-fkni_LbTkRM-tri_SeEyY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX-fkni_LbTkRM-tri_SeEyY",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:23:22"
+  }
+]

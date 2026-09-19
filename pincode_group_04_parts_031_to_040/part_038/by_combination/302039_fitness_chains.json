@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Flex Fitness Center",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Aerobics Class",
+    "pincode": "302039",
+    "phone_number": "+91 94141 23999",
+    "website": "N/A",
+    "rating": 2.6,
+    "reviews_count": null,
+    "address": "E-52, Bank Colony, Murlipura Scheme, Murlipura, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302039",
+    "area": "Bank Colony, Murlipura Scheme, Murlipura",
+    "latitude": 26.972231999999998,
+    "longitude": 75.760514,
+    "place_id": "ChIJjTgM_VeybTkRitV-vuDkzvs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjTgM_VeybTkRitV-vuDkzvs",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:37:28"
+  },
+  {
+    "business_name": "Fighting Choice in Jaipur - Self Defence & MMA Training",
+    "search_category": "Fitness Chains",
+    "primary_category": "Martial arts club",
+    "all_categories": "Martial arts club, Boxing club, Boxing Coaching Center, Fitness center, Kickboxing school, Muay Thai boxing gym, Self defense school",
+    "pincode": "302039",
+    "phone_number": "+91 81013 13713",
+    "website": "https://fightingchoice.com/fighting-choice-in-jaipur/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Jalvayu Vihar, near Vidyadhar Nagar Stadium Road, Sector 10, Vishwakarma Industrial Area, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302039",
+    "area": "Sector 10, Vishwakarma Industrial Area",
+    "latitude": 26.966309,
+    "longitude": 75.7886171,
+    "place_id": "ChIJubEQNqqzbTkRWra6kjK28E4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJubEQNqqzbTkRWra6kjK28E4",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:37:28"
+  }
+]

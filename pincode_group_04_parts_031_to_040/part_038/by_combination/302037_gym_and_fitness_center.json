@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Fitness Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "302037",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kalwada Village, Kalwara, Rajasthan 302037",
+    "area": "Kalwada Village",
+    "latitude": 26.7985436,
+    "longitude": 75.63504499999999,
+    "place_id": "ChIJK90R0Yk1bDkRCpghKFKO5JY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK90R0Yk1bDkRCpghKFKO5JY",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:33:30"
+  },
+  {
+    "business_name": "Eagle Fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Fitness center",
+    "pincode": "302037",
+    "phone_number": "+91 97990 03393",
+    "website": "https://www.instagram.com/eagle_fitnessclub/profilecard/?igsh=Zzl4cXBhMXdib3V5",
+    "rating": 4.9,
+    "reviews_count": 155,
+    "address": "Kalu Baba Plaza, Hatoj - Kalwar - Jaipur Rd, Jaipur, Hathoj, Rajasthan 302044",
+    "area": "302037",
+    "latitude": 26.957374899999998,
+    "longitude": 75.67837109999999,
+    "place_id": "ChIJqT06YMBNbDkRk9ujjWVZkMo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqT06YMBNbDkRk9ujjWVZkMo",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:33:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "On Edge Unisex Saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "302041",
+    "phone_number": "+91 96800 79616",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Rosewood Apartment, Kanakpura, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302041",
+    "area": "Kanakpura",
+    "latitude": 26.924965999999998,
+    "longitude": 75.6983948,
+    "place_id": "ChIJXeKPxrtMbDkRpehLkdChpac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXeKPxrtMbDkRpehLkdChpac",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:41:48"
+  },
+  {
+    "business_name": "Unique Mens Hair Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser, Barber shop",
+    "pincode": "302041",
+    "phone_number": "+91 92692 22212",
+    "website": "https://whimsical-taiyaki-d58d4d.netlify.app/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No. 11, Kala Market, Gandhi Path Rd, near SKL, West, Vaishali Estate, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "West, Vaishali Estate",
+    "latitude": 26.8995106,
+    "longitude": 75.6934685,
+    "place_id": "ChIJR-q5DvO1bTkRYAlQ38Zl08A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR-q5DvO1bTkRYAlQ38Zl08A",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:41:51"
+  }
+]

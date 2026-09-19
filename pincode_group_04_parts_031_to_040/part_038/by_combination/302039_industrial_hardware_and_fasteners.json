@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Strips India",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Pneumatic tools supplier, Industrial chemicals wholesaler, Packaging company",
+    "pincode": "302039",
+    "phone_number": "+91 98100 03205",
+    "website": "https://stripsindia.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Plot No.42, Bhairuji Nagar, Road No.14, Sikar Rd, Jaipur, Rajasthan 302013",
+    "area": "Harmada",
+    "latitude": 27.0007786,
+    "longitude": 75.7733193,
+    "place_id": "ChIJk23Xy1izbTkRlleYb8EJ2OY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk23Xy1izbTkRlleYb8EJ2OY",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:38:34"
+  },
+  {
+    "business_name": "Sevak Hardware",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Store",
+    "pincode": "302039",
+    "phone_number": "+91 89492 39040",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Road No.14, Sikar Rd, Vishwakarma Industrial Area, Harmada, Jaipur, Rajasthan 302013",
+    "area": "Vishwakarma Industrial Area, Harmada",
+    "latitude": 26.995006999999998,
+    "longitude": 75.77035339999999,
+    "place_id": "ChIJB48ERGWybTkR58LifeVuQR8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB48ERGWybTkR58LifeVuQR8",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:38:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "302005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VQVW+F6M, Jyothi Nagar, Lalkothi, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302015",
+    "area": "Jyothi Nagar, Lalkothi",
+    "latitude": 26.893704099999997,
+    "longitude": 75.795535,
+    "place_id": "ChIJ9yu3zSK0bTkRXJEGpy67Ffg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9yu3zSK0bTkRXJEGpy67Ffg",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:52:26"
+  },
+  {
+    "business_name": "Choudhary Agro Foods",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "302005",
+    "phone_number": "+91 98872 54295",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 8,
+    "address": "F-28 RIICO Industrial Area Ki, Renwal, Rajasthan 303603",
+    "area": "302005",
+    "latitude": 27.1590362,
+    "longitude": 75.3655378,
+    "place_id": "ChIJiUiFm2f1bDkRydSRYJUJLKk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiUiFm2f1bDkRydSRYJUJLKk",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:52:28"
+  }
+]

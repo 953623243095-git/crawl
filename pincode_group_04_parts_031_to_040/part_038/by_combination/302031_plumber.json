@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Electrician and plumber home services",
+    "search_category": "Plumber",
+    "primary_category": "Repair service",
+    "all_categories": "Repair service",
+    "pincode": "302031",
+    "phone_number": "+91 94601 12256",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6ma82, Indira Gandhi Nagar, Sector 6, jagatpura, Jaipur, Rajasthan 303012",
+    "area": "Indira Gandhi Nagar, Sector 6, jagatpura",
+    "latitude": 26.8396936,
+    "longitude": 75.89205079999999,
+    "place_id": "ChIJUYSP-Xy3bTkRCdaEzIm_IUA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUYSP-Xy3bTkRCdaEzIm_IUA",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:25:32"
+  },
+  {
+    "business_name": "DYNAMIC MEP SERVICES LLP",
+    "search_category": "Plumber",
+    "primary_category": "Air conditioning system supplier",
+    "all_categories": "Air conditioning system supplier, Air conditioning contractor, Air conditioning store",
+    "pincode": "302031",
+    "phone_number": "+91 98295 04643",
+    "website": "https://dynamicmep.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Agra Rd, opposite Rajesh Toyota, Paldi Meena, Jaipur, Rajasthan 302031",
+    "area": "Paldi Meena",
+    "latitude": 26.8840228,
+    "longitude": 75.8988325,
+    "place_id": "ChIJ3fGdO7y1bTkRBRN9lToFKAs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3fGdO7y1bTkRBRN9lToFKAs",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:25:33"
+  }
+]

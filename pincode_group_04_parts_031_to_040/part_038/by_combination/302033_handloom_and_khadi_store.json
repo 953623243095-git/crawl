@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radhey Handloom",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store, Clothing store, Clothing supplier, Clothing Accessories Store",
+    "pincode": "302033",
+    "phone_number": "+91 90240 79122",
+    "website": "https://www.radhey-textiles.emergent.host/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "42, Vivek Vihar Mode, Mayapuri, Jagatpura, Jaipur, Rajasthan 302017",
+    "area": "Vivek Vihar Mode, Mayapuri, Jagatpura",
+    "latitude": 26.835643599999997,
+    "longitude": 75.8275943,
+    "place_id": "ChIJTb_iDgC3bTkRnFeb-izE7Wo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTb_iDgC3bTkRnFeb-izE7Wo",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:27:04"
+  },
+  {
+    "business_name": "Khadi Bhandar",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "302033",
+    "phone_number": "+91 94135 23334",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "3 MA 2, behind PNB BANK, Indira Gandhi Nagar, Sector-3, Jagatpura, Jaipur, Rajasthan 302017",
+    "area": "Indira Gandhi Nagar, Sector-3, Jagatpura",
+    "latitude": 26.8367823,
+    "longitude": 75.8710603,
+    "place_id": "ChIJDfPw6Aa3bTkRtgXKcBM19Og",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDfPw6Aa3bTkRtgXKcBM19Og",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:27:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Roop Highlights by AGH",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Banquet hall, Restaurant, Swimming pool",
+    "pincode": "302040",
+    "phone_number": "+91 73576 77127",
+    "website": "http://www.abhinandangroupofhotels.com/",
+    "rating": 4.6,
+    "reviews_count": 185,
+    "address": "17, Niwaru Rd, opposite Dayal Nursing Home, Ganesh Nagar, Jaipur, Niwaroo, Rajasthan 302012",
+    "area": "Ganesh Nagar",
+    "latitude": 26.9674813,
+    "longitude": 75.7200371,
+    "place_id": "ChIJ4xT05aazbTkRHHSaFBnGOms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4xT05aazbTkRHHSaFBnGOms",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:39:58"
+  },
+  {
+    "business_name": "Super Hotel O Laxmi Nagar Jhotwara formerly Ballyfin Retreat",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Inn, Lodge, Motel, Villa",
+    "pincode": "302040",
+    "phone_number": "+91 124 433 0599",
+    "website": "https://www.oyorooms.com/249856/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Jaipur Hotel, Plot Number - 74 west part, Laxmi Nagar, Jaipur, Rajasthan 302012",
+    "area": "Laxmi Nagar, Ward Number 7, Jhotwara",
+    "latitude": 26.9626774,
+    "longitude": 75.74035169999999,
+    "place_id": "ChIJOZo7PmWzbTkRq6A_l8Vm_b0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOZo7PmWzbTkRq6A_l8Vm_b0",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:40:00"
+  }
+]

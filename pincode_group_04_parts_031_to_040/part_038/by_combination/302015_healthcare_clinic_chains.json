@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saket Hospital Jaipur",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, General hospital",
+    "pincode": "302015",
+    "phone_number": "+91 88750 02436",
+    "website": "http://www.sakethospital.in/",
+    "rating": 4.2,
+    "reviews_count": 1544,
+    "address": "Sector 10, Meera Marg, Ward Number 43, Agarwal Farm, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Ward Number 43, Agarwal Farm, Mansarovar",
+    "latitude": 26.8489914,
+    "longitude": 75.7649892,
+    "place_id": "ChIJS_5Dm6G1bTkRjHcg3yElE2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS_5Dm6G1bTkRjHcg3yElE2U",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:01:01"
+  },
+  {
+    "business_name": "Metro Mas Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Cardiologist, Dialysis center, Obstetrician-gynecologist, Heart hospital, Orthopedic surgeon, Pediatrician",
+    "pincode": "302015",
+    "phone_number": "+91 141 666 1234",
+    "website": "https://www.metrohospitals.com/hospital/metro-mas-hospital-jaipur-rajasthan/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shipra Path, Near Technology park, Shanthi Nagar, Mansarovar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302020",
+    "area": "Shanthi Nagar, Mansarovar",
+    "latitude": 26.8681622,
+    "longitude": 75.7683366,
+    "place_id": "ChIJh1Ty8Ky1bTkRXuaVxeww-OA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh1Ty8Ky1bTkRXuaVxeww-OA",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 07:01:02"
+  }
+]

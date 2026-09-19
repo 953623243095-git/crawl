@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "302003",
+    "phone_number": "+91 95091 75184",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "health hospital Mahesh nagar near, Adarsh Krishna Nagar, Mahesh Nagar, Gopal Pura Mode, Jaipur, Rajasthan 302015",
+    "area": "Adarsh Krishna Nagar, Mahesh Nagar, Gopal Pura Mode",
+    "latitude": 26.8844909,
+    "longitude": 75.78838689999999,
+    "place_id": "ChIJJ58PKt61bTkRBommxsMRsv8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ58PKt61bTkRBommxsMRsv8",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:48:23"
+  },
+  {
+    "business_name": "Ahsan Chicken Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken shop",
+    "all_categories": "Chicken shop",
+    "pincode": "302003",
+    "phone_number": "+91 82090 10436",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 38,
+    "address": "Makka masjid Barkat, Makka Colony, Jaipur, Rajasthan 302012",
+    "area": "Makka Colony, Shivaji Nagar, Jhotwara",
+    "latitude": 26.9489843,
+    "longitude": 75.7528895,
+    "place_id": "ChIJ_SDJMYKzbTkRTNPerWlp_Rg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_SDJMYKzbTkRTNPerWlp_Rg",
+    "part_id": "part_038",
+    "crawled_at": "2026-09-19 06:48:25"
+  }
+]
