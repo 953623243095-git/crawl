@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaap chaska",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "250601",
+    "phone_number": "+91 70604 86060",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Geeta medical store Chaap chaska, Main Bazaar, Agarwal Mandi, Tatiri Rural, Tatiri, Uttar Pradesh 250601",
+    "area": "Main Bazaar, Agarwal Mandi",
+    "latitude": 28.954037099999997,
+    "longitude": 77.27129359999999,
+    "place_id": "ChIJAazsFvVTDDkR5PB8nGrDbdo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAazsFvVTDDkR5PB8nGrDbdo",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:10:52"
+  },
+  {
+    "business_name": "Raj Vaishno Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Dhaba, Vegetarian restaurant",
+    "pincode": "250601",
+    "phone_number": "+91 98969 49767",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 841,
+    "address": "X2QF+M7Q, near IDBI BANK, opp. MADRAS DOSA, Model Town, Sonipat, Haryana 131001",
+    "area": "Model Town",
+    "latitude": 28.989216799999998,
+    "longitude": 77.023224,
+    "place_id": "ChIJZzgVaxKwDTkRL0YfQkXJ3hw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZzgVaxKwDTkRL0YfQkXJ3hw",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:10:55"
+  }
+]

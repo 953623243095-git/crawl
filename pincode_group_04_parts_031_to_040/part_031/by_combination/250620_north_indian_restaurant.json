@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rasoi Angan Family Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "250620",
+    "phone_number": "+91 95729 43514",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 108,
+    "address": "High school over bridge, Bihta Sarmera Bypass Road, se purav, Lakhna, Bihar 804453",
+    "area": "se purav",
+    "latitude": 25.4533485,
+    "longitude": 85.15400249999999,
+    "place_id": "ChIJWT-PPuCl8jkR5rukfiddhhA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWT-PPuCl8jkR5rukfiddhhA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:22:43"
+  },
+  {
+    "business_name": "Urban Turban Bistro",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Asian restaurant, Bar, Mughlai restaurant, North Indian restaurant",
+    "pincode": "250620",
+    "phone_number": "+91 84492 84487",
+    "website": "https://easysearch.co.in/listing/urban-turban-bistro/",
+    "rating": 4.3,
+    "reviews_count": 1375,
+    "address": "1st Floor, Kulri, opposite Canara Bank, The Mall Road, Mussoorie, Uttarakhand 248179",
+    "area": "The Mall Road",
+    "latitude": 30.455709199999998,
+    "longitude": 78.0804335,
+    "place_id": "ChIJAyBncMTQCDkR97zceVuV_D0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAyBncMTQCDkR97zceVuV_D0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:22:45"
+  }
+]

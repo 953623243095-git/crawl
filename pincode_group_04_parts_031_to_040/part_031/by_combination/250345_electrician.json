@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ak Electronics",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "250345",
+    "phone_number": "+91 75992 02533",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "482P+6Fr, 1, MDR 34W, Angadpur, Delhi, Uttar Pradesh 250345",
+    "area": "250345",
+    "latitude": 29.100572,
+    "longitude": 77.3361913,
+    "place_id": "ChIJ46Os79ZIDDkRA49QxM-ef1o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ46Os79ZIDDkRA49QxM-ef1o",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:59:05"
+  },
+  {
+    "business_name": "Kisan Electric Works",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "250345",
+    "phone_number": "+91 79068 44750",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4C7G+7Rm, MDR 34W, Barnawa, Delhi, Uttar Pradesh 250345",
+    "area": "250345",
+    "latitude": 29.1131872,
+    "longitude": 77.4270506,
+    "place_id": "ChIJy0dGfohGDDkReoOIIkG6Fj0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy0dGfohGDDkReoOIIkG6Fj0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:59:05"
+  }
+]

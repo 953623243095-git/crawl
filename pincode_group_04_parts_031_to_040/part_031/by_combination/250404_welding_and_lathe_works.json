@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sudesh Welding Workshop",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "250404",
+    "phone_number": "+91 90128 22462",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hastinapur Rd, Hastinapur, Uttar Pradesh 250404",
+    "area": "250404",
+    "latitude": 29.1567036,
+    "longitude": 77.9967921,
+    "place_id": "ChIJA6cB4HWLCzkRbUn7QVXjeQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA6cB4HWLCzkRbUn7QVXjeQQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:05:03"
+  },
+  {
+    "business_name": "Poswal Welding technology",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Welding supply store",
+    "all_categories": "Welding supply store",
+    "pincode": "250404",
+    "phone_number": "+91 85958 59425",
+    "website": "http://www.poswalweld.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop no 10, Vishwakarma Setu, Bata A Colony, Millhard Colony, New Industrial Township, Faridabad, Haryana 121001",
+    "area": "Bata A Colony, Millhard Colony, New Industrial Township",
+    "latitude": 28.378115599999997,
+    "longitude": 77.3051855,
+    "place_id": "ChIJVTQP-VHdDDkRF3a-NC9Id2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVTQP-VHdDDkRF3a-NC9Id2I",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:05:04"
+  }
+]

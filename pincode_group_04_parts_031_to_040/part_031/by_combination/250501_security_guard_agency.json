@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gs security system",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security service",
+    "all_categories": "Security service",
+    "pincode": "250501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mokshpuri golabadh, Rohta Rd, Meerut, Uttar Pradesh 250002",
+    "area": "250501",
+    "latitude": 29.0109469,
+    "longitude": 77.6122671,
+    "place_id": "ChIJhXTqN5lnDDkRJ9EVUHKmWvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhXTqN5lnDDkRJ9EVUHKmWvY",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:08:31"
+  },
+  {
+    "business_name": "Lucky chaudhary",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security service",
+    "all_categories": "Security service",
+    "pincode": "250501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "bagpat Road, Chobla, Uttar Pradesh 250501",
+    "area": "250501",
+    "latitude": 28.9910385,
+    "longitude": 77.5214963,
+    "place_id": "ChIJF12pCDxdDDkR3svEbnx20BY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF12pCDxdDDkR3svEbnx20BY",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:08:34"
+  }
+]

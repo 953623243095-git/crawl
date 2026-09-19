@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Crane Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "250615",
+    "phone_number": "+91 99719 60094",
+    "website": "https://saicraneservices.in/",
+    "rating": 4.7,
+    "reviews_count": 33,
+    "address": "HOUSE NO. 206, Huda Colony, Sector 3, Faridabad, Haryana 121004",
+    "area": "Huda Colony, Sector 3",
+    "latitude": 28.3513886,
+    "longitude": 77.3305164,
+    "place_id": "ChIJKa0cBWPbDDkRnj0qQ21kURU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKa0cBWPbDDkRnj0qQ21kURU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:18:12"
+  },
+  {
+    "business_name": "SONA Recovery",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Auto bodywork mechanic, Car repair and maintenance service, Crane service",
+    "pincode": "250615",
+    "phone_number": "+91 94441 38004",
+    "website": "https://sonarecovery.in/",
+    "rating": 4.6,
+    "reviews_count": 42,
+    "address": "20/2, Main Road, Manguli Road, near Kannappa Hotel, Mannarpuram, Sangillyandapuram, Tiruchirappalli, Tamil Nadu 620020",
+    "area": "Mannarpuram, Sangillyandapuram",
+    "latitude": 10.7867556,
+    "longitude": 78.69392789999999,
+    "place_id": "ChIJV6Q0PPv1qjsRMJhyBZBZn_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV6Q0PPv1qjsRMJhyBZBZn_4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:18:13"
+  }
+]

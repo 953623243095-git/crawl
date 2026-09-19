@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ISOLUTION",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop, Cell phone accessory store, Cell phone store",
+    "pincode": "250344",
+    "phone_number": "+91 63973 95239",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Binauli, Uttar Pradesh 250345",
+    "area": "250344",
+    "latitude": 29.094021599999998,
+    "longitude": 77.3991386,
+    "place_id": "ChIJnfg3bQBFDDkRzL5-iKtxgnI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnfg3bQBFDDkRzL5-iKtxgnI",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:57:41"
+  },
+  {
+    "business_name": "Infinix Mobile Center",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "250344",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 301,
+    "address": "6B, Garh Rd, Gandhi Nagar, Meerut, Uttar Pradesh 250001",
+    "area": "Gandhi Nagar",
+    "latitude": 28.9732089,
+    "longitude": 77.7151169,
+    "place_id": "ChIJ__-vIuxkDDkRdOJidc9C92A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__-vIuxkDDkRdOJidc9C92A",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:57:44"
+  }
+]

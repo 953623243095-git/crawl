@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pari Pet Point",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store, Advertising agency",
+    "pincode": "250625",
+    "phone_number": "+91 92892 44006",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop No-4, Tulip Chowk, near Me Spaze Mall, Sector 69, Gurugram, Haryana 122101",
+    "area": "Sector 69",
+    "latitude": 28.396319,
+    "longitude": 77.0313376,
+    "place_id": "ChIJNZbO5fIZDTkReiZAwuCkznA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNZbO5fIZDTkReiZAwuCkznA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:29:30"
+  },
+  {
+    "business_name": "Baba Pet Care",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Animal feed store",
+    "pincode": "250625",
+    "phone_number": "+91 94568 86695",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Shop Nomber 1, Baba Pet, Mini Byp, Karamchari Nagar, Izatnagar, Bareilly, Uttar Pradesh 243122",
+    "area": "Karamchari Nagar, Izatnagar",
+    "latitude": 28.383000499999998,
+    "longitude": 79.3981661,
+    "place_id": "ChIJnV-kO2wHoDkR1xI-ZI43fbs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnV-kO2wHoDkR1xI-ZI43fbs",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:29:30"
+  }
+]

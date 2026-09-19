@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ashish real estate",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Industrial real estate agency",
+    "all_categories": "Industrial real estate agency",
+    "pincode": "250344",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kalina, Meerut, Uttar Pradesh 250502",
+    "area": "250344",
+    "latitude": 29.075454099999998,
+    "longitude": 77.476327,
+    "place_id": "ChIJTxOeUddDDDkRv3zzvU6sAbs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTxOeUddDDDkRv3zzvU6sAbs",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:57:52"
+  },
+  {
+    "business_name": "धन लक्ष्मी प्रोपर्टीज",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "250344",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Bhuni, Uttar Pradesh 250344",
+    "area": "250344",
+    "latitude": 29.134646399999998,
+    "longitude": 77.56802929999999,
+    "place_id": "ChIJQxqAfgxqDDkRbLGROxQcOlU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQxqAfgxqDDkRbLGROxQcOlU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:57:55"
+  }
+]

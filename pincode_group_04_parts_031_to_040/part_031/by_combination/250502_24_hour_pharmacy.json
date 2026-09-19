@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amar Tatv Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "250502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "1285, 1, New Govind Puri, Kanker Khera, Meerut Cantt, Meerut, Uttar Pradesh 250001",
+    "area": "New Govind Puri, Kanker Khera, Meerut Cantt",
+    "latitude": 29.0181899,
+    "longitude": 77.6765099,
+    "place_id": "ChIJU5_UggZlDDkROmWwgeDTNu4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU5_UggZlDDkROmWwgeDTNu4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:09:18"
+  },
+  {
+    "business_name": "Veny Healthcare",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "250502",
+    "phone_number": "+91 84331 80201",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Near Hotel Smart Havan Anandpuri Meerut, Smart Heaven, 59, Near Hotel Samrat Heavens, Anand Puri, Ramgarhi, Meerut Delhi, Uttar Pradesh 250001",
+    "area": "Nehru Nagar, Phool Bagh Colony, Panchsheel Colony",
+    "latitude": 28.976121,
+    "longitude": 77.7242368,
+    "place_id": "ChIJgX-vOMJkDDkRIOzjuoD7POw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgX-vOMJkDDkRIOzjuoD7POw",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:09:21"
+  }
+]

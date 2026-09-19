@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shine Bond",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "250342",
+    "phone_number": "+91 96907 07918",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "NIRBHAY ARCADE, Western Kutchery Rd, Mohanpuri, Meerut, Uttar Pradesh 250001",
+    "area": "Mohanpuri",
+    "latitude": 28.9869715,
+    "longitude": 77.709665,
+    "place_id": "ChIJeQFl3fxkDDkRfbce9d3kvv8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeQFl3fxkDDkRfbce9d3kvv8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:55:15"
+  },
+  {
+    "business_name": "A Unisex Salon Beauty & Makeup Studio",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "250342",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gate No 1, Siddhi Vinayak Complex, 250002, Baghpat Rd, Rishi Nagar, Meerut, Uttar Pradesh 250002",
+    "area": "Rishi Nagar",
+    "latitude": 28.9608521,
+    "longitude": 77.64591639999999,
+    "place_id": "ChIJAwAAb6JmDDkRzZdIsurpeOw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAwAAb6JmDDkRzZdIsurpeOw",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:55:16"
+  }
+]

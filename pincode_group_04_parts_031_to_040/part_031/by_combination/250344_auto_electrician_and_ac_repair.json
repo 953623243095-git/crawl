@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Unique Electrician",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician, Air conditioning repair service, Battery Wholesaler, Electrical installation service, Washer & dryer repair service",
+    "pincode": "250344",
+    "phone_number": "+91 81859 70977",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Madina collage, 3_6_121/28, Street No. 18, Himayatnagar, Hyderabad, Telangana 500029",
+    "area": "AP State Housing Board, Himayatnagar",
+    "latitude": 17.4019328,
+    "longitude": 78.4809552,
+    "place_id": "ChIJKxYFo2aZyzsRyT-cjNrWek4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKxYFo2aZyzsRyT-cjNrWek4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:56:59"
+  },
+  {
+    "business_name": "Mistri Motorstation",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, Auto body shop, Auto repair shop, Mechanic",
+    "pincode": "250344",
+    "phone_number": "+91 98119 99987",
+    "website": "https://www.mistrimotorstation.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "A-64, Sector 80, Block A, Sector 80, Noida, Uttar Pradesh 201305",
+    "area": "Sector 80, Block A, Sector 80",
+    "latitude": 28.5552854,
+    "longitude": 77.4086722,
+    "place_id": "ChIJ4Z96ojHvDDkRID435lSG8Zs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Z96ojHvDDkRID435lSG8Zs",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:56:59"
+  }
+]

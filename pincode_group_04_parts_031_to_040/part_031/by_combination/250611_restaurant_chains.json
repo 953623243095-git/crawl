@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Crazy for pizzaa",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "250611",
+    "phone_number": "+91 75000 42121",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Gandhi Road, near Imli wali Gali, Baraut, Uttar Pradesh 250611",
+    "area": "250611",
+    "latitude": 29.098497,
+    "longitude": 77.26939709999999,
+    "place_id": "ChIJr-REH0pLDDkRmSjRdXhQcdM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr-REH0pLDDkRmSjRdXhQcdM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:16:01"
+  },
+  {
+    "business_name": "Aggarwal Sweets & Fast Food Corner (ASFC)",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "250611",
+    "phone_number": "+91 95571 97312",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "MDR 34W, Madhuban Colony, Baraut, Uttar Pradesh 250611",
+    "area": "Madhuban Colony",
+    "latitude": 29.1016814,
+    "longitude": 77.2710833,
+    "place_id": "ChIJx6Igg6JLDDkRIlSx9iXVff8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx6Igg6JLDDkRIlSx9iXVff8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:16:02"
+  }
+]

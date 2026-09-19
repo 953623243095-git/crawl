@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AS Farm & Banquet hall",
+    "search_category": "Banquet Hall",
+    "primary_category": "Park",
+    "all_categories": "Park",
+    "pincode": "250502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "123, Rohta Rd, Meerut, Uttar Pradesh 250502",
+    "area": "250502",
+    "latitude": 29.02284,
+    "longitude": 77.589584,
+    "place_id": "ChIJj1OsGwBnDDkRQ3B5xlE98OU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj1OsGwBnDDkRQ3B5xlE98OU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:09:54"
+  },
+  {
+    "business_name": "Shivnya Lawns",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall, Community center",
+    "pincode": "250502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sardhana Rd, nr. Indian Oil petrol pump, Dabathwa, Meerut, Uttar Pradesh 250341",
+    "area": "250502",
+    "latitude": 29.073905999999997,
+    "longitude": 77.6258928,
+    "place_id": "ChIJEdGMEwBpDDkRPhF0I0Uv-6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEdGMEwBpDDkRPhF0I0Uv-6o",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:09:54"
+  }
+]

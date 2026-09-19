@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Yellow Straw - Quest Mall",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Health food store, Salad shop",
+    "pincode": "250617",
+    "phone_number": "+91 33 4815 6988",
+    "website": "https://www.theyellowstraw.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Quest Mall, Food Court, 33, Syed Amir Ali Ave, Park Circus, Ballygunge, Kolkata, West Bengal 700017",
+    "area": "Park Circus, Ballygunge",
+    "latitude": 22.5386088,
+    "longitude": 88.365608,
+    "place_id": "ChIJrZVdKgp3AjoRqXMy8HbmMlM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZVdKgp3AjoRqXMy8HbmMlM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:19:19"
+  },
+  {
+    "business_name": "Rakesh Juice & Shakes Parlour",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "250617",
+    "phone_number": "+91 81097 41740",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 54,
+    "address": "Nai Sadak, Lashkar, Gwalior, Madhya Pradesh 474001",
+    "area": "Lashkar",
+    "latitude": 26.2033423,
+    "longitude": 78.154803,
+    "place_id": "ChIJV_sPFdPFdjkRCZ57O516xOY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV_sPFdPFdjkRCZ57O516xOY",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:19:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AyurvedShala",
+    "search_category": "Therapy Center",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic",
+    "pincode": "250619",
+    "phone_number": "+91 63970 96011",
+    "website": "http://www.theayurvedshala.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "W6WG+P4, Meerut Rd, New Colony, Baghpat, Uttar Pradesh 250609",
+    "area": "New Colony",
+    "latitude": 28.946803799999998,
+    "longitude": 77.225365,
+    "place_id": "ChIJYa04MWdTDDkRKheulfpPe9k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYa04MWdTDDkRKheulfpPe9k",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:21:50"
+  },
+  {
+    "business_name": "Yuvraj Child Development Centre",
+    "search_category": "Therapy Center",
+    "primary_category": "Occupational therapist",
+    "all_categories": "Occupational therapist, Physiotherapist, Physiotherapy Center, Rehabilitation center, Speech & Hearing Specialist",
+    "pincode": "250619",
+    "phone_number": "+91 74799 45596",
+    "website": "http://yuvrajchilddevelopmentcentre.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "100 Meters South From, Machhli market, Near VIP Showroom, Anand Marg, Sohankuan, Ramchandrapur, Bihar Sharif, Bihar 803101",
+    "area": "Sohankuan, Ramchandrapur",
+    "latitude": 25.192445,
+    "longitude": 85.5266022,
+    "place_id": "ChIJeVvxSZz18jkRsTSVwWacxIo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeVvxSZz18jkRsTSVwWacxIo",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:21:52"
+  }
+]

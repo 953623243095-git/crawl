@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahi events planner",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "250617",
+    "phone_number": "+91 83188 72426",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 18,
+    "address": "Tirw colony, Fatehgarh, Uttar Pradesh 209601",
+    "area": "Tirw colony",
+    "latitude": 27.3577749,
+    "longitude": 79.6295454,
+    "place_id": "ChIJA8vF3GExnjkRL40ow_Vx1vQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA8vF3GExnjkRL40ow_Vx1vQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:20:18"
+  },
+  {
+    "business_name": "D-Day Evento",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Event management company, Outdoor activity organiser, Party planner, Professional organizer, Wedding planner, Wedding service",
+    "pincode": "250617",
+    "phone_number": "+91 97033 32813",
+    "website": "https://ddayevento.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Srinilayam, Plot no : 88/5, TNGO's Colony Phase 2, TNGOS Colony, Gachibowli, Hyderabad, Telangana 500046",
+    "area": "TNGO's Colony Phase 2, TNGOS Colony, Gachibowli",
+    "latitude": 17.4371855,
+    "longitude": 78.3330125,
+    "place_id": "ChIJ7wwNzAkyBSwRCPJrv3122Yw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7wwNzAkyBSwRCPJrv3122Yw",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:20:19"
+  }
+]

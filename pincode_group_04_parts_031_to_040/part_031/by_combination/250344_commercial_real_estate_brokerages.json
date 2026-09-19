@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agarwal Properties",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "250344",
+    "phone_number": "+91 98370 87795",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "321, Delhi Road, Meerut Delhi, Uttar Pradesh 250002",
+    "area": "Madhav Puram",
+    "latitude": 28.971691699999997,
+    "longitude": 77.690061,
+    "place_id": "ChIJSx3FYltkDDkR9jjFA1Ldydk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSx3FYltkDDkR9jjFA1Ldydk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:57:52"
+  },
+  {
+    "business_name": "Aera Infra Associates",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Commercial real estate agency, Industrial real estate agency, Property investment company, Property management company, Real estate rental agency",
+    "pincode": "250344",
+    "phone_number": "+91 98974 13354",
+    "website": "https://aerainfra.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Office No 106, 1st Floor, Deep Complex, Begum Bridge, beside Akash Ganga Sarees, Sotiganj, Meerut, Uttar Pradesh 250001",
+    "area": "Sotiganj",
+    "latitude": 28.9897122,
+    "longitude": 77.705968,
+    "place_id": "ChIJ_bVk539lDDkRCvN0CBA01zE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_bVk539lDDkRCvN0CBA01zE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:57:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amir Broiler",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "250621",
+    "phone_number": "+91 88288 95000",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "324/5, PL Lokhande Marg, Gulshan Baug, Chembur West, Jyothi Nagar, Chembur, Mumbai, Maharashtra 400089",
+    "area": "Gulshan Baug, Chembur West, Jyothi Nagar, Chembur",
+    "latitude": 19.0648979,
+    "longitude": 72.8995511,
+    "place_id": "ChIJmaVCBSDG5zsRNfdHBEOGMJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmaVCBSDG5zsRNfdHBEOGMJM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:24:19"
+  },
+  {
+    "business_name": "Al maaz chicken",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry store",
+    "all_categories": "Poultry store, Chicken shop, Supplier, Food manufacturer, Meat processor, Meat wholesaler, Meat products store, Wholesale market",
+    "pincode": "250621",
+    "phone_number": "+91 95677 38507",
+    "website": "https://www.chattybao.com/Almaaz-Chicken",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Padivattom, Edappally, Ernakulam, Keralam 682024",
+    "area": "Padivattom, Edappally",
+    "latitude": 10.0142205,
+    "longitude": 76.3154065,
+    "place_id": "ChIJsavCRAANCDsRPgegVIjzPR4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsavCRAANCDsRPgegVIjzPR4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:24:19"
+  }
+]

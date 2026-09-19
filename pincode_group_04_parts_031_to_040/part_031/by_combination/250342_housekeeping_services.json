@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Labourwala",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Home health care service",
+    "all_categories": "Home health care service, Child care agency, Employment agency, Employment center, Home help service agency, House sitter agency, Human resource consulting, Nursing agency, Aged care",
+    "pincode": "250342",
+    "phone_number": "+91 78954 06666",
+    "website": "https://labourwala.in/",
+    "rating": 4.7,
+    "reviews_count": 630,
+    "address": "Jagriti Enclave Lane Number 3 Oppo. Touch Wood School, Sahastradhara Rd, Dehradun, Uttarakhand 248001",
+    "area": "Raipur",
+    "latitude": 30.3485153,
+    "longitude": 78.0808273,
+    "place_id": "ChIJFRY9nF3XCDkRvmqwqJ0MmOM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFRY9nF3XCDkRvmqwqJ0MmOM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:55:50"
+  },
+  {
+    "business_name": "OYO Royals Rana Hotel",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Bed & breakfast, Guest house, Holiday home, Inn, Lodge, Motel, Service Apartment, Villa",
+    "pincode": "250342",
+    "phone_number": "+91 124 620 1516",
+    "website": "https://www.oyorooms.com/115046/?utm_source=Google&utm_medium=GMB",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "NH-58, MUBARIKPUR, Khatauli Bypass, Meerut, Uttar Pradesh 251201",
+    "area": "250342",
+    "latitude": 29.2479893,
+    "longitude": 77.7249071,
+    "place_id": "ChIJmzEi40ETDDkRkMIyubKVpTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmzEi40ETDDkRkMIyubKVpTU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:55:51"
+  }
+]

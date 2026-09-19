@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhaba Estd 1986 Delhi, Meerut",
+    "search_category": "Restaurant Chains",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Dhaba",
+    "pincode": "250342",
+    "phone_number": "+91 92173 39682",
+    "website": "https://dhaba1986.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "S-12, Downtown, S-11, S12/1 & S-14, Mawana Rd, Meerut, Uttar Pradesh 250001",
+    "area": "Radha Garden, Ganga Nagar",
+    "latitude": 29.007724099999997,
+    "longitude": 77.7462901,
+    "place_id": "ChIJv9n_YTJ7DDkRwu1ifIJ48YM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv9n_YTJ7DDkRwu1ifIJ48YM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:54:27"
+  },
+  {
+    "business_name": "McDonald's - Mars Resorts, Meerut",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Fast food restaurant, Hamburger restaurant, Non Vegetarian Restaurant",
+    "pincode": "250342",
+    "phone_number": "+91 93111 49761",
+    "website": "https://mcdindia.com/",
+    "rating": 4.3,
+    "reviews_count": 1184,
+    "address": "Ground Floor, Meerut Byp, near Bharat Petroleum, Green Wood City, Meerut, Uttar Pradesh 250002",
+    "area": "Green Wood City",
+    "latitude": 28.9627134,
+    "longitude": 77.6383397,
+    "place_id": "ChIJPU34-cFnDDkRPgi3WMX8IDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPU34-cFnDDkRPgi3WMX8IDU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:54:30"
+  }
+]

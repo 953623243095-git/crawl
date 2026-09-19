@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HR Associates",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Employment agency",
+    "all_categories": "Employment agency, Human resource consulting, Temp agency",
+    "pincode": "250615",
+    "phone_number": "N/A",
+    "website": "http://www.hrassociates.ca/",
+    "rating": 4.5,
+    "reviews_count": 82,
+    "address": "295 The West Mall #302, Etobicoke, ON M9C 4Z4, Canada",
+    "area": "Etobicoke",
+    "latitude": 43.6352836,
+    "longitude": -79.5613429,
+    "place_id": "ChIJO_myz4o3K4gRBAyaO8-ktuw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_myz4o3K4gRBAyaO8-ktuw",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:18:52"
+  },
+  {
+    "business_name": "Headstrong HR Consulting Services",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "250615",
+    "phone_number": "+91 98672 72399",
+    "website": "https://www.headstronghr.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Headstrong HR Consulting Services, 250615, India",
+    "area": "250615",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJH3UB8pADaoIRYaV4SwAP7ao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH3UB8pADaoIRYaV4SwAP7ao",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:18:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajeev jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "250404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main market meerpur, Meerpur, Uttar Pradesh 251315",
+    "area": "250404",
+    "latitude": 29.3145508,
+    "longitude": 77.99670429999999,
+    "place_id": "ChIJ_wFLKXf1CzkR4JQUa44iZ-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_wFLKXf1CzkR4JQUa44iZ-s",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:03:54"
+  },
+  {
+    "business_name": "Kalyani jewellery",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry repair service",
+    "all_categories": "Jewelry repair service",
+    "pincode": "250404",
+    "phone_number": "+91 81750 20865",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kanchanpur road, Prayagraj, Uttar Pradesh 212507",
+    "area": "250404",
+    "latitude": 25.684701,
+    "longitude": 81.8598268,
+    "place_id": "ChIJ62Et1wzHmjkRkAysuiUotcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ62Et1wzHmjkRkAysuiUotcc",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:03:57"
+  }
+]

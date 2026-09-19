@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Shyam jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "250622",
+    "phone_number": "+91 97207 96539",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bsnl Tower, Near, Daha, Uttar Pradesh 250622",
+    "area": "250622",
+    "latitude": 29.2007668,
+    "longitude": 77.4122155,
+    "place_id": "ChIJs-hWII05DDkR6K-6bicd8yU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs-hWII05DDkR6K-6bicd8yU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:26:16"
+  },
+  {
+    "business_name": "Om jewellers/Aman verma",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "250622",
+    "phone_number": "+91 96344 49067",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Daha, Uttar Pradesh 250622",
+    "area": "250622",
+    "latitude": 29.202530499999998,
+    "longitude": 77.4104246,
+    "place_id": "ChIJYePYWAA5DDkR_FwjGhIW4IA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYePYWAA5DDkR_FwjGhIW4IA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:26:16"
+  }
+]

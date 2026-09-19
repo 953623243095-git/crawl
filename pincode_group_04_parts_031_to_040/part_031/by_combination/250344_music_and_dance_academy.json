@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Music A school of dance music and fitness",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school, Music school, Painting Class",
+    "pincode": "250344",
+    "phone_number": "+91 85418 18825",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "appartment, G, J2CX+CH7 sushma regency, 2, Lane Number 8, S. K. Puram, Danapur Nizamat, Patna, Bihar 801503",
+    "area": "S. K. Puram, Danapur Nizamat",
+    "latitude": 25.620969,
+    "longitude": 85.0489795,
+    "place_id": "ChIJQeOEZTJX7TkR5ejdnMs7W2c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQeOEZTJX7TkR5ejdnMs7W2c",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:57:36"
+  },
+  {
+    "business_name": "Dynamic dance Academy",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school",
+    "pincode": "250344",
+    "phone_number": "+91 75001 41402",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GP-185, GP Pocket, Ganga Nagar, Meerut, Uttar Pradesh 250001",
+    "area": "GP Pocket, Ganga Nagar",
+    "latitude": 29.0061678,
+    "longitude": 77.755173,
+    "place_id": "ChIJYSi78ZV7DDkRIF1_wVU-2D4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYSi78ZV7DDkRIF1_wVU-2D4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:57:38"
+  }
+]

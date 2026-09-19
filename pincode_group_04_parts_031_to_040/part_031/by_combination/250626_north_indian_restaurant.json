@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Rama Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Dhaba, Family restaurant, Indian restaurant, Meal delivery, Non Vegetarian Restaurant",
+    "pincode": "250626",
+    "phone_number": "+91 78382 45729",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 981,
+    "address": "21-B/1, New Rohtak Rd, near Liberty Cinema, Block 21 B, Dev Nagar, Karol Bagh, Delhi, 110005",
+    "area": "Block 21 B, Dev Nagar, Karol Bagh",
+    "latitude": 28.6596372,
+    "longitude": 77.1890799,
+    "place_id": "ChIJdZ1WkoMCDTkR2FdKjxDnHrk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdZ1WkoMCDTkR2FdKjxDnHrk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:31:18"
+  },
+  {
+    "business_name": "Veda Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Fine dining restaurant, Indian restaurant, Meal delivery, Mughlai restaurant, Seafood restaurant",
+    "pincode": "250626",
+    "phone_number": "+91 90699 06950",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 3809,
+    "address": "H-27, Block H, Connaught Place, New Delhi, Delhi 110001",
+    "area": "Block H, Connaught Place",
+    "latitude": 28.6350201,
+    "longitude": 77.2182716,
+    "place_id": "ChIJkZedEMjiDDkRTRaqQAiFNi8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkZedEMjiDDkRTRaqQAiFNi8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:31:18"
+  }
+]

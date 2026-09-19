@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Expert Honda",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer",
+    "pincode": "250406",
+    "phone_number": "+91 89232 55509",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 16,
+    "address": "Khanpur Banger, Parikshitgarh, Uttar Pradesh 250406",
+    "area": "250406",
+    "latitude": 28.9781312,
+    "longitude": 77.9227619,
+    "place_id": "ChIJX8BPeaZ4DDkR6asai1PbsW8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX8BPeaZ4DDkR6asai1PbsW8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:05:55"
+  },
+  {
+    "business_name": "Malik Automobiles",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "250406",
+    "phone_number": "+91 75009 49366",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Police Station, Parikshitgarh, Uttar Pradesh 250406",
+    "area": "250406",
+    "latitude": 28.975588799999997,
+    "longitude": 77.93438379999999,
+    "place_id": "ChIJv4qeS0uHCzkRApkOG8BBMKs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv4qeS0uHCzkRApkOG8BBMKs",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:05:56"
+  }
+]

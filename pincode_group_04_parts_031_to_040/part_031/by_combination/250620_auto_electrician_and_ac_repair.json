@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FALCON CAR A/C",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto air conditioning service",
+    "all_categories": "Auto air conditioning service",
+    "pincode": "250620",
+    "phone_number": "+91 83103 40450",
+    "website": "http://www.falconcarac.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Door No 1192/A, Purple Arcade, 18th A Main Rd, next to Dhobi Ghat Bus stop, 5th Block, Rajajinagar, Bengaluru, Karnataka 560010",
+    "area": "5th Block, Rajajinagar",
+    "latitude": 12.986977399999999,
+    "longitude": 77.5508583,
+    "place_id": "ChIJN_Dlx6g9rjsRKyzBJrFnYeM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN_Dlx6g9rjsRKyzBJrFnYeM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:23:11"
+  },
+  {
+    "business_name": "Deep Auto Electricals",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto electrical service",
+    "all_categories": "Auto electrical service",
+    "pincode": "250620",
+    "phone_number": "+91 92292 13285",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "M G C Compound, opposite Laxmi Petrol Pump, Dewas Naka, Lasudia Mori, Indore, Madhya Pradesh 452010",
+    "area": "Dewas Naka, Lasudia Mori",
+    "latitude": 22.7754038,
+    "longitude": 75.903041,
+    "place_id": "ChIJq6qq6jIdYzkRo07dvrzO6yk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qq6jIdYzkRo07dvrzO6yk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:23:12"
+  }
+]

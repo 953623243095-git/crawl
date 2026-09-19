@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kumar Pacific mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "250621",
+    "phone_number": "+91 20 6725 6888",
+    "website": "http://www.kumarpacificmall.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "GV2C+HWW, Shankar Sheth Rd, Shanti Nagar Society, Katad Khana, Pune, Maharashtra 411037",
+    "area": "Shanti Nagar Society, Katad Khana",
+    "latitude": 18.5014884,
+    "longitude": 73.87232139999999,
+    "place_id": "ChIJZayh7c_BwjsRt6y5tOpAg34",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZayh7c_BwjsRt6y5tOpAg34",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:25:56"
+  },
+  {
+    "business_name": "Royale Heritage Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Banquet hall, Cafe, Food court, Gym, Hypermarket, Movie theater, Restaurant",
+    "pincode": "250621",
+    "phone_number": "+91 20 2673 1221",
+    "website": "http://www.royaleheritagemall.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Dorabjee Paradise, NIBM Rd, Pune, Maharashtra 411060",
+    "area": "Autadwadi Handewadi, Dorabjee Paradise, Mohammed Wadi",
+    "latitude": 18.4674017,
+    "longitude": 73.9061961,
+    "place_id": "ChIJndd_RLvrwjsRx5LWxbkYYH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJndd_RLvrwjsRx5LWxbkYYH8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:25:56"
+  }
+]

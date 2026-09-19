@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spice & Nuts",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store, Chocolate shop, Ice cream shop, Spice store",
+    "pincode": "250617",
+    "phone_number": "+91 84730 11178",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 105,
+    "address": "66A, Shop No. 2, Sanjay Arcade, 2B, Kedari Nagar Rd, Wanowrie, Pune, Maharashtra 411040",
+    "area": "Clover Village, Wanowrie",
+    "latitude": 18.483920599999998,
+    "longitude": 73.8986031,
+    "place_id": "ChIJzwa3CG7rwjsR2bAzpYzYvAY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzwa3CG7rwjsR2bAzpYzYvAY",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:19:14"
+  },
+  {
+    "business_name": "FINE NUTS Dry Fruit Wala",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store, Wholesaler",
+    "pincode": "250617",
+    "phone_number": "+91 84271 34390",
+    "website": "https://finenuts.co/",
+    "rating": 4.9,
+    "reviews_count": 129,
+    "address": "Plot No 941, Industrial Area, Ph 2, Chandigarh, 160002",
+    "area": "Industrial Area Phase II",
+    "latitude": 30.696308799999997,
+    "longitude": 76.7939334,
+    "place_id": "ChIJ_2wPxgztDzkRX5g0CrjWJjc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_2wPxgztDzkRX5g0CrjWJjc",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:19:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ms seema agro chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Agricultural Product Wholesaler",
+    "all_categories": "Agricultural Product Wholesaler",
+    "pincode": "250342",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "78Baparsi, sardhana, Baparasi, Uttar Pradesh 250342",
+    "area": "78Baparsi",
+    "latitude": 29.181858899999998,
+    "longitude": 77.49965399999999,
+    "place_id": "ChIJ2eeb5wRBDDkRlW46kQQphFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2eeb5wRBDDkRlW46kQQphFw",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:55:55"
+  },
+  {
+    "business_name": "Shri Laxmi Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler, Chemical Manufacturer, Food & Beverage Exporter",
+    "pincode": "250342",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Harvansh vihar, Shri laxmi chemicals, Garh Rd, Hanuman Vihar Phase 2, Somdutt Vihar Colony, Jagriti Vihar, Meerut, Uttar Pradesh 250004",
+    "area": "Hanuman Vihar Phase 2, Somdutt Vihar Colony, Jagriti Vihar",
+    "latitude": 28.9487889,
+    "longitude": 77.7571683,
+    "place_id": "ChIJA1PcECl9DDkRJROaz2R6RZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA1PcECl9DDkRJROaz2R6RZI",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:55:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Export Experts Global",
+    "search_category": "EXIMS",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "250625",
+    "phone_number": "+91 93190 01248",
+    "website": "https://exportexpertsglobal.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "First floor, Tatarpur, WZ-57, Titarpur, Tagore Garden, Tagore Garden Extension, New Delhi, Delhi, 110027",
+    "area": "Titarpur, Tagore Garden, Tagore Garden Extension",
+    "latitude": 28.645108,
+    "longitude": 77.113542,
+    "place_id": "ChIJNWlGYBoDDTkRHGZ_exOzTBc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNWlGYBoDDTkRHGZ_exOzTBc",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:30:56"
+  },
+  {
+    "business_name": "Noida Exim Pvt. Ltd.",
+    "search_category": "EXIMS",
+    "primary_category": "Call center",
+    "all_categories": "Call center, Back Office, BPO Company, Business center, Computer support and services, Data Entry Service Provider, Telephone Marketing Agency",
+    "pincode": "250625",
+    "phone_number": "+91 98915 04989",
+    "website": "https://www.noidaexim.com/call-center-outsourcing.php",
+    "rating": 3.5,
+    "reviews_count": 348,
+    "address": "E-26, Hazratpur Wajidpur, E Block, Sector 63, Noida, Uttar Pradesh 201309",
+    "area": "Hazratpur Wajidpur, E Block, Sector 63",
+    "latitude": 28.620552699999998,
+    "longitude": 77.3857857,
+    "place_id": "ChIJWbw0S6vvDDkRKSOGUcxOWNU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWbw0S6vvDDkRKSOGUcxOWNU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:30:58"
+  }
+]

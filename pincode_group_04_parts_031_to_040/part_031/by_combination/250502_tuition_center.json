@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "सीबीएसई ट्यूशन पॉइंट",
+    "search_category": "Tuition Center",
+    "primary_category": "Tutoring service",
+    "all_categories": "Tutoring service, Education center",
+    "pincode": "250502",
+    "phone_number": "+91 98378 06839",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shahpur Jainpur, Uttar Pradesh 250502",
+    "area": "250502",
+    "latitude": 29.0063693,
+    "longitude": 77.59945669999999,
+    "place_id": "ChIJlc8mB11nDDkRgWtviwGA9zg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlc8mB11nDDkRgWtviwGA9zg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:10:07"
+  },
+  {
+    "business_name": "Daksh Institute of Technology Partapur",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center, Educational institution",
+    "pincode": "250502",
+    "phone_number": "+91 82180 79826",
+    "website": "http://www.dakshinstitute.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Near City Hearts Public School, Achhronda, Mode, Partapur, Meerut, Uttar Pradesh 250103",
+    "area": "Sector 2, Partapur",
+    "latitude": 28.9126926,
+    "longitude": 77.6494149,
+    "place_id": "ChIJ2-GPf-ZhDDkR8AcrxS_14YM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2-GPf-ZhDDkR8AcrxS_14YM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:10:08"
+  }
+]

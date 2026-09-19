@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SARDAR A PURE MEAT SHOP",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat products store",
+    "all_categories": "Meat products store",
+    "pincode": "250611",
+    "phone_number": "+91 70822 22139",
+    "website": "http://www.sardarmeatshop.com/",
+    "rating": 4.6,
+    "reviews_count": 83,
+    "address": "GF 139 RODEO DRIVE MALL TDI CITY KUNDLI, Haryana 131029",
+    "area": "Rasoi",
+    "latitude": 28.8996519,
+    "longitude": 77.1137904,
+    "place_id": "ChIJt9Lzkr2tDTkR5aN3mZnvDL0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt9Lzkr2tDTkR5aN3mZnvDL0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:15:51"
+  },
+  {
+    "business_name": "AD KADAKNATH or desi poultry farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "250611",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "353H+CQG, Khera Hatana, Uttar Pradesh 250611",
+    "area": "250611",
+    "latitude": 29.0535689,
+    "longitude": 77.1794436,
+    "place_id": "ChIJw37IcgCzDTkRP0FAK1Tv1wE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw37IcgCzDTkRP0FAK1Tv1wE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:15:51"
+  }
+]

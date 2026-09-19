@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Desire Hostel",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "250619",
+    "phone_number": "+91 99585 05687",
+    "website": "http://booking.com/hotel/in/the-desire-hostel.en-gb.html",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "C-13, Shivalik Rd, Block C, Malviya Nagar, New Delhi, Delhi 110017",
+    "area": "Block C, Malviya Nagar",
+    "latitude": 28.5383608,
+    "longitude": 77.2119182,
+    "place_id": "ChIJFaVru3bjDDkRrUBWLmUZSM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFaVru3bjDDkRrUBWLmUZSM8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:21:55"
+  },
+  {
+    "business_name": "The Hosteller Narkanda",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "250619",
+    "phone_number": "+91 98101 87717",
+    "website": "https://www.thehosteller.com/hostels/the-hosteller-narkanda",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ski Ground Rd, near Skiing Point, Narkanda, Himachal Pradesh 171213",
+    "area": "250619",
+    "latitude": 31.2570941,
+    "longitude": 77.4582167,
+    "place_id": "ChIJLcVwRvyRBTkRwbOxre1B2iQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLcVwRvyRBTkRwbOxre1B2iQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:21:55"
+  }
+]

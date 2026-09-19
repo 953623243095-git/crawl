@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAMBARPOT",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, South Indian restaurant",
+    "pincode": "250622",
+    "phone_number": "+91 85956 89304",
+    "website": "https://sambarpot.com/",
+    "rating": 4.9,
+    "reviews_count": 1820,
+    "address": "Omaxe chowk, FC 33, HC Sen Marg, Old Delhi, Chhippy Wada, Chandni Chowk, New Delhi, Delhi, 110006",
+    "area": "Old Delhi, Chhippy Wada, Chandni Chowk",
+    "latitude": 28.657831299999998,
+    "longitude": 77.23089039999999,
+    "place_id": "ChIJI7GOcen9DDkR5y_LT7ywWbE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI7GOcen9DDkR5y_LT7ywWbE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:26:12"
+  },
+  {
+    "business_name": "Gola Sizzlers Preet Vihar- Luxury dining and party hall",
+    "search_category": "Restaurant Chains",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Asian restaurant, Banquet hall, Bar, Dessert restaurant, Italian restaurant, Live music bar, Restaurant, Sushi restaurant",
+    "pincode": "250622",
+    "phone_number": "+91 88008 04954",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 3836,
+    "address": "First & Second Floor, C 59, Main, Vikas Marg, Preet Vihar, New Delhi, Delhi 110092",
+    "area": "C Block, Preet Vihar",
+    "latitude": 28.6387428,
+    "longitude": 77.29159659999999,
+    "place_id": "ChIJaTOStlb7DDkRIftpbWdvQFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaTOStlb7DDkRIftpbWdvQFw",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:26:12"
+  }
+]

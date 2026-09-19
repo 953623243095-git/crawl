@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New India Real Estate",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "250626",
+    "phone_number": "+91 98117 71043",
+    "website": "https://www.newindiarealestate.com/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "First Floor, Block-L, L-29, Connaught Circus, Block L, Connaught Place, New Delhi, Delhi 110001",
+    "area": "Block L, Connaught Place",
+    "latitude": 28.634275499999998,
+    "longitude": 77.2217273,
+    "place_id": "ChIJ4U2QnP8InaIRmnSfSOoOZ58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4U2QnP8InaIRmnSfSOoOZ58",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:32:33"
+  },
+  {
+    "business_name": "Premiere Plus Realty Services LLP",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "250626",
+    "phone_number": "+91 88511 18707",
+    "website": "http://premiereplusrealty.in/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "1702, Tower, SG 5, Saya Gold Avenue Rd, Block C, Shipra Suncity, Indirapuram, Noida, Ghaziabad, Uttar Pradesh 201014",
+    "area": "Block C, Shipra Suncity, Indirapuram",
+    "latitude": 28.635605499999997,
+    "longitude": 77.3706667,
+    "place_id": "ChIJq6qqD1PlDDkR4cm6CfK4A6M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqD1PlDDkR4cm6CfK4A6M",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:32:35"
+  }
+]

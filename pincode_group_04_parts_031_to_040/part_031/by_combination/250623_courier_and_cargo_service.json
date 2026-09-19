@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Panwar CSC केन्द्र भनेड़ा",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Shipping and mailing service",
+    "all_categories": "Shipping and mailing service",
+    "pincode": "250623",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "78F9+63G, Bhanera, Uttar Pradesh 247771",
+    "area": "250623",
+    "latitude": 29.2731949,
+    "longitude": 77.31812479999999,
+    "place_id": "ChIJCRicIAA3DDkRVjgyTz5jXQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCRicIAA3DDkRVjgyTz5jXQw",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:29:03"
+  },
+  {
+    "business_name": "Post office Asara",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "250623",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "68W5+6Q2, Vidhawati Rd, Asara, Uttar Pradesh 250623",
+    "area": "250623",
+    "latitude": 29.2455222,
+    "longitude": 77.3093918,
+    "place_id": "ChIJs6gQP1M3DDkRHRd6sbhF1Ec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs6gQP1M3DDkRHRd6sbhF1Ec",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:29:03"
+  }
+]

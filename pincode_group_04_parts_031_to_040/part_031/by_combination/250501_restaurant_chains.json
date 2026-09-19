@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rolls and More",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Barbecue restaurant",
+    "all_categories": "Barbecue restaurant",
+    "pincode": "250501",
+    "phone_number": "+91 70880 11110",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 281,
+    "address": "XMXX+CQM, Bombay Bazar, Rajban Bazaar, Meerut, Uttar Pradesh 250001",
+    "area": "Bombay Bazar, Rajban Bazaar",
+    "latitude": 28.998581299999998,
+    "longitude": 77.69941279999999,
+    "place_id": "ChIJgz1RhwdlDDkROcfkwxxqCGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgz1RhwdlDDkROcfkwxxqCGg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:07:23"
+  },
+  {
+    "business_name": "Welcome Food Point Veg & Non Veg",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "250501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 19,
+    "address": "Modi nagar, Road, Rasoolpur Dhaulri, Uttar Pradesh 250626",
+    "area": "250501",
+    "latitude": 28.9186198,
+    "longitude": 77.4830587,
+    "place_id": "ChIJ6dCwajZfDDkRgO40V1VffWY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6dCwajZfDDkRgO40V1VffWY",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:07:23"
+  }
+]

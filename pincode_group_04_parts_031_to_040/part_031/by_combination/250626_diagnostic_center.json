@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DIAGNOTREE",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Medical diagnostic imaging center, MRI center",
+    "pincode": "250626",
+    "phone_number": "+91 98116 00400",
+    "website": "https://diagnotree.net/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "KO-12, below Karma Hyundai Showroom, Sector 49, Noida, Uttar Pradesh 201301",
+    "area": "Sector 49",
+    "latitude": 28.561213199999997,
+    "longitude": 77.3796926,
+    "place_id": "ChIJ3WxTqjvvDDkRDDRhHnsAQjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3WxTqjvvDDkRDDRhHnsAQjI",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:31:35"
+  },
+  {
+    "business_name": "Meerut Scan Centre Private Limited",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Medical clinic",
+    "pincode": "250626",
+    "phone_number": "+91 121 264 2238",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "XPM5+39F, E K Road, Meerut, Uttar Pradesh 250001",
+    "area": "Mohanpuri",
+    "latitude": 28.982681,
+    "longitude": 77.7084268,
+    "place_id": "ChIJ22yN4AFlDDkRA5vH0p9jJiw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ22yN4AFlDDkRA5vH0p9jJiw",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:31:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Policybazaar",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Insurance broker",
+    "pincode": "250625",
+    "phone_number": "+91 1800 208 8787",
+    "website": "https://www.policybazaar.com/?utm_source=offline-store&utm_medium=gurugram&utm_term=policybazaar+corporate+office",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Plot No 119, Sector 44, Gurugram, Haryana 122001",
+    "area": "Sector 44",
+    "latitude": 28.4504526,
+    "longitude": 77.0717623,
+    "place_id": "ChIJ____P-wYDTkR3zi0uU6PufM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____P-wYDTkR3zi0uU6PufM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:30:43"
+  },
+  {
+    "business_name": "Insurance Advisor",
+    "search_category": "Insurance Agent",
+    "primary_category": "Life insurance agency",
+    "all_categories": "Life insurance agency, Service establishment",
+    "pincode": "250625",
+    "phone_number": "+91 95522 62541",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Insurance Advisor, 250625, India",
+    "area": "250625",
+    "latitude": 18.5175452,
+    "longitude": 73.5556142,
+    "place_id": "ChIJ56D62S93wTsRB9k7nATR1SM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ56D62S93wTsRB9k7nATR1SM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:30:43"
+  }
+]

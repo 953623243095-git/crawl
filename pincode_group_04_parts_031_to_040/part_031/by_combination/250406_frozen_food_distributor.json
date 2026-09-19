@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aditya Food Services Company",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier, Hotel supply store",
+    "pincode": "250406",
+    "phone_number": "+91 88619 99800",
+    "website": "http://www.afsc.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "46/4, infront of COTTAFE LOAF STREET Byrathi Village, Hobli, near Shobha super market, Kanakashree Layout, Bidarahalli, Bengaluru, Karnataka 560077",
+    "area": "Byrathi, Rammana Layout, Kanakashree Layout",
+    "latitude": 13.0552615,
+    "longitude": 77.6535899,
+    "place_id": "ChIJgZD9cxIXrjsRgVklOKx9IGU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgZD9cxIXrjsRgVklOKx9IGU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:05:28"
+  },
+  {
+    "business_name": "Neemozo - Market For Frozen, Ready to Eat & Cook Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food manufacturer",
+    "all_categories": "Frozen food manufacturer, Food and beverage consultant, Food manufacturing supply, Food Processing Company, Food products supplier",
+    "pincode": "250406",
+    "phone_number": "N/A",
+    "website": "http://www.neemozo.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Uniworld Serviced Apartments, Luxor The Budget Inn, 103, Hulimangala Main Rd, Neeladri Nagar, Electronic City Phase I, Electronic City, Electr, Bengaluru, Karnataka 560100",
+    "area": "Neeladri Nagar, Electronic City Phase I, Electronic City",
+    "latitude": 12.8406329,
+    "longitude": 77.644266,
+    "place_id": "ChIJrXqB0QttrjsRF4unDO9MtFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrXqB0QttrjsRF4unDO9MtFw",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:05:28"
+  }
+]

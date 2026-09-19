@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pooja fashion designer studio",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "250401",
+    "phone_number": "+91 84496 91371",
+    "website": "https://www.poojafeshiondesginer.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shiv Shakti Vihar, Garh Rd, Jai Bhim Nagar, Meerut, Uttar Pradesh 250004",
+    "area": "Jai Bhim Nagar",
+    "latitude": 28.957451199999998,
+    "longitude": 77.7584202,
+    "place_id": "ChIJPSHLPkd7DDkR2EGmt4LvKPI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPSHLPkd7DDkR2EGmt4LvKPI",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:00:28"
+  },
+  {
+    "business_name": "Designer Boutique Collection",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "250401",
+    "phone_number": "+91 96394 22028",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Mohalla Munnalal, Mawana, Uttar Pradesh 250401",
+    "area": "Mohalla Munnalal",
+    "latitude": 29.1053002,
+    "longitude": 77.9148369,
+    "place_id": "ChIJd8qPUhF3DDkRPRbCUXjn8_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd8qPUhF3DDkRPRbCUXjn8_o",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:00:30"
+  }
+]

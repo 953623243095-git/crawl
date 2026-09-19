@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "National Properties",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "250619",
+    "phone_number": "+91 82794 89617",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Delhi, Saroorpur Kalan, Uttar Pradesh 250619",
+    "area": "250619",
+    "latitude": 29.0254048,
+    "longitude": 77.22901929999999,
+    "place_id": "ChIJq6qqqhpNDDkRlGR_MgZr8eI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqhpNDDkRlGR_MgZr8eI",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:22:16"
+  },
+  {
+    "business_name": "Kamal Properties",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "250619",
+    "phone_number": "+91 97609 90114",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Delhi, Saroorpur Kalan, Uttar Pradesh 250619",
+    "area": "250619",
+    "latitude": 29.0254048,
+    "longitude": 77.22901929999999,
+    "place_id": "ChIJq6qqqhpNDDkRyAa35-c3AWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqhpNDDkRyAa35-c3AWo",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:22:16"
+  }
+]

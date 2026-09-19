@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Waseem Grocery",
+    "search_category": "Departmental Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "250406",
+    "phone_number": "+91 63951 88628",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Main Market Kila, Uttar Pradesh 250406",
+    "area": "250406",
+    "latitude": 28.9767242,
+    "longitude": 77.94013249999999,
+    "place_id": "ChIJXbmyhz6HCzkR3FVxmHuIptE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXbmyhz6HCzkR3FVxmHuIptE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:05:20"
+  },
+  {
+    "business_name": "Israr Kirana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Beverage Store",
+    "pincode": "250406",
+    "phone_number": "+91 63977 70509",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 9,
+    "address": "Khajuri, Kila Parikshit Garh Rd, Meerut, Uttar Pradesh 250406",
+    "area": "250406",
+    "latitude": 28.985066,
+    "longitude": 77.8940652,
+    "place_id": "ChIJMSRJked4DDkRJluwTPKPlu8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMSRJked4DDkRJluwTPKPlu8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:05:21"
+  }
+]

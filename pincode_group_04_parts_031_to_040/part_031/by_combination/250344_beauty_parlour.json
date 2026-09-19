@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sparsh Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Airbrushing service, Cosmetics store, Hair extensions supplier, Make-up artist, Nail salon, Party planner, Skin care clinic, Hairdresser",
+    "pincode": "250344",
+    "phone_number": "+91 99970 29362",
+    "website": "https://linktr.ee/Sparshbeautyparlour7",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Banarsi Das Estate, Baghpat Rd, near Malyana, Malyana, flyover, Meerut, Uttar Pradesh 250002",
+    "area": "Malyana",
+    "latitude": 28.9706913,
+    "longitude": 77.6694194,
+    "place_id": "ChIJ-_k_fDVlDDkR3_CapfqrVT4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-_k_fDVlDDkR3_CapfqrVT4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:57:15"
+  },
+  {
+    "business_name": "Exotica The Beauty Spot",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "250344",
+    "phone_number": "+91 97608 42198",
+    "website": "https://exotica-the-beauty-spot.grexa.site/",
+    "rating": 4.2,
+    "reviews_count": 33,
+    "address": "Western Road, near Konark Restaurant, Sadar Bazaar, Meerut, Uttar Pradesh 250001",
+    "area": "Sadar Bazaar",
+    "latitude": 28.995552999999997,
+    "longitude": 77.6960774,
+    "place_id": "ChIJW88MXwdlDDkRhPwvSNS9zFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW88MXwdlDDkRhPwvSNS9zFo",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:57:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gaurav Hair Saloon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "250502",
+    "phone_number": "+91 89237 01943",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "00, Rohta Rd, Meerut, Rasulpur Rohta, Uttar Pradesh 250502",
+    "area": "250502",
+    "latitude": 29.036968299999998,
+    "longitude": 77.5494698,
+    "place_id": "ChIJU5UMo7tDDDkRrGEd43hbP8Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU5UMo7tDDDkRrGEd43hbP8Q",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:09:48"
+  },
+  {
+    "business_name": "Apsara Hair Salon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hair salon",
+    "pincode": "250502",
+    "phone_number": "+91 99276 62089",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3G9P+7HC, Rasna, Uttar Pradesh 250502",
+    "area": "250502",
+    "latitude": 29.0681761,
+    "longitude": 77.53639249999999,
+    "place_id": "ChIJq4Alpl9CDDkRwiAbZKYpOtE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq4Alpl9CDDkRwiAbZKYpOtE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:09:48"
+  }
+]

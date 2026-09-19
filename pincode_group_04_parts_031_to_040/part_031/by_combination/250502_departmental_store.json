@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maanvika kirana store",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "250502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rohta Rd, near shiv mandir, Dilawra, Meerut, Uttar Pradesh 250502",
+    "area": "250502",
+    "latitude": 29.010741399999997,
+    "longitude": 77.6126216,
+    "place_id": "ChIJQXHb1hxnDDkRoV6QpXWP9zE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQXHb1hxnDDkRoV6QpXWP9zE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:08:54"
+  },
+  {
+    "business_name": "Vivek Gautam Kiran Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "250502",
+    "phone_number": "+91 63984 70255",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Ambedkar market, Kasba, Karnawal, Uttar Pradesh 250344",
+    "area": "Ambedkar market, Kasba",
+    "latitude": 29.1048431,
+    "longitude": 77.52320689999999,
+    "place_id": "ChIJOSNUgIBDDDkRcz1rDcxkE74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOSNUgIBDDDkRcz1rDcxkE74",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:08:54"
+  }
+]

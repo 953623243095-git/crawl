@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Drive X",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Used motorcycle dealer",
+    "all_categories": "Used motorcycle dealer",
+    "pincode": "250615",
+    "phone_number": "N/A",
+    "website": "https://drivex.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "SHOP-87, Ramgarh, Ramgarh Village, Jahangirpuri, New Delhi, Delhi, 110033",
+    "area": "Ramgarh, Ramgarh Village, Jahangirpuri",
+    "latitude": 28.727510799999997,
+    "longitude": 77.1619092,
+    "place_id": "ChIJsWKuctr_DDkRp-R6JaMpDoU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsWKuctr_DDkRp-R6JaMpDoU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:18:08"
+  },
+  {
+    "business_name": "Maa jivani bike service centre",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "250615",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Village SIKHEDA DHAKOLI ROAD, Baghpat, Uttar Pradesh 250615",
+    "area": "250615",
+    "latitude": 28.923222499999998,
+    "longitude": 77.36910619999999,
+    "place_id": "ChIJvzMgrSRRDDkRFIpI1c4kSf0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvzMgrSRRDDkRFIpI1c4kSf0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:18:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raunak Enterprises",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Cabinet store",
+    "all_categories": "Cabinet store, E-commerce service, Furniture wholesaler",
+    "pincode": "250404",
+    "phone_number": "+91 95486 31076",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 3,
+    "address": "Shastri Nagar, Hapur Rd, Meerut, Uttar Pradesh 250002",
+    "area": "Shyam Nagar",
+    "latitude": 28.9431917,
+    "longitude": 77.7243927,
+    "place_id": "ChIJ9Zo0TV5jDDkRGbO0m6walQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Zo0TV5jDDkRGbO0m6walQg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:04:41"
+  },
+  {
+    "business_name": "Grace The Packing Studio",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Packaging company",
+    "all_categories": "Packaging company",
+    "pincode": "250404",
+    "phone_number": "+91 77039 82850",
+    "website": "http://www.gracethepackingstudio.com/",
+    "rating": 5,
+    "reviews_count": 32,
+    "address": "B-9/4, near Peeragarhi, Block NS, Mianwali Nagar, Chowk, New Delhi, Delhi, 110087",
+    "area": "Block NS, Mianwali Nagar, Chowk",
+    "latitude": 28.676761499999998,
+    "longitude": 77.08478099999999,
+    "place_id": "ChIJ0ykkyYYDDTkR2dDKJSoPj1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0ykkyYYDDTkR2dDKJSoPj1E",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:04:41"
+  }
+]

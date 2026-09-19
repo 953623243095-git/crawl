@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CSC-Common Services Center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "250344",
+    "phone_number": "+91 70147 09998",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Masjid Road, Sultanpur, New Delhi, Delhi 110030",
+    "area": "Sultanpur",
+    "latitude": 28.4925216,
+    "longitude": 77.1593712,
+    "place_id": "ChIJ56sCROsfDTkRvITNGjh_jN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ56sCROsfDTkRvITNGjh_jN0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:57:44"
+  },
+  {
+    "business_name": "CSC BHUDPUR",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "250344",
+    "phone_number": "+91 88698 65060",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "BADA SCHOOL, near BADA SCHOOL, Budhpur, Uttar Pradesh 250623",
+    "area": "250344",
+    "latitude": 29.2144794,
+    "longitude": 77.2977157,
+    "place_id": "ChIJ74FRFWU2DDkRnKAHILmydno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ74FRFWU2DDkRnKAHILmydno",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:57:44"
+  }
+]

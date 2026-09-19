@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vashisth Skin & ENT Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "250601",
+    "phone_number": "+91 94991 92036",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Vashisth Skin & ENT Hospital, near RK sweets, Subhash chowk, Sonipat, Haryana 131001",
+    "area": "Subhash chowk",
+    "latitude": 28.9897843,
+    "longitude": 77.02176779999999,
+    "place_id": "ChIJ7R7JcaO7DTkRuTubaxnPmAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7R7JcaO7DTkRuTubaxnPmAg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:11:13"
+  },
+  {
+    "business_name": "Maniktalia E.N.T. Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Doctor, ENT Specialist",
+    "pincode": "250601",
+    "phone_number": "+91 82218 07161",
+    "website": "https://maniktaliaenthospital.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "GALI NO.3, Murthal Rd, near AGGARSEN CHOWK, Jeevan Vihar, Sonipat, Haryana 131001",
+    "area": "Jeevan Vihar",
+    "latitude": 29.0064119,
+    "longitude": 77.03301499999999,
+    "place_id": "ChIJbxzz_WewDTkRSJrOb_pSbWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbxzz_WewDTkRSJrOb_pSbWg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:11:13"
+  }
+]

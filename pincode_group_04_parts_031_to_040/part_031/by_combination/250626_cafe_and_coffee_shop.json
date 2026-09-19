@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaat puchka",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "250626",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "I - S - 2, I Block, Shastri Nagar Market, Shastri Nagar, Meerut, Uttar Pradesh 250002",
+    "area": "I Block, Shastri Nagar Market, Shastri Nagar",
+    "latitude": 28.953332399999997,
+    "longitude": 77.7317528,
+    "place_id": "ChIJZdZe4PZlDDkRRWNNvSYX5r4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZdZe4PZlDDkRRWNNvSYX5r4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:31:19"
+  },
+  {
+    "business_name": "SUNSHINE TRADERS",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Coffee machine supplier, Coffee roastery, Coffee vending machine, Coffee wholesaler, Machine repair service, Machine workshop, Repair service, Tea Wholesaler",
+    "pincode": "250626",
+    "phone_number": "+91 98719 05006",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "E-5, Rani Garden, Shastri Nagar, Geeta Colony, Delhi, 110031",
+    "area": "Rani Garden, Shastri Nagar, Geeta Colony",
+    "latitude": 28.6464324,
+    "longitude": 77.2719513,
+    "place_id": "ChIJHfkR0fj9DDkRlSkgAN4sHsI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHfkR0fj9DDkRlSkgAN4sHsI",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:31:19"
+  }
+]

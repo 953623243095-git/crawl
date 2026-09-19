@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raza crockery store",
+    "search_category": "Boutiques",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "250501",
+    "phone_number": "+91 98973 33810",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 32,
+    "address": "Jani kalan, Near basi masjid, road, Baghpat, Meerut, Uttar Pradesh 250501",
+    "area": "250501",
+    "latitude": 28.9549424,
+    "longitude": 77.5494981,
+    "place_id": "ChIJeUFzv15dDDkRV5w34YhMNg4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeUFzv15dDDkRV5w34YhMNg4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:07:29"
+  },
+  {
+    "business_name": "Do Bhai ki dukan siwal",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "250501",
+    "phone_number": "N/A",
+    "website": "https://www.youtube.com/@dobhaikidukanmeerut",
+    "rating": 5,
+    "reviews_count": 66,
+    "address": "neyar shiv mandir, Mane market, Siwal Khas, Uttar Pradesh 250501",
+    "area": "250501",
+    "latitude": 28.939422099999998,
+    "longitude": 77.5278032,
+    "place_id": "ChIJReMR3jddDDkRhShB6dUkoDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJReMR3jddDDkRhShB6dUkoDU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:07:30"
+  }
+]

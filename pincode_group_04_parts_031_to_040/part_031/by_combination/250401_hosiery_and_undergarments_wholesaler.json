@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mavi Sports",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Outdoor sports store, Fitness Equipment Wholesaler, Sports Accessories Wholesaler, Sportswear store",
+    "pincode": "250401",
+    "phone_number": "+91 94104 76624",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "F-134, Garam Pani Rd, F-Pocket, Ganga Nagar, Meerut, Uttar Pradesh 250001",
+    "area": "F-Pocket, Ganga Nagar",
+    "latitude": 29.0066849,
+    "longitude": 77.75476069999999,
+    "place_id": "ChIJyfCP2896DDkRThvYpfbC-kA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyfCP2896DDkRThvYpfbC-kA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:00:26"
+  },
+  {
+    "business_name": "Krishna Hosiery Store",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "250401",
+    "phone_number": "+91 99979 49641",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Krishna Hosiery Store, near Islamiyan Madrasa, Mawana, Uttar Pradesh 250401",
+    "area": "250401",
+    "latitude": 29.103082699999998,
+    "longitude": 77.92055359999999,
+    "place_id": "ChIJOV7rwSx2DDkRUHsK8IkQ28Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOV7rwSx2DDkRUHsK8IkQ28Y",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:00:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bontatintin Fashion",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "250623",
+    "phone_number": "+91 85279 10020",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop No. 9 B-18, A-Plus Residence, Shalimar Garrden Extn, Block B, Shalimar Garden, Sahibabad, Ghaziabad, Uttar Pradesh 201005",
+    "area": "Block B, Shalimar Garden, Sahibabad",
+    "latitude": 28.686920599999997,
+    "longitude": 77.3422674,
+    "place_id": "ChIJD-VTy1D6DDkRyJpnfIB6dEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD-VTy1D6DDkRyJpnfIB6dEE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:28:07"
+  },
+  {
+    "business_name": "VastraAura",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "250623",
+    "phone_number": "N/A",
+    "website": "http://www.vastraaura.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8679+Q2V, Gangeru, Uttar Pradesh 247775",
+    "area": "250623",
+    "latitude": 29.3144755,
+    "longitude": 77.217536,
+    "place_id": "ChIJbeZfCwAzDDkRWqPiuW6iDV0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbeZfCwAzDDkRWqPiuW6iDV0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:28:07"
+  }
+]

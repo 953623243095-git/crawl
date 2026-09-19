@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mittal Bhawan",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Tax attorney",
+    "all_categories": "Tax attorney",
+    "pincode": "250615",
+    "phone_number": "+91 89331 21561",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "V9GP+WQH, Chamrawal, Uttar Pradesh 250615",
+    "area": "250615",
+    "latitude": 28.8773114,
+    "longitude": 77.38697259999999,
+    "place_id": "ChIJVVVVVdBZDDkRkwNdnWRBPLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVdBZDDkRkwNdnWRBPLk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:18:52"
+  },
+  {
+    "business_name": "Khanna And Associates",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Law firm",
+    "all_categories": "Law firm, Civil law attorney, Criminal justice attorney, Divorce lawyer, Family law attorney, General practice attorney, Immigration attorney, Legal services, Real estate attorney, Tax attorney",
+    "pincode": "250615",
+    "phone_number": "+91 94616 20007",
+    "website": "http://www.khannaandassociates.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "47, Shipra Path, SMS Colony, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "SMS Colony, Mansarovar",
+    "latitude": 26.8488983,
+    "longitude": 75.77573629999999,
+    "place_id": "ChIJIRlVYhu0bTkRIfwVeFvGHtc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIRlVYhu0bTkRIfwVeFvGHtc",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:18:53"
+  }
+]

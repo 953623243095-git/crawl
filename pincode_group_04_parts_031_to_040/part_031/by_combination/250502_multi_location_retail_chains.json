@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ShopyJi",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "E-commerce service",
+    "all_categories": "E-commerce service",
+    "pincode": "250502",
+    "phone_number": "+91 86508 76100",
+    "website": "https://shopyji.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Miet Incbation Center, NH-58, Baghpat Rd, Meerut, Uttar Pradesh 250005",
+    "area": "250502",
+    "latitude": 28.9727876,
+    "longitude": 77.641162,
+    "place_id": "ChIJefjZgJ5nDDkRgTjEnYjCIts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJefjZgJ5nDDkRgTjEnYjCIts",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:10:39"
+  },
+  {
+    "business_name": "The New Shop",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Convenience store",
+    "all_categories": "Convenience store",
+    "pincode": "250502",
+    "phone_number": "+91 93117 44959",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Garh Rd, Vaishali Colony, Panchsheel Colony, Meerut, Uttar Pradesh 250002",
+    "area": "Vaishali Colony, Panchsheel Colony",
+    "latitude": 28.9688238,
+    "longitude": 77.726457,
+    "place_id": "ChIJXxAjxGllDDkRXSsw_XzZcHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXxAjxGllDDkRXSsw_XzZcHo",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:10:39"
+  }
+]

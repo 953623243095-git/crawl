@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AYUSHMAN HOSPITAL",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital",
+    "pincode": "250611",
+    "phone_number": "+91 97580 19073",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Delhi - Saharanpur Rd, Avas Vikas Colony, Baraut Rural, Baraut, Uttar Pradesh 250611",
+    "area": "Avas Vikas Colony",
+    "latitude": 29.0970439,
+    "longitude": 77.2568841,
+    "place_id": "ChIJXd1745FLDDkRIvhD51XEQ1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXd1745FLDDkRIvhD51XEQ1Y",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:16:21"
+  },
+  {
+    "business_name": "वर्धमान अस्पताल",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "250611",
+    "phone_number": "+91 99272 46063",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "4727+X2J, Baraut, Uttar Pradesh 250611",
+    "area": "250611",
+    "latitude": 29.102420499999997,
+    "longitude": 77.2624807,
+    "place_id": "ChIJv2XlgulLDDkRiq5otXUrgeU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv2XlgulLDDkRiq5otXUrgeU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:16:23"
+  }
+]

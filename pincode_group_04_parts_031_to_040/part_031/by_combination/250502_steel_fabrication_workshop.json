@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fabrication works",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Metal fabricator",
+    "all_categories": "Metal fabricator",
+    "pincode": "250502",
+    "phone_number": "+91 98677 42669",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 30,
+    "address": "Ganesh Chowk, Kandivali, Adarsh Nagar, Shravan Nagar, Kandivali West, Mumbai, Maharashtra 400067",
+    "area": "Kandivali, Adarsh Nagar, Shravan Nagar, Kandivali West",
+    "latitude": 19.2151467,
+    "longitude": 72.83458809999999,
+    "place_id": "ChIJA_Cq17y35zsRS8elt-IOSpg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA_Cq17y35zsRS8elt-IOSpg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:10:26"
+  },
+  {
+    "business_name": "Ss fabrication",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Fabrication Engineer",
+    "all_categories": "Fabrication Engineer",
+    "pincode": "250502",
+    "phone_number": "+91 98377 26489",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "T-14, Pallavpuram Phase 2, Modipuram, Meerut, Uttar Pradesh 250110",
+    "area": "Pallavpuram Phase 2, Modipuram",
+    "latitude": 29.062381,
+    "longitude": 77.7119692,
+    "place_id": "ChIJjZXdzFtvDDkRG4UEG1CGqbI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjZXdzFtvDDkRG4UEG1CGqbI",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:10:27"
+  }
+]

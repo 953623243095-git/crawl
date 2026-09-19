@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Albela Jagran party",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "250502",
+    "phone_number": "N/A",
+    "website": "http://meerutjagranparty.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Albela jagran party, Meerut, Uttar Pradesh 250005",
+    "area": "250502",
+    "latitude": 28.9977105,
+    "longitude": 77.6338377,
+    "place_id": "ChIJX03sRQBnDDkRTq3IVAdEIuQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX03sRQBnDDkRTq3IVAdEIuQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:10:04"
+  },
+  {
+    "business_name": "Janta Band",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "250502",
+    "phone_number": "+91 95360 24156",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pooth Khas Meerut, 2Hgm+Mpp, Rohta Road, Pooth Khas, Meerut Delhi, Uttar Pradesh 250502",
+    "area": "250502",
+    "latitude": 29.026687499999998,
+    "longitude": 77.5843125,
+    "place_id": "ChIJ4V8BzwpoDDkR9kLA124JweQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4V8BzwpoDDkR9kLA124JweQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:10:05"
+  }
+]

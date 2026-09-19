@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Marvel Diagnostics",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "250621",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gandhi Road, Baraut, Uttar Pradesh 250611",
+    "area": "250621",
+    "latitude": 29.100192099999997,
+    "longitude": 77.2682107,
+    "place_id": "ChIJIaHO3qtLDDkRuoM_-a9WeSM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIaHO3qtLDDkRuoM_-a9WeSM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:24:43"
+  },
+  {
+    "business_name": "BABA CHARITABLE BLOOD CENTER",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "250621",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "20/276, Gandhi Road, Jaat Area, Baraut, Uttar Pradesh 250611",
+    "area": "Jaat Area",
+    "latitude": 29.0992866,
+    "longitude": 77.2709721,
+    "place_id": "ChIJkVyKPABLDDkRG0f6WXdGQwU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkVyKPABLDDkRG0f6WXdGQwU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:24:46"
+  }
+]

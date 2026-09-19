@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mekeup Studio",
+    "search_category": "Spa Consultants",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "250342",
+    "phone_number": "+91 93689 09475",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "05 Near Mandir, Rode, Bannu Mian Jaat Colony, Modipuram, Meerut, Bahrala, Uttar Pradesh 250001",
+    "area": "Bannu Mian Jaat Colony, Modipuram",
+    "latitude": 29.0875968,
+    "longitude": 77.7336114,
+    "place_id": "ChIJwSKlX5ZvDDkRYq5qdDMih0Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwSKlX5ZvDDkRYq5qdDMih0Q",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:55:18"
+  },
+  {
+    "business_name": "Olivia Spa Meerut",
+    "search_category": "Spa Consultants",
+    "primary_category": "Spa and health club",
+    "all_categories": "Spa and health club",
+    "pincode": "250342",
+    "phone_number": "+91 76689 98299",
+    "website": "https://www.oliviahub.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Subharatri university, Bagpat by pass, Ved Vyas Puri, Sector - 3, Ansal's Sushant City, Meerut, Uttar Pradesh 250001",
+    "area": "Ved Vyas Puri, Sector - 3, Ansal's Sushant City",
+    "latitude": 28.9443108,
+    "longitude": 77.64106,
+    "place_id": "ChIJw3CqAwBlDDkRsWofytg1N2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw3CqAwBlDDkRsWofytg1N2U",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:55:18"
+  }
+]

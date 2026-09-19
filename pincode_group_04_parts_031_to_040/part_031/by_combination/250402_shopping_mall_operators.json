@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maheshwari Shopping Centre",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "250402",
+    "phone_number": "+91 93196 16280",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Shop No. 422, Sector 2, Shastri Nagar, Meerut, Uttar Pradesh 250002",
+    "area": "Sector 2, Shastri Nagar",
+    "latitude": 28.960228999999998,
+    "longitude": 77.7297169,
+    "place_id": "ChIJ9Wm7DbtkDDkRW22UtCu4_F4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Wm7DbtkDDkRW22UtCu4_F4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:03:34"
+  },
+  {
+    "business_name": "Grand Square",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "250402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "near RTO Compound, Karim Nagar, Shastri Nagar, Meerut, Uttar Pradesh 250002",
+    "area": "Karim Nagar, Shastri Nagar",
+    "latitude": 28.9531925,
+    "longitude": 77.7206386,
+    "place_id": "ChIJwXYXBgBlDDkRVSS0bCZ8diE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwXYXBgBlDDkRVSS0bCZ8diE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:03:34"
+  }
+]

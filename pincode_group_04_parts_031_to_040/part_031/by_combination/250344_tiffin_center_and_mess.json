@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Tiffin Service",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "250344",
+    "phone_number": "+91 75008 51434",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "H-237, L Block, Ambedkar Chawk, Shastri Nagar, Meerut, Uttar Pradesh 250002",
+    "area": "L Block, Ambedkar Chawk, Shastri Nagar",
+    "latitude": 28.954808699999997,
+    "longitude": 77.7286269,
+    "place_id": "ChIJT6zGodNlDDkR_G0sCPlAzOQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT6zGodNlDDkR_G0sCPlAzOQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:56:26"
+  },
+  {
+    "business_name": "Shri Jain Tiffin Centre",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin center",
+    "all_categories": "Tiffin center",
+    "pincode": "250344",
+    "phone_number": "+91 79768 25267",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 33,
+    "address": "Stylish Boutique, Mahaveer Path, Vaishali Nagar, Ajmer, Rajasthan 305004",
+    "area": "Vaishali Nagar",
+    "latitude": 26.488945299999997,
+    "longitude": 74.6152311,
+    "place_id": "ChIJnTh5cnznazkRBO4_wR05yfY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnTh5cnznazkRBO4_wR05yfY",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:56:28"
+  }
+]

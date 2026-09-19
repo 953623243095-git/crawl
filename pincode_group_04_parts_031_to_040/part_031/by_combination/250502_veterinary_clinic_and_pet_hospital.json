@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Peteazy",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Emergency veterinarian service",
+    "all_categories": "Emergency veterinarian service, Pet boarding service, Pet groomer, Pet store, Pet trainer",
+    "pincode": "250502",
+    "phone_number": "+91 89015 09125",
+    "website": "http://www.peteazy.in/",
+    "rating": 4.8,
+    "reviews_count": 447,
+    "address": "2913, Ashiyana Floors Basement, Sector 57, Gurugram, Haryana 122011",
+    "area": "Sushant Lok Phase 3, Sushant Lok 2, Sector 57",
+    "latitude": 28.4213369,
+    "longitude": 77.0836255,
+    "place_id": "ChIJ5yo0qgkiDTkR0BIN-boK6qQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5yo0qgkiDTkR0BIN-boK6qQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:09:25"
+  },
+  {
+    "business_name": "24x7 Pet Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Dog day care center, Pet groomer, Pet store",
+    "pincode": "250502",
+    "phone_number": "+91 93505 64007",
+    "website": "https://247petclinic.com/",
+    "rating": 4.5,
+    "reviews_count": 617,
+    "address": "B Basement, Z-1, Block J, Rajouri Garden, New Delhi, Delhi, 110027",
+    "area": "Block J, Rajouri Garden",
+    "latitude": 28.6463012,
+    "longitude": 77.1177288,
+    "place_id": "ChIJKeNSXxYbDTkRSW1-Ud38qMY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKeNSXxYbDTkRSW1-Ud38qMY",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:09:26"
+  }
+]

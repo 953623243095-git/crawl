@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "D S D ONLINE SHOPING CENTRE",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "250402",
+    "phone_number": "+91 70557 61749",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mill Rd, Mawana, Uttar Pradesh 250401",
+    "area": "250402",
+    "latitude": 29.0961261,
+    "longitude": 77.9202145,
+    "place_id": "ChIJr4esGIt3DDkR66vNBhA-K-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr4esGIt3DDkR66vNBhA-K-4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:01:52"
+  },
+  {
+    "business_name": "Aggarwal departmental store",
+    "search_category": "Departmental Store",
+    "primary_category": "Store",
+    "all_categories": "Store, Department store",
+    "pincode": "250402",
+    "phone_number": "+91 90348 73077",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 70,
+    "address": "Shop No.G1/1, 2 & 3, Ground Floor, Jagat Farm, Gamma 1, Greater Noida, Uttar Pradesh 201310",
+    "area": "Jagat Farm, Block E, Chandila, Gamma 1",
+    "latitude": 28.482312699999998,
+    "longitude": 77.49847319999999,
+    "place_id": "ChIJ5UVemnDqDDkRUiR7A1uKllA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5UVemnDqDDkRUiR7A1uKllA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:01:53"
+  }
+]

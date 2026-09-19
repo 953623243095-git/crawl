@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree balaji kirana and Cosmetic Store",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "250502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Golden vatika, Rohta Rd, Lakhwaya, Meerut, Uttar Pradesh 250502",
+    "area": "250502",
+    "latitude": 29.0009952,
+    "longitude": 77.63133189999999,
+    "place_id": "ChIJT2ZtT2FnDDkRp_M5Nsn0uGk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT2ZtT2FnDDkRp_M5Nsn0uGk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:08:53"
+  },
+  {
+    "business_name": "BABA GROCERY",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "250502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "2HJM+7XH, Doongar Rd, Pooth Khas, Uttar Pradesh 250502",
+    "area": "250502",
+    "latitude": 29.0306954,
+    "longitude": 77.5849932,
+    "place_id": "ChIJP_McyOZpDDkR9y_W8lT-EzA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP_McyOZpDDkR9y_W8lT-EzA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:08:53"
+  }
+]

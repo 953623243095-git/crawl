@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Origins Physiotherapy Clinic",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "250609",
+    "phone_number": "+91 81422 03040",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "HIG, CBI Colony, Phase 4, Sachivalaya Nagar, Vanasthalipuram, Hyderabad, Telangana 500070",
+    "area": "CBI Colony, Phase 4, Sachivalaya Nagar",
+    "latitude": 17.3302069,
+    "longitude": 78.5660426,
+    "place_id": "ChIJVaKTffmhyzsRR8AsQ-ns_DM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVaKTffmhyzsRR8AsQ-ns_DM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:14:38"
+  },
+  {
+    "business_name": "Physio Care",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "250609",
+    "phone_number": "+91 11 4587 3564",
+    "website": "http://physiocare.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "D5, DSIIDC Engineering Complex, Phase 1, Mangolpuri Rd, Mangol Puri Industrial Area Phase I, Phase 1, Pocket B, Industrial Area, Mangolpuri, New Delhi, Delhi, 110083",
+    "area": "Mangol Puri Industrial Area Phase I, Phase 1, Pocket B, Industrial Area, Mangolpuri",
+    "latitude": 28.6873048,
+    "longitude": 77.0921444,
+    "place_id": "ChIJCwjMbA4EDTkRXAQHv74Zr-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCwjMbA4EDTkRXAQHv74Zr-M",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:14:39"
+  }
+]

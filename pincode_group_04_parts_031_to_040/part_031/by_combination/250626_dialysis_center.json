@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dialysis Centre Georgian Hospital",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "250626",
+    "phone_number": "N/A",
+    "website": "https://gshri.com/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Gokul Puram Colony Rd, Awaleshpur, Varanasi, Kandwa, Uttar Pradesh 221106",
+    "area": "Awaleshpur",
+    "latitude": 25.2626262,
+    "longitude": 82.9654121,
+    "place_id": "ChIJh1Y08iMzjjkR1HPleuR5Gj8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh1Y08iMzjjkR1HPleuR5Gj8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:31:35"
+  },
+  {
+    "business_name": "Dialysis Centre District Hospital Aluva",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "250626",
+    "phone_number": "+91 484 262 1321",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 14,
+    "address": "4934+W66, Railway Station Rd, Periyar Nagar, Aluva, Keralam 683101",
+    "area": "Periyar Nagar",
+    "latitude": 10.104775499999999,
+    "longitude": 76.3555097,
+    "place_id": "ChIJWT4hVtYOCDsRAxJ_P_o1yjk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWT4hVtYOCDsRAxJ_P_o1yjk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:31:35"
+  }
+]

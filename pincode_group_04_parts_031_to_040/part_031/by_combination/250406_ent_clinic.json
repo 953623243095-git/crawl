@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nishtha ENT Clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "250406",
+    "phone_number": "+91 79068 50544",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "115, near Rampurna Gas Agency, Chowk, Garh Rd, opposite Tyagi Market, near Rangoli Road, Meerut, Uttar Pradesh 250004",
+    "area": "Ramgarhi",
+    "latitude": 28.9642324,
+    "longitude": 77.7391523,
+    "place_id": "ChIJJ3oguZFlDDkRALnCQKRk2lo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ3oguZFlDDkRALnCQKRk2lo",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:05:52"
+  },
+  {
+    "business_name": "Dr L K GUPTA",
+    "search_category": "ENT Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "250406",
+    "phone_number": "+91 89585 67070",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "9/1, Patel Nagar, Moti Katra, Mantola, Agra, Uttar Pradesh 282003",
+    "area": "Patel Nagar, Moti Katra, Mantola",
+    "latitude": 27.1864948,
+    "longitude": 78.0105943,
+    "place_id": "ChIJjVokWH53dDkR-22cM4ndIDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjVokWH53dDkR-22cM4ndIDA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:05:52"
+  }
+]

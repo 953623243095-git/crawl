@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Little Mobile Center",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "250626",
+    "phone_number": "+91 98971 42222",
+    "website": "http://www.near.pe/little3",
+    "rating": 4.4,
+    "reviews_count": 37,
+    "address": "nand Plaza Opp.Vaishali Colony State Highway, Meerut, Uttar Pradesh 250002",
+    "area": "Kalyan",
+    "latitude": 28.968027199999998,
+    "longitude": 77.7272134,
+    "place_id": "ChIJC1DwQb9kDDkRJR7OljtgbOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC1DwQb9kDDkRJR7OljtgbOA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:32:22"
+  },
+  {
+    "business_name": "Dotcom gadgets (mobile shop )",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Cell phone accessory store",
+    "pincode": "250626",
+    "phone_number": "+91 93190 58138",
+    "website": "https://www.dotcomgadgets.in/",
+    "rating": 4.4,
+    "reviews_count": 280,
+    "address": "Main, Babarpur Main Rd, near Sona sweets, West Rohtash Nagar, Shahdara, Delhi, 110032",
+    "area": "West Rohtash Nagar, Shahdara",
+    "latitude": 28.680754099999998,
+    "longitude": 77.28651769999999,
+    "place_id": "ChIJL41jG3f8DDkROi6pjdTZujk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL41jG3f8DDkROi6pjdTZujk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:32:24"
+  }
+]

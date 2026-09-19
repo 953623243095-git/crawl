@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Delhi Pump Repair Center",
+    "search_category": "Motor Rewinding and Pump Repair",
+    "primary_category": "Electric motor repair shop",
+    "all_categories": "Electric motor repair shop, Plumbing supply store",
+    "pincode": "250615",
+    "phone_number": "+91 93500 57515",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "Shop no 40, Krishna Market, Block D, Lajpat Nagar 1, Lajpat Nagar, New Delhi, Delhi 110024",
+    "area": "Krishna Market, Block D, Lajpat Nagar 1, Lajpat Nagar",
+    "latitude": 28.5753289,
+    "longitude": 77.2419369,
+    "place_id": "ChIJtbqV4zTjDDkRSMqz_Ixn9-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtbqV4zTjDDkRSMqz_Ixn9-w",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:18:58"
+  },
+  {
+    "business_name": "Farhan Heavy Electricals",
+    "search_category": "Motor Rewinding and Pump Repair",
+    "primary_category": "Electric motor repair shop",
+    "all_categories": "Electric motor repair shop",
+    "pincode": "250615",
+    "phone_number": "+91 98199 90088",
+    "website": "http://www.farhanhe.com/",
+    "rating": 4.3,
+    "reviews_count": 85,
+    "address": "Plot No 67, Rangara Industries 33/35 kiravali-Adavali, Old Thane-Pune Road Taluka: Panvel, Dist: Raigad, opp. Indian Oil Petrol Pump, Panvel, Maharashtra 410208",
+    "area": "Adivali, Panvel",
+    "latitude": 19.1054153,
+    "longitude": 73.0628339,
+    "place_id": "ChIJRVR9ciHP5zsRNnn2ojwg4M4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRVR9ciHP5zsRNnn2ojwg4M4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:18:58"
+  }
+]

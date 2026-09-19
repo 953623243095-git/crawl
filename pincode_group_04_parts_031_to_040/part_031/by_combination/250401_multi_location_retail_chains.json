@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RELIANCE SMART BAZAAR",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "250401",
+    "phone_number": "+91 79065 85486",
+    "website": "http://www.jiomart.com/",
+    "rating": 4.1,
+    "reviews_count": 60,
+    "address": "Ganga Nagar, Meerut, Uttar Pradesh 250001",
+    "area": "Ganga Nagar",
+    "latitude": 28.9989989,
+    "longitude": 77.76360389999999,
+    "place_id": "ChIJp_OKAwB7DDkR4PGa1VS1rwU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp_OKAwB7DDkR4PGa1VS1rwU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:01:50"
+  },
+  {
+    "business_name": "Abul Kasim",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "250401",
+    "phone_number": "+91 96394 51887",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "000, Mawana, Uttar Pradesh 250401",
+    "area": "250401",
+    "latitude": 29.1035571,
+    "longitude": 77.92256429999999,
+    "place_id": "ChIJNbztqv13DDkRSpbchQrfuq8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNbztqv13DDkRSpbchQrfuq8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:01:51"
+  }
+]

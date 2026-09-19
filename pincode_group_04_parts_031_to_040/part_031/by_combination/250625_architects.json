@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rethinking The Future",
+    "search_category": "Architects",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "250625",
+    "phone_number": "N/A",
+    "website": "https://re-thinkingthefuture.com/",
+    "rating": 4.7,
+    "reviews_count": 12,
+    "address": "9A, DDA Flats, Block B, Nirman Vihar, Preet Vihar, New Delhi, Delhi, 110092",
+    "area": "Block B, Nirman Vihar, Preet Vihar",
+    "latitude": 28.6330368,
+    "longitude": 77.28677669999999,
+    "place_id": "ChIJ3yZFPCDjDDkRedrFH5lcbZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3yZFPCDjDDkRedrFH5lcbZU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:30:11"
+  },
+  {
+    "business_name": "architect himanshu",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect, Interior designer",
+    "pincode": "250625",
+    "phone_number": "+91 95602 37132",
+    "website": "http://www.architecthimanshu.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Third Floor, Centre Mall, II, Aditya Mega City, Vaibhav Khand, Indirapuram, Ghaziabad, Uttar Pradesh 201014",
+    "area": "Aditya Mega City, Vaibhav Khand, Indirapuram",
+    "latitude": 28.638612,
+    "longitude": 77.3619227,
+    "place_id": "ChIJyWWuVojvDDkRl4Yz0LraQvI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyWWuVojvDDkRl4Yz0LraQvI",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:30:12"
+  }
+]

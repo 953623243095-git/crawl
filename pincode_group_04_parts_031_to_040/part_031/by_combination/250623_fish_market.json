@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KISHAN MAJDUR EKTA",
+    "search_category": "Fish Market",
+    "primary_category": "Farmers' market",
+    "all_categories": "Farmers' market",
+    "pincode": "250623",
+    "phone_number": "N/A",
+    "website": "https://kishanmajdurekta.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VPO, Ramala, Uttar Pradesh 250623",
+    "area": "VPO",
+    "latitude": 29.223146399999997,
+    "longitude": 77.2684202,
+    "place_id": "ChIJ0xLEmD01DDkRCql21uPg-38",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0xLEmD01DDkRCql21uPg-38",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:27:46"
+  },
+  {
+    "business_name": "Satnam Pashu Aahar",
+    "search_category": "Fish Market",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "250623",
+    "phone_number": "+91 98975 56741",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 4,
+    "address": "Near Chaudhary Hukum Singh Memorial Hospital Saharanpur Road Kishanpur Baral, Kishan pur, baral, Uttar Pradesh 250623",
+    "area": "Kishan pur",
+    "latitude": 29.191321799999997,
+    "longitude": 77.2843855,
+    "place_id": "ChIJLdr6OYE1DDkRk3tHKNyq9Yo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLdr6OYE1DDkRk3tHKNyq9Yo",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:27:46"
+  }
+]

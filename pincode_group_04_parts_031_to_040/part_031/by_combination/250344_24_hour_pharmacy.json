@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M.P. Pharmaceuticals",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "250344",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "413, Mayur Vihar Phase II, Sector 3, Jagriti Vihar, Meerut, Uttar Pradesh 250004",
+    "area": "Mayur Vihar Phase II, Sector 3, Jagriti Vihar",
+    "latitude": 28.9545013,
+    "longitude": 77.7444173,
+    "place_id": "ChIJnSz0uqxkDDkRmDAvBOeH4bY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnSz0uqxkDDkRmDAvBOeH4bY",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:56:44"
+  },
+  {
+    "business_name": "Ved Medicines",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "250344",
+    "phone_number": "+91 98972 43342",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "122, Ismail Nagar, Subhash Bazaar, Meerut, Uttar Pradesh 250002",
+    "area": "Ismail Nagar, Subhash Bazaar",
+    "latitude": 28.9770304,
+    "longitude": 77.7061647,
+    "place_id": "ChIJvRClxvBkDDkRsFGP6HrdIXI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvRClxvBkDDkRsFGP6HrdIXI",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:56:44"
+  }
+]

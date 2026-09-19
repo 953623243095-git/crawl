@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Vinay Agarwal",
+    "search_category": "Doctors",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "250625",
+    "phone_number": "+91 94560 56915",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "326, Bhagpat Road, Meerut Delhi, Uttar Pradesh 250002",
+    "area": "Malyana",
+    "latitude": 28.9711246,
+    "longitude": 77.66573869999999,
+    "place_id": "ChIJR9qiMDtkDDkRNOo2alKpppI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR9qiMDtkDDkRNOo2alKpppI",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:29:48"
+  },
+  {
+    "business_name": "Dr Rachna Kucheria - General Physician (By Appointment Only)",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, Family practice physician, General practitioner, Geriatrician",
+    "pincode": "250625",
+    "phone_number": "+91 11 4118 3001",
+    "website": "https://www.docgenie.in/general-physicians/delhi/dr-rachna-kucheria/",
+    "rating": 4.5,
+    "reviews_count": 27,
+    "address": "Block C, Gulmohar Park, New Delhi, Delhi 110049",
+    "area": "Block C, Gulmohar Park",
+    "latitude": 28.5584074,
+    "longitude": 77.2138267,
+    "place_id": "ChIJwZOBZ2viDDkRxe9BwTCJCx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwZOBZ2viDDkRxe9BwTCJCx8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:29:48"
+  }
+]

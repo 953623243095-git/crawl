@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Regards-The Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant, Breakfast restaurant",
+    "pincode": "250621",
+    "phone_number": "+91 82210 55550",
+    "website": "https://www.facebook.com/regardssonipat/",
+    "rating": 4.1,
+    "reviews_count": 564,
+    "address": "64-64 TP scheme, Delhi Rd, above SUNRISE TVS showroom, near Swami Vivekanand Road, CHOWK, Sonipat, Haryana 131001",
+    "area": "CHOWK",
+    "latitude": 28.9913776,
+    "longitude": 77.0338063,
+    "place_id": "ChIJtQDLyLSxDTkRlyYfL7kkLfg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtQDLyLSxDTkRlyYfL7kkLfg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:24:27"
+  },
+  {
+    "business_name": "SARDARJI MALAI CHAAP WALE",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "250621",
+    "phone_number": "+91 63952 33413",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Delhi - Saharanpur Rd, near Lic office, Baraut, Uttar Pradesh 250611",
+    "area": "250621",
+    "latitude": 29.1076983,
+    "longitude": 77.2564708,
+    "place_id": "ChIJDYvHIKlLDDkRtct0IM4KSHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDYvHIKlLDDkRtct0IM4KSHo",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:24:29"
+  }
+]

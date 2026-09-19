@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Mirage By Cozette",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "250621",
+    "phone_number": "+91 99538 68308",
+    "website": "http://www.cozettehotel.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Bahalgarh Road, behind Cozette Hotel, Sector 2, Sonipat, Haryana 131001",
+    "area": "Sector 2",
+    "latitude": 28.980496199999997,
+    "longitude": 77.04788769999999,
+    "place_id": "ChIJqxF-OQyxDTkR-CurNHamSwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqxF-OQyxDTkR-CurNHamSwI",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:25:13"
+  },
+  {
+    "business_name": "Siddhartha Palace",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall, Wedding venue",
+    "pincode": "250621",
+    "phone_number": "+91 96096 16555",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Sector 23, Kakroi Road, Sonipat, Haryana 131001",
+    "area": "Sector 23",
+    "latitude": 28.9778557,
+    "longitude": 76.9883746,
+    "place_id": "ChIJXVna7re6DTkRhCMbWB6WWg0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXVna7re6DTkRhCMbWB6WWg0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:25:13"
+  }
+]

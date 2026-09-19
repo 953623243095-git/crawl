@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chennai Trade Centre - Nandambakkam",
+    "search_category": "Tradeshows",
+    "primary_category": "Exhibition and trade center",
+    "all_categories": "Exhibition and trade center",
+    "pincode": "250501",
+    "phone_number": "+91 44 2231 6033",
+    "website": "http://www.chennaitradecentre.org/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "600089, 600089, Nandambakkam, Tamil Nadu 600089",
+    "area": "Ramapuram",
+    "latitude": 13.0147579,
+    "longitude": 80.1909526,
+    "place_id": "ChIJW32wXDRnUjoR31spLSFZZH0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW32wXDRnUjoR31spLSFZZH0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:08:45"
+  },
+  {
+    "business_name": "PIECC Pune International Exhibition and Convention Centre Entry Gate1",
+    "search_category": "Tradeshows",
+    "primary_category": "Convention center",
+    "all_categories": "Convention center",
+    "pincode": "250501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "MR6W+CP8, Moshi High St, Sector No. 5, Moshi, Pimpri-Chinchwad, Maharashtra 411070",
+    "area": "Sector No. 5, Moshi",
+    "latitude": 18.661044099999998,
+    "longitude": 73.8468341,
+    "place_id": "ChIJnUnkGADHwjsRFle05lHtxc0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnUnkGADHwjsRFle05lHtxc0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:08:45"
+  }
+]

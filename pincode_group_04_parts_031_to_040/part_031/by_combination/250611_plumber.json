@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Plumber Services",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "250611",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "House No.-190 Vajidpur, Baraut, Uttar Pradesh 250611",
+    "area": "250611",
+    "latitude": 29.099636399999998,
+    "longitude": 77.26190179999999,
+    "place_id": "ChIJKe5rVHJLDDkRBl8r2x33Rbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKe5rVHJLDDkRBl8r2x33Rbo",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:16:35"
+  },
+  {
+    "business_name": "Samay Singh Rakesh Jain",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "250611",
+    "phone_number": "+91 98372 63731",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nehru Road, Baraut Rural, Baraut, Uttar Pradesh 250611",
+    "area": "250611",
+    "latitude": 29.0996916,
+    "longitude": 77.263111,
+    "place_id": "ChIJF5hNmopLDDkR_zYRxuFte-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF5hNmopLDDkR_zYRxuFte-s",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:16:35"
+  }
+]

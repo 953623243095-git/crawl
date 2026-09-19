@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Flower Petals",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Bakery and Cake Shop, Cake shop, Dried flower shop, Event management company, Flower delivery, Flower designer, Flower market, Party store, Wedding bakery",
+    "pincode": "250623",
+    "phone_number": "+91 99331 40763",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "HCP4+97R Salt Lake Block, DB Block, Sector 1, Bidhannagar, Kolkata, West Bengal 700064",
+    "area": "DB Block, Sector 1, Bidhannagar",
+    "latitude": 22.5859375,
+    "longitude": 88.4056875,
+    "place_id": "ChIJAab2KSd1AjoRoJC2n7doVhs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAab2KSd1AjoRoJC2n7doVhs",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:28:40"
+  },
+  {
+    "business_name": "BOWS & BLOSSOMS",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Event planner, Gift shop, Wedding planner",
+    "pincode": "250623",
+    "phone_number": "N/A",
+    "website": "http://www.bowsandblossoms.in/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "CF Block(Newtown), Action Area 1C, Newtown, Kolkata, West Bengal 700107",
+    "area": "CF Block(Newtown), Action Area 1C, Newtown",
+    "latitude": 22.579653399999998,
+    "longitude": 88.45984299999999,
+    "place_id": "ChIJ6QuyYoV1AjoRpZ6gV3Iz2jw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6QuyYoV1AjoRpZ6gV3Iz2jw",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:28:40"
+  }
+]

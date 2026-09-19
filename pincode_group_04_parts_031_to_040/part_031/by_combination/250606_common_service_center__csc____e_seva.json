@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "COMMON SRVICES CENTRE (C.S.C)",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "250606",
+    "phone_number": "N/A",
+    "website": "https://cscindia.info/common-service-centre-hyderabad/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GATE NO:1, OFFICE ADDRESSES : 11, 6-659/1, opposite METROPOLITAN CRIMINAL COURT, Red Hills, Nampally, Hyderabad, Telangana 500004",
+    "area": "Devi Bagh, Red Hills, Nampally",
+    "latitude": 17.3946581,
+    "longitude": 78.46660399999999,
+    "place_id": "ChIJl6VCuluXyzsRVLS8cFSRv7U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl6VCuluXyzsRVLS8cFSRv7U",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:13:39"
+  },
+  {
+    "business_name": "CSC Center Digital Seva Kendra",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "250606",
+    "phone_number": "+91 98519 65217",
+    "website": "https://sites.google.com/view/csccenter-com/home",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "S City Rd, South City II, Sector 49, Gurugram, Fatehpur, Haryana 122018",
+    "area": "South City II, Sector 49",
+    "latitude": 28.4185017,
+    "longitude": 77.0522129,
+    "place_id": "ChIJW38oQr4jDTkR_MTXgecwde8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW38oQr4jDTkR_MTXgecwde8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:13:39"
+  }
+]

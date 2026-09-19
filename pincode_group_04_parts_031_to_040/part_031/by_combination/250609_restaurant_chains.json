@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star Pizza",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Fast food restaurant",
+    "pincode": "250609",
+    "phone_number": "+91 97589 09194",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 294,
+    "address": "V78P+HR5, Khekra, Uttar Pradesh 250101",
+    "area": "250609",
+    "latitude": 28.8663991,
+    "longitude": 77.2871265,
+    "place_id": "ChIJ6e24bYJWDDkRI0cDR_ixUpQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6e24bYJWDDkRI0cDR_ixUpQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:14:23"
+  },
+  {
+    "business_name": "Moti Mahal Delux, Baraut",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant",
+    "pincode": "250609",
+    "phone_number": "+91 74540 98939",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 312,
+    "address": "The Royal Step Resort & Banquet, NH 709B, near C.O. Office, Dilip Vihar, Baraut, Uttar Pradesh 250611",
+    "area": "Dilip Vihar",
+    "latitude": 29.1088241,
+    "longitude": 77.2582777,
+    "place_id": "ChIJLYwvesBLDDkRmu3KtxKSkXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLYwvesBLDDkRmu3KtxKSkXk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:14:24"
+  }
+]

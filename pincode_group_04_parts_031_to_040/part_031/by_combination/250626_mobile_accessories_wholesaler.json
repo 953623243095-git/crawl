@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Mobile Bazaar",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "250626",
+    "phone_number": "+91 88001 11070",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 42,
+    "address": "Shop no 2, B-1, Rama Park Rd, Rama Park, Block B, Mohan Garden, Uttam Nagar, New Delhi, Delhi, 110059",
+    "area": "Rama Park, Block B, Mohan Garden, Uttam Nagar",
+    "latitude": 28.6201777,
+    "longitude": 77.03657489999999,
+    "place_id": "ChIJka47-vMFDTkRO2xYimPABe0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJka47-vMFDTkRO2xYimPABe0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:32:23"
+  },
+  {
+    "business_name": "Pmake Mobile Lcd",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "250626",
+    "phone_number": "+91 87005 66025",
+    "website": "http://pmakemobilelcd.com/",
+    "rating": 4.8,
+    "reviews_count": 63,
+    "address": "Gali , 2 Floor, Hi Tech Building, 2920/44, Block 12D, Beadonpura, Karol Bagh, New Delhi, Delhi, 110005",
+    "area": "Block 12D, Beadonpura, Karol Bagh",
+    "latitude": 28.6501137,
+    "longitude": 77.1899881,
+    "place_id": "ChIJozvbCcYDDTkRB1HqpEWMjqk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJozvbCcYDDTkRB1HqpEWMjqk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:32:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CSC ATAL SEVA KENDRA",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "250623",
+    "phone_number": "+91 90684 00095",
+    "website": "http://digitalseva.csc.gov.in/",
+    "rating": 2.9,
+    "reviews_count": null,
+    "address": "1st Floor, Zen CSC Center, near Prem Hospital, Bishon Sarup Colony, Panipat, Haryana 132103",
+    "area": "Bishon Sarup Colony",
+    "latitude": 29.398100799999998,
+    "longitude": 76.9651049,
+    "place_id": "ChIJwYT4uEraDTkRirgMgBEcFLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwYT4uEraDTkRirgMgBEcFLs",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:28:57"
+  },
+  {
+    "business_name": "C|S|C DIGITAL SEVA KENDRA",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "E-commerce service",
+    "all_categories": "E-commerce service, Computer store, Government office, Mobile money agent",
+    "pincode": "250623",
+    "phone_number": "+91 99993 02228",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "B-166, Tagore Garden Ext, Block D, Vishal Enclave, Tagore Garden Extension, Delhi, 110027",
+    "area": "Block D, Vishal Enclave, Tagore Garden Extension",
+    "latitude": 28.651685099999998,
+    "longitude": 77.11641019999999,
+    "place_id": "ChIJ538y5XADDTkRz7YBG4xOt1o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ538y5XADDTkRz7YBG4xOt1o",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:28:57"
+  }
+]

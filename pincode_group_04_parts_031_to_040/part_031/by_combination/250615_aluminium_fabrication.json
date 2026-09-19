@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonu Fabrication",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop, Steel fabricator",
+    "pincode": "250615",
+    "phone_number": "+91 87504 13190",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shoo No 65, Jain School, Road, Khekra, Uttar Pradesh 250101",
+    "area": "250615",
+    "latitude": 28.8615113,
+    "longitude": 77.2901339,
+    "place_id": "ChIJAQC_74BWDDkRZwWAu3YgiOk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQC_74BWDDkRZwWAu3YgiOk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:18:56"
+  },
+  {
+    "business_name": "Tosif Saifi Fabrication",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Welder",
+    "all_categories": "Welder",
+    "pincode": "250615",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jain College road khekra Baghpat near New Max hospital Jain Inter College Road Fatak Ke Paar, near Hanuman Mandir welding workshop, Khekra, Uttar Pradesh 250101",
+    "area": "250615",
+    "latitude": 28.8624893,
+    "longitude": 77.287872,
+    "place_id": "ChIJ21lXCh1XDDkR6dLkku_lC9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ21lXCh1XDDkR6dLkku_lC9M",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:18:58"
+  }
+]

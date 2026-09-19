@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vibhav Tour & Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "250626",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Rathi Market, Modinagar - Niwari Rd, Modinagar, Yakutpur Mavi, Uttar Pradesh 201204",
+    "area": "250626",
+    "latitude": 28.857219899999997,
+    "longitude": 77.5575235,
+    "place_id": "ChIJA1UBzKdfDDkRvNB334h5_SA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA1UBzKdfDDkRvNB334h5_SA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:31:48"
+  },
+  {
+    "business_name": "Shyam House ( brothers group )",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "250626",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Latifpur Dattnagar, Dattanagar, Uttar Pradesh 250626",
+    "area": "250626",
+    "latitude": 28.9224908,
+    "longitude": 77.405819,
+    "place_id": "ChIJY2s6ZgBbDDkRrTxZXQWsUkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY2s6ZgBbDDkRrTxZXQWsUkA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:31:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "IRS HOSTEL",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "250622",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 32,
+    "address": "3, Street Number 7, Sangam Vihar, Wazirabad, Delhi, 110084",
+    "area": "Sangam Vihar, Wazirabad",
+    "latitude": 28.727959799999997,
+    "longitude": 77.219259,
+    "place_id": "ChIJcyCLe5T_DDkRoz1QPY749Oc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcyCLe5T_DDkRoz1QPY749Oc",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:27:04"
+  },
+  {
+    "business_name": "Avi hostel & Pg",
+    "search_category": "Hostels",
+    "primary_category": "Youth Hostel",
+    "all_categories": "Youth Hostel",
+    "pincode": "250622",
+    "phone_number": "+91 93111 09569",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 28,
+    "address": "D - 13, South Extension I, Block D, New Delhi, Delhi 110049",
+    "area": "South Extension I, Block D",
+    "latitude": 28.572682,
+    "longitude": 77.219509,
+    "place_id": "ChIJkX4jRQjjDDkR1JS2TtBagas",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkX4jRQjjDDkR1JS2TtBagas",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:27:04"
+  }
+]

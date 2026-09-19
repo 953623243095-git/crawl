@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AR UNISEX SALON",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser, Skin care clinic, Barber shop",
+    "pincode": "250401",
+    "phone_number": "+91 94117 77787",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 18,
+    "address": "Saboori plaza, A-Pocket, Radha Garden, Ganga Nagar, Meerut, Uttar Pradesh 250001",
+    "area": "A-Pocket, Radha Garden, Ganga Nagar",
+    "latitude": 29.003573099999997,
+    "longitude": 77.7503169,
+    "place_id": "ChIJy23PUwB7DDkRFNwW8tBeXZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy23PUwB7DDkRFNwW8tBeXZA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:01:01"
+  },
+  {
+    "business_name": "Steffy's Style Salon & Skin Clinic",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Skin care clinic",
+    "pincode": "250401",
+    "phone_number": "+91 75008 71266",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 114,
+    "address": "PNB Rd, Sector 4, Jagriti Vihar, Meerut, Uttar Pradesh 250004",
+    "area": "Sector 4, Jagriti Vihar",
+    "latitude": 28.955824999999997,
+    "longitude": 77.7472391,
+    "place_id": "ChIJTXZ2b1Z7DDkRSg2pLwUuIwA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTXZ2b1Z7DDkRSg2pLwUuIwA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:01:01"
+  }
+]

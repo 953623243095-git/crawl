@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Food Point",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop, Bakery and Cake Shop",
+    "pincode": "250502",
+    "phone_number": "+91 89580 34560",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "A-27, Ved Vyas Puri -Phase 1, Maliana, Meerut, Uttar Pradesh 250002",
+    "area": "Ved Vyas Puri -Phase 1, Maliana",
+    "latitude": 28.958980099999998,
+    "longitude": 77.6405383,
+    "place_id": "ChIJuUUQdZRnDDkRszlpPrzfqxQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuUUQdZRnDDkRszlpPrzfqxQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:09:02"
+  },
+  {
+    "business_name": "Cake studio",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "250502",
+    "phone_number": "+91 92869 96231",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "near chota mandir, Lawar NP, Uttar Pradesh 250222",
+    "area": "250502",
+    "latitude": 29.1128526,
+    "longitude": 77.7768737,
+    "place_id": "ChIJKVbmo59xDDkRSYDqhyzlvyc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKVbmo59xDDkRSYDqhyzlvyc",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:09:02"
+  }
+]

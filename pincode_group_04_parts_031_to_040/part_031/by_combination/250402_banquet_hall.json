@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SGM Gardens",
+    "search_category": "Banquet Hall",
+    "primary_category": "Wedding venue",
+    "all_categories": "Wedding venue",
+    "pincode": "250402",
+    "phone_number": "+91 98370 20709",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Near, 304, Brook street, Begum Bridge, Lal Kurti, Meerut, Uttar Pradesh 250001",
+    "area": "Lal Kurti, Medha Mohala, Lalkurti Bazaar",
+    "latitude": 28.9999686,
+    "longitude": 77.70665269999999,
+    "place_id": "ChIJSW6AuAVlDDkRk8en6eoKQvI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSW6AuAVlDDkRk8en6eoKQvI",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:02:52"
+  },
+  {
+    "business_name": "MERCURY HOTEL & BANQUET",
+    "search_category": "Banquet Hall",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "250402",
+    "phone_number": "+91 79999 83636",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Rail Vihar, Delhi Rd, Shatabdi Nagar, Phase-II, Industrial Area, Mohkam Pur, Meerut, Uttar Pradesh 250002",
+    "area": "Shatabdi Nagar, Phase-II, Industrial Area, Mohkam Pur",
+    "latitude": 28.9419908,
+    "longitude": 77.6684847,
+    "place_id": "ChIJTZP4YRtjDDkRzARSnm_cSYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTZP4YRtjDDkRzARSnm_cSYE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:02:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Juice And Milkshakes",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "250626",
+    "phone_number": "+91 95608 75665",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Shop No 5, X Road, Venkateswara Colony, Vijayapuri Colony, Uppal, Hyderabad, Telangana 500039",
+    "area": "Venkateswara Colony, Vijayapuri Colony, Uppal",
+    "latitude": 17.398820699999998,
+    "longitude": 78.5604389,
+    "place_id": "ChIJq5zCXsCZyzsRHOwAZQmwlGs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq5zCXsCZyzsRHOwAZQmwlGs",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:31:14"
+  },
+  {
+    "business_name": "King juice machines",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "250626",
+    "phone_number": "+91 99718 22802",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "4493, Lambi Gali, Old Delhi, Kaccha Pandit Main Bazar, Lal Kuan Bazar, Chandni Chowk, New Delhi, Delhi, 110006",
+    "area": "Old Delhi, Kaccha Pandit Main Bazar, Lal Kuan Bazar, Chandni Chowk",
+    "latitude": 28.649093399999998,
+    "longitude": 77.22438249999999,
+    "place_id": "ChIJt6ovWuL9DDkRu0YoUskN5_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt6ovWuL9DDkRu0YoUskN5_s",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:31:15"
+  }
+]

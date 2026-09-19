@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "World media meet ncr",
+    "search_category": "Media and Event",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "250344",
+    "phone_number": "N/A",
+    "website": "https://worldmediancr.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "World media meet ncr, 250344, India",
+    "area": "250344",
+    "latitude": 28.9532766,
+    "longitude": 77.3077002,
+    "place_id": "ChIJL6nVtzNKyyYRjtxDv6S3rrk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL6nVtzNKyyYRjtxDv6S3rrk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:57:31"
+  },
+  {
+    "business_name": "Media Squad",
+    "search_category": "Media and Event",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Service establishment",
+    "pincode": "250344",
+    "phone_number": "0333 5000453",
+    "website": "https://www.mediasquad.pk/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Media Squad, 250344, India",
+    "area": "250344",
+    "latitude": 32.3094074,
+    "longitude": 72.3096389,
+    "place_id": "ChIJa8-VQy6nlgwRnB6ux1TvLUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa8-VQy6nlgwRnB6ux1TvLUE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:57:32"
+  }
+]

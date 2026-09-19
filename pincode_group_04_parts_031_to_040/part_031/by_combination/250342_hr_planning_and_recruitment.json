@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HR Delivered",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "250342",
+    "phone_number": "N/A",
+    "website": "http://www.hrdelivered.co.uk/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HR Delivered, 250342, India",
+    "area": "250342",
+    "latitude": 47.73855,
+    "longitude": 12.508827499999999,
+    "place_id": "ChIJPwMPsn5u4WoR-E9CpS-ydwY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPwMPsn5u4WoR-E9CpS-ydwY",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:55:49"
+  },
+  {
+    "business_name": "Resourceful People Group",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "250342",
+    "phone_number": "01234 989100",
+    "website": "http://www.resourcefulpeoplegroup.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Resourceful People Group, 250342, India",
+    "area": "250342",
+    "latitude": 52.8378768,
+    "longitude": -2.3274808,
+    "place_id": "ChIJh-HfxrbFNogRMQr-lM7P36A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh-HfxrbFNogRMQr-lM7P36A",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 05:55:49"
+  }
+]
