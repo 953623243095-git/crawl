@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VissThakur Lovely Home",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "262702",
+    "phone_number": "+91 88402 85956",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "MDR 75C, Haniya Tola, Kheri, Uttar Pradesh 262702",
+    "area": "Haniya Tola",
+    "latitude": 27.905773099999998,
+    "longitude": 80.79846069999999,
+    "place_id": "ChIJAaGkj6U0nzkRWL5dCO3LRRA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAaGkj6U0nzkRWL5dCO3LRRA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:46:59"
+  },
+  {
+    "business_name": "Shakir Ali And Sons Kheri Town Shop",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "262702",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1.5,
+    "reviews_count": 2,
+    "address": "WQ3W+3PC, Unnamed Road, Lakhimpur, Kheri, Uttar Pradesh 262702",
+    "area": "262702",
+    "latitude": 27.902689,
+    "longitude": 80.7967686,
+    "place_id": "ChIJp6qqZaY0nzkRVK_Y_n84pvs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp6qqZaY0nzkRVK_Y_n84pvs",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:47:00"
+  }
+]

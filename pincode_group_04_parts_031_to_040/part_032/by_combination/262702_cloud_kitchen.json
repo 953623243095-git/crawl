@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Singh's Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Food producer",
+    "pincode": "262702",
+    "phone_number": "+91 70801 07500",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1/226, Vibhav Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vibhav Khand, Gomti Nagar",
+    "latitude": 26.86178,
+    "longitude": 81.01796499999999,
+    "place_id": "ChIJf2-u1unjmzkRWWR-0EGo2Ns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf2-u1unjmzkRWWR-0EGo2Ns",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:45:30"
+  },
+  {
+    "business_name": "Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Cloud Kitchen",
+    "all_categories": "Cloud Kitchen",
+    "pincode": "262702",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Manas Cooperative Housing Society, Unit No. 2, Ground Floor, Building No 31, D.N.Nagar, Andheri West, Mumbai, Maharashtra 400053",
+    "area": "Shakti Nagar, Shanti Nagar, D.N.Nagar, Andheri West",
+    "latitude": 19.121749599999998,
+    "longitude": 72.831377,
+    "place_id": "ChIJkyFoQQDJ5zsRdlWteNOJJWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkyFoQQDJ5zsRdlWteNOJJWs",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:45:30"
+  }
+]

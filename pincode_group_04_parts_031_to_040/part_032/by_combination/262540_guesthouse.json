@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aharnisham",
+    "search_category": "Guesthouse",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay, Holiday apartment rental",
+    "pincode": "262540",
+    "phone_number": "+91 82732 98092",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 30,
+    "address": "Mad, Siloli, Pithoragarh, Silpata, Uttarakhand 262501",
+    "area": "262540",
+    "latitude": 29.601450999999997,
+    "longitude": 80.2150593,
+    "place_id": "ChIJTR1kLQYloTkRVgTf3yBQr9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTR1kLQYloTkRVgTf3yBQr9c",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:12:49"
+  },
+  {
+    "business_name": "WHITE PEAK HOMESTAY",
+    "search_category": "Guesthouse",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "262540",
+    "phone_number": "+91 81266 39605",
+    "website": "http://whitepeakhomestaypith.wordpress.com/",
+    "rating": 5,
+    "reviews_count": 282,
+    "address": "NH-9, Pithoragarh Dharchula Rd, Salmora, Pithoragarh, Uttarakhand 262540",
+    "area": "262540",
+    "latitude": 29.6143395,
+    "longitude": 80.2356695,
+    "place_id": "ChIJgaBqZAAvoTkRxTiz0jZs3RY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgaBqZAAvoTkRxTiz0jZs3RY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:12:49"
+  }
+]

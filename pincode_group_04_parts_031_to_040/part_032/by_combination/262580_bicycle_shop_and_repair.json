@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bicycle Adda",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "262580",
+    "phone_number": "+91 98212 13716",
+    "website": "http://bicycleadda.com/",
+    "rating": 4.9,
+    "reviews_count": 1012,
+    "address": "Shop no. 1-3, Bicycle Adda Ramji market, CRPF Rd, near Urban Akhara, Sector 62, Gurugram, Ghata, Haryana 122098",
+    "area": "Sector 62",
+    "latitude": 28.410228699999998,
+    "longitude": 77.0914458,
+    "place_id": "ChIJPYaWOi0jDTkRZDFKRCR7gJk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPYaWOi0jDTkRZDFKRCR7gJk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:42:26"
+  },
+  {
+    "business_name": "Chaudhary cycle store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "262580",
+    "phone_number": "+91 87659 45952",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Main market Basahi, Sampurna Nagar, Uttar Pradesh 262904",
+    "area": "262580",
+    "latitude": 28.6312057,
+    "longitude": 80.4228121,
+    "place_id": "ChIJSyV03XnDoTkR0C5hC-gkK_0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSyV03XnDoTkR0C5hC-gkK_0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:42:27"
+  }
+]

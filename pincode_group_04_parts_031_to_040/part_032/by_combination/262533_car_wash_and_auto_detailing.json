@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Express Car Wash , Detailing & Tyres",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "262533",
+    "phone_number": "+91 97194 07601",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "46, Bsnl Colony, Rishikesh, Uttarakhand 249201",
+    "area": "Bsnl Colony",
+    "latitude": 30.115076,
+    "longitude": 78.282213,
+    "place_id": "ChIJE7qw3VI9CTkRkNdzRMF4wwg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE7qw3VI9CTkRkNdzRMF4wwg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:08:46"
+  },
+  {
+    "business_name": "Shivalik car wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "262533",
+    "phone_number": "+91 99993 77997",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 77,
+    "address": "P-28, Phase-III, Shivalik Nagar, Haridwar, Uttarakhand 249403",
+    "area": "Phase-III, Shivalik Nagar",
+    "latitude": 29.930238799999998,
+    "longitude": 78.0691591,
+    "place_id": "ChIJQcRGIPNJCTkRVaa8PH6PW54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQcRGIPNJCTkRVaa8PH6PW54",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:08:47"
+  }
+]

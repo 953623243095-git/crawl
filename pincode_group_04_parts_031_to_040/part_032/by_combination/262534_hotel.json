@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DEVBHOOMI INN HOMESTAY PATAL BHUVANESHWAR",
+    "search_category": "Hotel",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "262534",
+    "phone_number": "+91 80060 36769",
+    "website": "https://devbhumihotel.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "M3QR+8WRPatal, Patal Bhuvaneshwar, Uttarakhand 262522",
+    "area": "M3QR+8WRPatal",
+    "latitude": 29.688373,
+    "longitude": 80.092086,
+    "place_id": "ChIJKc5tHgvXoDkRyqJqhoe7FwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKc5tHgvXoDkRyqJqhoe7FwM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:11:00"
+  },
+  {
+    "business_name": "होटल वीभव विलास",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "262534",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "M24R+63R, Ran Kote Upreti, Gangolihat, Uttarakhand 262522",
+    "area": "Ran Kote Upreti",
+    "latitude": 29.6556182,
+    "longitude": 80.04015129999999,
+    "place_id": "ChIJ7SG8PgDXoDkRFZBXEq4A9ws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7SG8PgDXoDkRFZBXEq4A9ws",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:11:00"
+  }
+]

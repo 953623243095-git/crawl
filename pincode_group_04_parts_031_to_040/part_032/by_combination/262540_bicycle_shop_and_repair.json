@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bike & sports",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "262540",
+    "phone_number": "+91 98973 63220",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ground floor, Brij mohan complex, near Bob's Gym, Tunwala, Nehrugram, Chaktonwala Grant, Uttarakhand 248005",
+    "area": "Tunwala, Nehrugram",
+    "latitude": 30.283922999999998,
+    "longitude": 78.0950811,
+    "place_id": "ChIJBTvpdZEpCTkRBcM19nZJJOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBTvpdZEpCTkRBcM19nZJJOI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:12:22"
+  },
+  {
+    "business_name": "Monti cycle store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "262540",
+    "phone_number": "+91 80069 43340",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "near water tanki, Anneki, Jhabarpur, Uttarakhand 249402",
+    "area": "262540",
+    "latitude": 29.9725939,
+    "longitude": 78.0258066,
+    "place_id": "ChIJdS4AivxJCTkRiqQQk5vlEqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdS4AivxJCTkRiqQQk5vlEqA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:12:22"
+  }
+]

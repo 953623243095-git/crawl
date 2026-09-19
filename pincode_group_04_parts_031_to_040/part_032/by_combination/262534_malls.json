@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhandari Gernal Store",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "262534",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "P3FG+CX4, Raiagar - Chaurmanya Rd, Raiagar, Sigauli, Uttarakhand 262534",
+    "area": "262534",
+    "latitude": 29.7235116,
+    "longitude": 80.07744129999999,
+    "place_id": "ChIJ90MMXs3VoDkRPAU0F5vR9Ec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ90MMXs3VoDkRPAU0F5vR9Ec",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:11:38"
+  },
+  {
+    "business_name": "Ahmad Farhan",
+    "search_category": "Malls",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "262534",
+    "phone_number": "+91 99974 47140",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shastri Market, Shashtri Market, Pithoragarh, Uttarakhand 262501",
+    "area": "262534",
+    "latitude": 29.5852221,
+    "longitude": 80.2126127,
+    "place_id": "ChIJecXM0OgloTkRv-Re0w2VTnU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJecXM0OgloTkRv-Re0w2VTnU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:11:40"
+  }
+]

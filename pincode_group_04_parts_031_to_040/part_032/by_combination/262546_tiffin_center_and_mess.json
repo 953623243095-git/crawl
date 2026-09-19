@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yummy Tiffins",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "262546",
+    "phone_number": "+91 98202 23338",
+    "website": "https://www.yummytiffins.com/",
+    "rating": 4.6,
+    "reviews_count": 383,
+    "address": "1st Floor, Aslam Compound, Unit No 13-B, Andheri East, opp. Micro Labs, near Kamani Oil, Chandivali, Saki Naka, Mumbai, Maharashtra 400072",
+    "area": "Chandivali, Saki Naka",
+    "latitude": 19.085603499999998,
+    "longitude": 72.8794192,
+    "place_id": "ChIJfRnw9jHJ5zsRSgko2ebEJt4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfRnw9jHJ5zsRSgko2ebEJt4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:22:21"
+  },
+  {
+    "business_name": "Shri Tiffin Service",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "262546",
+    "phone_number": "+91 90012 67574",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "2/1112, Kudi Bhagtasni Housing Board, Sector 2, Jodhpur, Rajasthan 342005",
+    "area": "Kudi Bhagtasni Housing Board, Sector 2",
+    "latitude": 26.214483299999998,
+    "longitude": 73.0206735,
+    "place_id": "ChIJY1X_7L6LQTkRn2o8D6oInwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY1X_7L6LQTkRn2o8D6oInwM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:22:23"
+  }
+]

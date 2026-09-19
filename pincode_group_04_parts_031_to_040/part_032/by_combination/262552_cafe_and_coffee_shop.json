@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Poit Cafe & Store (by Poit From Hills)",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe, Organic food store",
+    "pincode": "262552",
+    "phone_number": "+91 93689 76944",
+    "website": "http://www.poitfromhills.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "37, Narendra Vihar, Kaulagarh Rd, near CBSE Board OFFice, Anand Vihar Colony, Dehradun, Uttarakhand 248001",
+    "area": "Anand Vihar Colony",
+    "latitude": 30.3350628,
+    "longitude": 78.0223113,
+    "place_id": "ChIJpydP7UIpCTkR9T0pa8kQYpA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpydP7UIpCTkR9T0pa8kQYpA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:29:33"
+  },
+  {
+    "business_name": "Blda Hotel & Mahar Niwas",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "262552",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "R4JV+6R7, Thal-Didihat Rd, Baret Talla Senigaon, Uttarakhand 262552",
+    "area": "262552",
+    "latitude": 29.830540799999998,
+    "longitude": 80.1445358,
+    "place_id": "ChIJ8avZPgDVpjkRJpsi8VkqGVM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8avZPgDVpjkRJpsi8VkqGVM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:29:33"
+  }
+]

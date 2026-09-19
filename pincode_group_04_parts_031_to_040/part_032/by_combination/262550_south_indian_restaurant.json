@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAM FOODS/South Indian store",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "262550",
+    "phone_number": "+91 97194 53223",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "GMS Rd, Shakti Enclave, Kaonli, Dehradun, Uttarakhand 248171",
+    "area": "Shakti Enclave, Kaonli",
+    "latitude": 30.3052639,
+    "longitude": 78.00480449999999,
+    "place_id": "ChIJ6WCN8DAqCTkRbGxB7jnBUI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6WCN8DAqCTkRbGxB7jnBUI8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:25:57"
+  },
+  {
+    "business_name": "South Indian corner",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "262550",
+    "phone_number": "+91 788 047 2806",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Vijayant Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vijayant Khand, Gomti Nagar",
+    "latitude": 26.8685679,
+    "longitude": 81.025153,
+    "place_id": "ChIJRxkMnebjmzkRVoK97HuZ1-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRxkMnebjmzkRVoK97HuZ1-Y",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:25:57"
+  }
+]

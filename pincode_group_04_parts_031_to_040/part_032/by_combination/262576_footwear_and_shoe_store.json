@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Campus Exclusive Store",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Sportswear store, Store",
+    "pincode": "262576",
+    "phone_number": "N/A",
+    "website": "https://stores.campusshoes.com/uttarakhand/sitarganj/campus-exclusive-store-sitarganj",
+    "rating": 4.8,
+    "reviews_count": 227,
+    "address": "Campus Store, Jham Lifestyle, Kichha - Sitarganj Rd, opposite Mohinder Singh Memorial School, Sitarganj, Uttarakhand 262405",
+    "area": "262576",
+    "latitude": 28.926337399999998,
+    "longitude": 79.7020751,
+    "place_id": "ChIJ62wM98RnoDkRaqosLQt7GyE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ62wM98RnoDkRaqosLQt7GyE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:40:20"
+  },
+  {
+    "business_name": "Jhamb Shoes",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "262576",
+    "phone_number": "+91 80098 80908",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 47,
+    "address": "Govind Ganj Rd, Sadar Bazar, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Sadar Bazar",
+    "latitude": 27.8876469,
+    "longitude": 79.9155643,
+    "place_id": "ChIJw0Tajiu9nzkRG1-Qaji_ALU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw0Tajiu9nzkRG1-Qaji_ALU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:40:20"
+  }
+]

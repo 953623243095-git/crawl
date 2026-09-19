@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pari Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Event planner, Wedding planner",
+    "pincode": "262528",
+    "phone_number": "+91 78400 47736",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Sky High restaurant, S-40, BHEL, S Block, S Cluster, Shivalik Nagar, Ranipur, Bharat Heavy Electrical Limited Ran, Uttarakhand 249403",
+    "area": "S Block, S Cluster, Shivalik Nagar",
+    "latitude": 29.937079899999997,
+    "longitude": 78.0775173,
+    "place_id": "ChIJQ36jpS1GCTkROIhvH8tCc4E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ36jpS1GCTkROIhvH8tCc4E",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:00:19"
+  },
+  {
+    "business_name": "Samadhan Party Maker",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Marriage celebrant",
+    "pincode": "262528",
+    "phone_number": "+91 99971 70759",
+    "website": "https://samadhanpartymaker.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "474, Tilak Nagar, Khurbura Mohalla, Dehradun, Uttarakhand 248001",
+    "area": "Tilak Nagar, Khurbura Mohalla",
+    "latitude": 30.321465699999997,
+    "longitude": 78.0255561,
+    "place_id": "ChIJX52Hx_MpCTkRKODhhFSGCog",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX52Hx_MpCTkRKODhhFSGCog",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:00:21"
+  }
+]

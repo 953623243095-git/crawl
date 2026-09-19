@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepsikha beauty parlour",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "262551",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "R723+C64, GIC Rd, G.I.C. Ward, Didihat, Uttarakhand 262551",
+    "area": "G.I.C. Ward",
+    "latitude": 29.801023599999997,
+    "longitude": 80.2530812,
+    "place_id": "ChIJsbu5UYbTpjkRZjgkd0fLleU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsbu5UYbTpjkRZjgkd0fLleU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:28:25"
+  },
+  {
+    "business_name": "Mehboob salon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "262551",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "R62W+7CP, GANDHI CHOWK, Didihat, Uttarakhand 262551",
+    "area": "262551",
+    "latitude": 29.8007007,
+    "longitude": 80.2460718,
+    "place_id": "ChIJHSvUnrLTpjkRZnHWhfwNMOM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHSvUnrLTpjkRZnHWhfwNMOM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:28:25"
+  }
+]

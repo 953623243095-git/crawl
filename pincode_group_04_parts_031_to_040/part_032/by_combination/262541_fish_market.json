@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pradhan Market",
+    "search_category": "Fish Market",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "262541",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "WG67+VV8, Rudrapur Rd, Uttaranchal Colony, towards, Rudrapur, Kichha, Uttarakhand 263148",
+    "area": "Uttaranchal Colony, towards",
+    "latitude": 28.9121559,
+    "longitude": 79.5146887,
+    "place_id": "ChIJxzV004F7oDkRVdmmOVN2tDQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxzV004F7oDkRVdmmOVN2tDQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:13:35"
+  },
+  {
+    "business_name": "KFK Fish Outlet",
+    "search_category": "Fish Market",
+    "primary_category": "Fish & chips restaurant",
+    "all_categories": "Fish & chips restaurant, Cafe, Fast food restaurant, Fish and chips takeaway, Food producer, Non Vegetarian Restaurant, Prawn fishing",
+    "pincode": "262541",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Shop No. Fc-2, 3rd floor, Metropolis Mall, inside Metropolis Mall, Rudrapur, Uttarakhand 263153",
+    "area": "262541",
+    "latitude": 29.001391599999998,
+    "longitude": 79.3993301,
+    "place_id": "ChIJR1auwgp_oDkRBxxXwwOCCsg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR1auwgp_oDkRBxxXwwOCCsg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:13:36"
+  }
+]

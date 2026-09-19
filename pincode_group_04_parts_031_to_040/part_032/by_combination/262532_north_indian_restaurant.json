@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vatika Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "262532",
+    "phone_number": "+91 96391 92819",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "RQG9+848 Vatika Restaurant, Bageshwar, Binwal Tewari, Uttarakhand 263642",
+    "area": "262532",
+    "latitude": 29.825794499999997,
+    "longitude": 79.7678323,
+    "place_id": "ChIJbY5mT141pzkRbdH4Q2-2EJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbY5mT141pzkRbdH4Q2-2EJ8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:06:33"
+  },
+  {
+    "business_name": "Karigari Dehradun",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "262532",
+    "phone_number": "+91 79961 00005",
+    "website": "http://karigariindia.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "88 A, Rajpur Rd, Hathibarkala Salwala, Dehradun, Uttarakhand 248009",
+    "area": "Hathibarkala Salwala",
+    "latitude": 30.347389999999997,
+    "longitude": 78.06261889999999,
+    "place_id": "ChIJdQFwfMzXCDkRLf6rXh6HRJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdQFwfMzXCDkRLf6rXh6HRJg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:06:34"
+  }
+]

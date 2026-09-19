@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Juice & Shake Bar",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "262540",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8X7X+J6W, Seemadwar Rd, C Block, Indra Nagar Colony, Dehradun, Uttarakhand 248006",
+    "area": "C Block, Indra Nagar Colony",
+    "latitude": 30.3141078,
+    "longitude": 77.9980911,
+    "place_id": "ChIJy1y0XpwrCTkRs8fERTAF0Y4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy1y0XpwrCTkRs8fERTAF0Y4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:11:50"
+  },
+  {
+    "business_name": "DEEPAK Juice corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "262540",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "R44Q+C4F, Shahpur, Badshapur Sher Pur Bhatti Pur, Uttarakhand 247663",
+    "area": "262540",
+    "latitude": 29.8060725,
+    "longitude": 78.1378046,
+    "place_id": "ChIJU-fUdvtbCTkRw5gmrGQfC7o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU-fUdvtbCTkRw5gmrGQfC7o",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:11:51"
+  }
+]

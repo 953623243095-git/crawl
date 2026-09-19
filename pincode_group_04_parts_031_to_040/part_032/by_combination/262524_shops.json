@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vaishnavi traders PVC Store",
+    "search_category": "Shops",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "262524",
+    "phone_number": "+91 75000 33045",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NH 9, Lohaghat Range, Lohaghat, Uttarakhand 262524",
+    "area": "Lohaghat Range",
+    "latitude": 29.3983308,
+    "longitude": 80.08636179999999,
+    "place_id": "ChIJMRKk7u_hoDkRpPagTv--dr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMRKk7u_hoDkRpPagTv--dr4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 05:53:47"
+  },
+  {
+    "business_name": "Mobile Store",
+    "search_category": "Shops",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "262524",
+    "phone_number": "+91 98373 07607",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Lohaghat Range, Lohaghat, Uttarakhand 262524",
+    "area": "Lohaghat Range",
+    "latitude": 29.398484699999997,
+    "longitude": 80.0868818,
+    "place_id": "ChIJSbQp1SfhoDkRxDROf10OfUU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSbQp1SfhoDkRxDROf10OfUU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 05:53:50"
+  }
+]

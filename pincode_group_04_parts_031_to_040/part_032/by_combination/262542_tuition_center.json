@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kapila Institute",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center, Coaching Center",
+    "pincode": "262542",
+    "phone_number": "+91 99170 80777",
+    "website": "http://www.kapilainstitute.co.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Guru gobind singh market, Shri, Bazpur - Kundeshwari Link Rd, Vaishali Colony, Kashipur, Uttarakhand 244713",
+    "area": "Vaishali Colony",
+    "latitude": 29.2024607,
+    "longitude": 78.9724456,
+    "place_id": "ChIJl8ZtTfhDCjkRFWh8wX8X_I4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl8ZtTfhDCjkRFWh8wX8X_I4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:16:29"
+  },
+  {
+    "business_name": "Noval Doon Tuition Point",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "262542",
+    "phone_number": "N/A",
+    "website": "https://novaltuitionpoint.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shivram Singh enclave, Sahastradhara Rd, Govind Vihar, Dehradun, Uttarakhand 248001",
+    "area": "Govind Vihar",
+    "latitude": 30.351678999999997,
+    "longitude": 78.0811274,
+    "place_id": "ChIJBZCWkSnXCDkRKa7Zdy1xjdk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBZCWkSnXCDkRKa7Zdy1xjdk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:16:30"
+  }
+]

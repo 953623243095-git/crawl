@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Puri's Sanjeevani Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "262533",
+    "phone_number": "+91 94101 66542",
+    "website": "https://purisanjeevanihospital.com/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Dehradun Rd, opp. Rama Palace, Adarsh Gram, Rishikesh, Uttarakhand 249201",
+    "area": "Adarsh Gram",
+    "latitude": 30.1143304,
+    "longitude": 78.2925274,
+    "place_id": "ChIJrcusnPU9CTkRCh_koPeWzZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrcusnPU9CTkRCh_koPeWzZM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:08:38"
+  },
+  {
+    "business_name": "Lifecare Surgicals",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store, Hospital equipment and supplies, Surgical Products Wholesaler",
+    "pincode": "262533",
+    "phone_number": "+91 90375 82259",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 150,
+    "address": "10/354, A.N.R. Complex, Priyadarshini Rd, near Aroma Theatre, Palakkad, Keralam 678001",
+    "area": "Parakkunnam",
+    "latitude": 10.7767456,
+    "longitude": 76.65282239999999,
+    "place_id": "ChIJ1wsfEuNtqDsRiv5UmwoaDKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1wsfEuNtqDsRiv5UmwoaDKg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:08:38"
+  }
+]

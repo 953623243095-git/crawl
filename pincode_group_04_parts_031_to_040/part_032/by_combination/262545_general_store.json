@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Galphai Darchula Nepal",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "262545",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "RGPJ+3VX, H14, Api, Sudurpashchim Province 10100, Nepal",
+    "area": "262545",
+    "latitude": 29.8352318,
+    "longitude": 80.5322376,
+    "place_id": "ChIJnWXxRDG1pjkRCRldO0GQ03E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnWXxRDG1pjkRCRldO0GQ03E",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:20:33"
+  },
+  {
+    "business_name": "RSD GENERAL STORE",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "262545",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VHG7+X4W, Ranthi, Uttarakhand 262545",
+    "area": "262545",
+    "latitude": 29.8774855,
+    "longitude": 80.5628286,
+    "place_id": "ChIJF0bHLACzpjkR3WqNmcorWUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF0bHLACzpjkR3WqNmcorWUk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:20:34"
+  }
+]

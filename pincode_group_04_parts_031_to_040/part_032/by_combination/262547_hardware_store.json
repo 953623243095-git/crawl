@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Janta Hardware",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "262547",
+    "phone_number": "+91 63987 38652",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Na, Bigbara, Uttarakhand 263148",
+    "area": "262547",
+    "latitude": 28.9585692,
+    "longitude": 79.4229811,
+    "place_id": "ChIJXz_E2-F_oDkRgS9vyXvnnEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXz_E2-F_oDkRgS9vyXvnnEM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:24:43"
+  },
+  {
+    "business_name": "Rais Auto Dainting Painting",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "262547",
+    "phone_number": "+91 90126 87216",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "1, near by Kisor Housepital, Kichha, Uttarakhand 263148",
+    "area": "262547",
+    "latitude": 28.911554199999998,
+    "longitude": 79.5038719,
+    "place_id": "ChIJEU-PpRN7oDkR_FfgIdM9HBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEU-PpRN7oDkR_FfgIdM9HBQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:24:43"
+  }
+]

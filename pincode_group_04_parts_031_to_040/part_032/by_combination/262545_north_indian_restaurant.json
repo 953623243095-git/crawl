@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hari Om Hotel",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "262545",
+    "phone_number": "+91 78189 72611",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "RGXW+VH5, opp. Rung Razu restaurant, Ward, Dharchula, Ghatdhar, Uttarakhand 262545",
+    "area": "Ward",
+    "latitude": 29.8497293,
+    "longitude": 80.5464762,
+    "place_id": "ChIJF1LPPZ2zpjkRv7SNGx4K37c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF1LPPZ2zpjkRv7SNGx4K37c",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:20:39"
+  },
+  {
+    "business_name": "Hotel Moon",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "262545",
+    "phone_number": "+91 81715 02982",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 137,
+    "address": "near government hospital, Dharchula, Uttarakhand 262545",
+    "area": "262545",
+    "latitude": 29.8483721,
+    "longitude": 80.5442779,
+    "place_id": "ChIJsawk4jizpjkRW7VOVI7EKdM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsawk4jizpjkRW7VOVI7EKdM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:20:41"
+  }
+]

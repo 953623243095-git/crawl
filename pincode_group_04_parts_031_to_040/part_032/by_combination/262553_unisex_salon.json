@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Uk hair saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser, Hair salon",
+    "pincode": "262553",
+    "phone_number": "+91 82189 45697",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Bane khera road, near Kosi kanta, Patori, Uttarakhand 262401",
+    "area": "262553",
+    "latitude": 29.2114129,
+    "longitude": 79.099034,
+    "place_id": "ChIJQ8H6DwBpCjkRWMzP-cmYLHk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ8H6DwBpCjkRWMzP-cmYLHk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:32:02"
+  },
+  {
+    "business_name": "SR Unisex Saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Fencing salon",
+    "all_categories": "Fencing salon",
+    "pincode": "262553",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Second Floor, Atulya Tower, Sahastradhara Rd, Kulhan, Dehradun, Gujrara Mansingh, Uttarakhand 248001",
+    "area": "Kulhan",
+    "latitude": 30.369622,
+    "longitude": 78.0960242,
+    "place_id": "ChIJW2CSEQDXCDkR1DIHXpxt_2c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW2CSEQDXCDkR1DIHXpxt_2c",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:32:03"
+  }
+]

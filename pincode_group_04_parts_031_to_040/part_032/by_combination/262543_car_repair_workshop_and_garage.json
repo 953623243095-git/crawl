@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A To Z Car Motor Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "262543",
+    "phone_number": "+91 98120 41193",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "NH 152, Industrial Area, Kaithal, Haryana 136027",
+    "area": "Industrial Area",
+    "latitude": 29.7735544,
+    "longitude": 76.4076144,
+    "place_id": "ChIJ-YhL5F7hETkRK9J-IT-0o8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-YhL5F7hETkRK9J-IT-0o8c",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:17:35"
+  },
+  {
+    "business_name": "TRIVENI MOTORS TATA AUTH.SERVICE CENTRE COMMERCIAL VEHICLES",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "262543",
+    "phone_number": "+91 98128 68316",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "NH 152, Titram, Chandana, Haryana 136027",
+    "area": "262543",
+    "latitude": 29.7306818,
+    "longitude": 76.3992523,
+    "place_id": "ChIJSWjwtD7hETkRev6MOL89Z9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSWjwtD7hETkRev6MOL89Z9I",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:17:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ancholi",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "262530",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 17,
+    "address": "H6G5+GR4, Jeewan Chandra Marg, near wisdom nursery s school, dhungakhani, Pithoragarh, Uttarakhand 262501",
+    "area": "dhungakhani",
+    "latitude": 29.5762595,
+    "longitude": 80.2095913,
+    "place_id": "ChIJrf_lF1gloTkRhDgtaFQf-is",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrf_lF1gloTkRhDgtaFQf-is",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:03:42"
+  },
+  {
+    "business_name": "Barber",
+    "search_category": "Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "262530",
+    "phone_number": "+91 76682 71272",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Moshim Hair Saloon Aptech, near by Aastha coaching, Tildhukari, Pithoragarh, Uttarakhand 262501",
+    "area": "Tildhukari",
+    "latitude": 29.582353599999998,
+    "longitude": 80.2176353,
+    "place_id": "ChIJiZwdqKQloTkR4z9FSWXOV5Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiZwdqKQloTkR4z9FSWXOV5Y",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:03:44"
+  }
+]

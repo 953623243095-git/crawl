@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chirag Mobiles And Electronics thal",
+    "search_category": "Electrician",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "262552",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 40,
+    "address": "Thal, Jogyura Thal, Uttarakhand 262552",
+    "area": "262552",
+    "latitude": 29.825343699999998,
+    "longitude": 80.1414183,
+    "place_id": "ChIJ97S5ixPVpjkRN61dPdENCDw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ97S5ixPVpjkRN61dPdENCDw",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:30:06"
+  },
+  {
+    "business_name": "G.D Communication",
+    "search_category": "Electrician",
+    "primary_category": "Electrical repair shop",
+    "all_categories": "Electrical repair shop",
+    "pincode": "262552",
+    "phone_number": "+91 96900 80566",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G.G, I.C Road, Thal, Barar, Uttarakhand 262552",
+    "area": "262552",
+    "latitude": 29.8251967,
+    "longitude": 80.1383602,
+    "place_id": "ChIJVc7H5cPVpjkRrksR_siGfok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVc7H5cPVpjkRrksR_siGfok",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:30:06"
+  }
+]

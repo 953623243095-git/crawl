@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rinko Medicos",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Pharmaceutical Products Wholesaler",
+    "pincode": "262555",
+    "phone_number": "+91 98973 14102",
+    "website": "https://rinkomedicos.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "3 B, Race Course Rd, East Rest Camp, Guru Nanak Vihar, Race Course, Dehradun, Uttarakhand 248001",
+    "area": "East Rest Camp, Guru Nanak Vihar, Race Course",
+    "latitude": 30.3130302,
+    "longitude": 78.0459912,
+    "place_id": "ChIJlQgCobwpCTkRIUQMxpiV6n4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlQgCobwpCTkRIUQMxpiV6n4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:35:02"
+  },
+  {
+    "business_name": "Aviral Pharmacy ™",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "262555",
+    "phone_number": "+91 98112 87037",
+    "website": "http://aviralpharmacy.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "167/1, Race Course Rd, Dharampur Chowk, Guru Nanak Vihar, Dharampur, Dehradun, Uttarakhand 248001",
+    "area": "Dharampur Chowk, Guru Nanak Vihar, Dharampur",
+    "latitude": 30.3035961,
+    "longitude": 78.0460513,
+    "place_id": "ChIJW_ETRrspCTkRYihQHddBDyk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW_ETRrspCTkRYihQHddBDyk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:35:02"
+  }
+]

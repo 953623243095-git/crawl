@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ranisati Traders",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Store",
+    "pincode": "262551",
+    "phone_number": "+91 93333 31093",
+    "website": "https://wa.me/+919333331093",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ground Floor, G T Building, 40, Swami Dayanand Marg, Ward 8, Khalpara, Siliguri, West Bengal 734005",
+    "area": "Ward 8, Khalpara",
+    "latitude": 26.7076191,
+    "longitude": 88.425978,
+    "place_id": "ChIJn7D-Pm9B5DkRpdYq1vE26WA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn7D-Pm9B5DkRpdYq1vE26WA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:27:36"
+  },
+  {
+    "business_name": "Kuldeep Megamart(kachi ghani oil mill)",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Oil refinery",
+    "all_categories": "Oil refinery, Flour mill, Organic shop, Spices Exporter",
+    "pincode": "262551",
+    "phone_number": "+91 96604 56777",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 126,
+    "address": "Plot no. 327, Iskcon Rd, near Under shades, Kesar Nagar, Hajiwala, Muhana, Jaipur, Rajasthan 302020",
+    "area": "Kesar Nagar, Hajiwala",
+    "latitude": 26.819384,
+    "longitude": 75.74912069999999,
+    "place_id": "ChIJ-aMVa3LLbTkRAkoNLLapIPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-aMVa3LLbTkRAkoNLLapIPY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:27:36"
+  }
+]

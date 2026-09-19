@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Sleep Inn",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "262701",
+    "phone_number": "+91 5871 233 111",
+    "website": "http://www.hotelsleepinn.in/",
+    "rating": 3.9,
+    "reviews_count": 952,
+    "address": "CHGJ+M9V, Opposite Eye hospital, Bhira Road, Palia Kalan, Dist. Lakhimpur Kheri,, Palia Kalan, Uttar Pradesh 262902",
+    "area": "262701",
+    "latitude": 28.4267456,
+    "longitude": 80.58091879999999,
+    "place_id": "ChIJnTc7PJvjoTkRv0FC9DTBAX8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnTc7PJvjoTkRv0FC9DTBAX8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:44:40"
+  },
+  {
+    "business_name": "Sumit Jalpan&Tea Centar",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "262701",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WQXH+84V, Railway Station Rd, Khaprel Bazar, Lakhimpur, Uttar Pradesh 262701",
+    "area": "Khaprel Bazar",
+    "latitude": 27.9483617,
+    "longitude": 80.7777838,
+    "place_id": "ChIJcev2Rdk1nzkRto12kR3nOBI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcev2Rdk1nzkRto12kR3nOBI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:44:41"
+  }
+]

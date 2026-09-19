@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madia Hosiery",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Underwear store",
+    "pincode": "262550",
+    "phone_number": "+91 97540 16995",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "C-Block, 23/2, University Rd, Govindpuri, Gwalior, Madhya Pradesh 474011",
+    "area": "Govindpuri",
+    "latitude": 26.2057152,
+    "longitude": 78.19990489999999,
+    "place_id": "ChIJ9VDqBwfEdjkRLrmAaVKM208",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9VDqBwfEdjkRLrmAaVKM208",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:26:03"
+  },
+  {
+    "business_name": "Kohinoor Wears",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "262550",
+    "phone_number": "+91 751 359 5476",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Mor Bazar Rd, Lashkar, Gwalior, Madhya Pradesh 474001",
+    "area": "Lashkar",
+    "latitude": 26.200743499999998,
+    "longitude": 78.1483804,
+    "place_id": "ChIJjY_9sdHFdjkRHjdrkJNFU5g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjY_9sdHFdjkRHjdrkJNFU5g",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:26:03"
+  }
+]

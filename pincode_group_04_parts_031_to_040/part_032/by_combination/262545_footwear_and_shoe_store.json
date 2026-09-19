@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kaleem footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "262545",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RGWP+WQJ, Dharchula, Uttarakhand 262545",
+    "area": "262545",
+    "latitude": 29.8473422,
+    "longitude": 80.5369058,
+    "place_id": "ChIJhQWnMAC1pjkRtpRk2wznAUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhQWnMAC1pjkRtpRk2wznAUQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:20:46"
+  },
+  {
+    "business_name": "Radha kirshina Traders and suppliers",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "262545",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "RGWQ+5W5, Api, Sudurpashchim Province 10100, Nepal",
+    "area": "Khalanga",
+    "latitude": 29.845390499999997,
+    "longitude": 80.5398635,
+    "place_id": "ChIJV67QYwC1pjkRvjWx_rrzoCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV67QYwC1pjkRvjWx_rrzoCk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:20:48"
+  }
+]

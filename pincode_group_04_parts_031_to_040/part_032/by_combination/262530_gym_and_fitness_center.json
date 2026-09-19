@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fusion Fitness unisex gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "262530",
+    "phone_number": "+91 89388 28988",
+    "website": "http://fusionfitnesgym.in/",
+    "rating": 5,
+    "reviews_count": 36,
+    "address": "Dewarchaur Kham, Karayalpur Chatursingh, Uttarakhand 263139",
+    "area": "262530",
+    "latitude": 29.192774999999997,
+    "longitude": 79.5002334,
+    "place_id": "ChIJJRRfZQCboDkRhQQXLKYtkkE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJRRfZQCboDkRhQQXLKYtkkE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:03:22"
+  },
+  {
+    "business_name": "Gravity Fitness Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "262530",
+    "phone_number": "+91 78955 09946",
+    "website": "http://qrazzy.netlify.app/",
+    "rating": 4.8,
+    "reviews_count": 30,
+    "address": "Dunagiri Road, Dwarahat, Uttarakhand 263653",
+    "area": "262530",
+    "latitude": 29.7760553,
+    "longitude": 79.4365313,
+    "place_id": "ChIJ0xR517tVpzkRF5HAi7zpUH0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0xR517tVpzkRF5HAi7zpUH0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:03:22"
+  }
+]

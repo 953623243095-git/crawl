@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prakash Chauhan csc chagethi",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "262580",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GW34+G3R, Chagethi, Kasermanya, Uttarakhand 263623",
+    "area": "262580",
+    "latitude": 29.5038524,
+    "longitude": 79.9051396,
+    "place_id": "ChIJ4TNRbADFoDkRjk8yCFlfdHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4TNRbADFoDkRjk8yCFlfdHg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:41:45"
+  },
+  {
+    "business_name": "Joshi General Store & Aata Chakki",
+    "search_category": "Kirana Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "262580",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "CVMX+8JF, village ezatta dungra post-devidhura tehsil, Pati, Uttarakhand 262580",
+    "area": "262580",
+    "latitude": 29.4333074,
+    "longitude": 79.8990518,
+    "place_id": "ChIJD2TBb-jDoDkRy8G1TjBjAHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD2TBb-jDoDkRy8G1TjBjAHA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:41:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KBSP Resorts and Hotel",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "262542",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "J5H2+XJJ, Digtoli, Uttarakhand 262501",
+    "area": "262542",
+    "latitude": 29.6299709,
+    "longitude": 80.1515052,
+    "place_id": "ChIJQdN7YQApoTkRA3R7iJCztHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQdN7YQApoTkRA3R7iJCztHo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:16:20"
+  },
+  {
+    "business_name": "Cortland Jungle Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "262542",
+    "phone_number": "+91 93506 60000",
+    "website": "http://cortlandresorts.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Someshwar, Falya Malla Kholi, Uttarakhand 263637",
+    "area": "262542",
+    "latitude": 29.7756704,
+    "longitude": 79.60027869999999,
+    "place_id": "ChIJSa_2uldNpzkRXqp48z5WLQY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSa_2uldNpzkRXqp48z5WLQY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:16:20"
+  }
+]

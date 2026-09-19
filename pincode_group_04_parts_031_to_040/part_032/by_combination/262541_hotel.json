@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "hotel dev",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "262541",
+    "phone_number": "+91 79020 69818",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 18,
+    "address": "hotel dev, India - Nepal Rd, Dharchula, Uttarakhand 262545",
+    "area": "262541",
+    "latitude": 29.848263399999997,
+    "longitude": 80.5423943,
+    "place_id": "ChIJ3xPrSuy1pjkR1tpiBeF4Gec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3xPrSuy1pjkR1tpiBeF4Gec",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:14:31"
+  },
+  {
+    "business_name": "RungVaasa Homestay & Trails",
+    "search_category": "Hotel",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "262541",
+    "phone_number": "+91 63959 29801",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Garbyal House, Dharchula Main Market, Tehsil Road, Dharchula, Uttarakhand 262545",
+    "area": "262541",
+    "latitude": 29.8487321,
+    "longitude": 80.544518,
+    "place_id": "ChIJD_nnoIazpjkRRaMFiHt15uM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD_nnoIazpjkRRaMFiHt15uM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:14:32"
+  }
+]

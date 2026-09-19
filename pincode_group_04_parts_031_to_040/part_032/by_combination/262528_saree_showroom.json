@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajendra Saree Emporium",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "262528",
+    "phone_number": "+91 98370 87000",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Arya Nagar, Kashipur, Uttarakhand 244713",
+    "area": "Arya Nagar",
+    "latitude": 29.2067806,
+    "longitude": 78.9605169,
+    "place_id": "ChIJ_Vob2oJDCjkRsX2IHwzLYuM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_Vob2oJDCjkRsX2IHwzLYuM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 05:59:33"
+  },
+  {
+    "business_name": "Sarita Saree Centre",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "262528",
+    "phone_number": "+91 73022 06901",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Sarita Saree Centre, Meena Bajar, Banbasa, Uttarakhand 262310",
+    "area": "262528",
+    "latitude": 28.9945451,
+    "longitude": 80.0765736,
+    "place_id": "ChIJh_emKRxVoDkRMefgfK09jF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh_emKRxVoDkRMefgfK09jF4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 05:59:34"
+  }
+]

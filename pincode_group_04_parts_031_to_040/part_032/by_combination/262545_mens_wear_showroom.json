@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pranjali Apparel",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "262545",
+    "phone_number": "+91 94565 69427",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "in front of BSNL Office, Ghatdhar, Dharchula, Uttarakhand 262545",
+    "area": "Ghatdhar",
+    "latitude": 29.849989899999997,
+    "longitude": 80.5449162,
+    "place_id": "ChIJU1vj-CezpjkRSHPZjCgdjoM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU1vj-CezpjkRSHPZjCgdjoM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:20:43"
+  },
+  {
+    "business_name": "Paintola Garments",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "262545",
+    "phone_number": "+91 79002 51508",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Near, Dhak Bangla Road, Dharchula, Uttarakhand 262545",
+    "area": "262545",
+    "latitude": 29.847986799999997,
+    "longitude": 80.5424888,
+    "place_id": "ChIJZ9RhsQu1pjkRntp8kt-WE14",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ9RhsQu1pjkRntp8kt-WE14",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:20:43"
+  }
+]

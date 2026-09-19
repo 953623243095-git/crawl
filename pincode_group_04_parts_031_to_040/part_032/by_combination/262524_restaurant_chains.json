@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shumangalam Hotel",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "262524",
+    "phone_number": "+91 98970 08255",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 126,
+    "address": "X3Q9+W52, NH 9, Devipura, Uttarakhand 262310",
+    "area": "262524",
+    "latitude": 28.9897623,
+    "longitude": 80.0678873,
+    "place_id": "ChIJcf28Du9UoDkRNLex2HLr5xw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcf28Du9UoDkRNLex2HLr5xw",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 05:52:20"
+  },
+  {
+    "business_name": "REGAL Restaurant (est.1980)",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Fast food restaurant, North Indian restaurant, Vegetarian restaurant",
+    "pincode": "262524",
+    "phone_number": "+91 70559 04324",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 784,
+    "address": "Badrinath Marg, Nandaprayag, Mason, Uttarakhand 246449",
+    "area": "262524",
+    "latitude": 30.3400006,
+    "longitude": 79.3169135,
+    "place_id": "ChIJA1VVZe_WCTkRIeKhFQWuQzo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA1VVZe_WCTkRIeKhFQWuQzo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 05:52:20"
+  }
+]

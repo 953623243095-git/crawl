@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Arjun Singh Jodhpur Hospital Balesar",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital, Dentist, Gynecologist, Hospital, Orthoptist, Pediatrician, Physician assistant, Physiotherapist",
+    "pincode": "262528",
+    "phone_number": "+91 99839 64976",
+    "website": "https://www.instagram.com/jodhpurhospitalbalesar?igsh=b2gzYTI1NDRkOTg5",
+    "rating": 5,
+    "reviews_count": 1441,
+    "address": "NH-125, near Vishwakarna Temple, Balesar, Balesar Satan, Rajasthan 342023",
+    "area": "262528",
+    "latitude": 26.395326999999998,
+    "longitude": 72.49265249999999,
+    "place_id": "ChIJG3hFXYhtQTkR7ApDrZ2UEvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG3hFXYhtQTkR7ApDrZ2UEvg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 05:59:44"
+  },
+  {
+    "business_name": "Shelja Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "262528",
+    "phone_number": "+91 98973 69489",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 4,
+    "address": "NH-125, Khatima Road, Khatima, Bhudai, Uttarakhand 262308",
+    "area": "Khatima",
+    "latitude": 28.9411031,
+    "longitude": 79.9913902,
+    "place_id": "ChIJpf6gt0hRoDkRcKdMDmEAvOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpf6gt0hRoDkRcKdMDmEAvOI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 05:59:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Cab 365",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Airport Shuttle Service Provider, Car leasing service, Chauffeur service, Minibus taxi service, Taxi service, Transportation service, Van rental agency",
+    "pincode": "262555",
+    "phone_number": "+91 97952 31373",
+    "website": "https://my-cab-365.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Khasra No. 63, 6/7 Mutakkipur, IIM Rd, near Bala ji Enclave, Madiyaon, Lucknow, Uttar Pradesh 226021",
+    "area": "Madiyaon",
+    "latitude": 26.9308446,
+    "longitude": 80.9192791,
+    "place_id": "ChIJ0xrnqe5XmTkRt1FieIAOu-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0xrnqe5XmTkRt1FieIAOu-o",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:35:21"
+  },
+  {
+    "business_name": "Divyansh Travels and Car Rental Services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service",
+    "pincode": "262555",
+    "phone_number": "+91 81272 02022",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Bypass Road, near Purvanchal bank, Khalilabad, Mohaddipur, Uttar Pradesh 272175",
+    "area": "262555",
+    "latitude": 26.780929099999998,
+    "longitude": 83.072244,
+    "place_id": "ChIJ24tSraU7kTkR5G5o-wvTV0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ24tSraU7kTkR5G5o-wvTV0I",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:35:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Developer",
+    "search_category": "SEO Consultants",
+    "primary_category": "Website designer",
+    "all_categories": "Website designer, E-commerce service, Graphic designer, Internet marketing service, Software company, Video editing service, Web hosting company",
+    "pincode": "262542",
+    "phone_number": "+91 81712 00108",
+    "website": "https://www.royaldeveloper.in/",
+    "rating": 5,
+    "reviews_count": 94,
+    "address": "Mahadev Residency, Old Nehru Colony, Dharampur, Dehradun, Uttarakhand 248001",
+    "area": "Old Nehru Colony, Dharampur",
+    "latitude": 30.3017695,
+    "longitude": 78.0498949,
+    "place_id": "ChIJyccv-1kpCTkRmf9ubRjhEkE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyccv-1kpCTkRmf9ubRjhEkE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:16:54"
+  },
+  {
+    "business_name": "Webbrink | Digital Marketing Agency",
+    "search_category": "SEO Consultants",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Internet marketing service, Marketing consultant, Website designer",
+    "pincode": "262542",
+    "phone_number": "+91 76696 55065",
+    "website": "https://webbrink.in/digital-marketing-agency-in-rohini/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "U-31, near Trimurti Mandir Road, Sharma Colony, Budh Vihar Phase II, Budh Vihar, New Delhi, Delhi, 110086",
+    "area": "Sharma Colony, Budh Vihar Phase II, Budh Vihar",
+    "latitude": 28.7207251,
+    "longitude": 77.0906488,
+    "place_id": "ChIJ8YmgJgHEDAwRTafcc7e8UIs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8YmgJgHEDAwRTafcc7e8UIs",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:16:55"
+  }
+]

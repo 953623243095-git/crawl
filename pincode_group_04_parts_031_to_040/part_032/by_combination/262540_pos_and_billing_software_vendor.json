@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paras Infotech",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Educational institution, Website designer, Software Training Institute, Training center",
+    "pincode": "262540",
+    "phone_number": "+91 79061 78379",
+    "website": "http://parasinfotech.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "NH 58, near SBI Bank, Geeta Nagar, Rishikesh, Uttarakhand 249202",
+    "area": "Geeta Nagar",
+    "latitude": 30.0883127,
+    "longitude": 78.2694367,
+    "place_id": "ChIJoTpetEs_CTkRShW1GaFIEag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoTpetEs_CTkRShW1GaFIEag",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:13:02"
+  },
+  {
+    "business_name": "Computer workshop & Maintainance",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service, Computer consultant, Computer store, Service establishment",
+    "pincode": "262540",
+    "phone_number": "095-520599",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Computer workshop & Maintainance, 262540, India",
+    "area": "262540",
+    "latitude": 29.5205374,
+    "longitude": 80.4689525,
+    "place_id": "ChIJccTaHohDoTkRCqD69ADO3yg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJccTaHohDoTkRCqD69ADO3yg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:13:04"
+  }
+]

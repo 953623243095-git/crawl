@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rathaur medical store",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "262702",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near police station, Mitauli, Uttar Pradesh 262727",
+    "area": "262702",
+    "latitude": 27.8226038,
+    "longitude": 80.4604643,
+    "place_id": "ChIJ4dEJEQA9nzkRj_5wT06GuWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4dEJEQA9nzkRj_5wT06GuWo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:45:50"
+  },
+  {
+    "business_name": "New Puneet Medical Hall",
+    "search_category": "ENT Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "262702",
+    "phone_number": "+91 88741 40729",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Nanak Chouki, near Agrawal Petrol Pump, Uttar Pradesh 262802",
+    "area": "262702",
+    "latitude": 28.070787199999998,
+    "longitude": 80.4811436,
+    "place_id": "ChIJfTKwSlhDnzkRfoRanZtOXeA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfTKwSlhDnzkRfoRanZtOXeA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:45:50"
+  }
+]

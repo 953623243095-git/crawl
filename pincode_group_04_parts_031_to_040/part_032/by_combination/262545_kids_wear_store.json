@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mehendar",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "262545",
+    "phone_number": "+91 63986 13119",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1234, Dharchula, Uttarakhand 262545",
+    "area": "262545",
+    "latitude": 29.878313499999997,
+    "longitude": 80.5610319,
+    "place_id": "ChIJs7tC2tKzpjkR1K8X11G850Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs7tC2tKzpjkR1K8X11G850Q",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:20:44"
+  },
+  {
+    "business_name": "Sangam Garments",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "262545",
+    "phone_number": "+91 98975 80230",
+    "website": "http://www.sangamgarments.com/",
+    "rating": 4.4,
+    "reviews_count": 48,
+    "address": "101, Mani Ram Marg, Tilak Rd, Rishikesh, Uttarakhand 249201",
+    "area": "Doctor Colony",
+    "latitude": 30.1053857,
+    "longitude": 78.29396779999999,
+    "place_id": "ChIJG5fCugIWCTkRk-bo19ZuWB0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG5fCugIWCTkRk-bo19ZuWB0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:20:46"
+  }
+]

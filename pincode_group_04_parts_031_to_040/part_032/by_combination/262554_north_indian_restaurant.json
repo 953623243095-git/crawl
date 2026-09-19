@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shabri Rasoi",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Dessert restaurant",
+    "pincode": "262554",
+    "phone_number": "+91 95582 45479",
+    "website": "https://kavachglobal.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "4th floor, Arundhati Bhavan West, cross road, Tedhi Bazar Rd, Police Line, Ayodhya, Uttar Pradesh 224123",
+    "area": "Police Line",
+    "latitude": 26.7864118,
+    "longitude": 82.1912388,
+    "place_id": "ChIJUze6Yr4HmjkREFM7Ow3TMHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUze6Yr4HmjkREFM7Ow3TMHg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:33:02"
+  },
+  {
+    "business_name": "The Bliss Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, North Indian restaurant",
+    "pincode": "262554",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shakti nagar colony, City Station Rd, Deokali, Faizabad, Uttar Pradesh 224001",
+    "area": "Deokali",
+    "latitude": 26.7717018,
+    "longitude": 82.1632834,
+    "place_id": "ChIJredki3EHmjkR1cEH8aPbl-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJredki3EHmjkR1cEH8aPbl-M",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:33:02"
+  }
+]

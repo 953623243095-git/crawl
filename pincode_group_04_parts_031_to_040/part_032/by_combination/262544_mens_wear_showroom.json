@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kanyal Garments",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store",
+    "pincode": "262544",
+    "phone_number": "+91 95688 37415",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "07, K M O, U Station, near New Negi, Didihat, Kande, Uttarakhand 262551",
+    "area": "262544",
+    "latitude": 29.801361699999998,
+    "longitude": 80.2510497,
+    "place_id": "ChIJP5QhEgDTpjkRvfSL5MaMcp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP5QhEgDTpjkRvfSL5MaMcp0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:19:00"
+  },
+  {
+    "business_name": "RG Shopping Center",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "262544",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "Api, Sudurpashchim Province 10100, Nepal",
+    "area": "262544",
+    "latitude": 29.8460435,
+    "longitude": 80.54225149999999,
+    "place_id": "ChIJj_Pg1NC1pjkRkWob36p0rOE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj_Pg1NC1pjkRkWob36p0rOE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:19:00"
+  }
+]

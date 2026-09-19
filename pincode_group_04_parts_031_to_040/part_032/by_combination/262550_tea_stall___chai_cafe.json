@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "262550",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "JWR6+8JP, Khandip, Rajasthan 322205",
+    "area": "262550",
+    "latitude": 26.640842799999998,
+    "longitude": 76.91157059999999,
+    "place_id": "ChIJubOSt5ohcjkRw3OrPEIqBwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJubOSt5ohcjkRw3OrPEIqBwI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:25:52"
+  },
+  {
+    "business_name": "Jungle Valley",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Art cafe",
+    "all_categories": "Art cafe, Cafe, Restaurant",
+    "pincode": "262550",
+    "phone_number": "+91 94597 83073",
+    "website": "https://www.instagram.com/jungle_valley?igsh=djNia2ZhZnNiaDRv",
+    "rating": 4.6,
+    "reviews_count": 939,
+    "address": "Jungle Valley, Jibhi, Rashala, Himachal Pradesh 175123",
+    "area": "262550",
+    "latitude": 31.5921319,
+    "longitude": 77.3518175,
+    "place_id": "ChIJd5ZgukuuBTkR7_qUyxubueY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd5ZgukuuBTkR7_qUyxubueY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:25:53"
+  }
+]

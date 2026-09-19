@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bisht medical store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "262543",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RGXV+9PM, Hospital Road, Dharchula, Uttarakhand 262545",
+    "area": "262543",
+    "latitude": 29.8484661,
+    "longitude": 80.54423919999999,
+    "place_id": "ChIJ2WfkLgCzpjkRWgEivuC-2Wc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2WfkLgCzpjkRWgEivuC-2Wc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:17:24"
+  },
+  {
+    "business_name": "Kalpasi Medicose",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "262543",
+    "phone_number": "+91 74091 14441",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Simalgair Rd, Pithoragarh, Uttarakhand 262501",
+    "area": "262543",
+    "latitude": 29.5868595,
+    "longitude": 80.2124209,
+    "place_id": "ChIJ9eVMsr8loTkRR_pzADuvDPQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9eVMsr8loTkRR_pzADuvDPQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:17:27"
+  }
+]

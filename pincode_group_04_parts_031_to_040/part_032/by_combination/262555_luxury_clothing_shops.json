@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thukral Garments",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "262555",
+    "phone_number": "+91 90123 30001",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 67,
+    "address": "Punjabi Market, Rudrapur, Uttarakhand 263153",
+    "area": "Punjabi Market",
+    "latitude": 28.975942999999997,
+    "longitude": 79.39706799999999,
+    "place_id": "ChIJ4RXmo-x_oDkR3l7K8A_3rN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4RXmo-x_oDkR3l7K8A_3rN0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:35:01"
+  },
+  {
+    "business_name": "Umang Sarees",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "262555",
+    "phone_number": "+91 135 265 0950",
+    "website": "http://www.umangsarees.com/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "13, Rajpur Rd, Gandhi Park, Chukkuwala, Dehradun, Uttarakhand 248001",
+    "area": "Gandhi Park, Chukkuwala",
+    "latitude": 30.326029499999997,
+    "longitude": 78.0435131,
+    "place_id": "ChIJI_lrxsEpCTkRJxpO7xp-xtY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI_lrxsEpCTkRJxpO7xp-xtY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:35:03"
+  }
+]

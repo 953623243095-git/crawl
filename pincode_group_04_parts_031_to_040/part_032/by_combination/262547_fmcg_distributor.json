@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "UMA Consumer Products Ltd",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "262547",
+    "phone_number": "N/A",
+    "website": "https://www.umaglobalfoods.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "97, Santhome High Rd, Santhome, Raja Annamalaipuram, Chennai, Tamil Nadu 600028",
+    "area": "Santhome, Raja Annamalaipuram",
+    "latitude": 13.02746,
+    "longitude": 80.27610589999999,
+    "place_id": "ChIJ3STYoKhnUjoRVHpKLMFddhs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3STYoKhnUjoRVHpKLMFddhs",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:24:05"
+  },
+  {
+    "business_name": "KisiNisi Corporation",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler, Toiletries Store",
+    "pincode": "262547",
+    "phone_number": "N/A",
+    "website": "http://www.kisinisi.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "437/B/1, Jerambhai Ni Wadi Nr. Shilp Art, Opp. Ganesh Dyeing Bh. Subjail, Khatodra Wadi, Surat, Gujarat 395002",
+    "area": "Khatodra Wadi",
+    "latitude": 21.1784185,
+    "longitude": 72.830136,
+    "place_id": "ChIJEzQBc6hP4DsRoJ5mWzytJpM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEzQBc6hP4DsRoJ5mWzytJpM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:24:05"
+  }
+]

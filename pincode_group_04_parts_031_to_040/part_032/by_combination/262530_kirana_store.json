@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Daily needs general stores& dhaba.pithoragarh",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "262530",
+    "phone_number": "+91 98375 23242",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Police Line, Police line, Pithoragarh, Uttarakhand 262501",
+    "area": "Police line",
+    "latitude": 29.578871099999997,
+    "longitude": 80.2191449,
+    "place_id": "ChIJqVWUEFkloTkRbpGn2ufWkSk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqVWUEFkloTkRbpGn2ufWkSk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:02:47"
+  },
+  {
+    "business_name": "Family Market Narayan Nagar",
+    "search_category": "Kirana Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "262530",
+    "phone_number": "+91 80575 09030",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ogla Rd, near Patrol Pump, Narayan Nagar, Didihat, Malli Mirthi, Uttarakhand 262550",
+    "area": "Narayan Nagar",
+    "latitude": 29.772964499999997,
+    "longitude": 80.2862628,
+    "place_id": "ChIJ7XWi9H0zoTkREuaGMnHkUrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7XWi9H0zoTkREuaGMnHkUrI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:02:50"
+  }
+]

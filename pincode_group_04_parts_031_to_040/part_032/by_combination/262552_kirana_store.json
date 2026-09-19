@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "kavindar singh chauhan",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "262552",
+    "phone_number": "+91 74093 73535",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "Berinag Road, Jajar Maphi, Uttarakhand 262552",
+    "area": "262552",
+    "latitude": 29.7923317,
+    "longitude": 80.1171047,
+    "place_id": "ChIJObo5a3_VpjkREhAGz1mUbnA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJObo5a3_VpjkREhAGz1mUbnA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:29:17"
+  },
+  {
+    "business_name": "Link General Store",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "262552",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Thal, Machhikhet, Uttarakhand 262552",
+    "area": "262552",
+    "latitude": 29.824674899999998,
+    "longitude": 80.1411495,
+    "place_id": "ChIJE5Pyx4_VpjkR89LqKSxRkgM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE5Pyx4_VpjkR89LqKSxRkgM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:29:20"
+  }
+]

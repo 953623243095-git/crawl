@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SS Property's",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "262534",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9CMV+858, Old, Rd, Boradi, New Tehri, Chhamund, Uttarakhand 249001",
+    "area": "Boradi",
+    "latitude": 30.383321799999997,
+    "longitude": 78.4429474,
+    "place_id": "ChIJhUUCmnDjCDkRxhYT2ybd2xs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhUUCmnDjCDkRxhYT2ybd2xs",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:11:25"
+  },
+  {
+    "business_name": "Siddhivinayak Associats",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "262534",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H6M9+G3J, Tildhukari, Pithoragarh, Uttarakhand 262501",
+    "area": "Tildhukari",
+    "latitude": 29.5838257,
+    "longitude": 80.2175633,
+    "place_id": "ChIJueg47A4loTkRUVn0sXeFuJk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJueg47A4loTkRUVn0sXeFuJk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:11:27"
+  }
+]

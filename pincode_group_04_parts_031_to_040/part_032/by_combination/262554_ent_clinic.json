@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taneja Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "262554",
+    "phone_number": "N/A",
+    "website": "http://www.tanejahospital.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "281, North Civil Line, Railway Rd, Jila Parisad Colony, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Jila Parisad Colony",
+    "latitude": 29.4723436,
+    "longitude": 77.7063964,
+    "place_id": "ChIJu0MHZXMbDDkRCBICb-7_tZ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu0MHZXMbDDkRCBICb-7_tZ8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:33:22"
+  },
+  {
+    "business_name": "Dr Ml Meena Ent",
+    "search_category": "ENT Clinic",
+    "primary_category": "Occupational medical physician",
+    "all_categories": "Occupational medical physician",
+    "pincode": "262554",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 14,
+    "address": "Unnamed Road, Senthi Purani Abadi, Chittorgarh, Rajasthan 312001",
+    "area": "Senthi Purani Abadi",
+    "latitude": 24.8675772,
+    "longitude": 74.615123,
+    "place_id": "ChIJAcEj-SmhaDkRD11ayN44qK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAcEj-SmhaDkRD11ayN44qK8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:33:23"
+  }
+]

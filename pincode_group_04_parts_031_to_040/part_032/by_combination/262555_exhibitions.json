@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chama",
+    "search_category": "Exhibitions",
+    "primary_category": "Village hall",
+    "all_categories": "Village hall",
+    "pincode": "262555",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V6PQ+9RJ, Chama, Jadapani R.F., Uttarakhand 262551",
+    "area": "262555",
+    "latitude": 29.8859674,
+    "longitude": 80.2395276,
+    "place_id": "ChIJKdyrFwDTpjkRheitD0EJUwY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKdyrFwDTpjkRheitD0EJUwY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:36:15"
+  },
+  {
+    "business_name": "Munsyari Football Ground",
+    "search_category": "Exhibitions",
+    "primary_category": "Playground",
+    "all_categories": "Playground",
+    "pincode": "262555",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 21,
+    "address": "369Q+QCC, Munsyari-Madkot Rd, Bunga, Munsyari, Uttarakhand 262554",
+    "area": "262555",
+    "latitude": 30.0694433,
+    "longitude": 80.2385264,
+    "place_id": "ChIJlVCmzX3bpjkRCq5oT9TxPd0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlVCmzX3bpjkRCq5oT9TxPd0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:36:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishal saree centre",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "262542",
+    "phone_number": "+91 98916 14622",
+    "website": "https://vishalsareecentre.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "184 A, Turab Nagar, Naya Ganj, Ghaziabad, Uttar Pradesh 201001",
+    "area": "Turab Nagar, Naya Ganj",
+    "latitude": 28.660249399999998,
+    "longitude": 77.4339889,
+    "place_id": "ChIJbXBVRifxDDkRDbW0Fni2IOY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbXBVRifxDDkRDbW0Fni2IOY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:15:28"
+  },
+  {
+    "business_name": "Studio by Miss Crafty",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "262542",
+    "phone_number": "+91 74099 92666",
+    "website": "http://www.studiobysunita.com/",
+    "rating": 4,
+    "reviews_count": 34,
+    "address": "Doon Vihar, Lane no. 3, Rajpur Rd, Jakhan, Dehradun, Uttarakhand 248003",
+    "area": "Doon Vihar, Jakhan",
+    "latitude": 30.364672199999998,
+    "longitude": 78.0683008,
+    "place_id": "ChIJ5zQ-qsLXCDkRA7-HDiViyUg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5zQ-qsLXCDkRA7-HDiViyUg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:15:29"
+  }
+]

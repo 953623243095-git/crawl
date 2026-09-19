@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HIM DARSHAL RESORT",
+    "search_category": "Spa",
+    "primary_category": "Wellness hotel",
+    "all_categories": "Wellness hotel",
+    "pincode": "262554",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "376Q+8R7, Munsayari, Road, near Gori Pull, Madkote, Uttarakhand 262554",
+    "area": "262554",
+    "latitude": 30.0607856,
+    "longitude": 80.2895569,
+    "place_id": "ChIJGZzs3NDFpjkR5b7lbtnhMZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGZzs3NDFpjkR5b7lbtnhMZc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:33:46"
+  },
+  {
+    "business_name": "Amatrra",
+    "search_category": "Spa",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center",
+    "pincode": "262554",
+    "phone_number": "+91 11 2375 3048",
+    "website": "http://amatrrawellness.in/",
+    "rating": 4.8,
+    "reviews_count": 579,
+    "address": "4th floor, Hotel, Le Meridien, 8, Windsor Pl, Janpath, Windsor Place, New Delhi, Delhi 110001",
+    "area": "Janpath, Windsor Place",
+    "latitude": 28.6185959,
+    "longitude": 77.21811799999999,
+    "place_id": "ChIJlaAUDsriDDkROYADl-I5UTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlaAUDsriDDkROYADl-I5UTs",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:33:47"
+  }
+]

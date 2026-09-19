@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Computer Training Institute of Haldwani",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution, Literacy program, Software Training Institute",
+    "pincode": "262534",
+    "phone_number": "+91 89790 40814",
+    "website": "https://digitalskillshaldwani.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "4th Floor, Lahariya, Sal Talla, to, Saraswati Academy Rd, near Harshita Banquet Hall Block, Lohariyasal Malla, Anand Vihar, Haldwani, Uttarakhand 263139",
+    "area": "Lohariyasal Malla, Anand Vihar",
+    "latitude": 29.232325799999998,
+    "longitude": 79.4935084,
+    "place_id": "ChIJHeU2SyeboDkRFKIEg1nWD0U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHeU2SyeboDkRFKIEg1nWD0U",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:11:10"
+  },
+  {
+    "business_name": "Uttaranchal Computer Education Institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "262534",
+    "phone_number": "+91 80066 00131",
+    "website": "http://www.uttaranchal.iteducation.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Chandrabhaga Brg, Chandreshwar Nagar, Rishikesh, Uttarakhand 249201",
+    "area": "Chandreshwar Nagar",
+    "latitude": 30.109003299999998,
+    "longitude": 78.3021105,
+    "place_id": "ChIJW7Cm5BoWCTkRUiVZdqzFoqI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW7Cm5BoWCTkRUiVZdqzFoqI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:11:10"
+  }
+]

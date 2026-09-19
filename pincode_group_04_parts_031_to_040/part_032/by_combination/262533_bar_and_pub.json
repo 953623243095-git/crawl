@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat matchar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "262533",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WW5R+84P, Kafalilagga Papoli, Uttarakhand 263634",
+    "area": "262533",
+    "latitude": 29.9083324,
+    "longitude": 79.9403133,
+    "place_id": "ChIJyTwZKQ0vpzkR61CK3Qr0fGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyTwZKQ0vpzkR61CK3Qr0fGo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:08:23"
+  },
+  {
+    "business_name": "Junglee Bar in Rishikesh | Bar & Lounge in Rishikesh",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar & grill",
+    "all_categories": "Bar & grill",
+    "pincode": "262533",
+    "phone_number": "+91 80775 15156",
+    "website": "https://www.theneerajwellness.com/",
+    "rating": 4.4,
+    "reviews_count": 19,
+    "address": "Rajaji National Park Haridwar- Rishikesh Highway Chilla Road,GANGA BHOGPUR MALLA, Rishikesh, Uttarakhand 249306",
+    "area": "262533",
+    "latitude": 30.0244474,
+    "longitude": 78.2639232,
+    "place_id": "ChIJpf1dpMQ9CTkRstxpzIdOV4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpf1dpMQ9CTkRstxpzIdOV4o",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:08:24"
+  }
+]

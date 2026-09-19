@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Sangam Pithoragarh",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "262525",
+    "phone_number": "+91 86507 31777",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "H6P8+M8C, Siltham, Dharchula Road, Pithoragarh, Uttarakhand 262501",
+    "area": "262525",
+    "latitude": 29.58666,
+    "longitude": 80.2157783,
+    "place_id": "ChIJhdUklb0loTkR-nPS35pg9r4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhdUklb0loTkR-nPS35pg9r4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 05:54:53"
+  },
+  {
+    "business_name": "Hotel Punetha inn",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "262525",
+    "phone_number": "+91 81266 21687",
+    "website": "https://punethainnpithoragarh.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Mahatma Gandhi Marg, Pithoragarh, Uttarakhand 262501",
+    "area": "262525",
+    "latitude": 29.5863533,
+    "longitude": 80.21230109999999,
+    "place_id": "ChIJj918rL8loTkRTDnzrhvJ7e0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj918rL8loTkRTDnzrhvJ7e0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 05:54:53"
+  }
+]

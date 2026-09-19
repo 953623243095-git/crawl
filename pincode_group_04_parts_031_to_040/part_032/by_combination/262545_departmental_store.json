@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JL Mini Mart",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "262545",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "RGVQ+FCC, Mahakali Hwy, Api, Sudurpashchim Province 10100, Nepal",
+    "area": "262545",
+    "latitude": 29.8436794,
+    "longitude": 80.5385028,
+    "place_id": "ChIJT8by4K61pjkR1kCZ9rSNSUo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT8by4K61pjkR1kCZ9rSNSUo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:20:27"
+  },
+  {
+    "business_name": "Mr. Ganesh Grocery Shop",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "262545",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Near Shree Huskhar H.S.S., katai Tol, Api, Sudurpashchim Province 10100, Nepal",
+    "area": "262545",
+    "latitude": 29.8423877,
+    "longitude": 80.5395226,
+    "place_id": "ChIJTRM7hGq1pjkRWSYCEE3-ODM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTRM7hGq1pjkRWSYCEE3-ODM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:20:27"
+  }
+]

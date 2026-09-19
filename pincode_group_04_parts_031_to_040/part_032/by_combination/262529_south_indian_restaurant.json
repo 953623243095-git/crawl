@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MOMOS MANIA",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "262529",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shastri Market, Uttarakhand 262501",
+    "area": "262529",
+    "latitude": 29.5854665,
+    "longitude": 80.2126256,
+    "place_id": "ChIJx1ZLTHsloTkRSfmnAsNxjOk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx1ZLTHsloTkRSfmnAsNxjOk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:01:11"
+  },
+  {
+    "business_name": "The 10 Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "262529",
+    "phone_number": "+91 75340 65959",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 15,
+    "address": "Takana Rd, Pithoragarh, Chaisar, Uttarakhand 262501",
+    "area": "262529",
+    "latitude": 29.582675899999998,
+    "longitude": 80.2078906,
+    "place_id": "ChIJp1k4fUYloTkRsYPPczXxTOk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp1k4fUYloTkRsYPPczXxTOk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:01:12"
+  }
+]

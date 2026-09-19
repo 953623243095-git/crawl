@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dev Organic Foods",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store",
+    "pincode": "262552",
+    "phone_number": "+91 80776 72368",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 32,
+    "address": "SHAKUNTALAM BUILDING, near JILA SAHKARI BANK, TEHSIL, Nooni Khera, JANSATH, Uttar Pradesh 251314",
+    "area": "TEHSIL",
+    "latitude": 29.236344799999998,
+    "longitude": 77.87664939999999,
+    "place_id": "ChIJw74b6kQLDDkR398qS6_M_N0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw74b6kQLDDkR398qS6_M_N0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:29:19"
+  },
+  {
+    "business_name": "Organic Shop",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop",
+    "pincode": "262552",
+    "phone_number": "+91 95571 22929",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Thano Rd, Ramnagar Danda, Uttarakhand 248143",
+    "area": "262552",
+    "latitude": 30.232600299999998,
+    "longitude": 78.2037038,
+    "place_id": "ChIJU96x-7MjCTkRsJYAE6xNvhc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU96x-7MjCTkRsJYAE6xNvhc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:29:19"
+  }
+]

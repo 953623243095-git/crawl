@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharti AXA Life Insurance Company Limited",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance company",
+    "all_categories": "Insurance company",
+    "pincode": "262550",
+    "phone_number": "+91 1800 102 4444",
+    "website": "https://www.bhartiaxa.com/",
+    "rating": 3.3,
+    "reviews_count": 37,
+    "address": "Khasra No. 596 Mauza, Shop No. 7/3, 1st Floor, Pargana Kendriya Doon, Road, Hathibarkala, Dehradun, Uttarakhand 248001",
+    "area": "Ravindrapuri, Hathibarkala",
+    "latitude": 30.338962799999997,
+    "longitude": 78.0518432,
+    "place_id": "ChIJu98QOdopCTkRAk99f7tQ6wk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu98QOdopCTkRAk99f7tQ6wk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:27:07"
+  },
+  {
+    "business_name": "Bajaj Finance Branch",
+    "search_category": "Insurance Agent",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution, Investment company, Investment service, Loan agency",
+    "pincode": "262550",
+    "phone_number": "+91 77570 00000",
+    "website": "https://nearme.bajajfinserv.in/service-branch/bajaj-finance-branch-didihat-loan-agency-didihat-pithoragarh-365481/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shiv Mandir Ward, Didihat, Chang Khirya Balgari, Uttarakhand 262551",
+    "area": "262550",
+    "latitude": 29.800701,
+    "longitude": 80.246101,
+    "place_id": "ChIJ431hHJnTpjkRMtsHTxR-Mf8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ431hHJnTpjkRMtsHTxR-Mf8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:27:10"
+  }
+]

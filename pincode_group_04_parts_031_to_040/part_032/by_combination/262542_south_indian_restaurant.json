@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madras Meals",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "262542",
+    "phone_number": "+91 86075 93913",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Wing 1, Chakrata Rd, near Military Academy, Special Wing, Prem Nagar, Dehradun, Randharwala, Uttarakhand 248007",
+    "area": "Special Wing, Prem Nagar",
+    "latitude": 30.3362381,
+    "longitude": 77.9688707,
+    "place_id": "ChIJP8XFXvkrCTkRLvRXB4hSP1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP8XFXvkrCTkRLvRXB4hSP1U",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:15:25"
+  },
+  {
+    "business_name": "Shiv Karthik Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Breakfast restaurant",
+    "pincode": "262542",
+    "phone_number": "+91 172 444 4418",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "SCO 249, Sector 20 Rd, Sector 20, Panchkula, Punjab 134117",
+    "area": "Sector 20",
+    "latitude": 30.670298799999998,
+    "longitude": 76.85658959999999,
+    "place_id": "ChIJAQAAAJGUDzkRVpTCJAmNmiY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAJGUDzkRVpTCJAmNmiY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:15:27"
+  }
+]

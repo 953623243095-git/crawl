@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JSR SPORTS CLUB",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Playground",
+    "all_categories": "Playground",
+    "pincode": "262572",
+    "phone_number": "+91 99997 38420",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Kankrola, Sector 87, Gurugram, Haryana 122505",
+    "area": "Kankrola, Sector 87",
+    "latitude": 28.3916574,
+    "longitude": 76.92506019999999,
+    "place_id": "ChIJ59z7QtE9DTkRObTlPHnRHkM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ59z7QtE9DTkRObTlPHnRHkM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:39:27"
+  },
+  {
+    "business_name": "Match Point HQ",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Sports club",
+    "all_categories": "Sports club",
+    "pincode": "262572",
+    "phone_number": "+91 84009 51357",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 23,
+    "address": "Prof. Ravi Dev Campus, behind Sharda Apartment, Sector 4, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Sector 4, Gomti Nagar",
+    "latitude": 26.8300374,
+    "longitude": 81.0086728,
+    "place_id": "ChIJJ2HTdY7jmzkR11yLVb3aFnA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ2HTdY7jmzkR11yLVb3aFnA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:39:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajshree catering service",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Catering food and drink supplier, Children's party buffet, Event venue, Food and beverage consultant, Food manufacturer, Food manufacturing supply, Food products supplier, Wedding buffet",
+    "pincode": "262542",
+    "phone_number": "+91 94603 01219",
+    "website": "https://rajshree-catering.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": 175,
+    "address": "Street No. 6, Plot No 12, opposite dayanand Goshala, Sushwani Mata Colony, Mandore, Jodhpur, Rajasthan 342026",
+    "area": "Sushwani Mata Colony, Mandore",
+    "latitude": 26.3454309,
+    "longitude": 73.0400801,
+    "place_id": "ChIJkSGGsoaSQTkRDB2NqI5Ijhg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkSGGsoaSQTkRDB2NqI5Ijhg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:16:17"
+  },
+  {
+    "business_name": "YourWeddingManager",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Service establishment, Wedding service",
+    "pincode": "262542",
+    "phone_number": "+91 88718 20868",
+    "website": "https://www.yourweddingmanager.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "YourWeddingManager, 262542, India",
+    "area": "262542",
+    "latitude": 24.011690899999998,
+    "longitude": 77.851694,
+    "place_id": "ChIJSVR6Y0hnfDkRafqdKqyQ3Vs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSVR6Y0hnfDkRafqdKqyQ3Vs",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:16:19"
+  }
+]

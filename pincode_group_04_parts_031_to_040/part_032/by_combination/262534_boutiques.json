@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Devbhoomi Clothings",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "262534",
+    "phone_number": "+91 89410 05258",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mantoli, Berinag, Uttarakhand 262531",
+    "area": "Mantoli",
+    "latitude": 29.7750436,
+    "longitude": 80.0562873,
+    "place_id": "ChIJlVLt6WDVoDkRv1F1KHL3OpI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlVLt6WDVoDkRv1F1KHL3OpI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:10:19"
+  },
+  {
+    "business_name": "Raiagar",
+    "search_category": "Boutiques",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "262534",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "P2QX+H2M, Raiagar, Manipur, Uttarakhand 262534",
+    "area": "262534",
+    "latitude": 29.738964,
+    "longitude": 80.0475572,
+    "place_id": "ChIJk1_sPgDVoDkRULSu9Tc6Ydw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk1_sPgDVoDkRULSu9Tc6Ydw",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:10:19"
+  }
+]

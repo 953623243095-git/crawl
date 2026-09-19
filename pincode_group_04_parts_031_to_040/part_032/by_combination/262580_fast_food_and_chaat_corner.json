@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amit Chat Bhandar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "262580",
+    "phone_number": "+91 86504 44499",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "NIRBHAY ARCADE, Western Kutchery Rd, Chobey Compound, Mohanpuri, Meerut, Uttar Pradesh 250001",
+    "area": "Chobey Compound, Mohanpuri",
+    "latitude": 28.9869289,
+    "longitude": 77.7095198,
+    "place_id": "ChIJ014mw_xkDDkRpG0hEGt3hH4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ014mw_xkDDkRpG0hEGt3hH4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:41:59"
+  },
+  {
+    "business_name": "Meerut Chaat Bhandar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Small plates restaurant",
+    "pincode": "262580",
+    "phone_number": "+91 98977 56547",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "XMVX+H4P, Sadar Bazaar, Meerut, Uttar Pradesh 250001",
+    "area": "Sadar Bazaar",
+    "latitude": 28.9939562,
+    "longitude": 77.69782029999999,
+    "place_id": "ChIJDQJSPqplDDkRmcnAHeCXloU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDQJSPqplDDkRmcnAHeCXloU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:41:59"
+  }
+]

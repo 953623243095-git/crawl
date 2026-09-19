@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A1 Meeseva Centre",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "262555",
+    "phone_number": "+91 98662 28900",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 26,
+    "address": "18-8-450/B/35/1, Moin Bagh Rd, Raza Nagar, Jai Khanna Colony, Fateh Shah Nagar, Edi Bazaar, Hyderabad, Telangana 500023",
+    "area": "Raza Nagar, Jai Khanna Colony, Fateh Shah Nagar, Edi Bazaar",
+    "latitude": 17.3476605,
+    "longitude": 78.4939158,
+    "place_id": "ChIJE-10FRKYyzsRuZXbN7leFRY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE-10FRKYyzsRuZXbN7leFRY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:35:55"
+  },
+  {
+    "business_name": "TNeGA E- Sevai Maiyam",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "262555",
+    "phone_number": "+91 1800 425 6000",
+    "website": "https://www.tnesevai.tn.gov.in/citizen/registration.aspx",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Aishwarya Complex, 2/5, Kottapattu, Tiruchirappalli, Tamil Nadu 620004",
+    "area": "Kottapattu",
+    "latitude": 10.773691999999999,
+    "longitude": 78.7110354,
+    "place_id": "ChIJo1H9DSP1qjsRwim1K73G-pA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo1H9DSP1qjsRwim1K73G-pA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:35:57"
+  }
+]

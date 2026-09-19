@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Blessing Tiffin Service",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "262551",
+    "phone_number": "+91 96275 50063",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Yogmaarg Yog Centre, 70/71 Kairwan Gaon, Rajpur, Dehradun, Uttarakhand 248009",
+    "area": "Rajpur, Kairwaan Gaon",
+    "latitude": 30.398941599999997,
+    "longitude": 78.0946993,
+    "place_id": "ChIJewbmNQDXCDkRgYr0yR2CHJs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJewbmNQDXCDkRgYr0yR2CHJs",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:27:43"
+  },
+  {
+    "business_name": "TiffiT",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "262551",
+    "phone_number": "+91 96342 10675",
+    "website": "https://www.tiffit.com/",
+    "rating": 3.3,
+    "reviews_count": 27,
+    "address": "93, Rajpur Rd, Hathibarkala Salwala, Dehradun, Uttarakhand 248001",
+    "area": "Hathibarkala Salwala",
+    "latitude": 30.338908399999998,
+    "longitude": 78.0570331,
+    "place_id": "ChIJK6ruF6gpCTkRxgQlyeES_Ag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK6ruF6gpCTkRxgQlyeES_Ag",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:27:44"
+  }
+]

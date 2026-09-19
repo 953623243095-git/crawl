@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sapna medicose",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "262576",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RC2H+MVC, Delhi - Dharchula Hwy, Sangari, Uttarakhand 262576",
+    "area": "262576",
+    "latitude": 29.8016832,
+    "longitude": 80.429627,
+    "place_id": "ChIJY1v3E-Y1oTkRROQQXL8dUvw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY1v3E-Y1oTkRROQQXL8dUvw",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:40:22"
+  },
+  {
+    "business_name": "Baluwakote",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "262576",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "RC2H+MVJ, Delhi - Dharchula Hwy, Sangari, Suwa, Uttarakhand 262576",
+    "area": "262576",
+    "latitude": 29.801722599999998,
+    "longitude": 80.4296524,
+    "place_id": "ChIJC_0JeWU1oTkRHxM4CDN51_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC_0JeWU1oTkRHxM4CDN51_Y",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:40:22"
+  }
+]

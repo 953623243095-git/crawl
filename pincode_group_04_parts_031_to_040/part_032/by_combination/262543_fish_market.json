@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Menakshi Fish Aquarium",
+    "search_category": "Fish Market",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store, Aquarium, Aquarium shop",
+    "pincode": "262543",
+    "phone_number": "+91 70556 90651",
+    "website": "https://jsdl.in/DT-99DGWM28YUX",
+    "rating": 4.3,
+    "reviews_count": 71,
+    "address": "30, Chakrata Rd, Chaman Vihar, Panditwari, Dehradun, Uttarakhand 248007",
+    "area": "Chaman Vihar, Panditwari",
+    "latitude": 30.332041099999998,
+    "longitude": 77.9841708,
+    "place_id": "ChIJl3dmKNorCTkRXaHOhIHJ2ac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl3dmKNorCTkRXaHOhIHJ2ac",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:17:07"
+  },
+  {
+    "business_name": "Ocea Seafoods",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood wholesaler",
+    "all_categories": "Seafood wholesaler, Seafood market",
+    "pincode": "262543",
+    "phone_number": "+91 81234 56111",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "CHETTALI Trade Center, Russell Market Square, 35/1, Shivaji Nagar, Bengaluru, Karnataka 560051",
+    "area": "Shivaji Nagar",
+    "latitude": 12.984495299999999,
+    "longitude": 77.6059858,
+    "place_id": "ChIJTyEG074XrjsRTGLfEAaJsmQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTyEG074XrjsRTGLfEAaJsmQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:17:08"
+  }
+]

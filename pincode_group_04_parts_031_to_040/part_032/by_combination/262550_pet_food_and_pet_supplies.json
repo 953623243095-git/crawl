@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Animal Planet Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Dog breeder, Dog day care center, Pet store",
+    "pincode": "262550",
+    "phone_number": "+91 63955 76166",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 19,
+    "address": "Sirmour marg, Kaulagarh Rd, Dehradun, Uttarakhand 248001",
+    "area": "Krishna Nagar",
+    "latitude": 30.3361667,
+    "longitude": 78.0236527,
+    "place_id": "ChIJ2z13o57XCDkRQv8C6P2w8ic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2z13o57XCDkRQv8C6P2w8ic",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:25:52"
+  },
+  {
+    "business_name": "NEW MACHINDRA PETS SHOP",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "262550",
+    "phone_number": "+91 83080 00965",
+    "website": "http://mpets.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "5254, Juna Mangalwar Bazar, Maliwada, Ahilyanagar, Maharashtra 414001",
+    "area": "Maliwada",
+    "latitude": 19.0922886,
+    "longitude": 74.7391598,
+    "place_id": "ChIJlb-yklex3DsRIdmIsnBAwjw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlb-yklex3DsRIdmIsnBAwjw",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:25:52"
+  }
+]

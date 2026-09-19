@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ram Jivan",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "262701",
+    "phone_number": "+91 73006 02711",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Shop Number 1, Khiriya Chauraha, Kheri, Lakhaha, Uttar Pradesh 262701",
+    "area": "262701",
+    "latitude": 27.896473,
+    "longitude": 80.62395719999999,
+    "place_id": "ChIJdQwu_YI5nzkRUWAnJivaGb0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdQwu_YI5nzkRUWAnJivaGb0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:45:12"
+  },
+  {
+    "business_name": "Natraj Company",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "262701",
+    "phone_number": "+91 78529 82175",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NETRAJ COMPANY, Khaprel Bazar, Lakhimpur, Uttar Pradesh 262701",
+    "area": "Khaprel Bazar",
+    "latitude": 27.9582324,
+    "longitude": 80.77832839999999,
+    "place_id": "ChIJC3pZ1DQ1nzkRTukJ5jil_po",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC3pZ1DQ1nzkRTukJ5jil_po",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:45:15"
+  }
+]

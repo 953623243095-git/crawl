@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lalita Devi",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "262553",
+    "phone_number": "+91 90125 89342",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Qouti Road, Qouti, Kheta, Uttarakhand 262553",
+    "area": "Qouti",
+    "latitude": 29.99767,
+    "longitude": 80.1445133,
+    "place_id": "ChIJpSNJNk3ZpjkRdTZ2Olwi-rA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpSNJNk3ZpjkRdTZ2Olwi-rA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:31:05"
+  },
+  {
+    "business_name": "Krishna complex",
+    "search_category": "Departmental Store",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay, Indian grocery store",
+    "pincode": "262553",
+    "phone_number": "+91 75348 31513",
+    "website": "http://www.hokra.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hokara, Uttarakhand 262553",
+    "area": "262553",
+    "latitude": 30.021239299999998,
+    "longitude": 80.0828279,
+    "place_id": "ChIJ-07MSwAnpzkRUcpui7KQ47o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-07MSwAnpzkRUcpui7KQ47o",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:31:05"
+  }
+]

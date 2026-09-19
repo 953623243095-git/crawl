@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Bike Repairing Shop",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "262555",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "893H+F2R, Palibhogipur, Uttar Pradesh 209401",
+    "area": "262555",
+    "latitude": 26.3037328,
+    "longitude": 80.3775158,
+    "place_id": "ChIJrzygoPJDnDkRpgZEddkIe6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrzygoPJDnDkRpgZEddkIe6U",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:35:14"
+  },
+  {
+    "business_name": "Maa Durga Automobiles",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "262555",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "368R+7CJ, Munsyari-Madkot Rd, Munsyari, Uttarakhand 262554",
+    "area": "262555",
+    "latitude": 30.065766999999997,
+    "longitude": 80.2410329,
+    "place_id": "ChIJ98qk_CrbpjkRZ5Z9SuUmPkM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ98qk_CrbpjkRZ5Z9SuUmPkM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:35:14"
+  }
+]

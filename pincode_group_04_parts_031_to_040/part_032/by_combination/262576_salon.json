@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayushi beauty parlour",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "262576",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RC2H+HR7, Baluwakot, Sangari, Uttarakhand 262576",
+    "area": "262576",
+    "latitude": 29.801406,
+    "longitude": 80.4295534,
+    "place_id": "ChIJZSQOg6M1oTkRqtCHLAE5loE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZSQOg6M1oTkRqtCHLAE5loE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:40:55"
+  },
+  {
+    "business_name": "Premature titiyal",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "262576",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RC2H+PV6, Baluwakot, Sangari, Uttarakhand 262576",
+    "area": "262576",
+    "latitude": 29.8020781,
+    "longitude": 80.4290291,
+    "place_id": "ChIJA9r6SQA1oTkR1ha_FnvThmo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA9r6SQA1oTkR1ha_FnvThmo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:40:55"
+  }
+]

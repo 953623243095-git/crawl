@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JMS Auto Parts & Accessories",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "262543",
+    "phone_number": "+91 96279 90965",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jhula mandir, Didihat, Uttarakhand 262551",
+    "area": "G.I.C. Ward",
+    "latitude": 29.7989315,
+    "longitude": 80.2549196,
+    "place_id": "ChIJM_XAT17TpjkRMzQrWosqOEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM_XAT17TpjkRMzQrWosqOEA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:17:36"
+  },
+  {
+    "business_name": "Drishti",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "262543",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Unnamed Road, Didihat, Uttarakhand 262551",
+    "area": "262543",
+    "latitude": 29.7920947,
+    "longitude": 80.25619669999999,
+    "place_id": "ChIJtZG0t1ktoTkRUxXy5ozCHVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtZG0t1ktoTkRUxXy5ozCHVc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:17:36"
+  }
+]

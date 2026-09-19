@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rashpal Dhillon, Expert Real Estate Broker",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Service establishment",
+    "pincode": "262551",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Rashpal Dhillon, Expert Real Estate Broker, 262551, India",
+    "area": "262551",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJXxRxG5XXmoARCG3kXJIFhKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXxRxG5XXmoARCG3kXJIFhKU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:29:00"
+  },
+  {
+    "business_name": "Value for Realty",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "262551",
+    "phone_number": "+91 79918 19141",
+    "website": "https://valueforrealty.com/",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "Office No. 606, 6th Floor, Golf City, Sector B Ansal API, Lucknow, Muzaffar Nagar Ghusval, Uttar Pradesh 226030",
+    "area": "Golf City, Sector B Ansal API",
+    "latitude": 26.781932899999997,
+    "longitude": 80.99019919999999,
+    "place_id": "ChIJY5iiXO3lmzkRbKEqmZ25XF8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY5iiXO3lmzkRbKEqmZ25XF8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:29:02"
+  }
+]

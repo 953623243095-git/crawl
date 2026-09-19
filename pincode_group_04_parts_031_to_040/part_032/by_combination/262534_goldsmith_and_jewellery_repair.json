@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjay Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "262534",
+    "phone_number": "+91 89540 31068",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Main Bazaar, Laksar, Uttarakhand 247663",
+    "area": "Main Bazaar",
+    "latitude": 29.751437499999998,
+    "longitude": 78.0245625,
+    "place_id": "ChIJl-nz_IFRCTkRqbxKsGE62cs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl-nz_IFRCTkRqbxKsGE62cs",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:10:15"
+  },
+  {
+    "business_name": "Chhanagolu Jewellers Bagwalipokhar",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "262534",
+    "phone_number": "+91 99270 87703",
+    "website": "https://instagram.com/chhanagolujewellers/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dwarahat Rd, Bagwali Pokhar Market, Ratgal Kotali, Uttarakhand 263621",
+    "area": "262534",
+    "latitude": 29.734620999999997,
+    "longitude": 79.4785701,
+    "place_id": "ChIJD7Syf1ytoDkRbUSqkCWU-J0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD7Syf1ytoDkRbUSqkCWU-J0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:10:16"
+  }
+]

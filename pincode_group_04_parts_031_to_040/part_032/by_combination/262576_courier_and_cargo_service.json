@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AIRY Niwas",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "262576",
+    "phone_number": "+91 75348 68597",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "RC76+HJM, Baluwakot, Suwa, Uttarakhand 262576",
+    "area": "262576",
+    "latitude": 29.814925199999998,
+    "longitude": 80.4123943,
+    "place_id": "ChIJ25cMUADLpjkREbVlwN88nxM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ25cMUADLpjkREbVlwN88nxM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:41:27"
+  },
+  {
+    "business_name": "Bhatiya House(Kamal Singh)",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "262576",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RC86+724, Baluwakot, Suwa, Uttarakhand 262576",
+    "area": "262576",
+    "latitude": 29.815632599999997,
+    "longitude": 80.4100641,
+    "place_id": "ChIJ3y0pUDbLpjkRH60T3SlpvX0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3y0pUDbLpjkRH60T3SlpvX0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:41:27"
+  }
+]

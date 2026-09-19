@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nirmal Ashram Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "262532",
+    "phone_number": "+91 80777 63702",
+    "website": "http://www.nirmalhospitals.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Mayakund, Dehradun District, Rishikesh, Uttarakhand 249201",
+    "area": "Mayakund",
+    "latitude": 30.104874799999997,
+    "longitude": 78.30289259999999,
+    "place_id": "ChIJ79sedQUWCTkRCu_dBk-wPwk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ79sedQUWCTkRCu_dBk-wPwk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:06:49"
+  },
+  {
+    "business_name": "Soban Singh Jeena Base Hospital Haldwani",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "262532",
+    "phone_number": "+91 5946 255 110",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 93,
+    "address": "Bareilly - Nainital Rd, near bus station, Banbhoolpura, Haldwani, Uttarakhand 263139",
+    "area": "Banbhoolpura",
+    "latitude": 29.2158625,
+    "longitude": 79.52907069999999,
+    "place_id": "ChIJXTyk0umaoDkRk2_gAj-jMpM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXTyk0umaoDkRk2_gAj-jMpM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:06:50"
+  }
+]

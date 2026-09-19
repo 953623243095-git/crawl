@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiva Enterprises",
+    "search_category": "Spa",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "262534",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "H6M6+W8H, Gandhi Nagar, Pithoragarh, Uttarakhand 262501",
+    "area": "Gandhi Nagar",
+    "latitude": 29.5848017,
+    "longitude": 80.2108677,
+    "place_id": "ChIJq6qqbr8loTkRtixYQC47dS8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqbr8loTkRtixYQC47dS8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:10:53"
+  },
+  {
+    "business_name": "संतोषी ट्रेडर्स",
+    "search_category": "Spa",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Shoe store",
+    "pincode": "262534",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Kandai, pul,bhitoli, Ghat, Uttarakhand 246449",
+    "area": "pul,bhitoli",
+    "latitude": 30.293737099999998,
+    "longitude": 79.37526679999999,
+    "place_id": "ChIJO7YC6wXXCTkRcUTkPSzTBzo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO7YC6wXXCTkRcUTkPSzTBzo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:10:53"
+  }
+]

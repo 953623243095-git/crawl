@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PFC ( Priyanshi Fast Food Corner )",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "262534",
+    "phone_number": "+91 87420 67210",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 30,
+    "address": "akana Rd, near Raja Hotel, Pithoragarh, Chaisar, Uttarakhand 262501",
+    "area": "262534",
+    "latitude": 29.582533899999998,
+    "longitude": 80.2084131,
+    "place_id": "ChIJsfbjaMUloTkR4NRXLjtwCR8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsfbjaMUloTkR4NRXLjtwCR8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:10:11"
+  },
+  {
+    "business_name": "Hot Spot momoss",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "262534",
+    "phone_number": "+91 84458 38662",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 27,
+    "address": "Aincholi, Pithoragarh, Darim Khola, Uttarakhand 262530",
+    "area": "Aincholi",
+    "latitude": 29.5711257,
+    "longitude": 80.2100461,
+    "place_id": "ChIJPalSWywloTkRpdQiZEbsbpE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPalSWywloTkRpdQiZEbsbpE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:10:11"
+  }
+]

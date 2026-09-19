@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rathor General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "262552",
+    "phone_number": "+91 91214 81540",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Berinag Road, Jajar Maphi, Uttarakhand 262552",
+    "area": "262552",
+    "latitude": 29.7920926,
+    "longitude": 80.11731449999999,
+    "place_id": "ChIJw4jx1ynVpjkRGVYqhkuab_w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw4jx1ynVpjkRGVYqhkuab_w",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:29:22"
+  },
+  {
+    "business_name": "Naveen Janral Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "262552",
+    "phone_number": "+91 75004 26158",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mahendar Singh Karki, Didihat Rd, Jogyura Thal, Thal, Uttarakhand 262552",
+    "area": "262552",
+    "latitude": 29.827298,
+    "longitude": 80.1423156,
+    "place_id": "ChIJC_bzFZ7VpjkR7o5b1lT-Bq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC_bzFZ7VpjkR7o5b1lT-Bq4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:29:22"
+  }
+]

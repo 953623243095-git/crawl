@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nirmal Patni",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "262528",
+    "phone_number": "+91 70176 79677",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Patni Complex, Tehsil Road, near SBI, Pati, Bhingrad Range, Uttarakhand 262561",
+    "area": "262528",
+    "latitude": 29.4089861,
+    "longitude": 79.9407999,
+    "place_id": "ChIJ2xDYP73doDkR2uc2RgpeW7U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2xDYP73doDkR2uc2RgpeW7U",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:00:09"
+  },
+  {
+    "business_name": "Saifi furniture house",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "262528",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "9H6W+H9, Bhowali Range, Uttarakhand 263136",
+    "area": "262528",
+    "latitude": 29.361441799999998,
+    "longitude": 79.5959432,
+    "place_id": "ChIJY1zNGyCXoDkRIH2S7bsfx6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY1zNGyCXoDkRIH2S7bsfx6E",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:00:12"
+  }
+]

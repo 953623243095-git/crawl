@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Close",
+    "search_category": "Clinics",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "262541",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "market, Askote, Dhaulkot, Uttarakhand 262543",
+    "area": "262541",
+    "latitude": 29.7647762,
+    "longitude": 80.33453209999999,
+    "place_id": "ChIJE7ZFktMzoTkRfz7-PdfpfNo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE7ZFktMzoTkRfz7-PdfpfNo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:13:56"
+  },
+  {
+    "business_name": "NM Centre Aanagaon, Uttarakhand",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "262541",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P73R+JM8, Malan Charma, Uttarakhand 262541",
+    "area": "262541",
+    "latitude": 29.7040284,
+    "longitude": 80.2916989,
+    "place_id": "ChIJyWm9LlgxoTkRmjJaSFnFAmc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyWm9LlgxoTkRmjJaSFnFAmc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:13:57"
+  }
+]

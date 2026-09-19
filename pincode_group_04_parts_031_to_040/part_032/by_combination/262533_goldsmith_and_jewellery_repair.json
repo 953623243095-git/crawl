@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubham Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "262533",
+    "phone_number": "+91 70178 13711",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "56J6+699 Jolly grand, Ranipokhari, Listrabad, Uttarakhand 248145",
+    "area": "262533",
+    "latitude": 30.180544299999998,
+    "longitude": 78.2109739,
+    "place_id": "ChIJnYCs5FIjCTkR1281flS6dBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnYCs5FIjCTkR1281flS6dBw",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:08:28"
+  },
+  {
+    "business_name": "Jaiguru Jeweller- Traditional Jeweller of Uttarakhand",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Jeweler",
+    "pincode": "262533",
+    "phone_number": "+91 73026 63023",
+    "website": "https://www.jaigurujewellers.in/",
+    "rating": 4.7,
+    "reviews_count": 71,
+    "address": "LGF-110, OC Square, Commercial Complex, Orange County, Ahinsa Khand 1, Indirapuram, Ghaziabad, Uttar Pradesh 201014",
+    "area": "Orange County, Ahinsa Khand 1, Indirapuram",
+    "latitude": 28.639010499999998,
+    "longitude": 77.36191629999999,
+    "place_id": "ChIJvRl2Ktn7DDkRMwZ4w8hRATY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvRl2Ktn7DDkRMwZ4w8hRATY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:08:28"
+  }
+]

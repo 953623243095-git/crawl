@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Murari Brother's",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "262530",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dharamshala Line, Pithoragarh, Uttarakhand 262501",
+    "area": "262530",
+    "latitude": 29.585242599999997,
+    "longitude": 80.2128226,
+    "place_id": "ChIJ-xFsJ3IloTkR2fTz7XY-JzM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-xFsJ3IloTkR2fTz7XY-JzM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:03:12"
+  },
+  {
+    "business_name": "Luxury Threads",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "262530",
+    "phone_number": "+91 75058 50293",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Infront of SBI ATM, Officers Enclave, Pilikothi Rd, Pilikothi, Haldwani, Mukhani, Uttarakhand 263139",
+    "area": "Pilikothi",
+    "latitude": 29.2127216,
+    "longitude": 79.5068375,
+    "place_id": "ChIJ8VxK76qboDkReqQggezmxTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8VxK76qboDkReqQggezmxTc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:03:14"
+  }
+]

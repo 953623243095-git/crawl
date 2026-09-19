@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Youth Hostel Nainital",
+    "search_category": "Hostels",
+    "primary_category": "Youth Hostel",
+    "all_categories": "Youth Hostel",
+    "pincode": "262530",
+    "phone_number": "+91 89793 35133",
+    "website": "https://govtyouthhostelntl.com/",
+    "rating": 4.2,
+    "reviews_count": 168,
+    "address": "High Ct Rd, Sherwani, Nainital, Naina Range, Uttarakhand 263001",
+    "area": "Sherwani",
+    "latitude": 29.3926779,
+    "longitude": 79.4426822,
+    "place_id": "ChIJXW6P1RqhoDkRxNV9TE_gn9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXW6P1RqhoDkRxNV9TE_gn9A",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:03:53"
+  },
+  {
+    "business_name": "The Hosteller Rishikesh, Upper Tapovan",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "262530",
+    "phone_number": "+91 98101 87717",
+    "website": "https://www.thehosteller.com/hostels/the-hosteller-rishikesh-upper-tapovan",
+    "rating": 4.7,
+    "reviews_count": 7851,
+    "address": "Khasra No. 137, Balaknath Rd, Upper Tapovan, Tapovan, Rishikesh, Uttarakhand 249192",
+    "area": "Upper Tapovan, Tapovan",
+    "latitude": 30.1315036,
+    "longitude": 78.3202511,
+    "place_id": "ChIJJcd7BQ8XCTkRMd_aNIvxmgE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJcd7BQ8XCTkRMd_aNIvxmgE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:03:53"
+  }
+]

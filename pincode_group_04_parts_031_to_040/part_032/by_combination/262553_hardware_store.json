@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Bhagwati Traders",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Building materials store",
+    "pincode": "262553",
+    "phone_number": "+91 81918 93245",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Maa Bhagwati Traders, Munsyari - Thal Road, Quity, Kwiti, Uttarakhand 262553",
+    "area": "Quity",
+    "latitude": 29.991266099999997,
+    "longitude": 80.14267699999999,
+    "place_id": "ChIJh3n-xUTZpjkRBYTyWYvZWVs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh3n-xUTZpjkRBYTyWYvZWVs",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:31:48"
+  },
+  {
+    "business_name": "Sevila",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "262553",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "36FP+RVX, Munsyari, Uttarakhand 262554",
+    "area": "262553",
+    "latitude": 30.074614,
+    "longitude": 80.2372245,
+    "place_id": "ChIJcxFNagDdpjkRdVa6R5AV-_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcxFNagDdpjkRdVa6R5AV-_E",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:31:48"
+  }
+]

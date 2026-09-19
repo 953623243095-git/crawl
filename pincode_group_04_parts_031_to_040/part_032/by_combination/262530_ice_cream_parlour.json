@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Nut House And Juice Parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "262530",
+    "phone_number": "+91 63996 37114",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "The Nut House And Juice Parlour, near District Court Gate, Pithoragarh, Uttarakhand 262501",
+    "area": "262530",
+    "latitude": 29.5866711,
+    "longitude": 80.21231619999999,
+    "place_id": "ChIJjy_BT6wloTkR5SIs-UtQdlQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjy_BT6wloTkR5SIs-UtQdlQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:03:01"
+  },
+  {
+    "business_name": "Havmor Icecream Parlour- Taneja General Store",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "262530",
+    "phone_number": "+91 99274 79230",
+    "website": "https://www.havmor.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Kashipur, Kharmasa, Uttarakhand 244713",
+    "area": "Kashipur",
+    "latitude": 29.2538603,
+    "longitude": 79.0332135,
+    "place_id": "ChIJ0fyZLp9rCjkRWIyoALCM8Ok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0fyZLp9rCjkRWIyoALCM8Ok",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:03:01"
+  }
+]

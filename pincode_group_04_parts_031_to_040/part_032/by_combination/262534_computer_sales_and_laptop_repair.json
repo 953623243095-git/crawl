@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ridge Computer Service",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Mobile phone repair shop",
+    "pincode": "262534",
+    "phone_number": "+91 81712 59489",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 79,
+    "address": "tariyal chowk, near Bikaner Sweet Shop, Amsour, Kotdwar, Shibu Nagar, Uttarakhand 246149",
+    "area": "Amsour",
+    "latitude": 29.7457818,
+    "longitude": 78.4974562,
+    "place_id": "ChIJ2cSWf8B7CTkRCDwnLL-2ybI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2cSWf8B7CTkRCDwnLL-2ybI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:11:13"
+  },
+  {
+    "business_name": "Computer Land",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Cell phone accessory store, Cell phone store, Computer accessories store, Computer desk store, Computer repair service, Computer service, Computer software store",
+    "pincode": "262534",
+    "phone_number": "+91 94105 19280",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "near Canara Bank Main market, New Tehri, Uttarakhand 249001",
+    "area": "262534",
+    "latitude": 30.3732059,
+    "longitude": 78.43258689999999,
+    "place_id": "ChIJL0zJU-0dCTkRoK7jAyC6siI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL0zJU-0dCTkRoK7jAyC6siI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:11:16"
+  }
+]

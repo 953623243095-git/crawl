@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Biryani House",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "262576",
+    "phone_number": "+91 81939 71414",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "ground floor, सुनीता सन सिटी सेंटर, Mall Rd, opposite KMOU BUS STATION, Paltan Bazar, Dharanaula, Almora, Uttarakhand 263601",
+    "area": "Paltan Bazar, Dharanaula",
+    "latitude": 29.5973677,
+    "longitude": 79.6574546,
+    "place_id": "ChIJe0e73B63oDkRvHoyw4fFkuQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe0e73B63oDkRvHoyw4fFkuQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:40:09"
+  },
+  {
+    "business_name": "Panchachuli Restaurant Aur Hotel Dharchula",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "262576",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "पंचाचूली रेस्टोरेंट और होटल, घटधार रोड, Dharchula, Uttarakhand 262545",
+    "area": "262576",
+    "latitude": 29.8473422,
+    "longitude": 80.5369058,
+    "place_id": "ChIJ8wrTcgCzpjkRgiTxy56ww7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8wrTcgCzpjkRgiTxy56ww7Y",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:40:12"
+  }
+]

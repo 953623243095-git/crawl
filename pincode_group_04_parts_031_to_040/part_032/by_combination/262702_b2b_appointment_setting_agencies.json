@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinush Recruitment Agency",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter, Employment consultant",
+    "pincode": "262702",
+    "phone_number": "+91 94821 66835",
+    "website": "https://www.vinush.com/",
+    "rating": 5,
+    "reviews_count": 287,
+    "address": "17, 7th Main Rd, Indira Nagar II Stage, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560008",
+    "area": "Indira Nagar II Stage, Hoysala Nagar, Indiranagar",
+    "latitude": 12.978523599999999,
+    "longitude": 77.635577,
+    "place_id": "ChIJy-_GR4cXrjsR1tkgTiH3d3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy-_GR4cXrjsR1tkgTiH3d3g",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:46:59"
+  },
+  {
+    "business_name": "Near You",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant, Service establishment",
+    "pincode": "262702",
+    "phone_number": "N/A",
+    "website": "https://nearyou.ueniweb.com/?utm_campaign=gmb",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Near You, 262702, India",
+    "area": "262702",
+    "latitude": 30.732280399999997,
+    "longitude": 76.7707136,
+    "place_id": "ChIJQXQ1JvrjmzkRfGWPXVBOA8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQXQ1JvrjmzkRfGWPXVBOA8I",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:46:59"
+  }
+]

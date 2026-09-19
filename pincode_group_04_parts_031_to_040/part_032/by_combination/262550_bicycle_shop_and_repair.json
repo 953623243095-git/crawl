@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guru Cycles",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Fitness Equipment Wholesaler, Toy store",
+    "pincode": "262550",
+    "phone_number": "+91 98234 05676",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 20,
+    "address": "Tilak Rd, Paithan Gate, Khokadpura, Banjara Colony, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Paithan Gate, Khokadpura, Banjara Colony",
+    "latitude": 19.8792893,
+    "longitude": 75.3290251,
+    "place_id": "ChIJi-zDhG2Y2zsRmXWHtl76aPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi-zDhG2Y2zsRmXWHtl76aPA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:26:26"
+  },
+  {
+    "business_name": "Badgujar & Sons",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle repair shop",
+    "pincode": "262550",
+    "phone_number": "+91 88887 88435",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 51,
+    "address": "1296, Phoolwala Chowk, Agra Rd, Dhule, Maharashtra 424001",
+    "area": "262550",
+    "latitude": 20.9046318,
+    "longitude": 74.7773278,
+    "place_id": "ChIJwyEaKt_F3jsRVDQ5DlHPs-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwyEaKt_F3jsRVDQ5DlHPs-I",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:26:27"
+  }
+]

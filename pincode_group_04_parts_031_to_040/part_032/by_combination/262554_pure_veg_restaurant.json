@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucky Pahadi Bhojnalay",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "262554",
+    "phone_number": "+91 82797 26264",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 23,
+    "address": "near Bus Station, Munsyari, Uttarakhand 262554",
+    "area": "262554",
+    "latitude": 30.0650186,
+    "longitude": 80.2374864,
+    "place_id": "ChIJV8lgfm_bpjkR4ngyIPRorPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV8lgfm_bpjkR4ngyIPRorPw",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:32:59"
+  },
+  {
+    "business_name": "himalaya restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "262554",
+    "phone_number": "+91 84768 58069",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "clement town lane no.5, gas godam, gali, Dehradun, Uttarakhand 248002",
+    "area": "New Basti, Clement Town",
+    "latitude": 30.2656976,
+    "longitude": 78.0004041,
+    "place_id": "ChIJLR0-Wi0rCTkRMa-Fr-523l8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLR0-Wi0rCTkRMa-Fr-523l8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:33:00"
+  }
+]

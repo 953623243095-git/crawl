@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Tea House",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "262572",
+    "phone_number": "+91 89590 00058",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 106,
+    "address": "6CCQ+9JX, Indian Tea House at Rani Kamlapati Station, Bhopal, Madhya Pradesh 462016",
+    "area": "Habib Ganj",
+    "latitude": 23.2209941,
+    "longitude": 77.439118,
+    "place_id": "ChIJC2tNyKhDfDkR626FLwiRuFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC2tNyKhDfDkR626FLwiRuFQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:38:20"
+  },
+  {
+    "business_name": "MBA Chai Wala Solapur",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "262572",
+    "phone_number": "+91 91687 10783",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Ground floor, sarswati heights, Narsinha nager near Dmart, Jule Solapur Rd, Jule, Solapur, Maharashtra 413004",
+    "area": "Bank Colony, Dnyaneshwar Nagar, Model Colony, Jule",
+    "latitude": 17.6345817,
+    "longitude": 75.9137849,
+    "place_id": "ChIJz58wxQjbxTsRffOoeo80CUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz58wxQjbxTsRffOoeo80CUs",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:38:22"
+  }
+]

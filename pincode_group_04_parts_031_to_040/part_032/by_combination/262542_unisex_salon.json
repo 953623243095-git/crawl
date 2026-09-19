@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Looks Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hair salon",
+    "pincode": "262542",
+    "phone_number": "+91 83930 43338",
+    "website": "http://www.lookssalon.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop 1, Rajpur Rd, Jakhan, Dehradun, Dehra Dun, Uttarakhand 248006",
+    "area": "Jakhan",
+    "latitude": 30.3663988,
+    "longitude": 78.07006969999999,
+    "place_id": "ChIJuUDkxMvXCDkROPUPukrnKkU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuUDkxMvXCDkROPUPukrnKkU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:16:08"
+  },
+  {
+    "business_name": "Hair Indulgence Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Barber shop, Hairdresser, Fencing salon",
+    "pincode": "262542",
+    "phone_number": "+91 83939 89898",
+    "website": "https://hairindulgence.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Jeet Arcade, 2, 152 1, Rajpur Rd, opp. Scholars Home, Jakhan, Dehradun, Uttarakhand 248001",
+    "area": "Jakhan",
+    "latitude": 30.3645656,
+    "longitude": 78.06959189999999,
+    "place_id": "ChIJ2-H3dMzXCDkRUHzv9XjR7sc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2-H3dMzXCDkRUHzv9XjR7sc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:16:08"
+  }
+]

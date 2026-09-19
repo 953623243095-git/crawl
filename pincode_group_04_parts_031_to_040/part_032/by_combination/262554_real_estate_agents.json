@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SamathaStay",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "262554",
+    "phone_number": "+91 99101 35320",
+    "website": "https://samathastay.com/",
+    "rating": 4.8,
+    "reviews_count": 145,
+    "address": "Sarmoli, Shankh Dhura, Munsyari, Uttarakhand 262554",
+    "area": "Sarmoli",
+    "latitude": 30.0866543,
+    "longitude": 80.2405843,
+    "place_id": "ChIJDXKBQxXdpjkR6mIljN5EPQE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDXKBQxXdpjkR6mIljN5EPQE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:34:20"
+  },
+  {
+    "business_name": "K. K. Property Dealer",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Travel agency",
+    "pincode": "262554",
+    "phone_number": "+91 94136 21395",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "3-A, Banar Rd, Near Masjid, Ramzan Ji Ka Hattha, Jodhpur, Rajasthan 342001",
+    "area": "Ramzan Ji Ka Hattha",
+    "latitude": 26.305077299999997,
+    "longitude": 73.0967126,
+    "place_id": "ChIJlyK1sM7yQTkRdODdlgOj4L0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlyK1sM7yQTkRdODdlgOj4L0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:34:22"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gurkha kitchen",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "262544",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 125,
+    "address": "India - Nepal Rd, Dharchula, Uttarakhand 262545",
+    "area": "262544",
+    "latitude": 29.845522499999998,
+    "longitude": 80.53531679999999,
+    "place_id": "ChIJ940gevO1pjkRu1uZqOIARoU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ940gevO1pjkRu1uZqOIARoU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:18:53"
+  },
+  {
+    "business_name": "KMVN Manas Hotel, Dharchula",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "262544",
+    "phone_number": "+91 86500 02520",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 576,
+    "address": "1, India - Nepal Rd, Khalanga, Dharchula, Uttarakhand 262545",
+    "area": "Khalanga",
+    "latitude": 29.8471068,
+    "longitude": 80.5424549,
+    "place_id": "ChIJWTz_x520pjkR_RG6TDIf1G4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWTz_x520pjkR_RG6TDIf1G4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:18:54"
+  }
+]

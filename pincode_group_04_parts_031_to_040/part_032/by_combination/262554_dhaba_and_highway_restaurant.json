@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhatia Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "262554",
+    "phone_number": "+91 98978 69392",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 1118,
+    "address": "8XP6+8Q9, Unnamed Road, Tyagi Market, Prem Nagar, Dehradun, Shahpur Santore, Uttarakhand 248007",
+    "area": "Tyagi Market, Prem Nagar",
+    "latitude": 30.3357858,
+    "longitude": 77.9619948,
+    "place_id": "ChIJ05wbx4IqCTkRGSWUCRw1q5M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ05wbx4IqCTkRGSWUCRw1q5M",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:33:02"
+  },
+  {
+    "business_name": "Swad Restaurant & Ac family hall",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "262554",
+    "phone_number": "+91 97841 03414",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Dechhu, Rajasthan 342314",
+    "area": "262554",
+    "latitude": 26.7660606,
+    "longitude": 72.3297704,
+    "place_id": "ChIJBx4oDKkhQTkRS3tnp0PpGjY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBx4oDKkhQTkRS3tnp0PpGjY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:33:03"
+  }
+]

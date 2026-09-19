@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MULTAN GENERAL STORE",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Seasonal Goods Store, Wholesaler",
+    "pincode": "262576",
+    "phone_number": "+91 93688 22061",
+    "website": "https://www.instagram.com/multan_general_store/",
+    "rating": 4.9,
+    "reviews_count": 10,
+    "address": "Infront of Vikas Confectionery, Main Chauraha, Sitarganj, Uttarakhand 262405",
+    "area": "262576",
+    "latitude": 28.9283066,
+    "longitude": 79.7024196,
+    "place_id": "ChIJPWt0zQxnoDkRqKlJol5onW4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPWt0zQxnoDkRqKlJol5onW4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:40:01"
+  },
+  {
+    "business_name": "Randheer Departmental Store",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "262576",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Rampuram Colony, Kharagpura Devipura, Uttarakhand 244713",
+    "area": "Rampuram Colony",
+    "latitude": 29.1899981,
+    "longitude": 78.9822619,
+    "place_id": "ChIJuVmetfhCCjkRiFiIYSIvfE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuVmetfhCCjkRiFiIYSIvfE8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:40:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harsit Pandey Sweets and Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "262580",
+    "phone_number": "+91 81939 57233",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Deepaswar waterfall, and kalika mata golu devta Mandir, हाईवे टू लोहाघाट, अल्मोड़ा टू लोहाघाट, मोटर मार्ग, near by jageshwar dham, mauteshwar, छड़ौजा, Uttarakhand 263625",
+    "area": "mauteshwar",
+    "latitude": 29.5229324,
+    "longitude": 79.7557274,
+    "place_id": "ChIJ7UgL1HfHoDkRiLdyF3ESOAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7UgL1HfHoDkRiLdyF3ESOAc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:41:55"
+  },
+  {
+    "business_name": "फॅमिली रेस्टोरेंट",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "262580",
+    "phone_number": "+91 70371 41125",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Petsal Rd, Kina Lagga Sangroli, Uttarakhand 263625",
+    "area": "262580",
+    "latitude": 29.5407515,
+    "longitude": 79.75160749999999,
+    "place_id": "ChIJAQCUyZrHoDkRdZCRN8cHMTo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQCUyZrHoDkRdZCRN8cHMTo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:41:57"
+  }
+]

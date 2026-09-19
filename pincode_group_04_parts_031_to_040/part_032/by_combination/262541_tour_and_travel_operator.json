@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Uttarakhand Travels agency",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "262541",
+    "phone_number": "+91 84750 46938",
+    "website": "https://www.uttarakhandtours.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Gauchar, Uttarakhand 246429",
+    "area": "262541",
+    "latitude": 30.2853757,
+    "longitude": 79.1650286,
+    "place_id": "ChIJ48_hcqLPCTkRTydkFSE4Bas",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ48_hcqLPCTkRTydkFSE4Bas",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:14:09"
+  },
+  {
+    "business_name": "MAA TOUR TRAVELS",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "262541",
+    "phone_number": "+91 95203 84971",
+    "website": "https://maatourtravel.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Haripur Kalan, Motichoor, Dheradun, Uttarakhand 249205",
+    "area": "Haripur Kalan",
+    "latitude": 30.007913499999997,
+    "longitude": 78.1876784,
+    "place_id": "ChIJrcJABQI5CTkR8_iQ3b9KIXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrcJABQI5CTkR8_iQ3b9KIXA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:14:09"
+  }
+]

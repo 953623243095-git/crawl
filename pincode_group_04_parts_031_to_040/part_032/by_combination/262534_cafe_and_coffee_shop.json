@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nature's Cafè",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Coffee shop, Hotel, Pizza delivery, Restaurant, Tea store",
+    "pincode": "262534",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Nature's Cafè, Tea garden, Shyamkhet, Uttarakhand 263132",
+    "area": "Shyamkhet",
+    "latitude": 29.388793999999997,
+    "longitude": 79.5417482,
+    "place_id": "ChIJaxvE-RyjoDkRPvHj4ynBEcg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaxvE-RyjoDkRPvHj4ynBEcg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:10:10"
+  },
+  {
+    "business_name": "Cafe Hill View Pithoragarh",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Hill Station",
+    "pincode": "262534",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "H7JM+5X, Suwakote, Road, Jakh Pant, San, Uttarakhand 262521",
+    "area": "262534",
+    "latitude": 29.5803963,
+    "longitude": 80.28498669999999,
+    "place_id": "ChIJOwPyoIc7oTkRYrj4B4qvpj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOwPyoIc7oTkRYrj4B4qvpj4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:10:11"
+  }
+]

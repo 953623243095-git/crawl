@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "\" Kitchen Collection & Cycle Store \"",
+    "search_category": "Shops",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "262531",
+    "phone_number": "+91 94113 49500",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kitchen Collection, near Bus Station, Dhanoli, Berinag, Uttarakhand 262531",
+    "area": "Dhanoli",
+    "latitude": 29.779095899999998,
+    "longitude": 80.0524272,
+    "place_id": "ChIJG3S_ARrVoDkRE9n_fMdftZg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG3S_ARrVoDkRE9n_fMdftZg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:06:21"
+  },
+  {
+    "business_name": "Desi wine shop",
+    "search_category": "Shops",
+    "primary_category": "Wine store",
+    "all_categories": "Wine store",
+    "pincode": "262531",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "Q3H3+H87, Berinag, Uttarakhand 262531",
+    "area": "262531",
+    "latitude": 29.778907,
+    "longitude": 80.05329809999999,
+    "place_id": "ChIJ3yOT5PTVoDkRBGYhjnyAoX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3yOT5PTVoDkRBGYhjnyAoX4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:06:21"
+  }
+]

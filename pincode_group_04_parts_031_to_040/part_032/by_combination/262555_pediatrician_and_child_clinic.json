@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Sunil Jain",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "262555",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "W3WG+R4H, near vetenery hospital, Dindori, Madhya Pradesh 481880",
+    "area": "262555",
+    "latitude": 22.9470533,
+    "longitude": 81.0753652,
+    "place_id": "ChIJyZtnfZMlhzkRzSmMU4aqxxM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyZtnfZMlhzkRzSmMU4aqxxM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:35:07"
+  },
+  {
+    "business_name": "Dr. Ravi Ambey",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, Child health care center, Neonatal physician, Pediatrician",
+    "pincode": "262555",
+    "phone_number": "+91 751 245 3519",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 39,
+    "address": "JAH Campus, GR Medical College, 14 B, Kampoo Rd, near Madhav Dispensary, J. A. Hospital Campus, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "area": "J. A. Hospital Campus, Lashkar",
+    "latitude": 26.1934985,
+    "longitude": 78.1605081,
+    "place_id": "ChIJqzksnMzFdjkRRJST47XZeOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqzksnMzFdjkRRJST47XZeOA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:35:07"
+  }
+]

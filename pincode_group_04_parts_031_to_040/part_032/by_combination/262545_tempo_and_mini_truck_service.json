@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SKY Tempo Service",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service, Packaging company, Shipping service",
+    "pincode": "262545",
+    "phone_number": "+91 97178 61223",
+    "website": "http://www.skytemposervice.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "D, 50, Solanki Market, Dwarka Sector-3, Madhu Vihar, New Delhi, Delhi, 110059",
+    "area": "Solanki Market, Dwarka Sector-3, Madhu Vihar",
+    "latitude": 28.601947,
+    "longitude": 77.06140599999999,
+    "place_id": "ChIJ09C0WikbDTkRtWfCaegw1X0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ09C0WikbDTkRtWfCaegw1X0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:21:09"
+  },
+  {
+    "business_name": "J.D. Automobile",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Truck repair shop",
+    "all_categories": "Truck repair shop",
+    "pincode": "262545",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "37WC+FVG, Geeta Nagar, Rishikesh, Uttarakhand 249201",
+    "area": "Geeta Nagar",
+    "latitude": 30.096176699999997,
+    "longitude": 78.2722083,
+    "place_id": "ChIJDd_MTfg9CTkRceAGOuMry3w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDd_MTfg9CTkRceAGOuMry3w",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:21:10"
+  }
+]

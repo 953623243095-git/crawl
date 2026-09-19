@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Future Step",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Shoe factory, Sportswear store",
+    "pincode": "262552",
+    "phone_number": "+91 95289 60002",
+    "website": "https://future-step-shoes.grexa.site/",
+    "rating": 4.8,
+    "reviews_count": 121,
+    "address": "Tikonia Crossing, opp. ICICI Bank, ROAD, Heera Nagar, NAINITAL, Haldwani, Uttarakhand 263139",
+    "area": "ROAD, Heera Nagar",
+    "latitude": 29.2241337,
+    "longitude": 79.5303804,
+    "place_id": "ChIJ6-gmZx6boDkRejpSiy_KZc0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6-gmZx6boDkRejpSiy_KZc0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:29:38"
+  },
+  {
+    "business_name": "RITIK Shoes House",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "262552",
+    "phone_number": "+91 96398 24273",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "1 Dewri, Uttarakhand 262401",
+    "area": "262552",
+    "latitude": 29.179441699999998,
+    "longitude": 79.1915325,
+    "place_id": "ChIJR1XkikhvCjkRN8fgu84jv98",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR1XkikhvCjkRN8fgu84jv98",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:29:38"
+  }
+]

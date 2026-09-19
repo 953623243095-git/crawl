@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Medical",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "262545",
+    "phone_number": "+91 91054 31522",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Krishna Medical, near Kohli Mall, Anwar Chawk, Dharchula, Uttarakhand 262545",
+    "area": "Anwar Chawk",
+    "latitude": 29.849086999999997,
+    "longitude": 80.5411799,
+    "place_id": "ChIJee7tagK1pjkR1W60X1Z6R2w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJee7tagK1pjkR1W60X1Z6R2w",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:20:50"
+  },
+  {
+    "business_name": "Bisht medical and pathology",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "262545",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RGWP+WQJ, Hospital line, Dharchula, Uttarakhand 262545",
+    "area": "262545",
+    "latitude": 29.8473422,
+    "longitude": 80.5369058,
+    "place_id": "ChIJewuBBQC1pjkRCiUum4pKKXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJewuBBQC1pjkRCiUum4pKKXU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:20:50"
+  }
+]

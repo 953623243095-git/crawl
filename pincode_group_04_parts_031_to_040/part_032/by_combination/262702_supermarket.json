@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SS.SUPER STORE",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "262702",
+    "phone_number": "+91 97922 66337",
+    "website": "https://instagram.com/ss_super_store?igshid=OGQ5ZDc2ODk2ZA==",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Sundarwal, Mojmabad, Uttar Pradesh 261506",
+    "area": "262702",
+    "latitude": 28.0718543,
+    "longitude": 80.7294783,
+    "place_id": "ChIJp2E3GCdLnzkRuEATZlPobag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp2E3GCdLnzkRuEATZlPobag",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:45:18"
+  },
+  {
+    "business_name": "Easyday Club",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Indian grocery store",
+    "pincode": "262702",
+    "phone_number": "+91 77188 28972",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 55,
+    "address": "PLOT NO, 584, Kheri Rd, near to VALUE PLUS STORE, Maharaj Nagar, Lakhimpur, Uttar Pradesh 262701",
+    "area": "Maharaj Nagar",
+    "latitude": 27.9341382,
+    "longitude": 80.7887792,
+    "place_id": "ChIJebXDh6o1nzkR6V9CqQr4uG0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJebXDh6o1nzkR6V9CqQr4uG0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:45:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Srishti Fast Food",
+    "search_category": "Organic Food Store",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "262551",
+    "phone_number": "+91 99978 08903",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "नियर बाय रघुनाथ मेडिकल स्टोर, Tehsil Rd, G.I.C. Ward, Didihat, Uttarakhand 262551",
+    "area": "G.I.C. Ward",
+    "latitude": 29.7998637,
+    "longitude": 80.2526718,
+    "place_id": "ChIJA8rivefTpjkR6z4s5wFaUVs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA8rivefTpjkR6z4s5wFaUVs",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:27:34"
+  },
+  {
+    "business_name": "Organic India Store - Vibhuti Khand, Gomti Nagar",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Organic shop, Wellness center",
+    "pincode": "262551",
+    "phone_number": "+91 80 3776 2787",
+    "website": "https://store.organicindia.com/organic-india/lucknow/gomti-nagar/organic-india-store-in-gomti-nagar-lucknow--5fcc5e28-6998-405e-98ff-93b50827422d/home",
+    "rating": 4.9,
+    "reviews_count": 219,
+    "address": "First Floor, Urbanac Building, Plot No A-1A, inside Fabindia Experience Centre, above Croma, Vibhuti Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vibhuti Khand, Gomti Nagar",
+    "latitude": 26.8677058,
+    "longitude": 81.0130253,
+    "place_id": "ChIJJ1pJkeDjmzkRLTw3MK3gfvA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ1pJkeDjmzkRLTw3MK3gfvA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:27:34"
+  }
+]

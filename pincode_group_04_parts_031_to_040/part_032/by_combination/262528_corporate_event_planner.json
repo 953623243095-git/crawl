@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Event Evolution",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "262528",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Event Evolution, 262528, India",
+    "area": "262528",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJqYzr2L7f5iERoSrgiWLpGc0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqYzr2L7f5iERoSrgiWLpGc0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:00:26"
+  },
+  {
+    "business_name": "Bluebell Petals Events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "262528",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Picture Palace, Mall Rd, near Liberary, Musoorie, The Mall Road, Mussoorie, Uttarakhand 248179",
+    "area": "Musoorie, The Mall Road",
+    "latitude": 30.454746399999998,
+    "longitude": 78.0819851,
+    "place_id": "ChIJRQdnIcTQCDkRB1L8_KM4dRQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRQdnIcTQCDkRB1L8_KM4dRQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:00:26"
+  }
+]

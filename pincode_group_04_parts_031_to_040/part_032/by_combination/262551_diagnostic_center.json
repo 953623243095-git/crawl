@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goodluck Diagnostic centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "X-ray lab",
+    "all_categories": "X-ray lab",
+    "pincode": "262551",
+    "phone_number": "+91 94515 62465",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Doharighat, Uttar Pradesh 275303",
+    "area": "262551",
+    "latitude": 26.266229199999998,
+    "longitude": 83.5095472,
+    "place_id": "ChIJ28FxSFGBkTkRnpapPrvtaog",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ28FxSFGBkTkRnpapPrvtaog",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:28:03"
+  },
+  {
+    "business_name": "S.N.DIagnostic center",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Pathologist",
+    "all_categories": "Pathologist",
+    "pincode": "262551",
+    "phone_number": "+91 98075 59233",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Rd, near icici Bank atm, hariya, Salempur, Uttar Pradesh 274509",
+    "area": "hariya",
+    "latitude": 26.291093399999998,
+    "longitude": 83.9287981,
+    "place_id": "ChIJSaNjUGE1kjkRmFaXyHOSHvM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSaNjUGE1kjkRmFaXyHOSHvM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:28:03"
+  }
+]

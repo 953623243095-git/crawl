@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baand-kisan",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop",
+    "pincode": "262528",
+    "phone_number": "+91 78386 46735",
+    "website": "https://baandkisan.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Swastik Complex, near Post Office, Bhogpur, Dehradun, Uttarakhand 248143",
+    "area": "262528",
+    "latitude": 30.204573399999997,
+    "longitude": 78.2321922,
+    "place_id": "ChIJy5qTSjsjCTkRvtBqx-7pNKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy5qTSjsjCTkRvtBqx-7pNKQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 05:59:20"
+  },
+  {
+    "business_name": "Hillpure Organic",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop, Food Processing Company, Natural goods store",
+    "pincode": "262528",
+    "phone_number": "+91 72170 25084",
+    "website": "http://www.hillpureorganic.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hillpure Organic Vikasnagar , Bithoria No-1, Tilaknagar, Kusumkhera, Haldwani, Uttarakhand 263139",
+    "area": "Tilaknagar, Kusumkhera",
+    "latitude": 29.222685799999997,
+    "longitude": 79.5087028,
+    "place_id": "ChIJ42PJAJWboDkRy3d3rdwpN2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ42PJAJWboDkRy3d3rdwpN2U",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 05:59:21"
+  }
+]

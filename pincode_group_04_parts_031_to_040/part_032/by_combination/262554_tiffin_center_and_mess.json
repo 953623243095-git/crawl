@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samruddhi Mess",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "262554",
+    "phone_number": "+91 98929 30512",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "4XQX+XJR Krishna Lila Appartment, Gothivali Village, Sector 30, Rabale, Navi Mumbai, Maharashtra 400701",
+    "area": "Gothivali Village, Sector 30, Rabale",
+    "latitude": 19.1400015,
+    "longitude": 72.9990055,
+    "place_id": "ChIJmwEMpXbB5zsRAO4sK4ByFXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmwEMpXbB5zsRAO4sK4ByFXA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:33:01"
+  },
+  {
+    "business_name": "The Tiffin Co.",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "262554",
+    "phone_number": "+91 96726 74446",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 96,
+    "address": "Poodar Circle, Sitapura Industrial Area, Sitapura, Jaipur, Rajasthan 302022",
+    "area": "Sitapura Industrial Area, Sitapura",
+    "latitude": 26.7809089,
+    "longitude": 75.8294502,
+    "place_id": "ChIJZVq_yYvJbTkRyiYDcvOM6nY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZVq_yYvJbTkRyiYDcvOM6nY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:33:02"
+  }
+]

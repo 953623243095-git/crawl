@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rovers Homestay",
+    "search_category": "Hotel",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay, Lodging",
+    "pincode": "262543",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "P8P2+Q9V, Bhagichaura Rd, Singali, Bastari, Uttarakhand 262543",
+    "area": "262543",
+    "latitude": 29.7369967,
+    "longitude": 80.30092359999999,
+    "place_id": "ChIJtaClhkMzoTkR27ZY35032PU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtaClhkMzoTkR27ZY35032PU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:18:02"
+  },
+  {
+    "business_name": "Shivay Hotel & Resort",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "262543",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Jimtad, Dharchula, Suwa, Uttarakhand 262545",
+    "area": "Jimtad",
+    "latitude": 29.832787699999997,
+    "longitude": 80.5175895,
+    "place_id": "ChIJLXf4HrK1pjkRwwt1BunYiAQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLXf4HrK1pjkRwwt1BunYiAQ",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:18:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sengar Colddrink Store",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "262550",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "69CG+8CH, Mohanpur Kudari, Uttar Pradesh 285128",
+    "area": "262550",
+    "latitude": 26.2208139,
+    "longitude": 79.37612179999999,
+    "place_id": "ChIJD-ljxI4ndjkR6jgfeeriVi8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD-ljxI4ndjkR6jgfeeriVi8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:27:19"
+  },
+  {
+    "business_name": "Sharda Bhavani Cold Storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "262550",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 11,
+    "address": "7WPM+QQQ, Malmaliya, Bihar 852125",
+    "area": "262550",
+    "latitude": 26.2869621,
+    "longitude": 86.9344741,
+    "place_id": "ChIJodu3e4Os7zkRvc7ipeihno8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJodu3e4Os7zkRvc7ipeihno8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:27:22"
+  }
+]

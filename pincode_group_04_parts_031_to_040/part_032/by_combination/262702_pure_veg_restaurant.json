@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandra Marwadi Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Breakfast restaurant, Family restaurant, Fast food restaurant, Food court, Guest house, Indian takeaway, Lunch restaurant, South Indian restaurant, Restaurant",
+    "pincode": "262702",
+    "phone_number": "+91 90444 33866",
+    "website": "https://chandradinein.com/",
+    "rating": 4,
+    "reviews_count": 3288,
+    "address": "Shringar Haat, Walking distance from Hanuman Ghadi and, Janmabhoomi Path, Tulsi Nagar, Ayodhya, Uttar Pradesh 224123",
+    "area": "Tulsi Nagar",
+    "latitude": 26.7981004,
+    "longitude": 82.20378529999999,
+    "place_id": "ChIJuzztdpIHmjkRaW3MqaUbBkc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuzztdpIHmjkRaW3MqaUbBkc",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:45:28"
+  },
+  {
+    "business_name": "Radha Krishna Veg. Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Chinese restaurant, Health food restaurant, Indian restaurant, Italian restaurant, Takeout restaurant, Punjabi restaurant, Restaurant, South Indian restaurant, Vegan restaurant",
+    "pincode": "262702",
+    "phone_number": "+91 22 4072 2222",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Hotel Radha Krishna, Viral Apartments, 3, Swami Vivekanand Rd, opposite Shoppers Stop, Zalawad Nagar, Bharucha Baug, Parsi Colony, Andheri West, Mumbai, Maharashtra 400058",
+    "area": "Zalawad Nagar, Bharucha Baug, Parsi Colony, Andheri West",
+    "latitude": 19.1147673,
+    "longitude": 72.8431243,
+    "place_id": "ChIJm5fdJTzI5zsRlne-KSJ3-WE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm5fdJTzI5zsRlne-KSJ3-WE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:45:28"
+  }
+]

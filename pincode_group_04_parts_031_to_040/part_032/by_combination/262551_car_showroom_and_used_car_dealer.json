@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sardar Motors (Car Bazar)",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "262551",
+    "phone_number": "+91 512 323 0011",
+    "website": "http://sardarmotorscarbazar.net/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "LOWER GROUND FLOOR, BHR COMPLEX, 119/538-A, opp. Chamanlal market, Chapman Ganj, Gumti No.5, Darshan Purwa, Kanpur, Uttar Pradesh 208012",
+    "area": "Chapman Ganj, Gumti No.5, Darshan Purwa",
+    "latitude": 26.4652067,
+    "longitude": 80.3125166,
+    "place_id": "ChIJw2RMWH84nDkRyW7wcsGiZ-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw2RMWH84nDkRyW7wcsGiZ-M",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:28:09"
+  },
+  {
+    "business_name": "YASH CAR BAZAAR | Second Hand Car Dealership in Gorakhpur |",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "262551",
+    "phone_number": "+91 99364 89111",
+    "website": "http://www.yashcarbazaar.com/",
+    "rating": 4.4,
+    "reviews_count": 292,
+    "address": "YASH CAR BAZAAR, Chowk, Bansgaon Colony, Paidleganj, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Bansgaon Colony, Paidleganj",
+    "latitude": 26.743160099999997,
+    "longitude": 83.38454,
+    "place_id": "ChIJl_6WSnv9kDkRnaXunyazavw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl_6WSnv9kDkRnaXunyazavw",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:28:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Little Munsyari",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "262553",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "36HQ+XHX, Munsyari, Uttarakhand 262554",
+    "area": "262553",
+    "latitude": 30.079997199999998,
+    "longitude": 80.238976,
+    "place_id": "ChIJ6655N4TcpjkR_OWTW7g_MlU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6655N4TcpjkR_OWTW7g_MlU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:32:48"
+  },
+  {
+    "business_name": "Retailway Mart sama",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "262553",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X2FX+49X, Sama, Bari Panyali, Uttarakhand 263633",
+    "area": "262553",
+    "latitude": 29.9728557,
+    "longitude": 80.04849159999999,
+    "place_id": "ChIJgfE-BQAnpzkRbqrr6giNajY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgfE-BQAnpzkRbqrr6giNajY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:32:48"
+  }
+]

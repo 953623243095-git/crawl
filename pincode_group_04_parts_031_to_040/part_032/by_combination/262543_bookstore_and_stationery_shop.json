@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kushal Book Point",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Magazine store, Newsstand",
+    "pincode": "262543",
+    "phone_number": "+91 99777 37727",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 117,
+    "address": "Shop No.3, Nutan Complex, Old Bus Stand Rd, Raipur, Chhattisgarh 492001",
+    "area": "262543",
+    "latitude": 21.2436418,
+    "longitude": 81.6370215,
+    "place_id": "ChIJgb1zqKLdKDoRC2XvU93qyGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgb1zqKLdKDoRC2XvU93qyGg",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:18:14"
+  },
+  {
+    "business_name": "Deepali Stationers",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "262543",
+    "phone_number": "+91 90586 26390",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 10,
+    "address": "Malviya Chwok, Bhagirath Kunj, Roorkee, Uttarakhand 247667",
+    "area": "Bhagirath Kunj",
+    "latitude": 29.8594998,
+    "longitude": 77.8778943,
+    "place_id": "ChIJBQpOcuazDjkR2JD2rsbU_UA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBQpOcuazDjkR2JD2rsbU_UA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:18:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Softy Corner",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "262533",
+    "phone_number": "+91 172 406 9988",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "87-88, Jan Marg, Shopping Plaza, 17D, Sector 17, Chandigarh, 160017",
+    "area": "Shopping Plaza, 17D, Sector 17",
+    "latitude": 30.7406379,
+    "longitude": 76.7815638,
+    "place_id": "ChIJq6qqqgvtDzkRNkK7BkMVzW8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqgvtDzkRNkK7BkMVzW8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:08:24"
+  },
+  {
+    "business_name": "Gajendra Sweets and Dairy Products",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop, Sweet shop",
+    "pincode": "262533",
+    "phone_number": "+91 99978 64626",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "New Cantonment Rd, Hathibarkala, Dehradun, Uttarakhand 248001",
+    "area": "Hathibarkala",
+    "latitude": 30.3409588,
+    "longitude": 78.05059969999999,
+    "place_id": "ChIJZXa1dtkpCTkRukxeS1RaYTo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZXa1dtkpCTkRukxeS1RaYTo",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:08:24"
+  }
+]

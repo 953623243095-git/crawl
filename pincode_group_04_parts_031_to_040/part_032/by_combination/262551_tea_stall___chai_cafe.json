@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TEA WORLD CAFE",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "262551",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "chowk, opposite S.K High school, Pandaul, Bihar 847234",
+    "area": "262551",
+    "latitude": 26.2486379,
+    "longitude": 86.07677919999999,
+    "place_id": "ChIJ_QMqBpHP7TkRDK2CEW4r8ok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_QMqBpHP7TkRDK2CEW4r8ok",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:27:41"
+  },
+  {
+    "business_name": "Giani Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea house",
+    "all_categories": "Tea house, Breakfast restaurant, Coffee shop, Snack bar, Vegetarian restaurant",
+    "pincode": "262551",
+    "phone_number": "+91 99144 44416",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4971,
+    "address": "JVMG+R5V, Cooper Rd, near Giani Tea Stall, opposite Inderpuri Foods, Crystal Chowk, Near, INA Colony, Amritsar, Punjab 143001",
+    "area": "Crystal Chowk, Near, INA Colony",
+    "latitude": 31.634624,
+    "longitude": 74.875427,
+    "place_id": "ChIJayA5bVZjGTkR3a0e6cFKzmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJayA5bVZjGTkR3a0e6cFKzmY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:27:43"
+  }
+]

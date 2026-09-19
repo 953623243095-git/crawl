@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naresh Pal",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "262540",
+    "phone_number": "+91 78170 01019",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H6RF X2G, Pithoragarh, Uttarakhand 262501",
+    "area": "262540",
+    "latitude": 29.592458999999998,
+    "longitude": 80.2225606,
+    "place_id": "ChIJVZHiLlkloTkRxjAvYMXlSNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVZHiLlkloTkRxjAvYMXlSNw",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:11:59"
+  },
+  {
+    "business_name": "Prateek Cloth Emporium",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Shopping mall",
+    "pincode": "262540",
+    "phone_number": "+91 5967 222 282",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 10,
+    "address": "Rai Bahadur Prem Ballabh Kharkwal Marg Kharkwal Market, Dharchula, Uttarakhand 262545",
+    "area": "262540",
+    "latitude": 29.8495872,
+    "longitude": 80.5415537,
+    "place_id": "ChIJs8_t_pu0pjkR59Qs_XoGW-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs8_t_pu0pjkR59Qs_XoGW-o",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:11:59"
+  }
+]

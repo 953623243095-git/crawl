@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kharayat General Store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "262551",
+    "phone_number": "+91 5964 232 535",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "R722+J4F, Didihat Uttarakhand, Didihat, Uttarakhand 262551",
+    "area": "262551",
+    "latitude": 29.801557799999998,
+    "longitude": 80.2503,
+    "place_id": "ChIJY6m8SJMyoTkRxEpcpw0HucU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY6m8SJMyoTkRxEpcpw0HucU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:27:34"
+  },
+  {
+    "business_name": "Bablu joshi grocery store",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "262551",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W6HJ+9XP, Bansbagad, Uttarakhand 262555",
+    "area": "262551",
+    "latitude": 29.9284653,
+    "longitude": 80.232466,
+    "place_id": "ChIJ6zMlVQDRpjkRF4m0zHZAC-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6zMlVQDRpjkRF4m0zHZAC-s",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:27:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhami brothers",
+    "search_category": "Shops",
+    "primary_category": "Medical group",
+    "all_categories": "Medical group, Lodging",
+    "pincode": "262576",
+    "phone_number": "+91 87554 48253",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "RGMF+QH5, Delhi - Dharchula Hwy, Dharchula, Suwa, Uttarakhand 262545",
+    "area": "262576",
+    "latitude": 29.834388699999998,
+    "longitude": 80.5239792,
+    "place_id": "ChIJ2yaDuW21pjkRf4b_vfJEoWI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2yaDuW21pjkRf4b_vfJEoWI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:41:45"
+  },
+  {
+    "business_name": "Kishor Bisht",
+    "search_category": "Shops",
+    "primary_category": "Parapharmacy",
+    "all_categories": "Parapharmacy",
+    "pincode": "262576",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "QCW7+XCW, Baluwakote(gagra, Suwa, Uttarakhand 262576",
+    "area": "262576",
+    "latitude": 29.7974788,
+    "longitude": 80.4135925,
+    "place_id": "ChIJc3yW3W41oTkRT4pvTSiVzB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc3yW3W41oTkRT4pvTSiVzB4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:41:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Evergreen & Fresh",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "262550",
+    "phone_number": "+91 75682 86748",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 27,
+    "address": "B-288, Sukhram Nagar, Soorsagar, Jodhpur, Rajasthan 342024",
+    "area": "Sukhram Nagar, Soorsagar",
+    "latitude": 26.306455,
+    "longitude": 72.9997194,
+    "place_id": "ChIJ6xD3PhuNQTkRFeKNx78Lgjk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6xD3PhuNQTkRFeKNx78Lgjk",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:25:45"
+  },
+  {
+    "business_name": "Kheteshwar Kirana Store",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "262550",
+    "phone_number": "+91 89468 70381",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 209,
+    "address": "M.I.A. 1st Phase, Basni, Basni, Jodhpur, Rajasthan 342005",
+    "area": "M.I.A. 1st Phase, Basni, Basni",
+    "latitude": 26.229219699999998,
+    "longitude": 73.0043408,
+    "place_id": "ChIJWZpRvfqLQTkRfXvXhdBuAI4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWZpRvfqLQTkRfXvXhdBuAI4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:25:45"
+  }
+]

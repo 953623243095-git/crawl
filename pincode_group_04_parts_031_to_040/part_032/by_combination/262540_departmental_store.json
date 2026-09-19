@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "food department warehouse",
+    "search_category": "Departmental Store",
+    "primary_category": "Government ration shop",
+    "all_categories": "Government ration shop",
+    "pincode": "262540",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M7HC+RCC, Kanalichinna, Surur, Uttarakhand 262541",
+    "area": "262540",
+    "latitude": 29.6795506,
+    "longitude": 80.27102239999999,
+    "place_id": "ChIJt-x49iAvoTkRSOALQWvAKDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt-x49iAvoTkRSOALQWvAKDA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:11:44"
+  },
+  {
+    "business_name": "K D General store",
+    "search_category": "Departmental Store",
+    "primary_category": "Shop supermarket furniture store",
+    "all_categories": "Shop supermarket furniture store",
+    "pincode": "262540",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "H6VR+X89, Pithoragarh, Uttarakhand 262540",
+    "area": "262540",
+    "latitude": 29.5949088,
+    "longitude": 80.24085319999999,
+    "place_id": "ChIJ3eoJzYAloTkRtafWUHhyc_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3eoJzYAloTkRtafWUHhyc_M",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:11:44"
+  }
+]

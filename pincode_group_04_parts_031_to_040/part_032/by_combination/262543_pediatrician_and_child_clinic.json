@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Sanjiv agrawal",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician",
+    "pincode": "262543",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "3538, Naina Palace Rd, New Patel Nagar, Patel Nagar, Orai, Uttar Pradesh 285001",
+    "area": "New Patel Nagar, Patel Nagar",
+    "latitude": 25.9955479,
+    "longitude": 79.4628783,
+    "place_id": "ChIJsa0_HwB_nTkRqZNfo-efYo4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsa0_HwB_nTkRqZNfo-efYo4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:17:28"
+  },
+  {
+    "business_name": "Child Care Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "262543",
+    "phone_number": "+91 93361 09382",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "B-48, Karrahi Rd Near Gulabi Building, Vishwa Bank, Karrahi Rd, Near Gulabi Building, Vishwa Bank, Barra World Bank, Damodar Nagar, Kanpur, Uttar Pradesh 208027",
+    "area": "Near Gulabi Building, Vishwa Bank, Barra World Bank, Damodar Nagar",
+    "latitude": 26.4232199,
+    "longitude": 80.3036265,
+    "place_id": "ChIJl1NOZLRHnDkRw57x_sqJpeY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl1NOZLRHnDkRw57x_sqJpeY",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:17:29"
+  }
+]

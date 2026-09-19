@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maati Nature Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "262544",
+    "phone_number": "+91 73511 43510",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sarmoli, Munsyari, Uttarakhand 262554",
+    "area": "Sarmoli",
+    "latitude": 30.079293999999997,
+    "longitude": 80.23549,
+    "place_id": "ChIJKQQMh6HdpjkRlw5McwBqOZ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKQQMh6HdpjkRlw5McwBqOZ8",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:18:55"
+  },
+  {
+    "business_name": "Old town cafe & restaurant",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "262544",
+    "phone_number": "+91 87559 45298",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Thal Road, near Bus Station, Munsyari, Uttarakhand 262554",
+    "area": "262544",
+    "latitude": 30.064449,
+    "longitude": 80.23808269999999,
+    "place_id": "ChIJL-ikfTTbpjkRVBbN11eu2ng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL-ikfTTbpjkRVBbN11eu2ng",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:18:56"
+  }
+]

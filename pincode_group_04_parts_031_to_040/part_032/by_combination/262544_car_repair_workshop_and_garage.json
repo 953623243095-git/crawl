@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Janta garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "262544",
+    "phone_number": "+91 70378 02287",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tala chharchhum, Talla, Suwa, Uttarakhand 262576",
+    "area": "262544",
+    "latitude": 29.8029421,
+    "longitude": 80.4585504,
+    "place_id": "ChIJyYwgL5o1oTkRML1K5fmvAj0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyYwgL5o1oTkRML1K5fmvAj0",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:19:16"
+  },
+  {
+    "business_name": "Shiwans garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "262544",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5 H14, Api, Sudurpashchim Province 10100, Nepal",
+    "area": "262544",
+    "latitude": 29.8360511,
+    "longitude": 80.53395189999999,
+    "place_id": "ChIJXTitpTG1pjkR31vuSSc1lIE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXTitpTG1pjkR31vuSSc1lIE",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:19:16"
+  }
+]

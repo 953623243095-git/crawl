@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Kutumb Cafe & Kitchen",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "262553",
+    "phone_number": "+91 70783 17513",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "Madkot road, near vvmic, Bunga, Munsyari, Uttarakhand 262554",
+    "area": "262553",
+    "latitude": 30.0700109,
+    "longitude": 80.2376968,
+    "place_id": "ChIJN3Ndo6LbpjkRdSUda_HMlDI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN3Ndo6LbpjkRdSUda_HMlDI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:31:18"
+  },
+  {
+    "business_name": "Bilju inn restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "262553",
+    "phone_number": "+91 76687 09345",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Village, Malla Ghorpatta, Munsyari, Uttarakhand 262554",
+    "area": "262553",
+    "latitude": 30.0628958,
+    "longitude": 80.23656369999999,
+    "place_id": "ChIJrQ61GgDbpjkRjrrU8lIuvN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrQ61GgDbpjkRjrrU8lIuvN4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:31:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Upadhyay General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "262534",
+    "phone_number": "+91 99279 07640",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Almora - Berinag Rd, Guraina, Raiagar, Uttarakhand 262534",
+    "area": "262534",
+    "latitude": 29.7404376,
+    "longitude": 80.0470686,
+    "place_id": "ChIJ--FJA8TVoDkRM8fC6eCC5Tw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ--FJA8TVoDkRM8fC6eCC5Tw",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:10:01"
+  },
+  {
+    "business_name": "Veera Homestay",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "262534",
+    "phone_number": "+91 70885 43104",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Patal Bhuvaneshwar, Uttarakhand 262522",
+    "area": "262534",
+    "latitude": 29.6882156,
+    "longitude": 80.0914676,
+    "place_id": "ChIJOwetqKjXoDkR9yZ3E3vnLzU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOwetqKjXoDkR9yZ3E3vnLzU",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:10:03"
+  }
+]

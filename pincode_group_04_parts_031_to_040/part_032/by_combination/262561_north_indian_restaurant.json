@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Bhagwati Restaurant Danya",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Fast food restaurant",
+    "pincode": "262561",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Pithoragarh - Almora Rd, Danya, Sagar, Uttarakhand 263622",
+    "area": "262561",
+    "latitude": 29.5658359,
+    "longitude": 79.9326621,
+    "place_id": "ChIJgz8jhbfaoDkRnivZxaoFQOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgz8jhbfaoDkRnivZxaoFQOA",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:36:37"
+  },
+  {
+    "business_name": "Chitra Masale",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "262561",
+    "phone_number": "+91 97606 62759",
+    "website": "https://www.chitramasale.com/",
+    "rating": 4.9,
+    "reviews_count": 25,
+    "address": "Plot No 269, Mathura - Bharatpur Rd, near Lee Resort, Mathura, Uttar Pradesh 281006",
+    "area": "262561",
+    "latitude": 27.4512955,
+    "longitude": 77.662566,
+    "place_id": "ChIJU1GjWLN3czkRfBDi_tj0Py4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU1GjWLN3czkRfBDi_tj0Py4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:36:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fab Decorations",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist, Children's party service, Florist, Flower designer, Party planner",
+    "pincode": "262533",
+    "phone_number": "+91 83608 45418",
+    "website": "https://fabdecorations.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Phase 10, sector 63, Sahibzada Ajit Singh Nagar, Punjab 160062",
+    "area": "Phase 10, sector 63",
+    "latitude": 30.6924457,
+    "longitude": 76.7438444,
+    "place_id": "ChIJX1tvO2DtDzkR-9BnD63-5gs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX1tvO2DtDzkR-9BnD63-5gs",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:09:10"
+  },
+  {
+    "business_name": "Gubbarewala",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Party store",
+    "all_categories": "Party store",
+    "pincode": "262533",
+    "phone_number": "+91 75348 58308",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Banjarawala Kargi Rd, Banjarawala, Dehradun, Uttarakhand 248121",
+    "area": "Banjarawala",
+    "latitude": 30.2754363,
+    "longitude": 78.0337168,
+    "place_id": "ChIJ5Zw9JQIpCTkRh4LVpzhh6w4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Zw9JQIpCTkRh4LVpzhh6w4",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:09:13"
+  }
+]

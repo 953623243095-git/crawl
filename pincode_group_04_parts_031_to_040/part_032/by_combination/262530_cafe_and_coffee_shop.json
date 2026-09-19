@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gpang's Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "262530",
+    "phone_number": "+91 87918 10101",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 20,
+    "address": "ambedkar ward, Nayi basti, Munsyari, Uttarakhand 262554",
+    "area": "ambedkar ward, Nayi basti",
+    "latitude": 30.0676839,
+    "longitude": 80.2316013,
+    "place_id": "ChIJtb207vPbpjkRAfns5ST3HzI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtb207vPbpjkRAfns5ST3HzI",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:03:03"
+  },
+  {
+    "business_name": "The Haat cafe & Restro",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Chinese restaurant, Indian restaurant, Restaurant",
+    "pincode": "262530",
+    "phone_number": "+91 87915 98259",
+    "website": "https://www.instagram.com/thehaatcafe/",
+    "rating": 4.3,
+    "reviews_count": 97,
+    "address": "RGMF+XVR, 1/100 Haat, Delhi - Dharchula Hwy, Dharchula, Suwa, Uttarakhand 262545",
+    "area": "262530",
+    "latitude": 29.834865999999998,
+    "longitude": 80.5243859,
+    "place_id": "ChIJN3u9J861pjkRxQsSj14EyEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN3u9J861pjkRxQsSj14EyEM",
+    "part_id": "part_032",
+    "crawled_at": "2026-09-19 06:03:03"
+  }
+]
