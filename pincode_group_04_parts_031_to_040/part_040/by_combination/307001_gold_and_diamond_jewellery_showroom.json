@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "307001",
+    "phone_number": "+91 94145 44585",
+    "website": "http://krishnajewellerssirohi.com/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Sadar bazar, near kumar wara, Sirohi, Rajasthan 307001",
+    "area": "Bagikhana",
+    "latitude": 24.8840787,
+    "longitude": 72.86225879999999,
+    "place_id": "ChIJBxMKp2zbQjkRNvdA3drPqBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBxMKp2zbQjkRNvdA3drPqBk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:44:49"
+  },
+  {
+    "business_name": "Natraj jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "307001",
+    "phone_number": "+91 77420 00204",
+    "website": "https://natrajjeweller.com/",
+    "rating": 4.9,
+    "reviews_count": 376,
+    "address": "Patthar Gali, Sadar Bazar, Abu Road, Rajasthan 307026",
+    "area": "Sadar Bazar",
+    "latitude": 24.4835495,
+    "longitude": 72.7848451,
+    "place_id": "ChIJlykRbngpXTkRv8QLGCuDHmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlykRbngpXTkRv8QLGCuDHmY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:44:50"
+  }
+]

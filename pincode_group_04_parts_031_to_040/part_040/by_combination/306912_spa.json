@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "सनराईज ब्यूटी पार्लर",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Service establishment",
+    "pincode": "306912",
+    "phone_number": "+91 97721 82973",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "सनराईज ब्यूटी पार्लर, 306912, India",
+    "area": "306912",
+    "latitude": 25.249066,
+    "longitude": 72.61781239999999,
+    "place_id": "ChIJndmKEj_1QjkRHgGgz73bB-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJndmKEj_1QjkRHgGgz73bB-U",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:43:37"
+  },
+  {
+    "business_name": "Magic Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Massage therapist",
+    "pincode": "306912",
+    "phone_number": "+91 97725 17515",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 12,
+    "address": "1-S-14, Basant Vihar, Pani Ki Tanki Ke Pas, Gandhi Nagar, near Bank Of Baroda, Bhilwara, Rajasthan 311001",
+    "area": "Basant Vihar Colony, Santosh Colony",
+    "latitude": 25.3484218,
+    "longitude": 74.62881689999999,
+    "place_id": "ChIJWZpP7UHDaDkRs8r_AGrhAD0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWZpP7UHDaDkRs8r_AGrhAD0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:43:39"
+  }
+]

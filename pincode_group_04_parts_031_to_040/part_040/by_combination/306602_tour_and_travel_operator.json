@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aashitaa",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "306602",
+    "phone_number": "+91 99504 85810",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "11, Guda Endla, Pali, Rajasthan 306422",
+    "area": "306602",
+    "latitude": 25.4346008,
+    "longitude": 73.2240624,
+    "place_id": "ChIJjxPR5_WJQjkR9mOnZrGHQ-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjxPR5_WJQjkR9mOnZrGHQ-Q",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:19:10"
+  },
+  {
+    "business_name": "Noor Tour & Travels Chandigarh | Travel Agency in Chandigarh",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Bus tour agency, Car leasing service, Minibus taxi service, Sightseeing Tour Operator, Taxi service",
+    "pincode": "306602",
+    "phone_number": "+91 93161 03200",
+    "website": "http://noortourandtravels.net/",
+    "rating": 4.9,
+    "reviews_count": 120,
+    "address": "Shop no 119 first floor Shiva market, Sector 40D, Chandigarh, 160036",
+    "area": "Sector 40A, Block A, Sector 40D",
+    "latitude": 30.7414727,
+    "longitude": 76.7370798,
+    "place_id": "ChIJ-0-_GWXvDzkRkASQuyLKNUg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-0-_GWXvDzkRkASQuyLKNUg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:19:12"
+  }
+]

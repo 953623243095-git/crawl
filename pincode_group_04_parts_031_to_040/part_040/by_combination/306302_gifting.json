@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Krishna Traders",
+    "search_category": "Gifting",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "306302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 48,
+    "address": "124, merta city road, Jaitaran, Rajasthan 306302",
+    "area": "306302",
+    "latitude": 26.2176711,
+    "longitude": 73.9410886,
+    "place_id": "ChIJaaNbToGJaTkRd2Pim8HalMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaaNbToGJaTkRd2Pim8HalMs",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:51:05"
+  },
+  {
+    "business_name": "Sakshi Gifts Villa",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "306302",
+    "phone_number": "+91 86961 55655",
+    "website": "https://sakshigifts.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "near Matushree Bhawan, Kalu Bass, Shri Dungargarh, Dungargarh, Rajasthan 331803",
+    "area": "Kalu Bass",
+    "latitude": 28.0975145,
+    "longitude": 74.0041913,
+    "place_id": "ChIJz2DhSgEXFTkRtEb5hn0L_cw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz2DhSgEXFTkRtEb5hn0L_cw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:51:08"
+  }
+]

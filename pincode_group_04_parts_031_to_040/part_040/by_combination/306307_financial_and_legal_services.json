@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashok Arora and Associates",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Lawyer",
+    "all_categories": "Lawyer",
+    "pincode": "306307",
+    "phone_number": "+91 94142 44653",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "37, Ramdev Rd, Pali Marwar, Pali, Rajasthan 306401",
+    "area": "Pali Marwar",
+    "latitude": 25.7804571,
+    "longitude": 73.3205926,
+    "place_id": "ChIJgaqR8BZzQjkRkKNzA6pupUM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgaqR8BZzQjkRkKNzA6pupUM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:01:05"
+  },
+  {
+    "business_name": "RAJ FINANCIAL SERVICES",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant",
+    "pincode": "306307",
+    "phone_number": "+91 85910 44454",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Preet Nagar, Sangrur, Punjab 148001",
+    "area": "Preet Nagar",
+    "latitude": 30.251741,
+    "longitude": 75.8283762,
+    "place_id": "ChIJIxIFjCFREDkR9bWW_qWaPpc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIxIFjCFREDkR9bWW_qWaPpc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:01:05"
+  }
+]

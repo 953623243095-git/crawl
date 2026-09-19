@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DP Towing & Truck Repair LLC",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Mechanic",
+    "pincode": "306103",
+    "phone_number": "N/A",
+    "website": "https://dptowing.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "924 7th Ave E, Hendersonville, NC 28792, United States",
+    "area": "306103",
+    "latitude": 35.3237915,
+    "longitude": -82.4516648,
+    "place_id": "ChIJW5I42Bh5GaMR2LPIzqHIB1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW5I42Bh5GaMR2LPIzqHIB1A",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:33:38"
+  },
+  {
+    "business_name": "Shiv Crane Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane service",
+    "all_categories": "Crane service",
+    "pincode": "306103",
+    "phone_number": "+91 99500 01268",
+    "website": "http://www.shivcraneservice.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "to, Chittorgarh Rd, near rto, Rawla Dagla Ka Khera, Chittorgarh, Dagla Ka Khera, Rajasthan 312021",
+    "area": "Rawla Dagla Ka Khera",
+    "latitude": 24.910287999999998,
+    "longitude": 74.6138332,
+    "place_id": "ChIJGet0WIWhaDkRzYrmyhi6q2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGet0WIWhaDkRzYrmyhi6q2I",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:33:38"
+  }
+]

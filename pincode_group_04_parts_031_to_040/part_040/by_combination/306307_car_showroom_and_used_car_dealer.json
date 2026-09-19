@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Volkswagen Jodhpur New Power House Road - Showroom",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Volkswagen dealer",
+    "all_categories": "Volkswagen dealer",
+    "pincode": "306307",
+    "phone_number": "+91 95302 45678",
+    "website": "https://volkswagenjodhpur.com/",
+    "rating": 4.8,
+    "reviews_count": 2397,
+    "address": "Number 29, Shakun Motors Tiraya, 2A, New Power House Rd, Light Industrial Area, Sector-H, Plot, Jodhpur, Rajasthan 342003",
+    "area": "Light Industrial Area, Sector-H, Plot",
+    "latitude": 26.2585964,
+    "longitude": 73.0074714,
+    "place_id": "ChIJace81hqMQTkRdhwi7qhtEA8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJace81hqMQTkRdhwi7qhtEA8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:00:10"
+  },
+  {
+    "business_name": "CHETAK CAR",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "306307",
+    "phone_number": "+91 77377 22975",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Kumbha Nagar, Chittorgarh, Rajasthan 312001",
+    "area": "Kumbha Nagar",
+    "latitude": 24.8872333,
+    "longitude": 74.62081909999999,
+    "place_id": "ChIJC6dRQAChaDkRuuSOOaraPiw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC6dRQAChaDkRuuSOOaraPiw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:00:11"
+  }
+]

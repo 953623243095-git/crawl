@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Silver Square Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "307030",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 106,
+    "address": "2868+MJ7, Station Rd, Rani Bazar, Bikaner, Bikaner City, Rajasthan 334001",
+    "area": "Rani Bazar",
+    "latitude": 28.0116548,
+    "longitude": 73.31655769999999,
+    "place_id": "ChIJ_SbKXYfnPzkRjzMVQxVMFE0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_SbKXYfnPzkRjzMVQxVMFE0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:04:46"
+  },
+  {
+    "business_name": "Parshavnath Plaza",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "307030",
+    "phone_number": "+91 76651 90222",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 165,
+    "address": "Station Rd, near Railway Station, Rani Bazar, Bikaner, Bikaner City, Rajasthan 334001",
+    "area": "Rani Bazar",
+    "latitude": 28.0126825,
+    "longitude": 73.3157587,
+    "place_id": "ChIJO1bSj33dPzkRqQMgi5sKHa4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO1bSj33dPzkRqQMgi5sKHa4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:04:46"
+  }
+]

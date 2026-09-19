@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jb Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "306502",
+    "phone_number": "+91 98287 45402",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bagunda, Rajasthan 313333",
+    "area": "306502",
+    "latitude": 25.2672839,
+    "longitude": 73.67667999999999,
+    "place_id": "ChIJET1kB946aDkRmYZUEc4kO6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJET1kB946aDkRmYZUEc4kO6s",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:11:19"
+  },
+  {
+    "business_name": "Nagnechi Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "306502",
+    "phone_number": "+91 92561 53768",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop number 1, SBI Bank ke Pash, MAIN Market, Desuri, Rajasthan 306703",
+    "area": "306502",
+    "latitude": 25.2791689,
+    "longitude": 73.56892599999999,
+    "place_id": "ChIJT_0idBglaDkRP1LlIgucMwk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT_0idBglaDkRP1LlIgucMwk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:11:20"
+  }
+]

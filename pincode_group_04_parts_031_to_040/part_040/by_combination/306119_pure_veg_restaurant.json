@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shreenathji Hotel & Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Guest house, Hotel",
+    "pincode": "306119",
+    "phone_number": "+91 97995 83979",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Somesar, Bhadarlau, Rajasthan 306503",
+    "area": "306119",
+    "latitude": 25.520972,
+    "longitude": 73.4541292,
+    "place_id": "ChIJJw-CNgB_QjkRcU-OZ8uHkBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJw-CNgB_QjkRcU-OZ8uHkBA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:44:18"
+  },
+  {
+    "business_name": "RAJWADI RESTAURANT VEG AND NON VEG",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "306119",
+    "phone_number": "+91 99675 08513",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 21,
+    "address": "Somesar, Bhadarlau, Rajasthan 306503",
+    "area": "306119",
+    "latitude": 25.522021199999998,
+    "longitude": 73.45433609999999,
+    "place_id": "ChIJ2ZyOGrB_QjkRfyKC9Zp4_N8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ZyOGrB_QjkRfyKC9Zp4_N8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:44:19"
+  }
+]

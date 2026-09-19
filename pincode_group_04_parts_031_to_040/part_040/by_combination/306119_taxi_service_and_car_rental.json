@@ -1,0 +1,21 @@
+[
+  {
+    "business_name": "Green Taxi Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service",
+    "pincode": "306119",
+    "phone_number": "+91 94123 44316",
+    "website": "https://greentaxiservice.co.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Muskan Chowk, Azad Colony Rd, near Sana Masjid, Morowala, Clement Town, Dehradun, Uttarakhand 248171",
+    "area": "Morowala, Clement Town",
+    "latitude": 30.2876613,
+    "longitude": 78.002768,
+    "place_id": "ChIJQeHCT1wrCTkRgP-M68yAmdw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQeHCT1wrCTkRgP-M68yAmdw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:44:50"
+  }
+]

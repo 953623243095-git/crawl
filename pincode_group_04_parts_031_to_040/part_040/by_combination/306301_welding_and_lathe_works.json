@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "J.A. Welding Work",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Welding and Lathe Works",
+    "all_categories": "Welding and Lathe Works",
+    "pincode": "306301",
+    "phone_number": "+91 98375 93986",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shahpur, Indian Military Academy, Malukawala, Dehradun, Uttarakhand 248007",
+    "area": "Shahpur, Indian Military Academy",
+    "latitude": 30.314062,
+    "longitude": 77.9701078,
+    "place_id": "ChIJT5l_wvQqCTkRWuBweCArIjs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT5l_wvQqCTkRWuBweCArIjs",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:49:37"
+  },
+  {
+    "business_name": "Balaji Welding Workshop",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "306301",
+    "phone_number": "+91 97720 72368",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Kasumbi Alipur, Kasumbaali, Rajasthan 341304",
+    "area": "306301",
+    "latitude": 27.645788099999997,
+    "longitude": 74.5011231,
+    "place_id": "ChIJd0PkHqg3azkR6Zsc7e7hIxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd0PkHqg3azkR6Zsc7e7hIxc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:49:38"
+  }
+]

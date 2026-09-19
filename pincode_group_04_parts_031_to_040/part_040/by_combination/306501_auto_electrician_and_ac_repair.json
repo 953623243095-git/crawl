@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CarService4u",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Car wash, Repair service",
+    "pincode": "306501",
+    "phone_number": "+91 97824 04052",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Plot no. 135, 160 Feet Road, Prabhu Dayal Marg, in front of Vedansh Ashram Marriage Garden, Shree Nath Nagar, Budhsinghpura, Sheopur, Pratap Nagar, Jaipur, Rajasthan 302033",
+    "area": "Shree Nath Nagar, Budhsinghpura, Sheopur, Pratap Nagar",
+    "latitude": 26.8146277,
+    "longitude": 75.8211424,
+    "place_id": "ChIJcXvVbrrJbTkR76v1vuvQo6g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcXvVbrrJbTkR76v1vuvQo6g",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:09:47"
+  },
+  {
+    "business_name": "Vinay Electrical's",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "306501",
+    "phone_number": "+91 85280 65702",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sector 49C, Sector 49, Chandigarh, 160047",
+    "area": "Sector 49C, Sector 49",
+    "latitude": 30.691399899999997,
+    "longitude": 76.7492355,
+    "place_id": "ChIJWSnsJgDtDzkRAJ0lj6tLX_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWSnsJgDtDzkRAJ0lj6tLX_4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:09:48"
+  }
+]

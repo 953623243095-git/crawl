@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Ram Enterprises",
+    "search_category": "Electrician",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "306305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "3XV5+J9Q, Kushalpura, Rajasthan 306305",
+    "area": "306305",
+    "latitude": 26.094094,
+    "longitude": 73.9584883,
+    "place_id": "ChIJ9yFoPxCPaTkRJ-SBfO1Aeiw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9yFoPxCPaTkRJ-SBfO1Aeiw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:56:32"
+  },
+  {
+    "business_name": "SR enterprise electric",
+    "search_category": "Electrician",
+    "primary_category": "Electrical repair shop",
+    "all_categories": "Electrical repair shop",
+    "pincode": "306305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Basni road, Chawandiya, Rajasthan 306305",
+    "area": "306305",
+    "latitude": 26.1077594,
+    "longitude": 73.9022473,
+    "place_id": "ChIJB86asbyNaTkR3oqUxomCLXI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB86asbyNaTkR3oqUxomCLXI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:56:34"
+  }
+]

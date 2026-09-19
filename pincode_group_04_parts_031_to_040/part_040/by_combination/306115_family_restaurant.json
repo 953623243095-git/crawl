@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rudraksh hotal and restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "306115",
+    "phone_number": "+91 98923 67412",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "88M2+MPP, Rani Gaon, Rani Khurd, Rajasthan 306115",
+    "area": "306115",
+    "latitude": 25.3354614,
+    "longitude": 73.3015966,
+    "place_id": "ChIJGUqOZv2FQjkRgJb5WU0RfPQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGUqOZv2FQjkRgJb5WU0RfPQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:40:33"
+  },
+  {
+    "business_name": "Fun and Food Zone",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "306115",
+    "phone_number": "+91 81073 41882",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 56,
+    "address": "panchayat samiti ke samne, kenpura road rani, Rani Gaon, Rani Khurd, Rajasthan 306115",
+    "area": "306115",
+    "latitude": 25.3502053,
+    "longitude": 73.3033799,
+    "place_id": "ChIJI2sWvPGFQjkRVokfOZ3ocDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI2sWvPGFQjkRVokfOZ3ocDU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:40:35"
+  }
+]

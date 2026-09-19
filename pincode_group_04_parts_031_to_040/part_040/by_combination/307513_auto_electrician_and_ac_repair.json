@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bosch Car Service - Heritage Auto Park",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto body shop, Auto insurance agency, Auto painting, Car wash, Garage",
+    "pincode": "307513",
+    "phone_number": "+91 70555 14780",
+    "website": "https://www.heritage-autopark.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "645, Kakraita Rd, opp. Synergy Hospital, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Sikandra",
+    "latitude": 27.2101214,
+    "longitude": 77.9634379,
+    "place_id": "ChIJ28-0Qdp3dDkRCKVr0qOHtx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ28-0Qdp3dDkRCKVr0qOHtx0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:18:46"
+  },
+  {
+    "business_name": "Nilkanth Auto Electric and CNG",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto electrical service",
+    "all_categories": "Auto electrical service",
+    "pincode": "307513",
+    "phone_number": "+91 99257 77087",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Opp Indian Oil Pump, Kuchawada Highway At Panthawada Ta Dantiwada, Panthawada, Gujarat 385545",
+    "area": "307513",
+    "latitude": 24.4804314,
+    "longitude": 72.2913425,
+    "place_id": "ChIJp3XTAXi3XDkRZfusVZCXpBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp3XTAXi3XDkRZfusVZCXpBs",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:18:47"
+  }
+]

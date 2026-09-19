@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sundha ji Mobile",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Repair service",
+    "all_categories": "Repair service",
+    "pincode": "307501",
+    "phone_number": "+91 77918 18312",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No. 9, Sani Gaon, Aburaj, Rajasthan 307501",
+    "area": "Sani Gaon",
+    "latitude": 24.591542699999998,
+    "longitude": 72.7104751,
+    "place_id": "ChIJo2jl08krXTkRJY9O2ffVTdI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo2jl08krXTkRJY9O2ffVTdI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:11:54"
+  },
+  {
+    "business_name": "Sai Mobile and Repairing Centre",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "307501",
+    "phone_number": "+91 94616 12121",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Market, near Ankush Electronics, Sani Gaon, Aburaj, Rajasthan 307501",
+    "area": "Sani Gaon",
+    "latitude": 24.592990999999998,
+    "longitude": 72.7103547,
+    "place_id": "ChIJs64BMC0rXTkR6I9jAB4ioDw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs64BMC0rXTkR6I9jAB4ioDw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:11:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pathan Tredars",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "307025",
+    "phone_number": "+91 99289 38472",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pathan Sabbir, Kandi, Chhapariya, Rajasthan 307025",
+    "area": "307025",
+    "latitude": 24.3678496,
+    "longitude": 73.1805171,
+    "place_id": "ChIJt3NtT9VBXTkR1ONsnsLJLsI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt3NtT9VBXTkR1ONsnsLJLsI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:55:15"
+  },
+  {
+    "business_name": "Sanguine Properties Pvt Ltd",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate developer",
+    "all_categories": "Real estate developer, Building consultant, Commercial real estate agency, Real Estate Builders & Construction Company, Home builder, Housing development, Industrial real estate agency, Real estate agent, Real estate appraiser",
+    "pincode": "307025",
+    "phone_number": "+91 96721 99999",
+    "website": "https://www.sanguineproperties.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Udaipole Rd, opposite Uddhav Vilas Hotel, inside Udaipole, Jawahar Nagar, Udaipur, Rajasthan 313001",
+    "area": "Jawahar Nagar",
+    "latitude": 24.576082099999997,
+    "longitude": 73.6969836,
+    "place_id": "ChIJA2uRV7flZzkRqd7sL0RCnng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA2uRV7flZzkRqd7sL0RCnng",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:55:18"
+  }
+]

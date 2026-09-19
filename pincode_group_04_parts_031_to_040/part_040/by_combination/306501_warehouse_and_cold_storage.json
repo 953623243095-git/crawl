@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JustDeliveries",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service, Cold storage facility, Frozen food store, Refrigerated transport service, Storage facility, Transportation service, Warehouse",
+    "pincode": "306501",
+    "phone_number": "+91 96194 40499",
+    "website": "https://justdeliveries.co.in/cold-chain-logistics/mumbai/",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "301B, Jolly Bhavan 2, New Marine Lines, Churchgate, Mumbai, Maharashtra 400020",
+    "area": "New Marine Lines, Churchgate",
+    "latitude": 18.9364152,
+    "longitude": 72.8289997,
+    "place_id": "ChIJSZGMf23R5zsRaTvhoopiRsw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSZGMf23R5zsRaTvhoopiRsw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:10:45"
+  },
+  {
+    "business_name": "Penguin Coldstorages Private Limited",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "306501",
+    "phone_number": "+91 80 4806 0974",
+    "website": "https://www.penguincoldstorages.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shree Prasad Banglow, Plot 96, Lane Number 9, Mahatma Society, Kothrud, Pune, Maharashtra 411038",
+    "area": "Mahatma Society, Kothrud",
+    "latitude": 18.4978574,
+    "longitude": 73.7977925,
+    "place_id": "ChIJYWXFp2XAwjsRlM98dMoiaPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYWXFp2XAwjsRlM98dMoiaPw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:10:47"
+  }
+]

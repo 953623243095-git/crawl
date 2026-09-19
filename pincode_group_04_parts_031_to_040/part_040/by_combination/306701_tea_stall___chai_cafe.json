@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cafe coffee tea",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "306701",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Huda Sector 11, Huda, Panipat, Haryana 132103",
+    "area": "Huda Sector 11, Huda",
+    "latitude": 29.3817564,
+    "longitude": 76.9806114,
+    "place_id": "ChIJWd23oaTbDTkRBERs7U3VzF0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWd23oaTbDTkRBERs7U3VzF0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:22:21"
+  },
+  {
+    "business_name": "Mateshwari Chai House",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "306701",
+    "phone_number": "+91 91665 88752",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near by Courts, Azad Colony, Bali, Rajasthan 306701",
+    "area": "Azad Colony",
+    "latitude": 25.1928777,
+    "longitude": 73.2817421,
+    "place_id": "ChIJ0Z9dCoSbQjkRtBEMZ7Fb4Dw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Z9dCoSbQjkRtBEMZ7Fb4Dw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:22:21"
+  }
+]

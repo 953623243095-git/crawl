@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Daak Bungalow",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Shipping and mailing service",
+    "all_categories": "Shipping and mailing service",
+    "pincode": "306708",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8549+RR7, Sanderao, Rajasthan 306708",
+    "area": "306708",
+    "latitude": 25.3070393,
+    "longitude": 73.1695411,
+    "place_id": "ChIJ7--xQauNQjkRN11nGkXgU1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7--xQauNQjkRN11nGkXgU1E",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:36:50"
+  },
+  {
+    "business_name": "India Post Kheemara B.O-306708",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "306708",
+    "phone_number": "+91 91664 21712",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9572+HF7, Khimara, Rajasthan 306708",
+    "area": "306708",
+    "latitude": 25.3639044,
+    "longitude": 73.15116809999999,
+    "place_id": "ChIJfy1Vu8yLQjkR4dxjpGV-bPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfy1Vu8yLQjkR4dxjpGV-bPA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:36:53"
+  }
+]

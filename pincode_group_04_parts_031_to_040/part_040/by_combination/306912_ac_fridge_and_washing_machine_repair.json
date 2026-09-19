@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiv AC & Geyser Repair",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service, Electrical engineer, Electrician, Microwave oven repair service, Refrigerator repair service, Washer & dryer repair service",
+    "pincode": "306912",
+    "phone_number": "+91 70098 91501",
+    "website": "https://shivacrepair.odoo.com/",
+    "rating": 5,
+    "reviews_count": 31,
+    "address": "SHOP NO 01, NEW VIKAS NAGAR, Baltana, Sector 19, Zirakpur, Punjab 140604",
+    "area": "Baltana, Sector 19",
+    "latitude": 30.6629245,
+    "longitude": 76.83263889999999,
+    "place_id": "ChIJC-1w3FSVDzkRwv3B7XhuX4c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC-1w3FSVDzkRwv3B7XhuX4c",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:43:32"
+  },
+  {
+    "business_name": "Coolingpoint",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service, Refrigerator repair service, Washer & dryer repair service",
+    "pincode": "306912",
+    "phone_number": "+91 79862 65497",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 16,
+    "address": "1387/12, Sahibzada Ajit Singh Nagar, Punjab 160062",
+    "area": "Phase 11, Tarf Kumbra",
+    "latitude": 30.6765583,
+    "longitude": 76.7431635,
+    "place_id": "ChIJbcQdSp7tDzkRC7CqItaU1Ss",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbcQdSp7tDzkRC7CqItaU1Ss",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:43:33"
+  }
+]

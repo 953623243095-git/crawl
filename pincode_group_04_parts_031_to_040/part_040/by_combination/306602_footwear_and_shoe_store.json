@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shoe Gallery",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "306602",
+    "phone_number": "+91 91679 77137",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No. 1, Sheldon Apartment, Station Rd, near Rajesh Hotel, Bhayandar, Chandulal Park, Bhayandar West, Mira Bhayandar, Maharashtra 401101",
+    "area": "Bhayandar, Chandulal Park, Bhayandar West",
+    "latitude": 19.304111499999998,
+    "longitude": 72.8497782,
+    "place_id": "ChIJZ2W1HtOx5zsR97JuqtvYD4E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ2W1HtOx5zsR97JuqtvYD4E",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:18:51"
+  },
+  {
+    "business_name": "Nawab sahab shoe Jaipur",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "306602",
+    "phone_number": "+91 70621 02007",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Sainikmarg, 106A, Kalwar Rd, Raghunathpuri, Jhotwara, Jaipur, Rajasthan 302012",
+    "area": "Raghunathpuri, Jagannath Puri, Jhotwara",
+    "latitude": 26.944868699999997,
+    "longitude": 75.7487082,
+    "place_id": "ChIJIw_vmoazbTkRkvtO3ciFALY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIw_vmoazbTkRkvtO3ciFALY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:18:51"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Moon Family Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Massage spa, Massage therapist",
+    "pincode": "307501",
+    "phone_number": "+91 92576 81937",
+    "website": "https://www.instagram.com/spamoonfamily?igsh=MW9pZDF5aDh0cGRkcQ==",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Circle, near Siyam Vilash Hotel, Arbuda Devi, Aburaj, Rajasthan 307501",
+    "area": "Arbuda Devi",
+    "latitude": 24.5918566,
+    "longitude": 72.7094213,
+    "place_id": "ChIJEyEMdL3VXDkRJxtsr7qrbSY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEyEMdL3VXDkRJxtsr7qrbSY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:11:30"
+  },
+  {
+    "business_name": "Aqua Care Pool & Spa",
+    "search_category": "Spa",
+    "primary_category": "Swimming pool supply store",
+    "all_categories": "Swimming pool supply store",
+    "pincode": "307501",
+    "phone_number": "+91 98218 13998",
+    "website": "https://aqua-care-pool.grexa.site/",
+    "rating": 5,
+    "reviews_count": 32,
+    "address": "Shop No. 6, Parivartan CHS, Kukreja Compound Building, 17, Ramakrishna Chemburkar Marg, Mahul Gaon, MMRDA Colony, Chembur, Mumbai, Maharashtra 400074",
+    "area": "Mahul Gaon, MMRDA Colony, Chembur",
+    "latitude": 19.033175699999997,
+    "longitude": 72.90264479999999,
+    "place_id": "ChIJRdnhBqHF5zsRmrF9200_fvc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRdnhBqHF5zsRmrF9200_fvc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:11:32"
+  }
+]

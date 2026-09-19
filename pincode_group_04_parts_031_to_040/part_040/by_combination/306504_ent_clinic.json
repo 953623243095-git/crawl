@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Manish Bhargava",
+    "search_category": "ENT Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, Psychoanalyst",
+    "pincode": "306504",
+    "phone_number": "+91 73001 75466",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Forest Colony, Pindwara, Rajasthan 307022",
+    "area": "Forest Colony",
+    "latitude": 24.7935108,
+    "longitude": 73.04973869999999,
+    "place_id": "ChIJ6bpqSlHJQjkROTZgF86fOJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6bpqSlHJQjkROTZgF86fOJg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:15:18"
+  },
+  {
+    "business_name": "Alpha ENT & Vertigo Clinic, Chandigarh",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "306504",
+    "phone_number": "+91 77430 33066",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "S.C.O 160, Sector 24D, Sector 24, Chandigarh, 160023",
+    "area": "Sector 24D, Sector 24",
+    "latitude": 30.746665999999998,
+    "longitude": 76.7595662,
+    "place_id": "ChIJwTw1kHTtDzkRnH5jLsFxmts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwTw1kHTtDzkRnH5jLsFxmts",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:15:20"
+  }
+]

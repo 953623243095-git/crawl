@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Computer Training Centre",
+    "search_category": "Computer Training Institute",
+    "primary_category": "College",
+    "all_categories": "College",
+    "pincode": "306601",
+    "phone_number": "+91 78892 48540",
+    "website": "https://mydvc.in/?d=balajicsc",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sco No 39 Top Floor, near Nandi Sweet, Sector 41D, Badheri, Sector 41, Chandigarh, 160036",
+    "area": "Sector 41D, Badheri, Sector 41",
+    "latitude": 30.7331914,
+    "longitude": 76.737223,
+    "place_id": "ChIJi-2VlsvtDzkRn79OttFxGqg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi-2VlsvtDzkRn79OttFxGqg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:17:52"
+  },
+  {
+    "business_name": "Svs Computer's",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer club",
+    "all_categories": "Computer club",
+    "pincode": "306601",
+    "phone_number": "+91 73966 01512",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "10-32-3A, near M.S.R Degree College Road, Co-Operative Colony, Christian Peta, Kavali, Andhra Pradesh 524201",
+    "area": "Co-Operative Colony, Christian Peta",
+    "latitude": 14.910251899999999,
+    "longitude": 79.9887352,
+    "place_id": "ChIJMyT3qz59SzoRhwMPyeUPTlM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMyT3qz59SzoRhwMPyeUPTlM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:17:53"
+  }
+]

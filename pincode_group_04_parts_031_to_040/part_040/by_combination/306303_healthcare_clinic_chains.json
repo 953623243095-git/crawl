@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "306303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "M876+627, Mailana, Rajasthan 342603",
+    "area": "306303",
+    "latitude": 26.663047,
+    "longitude": 73.3100571,
+    "place_id": "ChIJPxnaVBnbQTkRBe_dIirATMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPxnaVBnbQTkRBe_dIirATMI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:52:29"
+  },
+  {
+    "business_name": "Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "306303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "J3GG+FHW, Untalad, Uthalad, Rajasthan 331517",
+    "area": "306303",
+    "latitude": 27.626236799999997,
+    "longitude": 74.0764538,
+    "place_id": "ChIJcxabzgDRajkRCiOV1pl6l_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcxabzgDRajkRCiOV1pl6l_Y",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:52:29"
+  }
+]

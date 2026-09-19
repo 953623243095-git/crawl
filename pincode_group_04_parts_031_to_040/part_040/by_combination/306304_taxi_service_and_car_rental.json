@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thar Cab Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service",
+    "pincode": "306304",
+    "phone_number": "+91 82334 27388",
+    "website": "https://vikashkulhari.website3.me/",
+    "rating": 5,
+    "reviews_count": 44,
+    "address": "Jaipur, Bikaner Bypass Rd, Sikar, Rajasthan 332021",
+    "area": "306304",
+    "latitude": 27.571875799999997,
+    "longitude": 75.1453152,
+    "place_id": "ChIJHyy3LJ-jbDkRnbp2oiuTMzk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHyy3LJ-jbDkRnbp2oiuTMzk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:54:29"
+  },
+  {
+    "business_name": "TAXI and Cab service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "306304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Bus Stand, Dariba, Ralmagra, Rajasthan 313211",
+    "area": "306304",
+    "latitude": 24.9573155,
+    "longitude": 74.1120097,
+    "place_id": "ChIJ94hhWG97aDkR8_fSThJM1-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ94hhWG97aDkR8_fSThJM1-o",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:54:29"
+  }
+]

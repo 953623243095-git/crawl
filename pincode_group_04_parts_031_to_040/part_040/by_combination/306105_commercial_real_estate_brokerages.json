@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.K.Properties",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "306105",
+    "phone_number": "+91 94160 24963",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Housing Board Colony, Sector 9, Ambala, Haryana 134003",
+    "area": "Housing Board Colony, Sector 9",
+    "latitude": 30.3621591,
+    "longitude": 76.7875467,
+    "place_id": "ChIJ_YJWpFPIDzkR6f5Q5QrsnKc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_YJWpFPIDzkR6f5Q5QrsnKc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:38:09"
+  },
+  {
+    "business_name": "Sanjay Property",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "306105",
+    "phone_number": "+91 94164 47213",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Naraingarh, Haryana 134203",
+    "area": "306105",
+    "latitude": 30.471794799999998,
+    "longitude": 77.1222216,
+    "place_id": "ChIJpSg7gmimDzkRQbe_SbtBZpI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpSg7gmimDzkRQbe_SbtBZpI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:38:09"
+  }
+]

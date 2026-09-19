@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Legal Bank",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant, Accountant, Accounting firm, Auditor, Bookkeeping service, Business management consultant, Financial audit, Financial planner, Tax consultant, Tax preparation service",
+    "pincode": "306601",
+    "phone_number": "+91 91160 98980",
+    "website": "https://thelegalbank.com/",
+    "rating": 4.9,
+    "reviews_count": 180,
+    "address": "B-4/193, Basement ,Chitrakoot Scheme, Vaishali Nagar, Jaipur, Rajasthan 302021",
+    "area": "Vaishali Nagar",
+    "latitude": 26.8997116,
+    "longitude": 75.7338324,
+    "place_id": "ChIJ5dqg7Ae1bTkR8cvYBi7nuBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5dqg7Ae1bTkR8cvYBi7nuBw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:18:10"
+  },
+  {
+    "business_name": "The Legal Bank",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Certified public accountant",
+    "all_categories": "Certified public accountant, Accounting firm, Bookkeeping service, Business management consultant, Financial consultant, Real estate consultant, Tax consultant, Tax preparation, Tax preparation service",
+    "pincode": "306601",
+    "phone_number": "+91 91160 98996",
+    "website": "https://www.thelegalbank.com/",
+    "rating": 4.7,
+    "reviews_count": 7,
+    "address": "101, Moti Nagar, west, Vaishali Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "Moti Nagar, west, Vaishali Nagar",
+    "latitude": 26.901998499999998,
+    "longitude": 75.7464318,
+    "place_id": "ChIJGdz_2My1bTkROq9mO7vCXbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGdz_2My1bTkROq9mO7vCXbY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:18:10"
+  }
+]

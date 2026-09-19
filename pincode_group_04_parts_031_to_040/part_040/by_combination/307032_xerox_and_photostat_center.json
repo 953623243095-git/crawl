@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "masih photocopier",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Copy shop",
+    "all_categories": "Copy shop",
+    "pincode": "307032",
+    "phone_number": "+91 99156 61276",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 25,
+    "address": "#601, 25D, 160014, Slum, Sector 25, Chandigarh, 160014",
+    "area": "25D, Slum, Sector 25",
+    "latitude": 30.7530492,
+    "longitude": 76.7547067,
+    "place_id": "ChIJlRpA8vLtDzkRdfueEBpPz5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlRpA8vLtDzkRdfueEBpPz5s",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:08:07"
+  },
+  {
+    "business_name": "Xerox shop",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Copy shop",
+    "all_categories": "Copy shop",
+    "pincode": "307032",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "12, Block D, Old Delhi, Jama Masjid, Chandni Chowk, New Delhi, Delhi, 110002",
+    "area": "Old Delhi, Jama Masjid, Chandni Chowk",
+    "latitude": 28.6486226,
+    "longitude": 77.2394228,
+    "place_id": "ChIJv0-pEgD9DDkRd4Es_qcSzAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv0-pEgD9DDkRd4Es_qcSzAk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:08:07"
+  }
+]

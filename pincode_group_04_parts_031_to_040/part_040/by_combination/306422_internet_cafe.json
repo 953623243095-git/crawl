@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinny's Cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Website designer",
+    "pincode": "306422",
+    "phone_number": "N/A",
+    "website": "https://vinnyscafe.blogspot.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Panchayat Samiti Road, near Session Court, Veer Durga Das Nagar, Pali, Rajasthan 306401",
+    "area": "Veer Durga Das Nagar",
+    "latitude": 25.770899399999998,
+    "longitude": 73.32939569999999,
+    "place_id": "ChIJjywsegpzQjkRBxxoqg6Su9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjywsegpzQjkRBxxoqg6Su9Q",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:08:36"
+  },
+  {
+    "business_name": "कुशाल भाई ई मित्र वाला पाली",
+    "search_category": "Internet Cafe",
+    "primary_category": "E-commerce service",
+    "all_categories": "E-commerce service",
+    "pincode": "306422",
+    "phone_number": "+91 96103 30165",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opp. BANGUR COLLEGE, near shreeram hospital, Pali, Rajasthan 306401",
+    "area": "306422",
+    "latitude": 25.7780623,
+    "longitude": 73.331147,
+    "place_id": "ChIJiaBNCH5zQjkRa7hTzrOwems",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiaBNCH5zQjkRa7hTzrOwems",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:08:36"
+  }
+]

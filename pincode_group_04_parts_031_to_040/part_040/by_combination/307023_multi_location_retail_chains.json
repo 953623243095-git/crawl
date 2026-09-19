@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ASHOKA AGRO ENTERPRISES",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "307023",
+    "phone_number": "+91 94142 01821",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "देलवारा मार्ग, Arbuda Devi, Aburaj, Abu, Rajasthan 307501",
+    "area": "Arbuda Devi",
+    "latitude": 24.606699499999998,
+    "longitude": 72.71989429999999,
+    "place_id": "ChIJ130OL0krXTkRCqypTHEisZo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ130OL0krXTkRCqypTHEisZo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:51:44"
+  },
+  {
+    "business_name": "Deepak Store",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "307023",
+    "phone_number": "+91 99294 12950",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 66,
+    "address": "307501, Delwara, Aburaj, Rajasthan 307501",
+    "area": "Delwara",
+    "latitude": 24.608003999999998,
+    "longitude": 72.72449399999999,
+    "place_id": "ChIJmZmS7oUqXTkRIyrLNkyq5os",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmZmS7oUqXTkRIyrLNkyq5os",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:51:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sheoganj Sub Post Office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "307027",
+    "phone_number": "N/A",
+    "website": "http://www.indiapost.gov.in/",
+    "rating": 4.1,
+    "reviews_count": 7,
+    "address": "43R7+87P, Sirohi Rd, Subhash Nagar, Erinpura, Sumerpur, Sheoganj, Rajasthan 307022",
+    "area": "Subhash Nagar, Erinpura",
+    "latitude": 25.140846999999997,
+    "longitude": 73.063188,
+    "place_id": "ChIJwzX7lmDrQjkR7dsamqYMy_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwzX7lmDrQjkR7dsamqYMy_M",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:58:54"
+  },
+  {
+    "business_name": "Delight Courier Cargo Services",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Shipping and mailing service",
+    "all_categories": "Shipping and mailing service",
+    "pincode": "307027",
+    "phone_number": "+91 78276 02228",
+    "website": "https://delightcouriercargo.in/",
+    "rating": 4.9,
+    "reviews_count": 67,
+    "address": "KH-149 GROUND FLOOR, Swaroop Nagar Rd, near Shani Dev Ji & Hanuman Ji Mandir, Master Mohalla, Delhi, 110042",
+    "area": "Master Mohalla",
+    "latitude": 28.7506192,
+    "longitude": 77.1419794,
+    "place_id": "ChIJ-6_KBC8BDTkRsNzNi5qYkis",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-6_KBC8BDTkRsNzNi5qYkis",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:58:55"
+  }
+]

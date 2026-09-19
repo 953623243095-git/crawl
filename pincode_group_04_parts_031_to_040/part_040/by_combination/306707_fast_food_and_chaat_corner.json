@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaps In Bites",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Momo restaurant",
+    "all_categories": "Momo restaurant, Chinese restaurant, Chinese takeaway, Indian takeaway",
+    "pincode": "306707",
+    "phone_number": "+91 76966 17717",
+    "website": "https://linktr.ee/chapsinbites",
+    "rating": 4.1,
+    "reviews_count": 77,
+    "address": "Booth no 160-161, Chandigarh, 160022",
+    "area": "Sector 34C, Sector 34",
+    "latitude": 30.7177638,
+    "longitude": 76.7663875,
+    "place_id": "ChIJe1OF_uXtDzkRAcM-XLweo7M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe1OF_uXtDzkRAcM-XLweo7M",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:33:38"
+  },
+  {
+    "business_name": "Patan chaska cafe",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Cafe",
+    "pincode": "306707",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 114,
+    "address": "Satyam appartment, near chopati, Jhalrapatan, Rajasthan 326023",
+    "area": "306707",
+    "latitude": 24.544001299999998,
+    "longitude": 76.1708213,
+    "place_id": "ChIJVxLh4E89ZTkRVr5oWFAJyAQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVxLh4E89ZTkRVr5oWFAJyAQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:33:38"
+  }
+]

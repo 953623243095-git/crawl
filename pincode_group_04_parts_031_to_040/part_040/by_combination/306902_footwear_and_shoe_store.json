@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijaylaxmi footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "306902",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "533H+X89, City Rd main, Shreepal Nagar, Sumerpur, Rajasthan 306902",
+    "area": "Shreepal Nagar",
+    "latitude": 25.1549153,
+    "longitude": 73.0783658,
+    "place_id": "ChIJ2QjMldvtQjkRf5wDn5JROkY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2QjMldvtQjkRf5wDn5JROkY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:41:12"
+  },
+  {
+    "business_name": "Bann mata Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "306902",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Koliwara Rd, Erinpura, Sumerpur, Rajasthan 306902",
+    "area": "Erinpura",
+    "latitude": 25.153589699999998,
+    "longitude": 73.0822512,
+    "place_id": "ChIJu0bLtSjtQjkRY9JWhF3EYIs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu0bLtSjtQjkRY9JWhF3EYIs",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:41:12"
+  }
+]

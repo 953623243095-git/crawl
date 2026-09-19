@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DASHMESH DENTAL CLINIC",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dentist",
+    "all_categories": "Dentist",
+    "pincode": "306301",
+    "phone_number": "+91 99149 03515",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Guru Gobind Singh Nagar, Ishar Nagar, Ludhiana, Punjab 141003",
+    "area": "Guru Gobind Singh Nagar, Ishar Nagar",
+    "latitude": 30.852139899999997,
+    "longitude": 75.87521339999999,
+    "place_id": "ChIJCavQbJ-CGjkREQaqdcyJvu4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCavQbJ-CGjkREQaqdcyJvu4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:48:27"
+  },
+  {
+    "business_name": "Narwal Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic, Cosmetic dentist, Dentist, Hospital",
+    "pincode": "306301",
+    "phone_number": "+91 94789 12674",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 27,
+    "address": "Second Floor, 5246/2, Modern Housing Complex, Sector 13, Chandigarh, 160101",
+    "area": "Modern Housing Complex, Sector 13",
+    "latitude": 30.7154326,
+    "longitude": 76.832304,
+    "place_id": "ChIJt2-Wci6TDzkRv4-v0L3sv5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt2-Wci6TDzkRv4-v0L3sv5s",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:48:27"
+  }
+]

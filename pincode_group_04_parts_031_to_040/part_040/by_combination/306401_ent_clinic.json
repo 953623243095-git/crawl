@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Mohan Lal Choudhary SURGEON",
+    "search_category": "ENT Clinic",
+    "primary_category": "Surgical center",
+    "all_categories": "Surgical center",
+    "pincode": "306401",
+    "phone_number": "+91 94142 43460",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "बांगड़ हॉस्पिटल परिसर, हॉस्पिटल के पीछे वाले गेट के पास, संचेती धर्मशाला के पास, Veer Durga Das Nagar, Pali, Rajasthan 306401",
+    "area": "Veer Durga Das Nagar",
+    "latitude": 25.7755239,
+    "longitude": 73.33377469999999,
+    "place_id": "ChIJJ6P7jwNzQjkRAjPAruEDgM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ6P7jwNzQjkRAjPAruEDgM4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:03:52"
+  },
+  {
+    "business_name": "Dr.Dilip Rajpurohit",
+    "search_category": "ENT Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "306401",
+    "phone_number": "+91 97827 35715",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1, B 32, New Housing Board, Sardar Patel Nagar, Pali, Rajasthan 306401",
+    "area": "New Housing Board, Sardar Patel Nagar",
+    "latitude": 25.792583399999998,
+    "longitude": 73.3101389,
+    "place_id": "ChIJuV1xQehyQjkRpZx0SwZFMDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuV1xQehyQjkRpZx0SwZFMDE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:03:52"
+  }
+]

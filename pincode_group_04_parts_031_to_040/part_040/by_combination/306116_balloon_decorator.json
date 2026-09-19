@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balloons Festiva",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Party equipment rental service, Party planner, Party store, Restaurant supply store, Wedding planner",
+    "pincode": "306116",
+    "phone_number": "+91 83062 17228",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No, Jagat Sarpanch Market, 9, Alwar Bypass Rd, near Aapno Bazar, Bhiwadi, Rajasthan 301019",
+    "area": "Gurjar",
+    "latitude": 28.204499199999997,
+    "longitude": 76.8082998,
+    "place_id": "ChIJAwQhv8m3cjkRiBKMz1HD-nU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAwQhv8m3cjkRiBKMz1HD-nU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:43:18"
+  },
+  {
+    "business_name": "Festivo Balloon Decoration Jodhpur",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Party planner",
+    "all_categories": "Party planner, Baby store, Balloon store, Banner store, Candle store, Festival, Party equipment rental service, Party store, Video editing service, Video production service",
+    "pincode": "306116",
+    "phone_number": "+91 77421 17652",
+    "website": "https://wa.me/c/917742117652",
+    "rating": 5,
+    "reviews_count": 283,
+    "address": "24, Chandna Bhakar Main Rd, near Bhoomi Auto Gas, Kamla Nehru Nagar, Jodhpur, Rajasthan 342008",
+    "area": "Kamla Nehru Nagar",
+    "latitude": 26.2806136,
+    "longitude": 72.9839713,
+    "place_id": "ChIJETRxIgyPQTkR8BsHzTkZ3SY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJETRxIgyPQTkR8BsHzTkZ3SY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:43:20"
+  }
+]

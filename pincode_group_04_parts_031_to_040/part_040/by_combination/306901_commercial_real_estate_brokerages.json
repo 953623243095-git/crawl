@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jason Brodsky, Owners Only Real Estate - Asheville",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Real estate agent, Real estate consultant",
+    "pincode": "306901",
+    "phone_number": "N/A",
+    "website": "https://www.ownersonlyre.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "16 Biltmore Ave #300, Asheville, NC 28801, United States",
+    "area": "Downtown",
+    "latitude": 35.594301699999995,
+    "longitude": -82.551132,
+    "place_id": "ChIJfcl8ZFHzWYgRjtXO4tvBOoU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfcl8ZFHzWYgRjtXO4tvBOoU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:40:33"
+  },
+  {
+    "business_name": "Ally Karadeniz - Right At Home Realty, Brokerage",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Service establishment",
+    "pincode": "306901",
+    "phone_number": "N/A",
+    "website": "http://www.allyk.ca/",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "Ally Karadeniz - Right At Home Realty, Brokerage, 306901, India",
+    "area": "306901",
+    "latitude": 43.5114768,
+    "longitude": -79.75045039999999,
+    "place_id": "ChIJVXs4-ZpdK4gReA_KBzAWerc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVXs4-ZpdK4gReA_KBzAWerc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:40:34"
+  }
+]

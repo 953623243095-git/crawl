@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DEVNARAYA HOTAL AND RESTAURANT",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "306105",
+    "phone_number": "+91 77280 78656",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Gurjar Ki Thadi, 01, Nimaj, Rajasthan 306303",
+    "area": "306105",
+    "latitude": 26.1483998,
+    "longitude": 74.0020529,
+    "place_id": "ChIJa4P9MFOPaTkRB1P6Higo7Dg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa4P9MFOPaTkRB1P6Higo7Dg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:37:44"
+  },
+  {
+    "business_name": "Krishna Resort Jaitaran",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "306105",
+    "phone_number": "+91 82338 91068",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 55,
+    "address": "Pathus, Rajasthan 306302",
+    "area": "306105",
+    "latitude": 26.2293754,
+    "longitude": 73.9446447,
+    "place_id": "ChIJe5-ugY6JaTkRsq3cAx3SZKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe5-ugY6JaTkRsq3cAx3SZKU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:37:44"
+  }
+]

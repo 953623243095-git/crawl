@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Little Palms",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store",
+    "pincode": "306422",
+    "phone_number": "+91 99822 04346",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "110, Opp, Lodha School Rd, V D Nagar, Pali, Rajasthan 306401",
+    "area": "V D Nagar",
+    "latitude": 25.773170999999998,
+    "longitude": 73.334391,
+    "place_id": "ChIJvSiLPeJzQjkRvX1rSWYC998",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvSiLPeJzQjkRvX1rSWYC998",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:07:29"
+  },
+  {
+    "business_name": "Mohit K Fashion",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "306422",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 7,
+    "address": "jatta mula kachori, 39 Jarda Bazaar, near, Sarafa Bazaar Rd, Pali, Rajasthan 306401",
+    "area": "Gandhi Katla, Nadi Mohalla",
+    "latitude": 25.776694,
+    "longitude": 73.3230737,
+    "place_id": "ChIJ_3uBJutzQjkRg5fa13MsUY0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_3uBJutzQjkRg5fa13MsUY0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:07:30"
+  }
+]

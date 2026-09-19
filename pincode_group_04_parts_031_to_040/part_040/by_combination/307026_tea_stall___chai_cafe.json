@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cha",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea house",
+    "all_categories": "Tea house, Coffee shop",
+    "pincode": "307026",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "HPV4+6RH, Nakki Lake, Aburaj, Rajasthan 307501",
+    "area": "Nakki Lake",
+    "latitude": 24.5930747,
+    "longitude": 72.707122,
+    "place_id": "ChIJlxp24oDVXDkRwHSKTp4rJYc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlxp24oDVXDkRwHSKTp4rJYc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:55:44"
+  },
+  {
+    "business_name": "Natural View Cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "307026",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Sunset Point Rd, Aburaj, Rajasthan 307501",
+    "area": "307026",
+    "latitude": 24.586416,
+    "longitude": 72.7025001,
+    "place_id": "ChIJTcY6j4XVXDkRyqI2qw7Y7ao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTcY6j4XVXDkRyqI2qw7Y7ao",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:55:44"
+  }
+]

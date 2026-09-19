@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Life Fitness Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "307027",
+    "phone_number": "+91 70739 65594",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "3XHG+64G new joyla, Posalia - Arathwara Rd, Arathwara, Rajasthan 307028",
+    "area": "307027",
+    "latitude": 25.0780693,
+    "longitude": 72.9753171,
+    "place_id": "ChIJI-JWfSXpQjkRv4rEOU1LkNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI-JWfSXpQjkRv4rEOU1LkNY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:58:01"
+  },
+  {
+    "business_name": "Life Fitness Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "307027",
+    "phone_number": "+91 70739 65594",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4XGM+Q6F, Sheoganj - Alpa Rd, Joyala, Rajasthan 307028",
+    "area": "307027",
+    "latitude": 25.1269298,
+    "longitude": 72.9830515,
+    "place_id": "ChIJrfFGtVHpQjkRjI-0zrLZdt8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrfFGtVHpQjkRjI-0zrLZdt8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:58:01"
+  }
+]

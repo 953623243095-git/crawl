@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MAHALAXMI KIRANA & GENERAL STOR",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "306303",
+    "phone_number": "+91 83069 12176",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "bus stand, Main, Kushalpura, Rajasthan 342002",
+    "area": "306303",
+    "latitude": 26.097380599999997,
+    "longitude": 73.95802479999999,
+    "place_id": "ChIJq2SEMo-PaTkRplAmj8lFwcQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq2SEMo-PaTkRplAmj8lFwcQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:51:53"
+  },
+  {
+    "business_name": "Jairam Bhai",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "306303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5383+PWV, Samokhi, Rajasthan 306303",
+    "area": "306303",
+    "latitude": 26.166863799999998,
+    "longitude": 74.05478939999999,
+    "place_id": "ChIJO2uHJgCFaTkRVy7ZDZ15w4g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO2uHJgCFaTkRVy7ZDZ15w4g",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:51:53"
+  }
+]

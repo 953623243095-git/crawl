@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ziva Skin Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic, Hair transplantation clinic, Laser hair removal service, Dermatologist",
+    "pincode": "306601",
+    "phone_number": "+91 70870 00365",
+    "website": "http://zivaskinclinic.com/",
+    "rating": 4.7,
+    "reviews_count": 280,
+    "address": "House no 142, near sports complex, Sector 78, Sahibzada Ajit Singh Nagar, Punjab 140308",
+    "area": "Sector 78",
+    "latitude": 30.687293699999998,
+    "longitude": 76.71178499999999,
+    "place_id": "ChIJc79Z15buDzkR_mudA5X5ztM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc79Z15buDzkR_mudA5X5ztM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:17:07"
+  },
+  {
+    "business_name": "Dr. Geetika Skin & Cosmetic Surgery Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic, Cosmetic surgeon, Doctor, Hair transplantation clinic, Laser hair removal service, Plastic surgeon, Plastic surgery clinic, Dermatologist, Tattoo removal service",
+    "pincode": "306601",
+    "phone_number": "+91 99151 67078",
+    "website": "http://www.skinandcosmeticsurgery.com/",
+    "rating": 4.6,
+    "reviews_count": 458,
+    "address": "Sco 31, 1st floor, Phase 10, Sector 64, Sahibzada Ajit Singh Nagar, Punjab 160062",
+    "area": "Phase 10, Sector 64",
+    "latitude": 30.6873038,
+    "longitude": 76.73834959999999,
+    "place_id": "ChIJRzI85p_uDzkRVk_AugEOft0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRzI85p_uDzkRVk_AugEOft0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:17:07"
+  }
+]

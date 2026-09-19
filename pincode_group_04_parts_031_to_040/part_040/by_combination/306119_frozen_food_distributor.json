@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pal Frozen Foods Dehradun",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse, Frozen food store",
+    "pincode": "306119",
+    "phone_number": "+91 90455 99277",
+    "website": "https://www.palfrozenfoods.in/",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "C-88,89,90, New Fruit Mandi, Sewla Kalan, Niranjanpur, Dehradun, Uttarakhand 248171",
+    "area": "Sewla Kalan, Niranjanpur",
+    "latitude": 30.3032017,
+    "longitude": 78.00790169999999,
+    "place_id": "ChIJIRKvVZgrCTkRu7iCNPBvTKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIRKvVZgrCTkRu7iCNPBvTKU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:44:16"
+  },
+  {
+    "business_name": "Just Frozen",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food manufacturer",
+    "all_categories": "Frozen food manufacturer",
+    "pincode": "306119",
+    "phone_number": "+91 77175 22778",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "1st Floor, Plot No. - 943B, Sector 82, JLPL Industrial Area, Sahibzada Ajit Singh Nagar, Punjab 140306",
+    "area": "Sector 82, JLPL Industrial Area",
+    "latitude": 30.649758,
+    "longitude": 76.73207359999999,
+    "place_id": "ChIJNWppb1PpDzkR_LJGmXdUT9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNWppb1PpDzkR_LJGmXdUT9c",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:44:16"
+  }
+]

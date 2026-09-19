@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "306901",
+    "phone_number": "+91 87649 01130",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "DAYAVAS, Nowi, Rajasthan 306901",
+    "area": "DAYAVAS",
+    "latitude": 25.2294016,
+    "longitude": 72.9446229,
+    "place_id": "ChIJoR-YWXjxQjkRPYaS79j_e5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoR-YWXjxQjkRPYaS79j_e5o",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:40:26"
+  },
+  {
+    "business_name": "Itel, Infinix & Tecno Mobile Carlcare Service Centre (Pali, Rajasthan)",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Phone repair service",
+    "all_categories": "Phone repair service, Cell phone accessory store, Mobile phone repair shop",
+    "pincode": "306901",
+    "phone_number": "+91 70141 37751",
+    "website": "http://www.carlcare.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nh 62, Sumerpur, Pali, Rajasthan 306902",
+    "area": "Shreepal Nagar",
+    "latitude": 25.15298,
+    "longitude": 73.07506,
+    "place_id": "ChIJUZa7qKntQjkRjFFF5XUvVGc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUZa7qKntQjkRjFFF5XUvVGc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:40:26"
+  }
+]

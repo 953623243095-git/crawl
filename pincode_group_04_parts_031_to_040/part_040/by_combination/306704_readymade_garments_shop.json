@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nakoda Cloth Store",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "306704",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6GQP+48M, Ghanerao, Rajasthan 306704",
+    "area": "306704",
+    "latitude": 25.237830199999998,
+    "longitude": 73.53580769999999,
+    "place_id": "ChIJTbvNMvMmaDkRyFsB3BhiUxw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTbvNMvMmaDkRyFsB3BhiUxw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:28:02"
+  },
+  {
+    "business_name": "Modenno",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "306704",
+    "phone_number": "+91 70149 26627",
+    "website": "http://modenno.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Patanjali Store, behind Padia School, Pilani, Vidyavihar, Rajasthan 333031",
+    "area": "306704",
+    "latitude": 28.3640917,
+    "longitude": 75.6017294,
+    "place_id": "ChIJj10XTVwZEzkR8M2WTVvqZ98",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj10XTVwZEzkR8M2WTVvqZ98",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:28:03"
+  }
+]

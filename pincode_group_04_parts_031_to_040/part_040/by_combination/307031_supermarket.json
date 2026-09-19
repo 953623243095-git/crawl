@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "National Super Market - Bagru",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Grocery store",
+    "pincode": "307031",
+    "phone_number": "+91 73000 09716",
+    "website": "https://nsmstore.in/",
+    "rating": 4.9,
+    "reviews_count": 1851,
+    "address": "RGCV+347, Baba Market Meena Complex Dak Bel, Bagru, Rajasthan 303007",
+    "area": "307031",
+    "latitude": 26.8205402,
+    "longitude": 75.5428891,
+    "place_id": "ChIJrbyVvotJbDkRGJUOy3WsnwU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrbyVvotJbDkRGJUOy3WsnwU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:04:48"
+  },
+  {
+    "business_name": "Kanha Super Mart",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "307031",
+    "phone_number": "+91 94628 25920",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "XM6W+QV3, Unnamed Road, Jaipur, Hathoj, Rajasthan 302044",
+    "area": "307031",
+    "latitude": 26.9618959,
+    "longitude": 75.697166,
+    "place_id": "ChIJSUXZmwFNbDkR_9PZX0G8Z0k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSUXZmwFNbDkR_9PZX0G8Z0k",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:04:48"
+  }
+]

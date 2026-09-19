@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Devesh Agencies",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "307501",
+    "phone_number": "+91 94616 09990",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Market, Aburaj, Rajasthan 307501",
+    "area": "Sabzi Mandi",
+    "latitude": 24.5925871,
+    "longitude": 72.7099459,
+    "place_id": "ChIJnQwm2GArXTkR-BJMw7lxM6M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnQwm2GArXTkR-BJMw7lxM6M",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:10:37"
+  },
+  {
+    "business_name": "Amrapali general store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "307501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HPR6+J77, Sani Gaon, Aburaj, Rajasthan 307501",
+    "area": "Sani Gaon",
+    "latitude": 24.5915346,
+    "longitude": 72.7106774,
+    "place_id": "ChIJLZwONb4rXTkRKcOtxJw2dh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLZwONb4rXTkRKcOtxJw2dh0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:10:37"
+  }
+]

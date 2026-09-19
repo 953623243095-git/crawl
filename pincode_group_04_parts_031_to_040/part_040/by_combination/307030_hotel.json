@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel VIJAY VIHAR",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Sweet shop, Marriage celebrant, Home Stay, Restaurant",
+    "pincode": "307030",
+    "phone_number": "+91 94626 71555",
+    "website": "https://jalam.page.gd/",
+    "rating": 4,
+    "reviews_count": 67,
+    "address": "opposite RIICO 3rd Phase, Industrial Area, Jalore, Rajasthan 343001",
+    "area": "Industrial Area",
+    "latitude": 25.3144353,
+    "longitude": 72.6341463,
+    "place_id": "ChIJQ1389yMBQzkRv_5NFCsAvaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ1389yMBQzkRv_5NFCsAvaM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:04:05"
+  },
+  {
+    "business_name": "Chitra Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "307030",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 28,
+    "address": "9J28+8JM, Rampura Colony, Jalore, Jalor, Rajasthan 343001",
+    "area": "Rampura Colony",
+    "latitude": 25.350849099999998,
+    "longitude": 72.616537,
+    "place_id": "ChIJczaUQrMAQzkRGHWWlEWsaNo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJczaUQrMAQzkRGHWWlEWsaNo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:04:05"
+  }
+]

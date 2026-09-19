@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Famous Poultry And Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Poultry farm",
+    "pincode": "306301",
+    "phone_number": "+91 94130 43566",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 13,
+    "address": "Shop No. 5 MG Hospital Road Fish Market, opposite Pratap School, Ratanada, Jodhpur, Rajasthan 342001",
+    "area": "Jalori Bari, Ratanada",
+    "latitude": 26.284953599999998,
+    "longitude": 73.0190523,
+    "place_id": "ChIJRYRr70qMQTkRW9uAF3qgBrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRYRr70qMQTkRW9uAF3qgBrc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:48:02"
+  },
+  {
+    "business_name": "Anandpur Kalu, Rajasthan 306301",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "306301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Anandpur Kalu, Rajasthan",
+    "area": "306301",
+    "latitude": 26.3801128,
+    "longitude": 74.006509,
+    "place_id": "ChIJX0zqYIYlajkRcdJB-c_VVuA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX0zqYIYlajkRcdJB-c_VVuA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:48:02"
+  }
+]

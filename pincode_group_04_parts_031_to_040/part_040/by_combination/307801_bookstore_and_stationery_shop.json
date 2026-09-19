@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kamal Book Company",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "307801",
+    "phone_number": "+91 94611 05999",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "498V+7C7, Maan Nagar, Milap Nagar, Jhunjhunu, Rajasthan 333001",
+    "area": "Maan Nagar, Milap Nagar",
+    "latitude": 28.115662699999998,
+    "longitude": 75.39353559999999,
+    "place_id": "ChIJC1qHHKo5EzkRb6700omENDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC1qHHKo5EzkRb6700omENDA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:25:02"
+  },
+  {
+    "business_name": "Shree Maan Book Company",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Shopping mall",
+    "pincode": "307801",
+    "phone_number": "+91 99295 99909",
+    "website": "http://www.shreemaanbookshop.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chirawa road, Surajgarh, Rajasthan 333029",
+    "area": "307801",
+    "latitude": 28.305289199999997,
+    "longitude": 75.72918229999999,
+    "place_id": "ChIJG4I9GhHgEjkRM68vYnS-HI4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG4I9GhHgEjkRM68vYnS-HI4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:25:03"
+  }
+]

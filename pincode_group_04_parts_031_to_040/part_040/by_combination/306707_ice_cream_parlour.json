@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PADAM ICE CREAM",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Dessert shop",
+    "all_categories": "Dessert shop",
+    "pincode": "306707",
+    "phone_number": "+91 89999 17882",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "PADAM ICE CREAM, Indra Colony, Bijapur, Rajasthan 306707",
+    "area": "Indra Colony",
+    "latitude": 25.058943,
+    "longitude": 73.2563116,
+    "place_id": "ChIJTb_fRi69QjkRY7nsQqtuVl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTb_fRi69QjkRY7nsQqtuVl8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:33:39"
+  },
+  {
+    "business_name": "Bherunath Ice Cream nd Juis Senter",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Juice shop",
+    "pincode": "306707",
+    "phone_number": "+91 76659 43994",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vilage Visma Kamol Sayra Gogunda, Rajasthan 313704",
+    "area": "306707",
+    "latitude": 24.9038143,
+    "longitude": 73.4050018,
+    "place_id": "ChIJEef6RdmpQjkRqTdi67I1SQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEef6RdmpQjkRqTdi67I1SQ0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:33:42"
+  }
+]

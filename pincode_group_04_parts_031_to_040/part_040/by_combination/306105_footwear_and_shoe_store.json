@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "306105",
+    "phone_number": "+91 74831 38906",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Krishna Footwear, Sabji Mandi Main Market, Pali, Jaitaran, Rajasthan 306302",
+    "area": "306105",
+    "latitude": 26.2027,
+    "longitude": 73.938795,
+    "place_id": "ChIJt_JGlimJaTkRSF2DHqJQThU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt_JGlimJaTkRSF2DHqJQThU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:36:59"
+  },
+  {
+    "business_name": "The Shoe Shopee",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "306105",
+    "phone_number": "+91 81470 14054",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Jawai Bandh Rd, near Power House, Shreepal Nagar, Sumerpur, Rajasthan 306902",
+    "area": "Shreepal Nagar",
+    "latitude": 25.151778,
+    "longitude": 73.0778028,
+    "place_id": "ChIJ9Vo0z6jsQjkR3xPZysZ3ZQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Vo0z6jsQjkR3xPZysZ3ZQw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:36:59"
+  }
+]

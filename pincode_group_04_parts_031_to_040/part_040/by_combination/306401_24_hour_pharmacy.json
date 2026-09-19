@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kalpesh sirvi",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "306401",
+    "phone_number": "+91 97997 05070",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "X48P+RC3, choudhary medical, Pali, Rohat, Rajasthan 306401",
+    "area": "choudhary medical",
+    "latitude": 25.9670198,
+    "longitude": 73.1360548,
+    "place_id": "ChIJI3XXw3cXQjkRgyU9FcFIVDk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI3XXw3cXQjkRgyU9FcFIVDk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:03:44"
+  },
+  {
+    "business_name": "Jagu guddi",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "306401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "MXQ7+V4F, Kulthana, Rajasthan 306401",
+    "area": "306401",
+    "latitude": 25.6896953,
+    "longitude": 72.9628018,
+    "place_id": "ChIJRXhuTeJHQjkRKLr8jiu6vkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRXhuTeJHQjkRKLr8jiu6vkA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:03:46"
+  }
+]

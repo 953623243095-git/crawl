@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Agro Cleaning Industries",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "306105",
+    "phone_number": "+91 90013 30900",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "F12, RIICO INDUSTRIAL AREA, Naiko Ka Badia, Bar, Rajasthan 306105",
+    "area": "RIICO INDUSTRIAL AREA, Naiko Ka Badia",
+    "latitude": 26.076098299999998,
+    "longitude": 74.10888419999999,
+    "place_id": "ChIJ0SYgTACbaTkRzluYhMJMghg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0SYgTACbaTkRzluYhMJMghg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:38:07"
+  },
+  {
+    "business_name": "Har Ghar Cleaning Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "306105",
+    "phone_number": "+91 97805 54129",
+    "website": "https://www.hargharservice.in/",
+    "rating": 4.9,
+    "reviews_count": 58,
+    "address": "Shop No. 3, Plot, Karnail Singh Nagar Phase 3, Jawaddi Taksal, Ludhiana, Punjab 141006",
+    "area": "Karnail Singh Nagar Phase 3, Jawaddi Taksal",
+    "latitude": 30.8729931,
+    "longitude": 75.8242817,
+    "place_id": "ChIJGZ8wvBepkAcR9FNXyNU07Yk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGZ8wvBepkAcR9FNXyNU07Yk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:38:09"
+  }
+]

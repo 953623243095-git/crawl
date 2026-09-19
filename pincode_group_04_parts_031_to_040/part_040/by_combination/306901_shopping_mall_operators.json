@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mall of Joy",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "306901",
+    "phone_number": "N/A",
+    "website": "http://mallofjoy.net/",
+    "rating": 3.7,
+    "reviews_count": 11211,
+    "address": "Baker Junction, Chalukunnu, Kottayam, Keralam 686001",
+    "area": "Chalukunnu",
+    "latitude": 9.5922252,
+    "longitude": 76.5218052,
+    "place_id": "ChIJq6qq2ggrBjsRFzNH62d_MFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qq2ggrBjsRFzNH62d_MFg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:40:49"
+  },
+  {
+    "business_name": "Crown Interiorz Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "306901",
+    "phone_number": "+91 129 419 0700",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 33698,
+    "address": "12, 7, मथुरा मार्ग, near sarai khawaza, Ashoka Enclave 3, Subash Nagar, Sector 35, Faridabad, Haryana 121003",
+    "area": "Ashoka Enclave 3, Subash Nagar, Sector 35",
+    "latitude": 28.469616499999997,
+    "longitude": 77.30714789999999,
+    "place_id": "ChIJJRXfZ0DnDDkRhU9HTJuB2yo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJRXfZ0DnDDkRhU9HTJuB2yo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:40:49"
+  }
+]

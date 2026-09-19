@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prahlad Jethmal Soni Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "306306",
+    "phone_number": "+91 76918 11178",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "216, Murlidhar Chowk Rd, Tehsil, Chandawal, Sojat, Rajasthan 306306",
+    "area": "Tehsil",
+    "latitude": 26.0043799,
+    "longitude": 73.8414368,
+    "place_id": "ChIJ9-X09V_taTkRwmnO_9V12uM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9-X09V_taTkRwmnO_9V12uM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:57:53"
+  },
+  {
+    "business_name": "Alankaar Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Jeweler",
+    "pincode": "306306",
+    "phone_number": "+91 89551 24756",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "old vegetable market, opposite Madina mosque, Bilara, Rajasthan 342602",
+    "area": "306306",
+    "latitude": 26.182581199999998,
+    "longitude": 73.7065358,
+    "place_id": "ChIJUUdPtT73aTkRZsXFyvfK2XY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUUdPtT73aTkRZsXFyvfK2XY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:57:55"
+  }
+]

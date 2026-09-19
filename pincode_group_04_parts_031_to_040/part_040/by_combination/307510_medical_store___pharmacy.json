@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishnu Pharma And Hospital",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Ayurvedic clinic",
+    "pincode": "307510",
+    "phone_number": "+91 63501 52675",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "ke samne, Bhumi hotel, Sai Baba Temple, Abu Road, Manpur, Rajasthan 307026",
+    "area": "307510",
+    "latitude": 24.4945259,
+    "longitude": 72.7932321,
+    "place_id": "ChIJn-zdM38pXTkR9RAlOIhFvFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn-zdM38pXTkR9RAlOIhFvFw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:12:53"
+  },
+  {
+    "business_name": "Kashtbhanjan Dev Medicose",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "307510",
+    "phone_number": "+91 78912 70468",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "nr. Jodhpur misthan bhandar, Manpur, Abu Road, Rajasthan 307026",
+    "area": "307510",
+    "latitude": 24.4983439,
+    "longitude": 72.78942099999999,
+    "place_id": "ChIJ34foMCMpXTkRr2qsgdkP4rg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ34foMCMpXTkRr2qsgdkP4rg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:12:55"
+  }
+]

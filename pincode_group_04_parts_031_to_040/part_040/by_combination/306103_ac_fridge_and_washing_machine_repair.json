@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "IFB Point - Akhilya Circle",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance store",
+    "all_categories": "Appliance store",
+    "pincode": "306103",
+    "phone_number": "+91 90248 20266",
+    "website": "https://www.ifbappliances.com/",
+    "rating": 4.4,
+    "reviews_count": 14,
+    "address": "D60, KRPR Plaza, Padma Bhushan Swamy Satyamitrananda Giri Rd, Akhaliya Vikas Yojana, Jodhpur, Rajasthan 342008",
+    "area": "Akhaliya Vikas Yojana",
+    "latitude": 26.2781546,
+    "longitude": 72.9896686,
+    "place_id": "ChIJz9GdXV6PQTkR0vmdf8u0Qio",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz9GdXV6PQTkR0vmdf8u0Qio",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:33:46"
+  },
+  {
+    "business_name": "IFB Point - Ratanada",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance store",
+    "all_categories": "Appliance store, Air conditioning store, Washer & dryer store",
+    "pincode": "306103",
+    "phone_number": "+91 99280 15000",
+    "website": "https://www.ifbappliances.com/",
+    "rating": 3.7,
+    "reviews_count": 93,
+    "address": "Ahuja Complex, Opp Police Line Ratanada Jodhpur, Jodhpur, Rajasthan 342001",
+    "area": "Ratanada",
+    "latitude": 26.279541599999998,
+    "longitude": 73.031897,
+    "place_id": "ChIJ59DU-1CMQTkRqXGpV_zaiL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ59DU-1CMQTkRqXGpV_zaiL4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:33:46"
+  }
+]

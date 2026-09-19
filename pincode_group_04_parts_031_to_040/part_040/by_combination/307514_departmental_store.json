@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "District sirohi",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "307514",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JFFC+G38, Khan, Rajasthan 307514",
+    "area": "307514",
+    "latitude": 24.623779,
+    "longitude": 72.47019449999999,
+    "place_id": "ChIJGUuiZgAzQzkRjxMnizmt40E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGUuiZgAzQzkRjxMnizmt40E",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:19:58"
+  },
+  {
+    "business_name": "SHIVAM PROVISION STORE",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "307514",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bus Stand, Reodar, Rajasthan 307514",
+    "area": "307514",
+    "latitude": 24.618785799999998,
+    "longitude": 72.5274613,
+    "place_id": "ChIJl0XXIdnTXDkRU8yHa_sAZ5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl0XXIdnTXDkRU8yHa_sAZ5w",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:19:58"
+  }
+]

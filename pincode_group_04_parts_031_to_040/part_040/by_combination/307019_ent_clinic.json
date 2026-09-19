@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Doctor Rakesh Tiwari E.N.T",
+    "search_category": "ENT Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "307019",
+    "phone_number": "+91 94607 49695",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "531, opp. Ram Gopal Khanna School, Lajpat Nagar, Alwar, Rajasthan 301001",
+    "area": "Lajpat Nagar",
+    "latitude": 27.5715294,
+    "longitude": 76.61658349999999,
+    "place_id": "ChIJqfy1diCZcjkRmWfFKxWG9zE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqfy1diCZcjkRmWfFKxWG9zE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:46:50"
+  },
+  {
+    "business_name": "Dr. Ashok Chaturvedi",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Doctor",
+    "pincode": "307019",
+    "phone_number": "+91 94623 03822",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Govt. Mor Girls School Ke samne, Nawalgarh, Rajasthan 333042",
+    "area": "307019",
+    "latitude": 27.8597494,
+    "longitude": 75.2737933,
+    "place_id": "ChIJ5dc80Ri1bDkRUyFk5aN671c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5dc80Ri1bDkRUyFk5aN671c",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:46:50"
+  }
+]

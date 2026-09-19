@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sabji Market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "307801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "7VR6+VM5, Sirohi Rd, Harji, Rajasthan 343001",
+    "area": "307801",
+    "latitude": 25.2921253,
+    "longitude": 72.8617233,
+    "place_id": "ChIJSZumPzD6QjkR57Xa_OIn5Sk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSZumPzD6QjkR57Xa_OIn5Sk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:25:35"
+  },
+  {
+    "business_name": "New Grain Market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "307801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 485,
+    "address": "QFV7+W2V, Sangaria, Rajasthan 335063",
+    "area": "307801",
+    "latitude": 29.79487,
+    "longitude": 74.462546,
+    "place_id": "ChIJaVWUx5rlFjkR-nxRjM2Hvf4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaVWUx5rlFjkR-nxRjM2Hvf4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:25:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Resort",
+    "search_category": "Marriage Hall / Kalyana Mandapam",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "306304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 40,
+    "address": "Jaitsar Road, Chak 21 BB, Rajasthan 335041",
+    "area": "306304",
+    "latitude": 29.6920255,
+    "longitude": 73.6363618,
+    "place_id": "ChIJW8xT8_EvFjkRHlBQZosBueY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW8xT8_EvFjkRHlBQZosBueY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:54:51"
+  },
+  {
+    "business_name": "Praveen Wedding Decoration",
+    "search_category": "Marriage Hall / Kalyana Mandapam",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Warehouse",
+    "pincode": "306304",
+    "phone_number": "+91 97999 79838",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Unnamed Road, Dilwara, Rajasthan 305025",
+    "area": "306304",
+    "latitude": 26.336682399999997,
+    "longitude": 74.7228456,
+    "place_id": "ChIJt1Lm9Z1ZaTkRR_JCzwSOY0A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt1Lm9Z1ZaTkRR_JCzwSOY0A",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:54:51"
+  }
+]

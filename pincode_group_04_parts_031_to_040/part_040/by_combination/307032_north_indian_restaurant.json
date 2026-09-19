@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "North Indian Food",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "307032",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "PGI HOSPITAL CHANDIGARH, Madhya Marg, Sector 12, Chandigarh, 160012",
+    "area": "Sector 12",
+    "latitude": 30.76299,
+    "longitude": 76.7751854,
+    "place_id": "ChIJQYBQ84rtDzkRtOyB-9mES7A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQYBQ84rtDzkRtOyB-9mES7A",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:06:59"
+  },
+  {
+    "business_name": "CURRY KINGDOM",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "307032",
+    "phone_number": "+91 98729 34060",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No-12,Ground floor, Block-D, center, opposite Family Masala, Chandigarh, Zirakpur, Punjab 140603",
+    "area": "307032",
+    "latitude": 30.6383217,
+    "longitude": 76.8201745,
+    "place_id": "ChIJ2VtAT2jrDzkRusoSTD_Vln0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2VtAT2jrDzkRusoSTD_Vln0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:06:59"
+  }
+]

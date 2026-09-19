@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AROGYA WELLNESS CLINIC",
+    "search_category": "Wellness Center",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic, Health consultant",
+    "pincode": "306709",
+    "phone_number": "+91 98285 77234",
+    "website": "http://www.snherbals.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Gate no, NAND VIHAR, P no 50-51, service lane, Block C, Vaishali Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "Block C, Vaishali Nagar",
+    "latitude": 26.9130745,
+    "longitude": 75.7430832,
+    "place_id": "ChIJIXcV1w61bTkR1LNh2L5yWoE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIXcV1w61bTkR1LNh2L5yWoE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:38:14"
+  },
+  {
+    "business_name": "DHANURVEDA WELLNESS",
+    "search_category": "Wellness Center",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic",
+    "pincode": "306709",
+    "phone_number": "+91 92567 22667",
+    "website": "https://www.abhayayurved.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Banjari Marg, 54, Benad Rd, Anand Vihar-A, Deep Nagar, Jhotwara, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302018",
+    "area": "Anand Vihar-A, Deep Nagar, Jhotwara",
+    "latitude": 26.9653729,
+    "longitude": 75.7491551,
+    "place_id": "ChIJgV-mr8WzbTkR50ZyFwCwbS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgV-mr8WzbTkR50ZyFwCwbS4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:38:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kumbhalmer Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "306601",
+    "phone_number": "+91 82091 93349",
+    "website": "https://kumbhalmerresort.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Fort Road, Jetaran, Kumbhalgarh, Rajasthan 313325",
+    "area": "306601",
+    "latitude": 25.0706006,
+    "longitude": 73.50186769999999,
+    "place_id": "ChIJWQ0ngnIfaDkRGkRpUODujsY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWQ0ngnIfaDkRGkRpUODujsY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:17:47"
+  },
+  {
+    "business_name": "Rankawat Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Hotel",
+    "pincode": "306601",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Ranakpur-Falna Road, near HP Petrol Pump, Sadri, Rajasthan 306702",
+    "area": "306601",
+    "latitude": 25.188497899999998,
+    "longitude": 73.4416296,
+    "place_id": "ChIJA9LJgg-fQjkRLL6UiBAlP2k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA9LJgg-fQjkRLL6UiBAlP2k",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:17:47"
+  }
+]

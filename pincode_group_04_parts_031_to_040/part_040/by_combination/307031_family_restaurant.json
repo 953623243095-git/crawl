@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "भीमाना",
+    "search_category": "Family Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "307031",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7 V, Pindwara, Rajasthan 307031",
+    "area": "307031",
+    "latitude": 24.820695399999998,
+    "longitude": 73.08973019999999,
+    "place_id": "ChIJ4yrlcAC3QjkRY7pJ9BtMjPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4yrlcAC3QjkRY7pJ9BtMjPA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:05:02"
+  },
+  {
+    "business_name": "Jay Shree Ram Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "307031",
+    "phone_number": "+91 83850 41230",
+    "website": "https://www.jayshreeram.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jay shree ram restaurant and fast food conuer, near Nagar Palika Road, Indra Colony, Pindwara, Pinwada, Rajasthan 307022",
+    "area": "Indra Colony",
+    "latitude": 24.7930937,
+    "longitude": 73.05121489999999,
+    "place_id": "ChIJW62aZSDJQjkRaAc06cCmyFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW62aZSDJQjkRaAc06cCmyFU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:05:02"
+  }
+]

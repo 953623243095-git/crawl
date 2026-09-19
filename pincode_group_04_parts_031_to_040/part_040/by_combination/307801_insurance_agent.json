@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajlaxmi Info Services",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "307801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "jawariyo ki seri, Manora, Rajasthan 307801",
+    "area": "307801",
+    "latitude": 25.040428499999997,
+    "longitude": 72.7031551,
+    "place_id": "ChIJ7yXqkZYfQzkR2O85CHDK7_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7yXqkZYfQzkR2O85CHDK7_c",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:25:10"
+  },
+  {
+    "business_name": "NN ENTERPRISES INSURANCE SERVICES",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance broker",
+    "all_categories": "Insurance broker",
+    "pincode": "307801",
+    "phone_number": "+91 98286 69996",
+    "website": "http://nn-enterprises.ueniweb.com/",
+    "rating": 5,
+    "reviews_count": 120,
+    "address": "Rajadhok toll plaza, Near, Jhar, Rajasthan 303305",
+    "area": "Rajadhonk",
+    "latitude": 26.8590764,
+    "longitude": 76.1105252,
+    "place_id": "ChIJ7ZBFoUmVbTkRkKzD8zlpUjs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7ZBFoUmVbTkRkKzD8zlpUjs",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:25:13"
+  }
+]

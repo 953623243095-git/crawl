@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Mobile Shop",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "306307",
+    "phone_number": "+91 141 403 9286",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 60,
+    "address": "Raisar Plaza, Kishanpole Bazar, Chandpole Bazar, Indira Bazar, Pink City, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302001",
+    "area": "Kishanpole Bazar, Chandpole Bazar, Indira Bazar, Pink City",
+    "latitude": 26.9189804,
+    "longitude": 75.814527,
+    "place_id": "ChIJM7j56qy2bTkRWvk0E8uHyg4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM7j56qy2bTkRWvk0E8uHyg4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:00:53"
+  },
+  {
+    "business_name": "yash mobile care",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "306307",
+    "phone_number": "+91 97821 01073",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 977,
+    "address": "B-10, Gautam Path, Mitra Nagar, Ramnagar, Sodala, Jaipur, Rajasthan 302019",
+    "area": "Mitra Nagar, Sodala",
+    "latitude": 26.8981803,
+    "longitude": 75.7775434,
+    "place_id": "ChIJwQQOXmm0bTkRTjNnKyd5XSw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwQQOXmm0bTkRTjNnKyd5XSw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:00:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahadev enterprises",
+    "search_category": "Electrician",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "306902",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "533R+2WM, Chaudhary Colony, Sumerpur, Rajasthan 306902",
+    "area": "Chaudhary Colony",
+    "latitude": 25.1525775,
+    "longitude": 73.09229359999999,
+    "place_id": "ChIJ3Ykvp5STQjkREdhM16nyCDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Ykvp5STQjkREdhM16nyCDU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:41:44"
+  },
+  {
+    "business_name": "Charbhuja Electrical Sales and Service",
+    "search_category": "Electrician",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "306902",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tehsil Road, near Town Hall, Sheoganj, Rajasthan 307027",
+    "area": "Dhobi Mohalla",
+    "latitude": 25.1447853,
+    "longitude": 73.06128079999999,
+    "place_id": "ChIJ8cCv04PtQjkRoJdMbrQ0Ex8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8cCv04PtQjkRoJdMbrQ0Ex8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:41:44"
+  }
+]

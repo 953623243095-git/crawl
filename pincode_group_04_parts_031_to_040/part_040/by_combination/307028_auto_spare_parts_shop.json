@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PRAKASH AUTO SPARES",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "307028",
+    "phone_number": "+91 80030 04853",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Jodhpur Road, Ahore, Rajasthan 307029",
+    "area": "307028",
+    "latitude": 25.375575899999998,
+    "longitude": 72.7814731,
+    "place_id": "ChIJsW783Br_QjkR2Z_IPNtWIJc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsW783Br_QjkR2Z_IPNtWIJc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:59:54"
+  },
+  {
+    "business_name": "Sureshwar Spareparts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Motorcycle parts store",
+    "all_categories": "Motorcycle parts store",
+    "pincode": "307028",
+    "phone_number": "+91 98299 32219",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ahore, Rajasthan 307029",
+    "area": "307028",
+    "latitude": 25.372743699999997,
+    "longitude": 72.78258199999999,
+    "place_id": "ChIJIRZeUQD_QjkRWtfNGl1To2M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIRZeUQD_QjkRWtfNGl1To2M",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:59:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naveen travels",
+    "search_category": "Insurance Agent",
+    "primary_category": "Home insurance agency",
+    "all_categories": "Home insurance agency",
+    "pincode": "306305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3XW5+X62, Kushalpura, Rajasthan 306305",
+    "area": "306305",
+    "latitude": 26.097380599999997,
+    "longitude": 73.95802479999999,
+    "place_id": "ChIJqc_dMwCPaTkRWyFdr8jzDr8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqc_dMwCPaTkRWyFdr8jzDr8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:57:06"
+  },
+  {
+    "business_name": "Jayantah Emitar & Statinory",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "306305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4W43+P5H, Jaitaran Rd, Chawandiya, Rajasthan 306305",
+    "area": "306305",
+    "latitude": 26.1068118,
+    "longitude": 73.90297319999999,
+    "place_id": "ChIJ36LzhseNaTkRf4N8vlu2Zlo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ36LzhseNaTkRf4N8vlu2Zlo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:57:06"
+  }
+]

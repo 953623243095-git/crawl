@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jai Keshar Bhawani hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "306114",
+    "phone_number": "+91 85600 13212",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 51,
+    "address": "NH 162, Chandawal Nagar Bypass, Chandawal, Rajasthan 306306",
+    "area": "306114",
+    "latitude": 26.007972,
+    "longitude": 73.8575982,
+    "place_id": "ChIJMxtxtSOTaTkRbVpb6zVC9TQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMxtxtSOTaTkRbVpb6zVC9TQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:39:38"
+  },
+  {
+    "business_name": "HOTEL BASERA",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "306114",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 21,
+    "address": "2V56+QCP, Chandawal Nagar Bypass, Chandawal, Rajasthan 306306",
+    "area": "306114",
+    "latitude": 26.009457899999997,
+    "longitude": 73.86108879999999,
+    "place_id": "ChIJ_zajPeyTaTkR7IWml_UN62E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_zajPeyTaTkR7IWml_UN62E",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:39:38"
+  }
+]

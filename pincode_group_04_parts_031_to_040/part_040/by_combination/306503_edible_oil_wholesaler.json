@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MUKESH OIL MILL PRIVATE LIMITED",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Oil refinery",
+    "all_categories": "Oil refinery",
+    "pincode": "306503",
+    "phone_number": "+91 1460 222 479",
+    "website": "https://mompl.in/",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "E-59, RIICO Industrial Area, Khairthal, Rajasthan 301404",
+    "area": "RIICO Industrial Area",
+    "latitude": 27.798271,
+    "longitude": 76.65052899999999,
+    "place_id": "ChIJv4HIL9C6cjkRi2chcfeU_Ls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv4HIL9C6cjkRi2chcfeU_Ls",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:12:54"
+  },
+  {
+    "business_name": "Rajendra Oil And Company",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Agricultural cooperative",
+    "all_categories": "Agricultural cooperative",
+    "pincode": "306503",
+    "phone_number": "+91 94145 26544",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 6,
+    "address": "Mokampura, Rajasthan 306603",
+    "area": "306503",
+    "latitude": 25.3286744,
+    "longitude": 73.3227512,
+    "place_id": "ChIJd6oNObOFQjkRLdiFyYIvH_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd6oNObOFQjkRLdiFyYIvH_8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:12:56"
+  }
+]

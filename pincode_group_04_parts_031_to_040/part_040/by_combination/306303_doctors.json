@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gp pipaliya khurd",
+    "search_category": "Doctors",
+    "primary_category": "Family practice physician",
+    "all_categories": "Family practice physician",
+    "pincode": "306303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6XWR+VXQ, Rabariyawas - Jaitaran Rd, Ghorawar, Pipaliya, Rajasthan 306302",
+    "area": "306303",
+    "latitude": 26.2477315,
+    "longitude": 73.99222569999999,
+    "place_id": "ChIJRVicJwCJaTkRiSUc_AYzDGk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRVicJwCJaTkRiSUc_AYzDGk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:52:20"
+  },
+  {
+    "business_name": "Rathore House",
+    "search_category": "Doctors",
+    "primary_category": "Family practice physician",
+    "all_categories": "Family practice physician",
+    "pincode": "306303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "52JP+5WQ, Birampuri, Rajasthan 306303",
+    "area": "306303",
+    "latitude": 26.1804603,
+    "longitude": 74.0373591,
+    "place_id": "ChIJv6ObSwCHaTkRm6vy_H7S9iA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv6ObSwCHaTkRm6vy_H7S9iA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:52:20"
+  }
+]

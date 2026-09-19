@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KABIR CAR WASH",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "307513",
+    "phone_number": "+91 96677 26464",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhinmal - Raniwara Rd, near Ramdev Dharm Kanta, Raniwara, Raniwara Kalan, Rajasthan 343040",
+    "area": "307513",
+    "latitude": 24.7613888,
+    "longitude": 72.2112467,
+    "place_id": "ChIJ06VQynJPQzkRKlTGm22WyQY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ06VQynJPQzkRKlTGm22WyQY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:18:41"
+  },
+  {
+    "business_name": "Ashapura Car Wash & Decor",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "307513",
+    "phone_number": "+91 99504 28387",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "HC74+XWV, Sonela, Rajasthan 307513",
+    "area": "307513",
+    "latitude": 24.5647192,
+    "longitude": 72.40608519999999,
+    "place_id": "ChIJr7JqWgDLXDkRJHCuqvDOkLg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr7JqWgDLXDkRJHCuqvDOkLg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:18:41"
+  }
+]

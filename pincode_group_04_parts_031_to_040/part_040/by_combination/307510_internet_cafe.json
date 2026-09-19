@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Veer Baba E-Mitra shop",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "307510",
+    "phone_number": "+91 96808 86638",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FQXX+3F4, Tartoli Road, Tartoli, Rajasthan 307026",
+    "area": "307510",
+    "latitude": 24.4976372,
+    "longitude": 72.7987172,
+    "place_id": "ChIJA903FuIpXTkRORWkKgaJYrk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA903FuIpXTkRORWkKgaJYrk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:13:49"
+  },
+  {
+    "business_name": "DB SERVICE",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "307510",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GRF5+6G, Talahati, Abu Road, Pandoori, Rajasthan 307510",
+    "area": "Talahati",
+    "latitude": 24.523080099999998,
+    "longitude": 72.8088166,
+    "place_id": "ChIJIakKSAAvXTkRRsVTywFU68c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIakKSAAvXTkRRsVTywFU68c",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:13:49"
+  }
+]

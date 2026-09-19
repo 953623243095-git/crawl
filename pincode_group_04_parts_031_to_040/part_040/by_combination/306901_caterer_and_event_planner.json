@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "306901",
+    "phone_number": "+91 98782 73019",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "1132-A, Gobind Pura, Sector 13, Chandigarh, 160101",
+    "area": "Gobind Pura, Sector 13",
+    "latitude": 30.7099281,
+    "longitude": 76.837176,
+    "place_id": "ChIJN-7VEFmTDzkRiGAl4t-12v4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN-7VEFmTDzkRiGAl4t-12v4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:40:04"
+  },
+  {
+    "business_name": "Food Craft Catering",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Event management company, Event venue, Restaurant supply store, Wedding planner, Wedding service",
+    "pincode": "306901",
+    "phone_number": "+91 98880 67777",
+    "website": "http://foodcraft.in/",
+    "rating": 4.7,
+    "reviews_count": 216,
+    "address": "1251, Sector 82, JLPL Industrial Area, Sahibzada Ajit Singh Nagar, Chandigarh, Punjab 140306",
+    "area": "Sector 82, JLPL Industrial Area",
+    "latitude": 30.654461899999998,
+    "longitude": 76.73808149999999,
+    "place_id": "ChIJTTr4jvbuDzkRrLtEAbDnlEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTTr4jvbuDzkRrLtEAbDnlEg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:40:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navedhyam fast break pali",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "306401",
+    "phone_number": "+91 89468 86442",
+    "website": "https://zoma.to/r/20450640",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Lodha School Rd, Veer Durga Das Nagar, Pali, Rajasthan 306401",
+    "area": "Veer Durga Das Nagar",
+    "latitude": 25.7747958,
+    "longitude": 73.33348939999999,
+    "place_id": "ChIJlQHuhHhzQjkR6R-q2SY4UjE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlQHuhHhzQjkR6R-q2SY4UjE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:03:29"
+  },
+  {
+    "business_name": "Woodland Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Fast food restaurant",
+    "pincode": "306401",
+    "phone_number": "+91 98281 22878",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 220,
+    "address": "Q8FM+Q26, Veer Durga Das Nagar, Pali, Rajasthan 306401",
+    "area": "Veer Durga Das Nagar",
+    "latitude": 25.7744069,
+    "longitude": 73.33252499999999,
+    "place_id": "ChIJX-grFgdzQjkRRc62_UvUACs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX-grFgdzQjkRRc62_UvUACs",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:03:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa bhavani veg & non veg hotal",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "306104",
+    "phone_number": "+91 93522 66451",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Khutaliya road, Padasala Khurd, Rajasthan 342605",
+    "area": "306104",
+    "latitude": 26.1140722,
+    "longitude": 73.541744,
+    "place_id": "ChIJzZQ8_xj9aTkRFk7DtOJBHXo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzZQ8_xj9aTkRFk7DtOJBHXo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:34:56"
+  },
+  {
+    "business_name": "Surya Hotel And Guest House Veg Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Breakfast restaurant",
+    "pincode": "306104",
+    "phone_number": "+91 99504 44772",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 888,
+    "address": "Bilara, Rajasthan 342602",
+    "area": "306104",
+    "latitude": 26.185558,
+    "longitude": 73.70834289999999,
+    "place_id": "ChIJycptJFb2aTkR93EAgp0wH_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJycptJFb2aTkR93EAgp0wH_M",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:34:59"
+  }
+]

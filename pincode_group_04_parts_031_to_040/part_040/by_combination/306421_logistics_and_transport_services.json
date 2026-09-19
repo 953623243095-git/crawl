@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Delhi Rajasthan Transport Co. Ltd.",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "306421",
+    "phone_number": "+91 95719 99119",
+    "website": "http://drtcindia.com/",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "F-224, RICO Industrial Area, Palra, Rajasthan 306401",
+    "area": "306421",
+    "latitude": 25.761765,
+    "longitude": 73.229354,
+    "place_id": "ChIJOVVVVVVsQjkRiVoHDC_25Eg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOVVVVVVsQjkRiVoHDC_25Eg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:05:59"
+  },
+  {
+    "business_name": "Girnar Logistics Pvt. Ltd.",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "306421",
+    "phone_number": "+91 2932 221 436",
+    "website": "http://www.girnarlogistics.com/",
+    "rating": 3.8,
+    "reviews_count": 5,
+    "address": "19, Transport Nagar, Naya Gaon, Pali, Rajasthan 306401",
+    "area": "Transport Nagar, Naya Gaon",
+    "latitude": 25.786769999999997,
+    "longitude": 73.362765,
+    "place_id": "ChIJmyxJqHtzQjkR2ILzt89y-UI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmyxJqHtzQjkR2ILzt89y-UI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:06:00"
+  }
+]

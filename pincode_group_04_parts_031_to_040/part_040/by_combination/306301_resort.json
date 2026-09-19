@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "King Beverage Company( Ceeke Authorised Distributor)",
+    "search_category": "Resort",
+    "primary_category": "Beverage Store",
+    "all_categories": "Beverage Store",
+    "pincode": "306301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Q9H2+M94, नया गाँव मार्ग, opposite Aishwarya College Of Education, Pali Marwar, Pali, Rajasthan 306401",
+    "area": "Pali Marwar",
+    "latitude": 25.7791303,
+    "longitude": 73.35094769999999,
+    "place_id": "ChIJxfZ7UnRzQjkRrIQq0OUiTBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxfZ7UnRzQjkRrIQq0OUiTBw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:49:10"
+  },
+  {
+    "business_name": "Dera Masuda | A Luxury Resort in Pushkar",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Bar, Hotel, Restaurant",
+    "pincode": "306301",
+    "phone_number": "+91 85111 32958",
+    "website": "http://www.deramasuda.com/",
+    "rating": 3.9,
+    "reviews_count": 1555,
+    "address": "Motisar Rd, Pushkar, Ganaheda, Rajasthan 305022",
+    "area": "306301",
+    "latitude": 26.478090599999998,
+    "longitude": 74.5238779,
+    "place_id": "ChIJZygBWOvcazkRO1-lHUpEpQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZygBWOvcazkRO1-lHUpEpQQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:49:10"
+  }
+]

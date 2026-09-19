@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Puja Education",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Consultant, Education center",
+    "pincode": "306105",
+    "phone_number": "+91 93555 88988",
+    "website": "https://www.pujaeducation.com/",
+    "rating": 4.8,
+    "reviews_count": 373,
+    "address": "backside of Ruban hospital, E-211, Road No. 2, Patliputra Colony, Patna, Bihar 800013",
+    "area": "Patliputra Colony",
+    "latitude": 25.6293793,
+    "longitude": 85.1135469,
+    "place_id": "ChIJfRxOoTFX7TkRPRBaR5a2H7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfRxOoTFX7TkRPRBaR5a2H7c",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:37:56"
+  },
+  {
+    "business_name": "InCred Finance",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Financial institution, Loan agency, Mortgage broker, Mortgage lender",
+    "pincode": "306105",
+    "phone_number": "+91 1800 102 2192",
+    "website": "https://incred.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "3rd Floor, NN Complex, MDR24, Jaitaran, Rajasthan 306302",
+    "area": "306105",
+    "latitude": 26.205728399999998,
+    "longitude": 73.9394272,
+    "place_id": "ChIJlRfvnkqJaTkRshfeycOoxRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlRfvnkqJaTkRshfeycOoxRw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:37:56"
+  }
+]

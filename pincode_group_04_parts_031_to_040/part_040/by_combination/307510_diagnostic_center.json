@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhairav chikitsa kendra",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "307510",
+    "phone_number": "+91 63506 25599",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "GQQV+9C9, marg, Danvav, Abu Road, Rajasthan 307510",
+    "area": "Danvav",
+    "latitude": 24.5384012,
+    "longitude": 72.7936158,
+    "place_id": "ChIJm_DfHkgpXTkRUxTdrdmMOz0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm_DfHkgpXTkRUxTdrdmMOz0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:12:59"
+  },
+  {
+    "business_name": "S. P HEALTH CARE",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "307510",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FQJM+J56, Parsi Chal, Abu Road, Rajasthan 307026",
+    "area": "Parsi Chal",
+    "latitude": 24.4815696,
+    "longitude": 72.7828681,
+    "place_id": "ChIJ3-NiXAApXTkRYzO7PfLMs5g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3-NiXAApXTkRYzO7PfLMs5g",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:13:00"
+  }
+]

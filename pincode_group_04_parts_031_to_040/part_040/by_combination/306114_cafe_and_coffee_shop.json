@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pyali",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "306114",
+    "phone_number": "+91 95212 66337",
+    "website": "https://pyali.co/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "C-16, Maharana Pratap Road Gokul Nagar, 100fit, Gokulpura, Jaipur, Rajasthan 302012",
+    "area": "100fit, Gokulpura",
+    "latitude": 26.942522699999998,
+    "longitude": 75.7267505,
+    "place_id": "ChIJEfypofuzbTkRtQ9t76gOzYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEfypofuzbTkRtQ9t76gOzYo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:38:42"
+  },
+  {
+    "business_name": "Imperial Food & Beverages",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee roastery",
+    "all_categories": "Coffee roastery, Coffee store, Coffee vending machine, Coffee wholesaler",
+    "pincode": "306114",
+    "phone_number": "+91 92144 27315",
+    "website": "http://elimo.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "68A, Chinta Mani Marg, Rao JI Ka Hatta, Rao Ji Ka Hata, Udaipur, Rajasthan 313001",
+    "area": "Rao JI Ka Hatta, Rao Ji Ka Hata",
+    "latitude": 24.5756433,
+    "longitude": 73.68674299999999,
+    "place_id": "ChIJlU5QUyXlZzkRovis3k4qZU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlU5QUyXlZzkRovis3k4qZU4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:38:44"
+  }
+]

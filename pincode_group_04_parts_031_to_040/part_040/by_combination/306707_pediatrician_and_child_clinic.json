@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Ravi Ambey",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Child health care center, Neonatal physician, Doctor",
+    "pincode": "306707",
+    "phone_number": "+91 751 245 3519",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "JAH Campus, GR Medical College, 14 B, Kampoo Rd, near Madhav Dispensary, J. A. Hospital Campus, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "area": "J. A. Hospital Campus, Lashkar",
+    "latitude": 26.1934985,
+    "longitude": 78.1605081,
+    "place_id": "ChIJqzksnMzFdjkRRJST47XZeOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqzksnMzFdjkRRJST47XZeOA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:33:56"
+  },
+  {
+    "business_name": "Dr Sumit Suresh Patodia",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Child health care center, Doctor, Neonatal physician",
+    "pincode": "306707",
+    "phone_number": "+91 97233 03988",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 540,
+    "address": "House No 4, Ground Floor, Jai Jawan Colony 3rd, Tonk Rd, Milap Nagar, Jaipur, Rajasthan 302018",
+    "area": "Jai Jawan Colony, Milap Nagar",
+    "latitude": 26.853752699999998,
+    "longitude": 75.8014752,
+    "place_id": "ChIJ7xZwfKe1bTkRcUPC-3rXqRI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7xZwfKe1bTkRcUPC-3rXqRI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:33:57"
+  }
+]

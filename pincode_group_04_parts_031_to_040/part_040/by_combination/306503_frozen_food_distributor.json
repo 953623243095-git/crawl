@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SM Pal Group",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "306503",
+    "phone_number": "+91 90455 99277",
+    "website": "https://smpalgroup.com/",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Palam City, Devalchaur, Rampur Rd, opp. Pal Ford, Haldwani, Uttarakhand 263139",
+    "area": "Dahariya",
+    "latitude": 29.1926225,
+    "longitude": 79.510025,
+    "place_id": "ChIJAauSf0eFoDkRa13bEELhR8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAauSf0eFoDkRa13bEELhR8I",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:12:57"
+  },
+  {
+    "business_name": "M/S Bikaner rasgulla Bhandar",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food producer",
+    "all_categories": "Food producer, Buffet restaurant, Sweets and dessert buffet",
+    "pincode": "306503",
+    "phone_number": "+91 96363 78248",
+    "website": "https://parirajfoods.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Mandi Road, radha bagh, Chomu, Rajasthan 303702",
+    "area": "radha bagh",
+    "latitude": 27.163009499999998,
+    "longitude": 75.7262767,
+    "place_id": "ChIJ-6at68eqbTkRJ45vvM9JvC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-6at68eqbTkRJ45vvM9JvC0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:12:58"
+  }
+]

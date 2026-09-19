@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Banshi Software",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Website designer",
+    "pincode": "307513",
+    "phone_number": "+91 89495 63933",
+    "website": "https://www.banshisoftware.com/",
+    "rating": 3.9,
+    "reviews_count": 9,
+    "address": "Plot Number - 4, Street Number 1, Milkman Colony, Jodhpur, Rajasthan 342003",
+    "area": "Milkman Colony",
+    "latitude": 26.264339399999997,
+    "longitude": 72.9920933,
+    "place_id": "ChIJyazgjYSPQTkRqPJFH8iM9bA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyazgjYSPQTkRqPJFH8iM9bA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:19:28"
+  },
+  {
+    "business_name": "Shree Shyam Technology",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Electronics vending machine",
+    "all_categories": "Electronics vending machine, Electronics Company",
+    "pincode": "307513",
+    "phone_number": "+91 97836 69954",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 32,
+    "address": "Gate No. 02, Shree Shyam Technology, 3rd Floor, Plot No. 20, Tonk Rd, near Gandhinagar Jaipur Railway Station, Rishi Colony, Jaipur, Rajasthan 302015",
+    "area": "Jawahar Nagar, Rishi Colony",
+    "latitude": 26.872490799999998,
+    "longitude": 75.7987113,
+    "place_id": "ChIJscTKsF23bTkRpElZCsPjnhc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJscTKsF23bTkRpElZCsPjnhc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:19:28"
+  }
+]

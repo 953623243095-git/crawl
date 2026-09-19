@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "USB College",
+    "search_category": "Junior College and Degree College",
+    "primary_category": "College",
+    "all_categories": "College",
+    "pincode": "307027",
+    "phone_number": "+91 2974 226 686",
+    "website": "http://www.usbeducation.org/",
+    "rating": 3.9,
+    "reviews_count": 101,
+    "address": "G-192, RIICO Industrial Area, B/H LIC Building, Abu Road, Rajasthan 307026",
+    "area": "307027",
+    "latitude": 24.4390145,
+    "longitude": 72.76444099999999,
+    "place_id": "ChIJ98jfD0kmXTkRkaWuZJS_H3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ98jfD0kmXTkRkaWuZJS_H3s",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:58:41"
+  },
+  {
+    "business_name": "Government Girls College",
+    "search_category": "Junior College and Degree College",
+    "primary_category": "Government college",
+    "all_categories": "Government college, College",
+    "pincode": "307027",
+    "phone_number": "+91 98876 63143",
+    "website": "https://hte.rajasthan.gov.in/college/ggcsirohi",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "HPR4+F3Q, Palace Road, Sirohi, Rajasthan 307001",
+    "area": "307027",
+    "latitude": 24.5912228,
+    "longitude": 72.7052422,
+    "place_id": "ChIJtfR6tYbVXDkRKheV6f2V3V4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtfR6tYbVXDkRKheV6f2V3V4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:58:41"
+  }
+]

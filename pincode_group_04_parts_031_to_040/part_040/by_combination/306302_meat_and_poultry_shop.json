@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sethiya Trading Company",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store, Agricultural Product Wholesaler",
+    "pincode": "306302",
+    "phone_number": "+91 77374 25005",
+    "website": "http://www.dairyvardaan.in/",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "Godown No. 4, Krishi Upaj Mandi,, Bhilwara, Rajasthan 311001",
+    "area": "R K Colony",
+    "latitude": 25.356226799999998,
+    "longitude": 74.63542919999999,
+    "place_id": "ChIJqw2H_0nCaDkRgPubFM_T1Vw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqw2H_0nCaDkRgPubFM_T1Vw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:49:59"
+  },
+  {
+    "business_name": "Pal'z meat shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Raw food restaurant",
+    "all_categories": "Raw food restaurant, Restaurant",
+    "pincode": "306302",
+    "phone_number": "+91 98889 97719",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 8,
+    "address": "Booth 36, Phase 6, Sector 56, Sahibzada Ajit Singh Nagar, Punjab 160055",
+    "area": "Phase 6, Sector 56",
+    "latitude": 30.735079199999998,
+    "longitude": 76.7168344,
+    "place_id": "ChIJAxV7r2zuDzkR-bIh_vgUqw8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAxV7r2zuDzkR-bIh_vgUqw8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:49:59"
+  }
+]

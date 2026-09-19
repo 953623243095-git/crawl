@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baramati fish market",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market",
+    "pincode": "306421",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Samarth Nagar, Baramati, Maharashtra 413102",
+    "area": "Samarth Nagar",
+    "latitude": 18.1450451,
+    "longitude": 74.5733776,
+    "place_id": "ChIJN8cBk7WhwzsRV3WSn9Q98AY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN8cBk7WhwzsRV3WSn9Q98AY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:05:20"
+  },
+  {
+    "business_name": "Fish Market, Dhamra",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "306421",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "QVWX+3G2, Dhamara, Odisha 756171",
+    "area": "306421",
+    "latitude": 20.795148599999997,
+    "longitude": 86.8987812,
+    "place_id": "ChIJS95e5vadGzoRz1-eTXUbCEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS95e5vadGzoRz1-eTXUbCEw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:05:20"
+  }
+]

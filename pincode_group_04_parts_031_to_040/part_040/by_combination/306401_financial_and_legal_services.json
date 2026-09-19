@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Padmawati & Sanklecha E-services",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services",
+    "pincode": "306401",
+    "phone_number": "+91 96360 82808",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "jodhpur road, opp. second registrar office, Rajasthan 306401",
+    "area": "306401",
+    "latitude": 25.806043799999998,
+    "longitude": 73.26382219999999,
+    "place_id": "ChIJgW4MFRltQjkRvzmNkH1TxW8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgW4MFRltQjkRvzmNkH1TxW8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:04:52"
+  },
+  {
+    "business_name": "Save Your Fund",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "306401",
+    "phone_number": "+91 74270 77715",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "near Chetna hotel, Pani Darwaja, Nadi Mohalla, Pali, Rajasthan 306401",
+    "area": "Pani Darwaja, Nadi Mohalla",
+    "latitude": 25.7783184,
+    "longitude": 73.3237838,
+    "place_id": "ChIJA5BmSRhzQjkRokG1Hjy6wV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA5BmSRhzQjkRokG1Hjy6wV4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:04:55"
+  }
+]

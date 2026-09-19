@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kumbhalgarh Non Veg Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "306703",
+    "phone_number": "+91 96027 89355",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 24,
+    "address": "Fort Road Kumbhalgarh, near via lakhela hotel, Beer Ki Bhagal, Rajasthan 313325",
+    "area": "306703",
+    "latitude": 25.1230466,
+    "longitude": 73.5902788,
+    "place_id": "ChIJNTiPS_wjaDkR7l-ntwWHacM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNTiPS_wjaDkR7l-ntwWHacM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:26:04"
+  },
+  {
+    "business_name": "श्री देवनारायण होटल",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Restaurant",
+    "pincode": "306703",
+    "phone_number": "+91 91193 35530",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 599,
+    "address": "bus stand, Jhilwara, Desuri Road, Hataji Ka Gurha, Rajasthan 313333",
+    "area": "306703",
+    "latitude": 25.2329691,
+    "longitude": 73.6659719,
+    "place_id": "ChIJCQFTnl47aDkRW0ZX4WP2Edo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCQFTnl47aDkRW0ZX4WP2Edo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:26:04"
+  }
+]

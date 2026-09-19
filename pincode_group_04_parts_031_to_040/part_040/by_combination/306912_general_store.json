@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Kirana Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "306912",
+    "phone_number": "+91 80942 59931",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 14,
+    "address": "82G3+R8P, Takhatgarh, Rajasthan 306901",
+    "area": "306912",
+    "latitude": 25.3270774,
+    "longitude": 73.00331489999999,
+    "place_id": "ChIJFejwcwb0QjkRJXDt2msiFoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFejwcwb0QjkRJXDt2msiFoA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:42:49"
+  },
+  {
+    "business_name": "Himani Kirana General Store",
+    "search_category": "General Store",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "306912",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 5,
+    "address": "8W9R+8W2, Bedana Khurd, Rajasthan 307030",
+    "area": "306912",
+    "latitude": 25.3182588,
+    "longitude": 72.9422797,
+    "place_id": "ChIJJ5WKuiv3QjkRBZbg6TJ62X4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ5WKuiv3QjkRBZbg6TJ62X4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:42:49"
+  }
+]

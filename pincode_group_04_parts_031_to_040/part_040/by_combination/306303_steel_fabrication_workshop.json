@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajasthan engineering workshop",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "306303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2XRJ+622, Jhoontha, Jhuntha, Rajasthan 306304",
+    "area": "306303",
+    "latitude": 26.0406163,
+    "longitude": 73.9799673,
+    "place_id": "ChIJ36QaZwCRaTkRsBwt1AD80IQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ36QaZwCRaTkRsBwt1AD80IQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:53:26"
+  },
+  {
+    "business_name": "Bhavesh Enterprises",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Tool & die shop",
+    "all_categories": "Tool & die shop",
+    "pincode": "306303",
+    "phone_number": "+91 88540 88680",
+    "website": "https://www.bhavesh-enterprises.com/",
+    "rating": 4.7,
+    "reviews_count": 14,
+    "address": "Khasra No. 88, RIICO Industrial Area, Harchandpur, Bhiwadi, Rajasthan 301019",
+    "area": "RIICO Industrial Area",
+    "latitude": 28.2028309,
+    "longitude": 76.8534681,
+    "place_id": "ChIJM8PE-P83DTkR1JHz7xUWeso",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM8PE-P83DTkR1JHz7xUWeso",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:53:29"
+  }
+]

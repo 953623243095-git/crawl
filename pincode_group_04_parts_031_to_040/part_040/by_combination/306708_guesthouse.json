@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Savera Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "306708",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 15,
+    "address": "534H+5GH, Rajavadi Colony, Sumerpur, Rajasthan 306902",
+    "area": "Rajavadi Colony",
+    "latitude": 25.1554482,
+    "longitude": 73.0788446,
+    "place_id": "ChIJN0yTF67sQjkReuvMrx3fmQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN0yTF67sQjkReuvMrx3fmQw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:36:26"
+  },
+  {
+    "business_name": "Hotel aaram and rest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Soup kitchen",
+    "all_categories": "Soup kitchen",
+    "pincode": "306708",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "74Q9+5PR, Dujana, Rajasthan 306708",
+    "area": "306708",
+    "latitude": 25.287983,
+    "longitude": 73.1192508,
+    "place_id": "ChIJP4PdEACNQjkRvLdY0hMzF7E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP4PdEACNQjkRvLdY0hMzF7E",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:36:29"
+  }
+]

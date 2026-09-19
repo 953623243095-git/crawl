@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DR SURESH KUMAR",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Children's hospital, Pediatric clinic",
+    "pincode": "306504",
+    "phone_number": "+91 99504 47047",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SANJAY MEDICAL KE PASS, Indra Colony, Pindwara, Rajasthan 307022",
+    "area": "Indra Colony",
+    "latitude": 24.793659299999998,
+    "longitude": 73.0505373,
+    "place_id": "ChIJu6J-fyLJQjkR5FTfOgNEA1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu6J-fyLJQjkR5FTfOgNEA1s",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:15:15"
+  },
+  {
+    "business_name": "Dr prateek Agrawal",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Doctor",
+    "pincode": "306504",
+    "phone_number": "N/A",
+    "website": "https://book-appointment.healthplix.com/dr-dr-prateek-agrawal-pedratician-and-family-physician-behind-government-hospital-pindwara#",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Mahaveer sanjivani hospital, Forest Colony, Pindwara, Rajasthan 307022",
+    "area": "Forest Colony",
+    "latitude": 24.795594599999998,
+    "longitude": 73.0503688,
+    "place_id": "ChIJsxvk9t3JQjkR3RA4743Su7M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsxvk9t3JQjkR3RA4743Su7M",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:15:16"
+  }
+]

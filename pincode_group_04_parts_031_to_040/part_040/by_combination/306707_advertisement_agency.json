@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "digicrafters",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant, Service establishment",
+    "pincode": "306707",
+    "phone_number": "+91 90017 42360",
+    "website": "https://digicrafters.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "digicrafters, 306707, India",
+    "area": "306707",
+    "latitude": 25.4074794,
+    "longitude": 73.3269816,
+    "place_id": "ChIJx6SKml-QzwYRC_8V4N2gXgA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx6SKml-QzwYRC_8V4N2gXgA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:35:11"
+  },
+  {
+    "business_name": "Chhagan",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "306707",
+    "phone_number": "+91 83025 31405",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bherunath Emitra, Kumbhalgarh Road, Udaipur, Kucholi, Rajasthan 313325",
+    "area": "306707",
+    "latitude": 24.9588759,
+    "longitude": 73.54446159999999,
+    "place_id": "ChIJq8og2JQdaDkRkyl0bw0Qqb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq8og2JQdaDkRkyl0bw0Qqb4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:35:12"
+  }
+]

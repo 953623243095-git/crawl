@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radhe Radhe Desi Restaurant",
+    "search_category": "Organic Food Store",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "306702",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 10,
+    "address": "Ranakpur Rd, Sadri, Rajasthan 306702",
+    "area": "306702",
+    "latitude": 25.1370391,
+    "longitude": 73.4693005,
+    "place_id": "ChIJ609KKQAhaDkRHIQ1lv7GUAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ609KKQAhaDkRHIQ1lv7GUAg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:24:02"
+  },
+  {
+    "business_name": "Sanjivani Medicose",
+    "search_category": "Organic Food Store",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store, Pharmacy",
+    "pincode": "306702",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bus-Stand, RJ SH 16, Sadri, Rajasthan 306705",
+    "area": "Garasiya Bas",
+    "latitude": 25.1855068,
+    "longitude": 73.4497564,
+    "place_id": "ChIJTTd_GAmeQjkRWU_0eNfRMgc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTTd_GAmeQjkRWU_0eNfRMgc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:24:02"
+  }
+]

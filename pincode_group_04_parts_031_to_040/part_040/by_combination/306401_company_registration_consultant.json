@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Expert India",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "306401",
+    "phone_number": "+91 70233 14773",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "RANKAWAT BHAWAN, ADARSH KUNJ COLONY, 4&5, near NEW BUS STAND, Rohat, Rajasthan 306421",
+    "area": "Adarsh Nagar",
+    "latitude": 25.9551028,
+    "longitude": 73.14157809999999,
+    "place_id": "ChIJ99Y-ggoXQjkR07OkshrM8Io",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ99Y-ggoXQjkR07OkshrM8Io",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:04:49"
+  },
+  {
+    "business_name": "SUBHADRA COMPUTER CENTER",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Insurance broker",
+    "all_categories": "Insurance broker, Auto insurance agency, Loan agency, Tax consultant",
+    "pincode": "306401",
+    "phone_number": "N/A",
+    "website": "https://jobexpertindia.com/",
+    "rating": 4.9,
+    "reviews_count": 28,
+    "address": "Jalore Rd, opp. WATER BOX OFFICE, Bhadrajun, Rajasthan 307029",
+    "area": "306401",
+    "latitude": 25.6020751,
+    "longitude": 72.8909376,
+    "place_id": "ChIJg6bAcmhPQjkRN4ZANTS40m8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg6bAcmhPQjkRN4ZANTS40m8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:04:50"
+  }
+]

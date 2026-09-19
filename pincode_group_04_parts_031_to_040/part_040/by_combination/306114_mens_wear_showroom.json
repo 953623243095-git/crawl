@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishana Fashion Shop",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "306114",
+    "phone_number": "+91 87694 55183",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": null,
+    "address": "3, Subhash Marg, Jodhpur, Sojat Road, Rajasthan 342007",
+    "area": "306114",
+    "latitude": 25.8640898,
+    "longitude": 73.749912,
+    "place_id": "ChIJNR8PIpfBaTkRkmcX67GoKxA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNR8PIpfBaTkRkmcX67GoKxA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:38:45"
+  },
+  {
+    "business_name": "ANNAPURNA RADYMADE",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "306114",
+    "phone_number": "+91 7397 438 890",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chandawal Nagar Bypass, Chandawal, Rajasthan 306306",
+    "area": "306114",
+    "latitude": 26.001427999999997,
+    "longitude": 73.8422848,
+    "place_id": "ChIJNykBzDKTaTkRAAAAMNE7d08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNykBzDKTaTkRAAAAMNE7d08",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:38:46"
+  }
+]

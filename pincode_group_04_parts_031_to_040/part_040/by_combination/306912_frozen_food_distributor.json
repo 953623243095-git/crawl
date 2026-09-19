@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maya Frozen Food",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "306912",
+    "phone_number": "+91 81144 52516",
+    "website": "https://www.mayafrozen.food/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Purani Mandi, Seka, Narnaul, Haryana 123001",
+    "area": "Seka",
+    "latitude": 28.034262299999998,
+    "longitude": 76.10237769999999,
+    "place_id": "ChIJVRZhJKW1EjkRWpveJtcqDzs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVRZhJKW1EjkRWpveJtcqDzs",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:42:48"
+  },
+  {
+    "business_name": "G.D. Foods Manufacturing (India) Private Limited",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company",
+    "pincode": "306912",
+    "phone_number": "+91 92143 86732",
+    "website": "http://www.tops.in/",
+    "rating": 4.3,
+    "reviews_count": 32,
+    "address": "Plot no SP - 15 & SP - 16, RIICO Indl Area, Neemrana, Alwar, Rajasthan 301705",
+    "area": "306912",
+    "latitude": 27.979942299999998,
+    "longitude": 76.3884779,
+    "place_id": "ChIJlZEF67ZUbTkR3afHbCVegA8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlZEF67ZUbTkR3afHbCVegA8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:42:48"
+  }
+]

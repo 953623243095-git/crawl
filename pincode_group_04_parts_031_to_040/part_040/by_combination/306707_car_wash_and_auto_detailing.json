@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PEACOCK CARS",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "306707",
+    "phone_number": "+91 96100 00999",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "opposite Daata Petrol Pump, E10, Nemi Nagar Extension, Vaishali Nagar, Jaipur, Rajasthan 302021",
+    "area": "Nemi Nagar Extension, Rajendra Nagar, Vaishali Nagar",
+    "latitude": 26.915644999999998,
+    "longitude": 75.7325457,
+    "place_id": "ChIJQx0o2kWzbTkRoKyfJS1uw0w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQx0o2kWzbTkRoKyfJS1uw0w",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:34:03"
+  },
+  {
+    "business_name": "AAA CAR WASH & ACCESSORIES",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "306707",
+    "phone_number": "+91 96640 73019",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 19,
+    "address": "PJ2F+7QJ Ramdev motors, Padampur - Gajsinghpur Rd, Padampur, Rajasthan 335041",
+    "area": "306707",
+    "latitude": 29.7009989,
+    "longitude": 73.624554,
+    "place_id": "ChIJR7tmYIwvFjkRHhao4REDNeU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR7tmYIwvFjkRHhao4REDNeU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:34:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Narayan",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "306706",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "576F+49R, Boya, Rajasthan 306701",
+    "area": "306706",
+    "latitude": 25.160159999999998,
+    "longitude": 73.2724183,
+    "place_id": "ChIJe75KaQCXQjkR08tCISgLXiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe75KaQCXQjkR08tCISgLXiQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:32:52"
+  },
+  {
+    "business_name": "Ban mata e mitra",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "306706",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5856+PMC, Sesli, Rajasthan 306706",
+    "area": "306706",
+    "latitude": 25.159318199999998,
+    "longitude": 73.3116352,
+    "place_id": "ChIJjYGzEQCZQjkRFZBfSOun0Qg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjYGzEQCZQjkRFZBfSOun0Qg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:32:52"
+  }
+]

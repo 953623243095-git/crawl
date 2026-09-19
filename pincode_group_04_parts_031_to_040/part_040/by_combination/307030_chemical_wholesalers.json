@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AKJ MINCHEM PVT LTD",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Mineral supplier",
+    "all_categories": "Mineral supplier, Abrasives supplier, Granite supplier, Quarry",
+    "pincode": "307030",
+    "phone_number": "+91 95098 06461",
+    "website": "https://www.akjminchem.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "C/O SHREE BALAJI MARBLES AND MINERALS, NEAR MEWAR WEIGHT BRIDGE NH-8, Suker, Rajasthan 313001",
+    "area": "307030",
+    "latitude": 24.6308224,
+    "longitude": 73.7130542,
+    "place_id": "ChIJI6nU2U_kZzkRfMVHjximbqU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI6nU2U_kZzkRfMVHjximbqU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:04:31"
+  },
+  {
+    "business_name": "Kinjal Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Industrial chemicals wholesaler",
+    "all_categories": "Industrial chemicals wholesaler, Agricultural Product Wholesaler",
+    "pincode": "307030",
+    "phone_number": "+91 79903 36368",
+    "website": "https://www.kinjalchem.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6th floor, Nexus business Hub, B-602, opposite Pritam 2, beside Indian Oil Petrol Pump, Maktampur, Bharuch, Gujarat 392001",
+    "area": "Maktampur",
+    "latitude": 21.7062031,
+    "longitude": 73.00611169999999,
+    "place_id": "ChIJ_cXUeLIh4DsRUlG7QD6c6XA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_cXUeLIh4DsRUlG7QD6c6XA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:04:32"
+  }
+]

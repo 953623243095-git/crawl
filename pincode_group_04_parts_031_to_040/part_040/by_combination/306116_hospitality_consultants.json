@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Equivise Consultancy",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "306116",
+    "phone_number": "+91 89514 60628",
+    "website": "https://www.equivise.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Indira Colony Vistar, Pali Marwar, Pali, Rajasthan 306401",
+    "area": "Indira Colony Vistar, Pali Marwar",
+    "latitude": 25.771601699999998,
+    "longitude": 73.33415939999999,
+    "place_id": "ChIJxQqVA2ZzQjkRGoUNFjSjQPE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxQqVA2ZzQjkRGoUNFjSjQPE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:43:25"
+  },
+  {
+    "business_name": "Holiday Umbrella Pvt.Ltd.",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Office supply wholesaler",
+    "all_categories": "Office supply wholesaler, Office Accessories Wholesaler",
+    "pincode": "306116",
+    "phone_number": "+91 98292 33117",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "College Road, Nehru Colony, Falna, Rajasthan 306116",
+    "area": "Nehru Colony",
+    "latitude": 25.2359537,
+    "longitude": 73.2378129,
+    "place_id": "ChIJHa9vSTaQQjkRInZupdWJtNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHa9vSTaQQjkRInZupdWJtNY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:43:25"
+  }
+]

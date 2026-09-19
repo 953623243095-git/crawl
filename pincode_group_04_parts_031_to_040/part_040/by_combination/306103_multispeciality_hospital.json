@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sojat hospital and trauma centre",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "306103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Maharana Pratap chouraya, Sojat Road, Rajasthan 306103",
+    "area": "306103",
+    "latitude": 25.8616669,
+    "longitude": 73.7476047,
+    "place_id": "ChIJoz8ljwbDaTkRitHamknOd5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoz8ljwbDaTkRitHamknOd5o",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:33:19"
+  },
+  {
+    "business_name": "kavedia hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "306103",
+    "phone_number": "+91 99291 48684",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 14,
+    "address": "Police Thana Rd, near SBI, IOC Colony, Sojat, Rajasthan 306104",
+    "area": "IOC Colony",
+    "latitude": 25.9196237,
+    "longitude": 73.6762494,
+    "place_id": "ChIJt2TB3JnoaTkRS9wcRCD_he4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt2TB3JnoaTkRS9wcRCD_he4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:33:19"
+  }
+]

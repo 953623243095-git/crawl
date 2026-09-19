@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "306302",
+    "phone_number": "+91 87649 21146",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MAIN BUS STAND RAMPURA KALAN ,RAIPUR, Pali, Rajasthan 306306",
+    "area": "306302",
+    "latitude": 26.05988,
+    "longitude": 73.88051999999999,
+    "place_id": "ChIJh5spo8aTaTkR_eSg9ajInRA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh5spo8aTaTkR_eSg9ajInRA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:51:18"
+  },
+  {
+    "business_name": "SOFT TECH COMPUTER EDUCATION & INFORMATION CENTER",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "306302",
+    "phone_number": "+91 97832 32929",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 16,
+    "address": "Govt hospital ke samne, Band, Rajasthan 344031",
+    "area": "306302",
+    "latitude": 25.346811499999998,
+    "longitude": 71.5832337,
+    "place_id": "ChIJKZXhlVxnRDkRvFnUklTwZaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKZXhlVxnRDkRvFnUklTwZaE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:51:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ambika medical store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "307515",
+    "phone_number": "+91 97838 58561",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q7JP+36M, Malwara, Rajasthan 343039",
+    "area": "307515",
+    "latitude": 24.780224399999998,
+    "longitude": 72.28556139999999,
+    "place_id": "ChIJs8Jf5qpHQzkRamXBHiNUzaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs8Jf5qpHQzkRamXBHiNUzaQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:22:26"
+  },
+  {
+    "business_name": "Shree Gayatri Medical Agency",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Wholesale drugstore",
+    "all_categories": "Wholesale drugstore",
+    "pincode": "307515",
+    "phone_number": "+91 99825 69460",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shivnath Pura, Sanchore, Rajasthan 343041",
+    "area": "Shivnath Pura",
+    "latitude": 24.755060099999998,
+    "longitude": 71.7781207,
+    "place_id": "ChIJzRbbDgClRDkRYN9KlpSqBtw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzRbbDgClRDkRYN9KlpSqBtw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:22:28"
+  }
+]

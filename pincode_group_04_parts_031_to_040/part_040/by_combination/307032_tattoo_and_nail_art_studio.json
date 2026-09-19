@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sculp Tattoos",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo and piercing shop",
+    "all_categories": "Tattoo and piercing shop, Tattoo artist, Tattoo removal service, Tattoo shop",
+    "pincode": "307032",
+    "phone_number": "+91 97385 63204",
+    "website": "https://sculptattoos.com/",
+    "rating": 4.8,
+    "reviews_count": 1215,
+    "address": "1st Floor, 19, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+    "area": "KHB Colony, 5th Block, Koramangala",
+    "latitude": 12.9348896,
+    "longitude": 77.6231294,
+    "place_id": "ChIJGXhnKlAUrjsRJkcAHNeVlSY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGXhnKlAUrjsRJkcAHNeVlSY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:07:45"
+  },
+  {
+    "business_name": "INK Stain tattoo studio",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo shop",
+    "all_categories": "Tattoo shop",
+    "pincode": "307032",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XCW2+6JR, Khalsa, Mansa, Punjab 151505",
+    "area": "Khalsa",
+    "latitude": 29.995602199999997,
+    "longitude": 75.4014937,
+    "place_id": "ChIJQb1MXQAfETkRwvrzd8KTcxw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQb1MXQAfETkRwvrzd8KTcxw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:07:48"
+  }
+]

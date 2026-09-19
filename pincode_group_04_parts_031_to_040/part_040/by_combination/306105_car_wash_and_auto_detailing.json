@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Car",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "306105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Opp. Kesar Hotel, Sumerpur Road, National Highway 14, Pali, Rajasthan 306401",
+    "area": "Gayatri Nagar",
+    "latitude": 25.760095099999997,
+    "longitude": 73.3247548,
+    "place_id": "ChIJSzKkuLJzQjkRBegcU1NB17c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSzKkuLJzQjkRBegcU1NB17c",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:37:13"
+  },
+  {
+    "business_name": "Detailing PaPa",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "306105",
+    "phone_number": "+91 98887 20024",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "PRMG+VXR, IT Park Rd, Bhagwanpura, Chandigarh, 160101",
+    "area": "Bhagwanpura",
+    "latitude": 30.731393299999997,
+    "longitude": 76.83015259999999,
+    "place_id": "ChIJ_3PqF6yTDzkRBJ1ATF-eq9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_3PqF6yTDzkRBJ1ATF-eq9I",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:37:15"
+  }
+]

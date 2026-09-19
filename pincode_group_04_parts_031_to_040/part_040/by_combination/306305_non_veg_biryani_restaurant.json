@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dilawar Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Chinese restaurant, Fast food restaurant, Kebab shop",
+    "pincode": "306305",
+    "phone_number": "+91 95136 72227",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "jyothi nagar, Hennur Bagalur Main Rd, HBR Layout 4th Block, Kacharakanahalli, Bengaluru, Karnataka 560043",
+    "area": "HBR Layout 4th Block, Kacharakanahalli",
+    "latitude": 13.0299298,
+    "longitude": 77.6343486,
+    "place_id": "ChIJS8Wc0nwXrjsRu_enpgHzVxw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS8Wc0nwXrjsRu_enpgHzVxw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:55:51"
+  },
+  {
+    "business_name": "Madrasi Fried Chicken (Since 1943)",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Halal restaurant",
+    "all_categories": "Halal restaurant, Biryani restaurant, Fast food restaurant",
+    "pincode": "306305",
+    "phone_number": "+91 93990 21005",
+    "website": "https://madrasi-fried-chicken.grexa.site/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Great Eastern Rd, Choubey Colony, Raipur, Chhattisgarh 492001",
+    "area": "Choubey Colony",
+    "latitude": 21.242846999999998,
+    "longitude": 81.615498,
+    "place_id": "ChIJ8aL9HejdKDoRqfjrMXnYxSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8aL9HejdKDoRqfjrMXnYxSg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:55:51"
+  }
+]

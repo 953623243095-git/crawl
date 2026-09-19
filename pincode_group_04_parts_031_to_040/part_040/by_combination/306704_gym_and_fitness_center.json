@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fitness Point Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Fitness center, Spa and health club",
+    "pincode": "306704",
+    "phone_number": "+91 86298 03939",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 71,
+    "address": "Indira stadium, Nothern Railway Line, above Reliance smart bazaar, Professor Colony, Chandigarh, Una, Himachal Pradesh 174303",
+    "area": "Professor Colony",
+    "latitude": 31.465106499999997,
+    "longitude": 76.2783276,
+    "place_id": "ChIJEVcuWbrbGjkRMditZSNR_5g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEVcuWbrbGjkRMditZSNR_5g",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:28:24"
+  },
+  {
+    "business_name": "S P FITNESS CLUB",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "306704",
+    "phone_number": "+91 70380 12747",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 135,
+    "address": "1, Sinhgad Rd, Sarita Vihar Phase 2, Dattawadi, Pune, Maharashtra 411030",
+    "area": "Sarita Vihar Phase 2, Dattawadi",
+    "latitude": 18.4916063,
+    "longitude": 73.83330939999999,
+    "place_id": "ChIJbaJTw6a_wjsR4-2Nlp-NRzQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbaJTw6a_wjsR4-2Nlp-NRzQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:28:24"
+  }
+]

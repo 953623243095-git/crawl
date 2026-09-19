@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spark Consultant",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Accounting firm, Consumer advice center, E-commerce service, Service establishment, Financial consultant, Insurance agency, Investment service, Loan agency, Tax consultant",
+    "pincode": "306116",
+    "phone_number": "+91 82090 92120",
+    "website": "https://wa.me/918209092120?text=Hi",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Spark Consultant, 306116, India",
+    "area": "306116",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJSatomR7gZzkRa62DNfh7PPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSatomR7gZzkRa62DNfh7PPw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:43:47"
+  },
+  {
+    "business_name": "TIRUPATI FINANCIAL SERVICES",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm",
+    "pincode": "306116",
+    "phone_number": "+91 89498 44141",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "SHOP NO 3, RUDRAKSHA MARKET, 50 Feet Rd, Kankroli, Rajsamand, Rajasthan 313324",
+    "area": "Kankroli",
+    "latitude": 25.0482004,
+    "longitude": 73.8948858,
+    "place_id": "ChIJ_RiyamVtaDkRrKhee54LW58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_RiyamVtaDkRrKhee54LW58",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:43:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa kripa cafe restaurant",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "306104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "RFRR+GPV, Jadan, Jadan Khalsa, Rajasthan 306401",
+    "area": "306104",
+    "latitude": 25.8413701,
+    "longitude": 73.49180179999999,
+    "place_id": "ChIJveEXcwDhaTkRQFWy-QnScsQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJveEXcwDhaTkRQFWy-QnScsQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:34:59"
+  },
+  {
+    "business_name": "Apna E-Mitra Services",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "306104",
+    "phone_number": "+91 96671 73039",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "WMF8+947, Police Thana Rd, Sojat, Rajasthan 306104",
+    "area": "306104",
+    "latitude": 25.923401,
+    "longitude": 73.6652921,
+    "place_id": "ChIJLRI535noaTkRd46LQG-3Dck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLRI535noaTkRd46LQG-3Dck",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:35:01"
+  }
+]

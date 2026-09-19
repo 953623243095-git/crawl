@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lex Consultants",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Intellectual property registry, Patent attorney",
+    "pincode": "306601",
+    "phone_number": "+91 99889 19633",
+    "website": "http://www.lexconsultants.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "434, Sector 15-A, Sector 15, Chandigarh, 160015",
+    "area": "Sector 15-A, Sector 15",
+    "latitude": 30.756731,
+    "longitude": 76.774301,
+    "place_id": "ChIJ____P5vtDzkRA1LgQUUsuKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____P5vtDzkRA1LgQUUsuKQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:18:06"
+  },
+  {
+    "business_name": "Brij Agnihotri & Associates",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office, Legal services",
+    "pincode": "306601",
+    "phone_number": "+91 98717 29864",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "3454, 40D, Sector 40D, Chandigarh, 160036",
+    "area": "40D, Sector 40D",
+    "latitude": 30.7378941,
+    "longitude": 76.7316572,
+    "place_id": "ChIJr3RkYfDtDzkRG6fzWGBi6cg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr3RkYfDtDzkRG6fzWGBi6cg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:18:07"
+  }
+]

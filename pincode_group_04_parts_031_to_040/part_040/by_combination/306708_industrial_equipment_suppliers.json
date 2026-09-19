@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govind sales",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Sewing machine store",
+    "all_categories": "Sewing machine store",
+    "pincode": "306708",
+    "phone_number": "+91 99833 44977",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "05, Mistry Complex, Chhakki Street Old Bus Stand, Takhatgarh, Rajasthan 306901",
+    "area": "306708",
+    "latitude": 25.3231437,
+    "longitude": 73.00147249999999,
+    "place_id": "ChIJQ5CCDQf0QjkRe-kO3KdC9FY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ5CCDQf0QjkRe-kO3KdC9FY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:37:00"
+  },
+  {
+    "business_name": "Eastman Dealer",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Battery Store",
+    "all_categories": "Battery Store, Battery Wholesaler, Solar energy system service, Solar energy equipment supplier, Solar panel maintenance service",
+    "pincode": "306708",
+    "phone_number": "+91 674 664 7301",
+    "website": "https://eastman-dealers.eaplworld.com/near-me/pali/Takhatgarh/eastman-dealer-jai-ambay-auto-in-Takhatgarh-pali--6fb3IO/home",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jai Ambay Auto, Sumerpur Road, nearby Indian Gas Agency, Takhatgarh, Rajasthan 306901",
+    "area": "306708",
+    "latitude": 25.3100977,
+    "longitude": 73.00281129999999,
+    "place_id": "ChIJ_QslDg3zQjkRH5kuYiBlJiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_QslDg3zQjkRH5kuYiBlJiQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:37:03"
+  }
+]

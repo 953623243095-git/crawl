@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satguru Property Consultant",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "306302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "XV57+2V4, Hindumal Kot Rd, palika baag, 3Y, Rajasthan 335001",
+    "area": "palika baag",
+    "latitude": 29.9575081,
+    "longitude": 73.8647093,
+    "place_id": "ChIJU3OF2sK1FzkRiPzcgohMBoU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU3OF2sK1FzkRiPzcgohMBoU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:51:29"
+  },
+  {
+    "business_name": "Property consultant",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "306302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "G7X5+JQF, Goria, Rajasthan 332403",
+    "area": "306302",
+    "latitude": 27.549062,
+    "longitude": 75.2594261,
+    "place_id": "ChIJX-Fy03y-bDkR9T4Ddef_lB0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX-Fy03y-bDkR9T4Ddef_lB0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:51:30"
+  }
+]

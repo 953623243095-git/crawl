@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akshat Textile Mills",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Textile mill",
+    "all_categories": "Textile mill",
+    "pincode": "307022",
+    "phone_number": "+91 70147 74033",
+    "website": "https://www.akshattextilemills.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "101, Swadeshi Market, Gandhi Nagar, Bhilwara, Rajasthan 311001",
+    "area": "Gandhi Nagar",
+    "latitude": 25.3454551,
+    "longitude": 74.6278064,
+    "place_id": "ChIJCwScMEjCaDkRnXIvXIaiBVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCwScMEjCaDkRnXIvXIaiBVc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:48:23"
+  },
+  {
+    "business_name": "Tejal collection",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Fabric wholesaler",
+    "all_categories": "Fabric wholesaler, Designer Clothing Store",
+    "pincode": "307022",
+    "phone_number": "+91 86961 59497",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Sidheshwar circle, mohangrah, Rampura, Nathdwara, Rajasthan 313301",
+    "area": "mohangrah, Rampura",
+    "latitude": 24.9311991,
+    "longitude": 73.8193191,
+    "place_id": "ChIJ5VPDvw8NaDkRRpdCkzTVVfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5VPDvw8NaDkRRpdCkzTVVfE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:48:26"
+  }
+]

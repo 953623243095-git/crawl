@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Falcons Biomed",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier, Diabetes equipment supplier, Diagnostic center, Hospital equipment and supplies, Medical supply store, Nutritionist, Oxygen equipment supplier, Physiotherapy equipment supplier, Sleep clinic, Wheelchair store",
+    "pincode": "306119",
+    "phone_number": "+91 98237 53772",
+    "website": "http://falconsbiomed.com/",
+    "rating": 4.9,
+    "reviews_count": 31,
+    "address": "Second floor, Silvio Heights, S12, St Inez Rd, above Xero Degree Restaurant, Santa Inez, Panaji, Goa 403001",
+    "area": "Santa Inez",
+    "latitude": 15.4890759,
+    "longitude": 73.8191342,
+    "place_id": "ChIJYbkggJTAvzsRsG4h5Wk3e-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYbkggJTAvzsRsG4h5Wk3e-8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:44:43"
+  },
+  {
+    "business_name": "Respion Healthcare Pvt. Ltd.",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Oxygen equipment supplier",
+    "all_categories": "Oxygen equipment supplier, Medical equipment supplier",
+    "pincode": "306119",
+    "phone_number": "+91 99370 00606",
+    "website": "https://respion.in/",
+    "rating": 5,
+    "reviews_count": 434,
+    "address": "Plot No 331 A, Saheed Nagar, Bhubaneswar, Odisha 751007",
+    "area": "Saheed Nagar",
+    "latitude": 20.2881611,
+    "longitude": 85.85422009999999,
+    "place_id": "ChIJrXcB5-ALGToRWoB_5v4JwMc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrXcB5-ALGToRWoB_5v4JwMc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:44:43"
+  }
+]

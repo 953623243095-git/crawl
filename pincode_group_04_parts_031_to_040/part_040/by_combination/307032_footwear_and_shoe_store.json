@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sylcon Shoes and Bags, Kottayam",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Bag shop, Luggage store",
+    "pincode": "307032",
+    "phone_number": "+91 481 230 3108",
+    "website": "https://sylconshoes.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Mattethara Auditorium, SH 1, near बेकर जंक्शन, Baker Hill, Kottayam, Keralam 686001",
+    "area": "Baker Hill",
+    "latitude": 9.5937059,
+    "longitude": 76.52288039999999,
+    "place_id": "ChIJMw9cAAsrBjsRoL82Cw7eKhk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMw9cAAsrBjsRoL82Cw7eKhk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:07:07"
+  },
+  {
+    "business_name": "Metro Shoes",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "307032",
+    "phone_number": "+91 481 230 0404",
+    "website": "https://stores.metroshoes.com/metro-shoes-ancheril-bank-building-baker-junction-kottyam-kerala-kot",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "IX/570. MADAPPALLIL BUILDINGS, Lal Bahadur Shastri Rd, opp. INDIAN OIL PETROL PUMP, Kottayam, Keralam 686001",
+    "area": "307032",
+    "latitude": 9.5917551,
+    "longitude": 76.52546,
+    "place_id": "ChIJMSRiUQorBjsR3-Sgjo2-Wzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMSRiUQorBjsR3-Sgjo2-Wzc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:07:07"
+  }
+]

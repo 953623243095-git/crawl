@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Real Organic Herbs",
+    "search_category": "Organic Food Store",
+    "primary_category": "Herbalist",
+    "all_categories": "Herbalist",
+    "pincode": "306503",
+    "phone_number": "+91 73002 55400",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Riico Industrial Area, F-66, Naya Gaon, Pali, Rajasthan 306401",
+    "area": "Naya Gaon",
+    "latitude": 25.824551999999997,
+    "longitude": 73.37715639999999,
+    "place_id": "ChIJdQTtm5RzQjkRP97x7RsJpJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdQTtm5RzQjkRP97x7RsJpJg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:12:55"
+  },
+  {
+    "business_name": "Arena Organica",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Service establishment, Natural goods store",
+    "pincode": "306503",
+    "phone_number": "N/A",
+    "website": "https://arenaorganica.in/",
+    "rating": 4.9,
+    "reviews_count": 98,
+    "address": "Arena Organica, 306503, India",
+    "area": "306503",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJlVsT9-ykbDkRcaHHk7pV16Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlVsT9-ykbDkRcaHHk7pV16Q",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:12:55"
+  }
+]

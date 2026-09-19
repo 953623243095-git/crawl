@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hind Traders",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Electronics",
+    "pincode": "306116",
+    "phone_number": "+91 98290 22039",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "66PP+JVW, RJ SH 16, Nehru Colony, Falna, Rajasthan 306116",
+    "area": "Nehru Colony",
+    "latitude": 25.2366094,
+    "longitude": 73.23721689999999,
+    "place_id": "ChIJj7eyWzaQQjkR7IhK4Sl7rE0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj7eyWzaQQjkR7IhK4Sl7rE0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:43:35"
+  },
+  {
+    "business_name": "Computer Empire",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Camera store, Computer software store, Printer ink refill store",
+    "pincode": "306116",
+    "phone_number": "+91 95716 60653",
+    "website": "http://hardev125.wixsite.com/computerempireksp",
+    "rating": 4.7,
+    "reviews_count": 15,
+    "address": "Yes Bank Road, Front of Shakti Batteries, मैंन आरों वाली रोड, Kesrisinghpur, Rajasthan 335027",
+    "area": "306116",
+    "latitude": 29.9481067,
+    "longitude": 73.6219686,
+    "place_id": "ChIJC5cdrifSFzkRo7MpjZoS5Is",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC5cdrifSFzkRo7MpjZoS5Is",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:43:36"
+  }
+]

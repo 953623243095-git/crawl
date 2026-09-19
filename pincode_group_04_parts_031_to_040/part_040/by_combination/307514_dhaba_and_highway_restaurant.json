@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahakali Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "307514",
+    "phone_number": "+91 96647 69625",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop Number 1, Abu Highway, Dhanpura, Sarotra, Gujarat 385135",
+    "area": "307514",
+    "latitude": 24.3751329,
+    "longitude": 72.5921587,
+    "place_id": "ChIJw6ZqVKjbXDkR629wiivHAmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw6ZqVKjbXDkR629wiivHAmg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:20:11"
+  },
+  {
+    "business_name": "Shree Jai Ambe Hotel",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "307514",
+    "phone_number": "+91 99298 92602",
+    "website": "http://jaiambe.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "NH 27, Wasda, Khara, Rajasthan 307026",
+    "area": "307514",
+    "latitude": 24.424883299999998,
+    "longitude": 72.6895564,
+    "place_id": "ChIJ9x72D-PZXDkR8UuCxns_vTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9x72D-PZXDkR8UuCxns_vTU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:20:11"
+  }
+]

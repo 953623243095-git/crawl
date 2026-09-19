@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khadi bhandar",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "307030",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8JWC+VHQ, Gaurav Path, Ghanchiyo Ki Pilani, Bhawrani, Jalore, Jalor, Rajasthan 343001",
+    "area": "Ghanchiyo Ki Pilani, Bhawrani",
+    "latitude": 25.347219499999998,
+    "longitude": 72.6214762,
+    "place_id": "ChIJcZRThZIBQzkRVOI2KAJbA00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcZRThZIBQzkRVOI2KAJbA00",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:03:14"
+  },
+  {
+    "business_name": "Hemant Handloom",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "307030",
+    "phone_number": "+91 94142 94472",
+    "website": "http://mintra.com/",
+    "rating": 4.2,
+    "reviews_count": 10,
+    "address": "R6C5+PWQ, Nakoda Rd, Jasol, Rajasthan 344024",
+    "area": "307030",
+    "latitude": 25.8218338,
+    "longitude": 72.2098601,
+    "place_id": "ChIJMV7O8OLuQzkRQpJlIwUIZ_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMV7O8OLuQzkRQpJlIwUIZ_M",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:03:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Carpenter's Wrecker Service, Inc.",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "307024",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "3135 Chattanooga Rd, Rocky Face, GA 30740, United States",
+    "area": "307024",
+    "latitude": 34.822587399999996,
+    "longitude": -85.04526129999999,
+    "place_id": "ChIJdTxxMr5zYIgREUWU3ZzxGCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdTxxMr5zYIgREUWU3ZzxGCk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:52:30"
+  },
+  {
+    "business_name": "A R CRANE SERVICE",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "307024",
+    "phone_number": "+91 98310 70112",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "20/1/h/3, Bright St, Park Circus, Ballygunge, Kolkata, West Bengal 700019",
+    "area": "Park Circus, Ballygunge",
+    "latitude": 22.535289799999997,
+    "longitude": 88.3665247,
+    "place_id": "ChIJqfmsDcJ3AjoRgFJ25xHSqQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqfmsDcJ3AjoRgFJ25xHSqQc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:52:31"
+  }
+]

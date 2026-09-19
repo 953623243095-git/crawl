@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Silvorium",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Jeweler, Jewelry designer",
+    "pincode": "307031",
+    "phone_number": "+91 94629 56809",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Bhagat Singh Circle, near U.I.T, below Skechers, Arya Nagar, Alwar, Rajasthan 301001",
+    "area": "Arya Nagar",
+    "latitude": 27.5685222,
+    "longitude": 76.6135035,
+    "place_id": "ChIJbQxjLLyZcjkRImRlYPSimaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbQxjLLyZcjkRImRlYPSimaQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:05:07"
+  },
+  {
+    "business_name": "SHRI DARSHAN JEWELLERS",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "307031",
+    "phone_number": "+91 77929 88877",
+    "website": "http://shridarshanjewellers.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "G-8, Sector 2, Central Spine, Vidyadhar Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302039",
+    "area": "Sector 2, Central Spine, Vidyadhar Nagar",
+    "latitude": 26.9588696,
+    "longitude": 75.7787089,
+    "place_id": "ChIJVVUlbbSzbTkRoQ8U-Wia0_Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVUlbbSzbTkRoQ8U-Wia0_Q",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:05:08"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Standard Information",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "307001",
+    "phone_number": "N/A",
+    "website": "http://standardinformation.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Standard Information, 307001, India",
+    "area": "307001",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJp_Fw_gS5uIkRt4ZC2yLJ_mc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp_Fw_gS5uIkRt4ZC2yLJ_mc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:46:14"
+  },
+  {
+    "business_name": "Savvy Software",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Website designer",
+    "all_categories": "Website designer, Service establishment",
+    "pincode": "307001",
+    "phone_number": "N/A",
+    "website": "https://savvy-software.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Savvy Software, 307001, India",
+    "area": "307001",
+    "latitude": 28.237955999999997,
+    "longitude": -80.702334,
+    "place_id": "ChIJ9ZKjaExBJmcRkqzqisBlb4M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ZKjaExBJmcRkqzqisBlb4M",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:46:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pali highway",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "306114",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 9,
+    "address": "Nh 64, pali road, Keerwa, Kirva, Rajasthan 306422",
+    "area": "306114",
+    "latitude": 25.5051573,
+    "longitude": 73.25302529999999,
+    "place_id": "ChIJrY6uMQBjQjkRD2_mSCIVn_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrY6uMQBjQjkRD2_mSCIVn_4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:38:40"
+  },
+  {
+    "business_name": "Nanu Da Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "306114",
+    "phone_number": "+91 99829 81864",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 604,
+    "address": "Bikaner Bypass Rd, near Rameshvram Residency, Sikar, Dhani Salamsingh, Rajasthan 332001",
+    "area": "306114",
+    "latitude": 27.5715932,
+    "longitude": 75.1465825,
+    "place_id": "ChIJVd7Cy9SjbDkR-G-CZc7HIm8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVd7Cy9SjbDkR-G-CZc7HIm8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:38:41"
+  }
+]

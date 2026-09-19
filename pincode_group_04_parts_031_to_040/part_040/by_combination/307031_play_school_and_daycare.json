@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Million Miracle",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Day care center",
+    "all_categories": "Day care center, Child care agency, Preschool, Kindergarten School, Playgroup",
+    "pincode": "307031",
+    "phone_number": "+91 82900 47444",
+    "website": "https://millionmiracle.com/",
+    "rating": 4.9,
+    "reviews_count": 54,
+    "address": "C-87, Ram Das Marg, Tilak Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302004",
+    "area": "Tilak Nagar",
+    "latitude": 26.890503,
+    "longitude": 75.82283199999999,
+    "place_id": "ChIJXxYaDZG2bTkRwzddUukiEJs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXxYaDZG2bTkRwzddUukiEJs",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:06:04"
+  },
+  {
+    "business_name": "Mini Mulberries School and Day Care Centre",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Day care center",
+    "all_categories": "Day care center, Preschool",
+    "pincode": "307031",
+    "phone_number": "+91 63781 28303",
+    "website": "https://minimulberries.in/",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "192/3, Sector 19, Pratap Nagar, Jaipur, Rajasthan 302033",
+    "area": "Sector 19, Pratap Nagar",
+    "latitude": 26.803534799999998,
+    "longitude": 75.83178319999999,
+    "place_id": "ChIJgePsmJbJbTkRyGzzH6nzvuw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgePsmJbJbTkRyGzzH6nzvuw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:06:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SK Events Bharatpur",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, DJ service, Event management company, Event planner, Music store, Wedding service",
+    "pincode": "306701",
+    "phone_number": "+91 82909 49308",
+    "website": "https://sk-events-bharatpur.grexa.site/",
+    "rating": 4.7,
+    "reviews_count": 40,
+    "address": "Budh ki haat, Ganga Mandir Marg, Bharatpur, Rajasthan 321001",
+    "area": "Tara Mahendra Colony",
+    "latitude": 27.2138679,
+    "longitude": 77.4950029,
+    "place_id": "ChIJuXLy1vejczkRXBqoCHaAIMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuXLy1vejczkRXBqoCHaAIMs",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:23:15"
+  },
+  {
+    "business_name": "Royal Gala Weddings",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding service",
+    "all_categories": "Wedding service",
+    "pincode": "306701",
+    "phone_number": "+91 88064 76464",
+    "website": "http://www.royalgalaevents.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "near V M Salgaocar Institute of International Hospitality Education, Manora, Raia, Santemol, Goa 403720",
+    "area": "Manora",
+    "latitude": 15.3074117,
+    "longitude": 73.9637072,
+    "place_id": "ChIJvxH2QXyxvzsRM9bgAn4Feqg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvxH2QXyxvzsRM9bgAn4Feqg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:23:17"
+  }
+]

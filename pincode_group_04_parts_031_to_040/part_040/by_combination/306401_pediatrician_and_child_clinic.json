@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Nidhi Kaushal",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician",
+    "pincode": "306401",
+    "phone_number": "+91 90572 95730",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 13,
+    "address": "219/B, Adarsh Nagar, Pali, Rajasthan 306401",
+    "area": "Adarsh Nagar",
+    "latitude": 25.7778352,
+    "longitude": 73.33186239999999,
+    "place_id": "ChIJfWCQM6dzQjkRj_1OMSwx3aw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfWCQM6dzQjkRj_1OMSwx3aw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:03:49"
+  },
+  {
+    "business_name": "Bright Steps child development & speech therapy clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Occupational therapist",
+    "all_categories": "Occupational therapist, Child psychologist, Physical rehabilitation center, Psychologist, Special education school, Speech & Hearing Specialist",
+    "pincode": "306401",
+    "phone_number": "N/A",
+    "website": "https://brightstepschilddevelopmentcentre.com/",
+    "rating": 4.7,
+    "reviews_count": 13,
+    "address": "2nd Floor, Maa Kripya Tower, Bapu Nagar, Pali Marwar, Pali, Rajasthan 306401",
+    "area": "Bapu Nagar, Pali Marwar",
+    "latitude": 25.770614,
+    "longitude": 73.3314795,
+    "place_id": "ChIJI9MYzw9zQjkR-d35TO2sPSE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI9MYzw9zQjkR-d35TO2sPSE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:03:50"
+  }
+]

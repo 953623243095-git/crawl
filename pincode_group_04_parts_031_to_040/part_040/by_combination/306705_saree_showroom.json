@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suhagan sarees",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "306705",
+    "phone_number": "+91 97854 67976",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Sewari, Rajasthan 306707",
+    "area": "306705",
+    "latitude": 25.0956273,
+    "longitude": 73.2973441,
+    "place_id": "ChIJ9QLkecCZQjkR6lYVxM-JVCI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9QLkecCZQjkR6lYVxM-JVCI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:29:56"
+  },
+  {
+    "business_name": "Dmoresarees",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "306705",
+    "phone_number": "+91 83066 55418",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Shiv Colony, Juna Jakamji Road, near by Ummed Vatika, Industrial Area, Sumerpur, Rajasthan 306902",
+    "area": "Industrial Area",
+    "latitude": 25.1574149,
+    "longitude": 73.0899197,
+    "place_id": "ChIJ28s2LwSTQjkRDWxJ0Q33NQI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ28s2LwSTQjkRDWxJ0Q33NQI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:29:57"
+  }
+]

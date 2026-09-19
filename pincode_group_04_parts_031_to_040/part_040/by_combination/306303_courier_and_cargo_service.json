@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India Post Mohrai",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "306303",
+    "phone_number": "+91 97996 59741",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "53C5+JHP, Mohrai, Rajasthan 306303",
+    "area": "306303",
+    "latitude": 26.1715849,
+    "longitude": 74.05893999999999,
+    "place_id": "ChIJ5Ucn9ieFaTkRlmtzFcBG1FU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Ucn9ieFaTkRlmtzFcBG1FU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:53:22"
+  },
+  {
+    "business_name": "India Post Phoolmal",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "306303",
+    "phone_number": "+91 99283 62283",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6X8Q+765, Phoolmal, Phulmal, Rajasthan 306302",
+    "area": "306303",
+    "latitude": 26.2156275,
+    "longitude": 73.9881017,
+    "place_id": "ChIJi7s23jCJaTkRyRJ6E32InuQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi7s23jCJaTkRyRJ6E32InuQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:53:22"
+  }
+]

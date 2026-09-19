@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "House of oils",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "306704",
+    "phone_number": "+91 94403 27748",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 29,
+    "address": "18-95/a, chaitanyapuri Saroornagar, Hyderabad, Telangana 500060",
+    "area": "VR Colony, Kamala Nagar, Dilsukhnagar",
+    "latitude": 17.368218,
+    "longitude": 78.53211069999999,
+    "place_id": "ChIJgfIK0oCZyzsRHaDP3ecklTg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgfIK0oCZyzsRHaDP3ecklTg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:27:49"
+  },
+  {
+    "business_name": "SVS Oil Mills",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Mill",
+    "all_categories": "Mill",
+    "pincode": "306704",
+    "phone_number": "+91 44 2599 4198",
+    "website": "https://svsoilmills.com/",
+    "rating": 3.3,
+    "reviews_count": 26,
+    "address": "No.11, Thiruvottiyur High Rd, Thangal, Vasantha Nagar, Tondiarpet, Chennai, Tamil Nadu 600019",
+    "area": "Thangal, Vasantha Nagar, Tondiarpet",
+    "latitude": 13.145556099999999,
+    "longitude": 80.2970903,
+    "place_id": "ChIJ8RpqeZZvUjoRfIXyOnaE6zA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8RpqeZZvUjoRfIXyOnaE6zA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:27:53"
+  }
+]

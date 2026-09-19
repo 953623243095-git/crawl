@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Singh Fashion Gallery",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "306305",
+    "phone_number": "+91 98771 20093",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "MMX4+H24, Kailon, Sector 114, Sahibzada Ajit Singh Nagar, Punjab 140307",
+    "area": "Kailon, Sector 114",
+    "latitude": 30.698891,
+    "longitude": 76.6550932,
+    "place_id": "ChIJ89j_MgDvDzkRE5SHxNjHJhQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ89j_MgDvDzkRE5SHxNjHJhQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:55:57"
+  },
+  {
+    "business_name": "Manyavar",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "306305",
+    "phone_number": "+91 80 3700 2334",
+    "website": "https://www.manyavar.com/en-in/store-india/chandigarh/chandigarh/manyavar-elante-mall-VFPLVVC2",
+    "rating": 4.9,
+    "reviews_count": 2465,
+    "address": "Shop No 235B, 2nd Floor, Elante Mall, Plot No 178/178A, Phase 1, Industrial Area Phase I, Chandigarh, 160002",
+    "area": "Phase 1, Industrial Area Phase I",
+    "latitude": 30.705682699999997,
+    "longitude": 76.80150019999999,
+    "place_id": "ChIJVazP0W3vDzkRMYpH_fK3qM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVazP0W3vDzkRMYpH_fK3qM4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:55:57"
+  }
+]

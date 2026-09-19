@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "One Two Ka Four",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Fast food restaurant",
+    "pincode": "307019",
+    "phone_number": "+91 96025 96161",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Mayur plaza, Chitrakoot Marg, near SBBJ Bank, Vaishali Nagar, Jaipur, Rajasthan 302021",
+    "area": "Akruti Apartments, Vaishali Nagar",
+    "latitude": 26.8966504,
+    "longitude": 75.7390849,
+    "place_id": "ChIJF1MyfqC0bTkRYiLJU4Xp1Hw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF1MyfqC0bTkRYiLJU4Xp1Hw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:46:28"
+  },
+  {
+    "business_name": "SHREE SWAAD™",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Cake shop, Sweet shop, Dessert shop, Snack bar",
+    "pincode": "307019",
+    "phone_number": "+91 77280 91919",
+    "website": "https://www.shreeswaad.com/",
+    "rating": 5,
+    "reviews_count": 23,
+    "address": "Vandana Vihar Colony, Link Rd, near by Shiv Shakti Colony Modi College, Laxmangarh, Lachhmangarh, Rajasthan 332311",
+    "area": "307019",
+    "latitude": 27.813455599999998,
+    "longitude": 75.040176,
+    "place_id": "ChIJhwigtEKrbDkRRceAvh2Q4aY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhwigtEKrbDkRRceAvh2Q4aY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:46:29"
+  }
+]

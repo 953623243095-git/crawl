@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sani IT Expert",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "306501",
+    "phone_number": "+91 93265 25165",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 33,
+    "address": "Bus Stand, Ridhi Sidhi Colony, Batakharah, Mahakal Nagar, Sirohi, Rajasthan 307001",
+    "area": "Ridhi Sidhi Colony, Batakharah, Mahakal Nagar",
+    "latitude": 24.875373999999997,
+    "longitude": 72.8628657,
+    "place_id": "ChIJG9HncnbbQjkR-RRs11S6EBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG9HncnbbQjkR-RRs11S6EBU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:10:27"
+  },
+  {
+    "business_name": "Rohan Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer consultant, Computer repair service, Computer service, Computer Wholesaler",
+    "pincode": "306501",
+    "phone_number": "+91 84460 93939",
+    "website": "https://rohan-computers.com/",
+    "rating": 4.9,
+    "reviews_count": 990,
+    "address": "Shop No.9, 2408, East St, next to corporation bank, Kumar Place, Camp, Pune, Maharashtra 411001",
+    "area": "Kumar Place, Camp",
+    "latitude": 18.5085023,
+    "longitude": 73.879283,
+    "place_id": "ChIJq0JDTUjAwjsRq_qGpl7KMdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq0JDTUjAwjsRq_qGpl7KMdU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:10:30"
+  }
+]

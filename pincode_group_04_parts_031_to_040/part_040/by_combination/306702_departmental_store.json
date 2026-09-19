@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Ashapura Supermarket",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "306702",
+    "phone_number": "+91 86195 77966",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": null,
+    "address": "Parshuram Mahadev Police Station Road Sadri 123parshuram, Road, Sadri, Rajasthan 306705",
+    "area": "Bagechi Jupa",
+    "latitude": 25.183537599999998,
+    "longitude": 73.4542797,
+    "place_id": "ChIJuQ0qFN6fQjkR2y8GS1ZH_Z4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuQ0qFN6fQjkR2y8GS1ZH_Z4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:24:01"
+  },
+  {
+    "business_name": "खेरादेवी गरबा मंडल राजपुरा",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "306702",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "5FFJ+9Q6 खेरादेवी गरबा मंडल, Rajpura, Sadri, Rajasthan 306705",
+    "area": "306702",
+    "latitude": 25.1734118,
+    "longitude": 73.4818782,
+    "place_id": "ChIJWeM9cnYhaDkRh6bRNA-IOoI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWeM9cnYhaDkRh6bRNA-IOoI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:24:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CSC CENTER",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Store",
+    "pincode": "306503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "RAJPUTO KA VAS, Amliya, Rajasthan 306504",
+    "area": "306503",
+    "latitude": 24.8444903,
+    "longitude": 73.1267853,
+    "place_id": "ChIJnejH5ai3QjkRO97ZFn36fR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnejH5ai3QjkRO97ZFn36fR0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:14:12"
+  },
+  {
+    "business_name": "SARSWATI E SEWA AND CSC KENDRA",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "306503",
+    "phone_number": "+91 99293 09544",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MEGHWALON KA BAS, Sanwalta, Rajasthan 306603",
+    "area": "306503",
+    "latitude": 25.4578341,
+    "longitude": 73.4932196,
+    "place_id": "ChIJlQ9tAukraDkR8uPA-yZy4nw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlQ9tAukraDkR8uPA-yZy4nw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:14:12"
+  }
+]

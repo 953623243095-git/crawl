@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ROYAL BOUTIQUE",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Clothing alteration service",
+    "all_categories": "Clothing alteration service, Clothing store",
+    "pincode": "307043",
+    "phone_number": "+91 79000 00608",
+    "website": "http://www.royalwardrobe.in/",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "SCO 1014/3, Mattaur Rd, Mattaur, Sector 70, Sahibzada Ajit Singh Nagar, Punjab 160071",
+    "area": "Mattaur, Sector 70",
+    "latitude": 30.698344499999997,
+    "longitude": 76.7128596,
+    "place_id": "ChIJIzZlj5HvDzkRmaFCxm8MztE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIzZlj5HvDzkRmaFCxm8MztE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:08:59"
+  },
+  {
+    "business_name": "Umang Tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "307043",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 21,
+    "address": "Gandhi Chowk, Kurari Mohalla, Kalka, Orian, Haryana 133302",
+    "area": "Kurari Mohalla",
+    "latitude": 30.837972399999998,
+    "longitude": 76.9399468,
+    "place_id": "ChIJezM_UeWODzkREQ_uGvVqong",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJezM_UeWODzkREQ_uGvVqong",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:08:59"
+  }
+]

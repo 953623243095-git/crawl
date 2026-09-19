@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHREE BAHUCHAR GENERAL STORE",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Indian grocery store",
+    "pincode": "307513",
+    "phone_number": "+91 81530 54907",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop 1, near Police station, Indra Nagar, Bapla, Gujarat 385545",
+    "area": "Indra Nagar",
+    "latitude": 24.619225099999998,
+    "longitude": 72.2658519,
+    "place_id": "ChIJLfPRSQBLQzkRBxZqSOanKi8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLfPRSQBLQzkRBxZqSOanKi8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:18:11"
+  },
+  {
+    "business_name": "Shree Ganesh Mobile & General Store",
+    "search_category": "General Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "307513",
+    "phone_number": "+91 70739 10910",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Bherugarh Road, Bhatana, Rajasthan 307514",
+    "area": "307513",
+    "latitude": 24.5127316,
+    "longitude": 72.5077893,
+    "place_id": "ChIJN87RjxDOXDkRplTLf6g5o08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN87RjxDOXDkRplTLf6g5o08",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:18:12"
+  }
+]

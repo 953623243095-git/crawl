@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dipika Fancy Store",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "306501",
+    "phone_number": "+91 95710 17477",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Kherwa, Rajasthan 306401",
+    "area": "306501",
+    "latitude": 25.6733403,
+    "longitude": 73.4568409,
+    "place_id": "ChIJr1zAjrJ3QjkRDR0yOo3aenA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr1zAjrJ3QjkRDR0yOo3aenA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:09:29"
+  },
+  {
+    "business_name": "Aarti Bangles",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "306501",
+    "phone_number": "+91 63963 67944",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "29, Kherwa Rd, Kherwa, Shivpura, Rajasthan 306501",
+    "area": "306501",
+    "latitude": 25.6737641,
+    "longitude": 73.4573327,
+    "place_id": "ChIJr6M1wZd3QjkRaLlKiNzsMPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr6M1wZd3QjkRaLlKiNzsMPA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:09:29"
+  }
+]

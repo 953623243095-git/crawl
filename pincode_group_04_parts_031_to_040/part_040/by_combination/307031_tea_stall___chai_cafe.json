@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandan tea shop",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Tea store",
+    "pincode": "307031",
+    "phone_number": "+91 88727 56676",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Unnamed Road, Sub. City Center, Sector 34A, Sector 34, Chandigarh, 160022",
+    "area": "Sub. City Center, Sector 34A, Sector 34",
+    "latitude": 30.722179999999998,
+    "longitude": 76.76676499999999,
+    "place_id": "ChIJceR5uTztDzkRkBRNIcM73-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJceR5uTztDzkRkBRNIcM73-Y",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:04:57"
+  },
+  {
+    "business_name": "Chai Sutta Bar - Gopalpura",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "307031",
+    "phone_number": "+91 70145 50205",
+    "website": "https://chaisuttabarindia.com/",
+    "rating": 4.3,
+    "reviews_count": 407,
+    "address": "Ground floor, 18, Gopalpura Bypass Rd, Gangaram nagar Jaipur, Shri Gopal Nagar, Arjun Nagar, Jaipur, Rajasthan 302015",
+    "area": "Gangaram nagar Jaipur, Shri Gopal Nagar, Arjun Nagar",
+    "latitude": 26.876525599999997,
+    "longitude": 75.77342019999999,
+    "place_id": "ChIJ_1v3E7G1bTkR3Qy5e22SVMM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_1v3E7G1bTkR3Qy5e22SVMM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:05:00"
+  }
+]

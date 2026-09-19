@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAJU AUTO REPAIR & SPARES",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "306901",
+    "phone_number": "+91 99151 72988",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Punjab 140301",
+    "area": "306901",
+    "latitude": 30.753745499999997,
+    "longitude": 76.62842599999999,
+    "place_id": "ChIJDdbZFbL6DzkRe_RwGt6Evoo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDdbZFbL6DzkRe_RwGt6Evoo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:39:38"
+  },
+  {
+    "business_name": "Deep Motors",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, Electrical repair shop",
+    "pincode": "306901",
+    "phone_number": "+91 93165 58653",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 223,
+    "address": "SCO - 3, Old Ambala Rd, adj. Hotel Swan, Sector 26, Dhakoli, Zirakpur, Punjab 160104",
+    "area": "Sector 26, Dhakoli",
+    "latitude": 30.659380499999997,
+    "longitude": 76.8447767,
+    "place_id": "ChIJZVaxebmUDzkRHkgaW0y0m8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZVaxebmUDzkRHkgaW0y0m8U",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:39:38"
+  }
+]

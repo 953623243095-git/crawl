@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bijliwala",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "306504",
+    "phone_number": "+91 73004 43301",
+    "website": "http://www.bijliwalastore.com/",
+    "rating": 4.8,
+    "reviews_count": 19,
+    "address": "near post office, Sukhadia Circle, Forest Colony, Pindwara, Rajasthan 307022",
+    "area": "Sukhadia Circle, Forest Colony",
+    "latitude": 24.793765099999998,
+    "longitude": 73.0477343,
+    "place_id": "ChIJl2Pz2B3JQjkR31cx9W8FaTo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl2Pz2B3JQjkR31cx9W8FaTo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:15:32"
+  },
+  {
+    "business_name": "Ck light pindwara",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store",
+    "pincode": "306504",
+    "phone_number": "+91 80786 58796",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "Q3V2+973 Dwarikadish mandir, Indra Colony, Pindwara, Rajasthan 307022",
+    "area": "Indra Colony",
+    "latitude": 24.7933903,
+    "longitude": 73.0506808,
+    "place_id": "ChIJQ8lvGO7JQjkR85dcmDDat5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ8lvGO7JQjkR85dcmDDat5A",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:15:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Polti farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm, Supermarket",
+    "pincode": "306901",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Morua , ummedpur Road .307030, Umedpur, Rajasthan 307030",
+    "area": "306901",
+    "latitude": 25.3185565,
+    "longitude": 72.9041988,
+    "place_id": "ChIJf3UL6MP3QjkRY77JOFF-x-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf3UL6MP3QjkRY77JOFF-x-8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:39:04"
+  },
+  {
+    "business_name": "Bankli, Rajasthan 306901",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "306901",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bankli, Rajasthan",
+    "area": "306901",
+    "latitude": 25.21855,
+    "longitude": 73.0051055,
+    "place_id": "ChIJhXy1UfftQjkRX_Dn7laOTNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhXy1UfftQjkRX_Dn7laOTNw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:39:05"
+  }
+]

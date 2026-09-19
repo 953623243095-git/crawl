@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Trikveda - Ayurvedic Clinic",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic",
+    "pincode": "306602",
+    "phone_number": "+91 77172 11555",
+    "website": "https://trikveda.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2061, Sector 50-C, Victoria Enclave, Sector 50, Chandigarh, 160047",
+    "area": "Sector 50-C, Victoria Enclave, Sector 50",
+    "latitude": 30.6969867,
+    "longitude": 76.74915419999999,
+    "place_id": "ChIJybigvAXtDzkRVR6QX9z71dM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJybigvAXtDzkRVR6QX9z71dM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:18:55"
+  },
+  {
+    "business_name": "Ayurved chikitsa centre and skin clinic",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant, Ayurvedic clinic, Dermatologist, Skin care clinic",
+    "pincode": "306602",
+    "phone_number": "+91 84275 98088",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "1160, phase5, Phase 5, Sector 59, Sahibzada Ajit Singh Nagar, Punjab 160071",
+    "area": "Phase 5, Sector 59",
+    "latitude": 30.715220799999997,
+    "longitude": 76.71526999999999,
+    "place_id": "ChIJNY_RzkbvDzkRkApLNTE1rEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNY_RzkbvDzkRkApLNTE1rEA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:18:57"
+  }
+]

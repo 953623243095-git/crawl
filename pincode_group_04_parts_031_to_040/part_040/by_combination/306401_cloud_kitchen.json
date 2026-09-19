@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Poojas Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "306401",
+    "phone_number": "+91 88548 08966",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Punayata, Pali, Rajasthan 306401",
+    "area": "Punayata",
+    "latitude": 25.7810262,
+    "longitude": 73.277597,
+    "place_id": "ChIJiyYY8kBzQjkRH8ARsCbBpIo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiyYY8kBzQjkRH8ARsCbBpIo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:03:32"
+  },
+  {
+    "business_name": "ON THE FARM PALI (Cloud Kitchen Service Pali)",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "306401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P8JC+V4J, Sumerpur Rd, Mandli Khurd, Pali, Rajasthan 306401",
+    "area": "306401",
+    "latitude": 25.732224199999997,
+    "longitude": 73.3202668,
+    "place_id": "ChIJO4IoYgBzQjkR-i3SW5pPBT0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO4IoYgBzQjkR-i3SW5pPBT0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:03:32"
+  }
+]

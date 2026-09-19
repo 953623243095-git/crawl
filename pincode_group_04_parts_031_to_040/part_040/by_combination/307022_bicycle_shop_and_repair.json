@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Moti Cycle Workshop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle repair shop, Bicycle wholesaler",
+    "pincode": "307022",
+    "phone_number": "+91 81999 92233",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Dharuhera - Bhiwadi Bypass Rd, Vikas Nagar, Bhiwadi, Haryana 123106",
+    "area": "Vikas Nagar",
+    "latitude": 28.2103157,
+    "longitude": 76.8268006,
+    "place_id": "ChIJjfP8mv03DTkRXG-RXVQC45M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjfP8mv03DTkRXG-RXVQC45M",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:48:49"
+  },
+  {
+    "business_name": "Bharat Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "307022",
+    "phone_number": "+91 99288 61310",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "QC57+8HF, Ghatol, Rajasthan 327023",
+    "area": "307022",
+    "latitude": 23.7583001,
+    "longitude": 74.4139127,
+    "place_id": "ChIJq6qq63roZjkRK-yvL27BgGU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qq63roZjkRK-yvL27BgGU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:48:49"
+  }
+]

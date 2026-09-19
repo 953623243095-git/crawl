@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganpati Garments",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Shopping mall",
+    "pincode": "306304",
+    "phone_number": "+91 97999 91708",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ganpati Garments, Pipliya Buy Pass, Sabalpura, Rajasthan 306307",
+    "area": "306304",
+    "latitude": 26.0289555,
+    "longitude": 73.9371779,
+    "place_id": "ChIJkTeVmH6RaTkRxrYex0V1SM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkTeVmH6RaTkRxrYex0V1SM4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:54:02"
+  },
+  {
+    "business_name": "Ganpati Vastra Bhandar",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "306304",
+    "phone_number": "+91 75972 70155",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 10,
+    "address": "Road, opposite Govt. Hospital, Haripur, Raipur, Rajasthan 306304",
+    "area": "306304",
+    "latitude": 26.0383982,
+    "longitude": 74.0229062,
+    "place_id": "ChIJj6IJ7H2QaTkRM2MBAyapNeU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj6IJ7H2QaTkRM2MBAyapNeU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:54:03"
+  }
+]

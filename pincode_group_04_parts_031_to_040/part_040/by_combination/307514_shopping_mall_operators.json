@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cosmo Creation",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "307514",
+    "phone_number": "+91 90840 95405",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "second floor, Triton Mall, s-115, near chomu puliya circle, Hyper City, Om Shiv Colony, Dahar Ka Balaji, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302012",
+    "area": "Hyper City, Om Shiv Colony, Dahar Ka Balaji",
+    "latitude": 26.9412028,
+    "longitude": 75.7710024,
+    "place_id": "ChIJc8vynqazbTkRAxRKHU5VK4I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc8vynqazbTkRAxRKHU5VK4I",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:21:50"
+  },
+  {
+    "business_name": "Tarak Online Store (K P Agarwal) (Reodar)",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Clothing Accessories Store",
+    "all_categories": "Clothing Accessories Store",
+    "pincode": "307514",
+    "phone_number": "N/A",
+    "website": "https://tarakonline.com/",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "opp. Bus Station, Reodar, Rajasthan 307514",
+    "area": "307514",
+    "latitude": 24.618564199999998,
+    "longitude": 72.5277764,
+    "place_id": "ChIJI0hMLEXTXDkROn-q127cisA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI0hMLEXTXDkROn-q127cisA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:21:51"
+  }
+]

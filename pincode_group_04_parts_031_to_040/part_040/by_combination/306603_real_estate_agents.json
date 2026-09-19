@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahadev group",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "306603",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7HF7+J67, Desuri, Rajasthan 306703",
+    "area": "306603",
+    "latitude": 25.2740312,
+    "longitude": 73.5630396,
+    "place_id": "ChIJaeX8bwAlaDkRDuONEdVT0F8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaeX8bwAlaDkRDuONEdVT0F8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:21:49"
+  },
+  {
+    "business_name": "Parmar agency",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "306603",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6GXC+CXG, Dudapura, Rajasthan 306704",
+    "area": "306603",
+    "latitude": 25.248535999999998,
+    "longitude": 73.52248019999999,
+    "place_id": "ChIJgz51rUYnaDkRsPeaGWPOHE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgz51rUYnaDkRsPeaGWPOHE8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:21:52"
+  }
+]

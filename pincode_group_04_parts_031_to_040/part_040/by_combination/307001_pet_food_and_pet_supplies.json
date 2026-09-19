@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Three star pet shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "307001",
+    "phone_number": "+91 78918 87229",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Housing Board Colony, Vedhaynath Colony, Sirohi, Rajasthan 307001",
+    "area": "Housing Board Colony, Vedhaynath Colony",
+    "latitude": 24.890643999999998,
+    "longitude": 72.8565406,
+    "place_id": "ChIJNdN3jfvbQjkRdnsMwYCNWW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNdN3jfvbQjkRdnsMwYCNWW0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:44:38"
+  },
+  {
+    "business_name": "Mukesh Kirana Store",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "307001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shakti Mata, Tanwari, Rajasthan 307802",
+    "area": "307001",
+    "latitude": 24.8888438,
+    "longitude": 72.6234608,
+    "place_id": "ChIJf8q7yG0nQzkRrARkB4sbOLI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf8q7yG0nQzkRrARkB4sbOLI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:44:40"
+  }
+]

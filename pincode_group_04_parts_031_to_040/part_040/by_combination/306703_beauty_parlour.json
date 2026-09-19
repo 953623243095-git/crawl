@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R M beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "306703",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Muchhala Mahaveeji Road, Ghanerao, Rajasthan 306704",
+    "area": "306703",
+    "latitude": 25.2324019,
+    "longitude": 73.5329421,
+    "place_id": "ChIJu4kSqlYnaDkRv0tV5dRYke0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu4kSqlYnaDkRv0tV5dRYke0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:26:51"
+  },
+  {
+    "business_name": "Apsara Beauty coner",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "306703",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8G8M+QGP, Rawla Rd, Narlai, Rajasthan 306703",
+    "area": "306703",
+    "latitude": 25.316954499999998,
+    "longitude": 73.5338313,
+    "place_id": "ChIJrRdzaRMpaDkRYyaAsTDeLsQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrRdzaRMpaDkRYyaAsTDeLsQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:26:53"
+  }
+]

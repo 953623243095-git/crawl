@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rental rooms",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "306706",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lunawa, Rajasthan 306706",
+    "area": "306706",
+    "latitude": 25.134448199999998,
+    "longitude": 73.32034879999999,
+    "place_id": "ChIJLzJK-xuZQjkRRoKp3PRzLSQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLzJK-xuZQjkRRoKp3PRzLSQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:32:42"
+  },
+  {
+    "business_name": "Kesariya Jain Atithi Bhawan",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "306706",
+    "phone_number": "+91 2938 222 089",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 36,
+    "address": "Bali Rd, near Bali, Nagarpalika, Falna, Bali, Rajasthan 306701",
+    "area": "Nagarpalika",
+    "latitude": 25.1895056,
+    "longitude": 73.2912229,
+    "place_id": "ChIJl75Ez9ibQjkRYmgdL7j0fNE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl75Ez9ibQjkRYmgdL7j0fNE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:32:43"
+  }
+]

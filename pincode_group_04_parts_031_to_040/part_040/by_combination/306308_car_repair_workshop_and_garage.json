@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahadev Car Workshop",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "306308",
+    "phone_number": "+91 77428 81593",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6XFQ+684, Sardargarh, Bhopa Ki Bhagal, Rajasthan 313330",
+    "area": "306308",
+    "latitude": 25.2229903,
+    "longitude": 73.98828739999999,
+    "place_id": "ChIJgfV6dwBDaDkR2cjXOWRa7GQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgfV6dwBDaDkR2cjXOWRa7GQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:02:01"
+  },
+  {
+    "business_name": "Baba Ramdev Auto Repairing Service",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Garage",
+    "all_categories": "Garage",
+    "pincode": "306308",
+    "phone_number": "+91 96729 34660",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Shop No 9, Pipar Borunda Rd, Borunda, Rajasthan 342604",
+    "area": "306308",
+    "latitude": 26.4749745,
+    "longitude": 73.80307069999999,
+    "place_id": "ChIJYTypZfoXajkRHwlOT3Rxqzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYTypZfoXajkRHwlOT3Rxqzc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:02:03"
+  }
+]

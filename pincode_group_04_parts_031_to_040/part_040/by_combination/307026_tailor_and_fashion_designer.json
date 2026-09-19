@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fancy Tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "307026",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Girwar Board, Revdar Rd, Girwar, Abu Road, Rajasthan 307026",
+    "area": "307026",
+    "latitude": 24.514052799999998,
+    "longitude": 72.6671941,
+    "place_id": "ChIJ7Q7ywc7XXDkRhHdWKC4Kq2g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Q7ywc7XXDkRhHdWKC4Kq2g",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:55:53"
+  },
+  {
+    "business_name": "Kashmir Cottage Emporium",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor, Handicraft, Craft store",
+    "pincode": "307026",
+    "phone_number": "+91 2974 238 852",
+    "website": "http://www.tromboo.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Nakki Lake Rd, Aburaj, Rajasthan 307501",
+    "area": "307026",
+    "latitude": 24.593418699999997,
+    "longitude": 72.70750389999999,
+    "place_id": "ChIJU1ad5YDVXDkRRxvoTGHKwMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU1ad5YDVXDkRRxvoTGHKwMI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:55:55"
+  }
+]

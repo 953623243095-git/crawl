@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Recruitment and Job Information",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "306302",
+    "phone_number": "+91 92148 35212",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6W3J+W33 Hanuman Mandir Ki, Gali Nimaj Road, Jaitaran, Rajasthan 306302",
+    "area": "306302",
+    "latitude": 26.2047599,
+    "longitude": 73.9301627,
+    "place_id": "ChIJFwAAANSLaTkR_wmTuK_bA2M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFwAAANSLaTkR_wmTuK_bA2M",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:51:12"
+  },
+  {
+    "business_name": "Mayank Gurjar Advocate",
+    "search_category": "Educational Consultant",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services",
+    "pincode": "306302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Court campus, Jaitaran, Rajasthan 306302",
+    "area": "306302",
+    "latitude": 26.2057303,
+    "longitude": 73.9324286,
+    "place_id": "ChIJGaomx0-LaTkRqC6x4kOjfAw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGaomx0-LaTkRqC6x4kOjfAw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:51:13"
+  }
+]

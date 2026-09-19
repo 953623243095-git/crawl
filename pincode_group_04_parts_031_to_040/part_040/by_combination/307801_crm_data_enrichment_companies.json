@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dear infotech Pvt Ltd",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Web hosting company, Website designer",
+    "pincode": "307801",
+    "phone_number": "+91 89555 77795",
+    "website": "https://dearinfotech.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V/P:, Bilona Khurd, Lalsot, Bilona Khurd, Rajasthan 303503",
+    "area": "Bilona Khurd",
+    "latitude": 26.4241149,
+    "longitude": 76.4021054,
+    "place_id": "ChIJY6vgX1sDbjkRlXnpBMEgRFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY6vgX1sDbjkRlXnpBMEgRFI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:25:34"
+  },
+  {
+    "business_name": "Genius Infotech Technology",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "307801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "44GR+7JH, Jalor choraya, Sumerpur, Lunawas, Rajasthan 343030",
+    "area": "Jalor choraya",
+    "latitude": 25.1256822,
+    "longitude": 72.1416132,
+    "place_id": "ChIJV1VVVVVlQzkRCkNrDvq4MgU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV1VVVVVlQzkRCkNrDvq4MgU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:25:35"
+  }
+]

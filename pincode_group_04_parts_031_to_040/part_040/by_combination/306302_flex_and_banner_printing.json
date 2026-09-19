@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Flex",
+    "search_category": "Flex and Banner Printing",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop",
+    "pincode": "306302",
+    "phone_number": "+91 87418 33237",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Itawa road, Mangrol, Rajasthan 325215",
+    "area": "306302",
+    "latitude": 25.3323832,
+    "longitude": 76.5033194,
+    "place_id": "ChIJJZYbXgMfcDkRp673HDVTqsc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJZYbXgMfcDkRp673HDVTqsc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:51:15"
+  },
+  {
+    "business_name": "DM Flex",
+    "search_category": "Flex and Banner Printing",
+    "primary_category": "Graphic designer",
+    "all_categories": "Graphic designer",
+    "pincode": "306302",
+    "phone_number": "+91 97822 22652",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "near Bag ke Balaji, Renwal, Rainwal, Rajasthan 303603",
+    "area": "306302",
+    "latitude": 27.1651629,
+    "longitude": 75.35660229999999,
+    "place_id": "ChIJpwnk1hz1bDkRMLHE6yVgCyg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpwnk1hz1bDkRMLHE6yVgCyg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:51:17"
+  }
+]

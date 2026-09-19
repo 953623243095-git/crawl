@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jay Maa Bhawani Fashion Point",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "306105",
+    "phone_number": "+91 90791 17877",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Sawariya SetMarket, Bay Pass Road, Raipur, Rajasthan 306304",
+    "area": "306105",
+    "latitude": 26.0397341,
+    "longitude": 74.0236077,
+    "place_id": "ChIJVXiUaDaRaTkRP4l2uO4eJi0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVXiUaDaRaTkRP4l2uO4eJi0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:36:54"
+  },
+  {
+    "business_name": "Saini Tailor Jaitatan",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "306105",
+    "phone_number": "+91 94619 25821",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MDR24, Jaitaran, Rajasthan 306302",
+    "area": "306105",
+    "latitude": 26.2025704,
+    "longitude": 73.9433325,
+    "place_id": "ChIJ229gFHuJaTkRExyA7dKo-Z0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ229gFHuJaTkRExyA7dKo-Z0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:36:55"
+  }
+]

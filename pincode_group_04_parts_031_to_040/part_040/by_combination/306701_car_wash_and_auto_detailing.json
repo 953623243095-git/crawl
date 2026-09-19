@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Detailing Monkey",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "306701",
+    "phone_number": "+91 92158 86685",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "RIGHT SIDE OF CAPTAIN RAJA RAM FILLING STATION, Dabwali - Ellenabad Rd, Dabwali, Haryana 125104",
+    "area": "Dabwali",
+    "latitude": 29.9366155,
+    "longitude": 74.7300801,
+    "place_id": "ChIJd1Y8usTZFjkRFS-X3dSe2EA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd1Y8usTZFjkRFS-X3dSe2EA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:22:48"
+  },
+  {
+    "business_name": "Nagnechi servise centre",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "306701",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "नागणेची सर्विस सेंटर, Bali, Krushi mandi ke samne, rod, Falna, Bali, Rajasthan 306701",
+    "area": "306701",
+    "latitude": 25.1993346,
+    "longitude": 73.27224,
+    "place_id": "ChIJ09LeDKiRQjkRLUcxual24Zo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ09LeDKiRQjkRLUcxual24Zo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:22:49"
+  }
+]

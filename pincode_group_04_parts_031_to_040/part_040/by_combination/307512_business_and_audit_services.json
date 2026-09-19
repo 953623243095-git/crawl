@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lawrence Business Services LLC",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Bookkeeping service",
+    "all_categories": "Bookkeeping service, Service establishment",
+    "pincode": "307512",
+    "phone_number": "N/A",
+    "website": "https://lawrencebusinessservices.com/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Lawrence Business Services LLC, 307512, India",
+    "area": "307512",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJ4aahX4_OgYARjjMN9P_ENR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4aahX4_OgYARjjMN9P_ENR0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:17:46"
+  },
+  {
+    "business_name": "Shahi & Co. Chartered Accountants",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant",
+    "pincode": "307512",
+    "phone_number": "+91 99993 61351",
+    "website": "https://shahiandco.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "No 9, Pushp Vihar, 201, Second Floor, LSC, Buidling, Madangir, New Delhi, Delhi 110062",
+    "area": "Madangir Village, Madangir",
+    "latitude": 28.5263843,
+    "longitude": 77.23208,
+    "place_id": "ChIJnSFgRQlhxgsR8y4y-GJ2uyc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnSFgRQlhxgsR8y4y-GJ2uyc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:17:47"
+  }
+]

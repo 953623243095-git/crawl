@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MM Physiotherapy & Rehabilitation Centre",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center, Psychologist, Rehabilitation center",
+    "pincode": "306601",
+    "phone_number": "+91 98385 54959",
+    "website": "http://mmphysiorehab.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "kalgidhar gurudwara, 20C, Sector 20, Chandigarh, 160020",
+    "area": "20C, Sector 20",
+    "latitude": 30.7154438,
+    "longitude": 76.77872959999999,
+    "place_id": "ChIJoSo3aADtDzkRDifHntMv8I4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoSo3aADtDzkRDifHntMv8I4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:17:39"
+  },
+  {
+    "business_name": "(Autism) Little Hand Natural Therapeutic Centre -ABA Therapy|Autism Speech Therapy Centre for kids in Chandigarh mohali",
+    "search_category": "Therapy Center",
+    "primary_category": "Occupational therapist",
+    "all_categories": "Occupational therapist, Speech & Hearing Specialist, Rehabilitation center, Special educator, Sports school",
+    "pincode": "306601",
+    "phone_number": "+91 70821 45013",
+    "website": "http://alhtc.co.in/",
+    "rating": 4.9,
+    "reviews_count": 103,
+    "address": "Ground Floor, Empire hotel, 669, Sector 70, Sahibzada Ajit Singh Nagar, Punjab 160070",
+    "area": "Mattaur, Sector 70",
+    "latitude": 30.7014903,
+    "longitude": 76.7143964,
+    "place_id": "ChIJi7890JDvDzkR0EgVIb6AmHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi7890JDvDzkR0EgVIb6AmHU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:17:41"
+  }
+]

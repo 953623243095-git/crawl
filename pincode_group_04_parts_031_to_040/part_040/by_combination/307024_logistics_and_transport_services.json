@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ssk India Logistics",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "307024",
+    "phone_number": "+91 89299 20007",
+    "website": "https://sskindialogistics.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ssk Logistics, Building Sampla, Qqcg+2F8, Sampla, Rohtak Division Delhi, Haryana 124501",
+    "area": "307024",
+    "latitude": 28.770062499999998,
+    "longitude": 76.77618749999999,
+    "place_id": "ChIJcyt6cCyeDTkRBv0E9cScOrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcyt6cCyeDTkRBv0E9cScOrc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:52:31"
+  },
+  {
+    "business_name": "Delhi Rajasthan Transport Co. Ltd.",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "307024",
+    "phone_number": "+91 2971 242 734",
+    "website": "http://drtcindia.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Sadar Bazar, Sarupganj, Abu Road, Rajasthan 307026",
+    "area": "Sadar Bazar",
+    "latitude": 24.483109,
+    "longitude": 72.78396599999999,
+    "place_id": "ChIJ9f__U7woXTkRa96Sh1XdL54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9f__U7woXTkRa96Sh1XdL54",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:52:31"
+  }
+]

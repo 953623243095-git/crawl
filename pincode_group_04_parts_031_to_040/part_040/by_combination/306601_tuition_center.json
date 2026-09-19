@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kamboj academy",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "306601",
+    "phone_number": "+91 85709 67403",
+    "website": "https://www.kambojacademyclasses.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "R- 407, JAIPURIA SUNRISE GREENS, VIP Rd, Zirakpur, Punjab 140603",
+    "area": "306601",
+    "latitude": 30.637535099999997,
+    "longitude": 76.80832579999999,
+    "place_id": "ChIJpwoTZ0frDzkRsxcm3gVRs9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpwoTZ0frDzkRsxcm3gVRs9g",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:17:52"
+  },
+  {
+    "business_name": "UNIQUE HOME TUITION BUREAU",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "306601",
+    "phone_number": "+91 86513 91305",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 156,
+    "address": "Indira nagar colony, Kacchi Pakki Bus Stand Road, near mirchi godam, Attardah, Patepur, Muzaffarpur, Bihar 842002",
+    "area": "Attardah, Patepur",
+    "latitude": 26.0931331,
+    "longitude": 85.3917993,
+    "place_id": "ChIJM-H_EhgR7TkRHRZdWJF7cqw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM-H_EhgR7TkRHRZdWJF7cqw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:17:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiv Medical Centre",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "306502",
+    "phone_number": "+91 99980 88414",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop NO.4, MEVADIYA CHORAHA, Charbhuja Road, Gadbor, Kachhar, Garhbor, Rajasthan 313333",
+    "area": "Gadbor",
+    "latitude": 25.2376158,
+    "longitude": 73.694651,
+    "place_id": "ChIJB-B4aQA7aDkRt2yTHUouE1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB-B4aQA7aDkRt2yTHUouE1k",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:11:26"
+  },
+  {
+    "business_name": "davaindia GENERIC PHARMACY",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store, Health food store, Herbal medicine store, Medical supply store, Pharmaceutical company, Vitamin & supplements store",
+    "pincode": "306502",
+    "phone_number": "+91 98292 80897",
+    "website": "https://bhopalpura.davaindia.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1, Residency Rd, opp. Indian Bank, opp. Hanumaji Temple, Sardarpura, Udaipur, Rajasthan 313001",
+    "area": "Sardarpura",
+    "latitude": 24.5951256,
+    "longitude": 73.6959284,
+    "place_id": "ChIJJ7KMMRvlZzkR91jzEytk9ZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ7KMMRvlZzkR91jzEytk9ZI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:11:27"
+  }
+]

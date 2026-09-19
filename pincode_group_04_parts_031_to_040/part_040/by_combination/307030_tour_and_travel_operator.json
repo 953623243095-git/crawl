@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhawani Travel",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "307030",
+    "phone_number": "+91 97845 54888",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Bhinmal - Raniwara Rd, Raniwara, Rajasthan 343040",
+    "area": "307030",
+    "latitude": 24.756956499999998,
+    "longitude": 72.2087008,
+    "place_id": "ChIJVVVVlW5PQzkRfRZgmTEEsOw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVlW5PQzkRfRZgmTEEsOw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:03:37"
+  },
+  {
+    "business_name": "A one tour an travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Carriage ride service",
+    "all_categories": "Carriage ride service",
+    "pincode": "307030",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "QQ3H+9R2, Balaji Nagar, Sanchore, Rajasthan 343041",
+    "area": "Balaji Nagar",
+    "latitude": 24.7533851,
+    "longitude": 71.779527,
+    "place_id": "ChIJ8aMccQClRDkRXhJ4fFdavqg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8aMccQClRDkRXhJ4fFdavqg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:03:37"
+  }
+]

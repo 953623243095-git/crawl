@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bombae Beautee",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "306116",
+    "phone_number": "+91 88759 57777",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop G7, Shiv Shakti Plaza, Falna - Sanderao Rd, opp. Post Office, Shastri Nagar, Falna, Rajasthan 306116",
+    "area": "Shastri Nagar",
+    "latitude": 25.243442599999998,
+    "longitude": 73.2321244,
+    "place_id": "ChIJn8vYtoWRQjkRBZojqunEP5c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn8vYtoWRQjkRBZojqunEP5c",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:43:13"
+  },
+  {
+    "business_name": "BALAJI ART",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler",
+    "pincode": "306116",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rao ki Colony, Khudala, Sewari, Falna, Rajasthan 306116",
+    "area": "Khudala",
+    "latitude": 25.2333805,
+    "longitude": 73.2452574,
+    "place_id": "ChIJEXfYx8aRQjkRzKUuvKIJMik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEXfYx8aRQjkRzKUuvKIJMik",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:43:13"
+  }
+]

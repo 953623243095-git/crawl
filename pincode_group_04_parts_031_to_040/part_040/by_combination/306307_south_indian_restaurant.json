@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jai Shri Ram Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "306307",
+    "phone_number": "+91 95115 45391",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 87,
+    "address": "Railway Station, Ratangarh, Rajasthan 331022",
+    "area": "306307",
+    "latitude": 28.0699079,
+    "longitude": 74.62422049999999,
+    "place_id": "ChIJjxhCHAu_FDkReWOCqxBN_CI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjxhCHAu_FDkReWOCqxBN_CI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:59:38"
+  },
+  {
+    "business_name": "Arihant Masala Udhyog",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Spice store",
+    "all_categories": "Spice store",
+    "pincode": "306307",
+    "phone_number": "+91 99509 80952",
+    "website": "http://www.arihantmasala.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Siwanchi Gate Rd, near Bhika Piyau Out Side, Pratap Nagar, Jodhpur, Rajasthan 342003",
+    "area": "Pratap Nagar",
+    "latitude": 26.2861884,
+    "longitude": 73.005456,
+    "place_id": "ChIJObU4Wc2NQTkRkyckl0RpmVM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJObU4Wc2NQTkRkyckl0RpmVM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:59:40"
+  }
+]

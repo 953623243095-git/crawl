@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Public Health Centre Andore",
+    "search_category": "Clinics",
+    "primary_category": "Community health center",
+    "all_categories": "Community health center",
+    "pincode": "307043",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2VF9+5RG, Andore, Rajasthan 307043",
+    "area": "307043",
+    "latitude": 25.0222855,
+    "longitude": 72.8707541,
+    "place_id": "ChIJT0rMffzdQjkReHUUzEfamPE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT0rMffzdQjkReHUUzEfamPE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:09:07"
+  },
+  {
+    "business_name": "Hospital Radbar",
+    "search_category": "Clinics",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "307043",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "2XGW+762, Raadbar, Rajasthan 306126",
+    "area": "307043",
+    "latitude": 25.0256327,
+    "longitude": 72.995507,
+    "place_id": "ChIJ____r_XBQjkRKbl-d6xtSxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____r_XBQjkRKbl-d6xtSxk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:09:07"
+  }
+]

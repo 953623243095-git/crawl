@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VitusCare Dialysis Centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "307024",
+    "phone_number": "+91 99718 32008",
+    "website": "https://www.vituscare.com/",
+    "rating": 4.8,
+    "reviews_count": 22,
+    "address": "4th Floor, Mangalam Hospital, Baraf Khana, C-30, Sindhi Colony Rd Saket Colony Adarsh Nagar, Raja Park, Jaipur, Rajasthan 302004",
+    "area": "Saket Colony, Raja Park",
+    "latitude": 26.898695999999997,
+    "longitude": 75.83398269999999,
+    "place_id": "ChIJBW0DlklxaTkR1n5DeDaqNJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBW0DlklxaTkR1n5DeDaqNJ8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:52:20"
+  },
+  {
+    "business_name": "Neerja Hospital Dialysis And Nephrology Center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "307024",
+    "phone_number": "+91 96025 15835",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 36,
+    "address": "Vasant Vihar, Sikar, Rajasthan 332001",
+    "area": "Vasant Vihar",
+    "latitude": 27.603993199999998,
+    "longitude": 75.1516247,
+    "place_id": "ChIJaQcQI4OlbDkR7A7kCq0WAyo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaQcQI4OlbDkR7A7kCq0WAyo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:52:20"
+  }
+]

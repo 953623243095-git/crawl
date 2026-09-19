@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhati travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Airline ticket agency, Bus ticket agency, Taxi service",
+    "pincode": "306103",
+    "phone_number": "+91 90017 98165",
+    "website": "https://www.gujarattravels.co.in/",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "SBBJ ATM KAKA CHOURAHA, MM Nagar, Sojat, Rajasthan 306104",
+    "area": "MM Nagar",
+    "latitude": 25.920835999999998,
+    "longitude": 73.6675837,
+    "place_id": "ChIJ56nNzKzpaTkRBCeWvlWfnJU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ56nNzKzpaTkRBCeWvlWfnJU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:33:34"
+  },
+  {
+    "business_name": "Babu Bhati",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "306103",
+    "phone_number": "+91 96805 60083",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Khudala, Falna, Rajasthan 306116",
+    "area": "Khudala",
+    "latitude": 25.2366176,
+    "longitude": 73.2455741,
+    "place_id": "ChIJPXzjM8mRQjkRSWhjAgM2trY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPXzjM8mRQjkRSWhjAgM2trY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:33:35"
+  }
+]

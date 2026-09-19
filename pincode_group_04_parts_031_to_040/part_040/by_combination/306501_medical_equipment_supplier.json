@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Charbhuja Medical Store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "306501",
+    "phone_number": "+91 81073 15142",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Civil Court ke pass, Marwar Junction, Rajasthan 306001",
+    "area": "306501",
+    "latitude": 25.7228535,
+    "longitude": 73.598372,
+    "place_id": "ChIJ-ZNxf8TbaTkRvssuXaCJY_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-ZNxf8TbaTkRvssuXaCJY_g",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:09:39"
+  },
+  {
+    "business_name": "Medical Equipment on Rent",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store, Equipment rental agency",
+    "pincode": "306501",
+    "phone_number": "+91 96809 77758",
+    "website": "http://royalhealthcare.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C-24, Piyush Marg, Bapu Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302015",
+    "area": "Bapu Nagar",
+    "latitude": 26.89291,
+    "longitude": 75.8089987,
+    "place_id": "ChIJZ6JnQp62bTkRjolfYQtWSm4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ6JnQp62bTkRjolfYQtWSm4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:09:40"
+  }
+]

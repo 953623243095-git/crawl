@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mission Recovery",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "306115",
+    "phone_number": "+91 88754 01031",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 30,
+    "address": "by pass, Chirawa, Pilani, Rajasthan 333031",
+    "area": "306115",
+    "latitude": 28.3688142,
+    "longitude": 75.6192361,
+    "place_id": "ChIJVwQwp9gZEzkR0XTQ3MvQhKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVwQwp9gZEzkR0XTQ3MvQhKU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:41:24"
+  },
+  {
+    "business_name": "Physiotherapy Center",
+    "search_category": "Therapy Center",
+    "primary_category": "Rehabilitation center",
+    "all_categories": "Rehabilitation center",
+    "pincode": "306115",
+    "phone_number": "+91 91667 66975",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "B-41, Pali Rd, Prithviraj Nagar, Jodhpur, Rajasthan 342016",
+    "area": "Prithviraj Nagar",
+    "latitude": 26.2277165,
+    "longitude": 73.0346577,
+    "place_id": "ChIJ_WaexmmLQTkRiZvuqvxhKyA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_WaexmmLQTkRiZvuqvxhKyA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:41:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Umer auto consultant",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "307802",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kalandri road, Barloot, Barlut, Rajasthan 307801",
+    "area": "307802",
+    "latitude": 24.989032899999998,
+    "longitude": 72.71166099999999,
+    "place_id": "ChIJdxu3tNrfQjkRoxPgVVmXvBY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdxu3tNrfQjkRoxPgVVmXvBY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:26:14"
+  },
+  {
+    "business_name": "SIROHI AUTO SALES",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "307802",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bagikhana, Sirohi, Rajasthan 307001",
+    "area": "Bagikhana",
+    "latitude": 24.882797,
+    "longitude": 72.8605338,
+    "place_id": "ChIJV89bAPvaQjkRfZQq31BNBkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV89bAPvaQjkRfZQq31BNBkA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:26:16"
+  }
+]

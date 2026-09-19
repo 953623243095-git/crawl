@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Durga Food",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "306912",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "Cheeka Road, Ramthali, Haryana 136035",
+    "area": "306912",
+    "latitude": 29.932336499999998,
+    "longitude": 76.2252247,
+    "place_id": "ChIJL13rWBjFETkRLvO9O5ASKVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL13rWBjFETkRLvO9O5ASKVA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:44:19"
+  },
+  {
+    "business_name": "Bajrang Agro Industries Private Limited",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier, Flour mill",
+    "pincode": "306912",
+    "phone_number": "+91 99933 99922",
+    "website": "https://bai.incc.in/",
+    "rating": 4.2,
+    "reviews_count": 26,
+    "address": "1st Floor, Vikram Tower, Sapna Sangeeta Rd, Old Agarwal Nagar, Indore, Madhya Pradesh 452001",
+    "area": "Old Agarwal Nagar",
+    "latitude": 22.7011778,
+    "longitude": 75.8701889,
+    "place_id": "ChIJVVWlB-L8YjkRevUi3D3Q-Zo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVWlB-L8YjkRevUi3D3Q-Zo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:44:19"
+  }
+]

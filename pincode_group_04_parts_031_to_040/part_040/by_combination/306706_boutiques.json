@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chhotu singh sadra",
+    "search_category": "Boutiques",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "306706",
+    "phone_number": "+91 97996 61043",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "40, Sadri Road, Ravla, Sadra, Latara, Rajasthan 306707",
+    "area": "Ravla",
+    "latitude": 25.1363,
+    "longitude": 73.3461233,
+    "place_id": "ChIJw47-GvKZQjkRI6nP1M8rdRs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw47-GvKZQjkRI6nP1M8rdRs",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:31:56"
+  },
+  {
+    "business_name": "Sawariya family shop",
+    "search_category": "Boutiques",
+    "primary_category": "Clothes market",
+    "all_categories": "Clothes market",
+    "pincode": "306706",
+    "phone_number": "+91 76228 24632",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main market, Sewari, Rajasthan 306707",
+    "area": "306706",
+    "latitude": 25.0964337,
+    "longitude": 73.2970879,
+    "place_id": "ChIJJUdmnC2ZQjkRkr0bwD78kMk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJUdmnC2ZQjkRkr0bwD78kMk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:31:58"
+  }
+]

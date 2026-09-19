@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vikram Provision And General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "306902",
+    "phone_number": "+91 96366 62105",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jalore Choraha, Ushapuri, Sumerpur, Rajasthan 306902",
+    "area": "Ushapuri",
+    "latitude": 25.1573007,
+    "longitude": 73.07991,
+    "place_id": "ChIJ7U53l6ntQjkRHXDlM4fcsvw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7U53l6ntQjkRHXDlM4fcsvw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:40:53"
+  },
+  {
+    "business_name": "Rajeshvari Provigan",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "306902",
+    "phone_number": "+91 96104 63832",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Rajeshvari, Ragukul Colony, Sumerpur, Rajasthan 306902",
+    "area": "Rajeshvari, Ragukul Colony",
+    "latitude": 25.149722699999998,
+    "longitude": 73.0773572,
+    "place_id": "ChIJN3hyjKjsQjkRPOI7it-6RS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN3hyjKjsQjkRPOI7it-6RS4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:40:55"
+  }
+]

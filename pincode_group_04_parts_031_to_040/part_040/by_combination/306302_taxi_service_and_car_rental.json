@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna tour and taxi service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency, Taxi service",
+    "pincode": "306302",
+    "phone_number": "+91 88903 68932",
+    "website": "http://livestudiokrishna.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Deshnok, Rajasthan 334801",
+    "area": "306302",
+    "latitude": 27.7921226,
+    "longitude": 73.34189789999999,
+    "place_id": "ChIJp5qkbQD7PzkReDHHgelTnzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp5qkbQD7PzkReDHHgelTnzc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:50:38"
+  },
+  {
+    "business_name": "Outstation taxi cab service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Bike sharing station, Corporate office",
+    "pincode": "306302",
+    "phone_number": "+91 77423 33000",
+    "website": "http://www.retro.cab/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "2987+JQ5, Ranthambhor Rd, Subhash Nagar, Saptar, Sawai Madhopur, Rajasthan 322001",
+    "area": "Subhash Nagar, Saptar",
+    "latitude": 26.016524699999998,
+    "longitude": 76.36449089999999,
+    "place_id": "ChIJx8tfC2O0bTkRwPH03MMzhrs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx8tfC2O0bTkRwPH03MMzhrs",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:50:38"
+  }
+]

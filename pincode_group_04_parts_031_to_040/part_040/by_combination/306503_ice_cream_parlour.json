@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Banta",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "306503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Marwar Junction, Banta, Rajasthan 306503",
+    "area": "306503",
+    "latitude": 25.589313999999998,
+    "longitude": 73.5607029,
+    "place_id": "ChIJ6aZQ0m3RaTkRbv6Qfva0IYQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6aZQ0m3RaTkRbv6Qfva0IYQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:13:06"
+  },
+  {
+    "business_name": "Ice Cream Parler",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "306503",
+    "phone_number": "+91 99838 48478",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HC7C+474 Singlo Ka Bas, Boosi, Rajasthan 306503",
+    "area": "306503",
+    "latitude": 25.5628612,
+    "longitude": 73.4207249,
+    "place_id": "ChIJp7y6YSt5QjkR1BKpUbhGB78",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp7y6YSt5QjkR1BKpUbhGB78",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:13:06"
+  }
+]

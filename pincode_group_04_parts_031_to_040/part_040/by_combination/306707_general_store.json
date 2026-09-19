@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Medical and General Stores, BIJAPUR",
+    "search_category": "General Store",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "306707",
+    "phone_number": "+91 83560 03894",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 24,
+    "address": "3755+F6J, Rata Mahaveerji Rd, Indra Colony, Bijapur, Rajasthan 306707",
+    "area": "Indra Colony",
+    "latitude": 25.0587181,
+    "longitude": 73.2579851,
+    "place_id": "ChIJu6EzIgC9QjkRx2qvVuGSU_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu6EzIgC9QjkRx2qvVuGSU_M",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:33:30"
+  },
+  {
+    "business_name": "Bhagyeshree medical and general store",
+    "search_category": "General Store",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "306707",
+    "phone_number": "+91 76206 15528",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Rata mahavir ji road, Bijapur, Rajasthan 306707",
+    "area": "306707",
+    "latitude": 25.057326,
+    "longitude": 73.2600405,
+    "place_id": "ChIJmzlG-2y9QjkRg0eFzXEE7e8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmzlG-2y9QjkRg0eFzXEE7e8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:33:30"
+  }
+]

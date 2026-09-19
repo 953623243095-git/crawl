@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Auto Junction",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "306901",
+    "phone_number": "+91 98280 99096",
+    "website": "https://autojunction.online/",
+    "rating": 4.2,
+    "reviews_count": 175,
+    "address": "infront of Disha School, parvati nagar, 40, Pandit TN Mishra Marg, Vistar 40, Nirman Nagar, Brijlalpura, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302019",
+    "area": "Vistar 40, Nirman Nagar, Brijlalpura",
+    "latitude": 26.8881896,
+    "longitude": 75.754406,
+    "place_id": "ChIJPT8hBDK1bTkRY0KC2GR1-HM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPT8hBDK1bTkRY0KC2GR1-HM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:39:39"
+  },
+  {
+    "business_name": "Zedex Škoda Showroom",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer, Auto Dent Removal Service Station, Auto Accessories Store, Electric motor vehicle dealer, Motor vehicle dealer, Skoda dealer",
+    "pincode": "306901",
+    "phone_number": "+91 98717 33311",
+    "website": "https://dealers.skoda-auto.co.in/zedex-skoda-showroom-zedex-shekhawati-electronics-pvt-ltd-car-dealer-patparganj-new-delhi-124602/Home",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "No 23 FIE, Patparganj Industrial Area, Patparganj, New Delhi, Delhi, 110092",
+    "area": "Patparganj Industrial Area, Patparganj",
+    "latitude": 28.6378292,
+    "longitude": 77.3113438,
+    "place_id": "ChIJVVXp2DX7DDkRIkdqxE66sME",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVXp2DX7DDkRIkdqxE66sME",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:39:40"
+  }
+]

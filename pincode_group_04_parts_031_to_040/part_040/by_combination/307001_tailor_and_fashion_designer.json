@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Modern Tailors and selection",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "307001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhimguruji chowk , kailash nagar, Kailash Nagar Rd, Rajasthan 307801",
+    "area": "307001",
+    "latitude": 25.1078424,
+    "longitude": 72.8168228,
+    "place_id": "ChIJeycESpTnQjkRqR44xGB5TjQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeycESpTnQjkRqR44xGB5TjQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:44:50"
+  },
+  {
+    "business_name": "TailorCue - Online Tailoring",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "307001",
+    "phone_number": "+91 88600 30033",
+    "website": "https://tailorcue.com/",
+    "rating": 4.8,
+    "reviews_count": 72,
+    "address": "Kalkaji Extension, Block A 8, Kalkaji, New Delhi, Delhi 110019",
+    "area": "Kalkaji Extension, Block A 8, Kalkaji",
+    "latitude": 28.527071099999997,
+    "longitude": 77.2580229,
+    "place_id": "ChIJNVaWdWbhDDkRgh0EyNcPtDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNVaWdWbhDDkRgh0EyNcPtDA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:44:51"
+  }
+]

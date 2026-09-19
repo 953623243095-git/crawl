@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Bhupendra Tarachand Kumawat",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "306105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "paliiwalo ka bass, Kushalpura, Rajasthan 306305",
+    "area": "paliiwalo ka bass",
+    "latitude": 26.096532099999997,
+    "longitude": 73.9549968,
+    "place_id": "ChIJPQPR9pCPaTkRCk4TtZbobl0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPQPR9pCPaTkRCk4TtZbobl0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:37:04"
+  },
+  {
+    "business_name": "Dr. Bhikharam Kumawat Jaitaran",
+    "search_category": "Doctors",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "306105",
+    "phone_number": "+91 97846 68979",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Raod, near National Highway 25, Jaitaran, Nimaj, Jaitaran, Rajasthan 306303",
+    "area": "Jaitaran",
+    "latitude": 26.1984887,
+    "longitude": 73.9504639,
+    "place_id": "ChIJ86jmpoOJaTkR_qkM6iDG1RQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ86jmpoOJaTkR_qkM6iDG1RQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:37:06"
+  }
+]

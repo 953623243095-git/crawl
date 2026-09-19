@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abu Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "307024",
+    "phone_number": "+91 74260 74717",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Manpura Chorya, Abu Road, Rajasthan 307026",
+    "area": "307024",
+    "latitude": 24.4961086,
+    "longitude": 72.7891279,
+    "place_id": "ChIJqeE3oe0pXTkRJAJMdk8oWRE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqeE3oe0pXTkRJAJMdk8oWRE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:51:53"
+  },
+  {
+    "business_name": "M/s Veterinary Feed Supplement",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "307024",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Royida stand 08_rajasthan, near jjt university, Rajasthan 307024",
+    "area": "307024",
+    "latitude": 24.607756199999997,
+    "longitude": 72.9622472,
+    "place_id": "ChIJRW5JUhkzXTkR4kT2uigOmWM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRW5JUhkzXTkR4kT2uigOmWM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:51:53"
+  }
+]

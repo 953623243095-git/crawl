@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GENMED SHREE RADHE",
+    "search_category": "Organic Food Store",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "306902",
+    "phone_number": "+91 77918 45905",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Goshala ke pass, Raichand Colony, Sheoganj, Rajasthan 307027",
+    "area": "Raichand Colony",
+    "latitude": 25.138254399999997,
+    "longitude": 73.0661248,
+    "place_id": "ChIJu22RFAXrQjkRS_qW4yg-Eu0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu22RFAXrQjkRS_qW4yg-Eu0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:40:53"
+  },
+  {
+    "business_name": "GMC Enterprises",
+    "search_category": "Organic Food Store",
+    "primary_category": "Grocery delivery service",
+    "all_categories": "Grocery delivery service",
+    "pincode": "306902",
+    "phone_number": "+91 83568 18059",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Industrial Area, Sumerpur, Rajasthan 306902",
+    "area": "Industrial Area",
+    "latitude": 25.154015599999997,
+    "longitude": 73.08055999999999,
+    "place_id": "ChIJgV8Mx0qTQjkREbvrD-Tz-fg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgV8Mx0qTQjkREbvrD-Tz-fg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:40:56"
+  }
+]

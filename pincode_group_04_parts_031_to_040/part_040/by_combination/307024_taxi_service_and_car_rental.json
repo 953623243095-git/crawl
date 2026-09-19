@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mount Abu Cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car rental agency",
+    "pincode": "307024",
+    "phone_number": "+91 73571 53491",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Roop Basant, Circuit House, near Glen View, opp. Rajasthan, Aburaj, Rajasthan 307501",
+    "area": "307024",
+    "latitude": 24.598364399999998,
+    "longitude": 72.7110281,
+    "place_id": "ChIJpaR4EYAqXTkRUb6zUkwcBQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpaR4EYAqXTkRUb6zUkwcBQw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:52:27"
+  },
+  {
+    "business_name": "Karim Bux Taxi Service Abu Road",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "307024",
+    "phone_number": "+91 94148 34716",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Railway Station, Falna, Railway Colony, Abu Road, Rajasthan 307026",
+    "area": "Falna, Railway Colony",
+    "latitude": 24.481427999999998,
+    "longitude": 72.7849457,
+    "place_id": "ChIJHf06Ml4nXTkRD1Q9FjtB80w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHf06Ml4nXTkRD1Q9FjtB80w",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:52:31"
+  }
+]

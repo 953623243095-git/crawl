@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fitbox Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "307022",
+    "phone_number": "+91 76158 16737",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 40,
+    "address": "Fitbox gym, Ambaji Industrial Area Rd, near Payal pav bhaji, Ricco Colony, Abu Road, Rajasthan 307026",
+    "area": "Ricco Colony",
+    "latitude": 24.458830799999998,
+    "longitude": 72.7711479,
+    "place_id": "ChIJcxnwNJQnXTkRNRKGT8tf0xo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcxnwNJQnXTkRNRKGT8tf0xo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:48:40"
+  },
+  {
+    "business_name": "Royal fitness club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "307022",
+    "phone_number": "+91 85020 25112",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 32,
+    "address": "1-E, lalbot circle, behind Jyoti school, Bedla, Udaipur, Rajasthan 313001",
+    "area": "Bedla",
+    "latitude": 24.636652599999998,
+    "longitude": 73.6976502,
+    "place_id": "ChIJhWnHQ_blZzkRXKQ11KaNWyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhWnHQ_blZzkRXKQ11KaNWyQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:48:40"
+  }
+]

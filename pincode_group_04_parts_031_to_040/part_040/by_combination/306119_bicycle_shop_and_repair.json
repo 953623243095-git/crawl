@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "G. N. Bikes",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "306119",
+    "phone_number": "+91 93270 67550",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "10, Muncypality Shopping Center, Santram Mandir Rd, opp. Chetak Petrol, Bhakti Nagar, Nadiad, Gujarat 387001",
+    "area": "Bhakti Nagar",
+    "latitude": 22.690651499999998,
+    "longitude": 72.8663395,
+    "place_id": "ChIJf8iI_SZbXjkRflY_j0hEACQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf8iI_SZbXjkRflY_j0hEACQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:44:50"
+  },
+  {
+    "business_name": "Jay Indasi Cycles Shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "306119",
+    "phone_number": "+91 96575 59940",
+    "website": "https://shirpurhelpcenter.in/2023/06/27/jay-indasi-cycle-mart-shirpur/",
+    "rating": 3.8,
+    "reviews_count": 5,
+    "address": "Shirpur, Ambika Nagar, Shirpur-Warwade, Maharashtra 425405",
+    "area": "Shirpur, Ambika Nagar",
+    "latitude": 21.352301699999998,
+    "longitude": 74.8839213,
+    "place_id": "ChIJCU_PSPgt3zsR_o9B3x5gsIo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCU_PSPgt3zsR_o9B3x5gsIo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:44:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahadev Traders",
+    "search_category": "Tradeshows",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "307030",
+    "phone_number": "+91 85598 38687",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Solanki Complex Bus Stand Bagra, Bhinmal - Jalore Rd, Jalore, Rajasthan 343025",
+    "area": "307030",
+    "latitude": 25.195165,
+    "longitude": 72.5899833,
+    "place_id": "ChIJCeOUUo8FQzkReuDO_t2CnLg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCeOUUo8FQzkReuDO_t2CnLg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:04:39"
+  },
+  {
+    "business_name": "Mahadev Enterprises",
+    "search_category": "Tradeshows",
+    "primary_category": "Exporter",
+    "all_categories": "Exporter",
+    "pincode": "307030",
+    "phone_number": "+91 80006 57710",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Samunda Gardan, Shree Residesy, Jalore, Jalor, Rajasthan 343001",
+    "area": "Shree Residesy",
+    "latitude": 25.365323699999998,
+    "longitude": 72.6239322,
+    "place_id": "ChIJZdKXJoYBQzkR5LERvtbSoo8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZdKXJoYBQzkR5LERvtbSoo8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:04:39"
+  }
+]

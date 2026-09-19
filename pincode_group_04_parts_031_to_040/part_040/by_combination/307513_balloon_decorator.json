@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nice balloon decoration",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "307513",
+    "phone_number": "N/A",
+    "website": "http://www.niceballoondecoration.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shri Krishna Residency, Girdharipura, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "Girdharipura",
+    "latitude": 26.8948206,
+    "longitude": 75.7099358,
+    "place_id": "ChIJYw6ZJQBLbDkRskQN4h90UIQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYw6ZJQBLbDkRskQN4h90UIQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:19:12"
+  },
+  {
+    "business_name": "Shree Shyam Balloon Decoration",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon store",
+    "all_categories": "Balloon store",
+    "pincode": "307513",
+    "phone_number": "+91 63757 29879",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vatika, Rajasthan 303905",
+    "area": "307513",
+    "latitude": 26.7109375,
+    "longitude": 75.7989375,
+    "place_id": "ChIJURiHLgDNbTkRrZVxUaScEq8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJURiHLgDNbTkRrZVxUaScEq8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:19:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Choudhary resturant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "306103",
+    "phone_number": "+91 97723 31023",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "WMGQ+5Q9, NH162, Sojat, Rajasthan 306104",
+    "area": "306103",
+    "latitude": 25.9242858,
+    "longitude": 73.6861801,
+    "place_id": "ChIJiUTGSjLpaTkRq2qOd16yyVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiUTGSjLpaTkRq2qOd16yyVA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:33:01"
+  },
+  {
+    "business_name": "LA PIZZERIA",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Fast food restaurant, Pizza restaurant",
+    "pincode": "306103",
+    "phone_number": "+91 99105 97176",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 1384,
+    "address": "La Pizzeria, Ranakpur Rd, Ranakpur, Sadri, Rajasthan 306702",
+    "area": "306103",
+    "latitude": 25.142425199999998,
+    "longitude": 73.4666096,
+    "place_id": "ChIJJ9OtDH8gaDkRUq6cz_FfbQE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ9OtDH8gaDkRUq6cz_FfbQE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:33:03"
+  }
+]

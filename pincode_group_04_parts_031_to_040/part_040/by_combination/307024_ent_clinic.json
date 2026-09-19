@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ENT HOSPITAL",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "307024",
+    "phone_number": "+91 99503 35557",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 1229,
+    "address": "Ashok best healthcare 14vidhayak nagar , behind U B building ,sahakar marg, 06, Jaipur, Rajasthan 302015",
+    "area": "Jyoti Nagar Housing Board Flats, Lalkothi",
+    "latitude": 26.8925706,
+    "longitude": 75.79470049999999,
+    "place_id": "ChIJ04Xbd0G1bTkRjm3r9iKIglc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ04Xbd0G1bTkRjm3r9iKIglc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:52:19"
+  },
+  {
+    "business_name": "Dr. BHATT ENT CLINIC",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Doctor, Medical clinic",
+    "pincode": "307024",
+    "phone_number": "+91 74268 05934",
+    "website": "https://drbhattentclinic.com/",
+    "rating": 4.9,
+    "reviews_count": 53,
+    "address": "Venkateshwara Tower, F 101-102, FIRST FLOOR, near CINESTAR MULTIPLEX, Vidyadhar Nagar, Jaipur, Rajasthan 302012",
+    "area": "Sector 2, Central Spine, Vidyadhar Nagar",
+    "latitude": 26.964704899999997,
+    "longitude": 75.78206949999999,
+    "place_id": "ChIJgan37OmzbTkRW_nz9wCcVLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgan37OmzbTkRW_nz9wCcVLk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:52:19"
+  }
+]

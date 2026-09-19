@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Computer Repair Services",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "307032",
+    "phone_number": "+91 70423 60143",
+    "website": "https://computerrepairservices.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot No. 35, Udyog Vihar, Udyog Vihar Phase 1, Dundahera Village, Sector 20, Gurugram, Haryana 122016",
+    "area": "Udyog Vihar, Udyog Vihar Phase 1, Dundahera Village, Sector 20",
+    "latitude": 28.514056,
+    "longitude": 77.0811154,
+    "place_id": "ChIJJcApBIkZDTkRzna8arIDYTo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJcApBIkZDTkRzna8arIDYTo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:08:12"
+  },
+  {
+    "business_name": "Dash Enterprises",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Automation company, Computer networking service, Computer support and services, Printing equipment supplier",
+    "pincode": "307032",
+    "phone_number": "+91 99930 48027",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "16, Kamla Nehru Marg, near Gurudwara, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010",
+    "area": "Freeganj, Madhav Nagar",
+    "latitude": 23.177516699999998,
+    "longitude": 75.7926225,
+    "place_id": "ChIJQQQ5fm50YzkRI8tctxZ3Epg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQQQ5fm50YzkRI8tctxZ3Epg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:08:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PAL TRAVEL LINES",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tourist information center",
+    "all_categories": "Tourist information center",
+    "pincode": "306501",
+    "phone_number": "+91 97362 24158",
+    "website": "http://www.paltravellines.in/",
+    "rating": 3,
+    "reviews_count": 939,
+    "address": "J-65, Aruna Nagar, Opp. Gurudwara, Majnu-ka-tilla, New Delhi, Delhi 110054",
+    "area": "Block A, Majnu-ka-tilla, New Aruna Nagar",
+    "latitude": 28.697768999999997,
+    "longitude": 77.2270119,
+    "place_id": "ChIJVVVVlcX9DDkRSRiN1QzCBLI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVlcX9DDkRSRiN1QzCBLI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:09:47"
+  },
+  {
+    "business_name": "Jai bajrang travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "306501",
+    "phone_number": "+91 89050 58901",
+    "website": "https://www.jaibajrangtravels.com/",
+    "rating": 2.3,
+    "reviews_count": 29,
+    "address": "main, Pal Rd, opposite iit medical academy, opposite shriram(bpcl) petrol pump, Masuria Colony, Baldev Nagar, Jodhpur, Rajasthan 342003",
+    "area": "Masuria Colony, Baldev Nagar",
+    "latitude": 26.271758199999997,
+    "longitude": 72.9974098,
+    "place_id": "ChIJE3lyMseNQTkRtx5tXrgTJWM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE3lyMseNQTkRtx5tXrgTJWM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:09:49"
+  }
+]

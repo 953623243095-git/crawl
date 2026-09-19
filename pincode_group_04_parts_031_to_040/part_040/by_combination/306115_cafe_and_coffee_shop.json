@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "सणपा कैफे",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "306115",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 23,
+    "address": "Sanpa -Jetpura bus station NH-62, Sumerpur Rd, Rajasthan 306422",
+    "area": "306115",
+    "latitude": 25.55512,
+    "longitude": 73.27881,
+    "place_id": "ChIJtST3g8t7QjkRMfFh56HrML0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtST3g8t7QjkRMfFh56HrML0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:40:32"
+  },
+  {
+    "business_name": "Coffee Junction Rani",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "306115",
+    "phone_number": "+91 73004 38821",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Front of Panchayat samiti, road, Kellawara, Rani Gaon, Rajasthan 306115",
+    "area": "Kellawara",
+    "latitude": 25.3585286,
+    "longitude": 73.2915093,
+    "place_id": "ChIJO3b1bnyHQjkRIEtVnMqjCCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO3b1bnyHQjkRIEtVnMqjCCA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:40:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "sundesha privar from",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "307511",
+    "phone_number": "+91 91572 62542",
+    "website": "http://www.rajasthanbus.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PM3Q+WRH, Sirohi, Asawa, Rajasthan 307511",
+    "area": "307511",
+    "latitude": 24.7048228,
+    "longitude": 72.689601,
+    "place_id": "ChIJw8RH12sqQzkRv7JBs4HAmwY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw8RH12sqQzkRv7JBs4HAmwY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:15:04"
+  },
+  {
+    "business_name": "Komal tour and travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "307511",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": null,
+    "address": "JMQ5+J24, Anadra, Rajasthan 307511",
+    "area": "307511",
+    "latitude": 24.639018,
+    "longitude": 72.65757239999999,
+    "place_id": "ChIJq2CL4AgrQzkRm3LUqgYnOnw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq2CL4AgrQzkRm3LUqgYnOnw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:15:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Marketing",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "306115",
+    "phone_number": "N/A",
+    "website": "https://www.marketing.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Marketing, 306115, India",
+    "area": "306115",
+    "latitude": 25.7672554,
+    "longitude": 73.32461529999999,
+    "place_id": "ChIJoQV-TSnLVQ0RbP8xV7uLLAo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoQV-TSnLVQ0RbP8xV7uLLAo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:42:05"
+  },
+  {
+    "business_name": "karina_digitalsolutions",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "306115",
+    "phone_number": "+91 95214 92431",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Market, Kellawara, Rani Gaon, Rajasthan 306115",
+    "area": "Kellawara",
+    "latitude": 25.3583148,
+    "longitude": 73.2911886,
+    "place_id": "ChIJsfucjW6HQjkRF6XvP4QsXmo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsfucjW6HQjkRF6XvP4QsXmo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:42:05"
+  }
+]

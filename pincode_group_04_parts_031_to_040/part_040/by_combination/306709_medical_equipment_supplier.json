@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PneumoCare Health Private Limited",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier, Medical Equipment Manufacturer",
+    "pincode": "306709",
+    "phone_number": "+91 11 4769 4769",
+    "website": "http://www.pneumocare.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2nd Floor, F 11, Block F, East of Kailash, New Delhi, Delhi 110048",
+    "area": "Block F, East of Kailash",
+    "latitude": 28.5540488,
+    "longitude": 77.2440929,
+    "place_id": "ChIJ-ZJ-rcvjDDkRNCYiRc7WKVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-ZJ-rcvjDDkRNCYiRc7WKVY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:37:46"
+  },
+  {
+    "business_name": "Shalman Pharmaceutical Private Limited",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company",
+    "pincode": "306709",
+    "phone_number": "+91 265 233 0545",
+    "website": "http://www.shalmanpharma.com/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "27/B, Sahajanand Industrial Estate, Muzmuvda, Muzmuvda, Vadodara, Gujarat 390007",
+    "area": "Akota",
+    "latitude": 22.284692399999997,
+    "longitude": 73.1675341,
+    "place_id": "ChIJuUbP2KzIXzkR4OQIQMGZ-wQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuUbP2KzIXzkR4OQIQMGZ-wQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:37:46"
+  }
+]

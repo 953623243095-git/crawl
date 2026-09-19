@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel service tricity",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "306602",
+    "phone_number": "+91 90416 15084",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": null,
+    "address": "sco, chaura bazar, 49/50, opp. sindhi sweets, adjoining Best Price, Zirakpur, Gazipur, Punjab 140603",
+    "area": "306602",
+    "latitude": 30.6370655,
+    "longitude": 76.82379,
+    "place_id": "ChIJ6xo4U6vrDzkRYYTHPBWhgBM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6xo4U6vrDzkRYYTHPBWhgBM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:19:41"
+  },
+  {
+    "business_name": "UNO Hygiene",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Sanitation service",
+    "all_categories": "Sanitation service, Hospital equipment and supplies",
+    "pincode": "306602",
+    "phone_number": "+91 98886 99688",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "SCO 36, Railla, Sector 12, Panchkula, Haryana 134112",
+    "area": "Railla, Sector 12",
+    "latitude": 30.6799353,
+    "longitude": 76.8590583,
+    "place_id": "ChIJUYrOE-mVDzkRvxVVT9FhtQI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUYrOE-mVDzkRvxVVT9FhtQI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:19:41"
+  }
+]

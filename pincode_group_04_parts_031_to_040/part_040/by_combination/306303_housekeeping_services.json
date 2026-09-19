@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepak Drycleaner",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Dry cleaner",
+    "all_categories": "Dry cleaner",
+    "pincode": "306303",
+    "phone_number": "+91 94607 31216",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "NH65A, Shiv Chowki Road, near Saakhanla Hospital, Sikho Ka Mohalla, Jaitaran, Rajasthan 306302",
+    "area": "Sikho Ka Mohalla",
+    "latitude": 26.2028893,
+    "longitude": 73.9376952,
+    "place_id": "ChIJGROibwCJaTkRUTPOcSA1IpQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGROibwCJaTkRUTPOcSA1IpQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:53:22"
+  },
+  {
+    "business_name": "BALAJI MANPOWER AND HOUSE KEEPING SERVICE JAIN MANDIR BORANADA JODHPUR RAJASTHAN",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Sanitation service",
+    "all_categories": "Sanitation service",
+    "pincode": "306303",
+    "phone_number": "+91 96600 32045",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sumer nagar 153, Kids campus School, Boranada, Pal, Rajasthan 342012",
+    "area": "306303",
+    "latitude": 26.193868199999997,
+    "longitude": 72.94267549999999,
+    "place_id": "ChIJP0tOJumJQTkRFvL5KgP26O0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP0tOJumJQTkRFvL5KgP26O0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:53:25"
+  }
+]

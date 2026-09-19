@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai Coffee Bar",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "306704",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Booth no. 32, Phase 5, Sector 59, Sahibzada Ajit Singh Nagar, Punjab 160059",
+    "area": "Phase 5, Sector 59",
+    "latitude": 30.7183407,
+    "longitude": 76.7138193,
+    "place_id": "ChIJsz9ymcjvDzkR9lRPNClNnTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsz9ymcjvDzkR9lRPNClNnTY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:27:54"
+  },
+  {
+    "business_name": "Tea Post",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Coffee shop, Coffee store, Tea house, Tea store",
+    "pincode": "306704",
+    "phone_number": "+91 99250 19436",
+    "website": "http://teapost.in/",
+    "rating": 4.3,
+    "reviews_count": 347,
+    "address": "A-18 Ganesh Glory 11, near BSNL Office, Jagatpur, Ahmedabad, Gujarat 382470",
+    "area": "Jagatpur",
+    "latitude": 23.1141759,
+    "longitude": 72.54026,
+    "place_id": "ChIJ__XpVFeDXjkR64hIQr1YmTw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__XpVFeDXjkR64hIQr1YmTw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:27:56"
+  }
+]

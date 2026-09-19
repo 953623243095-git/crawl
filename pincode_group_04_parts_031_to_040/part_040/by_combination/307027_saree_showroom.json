@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahaveer Sarees",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "307027",
+    "phone_number": "+91 97999 31492",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 2,
+    "address": "43R8+6X3, Dargah Sangh IV Nagar, Sheoganj, Rajasthan 307027",
+    "area": "Dargah Sangh IV Nagar",
+    "latitude": 25.1405113,
+    "longitude": 73.0674368,
+    "place_id": "ChIJsdCuhV7rQjkRSwaH_Awe0is",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsdCuhV7rQjkRSwaH_Awe0is",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:57:41"
+  },
+  {
+    "business_name": "Shree ji fashion",
+    "search_category": "Saree Showroom",
+    "primary_category": "Dress store",
+    "all_categories": "Dress store",
+    "pincode": "307027",
+    "phone_number": "+91 63766 00295",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mehal cafe ke piche, GN plaza complex, Roop Baug, Sheoganj, Rajasthan 307027",
+    "area": "Roop Baug",
+    "latitude": 25.1408646,
+    "longitude": 73.0661765,
+    "place_id": "ChIJLbFyrc7rQjkRkldAwLc5Ygg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLbFyrc7rQjkRkldAwLc5Ygg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:57:42"
+  }
+]

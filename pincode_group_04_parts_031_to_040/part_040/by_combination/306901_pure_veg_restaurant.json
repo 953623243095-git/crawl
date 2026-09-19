@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal South Vegetarians Paradise",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Caterer, Chinese restaurant, North Indian restaurant",
+    "pincode": "306901",
+    "phone_number": "+91 84374 94005",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 825,
+    "address": "GOL MARKET, SCO-13, opposite FCI GODOWN, near AYYAPPA TEMPLE, Urban Estate, HM Colony, PHASE-3, Focal Point, Ludhiana, Punjab 141003",
+    "area": "Urban Estate, HM Colony, PHASE-3, Focal Point",
+    "latitude": 30.8946571,
+    "longitude": 75.9091491,
+    "place_id": "ChIJw7ffcvCBGjkRO7HK5NZP4oc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw7ffcvCBGjkRO7HK5NZP4oc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:39:09"
+  },
+  {
+    "business_name": "Jai Baba Ramdev Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Rajasthani Restaurant",
+    "all_categories": "Rajasthani Restaurant",
+    "pincode": "306901",
+    "phone_number": "+91 98295 15149",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 29,
+    "address": "Highway, 62 Road, near Rathore Diesal, Sumerpur, Jakhora, Rajasthan 306902",
+    "area": "306901",
+    "latitude": 25.178798699999998,
+    "longitude": 73.0964971,
+    "place_id": "ChIJj1VVHx6TQjkRFF2870KK92o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj1VVHx6TQjkRFF2870KK92o",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:39:09"
+  }
+]

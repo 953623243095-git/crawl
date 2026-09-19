@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Barkati Enterprise",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "306603",
+    "phone_number": "+91 89998 02661",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhagwati Restaurant, Desuri Rd, Desuri, Rajasthan 306703",
+    "area": "306603",
+    "latitude": 25.282978999999997,
+    "longitude": 73.5705541,
+    "place_id": "ChIJ5e5o--QlaDkRaMpzW_frLsk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5e5o--QlaDkRaMpzW_frLsk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:21:03"
+  },
+  {
+    "business_name": "BrainTech Computer Academy Desuri",
+    "search_category": "Driving School",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "306603",
+    "phone_number": "+91 89497 93031",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Flat No.12 First Floor , Shree Aaimataji Complex, nearby Bayosa Mandir, Desuri, Rajasthan 306703",
+    "area": "306603",
+    "latitude": 25.2799312,
+    "longitude": 73.56599899999999,
+    "place_id": "ChIJK29vzfclaDkRjwmaJYs0T24",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK29vzfclaDkRjwmaJYs0T24",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:21:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mansion Royale",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Condominium complex",
+    "all_categories": "Condominium complex",
+    "pincode": "306114",
+    "phone_number": "+91 97722 10115",
+    "website": "https://mansionroyale.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Plot No, 778, Siddharth Nagar Opposite: Jaipur International Airport Terminal-2, Jaipur, Rajasthan 302017",
+    "area": "Block A, Jagatpura",
+    "latitude": 26.8302819,
+    "longitude": 75.8065262,
+    "place_id": "ChIJ4zJvd5m1bTkRzxTfmmCCZCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4zJvd5m1bTkRzxTfmmCCZCY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:40:01"
+  },
+  {
+    "business_name": "Manglam Radiance",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Furnished apartment building",
+    "all_categories": "Furnished apartment building, Apartment building, Apartment complex, Condominium complex",
+    "pincode": "306114",
+    "phone_number": "+91 141 431 1183",
+    "website": "https://www.manglamradiance.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Airport Plaza, Plot No. 1, Tonk Rd, Chandrakala Colony, Durgapura, Jaipur, Rajasthan 302018",
+    "area": "Chandrakala Colony, Durgapura",
+    "latitude": 26.8446942,
+    "longitude": 75.7944078,
+    "place_id": "ChIJXzKTUe-1bTkRI_fi_9PpLKk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXzKTUe-1bTkRI_fi_9PpLKk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:40:01"
+  }
+]

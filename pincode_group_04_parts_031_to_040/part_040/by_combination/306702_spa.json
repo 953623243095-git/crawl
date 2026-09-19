@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goa Wellness Spa at The Grand Arawali",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "306702",
+    "phone_number": "+91 73007 71112",
+    "website": "https://www.goawellnessspa.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Goa Wellness Spa, The Grand Arawali, Ranakpur Rd, inside Pride Resort & Convention Centre, near Sadri, Ranakpur, Rajasthan 306707",
+    "area": "306702",
+    "latitude": 25.117035899999998,
+    "longitude": 73.47171329999999,
+    "place_id": "ChIJHy6XVjUhaDkRyIOfsf-_Dzg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHy6XVjUhaDkRyIOfsf-_Dzg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:24:57"
+  },
+  {
+    "business_name": "Decent spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "306702",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "4FR8+XQ5, Ranakpur Rd, Sadri, Rajasthan 306702",
+    "area": "306702",
+    "latitude": 25.1423962,
+    "longitude": 73.4669765,
+    "place_id": "ChIJ1wiaDFAhaDkRzViLXEmYTG4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1wiaDFAhaDkRzViLXEmYTG4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:24:57"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amrai Valley Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "306706",
+    "phone_number": "+91 63767 84189",
+    "website": "http://www.amraivellayresort.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Village Maga -Rankpur Road, MAGGA ,SAYARA ,RANAKPUR, RANAKPUR, Tehsil- Sayra, Rajasthan 313704",
+    "area": "Tehsil- Sayra",
+    "latitude": 25.0454099,
+    "longitude": 73.4329909,
+    "place_id": "ChIJy7Vw_SGfQjkR4PRsHdbU5Ck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy7Vw_SGfQjkR4PRsHdbU5Ck",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:32:40"
+  },
+  {
+    "business_name": "Dera Jawai",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "306706",
+    "phone_number": "+91 81078 33790",
+    "website": "https://derajawai.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Jawai Bandh Tehsil, Jeewada, Rajasthan 306707",
+    "area": "306706",
+    "latitude": 25.0836281,
+    "longitude": 73.2208855,
+    "place_id": "ChIJ5ZHCXbaXQjkRXsxqEZDU_pI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5ZHCXbaXQjkRXsxqEZDU_pI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:32:41"
+  }
+]

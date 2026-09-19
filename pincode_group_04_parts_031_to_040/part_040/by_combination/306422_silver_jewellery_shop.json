@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arihant Jewellers Pali",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "306422",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "21,gulzar chowk, Pali, Nadi Mohalla, Pali, Rajasthan 306401",
+    "area": "Nadi Mohalla",
+    "latitude": 25.772390299999998,
+    "longitude": 73.3236508,
+    "place_id": "ChIJE1WHRv5yQjkRyIg8K0vV3gk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE1WHRv5yQjkRyIg8K0vV3gk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:07:30"
+  },
+  {
+    "business_name": "Ranuja jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "306422",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bda bas ke bhar, somnath mandir, 43, road, Suraj Pole, Pali, Rajasthan 306401",
+    "area": "Suraj Pole",
+    "latitude": 25.7761106,
+    "longitude": 73.32765959999999,
+    "place_id": "ChIJKefmeARzQjkRrHPZrVVXF8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKefmeARzQjkRrHPZrVVXF8c",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:07:31"
+  }
+]

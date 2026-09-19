@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "dlaram rana",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "306703",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "0000, Sadri, Rajasthan 306702",
+    "area": "306703",
+    "latitude": 25.2378871,
+    "longitude": 73.5355383,
+    "place_id": "ChIJpzP-srEnaDkR2ESh83Qx9cU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpzP-srEnaDkR2ESh83Qx9cU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:26:36"
+  },
+  {
+    "business_name": "Car Repairing",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "306703",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "ke samne, Bajaj show room, Kelwara, Rajasthan 313325",
+    "area": "306703",
+    "latitude": 25.1162146,
+    "longitude": 73.59818849999999,
+    "place_id": "ChIJ1-thZHQjaDkRD9SUWFxbigM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1-thZHQjaDkRD9SUWFxbigM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:26:36"
+  }
+]

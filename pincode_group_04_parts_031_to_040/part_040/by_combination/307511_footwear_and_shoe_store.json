@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MD SHOES",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "307511",
+    "phone_number": "+91 95874 82273",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Iskon Plaza, SHOP NO. G-31 old cinema hall, near by sbi atm, Sirohi, Rajasthan 307001",
+    "area": "Bagikhana",
+    "latitude": 24.8840671,
+    "longitude": 72.8615635,
+    "place_id": "ChIJTxE8kBbbQjkR_fSAAwwZGos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTxE8kBbbQjkR_fSAAwwZGos",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:14:42"
+  },
+  {
+    "business_name": "The Shoes Station",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Shoe factory",
+    "pincode": "307511",
+    "phone_number": "+91 75976 59733",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "behind SBI bank, New cloth Market, Gudha Gorji, Rajasthan 333022",
+    "area": "New cloth Market",
+    "latitude": 27.8743613,
+    "longitude": 75.5268462,
+    "place_id": "ChIJEdh4B0nNbDkRzJdaLn5KyXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEdh4B0nNbDkRzJdaLn5KyXE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:14:42"
+  }
+]

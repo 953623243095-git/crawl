@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VARDHMAN DISTRIBUTOR",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "306602",
+    "phone_number": "+91 70143 58487",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "COLONY, Manpura, Rajasthan 343001",
+    "area": "COLONY",
+    "latitude": 25.4429253,
+    "longitude": 72.9844401,
+    "place_id": "ChIJOYxaJQdZQjkRTVVKcWa2iME",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOYxaJQdZQjkRTVVKcWa2iME",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:19:03"
+  },
+  {
+    "business_name": "Sagar Medical Store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Local medical services",
+    "all_categories": "Local medical services",
+    "pincode": "306602",
+    "phone_number": "+91 94145 33981",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "N P ROAD, DISTT, near HOSPITAL, Ragukul Colony, Sumerpur, Rajasthan 306902",
+    "area": "Ragukul Colony",
+    "latitude": 25.1508298,
+    "longitude": 73.0818255,
+    "place_id": "ChIJ6Tt3JbntQjkRHegGLtemJoc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Tt3JbntQjkRHegGLtemJoc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:19:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GANESHAM SUPER MART",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "307512",
+    "phone_number": "+91 94143 35152",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Choraha, Jaswantpura, Kalapura, Jaswantpura, Rajasthan 307515",
+    "area": "Choraha, Jaswantpura",
+    "latitude": 24.803936999999998,
+    "longitude": 72.4607125,
+    "place_id": "ChIJv8lI1gE7QzkRJ6Lf-SzC5rU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv8lI1gE7QzkRJ6Lf-SzC5rU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:16:14"
+  },
+  {
+    "business_name": "arjun carshi kendr sildar",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "307512",
+    "phone_number": "+91 95717 25692",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 16,
+    "address": "QGVC+R8J, Sildar, Rajasthan 307802",
+    "area": "307512",
+    "latitude": 24.7945815,
+    "longitude": 72.5207576,
+    "place_id": "ChIJQzixXv0vQzkR-GMiw63jw3c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQzixXv0vQzkR-GMiw63jw3c",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:16:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Perfect Car Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Self service car wash",
+    "all_categories": "Self service car wash",
+    "pincode": "306304",
+    "phone_number": "+91 77373 23029",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "3W37+78R, Bhilwara Rd, Krishna Vihar, Kankroli, Rajsamand, Rajasthan 313324",
+    "area": "Krishna Vihar, Kankroli",
+    "latitude": 25.0532343,
+    "longitude": 73.9132556,
+    "place_id": "ChIJFzwPOAtsaDkRBUU7XsA2aKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFzwPOAtsaDkRBUU7XsA2aKQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:54:24"
+  },
+  {
+    "business_name": "The car bath",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "306304",
+    "phone_number": "+91 96498 25000",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6GW8+48F, Government School Rd, Sri Vijaynagar, Rajasthan 335704",
+    "area": "306304",
+    "latitude": 29.2453063,
+    "longitude": 73.5157837,
+    "place_id": "ChIJVbn6PgADFjkR3qRUIwp4Qbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVbn6PgADFjkR3qRUIwp4Qbw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:54:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Red Rose Florist",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Event planner, Flower designer, Gift shop, Wedding service",
+    "pincode": "307023",
+    "phone_number": "+91 94265 78288",
+    "website": "https://www.redroseflorist.in/",
+    "rating": 4.6,
+    "reviews_count": 77,
+    "address": "TRIVENI TWINS, Complex, Science City Rd, opp. Astmangal Mahadev, near Kia Service Center, Science City, Road, Sola, Ahmedabad, Gujarat 380060",
+    "area": "Science City, Road, Sola",
+    "latitude": 23.074693699999997,
+    "longitude": 72.51547339999999,
+    "place_id": "ChIJ85sot7acXjkRoP_J8F4mcCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ85sot7acXjkRoP_J8F4mcCQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:50:59"
+  },
+  {
+    "business_name": "Ms flower decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower designer",
+    "all_categories": "Flower designer, Wedding service",
+    "pincode": "307023",
+    "phone_number": "N/A",
+    "website": "https://ms-flower-decorations1.vercel.app/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "North South Road Number 5 Juhu, JVPD Scheme, Vile Parle West, Mumbai, Maharashtra 400056",
+    "area": "JVPD Scheme, Vile Parle West",
+    "latitude": 19.107139,
+    "longitude": 72.833788,
+    "place_id": "ChIJyTrRf7jJ5zsR3P6BzxUgJcE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyTrRf7jJ5zsR3P6BzxUgJcE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:51:01"
+  }
+]

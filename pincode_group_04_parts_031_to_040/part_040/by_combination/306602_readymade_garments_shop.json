@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Cloth",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "306602",
+    "phone_number": "+91 99823 84546",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "near Jain Bhatwara, Chanod, Rajasthan 306602",
+    "area": "306602",
+    "latitude": 25.5325247,
+    "longitude": 73.1308185,
+    "place_id": "ChIJbSys6mlnQjkRJrVV9fNP91I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbSys6mlnQjkRJrVV9fNP91I",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:18:45"
+  },
+  {
+    "business_name": "MUSKAN COLLECTION",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "306602",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Bhawri, Rajasthan 306401",
+    "area": "306602",
+    "latitude": 25.693680399999998,
+    "longitude": 73.07086579999999,
+    "place_id": "ChIJPTd7OQZDQjkR4lwEavksFD0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPTd7OQZDQjkR4lwEavksFD0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:18:45"
+  }
+]

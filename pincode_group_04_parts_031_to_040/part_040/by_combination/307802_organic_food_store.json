@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "भोले नाथ टी एंड जनरल स्टोर तंवरी",
+    "search_category": "Organic Food Store",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "307802",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VJR9+297 Primary Health centre and Hospital, Tanwari, Rajasthan 307802",
+    "area": "307802",
+    "latitude": 24.8901194,
+    "longitude": 72.61918419999999,
+    "place_id": "ChIJKQCtYwAnQzkRlEuvg44SOp8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKQCtYwAnQzkRlEuvg44SOp8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:25:37"
+  },
+  {
+    "business_name": "Green organic",
+    "search_category": "Organic Food Store",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "307802",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chirawa byy paas road, near kithana, mod, Sultana, Rajasthan 333028",
+    "area": "mod",
+    "latitude": 28.1238234,
+    "longitude": 75.6212066,
+    "place_id": "ChIJxZCV0RglEzkRPn0f5Wkcig4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxZCV0RglEzkRPn0f5Wkcig4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:25:40"
+  }
+]

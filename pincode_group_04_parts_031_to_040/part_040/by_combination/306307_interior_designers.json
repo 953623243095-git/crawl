@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Interior House",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator, Home builder",
+    "pincode": "306307",
+    "phone_number": "+91 97993 93965",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 110,
+    "address": "Road number 5, near Krishna public school, Shri Krishna Vihar, Harijan Basthi, Bikaner, Bikaner City, Rajasthan 334401",
+    "area": "Shri Krishna Vihar, Harijan Basthi",
+    "latitude": 27.994646,
+    "longitude": 73.31709579999999,
+    "place_id": "ChIJ01GRprbnPzkRkUwq_y66zcI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ01GRprbnPzkRkUwq_y66zcI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:00:23"
+  },
+  {
+    "business_name": "Impression Interio",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "306307",
+    "phone_number": "+91 76920 12101",
+    "website": "http://impressioninterio.in/",
+    "rating": 1,
+    "reviews_count": 2,
+    "address": "Avinash Empressa, Maruti Lifestyle, 306, Parmanand Nagar, Kota, Raipur, Chhattisgarh 492099",
+    "area": "Parmanand Nagar, Kota",
+    "latitude": 21.258177999999997,
+    "longitude": 81.5945363,
+    "place_id": "ChIJTz3xU5bdKDoRKdpip-nzSac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTz3xU5bdKDoRKdpip-nzSac",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:00:24"
+  }
+]

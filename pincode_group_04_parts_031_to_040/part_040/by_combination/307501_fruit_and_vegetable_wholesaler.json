@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dinesh Kumar",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "307501",
+    "phone_number": "+91 82093 49841",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Market, Sabzi Mandi, Aburaj, Rajasthan 307501",
+    "area": "Sabzi Mandi",
+    "latitude": 24.5921359,
+    "longitude": 72.7102219,
+    "place_id": "ChIJNbhnp6grXTkRy6CupcQ6yv8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNbhnp6grXTkRy6CupcQ6yv8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:10:34"
+  },
+  {
+    "business_name": "Choudhary Complax Positara",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier, Barber shop, Clothes market, Medical Center, Fruits & Vegetable Wholesaler",
+    "pincode": "307501",
+    "phone_number": "+91 70738 58212",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near vijan mata mandir, positara, Posintra, Rajasthan 307511",
+    "area": "307501",
+    "latitude": 24.686864699999997,
+    "longitude": 72.6383434,
+    "place_id": "ChIJtYeYo6ArQzkRhtqHclybiZk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtYeYo6ArQzkRhtqHclybiZk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:10:37"
+  }
+]

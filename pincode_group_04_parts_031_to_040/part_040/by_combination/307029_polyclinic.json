@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Susrut ayurved & naturopathy polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic",
+    "pincode": "307029",
+    "phone_number": "+91 89495 29913",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "near Hanuman Mandir, Ghanchiyo Ki Pilani, sarawas, Jalore, Jalor, Rajasthan 343001",
+    "area": "Ghanchiyo Ki Pilani, sarawas",
+    "latitude": 25.3460349,
+    "longitude": 72.6215071,
+    "place_id": "ChIJb7uj3ysBQzkRCDYWnzM3yLI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb7uj3ysBQzkRCDYWnzM3yLI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:01:35"
+  },
+  {
+    "business_name": "Veterinary polyclinic jalore",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "307029",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9J2H+43F, opp. head post office, Bhawrani, Jalor, Rajasthan 343001",
+    "area": "Bhawrani",
+    "latitude": 25.3503102,
+    "longitude": 72.6276645,
+    "place_id": "ChIJC6MA5rkAQzkRM5w0cSaxEUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC6MA5rkAQzkRM5w0cSaxEUs",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:01:35"
+  }
+]

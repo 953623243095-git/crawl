@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Badwal Bhavan",
+    "search_category": "Architects",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "306708",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "82G2+349, Taskava Was, Takhatgarh, Rajasthan 306901",
+    "area": "Taskava Was",
+    "latitude": 25.3251526,
+    "longitude": 73.0003663,
+    "place_id": "ChIJl10ITzf1QjkRR8ONChBFCEY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl10ITzf1QjkRR8ONChBFCEY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:36:14"
+  },
+  {
+    "business_name": "PD Structural Consultants",
+    "search_category": "Architects",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Service establishment",
+    "pincode": "306708",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "PD Structural Consultants, 306708, India",
+    "area": "306708",
+    "latitude": 25.7773078,
+    "longitude": 74.79654599999999,
+    "place_id": "ChIJlfTdAvtzQjkRrsc86Qk8gk8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlfTdAvtzQjkRrsc86Qk8gk8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:36:14"
+  }
+]

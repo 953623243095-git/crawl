@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "One Event Pvt. Ltd.",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Event management company, Party planner, Wedding planner",
+    "pincode": "307019",
+    "phone_number": "+91 93526 33913",
+    "website": "http://www.oneevent.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "G3 Suryansh Apartment, 48 Hira Nagar, Gopalpura Bypass Rd, Swami Vihar, Nirman Nagar, Jaipur, Rajasthan 302020",
+    "area": "Swami Vihar, Nirman Nagar",
+    "latitude": 26.8812894,
+    "longitude": 75.7591606,
+    "place_id": "ChIJ3yL47Pe0bTkRxaceCJL9qPk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3yL47Pe0bTkRxaceCJL9qPk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:47:27"
+  },
+  {
+    "business_name": "Manya Choudhary Event Planner Karauli",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "307019",
+    "phone_number": "+91 81043 44734",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Krishna colony Goverdhan palace, ke pass, Indira Colony, Karauli, Karoli, Rajasthan 322241",
+    "area": "Indira Colony",
+    "latitude": 26.5011588,
+    "longitude": 77.0278058,
+    "place_id": "ChIJIwI4BoeHcTkRfvqpk1vQjpM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIwI4BoeHcTkRfvqpk1vQjpM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:47:29"
+  }
+]

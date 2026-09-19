@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HotelAbet",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "307023",
+    "phone_number": "+91 75970 69306",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Neel Kanth Rd, Dhundayi, Aburaj, Rajasthan 307501",
+    "area": "Dhundayi",
+    "latitude": 24.5858737,
+    "longitude": 72.7217489,
+    "place_id": "ChIJ7xLaEpcrXTkREXSLw_2eZpU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7xLaEpcrXTkREXSLw_2eZpU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:51:05"
+  },
+  {
+    "business_name": "Gowow Hotels",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency, Business to business service, Service establishment, Marketing agency, Marketing consultant, Outdoor activity organiser, Transportation service",
+    "pincode": "307023",
+    "phone_number": "+91 84591 00012",
+    "website": "https://gowowin.nowfloats.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Gowow Hotels, 307023, India",
+    "area": "307023",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJF8lpzya4ekYRRWxatv8s9xo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF8lpzya4ekYRRWxatv8s9xo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:51:07"
+  }
+]

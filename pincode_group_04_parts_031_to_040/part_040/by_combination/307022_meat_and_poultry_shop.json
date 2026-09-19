@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jalani meat shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat products store",
+    "all_categories": "Meat products store",
+    "pincode": "307022",
+    "phone_number": "+91 91191 72433",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rampura road, sirohi, Rampura, Rajasthan 307001",
+    "area": "307022",
+    "latitude": 24.8774272,
+    "longitude": 72.8386435,
+    "place_id": "ChIJ-y4iUhnbQjkRHC47dgti-U8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-y4iUhnbQjkRHC47dgti-U8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:48:10"
+  },
+  {
+    "business_name": "Nandu's Fresh & Frozen Food Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Frozen food store, Chicken shop, Chocolate shop, Dairy store, Seafood market",
+    "pincode": "307022",
+    "phone_number": "+91 98246 64278",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shop No. 20, Ground Floor, Samruddhi Complex, opp. State Bank of India, Chandkheda, Ahmedabad, Gujarat 382424",
+    "area": "Full Stop Society, Nigam Nagar, Chandkheda",
+    "latitude": 23.1089251,
+    "longitude": 72.58754449999999,
+    "place_id": "ChIJm8tKnsqDXjkR9eejiiYEUDY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm8tKnsqDXjkR9eejiiYEUDY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:48:11"
+  }
+]

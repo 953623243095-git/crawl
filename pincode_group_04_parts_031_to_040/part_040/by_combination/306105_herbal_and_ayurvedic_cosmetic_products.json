@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A.B.Health",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Organic drug store",
+    "all_categories": "Organic drug store, Herbalist, Manufacturer",
+    "pincode": "306105",
+    "phone_number": "+91 96435 50550",
+    "website": "https://welherb.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot No - 587, MK Technology Park Landran Banur highway, NH-205, Sahibzada Ajit Singh Nagar, Punjab 140307",
+    "area": "306105",
+    "latitude": 30.601482899999997,
+    "longitude": 76.6920435,
+    "place_id": "ChIJK1YYXuoBDTkRzBB0H587Df8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK1YYXuoBDTkRzBB0H587Df8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:37:38"
+  },
+  {
+    "business_name": "Inbiota Herbs - Ayurvedic Herbal PCD Pharma Company",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company",
+    "pincode": "306105",
+    "phone_number": "+91 90236 39358",
+    "website": "https://www.inbiotaherbs.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Top Floor, Phase-2, Plot no 330, Barwala Industrial Estate, Alipur, Barwala, Haryana 134118",
+    "area": "Barwala Industrial Estate",
+    "latitude": 30.6027091,
+    "longitude": 76.95294109999999,
+    "place_id": "ChIJXSyJLQSVDzkRP0EpoS6GlrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXSyJLQSVDzkRP0EpoS6GlrI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:37:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanwara Branch Post office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "307511",
+    "phone_number": "N/A",
+    "website": "http://www.indiapost.gov.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "PMGQ+WMC, Sanwara, Rajasthan 307511",
+    "area": "307511",
+    "latitude": 24.7273009,
+    "longitude": 72.6891338,
+    "place_id": "ChIJk3peUiQrQzkRcXT_UV9GO0A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk3peUiQrQzkRcXT_UV9GO0A",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:15:51"
+  },
+  {
+    "business_name": "SK Delivery Services & courier (Delhivery)",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, Shipping service",
+    "pincode": "307511",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": null,
+    "address": "Raj darbar hotel, Near, supka road, Deedwana, Rajasthan 341303",
+    "area": "307511",
+    "latitude": 27.402207699999998,
+    "longitude": 74.5840728,
+    "place_id": "ChIJQdpQq8AVazkRz2vKdFapIQY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQdpQq8AVazkRz2vKdFapIQY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:15:53"
+  }
+]

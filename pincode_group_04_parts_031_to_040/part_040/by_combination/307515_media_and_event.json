@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Event Matrix Media",
+    "search_category": "Media and Event",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "307515",
+    "phone_number": "N/A",
+    "website": "https://eventmatrixmedia.com/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "HelloWorld Sukoon, 201, Kondapur, Hyderabad, Telangana 500084",
+    "area": "Kondapur, Sri Ramnagar - Block B, Gachibowli",
+    "latitude": 17.4603264,
+    "longitude": 78.3527587,
+    "place_id": "ChIJ4-GCsfTy5asRx43LUO19eAU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4-GCsfTy5asRx43LUO19eAU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:23:04"
+  },
+  {
+    "business_name": "Media house sanchore",
+    "search_category": "Media and Event",
+    "primary_category": "Newspaper publisher",
+    "all_categories": "Newspaper publisher, Service establishment",
+    "pincode": "307515",
+    "phone_number": "+91 97843 33990",
+    "website": "https://mediahousesanchore.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Media house sanchore, 307515, India",
+    "area": "307515",
+    "latitude": 24.7500265,
+    "longitude": 71.7691263,
+    "place_id": "ChIJL8pxFc6M2yAR1lkFjcCOe6A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL8pxFc6M2yAR1lkFjcCOe6A",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:23:04"
+  }
+]

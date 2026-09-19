@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Legal Window Private Limited",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services, Chartered accountant, Tax consultant, Tax preparation",
+    "pincode": "306303",
+    "phone_number": "+91 72407 51000",
+    "website": "https://www.legalwindow.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "S-4, Gopalpura Bypass Rd, Shri Gopal Nagar, Arjun Nagar, Jaipur, Rajasthan 302019",
+    "area": "Shri Gopal Nagar, Arjun Nagar",
+    "latitude": 26.8776814,
+    "longitude": 75.7718014,
+    "place_id": "ChIJlQ721ZK1bTkRZOTcikI-7ek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlQ721ZK1bTkRZOTcikI-7ek",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:53:24"
+  },
+  {
+    "business_name": "Associate & Legal servies",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Service Apartment",
+    "all_categories": "Service Apartment",
+    "pincode": "306303",
+    "phone_number": "+91 88529 81809",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jyoti Colony, Deoli, Uncha, Rajasthan 304804",
+    "area": "Jyoti Colony",
+    "latitude": 25.7495117,
+    "longitude": 75.37604259999999,
+    "place_id": "ChIJRT3L3CXhbjkRJAX45jzYvtc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRT3L3CXhbjkRJAX45jzYvtc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:53:26"
+  }
+]

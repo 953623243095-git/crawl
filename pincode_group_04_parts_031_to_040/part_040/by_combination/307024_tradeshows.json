@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India Traders",
+    "search_category": "Tradeshows",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "307024",
+    "phone_number": "+91 88261 53736",
+    "website": "https://www.indiatradersreels.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ground Floor, Khasra No. 1726, Grand Trunk Rd, opposite to pillar no. 154, Shaheed Nagar, Sahibabad, Ghaziabad, Uttar Pradesh 201006",
+    "area": "Shaheed Nagar, Sahibabad",
+    "latitude": 28.6769319,
+    "longitude": 77.33874689999999,
+    "place_id": "ChIJc4-gdGn7DDkRL10muKFu7aM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc4-gdGn7DDkRL10muKFu7aM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:53:29"
+  },
+  {
+    "business_name": "Udaipur event",
+    "search_category": "Tradeshows",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "307024",
+    "phone_number": "+91 99293 53104",
+    "website": "https://www.udaipur-corporateeventmanagement.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3 k 21, prabhat nagar, Sector 5, Prabhat Nagar, Hiran Magri, Udaipur, Rajasthan 313001",
+    "area": "prabhat nagar, Sector 5, Prabhat Nagar, Hiran Magri",
+    "latitude": 24.563149199999998,
+    "longitude": 73.7216012,
+    "place_id": "ChIJl2RG5xjvZzkRCAaRIJpvZFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl2RG5xjvZzkRCAaRIJpvZFo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:53:29"
+  }
+]

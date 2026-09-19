@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Afridi cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "307501",
+    "phone_number": "+91 80773 66013",
+    "website": "https://www.swiggy.com/direct/brand/434417?source=swiggy-direct&subSource=google",
+    "rating": 4.9,
+    "reviews_count": 40,
+    "address": "Islamabad bhatta gali, 3, Marris Rd, Aligarh, Uttar Pradesh 202001",
+    "area": "Indra Prastha Estate, Begpur",
+    "latitude": 27.8969624,
+    "longitude": 78.0889667,
+    "place_id": "ChIJQ6a6m4WldDkR3pdeIWLhZww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ6a6m4WldDkR3pdeIWLhZww",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:10:45"
+  },
+  {
+    "business_name": "Chetan's Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "307501",
+    "phone_number": "+91 80774 33452",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 311,
+    "address": "5323+748 ADA Heights, Tajganj, Basai, Agra, Uttar Pradesh 282004",
+    "area": "Tajganj",
+    "latitude": 27.1506875,
+    "longitude": 78.0528125,
+    "place_id": "ChIJb1__cBhxdDkRrnxe02xGmts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb1__cBhxdDkRrnxe02xGmts",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:10:45"
+  }
+]

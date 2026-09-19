@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ananda Bhai",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "307511",
+    "phone_number": "+91 97496 68248",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Main Road, Pali, Krishnagunj, Rajasthan 306401",
+    "area": "307511",
+    "latitude": 24.7695211,
+    "longitude": 72.7329559,
+    "place_id": "ChIJ5QfWoyLXQjkRPuJTFmzLaSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5QfWoyLXQjkRPuJTFmzLaSs",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:14:50"
+  },
+  {
+    "business_name": "जय मोमाजी",
+    "search_category": "Doctors",
+    "primary_category": "Family practice physician",
+    "all_categories": "Family practice physician",
+    "pincode": "307511",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PMFQ+7C7, Sanwara, Rajasthan 307511",
+    "area": "307511",
+    "latitude": 24.723005099999998,
+    "longitude": 72.6879941,
+    "place_id": "ChIJc42JAgArQzkR2AHqgSEzPnQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc42JAgArQzkR2AHqgSEzPnQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:14:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Patel Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company",
+    "pincode": "306503",
+    "phone_number": "+91 73750 41243",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sheopur Road, opposite Sahkari Samiti, Bamori Kalan, Rajasthan 325215",
+    "area": "306503",
+    "latitude": 25.4146012,
+    "longitude": 76.5476772,
+    "place_id": "ChIJh464dYYfcDkR7hALTHJmGMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh464dYYfcDkR7hALTHJmGMs",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:14:32"
+  },
+  {
+    "business_name": "Old Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Mill",
+    "all_categories": "Mill",
+    "pincode": "306503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3GVC+2QH, front of manshapuran Ganesh ji temple Atru Road, NH752, Baran, Rajasthan 325205",
+    "area": "Chamanpura",
+    "latitude": 25.092560799999998,
+    "longitude": 76.5219919,
+    "place_id": "ChIJSTw-CqABcDkR-ecG567cxsM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSTw-CqABcDkR-ecG567cxsM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:14:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivam Fast Food and Chaat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Dessert shop",
+    "pincode": "307023",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NGS-31, Nehru Tower, Tonk Rd, Jaipur, Rajasthan 302015",
+    "area": "Lalkothi",
+    "latitude": 26.884233,
+    "longitude": 75.8006365,
+    "place_id": "ChIJqSITUS-0bTkRMZmXCD0xkaI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqSITUS-0bTkRMZmXCD0xkaI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:50:08"
+  },
+  {
+    "business_name": "Rajasthani Bhojnalaya",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Rajasthani Restaurant",
+    "all_categories": "Rajasthani Restaurant, Veterinarian",
+    "pincode": "307023",
+    "phone_number": "+91 96104 04079",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 339,
+    "address": "Taxi Stand, Rajendra Rd, nr. Polo Ground, Machgoan, Aburaj, Rajasthan 307501",
+    "area": "Machgoan",
+    "latitude": 24.5901015,
+    "longitude": 72.7114646,
+    "place_id": "ChIJpfXXlXgqXTkRL0mLA3Ft2Ac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpfXXlXgqXTkRL0mLA3Ft2Ac",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:50:09"
+  }
+]

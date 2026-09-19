@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ARYAN MEDICAL & GENERAL STORE",
+    "search_category": "General Store",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "307802",
+    "phone_number": "+91 96102 60070",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sarkari school ke pas, Chadwal, Rajasthan 307802",
+    "area": "307802",
+    "latitude": 24.9125811,
+    "longitude": 72.6493776,
+    "place_id": "ChIJP21TyDonQzkRqPmcX2d-E2Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP21TyDonQzkRqPmcX2d-E2Y",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:25:42"
+  },
+  {
+    "business_name": "Suresh general store",
+    "search_category": "General Store",
+    "primary_category": "Convenience store",
+    "all_categories": "Convenience store",
+    "pincode": "307802",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WQFF+JMV, Padiv, Rajasthan 307001",
+    "area": "307802",
+    "latitude": 24.924105899999997,
+    "longitude": 72.7741764,
+    "place_id": "ChIJm5jRYwDZQjkRKwL6j7UpvUU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm5jRYwDZQjkRKwL6j7UpvUU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:25:44"
+  }
+]

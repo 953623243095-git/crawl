@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chill out cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "307802",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 30,
+    "address": "JPPM+VFX, Ganeri, Rajasthan 332029",
+    "area": "307802",
+    "latitude": 27.6370854,
+    "longitude": 74.7336126,
+    "place_id": "ChIJBZIqK5RPazkRYkiouqy6joM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBZIqK5RPazkRYkiouqy6joM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:25:51"
+  },
+  {
+    "business_name": "Jay aapeswar hotel ramseen ( pitharam dewasi)",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "307802",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "2G5R+P8J, Ramseen, Rajasthan 307803",
+    "area": "307802",
+    "latitude": 25.0093367,
+    "longitude": 72.5407805,
+    "place_id": "ChIJ7_kYhl4ZQzkRIvV6jSdBwhc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7_kYhl4ZQzkRIvV6jSdBwhc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:25:53"
+  }
+]

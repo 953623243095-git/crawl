@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SSA & ASSOCIATES",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Certified public accountant",
+    "all_categories": "Certified public accountant",
+    "pincode": "306501",
+    "phone_number": "+91 99833 90888",
+    "website": "https://www.legalman.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "F-1, 61, Shri Hira Bhawan, near Union Bank Of India, Dholi Mandi, Chomu, Rajasthan 303702",
+    "area": "Dholi Mandi",
+    "latitude": 27.1648571,
+    "longitude": 75.7208235,
+    "place_id": "ChIJWTg_-d2rbTkRc5yBzpNTcPU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWTg_-d2rbTkRc5yBzpNTcPU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:10:37"
+  },
+  {
+    "business_name": "Jaipur Legal Solution",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Law firm",
+    "all_categories": "Law firm, Criminal justice attorney, Divorce lawyer, Family law attorney, Lawyer, Legal services",
+    "pincode": "306501",
+    "phone_number": "+91 85628 00292",
+    "website": "https://jaipurlegalsolution.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "96, Agra Rd, New Khandelwal Nagar, Prem Nagar, Jaipur, Rajasthan 302031",
+    "area": "New Khandelwal Nagar, Prem Nagar",
+    "latitude": 26.888002399999998,
+    "longitude": 75.88367819999999,
+    "place_id": "ChIJH1RXROC3bTkRLcNFi8jlI_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH1RXROC3bTkRLcNFi8jlI_g",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:10:39"
+  }
+]

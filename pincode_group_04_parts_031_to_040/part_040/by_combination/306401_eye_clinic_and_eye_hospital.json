@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. G.k Goyal",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Ophthalmologist",
+    "all_categories": "Ophthalmologist",
+    "pincode": "306401",
+    "phone_number": "+91 94136 19882",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "180 College Road opp. Law College Gate, Bangur, Pali, Rajasthan 306401",
+    "area": "Bangur",
+    "latitude": 25.7780623,
+    "longitude": 73.331147,
+    "place_id": "ChIJbfhLlQZzQjkR_W5pfSz0mO4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbfhLlQZzQjkR_W5pfSz0mO4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:03:48"
+  },
+  {
+    "business_name": "SANJEEVNI EYE HOSPITAL & PHACO LASER CENTRE, AHORE",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "306401",
+    "phone_number": "+91 84400 74292",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "bayosa mandir gali, nehru colony, Ahore, Nosra, Rajasthan 307029",
+    "area": "nehru colony",
+    "latitude": 25.5218337,
+    "longitude": 72.75700239999999,
+    "place_id": "ChIJDwIuaqlTQjkRDztRaBSWUdY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDwIuaqlTQjkRDztRaBSWUdY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:03:48"
+  }
+]

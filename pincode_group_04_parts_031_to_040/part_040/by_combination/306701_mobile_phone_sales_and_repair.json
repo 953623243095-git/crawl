@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S R Mobile Sale & Service",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store",
+    "pincode": "306701",
+    "phone_number": "+91 63788 63285",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Khetlaji Chowk, Sewari, Rajasthan 342008",
+    "area": "306701",
+    "latitude": 25.0959224,
+    "longitude": 73.2969543,
+    "place_id": "ChIJ5e2LIT6ZQjkRTBu4VSTlaPs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5e2LIT6ZQjkRTBu4VSTlaPs",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:23:31"
+  },
+  {
+    "business_name": "Shree Krishna mobile",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "306701",
+    "phone_number": "+91 73003 89966",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "College Road, near SBI ATM, Sripal Nagar, Falna, Rajasthan 306116",
+    "area": "Sripal Nagar",
+    "latitude": 25.235720399999998,
+    "longitude": 73.23852509999999,
+    "place_id": "ChIJ494lWgCRQjkRjOOTK4iawSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ494lWgCRQjkRjOOTK4iawSg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:23:32"
+  }
+]

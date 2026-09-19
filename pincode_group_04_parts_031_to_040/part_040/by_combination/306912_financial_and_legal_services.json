@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PKJ & Associates",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services, Bankruptcy attorney, Civil law attorney, Criminal justice attorney, Real estate attorney, Tax attorney",
+    "pincode": "306912",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "House Number 555, 10D, Sector 10, Chandigarh, 160011",
+    "area": "10D, Sector 10",
+    "latitude": 30.7541695,
+    "longitude": 76.78712159999999,
+    "place_id": "ChIJ4-itjFrtDzkRGOiJjkDBmjQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4-itjFrtDzkRGOiJjkDBmjQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:44:13"
+  },
+  {
+    "business_name": "Legal services",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services",
+    "pincode": "306912",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "765, Kishangarh, Chandigarh, 160101",
+    "area": "Kishangarh",
+    "latitude": 30.7322247,
+    "longitude": 76.8298068,
+    "place_id": "ChIJs6cCSACTDzkReuB_c_h076k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs6cCSACTDzkReuB_c_h076k",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:44:14"
+  }
+]

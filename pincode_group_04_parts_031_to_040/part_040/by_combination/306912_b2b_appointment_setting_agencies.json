@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AB CONSULTANTS",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Unemployment office",
+    "all_categories": "Unemployment office",
+    "pincode": "306912",
+    "phone_number": "+91 172 504 9991",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "SCO 1034-35, TOP FLOOR, SECTOR 22-B, Chandigarh, 160022",
+    "area": "Sector 22B, Sector 22",
+    "latitude": 30.7341846,
+    "longitude": 76.7770501,
+    "place_id": "ChIJB5r4AqftDzkRCVE_6WpX1vQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB5r4AqftDzkRCVE_6WpX1vQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:44:28"
+  },
+  {
+    "business_name": "The Consultants",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "306912",
+    "phone_number": "+91 98034 34921",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "20, Ambala Road, Green Park Colony, Zirakpur, Punjab 140603",
+    "area": "Green Park Colony",
+    "latitude": 30.646727799999997,
+    "longitude": 76.82169739999999,
+    "place_id": "ChIJudaWQDLrDzkRMQwTB0mRdIc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJudaWQDLrDzkRMQwTB0mRdIc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:44:28"
+  }
+]

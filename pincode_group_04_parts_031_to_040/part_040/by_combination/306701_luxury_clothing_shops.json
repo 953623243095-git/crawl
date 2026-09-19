@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Big Boss",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "306701",
+    "phone_number": "+91 99207 84401",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Near HP Gas Agency, Falna, Road, Bali, Rajasthan 306701",
+    "area": "306701",
+    "latitude": 25.1917372,
+    "longitude": 73.2861368,
+    "place_id": "ChIJc6qBN4WbQjkR8XUg-m2TWAM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc6qBN4WbQjkR8XUg-m2TWAM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:22:34"
+  },
+  {
+    "business_name": "Scrypted",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store, Service establishment",
+    "pincode": "306701",
+    "phone_number": "+91 87555 44418",
+    "website": "https://www.scryptedstudios.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Scrypted, 306701, India",
+    "area": "306701",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ9y0WBo9JiqwRTxcAF1Ylli4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9y0WBo9JiqwRTxcAF1Ylli4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:22:37"
+  }
+]

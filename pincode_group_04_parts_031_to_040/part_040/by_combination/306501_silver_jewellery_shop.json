@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "306501",
+    "phone_number": "+91 97848 53872",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Laxmi Jewellers, Bhadarlau, Bhimaliya, Rajasthan 306503",
+    "area": "306501",
+    "latitude": 25.5726646,
+    "longitude": 73.4901891,
+    "place_id": "ChIJswylCY_XaTkRljPwaTzudSU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJswylCY_XaTkRljPwaTzudSU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:09:24"
+  },
+  {
+    "business_name": "Chhatrala Jewels",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "306501",
+    "phone_number": "+91 98290 27203",
+    "website": "https://www.chhatralajewels.com/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "12, Residency Rd, Ratanada, Jodhpur, Rajasthan 342011",
+    "area": "Ratanada",
+    "latitude": 26.268165999999997,
+    "longitude": 73.031106,
+    "place_id": "ChIJaSn0Al2MQTkRsoQuYachZpo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaSn0Al2MQTkRsoQuYachZpo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:09:26"
+  }
+]

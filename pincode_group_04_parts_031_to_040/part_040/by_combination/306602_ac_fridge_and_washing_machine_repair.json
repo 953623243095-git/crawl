@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mountain Appliance Service",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Service establishment",
+    "pincode": "306602",
+    "phone_number": "N/A",
+    "website": "http://mountain-appliance.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Mountain Appliance Service, 306602, India",
+    "area": "306602",
+    "latitude": 36.314461,
+    "longitude": -81.7642985,
+    "place_id": "ChIJl3TdhvFbUIgRRGl9j4S_xL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl3TdhvFbUIgRRGl9j4S_xL4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:19:20"
+  },
+  {
+    "business_name": "Jaipur Appliance Care",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Service establishment",
+    "pincode": "306602",
+    "phone_number": "+91 77374 13339",
+    "website": "https://jaipurappliancecare.com/",
+    "rating": 4.7,
+    "reviews_count": 26,
+    "address": "Jaipur Appliance Care, 306602, India",
+    "area": "306602",
+    "latitude": 26.8852108,
+    "longitude": 75.7905578,
+    "place_id": "ChIJs36zxye1bTkR5NrA1Stbq94",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs36zxye1bTkR5NrA1Stbq94",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:19:21"
+  }
+]

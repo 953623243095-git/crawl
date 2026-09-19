@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.K. Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "306114",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Bhangala, Punjab 144306",
+    "area": "306114",
+    "latitude": 32.0208683,
+    "longitude": 75.6132449,
+    "place_id": "ChIJv4ztbYSbGzkRe8o1FyVy3aw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv4ztbYSbGzkRe8o1FyVy3aw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:38:58"
+  },
+  {
+    "business_name": "Shanti Eye Care Centre",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Ophthalmologist",
+    "all_categories": "Ophthalmologist",
+    "pincode": "306114",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 9,
+    "address": "Shanti Eye Care Centre, SCO 1248, Derabassi - Barwala Rd, Bhagat Singh Nagar, Dera Bassi, Punjab 140507",
+    "area": "Bhagat Singh Nagar",
+    "latitude": 30.5873405,
+    "longitude": 76.8526416,
+    "place_id": "ChIJRcBsVvq_DzkRGV5Pn685rfc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRcBsVvq_DzkRGV5Pn685rfc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:38:58"
+  }
+]

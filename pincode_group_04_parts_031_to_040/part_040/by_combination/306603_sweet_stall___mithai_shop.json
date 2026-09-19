@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satya Narayn Sweets Marts",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Fast food restaurant",
+    "pincode": "306603",
+    "phone_number": "+91 94689 02113",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop No 25, Main Bus Stop Road, Mundara, Rajasthan 306705",
+    "area": "306603",
+    "latitude": 25.1956804,
+    "longitude": 73.3845821,
+    "place_id": "ChIJaU5G4xqdQjkR6eoIvwWL1IA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaU5G4xqdQjkR6eoIvwWL1IA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:20:28"
+  },
+  {
+    "business_name": "Kheteshwar Sweet",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "306603",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Shop no 2 \"B, Sarvodaya Complex Rajasthan State Highway 16, Nehru Colony, Falna, Rajasthan 306116",
+    "area": "Nehru Colony",
+    "latitude": 25.2362652,
+    "longitude": 73.2371562,
+    "place_id": "ChIJIfUiAUKRQjkRXI6Wds1JyKc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIfUiAUKRQjkRXI6Wds1JyKc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:20:29"
+  }
+]

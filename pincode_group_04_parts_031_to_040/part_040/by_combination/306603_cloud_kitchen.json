@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Flavor Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "306603",
+    "phone_number": "+91 62830 52163",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opposite front of Park, Sector 71, Sahibzada Ajit Singh Nagar, Punjab 160071",
+    "area": "Sector 71",
+    "latitude": 30.7038528,
+    "longitude": 76.7076768,
+    "place_id": "ChIJpQ0YrBvvDzkRysx62FFVvf8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpQ0YrBvvDzkRysx62FFVvf8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:20:33"
+  },
+  {
+    "business_name": "Nida’s Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Meal delivery",
+    "all_categories": "Meal delivery, Tiffin Service Provider, Indian restaurant, Indian takeaway, Pizza delivery",
+    "pincode": "306603",
+    "phone_number": "+91 95010 51381",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sector 15, Aman city extension 1, Kharar, Punjab 140301",
+    "area": "Sector 15, Aman city extension 1",
+    "latitude": 30.757535599999997,
+    "longitude": 76.6486579,
+    "place_id": "ChIJtew8bQDxDzkRea_Z4Apt7wE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtew8bQDxDzkRea_Z4Apt7wE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:20:33"
+  }
+]

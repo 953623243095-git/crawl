@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bherunath premium ice cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "307022",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MW5H+CV6, Swaroopganj, Rajasthan 307023",
+    "area": "307022",
+    "latitude": 24.658509,
+    "longitude": 72.9296919,
+    "place_id": "ChIJ2Tn8eAAzXTkRMYa2sUf_QI4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2Tn8eAAzXTkRMYa2sUf_QI4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:48:19"
+  },
+  {
+    "business_name": "Mahalaxmi ice cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "307022",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Bus Stand, Main Market, Pindwara, Rajasthan 307022",
+    "area": "Main Market",
+    "latitude": 24.7933603,
+    "longitude": 73.0587441,
+    "place_id": "ChIJA_vyPZDJQjkRfF5r_sbFAhg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA_vyPZDJQjkRfF5r_sbFAhg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:48:21"
+  }
+]

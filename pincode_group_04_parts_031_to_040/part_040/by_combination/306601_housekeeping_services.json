@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deep Cleaning",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Cleaning Services, Tile cleaning service, Window cleaning service",
+    "pincode": "306601",
+    "phone_number": "+91 99229 22703",
+    "website": "http://deepcleaningservicepune.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Office No C-203, CDC Chikhali, Dream Housing Society, Pradhikaran Rd, LIG Colony, Pradhikaran, Nigdi, Pimpri-Chinchwad, Pune, Maharashtra 411044",
+    "area": "LIG Colony, Pradhikaran, Nigdi",
+    "latitude": 18.6562005,
+    "longitude": 73.76838769999999,
+    "place_id": "ChIJOc9xsmW5wjsRPUfSGLLi5KU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOc9xsmW5wjsRPUfSGLLi5KU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:18:08"
+  },
+  {
+    "business_name": "Just Kleen Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "306601",
+    "phone_number": "+91 82888 79759",
+    "website": "https://justkleenservices.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "sector 82 a, Marbella Grand, G-1003, Sector 82, JLPL Industrial Area, Sahibzada Ajit Singh Nagar, Punjab 140306",
+    "area": "Sector 82, JLPL Industrial Area",
+    "latitude": 30.648182799999997,
+    "longitude": 76.74101859999999,
+    "place_id": "ChIJTewolufrDzkRPbWZaqWg1CQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTewolufrDzkRPbWZaqWg1CQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:18:08"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arbuda Medical",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "307801",
+    "phone_number": "+91 86191 96911",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Arbuda Medical, Padiv, Rajasthan 306401",
+    "area": "307801",
+    "latitude": 24.9274027,
+    "longitude": 72.7738348,
+    "place_id": "ChIJ041ixF_fQjkRAqRk2Aw-GH0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ041ixF_fQjkRAqRk2Aw-GH0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:24:12"
+  },
+  {
+    "business_name": "UAAM Janta Clinic Sirohi",
+    "search_category": "Clinics",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "307801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VVV7+62V, Amar Nagar, Adarsh Nagar, Sirohi, Rajasthan 307001",
+    "area": "Amar Nagar, Adarsh Nagar",
+    "latitude": 24.893112499999997,
+    "longitude": 72.8625503,
+    "place_id": "ChIJyZEeBADbQjkRQtGt_X8VIYw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyZEeBADbQjkRQtGt_X8VIYw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:24:15"
+  }
+]

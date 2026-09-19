@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahaveer Medical Store Ahore",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "307028",
+    "phone_number": "+91 97827 35742",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "9QCM+V8J, Ahore, Rajasthan 307029",
+    "area": "307028",
+    "latitude": 25.3722013,
+    "longitude": 72.7832676,
+    "place_id": "ChIJm62STUL_QjkRp56ulYXOL08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm62STUL_QjkRp56ulYXOL08",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:59:51"
+  },
+  {
+    "business_name": "Kamal Medical",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "307028",
+    "phone_number": "+91 97827 40510",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9QCM+MCP, Main Rd, Kerawa Vas, Ahore, Rajasthan 307029",
+    "area": "Kerawa Vas",
+    "latitude": 25.3717084,
+    "longitude": 72.7835877,
+    "place_id": "ChIJ-1PTSkL_QjkRQ5TmSuj4izU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-1PTSkL_QjkRQ5TmSuj4izU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:59:52"
+  }
+]

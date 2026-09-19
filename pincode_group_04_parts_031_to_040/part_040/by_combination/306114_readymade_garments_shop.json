@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goyal readymade store",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "306114",
+    "phone_number": "+91 97835 84117",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2, Main Market, Sojat Road, Rajasthan 306103",
+    "area": "306114",
+    "latitude": 25.86487,
+    "longitude": 73.7506142,
+    "place_id": "ChIJmZCfCbvBaTkRZQfb-5Jfv3c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmZCfCbvBaTkRZQfb-5Jfv3c",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:38:44"
+  },
+  {
+    "business_name": "Kothari NX",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "306114",
+    "phone_number": "+91 77428 43234",
+    "website": "http://kotharinx2017.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Parsi Chawl Haryani, Tiraha, Abu Road, Rajasthan 307026",
+    "area": "Brham Puri",
+    "latitude": 24.480170599999997,
+    "longitude": 72.7823092,
+    "place_id": "ChIJh-v3Nr0oXTkRJF47kvZaIJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh-v3Nr0oXTkRJF47kvZaIJ0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:38:46"
+  }
+]

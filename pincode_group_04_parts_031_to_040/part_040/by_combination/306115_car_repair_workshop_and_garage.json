@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahadev Auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "306115",
+    "phone_number": "+91 80031 80094",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop Number 55, Veterinary Hospital, Mahadev Auto Garage Kanpura Road, Ke Pass, Rani Gaon, Rajasthan 306115",
+    "area": "Shivaji Nagar",
+    "latitude": 25.3489333,
+    "longitude": 73.3099526,
+    "place_id": "ChIJxY_b41uFQjkRAsAMBchl79U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxY_b41uFQjkRAsAMBchl79U",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:40:55"
+  },
+  {
+    "business_name": "Jodhpur Bike Workshop",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Garage",
+    "all_categories": "Garage",
+    "pincode": "306115",
+    "phone_number": "+91 96602 05096",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mein Road, Rajasthan 306701",
+    "area": "306115",
+    "latitude": 25.3732793,
+    "longitude": 73.4522724,
+    "place_id": "ChIJKbuiFc-DQjkRNZOpXljufng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKbuiFc-DQjkRNZOpXljufng",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:40:57"
+  }
+]

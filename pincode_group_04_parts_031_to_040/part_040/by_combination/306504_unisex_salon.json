@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubham Hair Art",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "306504",
+    "phone_number": "+91 86963 19490",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 8,
+    "address": "Palri - Barewada Rd, Palri, Rajasthan 307043",
+    "area": "306504",
+    "latitude": 25.014923699999997,
+    "longitude": 72.9249557,
+    "place_id": "ChIJdQOVI5XCQjkRUYJI0QRmmI4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdQOVI5XCQjkRUYJI0QRmmI4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:15:45"
+  },
+  {
+    "business_name": "Prabhat Spa Salon N Institute",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "306504",
+    "phone_number": "+91 294 241 7623",
+    "website": "https://www.prabhatspasalon.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "1st Floor 104 Near Lok Kala Mandal Panchwati Chougan Scheme Hitawala IV, Udaipur, Rajasthan 313004",
+    "area": "Madhuban",
+    "latitude": 24.595246799999998,
+    "longitude": 73.6920009,
+    "place_id": "ChIJ_0hMw3LlZzkRxJTDFF0sC0Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_0hMw3LlZzkRxJTDFF0sC0Q",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:15:46"
+  }
+]

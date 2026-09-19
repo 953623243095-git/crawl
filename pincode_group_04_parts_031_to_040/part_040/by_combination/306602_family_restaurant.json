@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gorband hotel and restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "306602",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C6F9+5P, Dhola Sasan, Rajasthan 306422",
+    "area": "306602",
+    "latitude": 25.422895,
+    "longitude": 73.219301,
+    "place_id": "ChIJE1jbNACJQjkR43Cb1yS0Gac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE1jbNACJQjkR43Cb1yS0Gac",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:18:44"
+  },
+  {
+    "business_name": "Ganesh Gopal Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Breakfast restaurant",
+    "pincode": "306602",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "NH.62, New Pali Rd, Dhola Sasan, Rajasthan 306422",
+    "area": "306602",
+    "latitude": 25.444152,
+    "longitude": 73.22582899999999,
+    "place_id": "ChIJI6zGjH5iQjkRvOn6z7Crcf4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI6zGjH5iQjkRvOn6z7Crcf4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:18:47"
+  }
+]

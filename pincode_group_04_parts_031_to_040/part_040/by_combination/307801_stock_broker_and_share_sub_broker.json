@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SuperENivesh",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Financial planner",
+    "all_categories": "Financial planner",
+    "pincode": "307801",
+    "phone_number": "+91 92144 55665",
+    "website": "https://www.superenivesh.com/",
+    "rating": 4.7,
+    "reviews_count": 15,
+    "address": "Ground Floor, Nakshatra, Rani Sati Rd, in front of Rajendra Ayurvedic Hospital, Shastri Nagar, Sikar, Rajasthan 332001",
+    "area": "Shastri Nagar",
+    "latitude": 27.6006434,
+    "longitude": 75.1432868,
+    "place_id": "ChIJvyaaZeilbDkRtuQSsCIIZqE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvyaaZeilbDkRtuQSsCIIZqE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:25:14"
+  },
+  {
+    "business_name": "Rudra Shares and Stock Brokers Ltd. Jaipur",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "307801",
+    "phone_number": "+91 63866 61745",
+    "website": "https://www.rudrashares.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "209, Ajmer Rd, near Government Hostel Hostel, Hathroi, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302001",
+    "area": "Hathroi",
+    "latitude": 26.9170895,
+    "longitude": 75.79977939999999,
+    "place_id": "ChIJm-hX9K-zbTkRnQukY-Bs_iQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm-hX9K-zbTkRnQukY-Bs_iQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:25:15"
+  }
+]

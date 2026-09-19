@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gulshan",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hairdresser",
+    "pincode": "306901",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "New bustand, Takhatgarh, Rajasthan 306901",
+    "area": "306901",
+    "latitude": 25.3156562,
+    "longitude": 73.002214,
+    "place_id": "ChIJ1UqsIyrzQjkR1Ki_LUvSS2g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1UqsIyrzQjkR1Ki_LUvSS2g",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:39:56"
+  },
+  {
+    "business_name": "Jayesh hair salon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "306901",
+    "phone_number": "+91 90797 89234",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sariya devi, Bharunda, Rajasthan 306901",
+    "area": "306901",
+    "latitude": 25.193285099999997,
+    "longitude": 72.9887324,
+    "place_id": "ChIJgQPQOQDvQjkRwB-HUzBoTDo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgQPQOQDvQjkRwB-HUzBoTDo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:39:56"
+  }
+]

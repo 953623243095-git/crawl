@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A1 Car wash and service",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "306421",
+    "phone_number": "+91 83068 93815",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sinli Rd, Dhawa, Dhawa I, Rajasthan 342014",
+    "area": "306421",
+    "latitude": 26.0543306,
+    "longitude": 72.74757269999999,
+    "place_id": "ChIJK-TL1QwrQjkRi8-_ciih_kI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK-TL1QwrQjkRi8-_ciih_kI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:05:51"
+  },
+  {
+    "business_name": "Sonu service center",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "306421",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Hospital, NH 62, Rohat, Rajasthan 306421",
+    "area": "306421",
+    "latitude": 25.958416,
+    "longitude": 73.141948,
+    "place_id": "ChIJ7-xyIOcXQjkR9nAWeaiOvo8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7-xyIOcXQjkR9nAWeaiOvo8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:05:51"
+  }
+]

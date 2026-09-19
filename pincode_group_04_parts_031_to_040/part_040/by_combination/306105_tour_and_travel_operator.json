@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rinku Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "306105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "533F+4HJ, near mansarovar hotel, tehsil road, Bharunda-Sumerpur Rd, Raichand Colony, Sumerpur, Rajasthan 306902",
+    "area": "Raichand Colony",
+    "latitude": 25.152838,
+    "longitude": 73.0739,
+    "place_id": "ChIJyVDLRMbtQjkRABzN1WcrRhE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyVDLRMbtQjkRABzN1WcrRhE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:37:20"
+  },
+  {
+    "business_name": "Kamal Mewara",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Cafe",
+    "pincode": "306105",
+    "phone_number": "+91 99293 23371",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Sutharo Ka Bas, Birantiya Khurd, Rajasthan 306105",
+    "area": "Sutharo Ka Bas",
+    "latitude": 26.119858699999998,
+    "longitude": 74.1379747,
+    "place_id": "ChIJKT1wgTibaTkRrf8gdGXC0Wc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKT1wgTibaTkRrf8gdGXC0Wc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:37:21"
+  }
+]

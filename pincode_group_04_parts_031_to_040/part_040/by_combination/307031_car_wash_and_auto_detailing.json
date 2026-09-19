@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ASR Super Pvt Ltd",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Self service car wash",
+    "pincode": "307031",
+    "phone_number": "+91 70424 21104",
+    "website": "https://asrsuper.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "First floor, D-472, KH No-29, Ramphal Chowk Rd, Block D, Palam Extension, Sector 7 Dwarka, Dwarka, New Delhi, Delhi, 110075",
+    "area": "Block D, Palam Extension, Sector 7 Dwarka, Dwarka",
+    "latitude": 28.584865599999997,
+    "longitude": 77.06897409999999,
+    "place_id": "ChIJZ6ySVi4bDTkR_NS93f3SW2A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ6ySVi4bDTkR_NS93f3SW2A",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:05:26"
+  },
+  {
+    "business_name": "B Pristine",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto body shop",
+    "all_categories": "Auto body shop, Auto painting",
+    "pincode": "307031",
+    "phone_number": "+91 97101 68888",
+    "website": "http://www.bpristineservices.com/",
+    "rating": 5,
+    "reviews_count": 25,
+    "address": "Metro Station Mansarovar, Udai Nagar-A, Rani Sati Nagar, Nirman Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302019",
+    "area": "Udai Nagar-A, Rani Sati Nagar, Nirman Nagar",
+    "latitude": 26.879690999999998,
+    "longitude": 75.7483428,
+    "place_id": "ChIJEWlGqhK1bTkRg-xBcYEdPck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEWlGqhK1bTkRg-xBcYEdPck",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:05:27"
+  }
+]

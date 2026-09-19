@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jai Shri Sawaliya Seth Restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "306422",
+    "phone_number": "N/A",
+    "website": "http://www.jaisawaliyaseth.com/",
+    "rating": 5,
+    "reviews_count": 23,
+    "address": "P86C+CQ6 Nahar palace, Sumerpur Rd, Ramasiya, Rajasthan 306401",
+    "area": "306422",
+    "latitude": 25.7111311,
+    "longitude": 73.32115999999999,
+    "place_id": "ChIJPUt9CABxQjkRcLWaTfjELqw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPUt9CABxQjkRcLWaTfjELqw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:07:23"
+  },
+  {
+    "business_name": "HOTEL DHOLA MARU",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "306422",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "C6XH+PJQ, Dhola Sasan, Rajasthan 306422",
+    "area": "306422",
+    "latitude": 25.4493336,
+    "longitude": 73.229118,
+    "place_id": "ChIJG6upLddjQjkRkLipl6f7QvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG6upLddjQjkRkLipl6f7QvY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:07:23"
+  }
+]

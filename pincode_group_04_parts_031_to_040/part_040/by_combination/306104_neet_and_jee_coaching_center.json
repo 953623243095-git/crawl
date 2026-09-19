@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Visual Institute",
+    "search_category": "NEET and JEE Coaching Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center",
+    "pincode": "306104",
+    "phone_number": "N/A",
+    "website": "http://www.youtube.com/visualstudy",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "near Ganesh Temple, Naya Pura, Sojat, Rajasthan 306104",
+    "area": "Naya Pura",
+    "latitude": 25.9240173,
+    "longitude": 73.66657909999999,
+    "place_id": "ChIJJWmbo5foaTkRFm4dPoteqV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJWmbo5foaTkRFm4dPoteqV4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:35:59"
+  },
+  {
+    "business_name": "Utkarsh Classes Jodhpur",
+    "search_category": "NEET and JEE Coaching Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "306104",
+    "phone_number": "+91 97733 66869",
+    "website": "https://utkarsh.com/",
+    "rating": 4.2,
+    "reviews_count": 2121,
+    "address": "Vyas Bhawan, 1st A Rd, Sardarpura, Jodhpur, Rajasthan 342001",
+    "area": "Sardarpura",
+    "latitude": 26.2819605,
+    "longitude": 73.0126848,
+    "place_id": "ChIJQYzj5zOMQTkRE-IoAvFyHmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQYzj5zOMQTkRE-IoAvFyHmY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:36:02"
+  }
+]

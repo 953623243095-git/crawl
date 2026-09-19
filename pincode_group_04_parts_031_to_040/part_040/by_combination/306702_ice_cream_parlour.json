@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharka Devi ice cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "306702",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 9,
+    "address": "5CPX+HGH, RJ SH 16, New Abadi, Shri Mahaveer Nagar, Sadri, Rajasthan 306705",
+    "area": "New Abadi, Shri Mahaveer Nagar",
+    "latitude": 25.186425699999997,
+    "longitude": 73.44884619999999,
+    "place_id": "ChIJlcgAsHufQjkRQP2T6PFHSts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlcgAsHufQjkRQP2T6PFHSts",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:24:14"
+  },
+  {
+    "business_name": "shree vinayak general & xerox",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "306702",
+    "phone_number": "+91 97027 83724",
+    "website": "https://google20maps.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "bhati hotal, Ghanchiyo ka bas, kalka mata ke pass, barli, Sadri, Rajasthan 306702",
+    "area": "barli",
+    "latitude": 25.138989499999997,
+    "longitude": 73.4592701,
+    "place_id": "ChIJG7YPueafQjkRr96xKZNTIpE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG7YPueafQjkRr96xKZNTIpE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:24:14"
+  }
+]

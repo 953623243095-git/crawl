@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pet's world",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "306501",
+    "phone_number": "+91 82904 06807",
+    "website": "https://thepetsworld.online/",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "Main, ratanada road, opposite jugal motors, Tirupati Vihar, Shikargarh Enclave, Sirodi, Shikargarh, Jodhpur, Rajasthan 342001",
+    "area": "Tirupati Vihar, Shikargarh Enclave, Sirodi",
+    "latitude": 26.273710599999998,
+    "longitude": 73.0716771,
+    "place_id": "ChIJp3BtLbuNQTkRcSnQoXBEyeY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp3BtLbuNQTkRcSnQoXBEyeY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:09:13"
+  },
+  {
+    "business_name": "MYPETBUDDY.IN",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Nail salon, Pet boarding service, Pet groomer, Pet moving service, Pet store, Veterinarian, Veterinary pharmacy",
+    "pincode": "306501",
+    "phone_number": "+91 96829 46829",
+    "website": "http://www.mypetbuddy.in/",
+    "rating": 4.6,
+    "reviews_count": 201,
+    "address": "Mypetbuddy.in, 7, th Cross, opposite Shesha Bhanu Residency Phase-1, Munivenkatappa Layout, Munivenkatppa Layout, BTM Layout 2nd Stage, Bilekahalli, Bengaluru, Karnataka 560076",
+    "area": "Munivenkatappa Layout, Munivenkatppa Layout, BTM Layout 2nd Stage, Bilekahalli",
+    "latitude": 12.905562399999999,
+    "longitude": 77.6050138,
+    "place_id": "ChIJO28Bb6gVrjsR15ZHb5wj6Cc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO28Bb6gVrjsR15ZHb5wj6Cc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:09:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hariom Hair Cuting",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "306701",
+    "phone_number": "+91 88757 43522",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Boya Rd, Shivaji Chowk, Bali, Rajasthan 306701",
+    "area": "Shivaji Chowk",
+    "latitude": 25.1916996,
+    "longitude": 73.283474,
+    "place_id": "ChIJ25ws5jSbQjkR-4-8riha59g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ25ws5jSbQjkR-4-8riha59g",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:22:28"
+  },
+  {
+    "business_name": "MAUSAM Man & Kids Wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "306701",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bali, Rajasthan 306701",
+    "area": "306701",
+    "latitude": 25.1925106,
+    "longitude": 73.2890518,
+    "place_id": "ChIJDyfemRKaQjkRKOpbWOiNmKA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDyfemRKaQjkRKOpbWOiNmKA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:22:28"
+  }
+]

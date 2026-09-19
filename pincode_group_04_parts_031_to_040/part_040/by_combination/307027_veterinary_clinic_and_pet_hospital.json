@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Animal Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "307027",
+    "phone_number": "N/A",
+    "website": "http://www.animalhospital.com/",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Bus Stop, State Highway 17, Nangal Sirohi, Nangal Sirohi, Haryana 123028",
+    "area": "307027",
+    "latitude": 28.1855889,
+    "longitude": 76.12819429999999,
+    "place_id": "ChIJK8IBTVK4EjkRUjWfJKmbipU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK8IBTVK4EjkRUjWfJKmbipU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:57:57"
+  },
+  {
+    "business_name": "Pet glow grooming",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "307027",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/pet.glow.grooming?igsh=a3U3ZDQxMjBrNGlr&utm_source=qr",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GQQV+CH6, Danvav, Abu Road, Rajasthan 307026",
+    "area": "Danvav",
+    "latitude": 24.538546999999998,
+    "longitude": 72.7938971,
+    "place_id": "ChIJMTFLUQApXTkRvKI6kNATsh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMTFLUQApXTkRvKI6kNATsh0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:57:59"
+  }
+]

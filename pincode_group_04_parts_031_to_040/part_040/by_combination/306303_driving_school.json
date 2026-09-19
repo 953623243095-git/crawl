@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ismail Emitra",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "306303",
+    "phone_number": "+91 77422 51069",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.04, Jaitaran, near by Fulmal, Rajasthan 342602",
+    "area": "306303",
+    "latitude": 26.203080999999997,
+    "longitude": 73.94067,
+    "place_id": "ChIJuWxxKjOJaTkREEXj5zZNu0Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuWxxKjOJaTkREEXj5zZNu0Q",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:52:36"
+  },
+  {
+    "business_name": "M TECH COLLEGE OF COMPUTER EDUCATION & TRAVEL AGENCY",
+    "search_category": "Driving School",
+    "primary_category": "Training center",
+    "all_categories": "Training center",
+    "pincode": "306303",
+    "phone_number": "+91 99294 82243",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nimaaj, Nimaj, Rajasthan 306303",
+    "area": "306303",
+    "latitude": 26.149957999999998,
+    "longitude": 74.000849,
+    "place_id": "ChIJV9PiIj6PaTkRd8p8Jr61ITY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV9PiIj6PaTkRd8p8Jr61ITY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:52:36"
+  }
+]

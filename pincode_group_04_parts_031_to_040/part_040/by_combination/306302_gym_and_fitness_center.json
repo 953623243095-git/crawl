@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Fitness Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "306302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6W4Q+CG4, near Ramdav Mandir, Jaitaran, Rajasthan 306302",
+    "area": "306302",
+    "latitude": 26.2060206,
+    "longitude": 73.9388196,
+    "place_id": "ChIJ_RdNzN6JaTkRGyLErfKGlWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_RdNzN6JaTkRGyLErfKGlWk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:50:30"
+  },
+  {
+    "business_name": "health club fitness gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "306302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 61,
+    "address": "Sadul Shahar, Rajasthan 335062",
+    "area": "306302",
+    "latitude": 29.9044164,
+    "longitude": 74.1736609,
+    "place_id": "ChIJazVuRjxVFjkRncDQ1zUYaK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJazVuRjxVFjkRncDQ1zUYaK8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:50:31"
+  }
+]

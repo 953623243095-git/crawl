@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DECORA - Raja Park",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Party store",
+    "all_categories": "Party store",
+    "pincode": "306105",
+    "phone_number": "+91 89555 95576",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 27,
+    "address": "Shop-5, Plot No. 259/4, near Jawahar Nagar Road, Raja Park, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302004",
+    "area": "Raja Park",
+    "latitude": 26.8923114,
+    "longitude": 75.83052239999999,
+    "place_id": "ChIJHehZ5ma3bTkRX3p76Wj958c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHehZ5ma3bTkRX3p76Wj958c",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:37:44"
+  },
+  {
+    "business_name": "Bhumi Balloon Decoration at home",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist",
+    "pincode": "306105",
+    "phone_number": "+91 92510 05511",
+    "website": "http://bhumiballoondecoration.in/",
+    "rating": 4.9,
+    "reviews_count": 90,
+    "address": "Krishna Vihar, Plot no 9, Maharana Pratap Rd, Panchyawala, Jaipur, Rajasthan 302034",
+    "area": "Panchyawala",
+    "latitude": 26.9087821,
+    "longitude": 75.7149561,
+    "place_id": "ChIJq6q2xqq0bTkRrKm6Ru6ZZ68",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6q2xqq0bTkRrKm6Ru6ZZ68",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:37:45"
+  }
+]

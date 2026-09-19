@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madhu Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Cosmetics store, General store",
+    "pincode": "307511",
+    "phone_number": "+91 83849 61272",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Near Power House Gate, Power House Road, Reodar, Rajasthan 307514",
+    "area": "307511",
+    "latitude": 24.620839,
+    "longitude": 72.5306344,
+    "place_id": "ChIJj2BN5P3TXDkRdTbD8yw3peo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj2BN5P3TXDkRdTbD8yw3peo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:15:17"
+  },
+  {
+    "business_name": "The Beauty Outlet",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler",
+    "pincode": "307511",
+    "phone_number": "+91 88908 90351",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Punjab national bank Gali, Fatehnagar, Fatehnagar Sanwar, Rajasthan 313205",
+    "area": "307511",
+    "latitude": 24.8144951,
+    "longitude": 74.0960465,
+    "place_id": "ChIJ-VpwxJd5aDkR-rgo7EhqJk0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-VpwxJd5aDkR-rgo7EhqJk0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:15:20"
+  }
+]

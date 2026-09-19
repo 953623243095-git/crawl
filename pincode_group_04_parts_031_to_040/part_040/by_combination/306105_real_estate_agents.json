@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AJAY PROPERTIES",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "306105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Tajpur, Punjab 141015",
+    "area": "306105",
+    "latitude": 30.9101207,
+    "longitude": 75.9493703,
+    "place_id": "ChIJ8-lIAFecGjkRpWOybwXatHM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8-lIAFecGjkRpWOybwXatHM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:38:11"
+  },
+  {
+    "business_name": "Manish Journal Store",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Retail space rental agency",
+    "all_categories": "Retail space rental agency",
+    "pincode": "306105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Post office, Raipur, Rajasthan 306304",
+    "area": "306105",
+    "latitude": 26.0411979,
+    "longitude": 74.01972959999999,
+    "place_id": "ChIJJ6Gr8TeRaTkRq5oMEFgCqIs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ6Gr8TeRaTkRq5oMEFgCqIs",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:38:12"
+  }
+]

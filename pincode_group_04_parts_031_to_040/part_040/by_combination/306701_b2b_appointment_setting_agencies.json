@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "EXOTTO",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment, Marketing consultant",
+    "pincode": "306701",
+    "phone_number": "+91 88030 03000",
+    "website": "https://exotto.com/",
+    "rating": 3.8,
+    "reviews_count": 5,
+    "address": "EXOTTO, 306701, India",
+    "area": "306701",
+    "latitude": 14.157641199999999,
+    "longitude": -95.8678762,
+    "place_id": "ChIJm8jssJ_tDzkR8g1Zj6eFCkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm8jssJ_tDzkR8g1Zj6eFCkA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:23:56"
+  },
+  {
+    "business_name": "Wowidea Consultingminds Private Limited",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Employment consultant",
+    "all_categories": "Employment consultant, BPO Placement Agency, Employment center, Executive search firm, Human resource consulting, Recruiter",
+    "pincode": "306701",
+    "phone_number": "+91 96365 55000",
+    "website": "http://www.wowidea.in/",
+    "rating": 5,
+    "reviews_count": 1008,
+    "address": "Second Floor, Unnati Tower, S 222, 2nd floor, Central Spine, Vidyadhar Nagar, Jaipur, Rajasthan 302039",
+    "area": "Sector 2, Central Spine, Vidyadhar Nagar",
+    "latitude": 26.9598177,
+    "longitude": 75.7780516,
+    "place_id": "ChIJV6rDgSCzbTkRIm51XzzHucw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV6rDgSCzbTkRIm51XzzHucw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:23:56"
+  }
+]

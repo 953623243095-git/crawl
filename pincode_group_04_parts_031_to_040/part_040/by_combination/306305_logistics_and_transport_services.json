@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Complete Logistic Solutions",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "306305",
+    "phone_number": "+91 81680 49968",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sham Nagar, Karnal, Haryana 132001",
+    "area": "Sham Nagar",
+    "latitude": 29.6717618,
+    "longitude": 76.99112989999999,
+    "place_id": "ChIJO9IBu2twDjkRcEehb5-Sjq0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO9IBu2twDjkRcEehb5-Sjq0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:56:25"
+  },
+  {
+    "business_name": "S.K. TRANSPORT",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "306305",
+    "phone_number": "+91 88598 80143",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chharba, Uttarakhand 248197",
+    "area": "306305",
+    "latitude": 30.416313799999998,
+    "longitude": 77.7923096,
+    "place_id": "ChIJz2m7vtUuDzkRBCHOAm-Papg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz2m7vtUuDzkRBCHOAm-Papg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:56:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saini Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "307501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "HPM9+GCP, Goumukh Rd, Aburaj, Rajasthan 307501",
+    "area": "307501",
+    "latitude": 24.5838437,
+    "longitude": 72.7185908,
+    "place_id": "ChIJNWIwdnYrXTkRygN6004wCyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNWIwdnYrXTkRygN6004wCyQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:10:35"
+  },
+  {
+    "business_name": "Dev Narayan Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "307501",
+    "phone_number": "+91 96800 24600",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GRVX+845, Kivarali, Rajasthan 307032",
+    "area": "307501",
+    "latitude": 24.5432542,
+    "longitude": 72.8478587,
+    "place_id": "ChIJ6zzW5_QuXTkRNfxBLrAjXHI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6zzW5_QuXTkRNfxBLrAjXHI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:10:37"
+  }
+]

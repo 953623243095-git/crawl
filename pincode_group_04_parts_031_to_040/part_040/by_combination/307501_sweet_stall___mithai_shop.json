@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jayhind Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Sweets and dessert buffet, Indian sweets shop",
+    "pincode": "307501",
+    "phone_number": "+91 76994 14141",
+    "website": "https://jayhindsweets.com/",
+    "rating": 4.7,
+    "reviews_count": 2121,
+    "address": "8-A, Shivalik Plaza, IIM Rd, opp. Ahmedabad Management Association AMA Ahmedabad, Panjarapole, Ambawadi, Ahmedabad, Gujarat 380015",
+    "area": "Panjarapole, Ambawadi",
+    "latitude": 23.028405199999998,
+    "longitude": 72.5422835,
+    "place_id": "ChIJT1VVRcaEXjkRGygSZRT9Wxo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT1VVRcaEXjkRGygSZRT9Wxo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:10:40"
+  },
+  {
+    "business_name": "Jayhind Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop, Sweet shop, Sweets and dessert buffet",
+    "pincode": "307501",
+    "phone_number": "+91 76993 13131",
+    "website": "https://jayhindsweets.com/",
+    "rating": 4.5,
+    "reviews_count": 3500,
+    "address": "Purohit House, 101, Sardar Patel Stadium Rd, opp. Sports Club, Kamla Society, Hindu Colony, Navrangpura, Ahmedabad, Gujarat 380009",
+    "area": "Kamla Society, Hindu Colony, Navrangpura",
+    "latitude": 23.04017,
+    "longitude": 72.5634812,
+    "place_id": "ChIJJdAPFYuEXjkRxJhDffJvGqU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJdAPFYuEXjkRxJhDffJvGqU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:10:40"
+  }
+]

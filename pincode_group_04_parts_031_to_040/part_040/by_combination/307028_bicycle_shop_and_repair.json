@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat cycle",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "307028",
+    "phone_number": "+91 95103 35825",
+    "website": "https://bharatcycle.com/",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "Ambedkar hostel ke samne, Ahore, Rajasthan 307029",
+    "area": "307028",
+    "latitude": 25.3770779,
+    "longitude": 72.7762,
+    "place_id": "ChIJiePfNPT_QjkR0nDxhW4zApQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiePfNPT_QjkR0nDxhW4zApQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:59:57"
+  },
+  {
+    "business_name": "पठान पंचर सर्विस (Pathan puncture services)",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "307028",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8RWR+847, Unnamed Road, Madri, Rajasthan 307030",
+    "area": "307028",
+    "latitude": 25.345779999999998,
+    "longitude": 72.8402893,
+    "place_id": "ChIJBavAoAj5QjkRp1QGvzkxw_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBavAoAj5QjkRp1QGvzkxw_o",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:00:01"
+  }
+]

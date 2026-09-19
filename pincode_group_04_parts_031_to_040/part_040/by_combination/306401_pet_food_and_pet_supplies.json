@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raghuveer",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "306401",
+    "phone_number": "+91 90791 01088",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Shoop No 02, Sardar Patel Nagar, Pali, Rajasthan 306401",
+    "area": "Sardar Patel Nagar",
+    "latitude": 25.7900866,
+    "longitude": 73.3259582,
+    "place_id": "ChIJMf5GB1BzQjkRHAruKysyRZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMf5GB1BzQjkRHAruKysyRZI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:03:24"
+  },
+  {
+    "business_name": "Manglam glass house",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Aquarium shop",
+    "all_categories": "Aquarium shop",
+    "pincode": "306401",
+    "phone_number": "+91 96800 17240",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Naga baba bagichi ,Ganesh mandir, mandhan sinepa ke pass, Railway Station Rd, Pali, Rajasthan 306401",
+    "area": "Gandhi Colony",
+    "latitude": 25.7852762,
+    "longitude": 73.330032,
+    "place_id": "ChIJM_OXiCRzQjkRqJrrokPNkTw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM_OXiCRzQjkRqJrrokPNkTw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:03:26"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baloonda, Rajasthan 306308",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "306308",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Baloonda, Rajasthan",
+    "area": "306308",
+    "latitude": 26.3180244,
+    "longitude": 73.86542949999999,
+    "place_id": "ChIJraeJStcjajkR9wxMnh8UgQs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJraeJStcjajkR9wxMnh8UgQs",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:01:27"
+  },
+  {
+    "business_name": "Ezee Chicken",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Chicken shop",
+    "pincode": "306308",
+    "phone_number": "+91 99352 01079",
+    "website": "https://eezeechicken.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Shop No 11, 12, Vijay Nagar, Shastri Nagar, Kanpur, Uttar Pradesh 208005",
+    "area": "Vijay Nagar, Shastri Nagar",
+    "latitude": 26.462237899999998,
+    "longitude": 80.2937884,
+    "place_id": "ChIJt85Yyws4nDkRzuEC1Sjw-cc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt85Yyws4nDkRzuEC1Sjw-cc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:01:28"
+  }
+]

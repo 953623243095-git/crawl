@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Customer service point",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Computer networking service",
+    "all_categories": "Computer networking service",
+    "pincode": "307801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bharai, Rajasthan 305408",
+    "area": "307801",
+    "latitude": 25.8794625,
+    "longitude": 75.1082102,
+    "place_id": "ChIJjXpVRwDPbjkRVryocKTht-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjXpVRwDPbjkRVryocKTht-o",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:25:05"
+  },
+  {
+    "business_name": "Kumar e mitra and csc center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Community center",
+    "all_categories": "Community center, Internet service provider",
+    "pincode": "307801",
+    "phone_number": "+91 96679 66975",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "Ratangarh, Rajasthan 331022",
+    "area": "307801",
+    "latitude": 28.0740263,
+    "longitude": 74.63549239999999,
+    "place_id": "ChIJ7WE__O65FDkRhbyhRjwVVf8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7WE__O65FDkRhbyhRjwVVf8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:25:06"
+  }
+]

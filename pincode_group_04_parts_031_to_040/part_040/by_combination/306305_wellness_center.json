@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jai Shree Ram Health Care",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "306305",
+    "phone_number": "+91 99293 10432",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chetan choraya, Nimaj, Rajasthan 306303",
+    "area": "306305",
+    "latitude": 26.1504393,
+    "longitude": 73.9978921,
+    "place_id": "ChIJZ-FteAyPaTkRfODRzASLH20",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ-FteAyPaTkRfODRzASLH20",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:56:42"
+  },
+  {
+    "business_name": "Government Hospital Kushalpura",
+    "search_category": "Wellness Center",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital",
+    "pincode": "306305",
+    "phone_number": "+91 2937 233 371",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Kushalpura - Jaitaran Rd, Kushalpura, Rajasthan 306305",
+    "area": "306305",
+    "latitude": 26.0997205,
+    "longitude": 73.95469369999999,
+    "place_id": "ChIJw1vTQ2uOaTkRNMgwagUPWQU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw1vTQ2uOaTkRNMgwagUPWQU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:56:42"
+  }
+]

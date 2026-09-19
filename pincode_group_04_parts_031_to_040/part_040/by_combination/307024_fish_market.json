@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjari Matan And Chikan Shop",
+    "search_category": "Fish Market",
+    "primary_category": "Food court",
+    "all_categories": "Food court, Chicken & Mutton Shop",
+    "pincode": "307024",
+    "phone_number": "+91 82905 15565",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Toll, Swaroopganj, Rajasthan 307023",
+    "area": "307024",
+    "latitude": 24.636534899999997,
+    "longitude": 72.91242319999999,
+    "place_id": "ChIJO5Pz8ZAyXTkRUH9_jFwEoIE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO5Pz8ZAyXTkRUH9_jFwEoIE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:51:50"
+  },
+  {
+    "business_name": "Adarsh Fish House",
+    "search_category": "Fish Market",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "307024",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Guru Kripa Colony, Luniyapura Rd, near Railway Line, Luniapura, Abu Road, Rajasthan 307026",
+    "area": "Luniapura",
+    "latitude": 24.4885988,
+    "longitude": 72.7936502,
+    "place_id": "ChIJJY1tE0spXTkRDHSzjympFZg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJY1tE0spXTkRDHSzjympFZg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:51:51"
+  }
+]

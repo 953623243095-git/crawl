@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Google food",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "306709",
+    "phone_number": "+91 63503 23363",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "6W3R+7FF, MDR24, Jaitaran, Rajasthan 306302",
+    "area": "306709",
+    "latitude": 26.2031888,
+    "longitude": 73.94125249999999,
+    "place_id": "ChIJQeOnpPOJaTkR-7LUhVIUGv4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQeOnpPOJaTkR-7LUhVIUGv4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:37:24"
+  },
+  {
+    "business_name": "Veer Gujar Hotel-306301",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "306709",
+    "phone_number": "+91 99829 14531",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "93R6+R38, Merta Rd, Lambiya, Rajasthan 306301",
+    "area": "306709",
+    "latitude": 26.3920432,
+    "longitude": 74.060189,
+    "place_id": "ChIJw69qTREvajkRSbQtUfJPtiU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw69qTREvajkRSbQtUfJPtiU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:37:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kanchan Homoeopathic Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "306104",
+    "phone_number": "+91 92146 61743",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NAI SARAK, opposite Trauma Centre, Bilara, Rajasthan 342602",
+    "area": "306104",
+    "latitude": 26.180091599999997,
+    "longitude": 73.7078238,
+    "place_id": "ChIJtZWv9RP3aTkR-eainfeUU0w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtZWv9RP3aTkR-eainfeUU0w",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:35:11"
+  },
+  {
+    "business_name": "Government Homeopathic Hospital",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "306104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6M7Q+WQW, Pichiyak, Rajasthan 342602",
+    "area": "306104",
+    "latitude": 26.214853899999998,
+    "longitude": 73.6894645,
+    "place_id": "ChIJWZp92nj3aTkRf3VupU6dpds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWZp92nj3aTkRf3VupU6dpds",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:35:11"
+  }
+]

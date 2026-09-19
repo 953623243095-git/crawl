@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A.S.Marketing",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "307026",
+    "phone_number": "+91 99833 10525",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Jeen Bhawani Complex, Subhash Market, Abu Road, Rajasthan 307026",
+    "area": "Subhash Market",
+    "latitude": 24.4813045,
+    "longitude": 72.78319669999999,
+    "place_id": "ChIJ56EdurApXTkRQ1rsTORf2Pw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ56EdurApXTkRQ1rsTORf2Pw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:57:21"
+  },
+  {
+    "business_name": "Pixel Web World",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "307026",
+    "phone_number": "+91 98875 51096",
+    "website": "http://pixelwebworld.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "opp. Govt School, Santpur, Abu Road, Rajasthan 307026",
+    "area": "Parsi Chal",
+    "latitude": 24.4810108,
+    "longitude": 72.7815222,
+    "place_id": "ChIJ9WKnQr0oXTkRO-PSzAMUa9E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9WKnQr0oXTkRO-PSzAMUa9E",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:57:21"
+  }
+]

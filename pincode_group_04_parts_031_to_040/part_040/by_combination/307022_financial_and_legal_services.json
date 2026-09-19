@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CA Vardhman Associates",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant, Accountant, Law firm, Tax attorney, Tax consultant",
+    "pincode": "307022",
+    "phone_number": "+91 99288 57684",
+    "website": "http://www.vardhmanassociates.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Plot No. F-27B, New Sanganer Rd, 6D Engineers Colony, Manyawas, Scheme, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "6D Engineers Colony, Manyawas, Scheme, Mansarovar",
+    "latitude": 26.8695749,
+    "longitude": 75.7490663,
+    "place_id": "ChIJbZ-JInW1bTkRj7WUk0DeHwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbZ-JInW1bTkRj7WUk0DeHwo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:49:37"
+  },
+  {
+    "business_name": "Raotax Service Private Limited Head Office",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Tax preparation service",
+    "all_categories": "Tax preparation service",
+    "pincode": "307022",
+    "phone_number": "+91 95718 41155",
+    "website": "http://www.raotax.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "B Wing, RMD College, 102, Prestige Point, Service Rd, Warje, Pune, Maharashtra 411058",
+    "area": "AtulNagar Phase I, Atul Nagar, Warje",
+    "latitude": 18.489116,
+    "longitude": 73.7918756,
+    "place_id": "ChIJPQtcZwC_wjsRuc6-7dpVw0c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPQtcZwC_wjsRuc6-7dpVw0c",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:49:37"
+  }
+]

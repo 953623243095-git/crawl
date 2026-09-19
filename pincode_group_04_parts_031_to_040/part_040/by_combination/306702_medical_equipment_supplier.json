@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivay medical and general store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "306702",
+    "phone_number": "+91 94621 48548",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ranakpur Rd, sutharon ka was, Vishwakarma Colony, Sadri, Rajasthan 306705",
+    "area": "sutharon ka was, Vishwakarma Colony",
+    "latitude": 25.180954099999997,
+    "longitude": 73.4518774,
+    "place_id": "ChIJkfPcExOfQjkRs7QL1NoF3Po",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkfPcExOfQjkRs7QL1NoF3Po",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:24:34"
+  },
+  {
+    "business_name": "Krishna medical store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "306702",
+    "phone_number": "+91 70733 62990",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "X5V9+J8F, Chosla, Rajasthan 341509",
+    "area": "306702",
+    "latitude": 26.9940648,
+    "longitude": 75.1682847,
+    "place_id": "ChIJpRinZQBlbDkRuJhYGOYI9KA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpRinZQBlbDkRuJhYGOYI9KA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:24:36"
+  }
+]

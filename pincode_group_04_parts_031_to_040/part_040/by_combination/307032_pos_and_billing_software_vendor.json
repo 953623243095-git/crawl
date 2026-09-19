@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RetailSoft Technologies Pvt Ltd",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "307032",
+    "phone_number": "+91 90040 34444",
+    "website": "http://www.retailsoft.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Solitaire Business Hub 302, Vishnu Dev Nagar, Kaspate Wasti, Wakad, Maharashtra 411057",
+    "area": "Kaspate Wasti, Wakad",
+    "latitude": 18.596201,
+    "longitude": 73.769548,
+    "place_id": "ChIJVVVpETnB5zsR0-RgeGFUH74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVpETnB5zsR0-RgeGFUH74",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:08:09"
+  },
+  {
+    "business_name": "RX Square",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "307032",
+    "phone_number": "+91 94458 44624",
+    "website": "https://rxsquare.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "2nd floor, 37, Pycrofts Rd, Narayana Krishnaraja Puram, Triplicane, Chennai, Tamil Nadu 600005",
+    "area": "Narayana Krishnaraja Puram, Triplicane",
+    "latitude": 13.058641,
+    "longitude": 80.27546219999999,
+    "place_id": "ChIJr5-bdkNnUjoRsCGi079fdLw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr5-bdkNnUjoRsCGi079fdLw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:08:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bombay Restaurant & cafe",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "307001",
+    "phone_number": "+91 95794 12137",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "near mahadev skin clinic, opp. hotel airline cross, Vedhaynath Colony, Sirohi, Rajasthan 307001",
+    "area": "Vedhaynath Colony",
+    "latitude": 24.891516,
+    "longitude": 72.85369,
+    "place_id": "ChIJSXKoxC3bQjkRuTjPA3ikJLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSXKoxC3bQjkRuTjPA3ikJLk",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:44:45"
+  },
+  {
+    "business_name": "आबुराज रेस्टोरेंट",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "307001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 15,
+    "address": "VVJ9+F7P, Sirohi, Rajasthan 307001",
+    "area": "307001",
+    "latitude": 24.881214399999998,
+    "longitude": 72.8682108,
+    "place_id": "ChIJQRyUkCbbQjkReqP1Z0RVWb8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQRyUkCbbQjkReqP1Z0RVWb8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:44:45"
+  }
+]

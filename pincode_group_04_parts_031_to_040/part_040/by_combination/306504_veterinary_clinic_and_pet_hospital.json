@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VetMax dog and cat clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Dog day care center, Animal hospital",
+    "pincode": "306504",
+    "phone_number": "+91 96259 29994",
+    "website": "https://www.vetmaxpetclinic.com/",
+    "rating": 4.9,
+    "reviews_count": 34,
+    "address": "Banmata mandir, ke samne Pindwara, Devnagar Colony, Pindwara, Rajasthan 307022",
+    "area": "Devnagar Colony",
+    "latitude": 24.7928957,
+    "longitude": 73.0503981,
+    "place_id": "ChIJ1_uZ0x3JQjkRkexyOivxii8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1_uZ0x3JQjkRkexyOivxii8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:15:19"
+  },
+  {
+    "business_name": "PET VET CLINIC MOONAK",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "306504",
+    "phone_number": "+91 98126 94202",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "PET VET CLINIC, near stadium, near hungry point, Moonak, Punjab 148033",
+    "area": "306504",
+    "latitude": 29.824792199999997,
+    "longitude": 75.8930998,
+    "place_id": "ChIJOX4_PDejETkRsXnJRqU0msI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOX4_PDejETkRsXnJRqU0msI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:15:20"
+  }
+]

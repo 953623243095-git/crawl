@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sky Tech Roofing Company",
+    "search_category": "Roofing Sheet Supplier",
+    "primary_category": "Roofing contractor",
+    "all_categories": "Roofing contractor, Roofing supply store",
+    "pincode": "306901",
+    "phone_number": "+91 94868 74947",
+    "website": "https://www.skytechroofings.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "SF NO:10/3A,3B,Site, no:1, Ramakrishna Nagar Main Rd, VSK Nagar, Pannimadai, Kurudampalayam, Tamil Nadu 641017",
+    "area": "VSK Nagar",
+    "latitude": 11.0854982,
+    "longitude": 76.92392699999999,
+    "place_id": "ChIJN8sEE471qDsR26j8xjaQjew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN8sEE471qDsR26j8xjaQjew",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:39:54"
+  },
+  {
+    "business_name": "Saraf Real Infra Pvt Ltd",
+    "search_category": "Roofing Sheet Supplier",
+    "primary_category": "Steel industry",
+    "all_categories": "Steel industry",
+    "pincode": "306901",
+    "phone_number": "N/A",
+    "website": "https://sarafrealinfra.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "S Ram Ayodhya Rd, Karmalichak, Deedarganj, Patna, Dhaulpura, Bihar 800009",
+    "area": "Karmalichak, Deedarganj",
+    "latitude": 25.567687499999998,
+    "longitude": 85.2336875,
+    "place_id": "ChIJ0Wbx1WOg8jkRypaFEuQb1zs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Wbx1WOg8jkRypaFEuQb1zs",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:39:54"
+  }
+]

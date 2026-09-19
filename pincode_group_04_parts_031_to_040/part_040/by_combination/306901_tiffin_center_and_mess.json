@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucky Caterers",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Biryani restaurant",
+    "pincode": "306901",
+    "phone_number": "+91 99204 56113",
+    "website": "https://luckycaterers.lokal.in/",
+    "rating": 4.2,
+    "reviews_count": 52,
+    "address": "Shop no. 5, Mayuresh Apartment, Sector 9, Airoli, Navi Mumbai, Maharashtra 400708",
+    "area": "Sector 9, Airoli",
+    "latitude": 19.1438496,
+    "longitude": 72.9927242,
+    "place_id": "ChIJxfYJV5O55zsRDWb7RfQ3L8Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxfYJV5O55zsRDWb7RfQ3L8Y",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:39:11"
+  },
+  {
+    "business_name": "Best Tiffen Service Mohali (Meal Canteen)",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider, Food court",
+    "pincode": "306901",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "D 267, Phase 8B, Industrial Area, Sector 74, Sahibzada Ajit Singh Nagar, Punjab 140307",
+    "area": "Phase 8B, Industrial Area, Sector 74",
+    "latitude": 30.707297099999998,
+    "longitude": 76.6849184,
+    "place_id": "ChIJUbVyU9bvDzkRBp9TtTLIse4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUbVyU9bvDzkRBp9TtTLIse4",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:39:11"
+  }
+]

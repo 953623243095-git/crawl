@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Modern Enterprises",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "306305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mari Mustafa, Punjab 142049",
+    "area": "306305",
+    "latitude": 30.593941299999997,
+    "longitude": 75.0716521,
+    "place_id": "ChIJ-8-WifOvEDkRVrplYWioW34",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-8-WifOvEDkRVrplYWioW34",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:57:00"
+  },
+  {
+    "business_name": "Prince Stationers",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "306305",
+    "phone_number": "+91 98884 76744",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Shop 37 Makhanmajra, Road, Daria, Chandigarh, 160101",
+    "area": "Daria",
+    "latitude": 30.697150299999997,
+    "longitude": 76.8151312,
+    "place_id": "ChIJCTWeb7fsDzkRDAVZ1SYAccQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCTWeb7fsDzkRDAVZ1SYAccQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:57:00"
+  }
+]

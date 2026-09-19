@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Js Dialysis centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "306501",
+    "phone_number": "+91 89501 28451",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "above global superspeciality hospital, Baddi, Himachal Pradesh 173205",
+    "area": "306501",
+    "latitude": 30.925402799999997,
+    "longitude": 76.80209459999999,
+    "place_id": "ChIJS85u8ln1DzkR4_0iPjSFEos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS85u8ln1DzkR4_0iPjSFEos",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:09:38"
+  },
+  {
+    "business_name": "LIFE PLUS DIALYSIS CENTER",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "306501",
+    "phone_number": "+91 78076 45989",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "V.P.O, Bhangrotu, Himachal Pradesh 175021",
+    "area": "306501",
+    "latitude": 31.6142683,
+    "longitude": 76.9256257,
+    "place_id": "ChIJ8352C-sdBTkRa0k9_ypJSRI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8352C-sdBTkRa0k9_ypJSRI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:09:39"
+  }
+]

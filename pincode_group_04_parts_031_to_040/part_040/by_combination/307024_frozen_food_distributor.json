@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shagun Raj Frozen Enterprises",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "307024",
+    "phone_number": "+91 98160 10441",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Khanyara Rd, Upmuhal, Dharamshala, Himachal Pradesh 176215",
+    "area": "Upmuhal",
+    "latitude": 32.221187,
+    "longitude": 76.32571659999999,
+    "place_id": "ChIJjZPNVABRGzkRnrWoRZOAfPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjZPNVABRGzkRnrWoRZOAfPc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:51:54"
+  },
+  {
+    "business_name": "Shan'z Delight Frozen Food Products",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food manufacturer",
+    "all_categories": "Frozen food manufacturer",
+    "pincode": "307024",
+    "phone_number": "0301 4416016",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M4HC+5R6, Lalazar Colony Street No.2, Lalazar Colony Sahiwal, Pakistan",
+    "area": "Lalazar Colony",
+    "latitude": 30.6775281,
+    "longitude": 73.12124589999999,
+    "place_id": "ChIJeWkiuRK3IjkR2LggX4er59w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeWkiuRK3IjkR2LggX4er59w",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:51:55"
+  }
+]

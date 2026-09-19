@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tapu Genral Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "307510",
+    "phone_number": "+91 75684 11455",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GRMM+RVG Kumhar Vas, 1, Hanuman Mandir Rd, Kivarali, Sirohi, Rajasthan 307026",
+    "area": "307510",
+    "latitude": 24.534555599999997,
+    "longitude": 72.8346949,
+    "place_id": "ChIJrZm9ZaIvXTkRRfvcGdW-fMU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZm9ZaIvXTkRRfvcGdW-fMU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:12:30"
+  },
+  {
+    "business_name": "Prajapati General Store",
+    "search_category": "General Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "307510",
+    "phone_number": "+91 90012 15903",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": 4,
+    "address": "HRQW+HQM, Achpura, Aspur, Rajasthan 307510",
+    "area": "307510",
+    "latitude": 24.5889711,
+    "longitude": 72.8469367,
+    "place_id": "ChIJtYjfHqgtXTkRl9b69EA5t-k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtYjfHqgtXTkRl9b69EA5t-k",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:12:30"
+  }
+]

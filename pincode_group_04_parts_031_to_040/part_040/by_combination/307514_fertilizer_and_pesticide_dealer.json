@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Punjab Pesticides",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store",
+    "pincode": "307514",
+    "phone_number": "+91 99273 66588",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 5,
+    "address": "road, Pilibhit, Majhola, Uttar Pradesh 262302",
+    "area": "307514",
+    "latitude": 28.8146556,
+    "longitude": 79.8861173,
+    "place_id": "ChIJw-IknaRFoDkR1O49mnD-gRg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw-IknaRFoDkR1O49mnD-gRg",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:21:41"
+  },
+  {
+    "business_name": "Shri Krishna Pesticides",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Pest control service",
+    "all_categories": "Pest control service",
+    "pincode": "307514",
+    "phone_number": "+91 141 246 0552",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "A-335 (E1, Rd Number 17, Vishwakarma Industrial Area, Jaipur, Rajasthan 302017",
+    "area": "Vishwakarma Industrial Area",
+    "latitude": 26.9973526,
+    "longitude": 75.7962946,
+    "place_id": "ChIJVVVVVRKybTkRaQI2bZEY9ro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVRKybTkRaQI2bZEY9ro",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:21:42"
+  }
+]

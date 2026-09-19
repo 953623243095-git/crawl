@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ROYAL MAKEOVER SALON",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "306912",
+    "phone_number": "+91 95095 36764",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Chakki Gali, Takhatgarh, Rajasthan 306901",
+    "area": "306912",
+    "latitude": 25.3232945,
+    "longitude": 73.00118619999999,
+    "place_id": "ChIJ8cTZXAL1QjkRS663bAt_VUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8cTZXAL1QjkRS663bAt_VUE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:43:35"
+  },
+  {
+    "business_name": "Victoria Gents Parlour",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "306912",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 4,
+    "address": "opp. New Bus stendTakhatgarh, Takhatgarh, Rajasthan 306901",
+    "area": "306912",
+    "latitude": 25.315584599999998,
+    "longitude": 73.00221619999999,
+    "place_id": "ChIJf5Y4K_rzQjkRfCvbyMg8cWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf5Y4K_rzQjkRfCvbyMg8cWc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:43:38"
+  }
+]

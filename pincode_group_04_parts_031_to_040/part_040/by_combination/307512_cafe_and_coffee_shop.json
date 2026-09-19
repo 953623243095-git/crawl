@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cave'sCafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "307512",
+    "phone_number": "+91 77376 71239",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "11 k, oppo nagar palika, Sukhadia Nagar, Nathdwara, Rajasthan 313301",
+    "area": "Sukhadia Nagar",
+    "latitude": 24.9272438,
+    "longitude": 73.8280624,
+    "place_id": "ChIJ63eL0vUNaDkRORcsGrwe8Eo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ63eL0vUNaDkRORcsGrwe8Eo",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:16:29"
+  },
+  {
+    "business_name": "Cafe Coffee Day",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe, Dessert restaurant, Sandwich shop",
+    "pincode": "307512",
+    "phone_number": "N/A",
+    "website": "https://www.cafecoffeeday.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "HPR6+C43, inside Hotel Maharaja International, Sani Gaon, Aburaj, Rajasthan 307501",
+    "area": "Sani Gaon",
+    "latitude": 24.5910179,
+    "longitude": 72.71030879999999,
+    "place_id": "ChIJQ4LupHgqXTkRWQ-RCYp1oWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ4LupHgqXTkRWQ-RCYp1oWA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:16:30"
+  }
+]

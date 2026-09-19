@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Toys town",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Toy store",
+    "all_categories": "Toy store",
+    "pincode": "307501",
+    "phone_number": "+91 94609 77623",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Nakki Lake Rd, opp. Duleshwar mandir, Sani Gaon, Aburaj, Rajasthan 307501",
+    "area": "Sani Gaon",
+    "latitude": 24.5924445,
+    "longitude": 72.7074408,
+    "place_id": "ChIJMeqJcJ3VXDkR8IQHZ6kFtwA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMeqJcJ3VXDkR8IQHZ6kFtwA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:10:50"
+  },
+  {
+    "business_name": "Manish Toys Shop",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "307501",
+    "phone_number": "+91 82908 81769",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nepali Market, Aburaj, Rajasthan 307501",
+    "area": "307501",
+    "latitude": 24.589717699999998,
+    "longitude": 72.7082333,
+    "place_id": "ChIJCzcdyi7VXDkRq6ARqpbFSBI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCzcdyi7VXDkRq6ARqpbFSBI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:10:52"
+  }
+]

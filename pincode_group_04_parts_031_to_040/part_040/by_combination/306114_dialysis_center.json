@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SD Dialysis centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "306114",
+    "phone_number": "+91 97567 60086",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 6,
+    "address": "867, Bhopa Rd, Patel Nagar, New Mandi, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Patel Nagar, New Mandi",
+    "latitude": 29.4722507,
+    "longitude": 77.71730529999999,
+    "place_id": "ChIJG3tg1BQbDDkRq8IJmlZD9zU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG3tg1BQbDDkRq8IJmlZD9zU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:38:59"
+  },
+  {
+    "business_name": "DCDC Kidney Care - DH Muzzaffarnagar",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "306114",
+    "phone_number": "+91 96347 20912",
+    "website": "https://dcdc.co.in/",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Dialysis Unit, Zila hospital, Laddhawala, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Laddhawala",
+    "latitude": 29.4788218,
+    "longitude": 77.6966843,
+    "place_id": "ChIJl9l4XYcbDDkRziuZvT2oP8Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl9l4XYcbDDkRziuZvT2oP8Y",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:38:59"
+  }
+]

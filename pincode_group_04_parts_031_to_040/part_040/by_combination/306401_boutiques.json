@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Sai Powai And Fancy Store",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "306401",
+    "phone_number": "+91 96809 04240",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rajendra Nagar, Pali, Rajasthan 306401",
+    "area": "Rajendra Nagar",
+    "latitude": 25.7996111,
+    "longitude": 73.336052,
+    "place_id": "ChIJJ2qJv8VzQjkR4KrKsq_UWOc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ2qJv8VzQjkR4KrKsq_UWOc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:03:44"
+  },
+  {
+    "business_name": "BSNL Store",
+    "search_category": "Boutiques",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "306401",
+    "phone_number": "+91 94614 99800",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "shekhawat nagar, 0, shekhawat nagar,punayta road, Pali, Rajasthan 306401",
+    "area": "306401",
+    "latitude": 25.780327,
+    "longitude": 73.28173799999999,
+    "place_id": "ChIJSTiyvPtzQjkRZgpiBFTgNzU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSTiyvPtzQjkRZgpiBFTgNzU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:03:46"
+  }
+]

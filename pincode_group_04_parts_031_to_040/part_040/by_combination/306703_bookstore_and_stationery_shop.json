@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Verma books and stationery shop",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "306703",
+    "phone_number": "+91 95016 89102",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No-2, vill Singha, Devi Nagar Mandir, Phase 3B-2, Sector 60, Sahibzada Ajit Singh Nagar, Punjab 160059",
+    "area": "Phase 3B-2, Sector 60",
+    "latitude": 30.707137,
+    "longitude": 76.7174871,
+    "place_id": "ChIJk-niYMzvDzkRLr6K4hYRK0A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk-niYMzvDzkRLr6K4hYRK0A",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:27:12"
+  },
+  {
+    "business_name": "APNA BOOK HOUSE",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Sporting goods store, Stationery wholesaler",
+    "pincode": "306703",
+    "phone_number": "+91 89552 11264",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "inside Roadways Bus Stand, Simalwara, Rajasthan 314403",
+    "area": "306703",
+    "latitude": 23.565309,
+    "longitude": 73.7407633,
+    "place_id": "ChIJXcEnEZpDZzkRw9hZGcJo05o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXcEnEZpDZzkRw9hZGcJo05o",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:27:14"
+  }
+]

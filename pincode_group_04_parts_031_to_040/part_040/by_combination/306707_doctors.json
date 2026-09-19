@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramchandra Ji Manroop Ji Jain Government Hospital",
+    "search_category": "Doctors",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "306707",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Bali, Pali, SH-62, Pali Road, Sadri, Sadri, Rajasthan 306706",
+    "area": "306707",
+    "latitude": 25.0607465,
+    "longitude": 73.2537649,
+    "place_id": "ChIJ33iPYkK9QjkReV2YjaHqMVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ33iPYkK9QjkReV2YjaHqMVY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:33:53"
+  },
+  {
+    "business_name": "Garg Dinesh",
+    "search_category": "Doctors",
+    "primary_category": "Family practice physician",
+    "all_categories": "Family practice physician",
+    "pincode": "306707",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3742+JRP, Hiragro vah, meeno ka vas, Bijapur, Rajasthan 306707",
+    "area": "306707",
+    "latitude": 25.0565988,
+    "longitude": 73.2520655,
+    "place_id": "ChIJVxUnbAC9QjkR9WQTxtAp51A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVxUnbAC9QjkR9WQTxtAp51A",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:33:54"
+  }
+]

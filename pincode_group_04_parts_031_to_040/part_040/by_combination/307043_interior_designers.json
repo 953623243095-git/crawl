@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adorn Interiors",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "307043",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "84/25, Madhyam Marg, shankracharya marg, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "shankracharya marg, Mansarovar",
+    "latitude": 26.867693,
+    "longitude": 75.75713499999999,
+    "place_id": "ChIJBfEjPRa1bTkRxhzASDoRzG8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBfEjPRa1bTkRxhzASDoRzG8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:09:35"
+  },
+  {
+    "business_name": "InterioKeys",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "307043",
+    "phone_number": "+91 78919 99222",
+    "website": "https://interiokeys.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1st floor, 14, Kings Rd, Ajmera Garden, Nirman Nagar, Brijlalpura, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302019",
+    "area": "Ajmera Garden, Nirman Nagar, Brijlalpura",
+    "latitude": 26.8924161,
+    "longitude": 75.7510781,
+    "place_id": "ChIJK72foMbYBAMRInEJ93m7aMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK72foMbYBAMRInEJ93m7aMI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:09:35"
+  }
+]

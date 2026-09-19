@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VIJAYA INTERIOR",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "306702",
+    "phone_number": "+91 72299 65036",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5CPX+HPF, Main Bazar Road, next to Jain Niyoti Nohra, Chand Nagar, Sadri, Rajasthan 306705",
+    "area": "Chand Nagar",
+    "latitude": 25.186432399999998,
+    "longitude": 73.44930269999999,
+    "place_id": "ChIJhSiuREefQjkRoiBhGqvwrm0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhSiuREefQjkRoiBhGqvwrm0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:24:52"
+  },
+  {
+    "business_name": "MJ CONSTRUCTION & DESIGNER",
+    "search_category": "Interior Designers",
+    "primary_category": "Architectural designer",
+    "all_categories": "Architectural designer",
+    "pincode": "306702",
+    "phone_number": "N/A",
+    "website": "https://deep_solanki.artstation.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "near Bhahman swarnkar samaj, RJ SH 16, Shri Mahaveer Nagar, Sadri, Rajasthan 306705",
+    "area": "New Abadi, Shri Mahaveer Nagar",
+    "latitude": 25.1862195,
+    "longitude": 73.4471542,
+    "place_id": "ChIJgxboNXufQjkRPitKmEWuCHM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgxboNXufQjkRPitKmEWuCHM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:24:55"
+  }
+]

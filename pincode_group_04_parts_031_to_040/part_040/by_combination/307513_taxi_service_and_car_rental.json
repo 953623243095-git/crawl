@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tanot Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "307513",
+    "phone_number": "+91 94146 17051",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 24,
+    "address": "Shishu, Rajasthan 332403",
+    "area": "307513",
+    "latitude": 27.530437799999998,
+    "longitude": 75.3165858,
+    "place_id": "ChIJebyeAQC_bDkRHJCy_SEvwy8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJebyeAQC_bDkRHJCy_SEvwy8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:18:47"
+  },
+  {
+    "business_name": "Taxi Union",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "307513",
+    "phone_number": "+91 94619 75528",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Q2RQ+PF6, Sirohi Road, Pindwara, Rajasthan 307022",
+    "area": "307513",
+    "latitude": 24.7917961,
+    "longitude": 73.0386518,
+    "place_id": "ChIJG8eWHtzJQjkRyl6HKmpvVGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG8eWHtzJQjkRyl6HKmpvVGY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:18:48"
+  }
+]

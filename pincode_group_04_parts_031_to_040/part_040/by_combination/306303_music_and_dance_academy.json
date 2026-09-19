@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jungle Entertainments",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school, Art studio, Event management company, Fitness center, Music school",
+    "pincode": "306303",
+    "phone_number": "+91 99931 25557",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "H-402, Rishabh City Prime, Potiya Rd, Chowk, Durg, Chhattisgarh 491001",
+    "area": "Chowk",
+    "latitude": 21.1702938,
+    "longitude": 81.282341,
+    "place_id": "ChIJCflpPaw8KToRaSCjuBsABMU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCflpPaw8KToRaSCjuBsABMU",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:53:09"
+  },
+  {
+    "business_name": "bd4u film academy",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Film Production Company",
+    "all_categories": "Film Production Company, Art school, Drama school, Movie studio",
+    "pincode": "306303",
+    "phone_number": "+91 96100 02621",
+    "website": "http://www.youtube.com/@bd4u",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Piprali Rd, New Indra Colony, Dhobiyon Ka Mohalla, Sikar, Rajasthan 332001",
+    "area": "New Indra Colony, Dhobiyon Ka Mohalla",
+    "latitude": 27.624166,
+    "longitude": 75.167797,
+    "place_id": "ChIJb4X3ayW7bDkRJbcmcZRqfx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb4X3ayW7bDkRJbcmcZRqfx8",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:53:11"
+  }
+]

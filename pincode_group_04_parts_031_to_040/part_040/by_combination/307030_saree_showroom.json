@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neelghar",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Saree Shop",
+    "pincode": "307030",
+    "phone_number": "+91 91163 03646",
+    "website": "https://neelghar.com/",
+    "rating": 4.8,
+    "reviews_count": 754,
+    "address": "Gate no 1, purohit ji ka katla, Shop no 5 Peer mohd. sons, Jaipur, Rajasthan 302003",
+    "area": "Tripolia Bazar, Biseswarji",
+    "latitude": 26.9221161,
+    "longitude": 75.8261474,
+    "place_id": "ChIJRZ7Zaz2xbTkRseYCPv49oWI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRZ7Zaz2xbTkRseYCPv49oWI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:03:08"
+  },
+  {
+    "business_name": "Shree Sanwariya Sarees",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "307030",
+    "phone_number": "+91 97692 55238",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Durga Oil Mill, Post Office Rd, Sumerpur, Rajasthan 306902",
+    "area": "307030",
+    "latitude": 25.151514799999998,
+    "longitude": 73.0843555,
+    "place_id": "ChIJq95C-zTtQjkRoMMQeZCWxug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq95C-zTtQjkRoMMQeZCWxug",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:03:09"
+  }
+]

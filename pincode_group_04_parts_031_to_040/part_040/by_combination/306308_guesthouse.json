@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nuvoco Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "306308",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 21,
+    "address": "8RHV+6W7, Nimbol, Rajasthan 306308",
+    "area": "306308",
+    "latitude": 26.328030899999998,
+    "longitude": 73.844807,
+    "place_id": "ChIJJX6fIwAhajkRoAq3buKNAso",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJX6fIwAhajkRoAq3buKNAso",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:02:32"
+  },
+  {
+    "business_name": "Jai Kesri Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "306308",
+    "phone_number": "+91 94607 76951",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "NH 112, Bilara Rd, Pichiyak, Rajasthan 342602",
+    "area": "306308",
+    "latitude": 26.2133413,
+    "longitude": 73.6862554,
+    "place_id": "ChIJz3ybrjf3aTkR2vdkqgDLryE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz3ybrjf3aTkR2vdkqgDLryE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:02:35"
+  }
+]

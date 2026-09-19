@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Water suppliers",
+    "search_category": "Resort",
+    "primary_category": "Bottled water supplier",
+    "all_categories": "Bottled water supplier, Lodging",
+    "pincode": "307030",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "behind hotel geetco, Bhawrani, Jalore, Jalor, Rajasthan 343001",
+    "area": "Bhawrani",
+    "latitude": 25.3533665,
+    "longitude": 72.61738919999999,
+    "place_id": "ChIJvwxoy3QBQzkRMQ0d8khyg6Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvwxoy3QBQzkRMQ0d8khyg6Q",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:04:04"
+  },
+  {
+    "business_name": "Anandam Resorts",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "307030",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 12,
+    "address": "Anandam resorts Ahore 307029 Distt, Rajasthan 307029",
+    "area": "307030",
+    "latitude": 25.359001199999998,
+    "longitude": 72.7889185,
+    "place_id": "ChIJ_1-60g__QjkR_OoukHQK16Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_1-60g__QjkR_OoukHQK16Q",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:04:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mora Fish market",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "306119",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 269,
+    "address": "WW5J+44X, Mora Jetty Rd, Mora Koliwada, Uran, Boripakhadi, Maharashtra 400704",
+    "area": "Mora Koliwada, Uran",
+    "latitude": 18.9078597,
+    "longitude": 72.9303655,
+    "place_id": "ChIJD0_1Rvba5zsRsvb_Iw4c7qQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD0_1Rvba5zsRsvb_Iw4c7qQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:44:15"
+  },
+  {
+    "business_name": "Mahim Fish Market",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "306119",
+    "phone_number": "N/A",
+    "website": "http://machranga.co.in/",
+    "rating": 4,
+    "reviews_count": 654,
+    "address": "2, Raheja Hospital Marg, Mahim, Mumbai, Maharashtra 400016",
+    "area": "Mahim",
+    "latitude": 19.0450527,
+    "longitude": 72.8407915,
+    "place_id": "ChIJwS4pxC_J5zsRZuVPQM58w7E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwS4pxC_J5zsRZuVPQM58w7E",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:44:15"
+  }
+]

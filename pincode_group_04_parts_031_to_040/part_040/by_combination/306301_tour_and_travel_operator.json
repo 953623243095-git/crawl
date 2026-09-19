@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajasthan Best Tours",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator, Tour agency, Tourist attraction, Tourist information center, Travel agency",
+    "pincode": "306301",
+    "phone_number": "+91 83023 11776",
+    "website": "https://www.rajasthanbest.com/",
+    "rating": 5,
+    "reviews_count": 173,
+    "address": "SINGH JI HOUSE, Jhilmil, Rajasthan 332026",
+    "area": "306301",
+    "latitude": 27.5903375,
+    "longitude": 74.7706942,
+    "place_id": "ChIJGydGe8TvLEQRYIL7I1_YKLw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGydGe8TvLEQRYIL7I1_YKLw",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:48:42"
+  },
+  {
+    "business_name": "Suthar Tour And Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator",
+    "pincode": "306301",
+    "phone_number": "+91 99505 21895",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Unnamed Road, 3 Dlp, 3 Mmk, Rajasthan 335063",
+    "area": "306301",
+    "latitude": 29.749150099999998,
+    "longitude": 74.39429779999999,
+    "place_id": "ChIJ7ajoOLvxFjkR0qgAo3rcHZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7ajoOLvxFjkR0qgAo3rcHZE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:48:42"
+  }
+]

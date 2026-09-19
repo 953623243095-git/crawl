@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amit’s Yogshala",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "306601",
+    "phone_number": "+91 98031 99800",
+    "website": "http://www.yogshalabyamit.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GOLD HOMES Square, Sco 9,1st floor, adj. Barista The Gold Square sector-116, Sector 116, Sahibzada Ajit Singh Nagar, Punjab 140307",
+    "area": "Sector 116",
+    "latitude": 30.718276999999997,
+    "longitude": 76.6546868,
+    "place_id": "ChIJe1o_Ww7vDzkRuDRyqhEq9dI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe1o_Ww7vDzkRuDRyqhEq9dI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:17:13"
+  },
+  {
+    "business_name": "Olivera Power Yoga Classes",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio, Yoga instructor",
+    "pincode": "306601",
+    "phone_number": "+91 98922 96080",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Om Shubham Apts, 201-202, Mira Rd, opposite Al-shams Jama Masjid, above Super Dairy, Naya Nagar, Mira Road East, Mira Bhayandar, Maharashtra 401107",
+    "area": "Naya Nagar, Mira Road East",
+    "latitude": 19.2843984,
+    "longitude": 72.8577747,
+    "place_id": "ChIJk3EuVEmw5zsRegr_tmoJctI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk3EuVEmw5zsRegr_tmoJctI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:17:13"
+  }
+]

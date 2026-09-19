@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Salasar Jewellers",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Watch store",
+    "pincode": "306709",
+    "phone_number": "+91 99507 70652",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Market, Pali, Kalu (Anandpur), Rajasthan 306301",
+    "area": "306709",
+    "latitude": 26.363557699999998,
+    "longitude": 73.98884679999999,
+    "place_id": "ChIJ6eeD1dMlajkRTUvg9qA7AwE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6eeD1dMlajkRTUvg9qA7AwE",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:37:35"
+  },
+  {
+    "business_name": "MARWAR JEWELLERS",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "306709",
+    "phone_number": "+91 88900 42255",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 10,
+    "address": "Soni Colony, Rabariyawas, Rajasthan 306709",
+    "area": "Soni Colony",
+    "latitude": 26.3259421,
+    "longitude": 74.107935,
+    "place_id": "ChIJo0dH9XYpajkRh5jF9iC4p1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo0dH9XYpajkRh5jF9iC4p1A",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:37:35"
+  }
+]

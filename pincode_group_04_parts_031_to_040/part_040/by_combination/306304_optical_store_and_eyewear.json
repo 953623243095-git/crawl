@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vision Eye Optical",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "306304",
+    "phone_number": "+91 95491 24829",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "RK Hospital Garden, R K Rd, RIICO Area, Rajsamand, Rajasthan 313342",
+    "area": "RIICO Area",
+    "latitude": 25.0248584,
+    "longitude": 73.8843548,
+    "place_id": "ChIJd4Qgo_ZsaDkRe8Xxe0d6rS0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd4Qgo_ZsaDkRe8Xxe0d6rS0",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:54:09"
+  },
+  {
+    "business_name": "Ram Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optical Products Manufacturer",
+    "all_categories": "Optical Products Manufacturer",
+    "pincode": "306304",
+    "phone_number": "+91 99837 37798",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 16,
+    "address": "Gurudwara Singh Sabha Rd, Raisingh Nagar, Rajasthan 335051",
+    "area": "306304",
+    "latitude": 29.535608999999997,
+    "longitude": 73.447197,
+    "place_id": "ChIJs6v1tWiKPTkR_EucY4GNAJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs6v1tWiKPTkR_EucY4GNAJI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:54:11"
+  }
+]

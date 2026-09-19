@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Stone fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "306104",
+    "phone_number": "+91 78508 04005",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "WMGC+2VQ, Sojat, Rajasthan 306104",
+    "area": "306104",
+    "latitude": 25.9251015,
+    "longitude": 73.6722358,
+    "place_id": "ChIJCc8ZIADpaTkRXS2FdOzk0dI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCc8ZIADpaTkRXS2FdOzk0dI",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:35:20"
+  },
+  {
+    "business_name": "Strength Nation Fitness Club Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "306104",
+    "phone_number": "+91 73401 81213",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "297, Block-B, extension scheme, opposite to women Police Station, near Chitrakoot Nagar, Shyam Nagar, Bhuwana, Raghunathpura, Roopnagar, Rajasthan 313001",
+    "area": "Shyam Nagar, Bhuwana",
+    "latitude": 24.6153269,
+    "longitude": 73.7291039,
+    "place_id": "ChIJkYwc4rPlZzkRdZtl5BhdlhQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkYwc4rPlZzkRdZtl5BhdlhQ",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 06:35:22"
+  }
+]

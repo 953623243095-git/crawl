@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinayak auto garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "306603",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "693Q+CJJ, MDR105, Mundara, Rajasthan 306705",
+    "area": "306603",
+    "latitude": 25.2037089,
+    "longitude": 73.3889569,
+    "place_id": "ChIJk5JBSQCdQjkRnOMeRD1bO7w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk5JBSQCdQjkRnOMeRD1bO7w",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:20:54"
+  },
+  {
+    "business_name": "Chamunda Auto Parts",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "306603",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Desuri, Road, Sadri, Rajasthan 306705",
+    "area": "306603",
+    "latitude": 25.193671499999997,
+    "longitude": 73.4603609,
+    "place_id": "ChIJZT1KEIydQjkR7UD-m5V8KpY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZT1KEIydQjkR7UD-m5V8KpY",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:20:54"
+  }
+]

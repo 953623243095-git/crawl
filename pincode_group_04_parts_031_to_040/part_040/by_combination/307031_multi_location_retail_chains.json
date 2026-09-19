@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mega Mart Ventures India Pvt Ltd",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Hypermarket",
+    "all_categories": "Hypermarket, FMCG Goods Wholesaler, Food and beverage consultant, Food products supplier",
+    "pincode": "307031",
+    "phone_number": "+91 88269 93682",
+    "website": "https://www.megamartventures.com/",
+    "rating": 4.2,
+    "reviews_count": 56,
+    "address": "2nd floor, Unit No-219B, Mata Mohalla, Pocket F, Okhla Phase I, Okhla Industrial Estate, New Delhi, Delhi 110020",
+    "area": "Mata Mohalla, Pocket F, Okhla Phase I, Okhla Industrial Estate",
+    "latitude": 28.5190773,
+    "longitude": 77.28341139999999,
+    "place_id": "ChIJAdE0W0nhDDkR9CdgjvZ-x8M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAdE0W0nhDDkR9CdgjvZ-x8M",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:06:42"
+  },
+  {
+    "business_name": "राज किराणा जनरल स्टोर",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "307031",
+    "phone_number": "+91 99299 63715",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Garudwansi, Rajasthan 303901",
+    "area": "307031",
+    "latitude": 26.5804114,
+    "longitude": 76.0331838,
+    "place_id": "ChIJYzIvoS7cbTkRu_uR5opS7ZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYzIvoS7cbTkRu_uR5opS7ZA",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 08:06:42"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jyoti Tailor Sohan Vaishnav",
+    "search_category": "Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "306601",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hanuman chowk, Bijowa, Rajasthan 306601",
+    "area": "Bijowa",
+    "latitude": 25.3560065,
+    "longitude": 73.3460459,
+    "place_id": "ChIJ2arthKSFQjkRsvn7V1O6pnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2arthKSFQjkRsvn7V1O6pnc",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:18:30"
+  },
+  {
+    "business_name": "पाली",
+    "search_category": "Shops",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "306601",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9CR6+C7, Bingarla, Nadol, Rajasthan 306115",
+    "area": "306601",
+    "latitude": 25.391111,
+    "longitude": 73.41067199999999,
+    "place_id": "ChIJYVRgHACBQjkRlhLhru0ZE1I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYVRgHACBQjkRlhLhru0ZE1I",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:18:31"
+  }
+]

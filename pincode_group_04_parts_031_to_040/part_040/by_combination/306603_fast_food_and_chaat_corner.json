@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bombay Chaat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "306603",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 11,
+    "address": "MV24+839, Kishanpura Rd, Dhakoli, Zirakpur, Daffarpur, Punjab 160104",
+    "area": "Dhakoli",
+    "latitude": 30.650796699999997,
+    "longitude": 76.85523529999999,
+    "place_id": "ChIJU7eJKsWVDzkRwtqIcv5qWIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU7eJKsWVDzkRwtqIcv5qWIM",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:20:32"
+  },
+  {
+    "business_name": "Fresh Chaat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "306603",
+    "phone_number": "+91 85448 94188",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "QQ93+28F, Dhanas Main Rd, HBC, Dhanas, Chandigarh, 160014",
+    "area": "HBC, Dhanas",
+    "latitude": 30.767568599999997,
+    "longitude": 76.75328569999999,
+    "place_id": "ChIJeRJhhgvyDzkRWMjQrNVmO7Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeRJhhgvyDzkRWMjQrNVmO7Q",
+    "part_id": "part_040",
+    "crawled_at": "2026-09-19 07:20:32"
+  }
+]
