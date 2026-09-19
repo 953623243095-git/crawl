@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ali scrap store",
+    "search_category": "Scrap Dealer and Raddi Wholesaler",
+    "primary_category": "Scrap metal dealer",
+    "all_categories": "Scrap metal dealer, Store",
+    "pincode": "251201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jansath - Muzaffarnagar Rd, Kawaal, Uttar Pradesh 251314",
+    "area": "251201",
+    "latitude": 29.3618585,
+    "longitude": 77.8312881,
+    "place_id": "ChIJTSEkf3kPDDkRlswqohKxaQU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTSEkf3kPDDkRlswqohKxaQU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:39:42"
+  },
+  {
+    "business_name": "Indian scrap house",
+    "search_category": "Scrap Dealer and Raddi Wholesaler",
+    "primary_category": "Scrap metal dealer",
+    "all_categories": "Scrap metal dealer",
+    "pincode": "251201",
+    "phone_number": "+91 98115 69951",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "E-145, E Block, Sector 7, Noida, Uttar Pradesh 201301",
+    "area": "E Block, Sector 7",
+    "latitude": 28.595885199999998,
+    "longitude": 77.3133134,
+    "place_id": "ChIJZxj-1lTlDDkRh1Y6QZzFOfQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZxj-1lTlDDkRh1Y6QZzFOfQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:39:42"
+  }
+]

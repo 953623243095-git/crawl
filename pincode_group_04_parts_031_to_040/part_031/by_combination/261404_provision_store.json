@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ankit Kumar",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "261404",
+    "phone_number": "+91 84670 67227",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ankit Sarsai, Sitapur, Jale Para, Uttar Pradesh 261001",
+    "area": "261404",
+    "latitude": 27.4817263,
+    "longitude": 80.5874128,
+    "place_id": "ChIJR8nu86vbnjkRJAT4Yg3NkdM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR8nu86vbnjkRJAT4Yg3NkdM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:49:15"
+  },
+  {
+    "business_name": "Mishra Provision Store",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery delivery service",
+    "all_categories": "Grocery delivery service",
+    "pincode": "261404",
+    "phone_number": "+91 94541 78821",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Habibpur Rd, Lachimanpur, Ahata Kaptan, Sitapur, Uttar Pradesh 261001",
+    "area": "Lachimanpur",
+    "latitude": 27.5696054,
+    "longitude": 80.66156769999999,
+    "place_id": "ChIJLfQxvR7XnjkRltKBio9sIXo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLfQxvR7XnjkRltKBio9sIXo",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:49:16"
+  }
+]

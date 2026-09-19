@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "E-Point",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Tax preparation service",
+    "all_categories": "Tax preparation service, Financial consultant, Financial planner, Investment service, Tax consultant, Tax preparation",
+    "pincode": "251202",
+    "phone_number": "+91 98153 08263",
+    "website": "https://epointco.in/",
+    "rating": 4.9,
+    "reviews_count": 186,
+    "address": "Kharar - Landran Rd, opposite HDFC Bank, Gobind Colony, Garden Colony, Kharar, Punjab 140301",
+    "area": "Gobind Colony, Garden Colony",
+    "latitude": 30.7482698,
+    "longitude": 76.6424629,
+    "place_id": "ChIJPb7yof_vDzkR0YJY80e4ty4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPb7yof_vDzkR0YJY80e4ty4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:41:28"
+  },
+  {
+    "business_name": "FINANCIAL CONSULTING HUB",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services, Service establishment",
+    "pincode": "251202",
+    "phone_number": "+91 91312 03855",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FINANCIAL CONSULTING HUB, 251202, India",
+    "area": "251202",
+    "latitude": 23.1994097,
+    "longitude": 77.4058914,
+    "place_id": "ChIJS_LfSVBpfDkR-jKaMf2g-gs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS_LfSVBpfDkR-jKaMf2g-gs",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:41:30"
+  }
+]

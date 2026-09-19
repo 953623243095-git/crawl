@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Daksh fitness club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "251202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "HMFQ+9WJ, SH 59, Muzaffarnagar, Rohana Kalan, Uttar Pradesh 251202",
+    "area": "Muzaffarnagar",
+    "latitude": 29.5733997,
+    "longitude": 77.6899085,
+    "place_id": "ChIJ-fJIFQAdDDkRPrQS6UJDJts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-fJIFQAdDDkRPrQS6UJDJts",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:40:33"
+  },
+  {
+    "business_name": "LUXEFIT GYM",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "251202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "GPG9+37, Rampur, Uttar Pradesh 251202",
+    "area": "251202",
+    "latitude": 29.5252083,
+    "longitude": 77.7181463,
+    "place_id": "ChIJI3f0JgAdDDkRE52mrw0mFIQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI3f0JgAdDDkRE52mrw0mFIQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:40:33"
+  }
+]

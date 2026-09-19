@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fitness feed gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "261131",
+    "phone_number": "+91 86873 31304",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Nai bazar, to, BCM Rd, Khairabad, Uttar Pradesh 261131",
+    "area": "Arjunpur",
+    "latitude": 27.5286914,
+    "longitude": 80.747613,
+    "place_id": "ChIJySWUUtHVnjkRPOCHsU238Mg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJySWUUtHVnjkRPOCHsU238Mg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:15:43"
+  },
+  {
+    "business_name": "Alpha Gym & Fitness Centre",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "261131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GPMX+342, Khairabad - Biswan Bypass Rd, Arjunpur, Pathakpur, Khairabad, Uttar Pradesh 261131",
+    "area": "Arjunpur",
+    "latitude": 27.532625699999997,
+    "longitude": 80.7477591,
+    "place_id": "ChIJfVZeWgDVnjkRw-Iph0BH3l8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfVZeWgDVnjkRw-Iph0BH3l8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:15:43"
+  }
+]

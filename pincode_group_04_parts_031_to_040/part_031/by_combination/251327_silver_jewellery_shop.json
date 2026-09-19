@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harsh jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "251327",
+    "phone_number": "+91 84391 10358",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Purkaji, Purquazi, Uttar Pradesh 251327",
+    "area": "251327",
+    "latitude": 29.657985399999998,
+    "longitude": 77.84207529999999,
+    "place_id": "ChIJffC6RwCrDjkR7ri1vtrkSXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJffC6RwCrDjkR7ri1vtrkSXk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:08:32"
+  },
+  {
+    "business_name": "Anmol Jain Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "251327",
+    "phone_number": "+91 90841 03220",
+    "website": "https://www.youtube.com/c/amanupvanjain",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "Main market, Purquazi, Uttar Pradesh 251327",
+    "area": "251327",
+    "latitude": 29.6572219,
+    "longitude": 77.8395869,
+    "place_id": "ChIJ4wsv7OerDjkRZo71Rspbl-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4wsv7OerDjkRZo71Rspbl-U",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:08:33"
+  }
+]

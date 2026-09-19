@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Servicely Bareilly | AC, Washing Machine, Refrigerator, Geyser Repair Service",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Air conditioning repair service, HVAC contractor, Microwave oven repair service, Refrigerator repair service, Washer & dryer repair service",
+    "pincode": "261204",
+    "phone_number": "+91 96394 00005",
+    "website": "https://servicely.in/",
+    "rating": 4.8,
+    "reviews_count": 13,
+    "address": "Gate No 2, Pilibhit Bypass Rd, near Passport office, Aakash Puram, Gardan City, Bareilly, Uttar Pradesh 243006",
+    "area": "Aakash Puram, Gardan City",
+    "latitude": 28.359041899999998,
+    "longitude": 79.4527998,
+    "place_id": "ChIJy9gz8k0HoDkRZNd5qg6vt1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy9gz8k0HoDkRZNd5qg6vt1A",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:31:15"
+  },
+  {
+    "business_name": "Bharat Services",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop, Service establishment",
+    "pincode": "261204",
+    "phone_number": "+91 94043 70127",
+    "website": "https://servebharat.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bharat Services, 261204, India",
+    "area": "261204",
+    "latitude": 22.457814199999998,
+    "longitude": 80.6183267,
+    "place_id": "ChIJMTWxFS1xxSARQIoV9RpBNuw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMTWxFS1xxSARQIoV9RpBNuw",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:31:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ali Tour's And Travel Booking",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "251306",
+    "phone_number": "+91 98970 81109",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Husaini Chowk, zainabya school, Near, qidwai nagar, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "qidwai nagar",
+    "latitude": 29.461541999999998,
+    "longitude": 77.68152119999999,
+    "place_id": "ChIJ6SvNHH0bDDkRKIi5x6fkcew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6SvNHH0bDDkRKIi5x6fkcew",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:47:51"
+  },
+  {
+    "business_name": "Al-Hasan International Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "251306",
+    "phone_number": "+91 89097 32485",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Al Habib Complex, Roorkee Rd, Laddhawala, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Laddhawala",
+    "latitude": 29.476784199999997,
+    "longitude": 77.6965614,
+    "place_id": "ChIJ36fwAPobDDkRS-d7jJlumRQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ36fwAPobDDkRS-d7jJlumRQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:47:52"
+  }
+]

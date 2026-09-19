@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "251310",
+    "phone_number": "+91 83848 13866",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Arya Samaj Rd, Santosh Vihar, Mahaveer Chok, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Santosh Vihar, Mahaveer Chok",
+    "latitude": 29.456664099999998,
+    "longitude": 77.7014402,
+    "place_id": "ChIJOfl9BT0bDDkR-3RnVGgI93I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOfl9BT0bDDkR-3RnVGgI93I",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:54:31"
+  },
+  {
+    "business_name": "FASHION TAILORS",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "251310",
+    "phone_number": "+91 95281 10898",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SARVAT, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Saket Colony",
+    "latitude": 29.487385699999997,
+    "longitude": 77.7054871,
+    "place_id": "ChIJpX9mZ_sbDDkRnDTgOGnPKgA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpX9mZ_sbDDkRnDTgOGnPKgA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:54:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meghraj Sweet & Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "251202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HMFQ+7V3, Muzaffarnagar, Rohana Kalan, Uttar Pradesh 251202",
+    "area": "Muzaffarnagar",
+    "latitude": 29.573135699999998,
+    "longitude": 77.6897432,
+    "place_id": "ChIJEwTWXgAdDDkRWiwH0gatZWE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEwTWXgAdDDkRWiwH0gatZWE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:40:06"
+  },
+  {
+    "business_name": "Kamboj's Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "251202",
+    "phone_number": "+91 70553 02000",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shiv chowk, main road, Shamli, Uttar Pradesh 247776",
+    "area": "251202",
+    "latitude": 29.4479993,
+    "longitude": 77.3125531,
+    "place_id": "ChIJ18BrMFQvDDkR4T-BleDZ--Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ18BrMFQvDDkR4T-BleDZ--Q",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:40:08"
+  }
+]

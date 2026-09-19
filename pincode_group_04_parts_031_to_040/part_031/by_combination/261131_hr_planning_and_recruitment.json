@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nashville HR",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "261131",
+    "phone_number": "N/A",
+    "website": "http://www.nashvillehr.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nashville HR, 261131, India",
+    "area": "261131",
+    "latitude": 36.1866404,
+    "longitude": -86.785147,
+    "place_id": "ChIJYaq_9xaYDIgRSJJ_DUPiyBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYaq_9xaYDIgRSJJ_DUPiyBo",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:16:35"
+  },
+  {
+    "business_name": "Sepano Pvt. Ltd.",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "BPO Placement Agency",
+    "all_categories": "BPO Placement Agency",
+    "pincode": "261131",
+    "phone_number": "+91 79056 42379",
+    "website": "https://sepano.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "666, Sector 2, Vikas Nagar, Lucknow, Uttar Pradesh 226022",
+    "area": "Sector 2, Vikas Nagar",
+    "latitude": 26.893991999999997,
+    "longitude": 80.956068,
+    "place_id": "ChIJyT1wIwBXmTkRbW3G7GCOWGs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyT1wIwBXmTkRbW3G7GCOWGs",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:16:36"
+  }
+]

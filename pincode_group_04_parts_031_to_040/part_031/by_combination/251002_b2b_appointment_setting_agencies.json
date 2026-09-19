@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Broadway Global Services",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Talent agency",
+    "all_categories": "Talent agency",
+    "pincode": "251002",
+    "phone_number": "+91 97171 67932",
+    "website": "https://www.broadwaygs.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "1st Floor, Cosmos Crest, Broadway Global Services, Bengaluru, Karnataka 560008",
+    "area": "Indira Nagar II Stage, Hoysala Nagar, Indiranagar",
+    "latitude": 12.978297,
+    "longitude": 77.6337709,
+    "place_id": "ChIJEwi-Ux1D8WYRCBbrZJdHxf4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEwi-Ux1D8WYRCBbrZJdHxf4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:36:22"
+  },
+  {
+    "business_name": "Promote Abhi",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Website designer",
+    "pincode": "251002",
+    "phone_number": "+91 98994 84839",
+    "website": "https://www.promoteabhi.com/",
+    "rating": 4.4,
+    "reviews_count": 72,
+    "address": "2nd Floor, C-314, Block C, Palam Extension, Sector 7 Dwarka, Dwarka, New Delhi, Delhi, 110077",
+    "area": "Block C, Palam Extension, Sector 7 Dwarka, Dwarka",
+    "latitude": 28.5860831,
+    "longitude": 77.0701357,
+    "place_id": "ChIJ9_vow2sbDTkRj44cfreBF4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9_vow2sbDTkRj44cfreBF4s",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:36:22"
+  }
+]

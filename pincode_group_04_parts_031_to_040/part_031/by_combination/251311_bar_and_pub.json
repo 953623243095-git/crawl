@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Skydeck Resto Pub",
+    "search_category": "Bar and Pub",
+    "primary_category": "Pub",
+    "all_categories": "Pub",
+    "pincode": "251311",
+    "phone_number": "+91 77602 57575",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "96/1C, Bannur Rd, Sai Nagar, Siddhartha Layout, Mysuru, Karnataka 570028",
+    "area": "Sai Nagar, Siddhartha Layout",
+    "latitude": 12.304331099999999,
+    "longitude": 76.7015527,
+    "place_id": "ChIJ7VnFWklxrzsRqiXbaKMWAXQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7VnFWklxrzsRqiXbaKMWAXQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:56:11"
+  },
+  {
+    "business_name": "Pardeep Finess Office",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "251311",
+    "phone_number": "+91 78302 16747",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Police Chonki Ke Pass Charthawal, Charthawal, Uttar Pradesh 251311",
+    "area": "251311",
+    "latitude": 29.5394175,
+    "longitude": 77.58805699999999,
+    "place_id": "ChIJ-c8o2sEfDDkRvXEZ8IY_9GM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-c8o2sEfDDkRvXEZ8IY_9GM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:56:12"
+  }
+]

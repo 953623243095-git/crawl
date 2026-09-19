@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nusrat Health Care",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "261207",
+    "phone_number": "+91 63061 53576",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Road, Sher Pur, Talgaon, Uttar Pradesh 261207",
+    "area": "261207",
+    "latitude": 27.6256694,
+    "longitude": 80.9449978,
+    "place_id": "ChIJ1566N-4pmTkRn8i-UJloDhY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1566N-4pmTkRn8i-UJloDhY",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:36:25"
+  },
+  {
+    "business_name": "Dheeraj Kumar",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "261207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Maurya Readymade Perchandi, Parsendi, Uttar Pradesh 261207",
+    "area": "261207",
+    "latitude": 27.591267799999997,
+    "longitude": 80.837756,
+    "place_id": "ChIJ3VO4zYErmTkR_CvaZpkXMBE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3VO4zYErmTkR_CvaZpkXMBE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:36:25"
+  }
+]

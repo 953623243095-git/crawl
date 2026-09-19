@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Oscar Gallery",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Beauty Parlour, Jewelry store",
+    "pincode": "251002",
+    "phone_number": "+91 84452 36644",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "Bazar Purvi, Budhana, Uttar Pradesh 251309",
+    "area": "251002",
+    "latitude": 29.2874326,
+    "longitude": 77.47703059999999,
+    "place_id": "ChIJ____jKk-DDkRf9xGq-WxhfM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____jKk-DDkRf9xGq-WxhfM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:35:39"
+  },
+  {
+    "business_name": "Esthetica Spa & Salon Resources Pvt Ltd.",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Furniture Manufacturer",
+    "all_categories": "Furniture Manufacturer",
+    "pincode": "251002",
+    "phone_number": "+91 98731 44051",
+    "website": "https://www.spafurniture.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Plot No. 249, Sector 6, IMT Manesar, Gurugram, Haryana 122050",
+    "area": "Sector 6, IMT Manesar",
+    "latitude": 28.374392,
+    "longitude": 76.9219579,
+    "place_id": "ChIJQQAAwNA9DTkR7LYKkcuY894",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQQAAwNA9DTkR7LYKkcuY894",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:35:41"
+  }
+]

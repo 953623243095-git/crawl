@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ujala Tant House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "261303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6RGX+783, Purniya Railway crossing, Under Flyover, Aliganj, Sitapur Rd Yojna, Lucknow, Uttar Pradesh 261303",
+    "area": "261303",
+    "latitude": 27.2256419,
+    "longitude": 80.8482861,
+    "place_id": "ChIJ0feRYmBLmTkRbQhaWppoYYI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0feRYmBLmTkRbQhaWppoYYI",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:43:27"
+  },
+  {
+    "business_name": "Rumkh Kedar Resort",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "261303",
+    "phone_number": "+91 75002 79457",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 232,
+    "address": "Rumkh Kedar Resort, Kedarnath Rd, Sitapur, Nyalsu, Uttarakhand 246471",
+    "area": "261303",
+    "latitude": 30.623746699999998,
+    "longitude": 79.00471019999999,
+    "place_id": "ChIJYcH2ynFHCDkRzy-d3pAzml4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYcH2ynFHCDkRzy-d3pAzml4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:43:28"
+  }
+]

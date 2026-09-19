@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramu Bhai",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "261405",
+    "phone_number": "+91 87265 86653",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ramu Shop, Bilohore, korouna, Misrikh-cum-Neemsar, Uttar Pradesh 261401",
+    "area": "Bilohore",
+    "latitude": 27.4358197,
+    "longitude": 80.532972,
+    "place_id": "ChIJy7pxr2vdnjkRrfTUqv6DgCs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy7pxr2vdnjkRrfTUqv6DgCs",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:50:58"
+  },
+  {
+    "business_name": "Anand Kirana",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "261405",
+    "phone_number": "+91 80054 55620",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Unnamed Road Jalalpur Rood, Mirjapur, Uttar Pradesh 261405",
+    "area": "261405",
+    "latitude": 27.4198965,
+    "longitude": 80.6456309,
+    "place_id": "ChIJ56Rodx_PnjkRA04prhg6VDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ56Rodx_PnjkRA04prhg6VDU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:51:00"
+  }
+]

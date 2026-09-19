@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ASHOK CRANE SERVICE",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Crane service",
+    "pincode": "261403",
+    "phone_number": "+91 83182 84615",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "PGI, Gate No 2, Vineet Khand 1, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vineet Khand 1, Gomti Nagar",
+    "latitude": 26.850582,
+    "longitude": 81.0117416,
+    "place_id": "ChIJsRmwACbjmzkRX09mtjrxFsY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsRmwACbjmzkRX09mtjrxFsY",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:48:12"
+  },
+  {
+    "business_name": "Gupta Crane Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane service",
+    "all_categories": "Crane service",
+    "pincode": "261403",
+    "phone_number": "+91 94545 49352",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "indian Petrol Pump, Bansi, Uttar Pradesh 272153",
+    "area": "261403",
+    "latitude": 27.170735099999998,
+    "longitude": 82.9284337,
+    "place_id": "ChIJsyaifHPXljkRDAQxFl5gNig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsyaifHPXljkRDAQxFl5gNig",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:48:12"
+  }
+]

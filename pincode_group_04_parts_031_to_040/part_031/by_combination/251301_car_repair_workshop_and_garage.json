@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Car Garage Auto Mechanical Repair",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto body shop, Auto Dent Removal Service Station, Auto machine shop, Auto painting, Auto tune up service, Auto upholsterer, Car battery store, Vehicle inspection service",
+    "pincode": "251301",
+    "phone_number": "N/A",
+    "website": "https://cargarage.ae/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Ras Al Khor Ind. Second - Ras Al Khor Industrial Area 2 - Dubai - United Arab Emirates",
+    "area": "Ras Al Khor Ind. Second - Ras Al Khor Industrial Area 2",
+    "latitude": 25.179777299999998,
+    "longitude": 55.353837,
+    "place_id": "ChIJj9UX7Y1nXz4RVXkM9FsIdDs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj9UX7Y1nXz4RVXkM9FsIdDs",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:44:13"
+  },
+  {
+    "business_name": "SR Car Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "251301",
+    "phone_number": "+91 88679 85887",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Bus Stand Road, Savadatti Yallamma, Karnataka 591126",
+    "area": "251301",
+    "latitude": 15.774726399999999,
+    "longitude": 75.1074874,
+    "place_id": "ChIJmzySmKaxuDsRJIHnqlf_1Kg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmzySmKaxuDsRJIHnqlf_1Kg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:44:15"
+  }
+]

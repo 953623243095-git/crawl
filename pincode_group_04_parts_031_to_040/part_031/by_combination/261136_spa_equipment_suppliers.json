@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Healthcare",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Health and beauty shop",
+    "all_categories": "Health and beauty shop, Fitness Equipment Wholesaler, Foot massage parlor, Massage spa, Massage supply store, Medical equipment supplier, Medical supply store, Physical fitness program, Physiotherapy Center, Physiotherapy equipment supplier",
+    "pincode": "261136",
+    "phone_number": "+91 88003 89599",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "117/N/496, Infront of New Light Institute, 117/N/50, Raniganj, Ambedkar Nagar, Raniganj, Kakadeo, Kanpur, Uttar Pradesh 208025",
+    "area": "Raniganj, Ambedkar Nagar, Raniganj, Kakadeo",
+    "latitude": 26.480088499999997,
+    "longitude": 80.2919774,
+    "place_id": "ChIJwTZPqvQ3nDkRe466bX94c5M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwTZPqvQ3nDkRe466bX94c5M",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:19:34"
+  },
+  {
+    "business_name": "Sonam Enterprises",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Plumbing supply store",
+    "all_categories": "Plumbing supply store",
+    "pincode": "261136",
+    "phone_number": "+91 72689 79494",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 5,
+    "address": "Mallawan, Uttar Pradesh 241303",
+    "area": "261136",
+    "latitude": 27.032786299999998,
+    "longitude": 80.1530338,
+    "place_id": "ChIJ-S0T8ZaJnjkRI4wipykrKKA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-S0T8ZaJnjkRI4wipykrKKA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:19:36"
+  }
+]

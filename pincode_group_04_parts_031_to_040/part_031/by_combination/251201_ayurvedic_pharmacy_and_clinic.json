@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jiva Ayurveda Clinic",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Alternative medicine practitioner",
+    "all_categories": "Alternative medicine practitioner",
+    "pincode": "251201",
+    "phone_number": "+91 97597 58600",
+    "website": "https://www.jiva.com/",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "141 A, Civil Lines North, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Civil Lines North",
+    "latitude": 29.470039,
+    "longitude": 77.7065695,
+    "place_id": "ChIJAyMAuAwbDDkRzIF4iHHZ6ZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAyMAuAwbDDkRzIF4iHHZ6ZY",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:38:39"
+  },
+  {
+    "business_name": "Sanjay ayurvedic aushdhalaya",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "251201",
+    "phone_number": "+91 81260 61775",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "49, Lohiya Bazar Rd, Sutharshahi, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Sutharshahi",
+    "latitude": 29.4713449,
+    "longitude": 77.6921715,
+    "place_id": "ChIJSY8_awAbDDkR41tb7i-lSj8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSY8_awAbDDkR41tb7i-lSj8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:38:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pawar guest house ( Dr Vivek singh)",
+    "search_category": "Guesthouse",
+    "primary_category": "Holiday apartment rental",
+    "all_categories": "Holiday apartment rental",
+    "pincode": "261301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5W8G+9X2, Sidhauli, Parewajal, Uttar Pradesh 261303",
+    "area": "261301",
+    "latitude": 27.165893099999998,
+    "longitude": 80.92739209999999,
+    "place_id": "ChIJ819QVQBJmTkRWQ2wZsfVwtk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ819QVQBJmTkRWQ2wZsfVwtk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:39:59"
+  },
+  {
+    "business_name": "Padma marriage lawn",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "261301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 73,
+    "address": "Sidhauli, Uttar Pradesh 261303",
+    "area": "261301",
+    "latitude": 27.2853055,
+    "longitude": 80.8322032,
+    "place_id": "ChIJ3QAADew1mTkRVJZM_vDsfI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3QAADew1mTkRVJZM_vDsfI8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:40:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kamlapur Auto Sales",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer",
+    "pincode": "261302",
+    "phone_number": "+91 97941 30899",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "NH 24, Lucknow - Sitapur Expy, Kamlapur, Uttar Pradesh 261302",
+    "area": "261302",
+    "latitude": 27.3743907,
+    "longitude": 80.8203328,
+    "place_id": "ChIJVTkEbTAzmTkRAyzHFN1v3Jw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVTkEbTAzmTkRAyzHFN1v3Jw",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:41:15"
+  },
+  {
+    "business_name": "JANAASHA ELECTRIC SCOOTER",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motor scooter dealer",
+    "all_categories": "Motor scooter dealer",
+    "pincode": "261302",
+    "phone_number": "N/A",
+    "website": "http://www.janaashaev.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kamlapur, Sitapur, Uttar Pradesh 261302",
+    "area": "261302",
+    "latitude": 27.385780099999998,
+    "longitude": 80.8177161,
+    "place_id": "ChIJzU7caRkzmTkRcMLdVKgcLk8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzU7caRkzmTkRcMLdVKgcLk8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:41:15"
+  }
+]

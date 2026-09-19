@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal man's Saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "261141",
+    "phone_number": "+91 91407 11010",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pani Tanki, Munshigunj, Sitapur, Uttar Pradesh 261001",
+    "area": "Munshigunj",
+    "latitude": 27.5833907,
+    "longitude": 80.66725679999999,
+    "place_id": "ChIJwzSSkHDXnjkRI8Pc3qWkF9E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwzSSkHDXnjkRI8Pc3qWkF9E",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:21:14"
+  },
+  {
+    "business_name": "Akram hair catting selon and Aslam men,s palar",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser",
+    "pincode": "261141",
+    "phone_number": "+91 88084 02050",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Neri road, pishawan, Pisava Nagar, Uttar Pradesh 261151",
+    "area": "261141",
+    "latitude": 27.587945899999998,
+    "longitude": 80.4023024,
+    "place_id": "ChIJVwnFFyrhnjkRe3OV1vqVOhA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVwnFFyrhnjkRe3OV1vqVOhA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:21:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hero Honda Service Center",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "251306",
+    "phone_number": "+91 94125 26012",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "02, Sujroo, Uttar Pradesh 251001",
+    "area": "Sakuntala Avas Vikash Colony",
+    "latitude": 29.4467094,
+    "longitude": 77.6980748,
+    "place_id": "ChIJyeSFFBsbDDkRFuF7KLa5XD4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyeSFFBsbDDkRFuF7KLa5XD4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:47:46"
+  },
+  {
+    "business_name": "Tyagi Auto Center",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Motorcycle parts store",
+    "all_categories": "Motorcycle parts store",
+    "pincode": "251306",
+    "phone_number": "+91 93589 01655",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Nazar Colony, SD Area, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Nazar Colony, SD Area",
+    "latitude": 29.475113999999998,
+    "longitude": 77.6980142,
+    "place_id": "ChIJ7yDccp4bDDkRU7D98qU6Grw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7yDccp4bDDkRU7D98qU6Grw",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:47:47"
+  }
+]

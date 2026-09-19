@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M S Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "251320",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 10,
+    "address": "Bijnor, Uttar Pradesh 246701",
+    "area": "Bijnor",
+    "latitude": 29.379681899999998,
+    "longitude": 78.13421579999999,
+    "place_id": "ChIJ9z0AkDfuCzkRsxusTgOgwuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9z0AkDfuCzkRsxusTgOgwuU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:06:55"
+  },
+  {
+    "business_name": "Kalyani Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "251320",
+    "phone_number": "+91 91051 35718",
+    "website": "https://kalyanihospital.org/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Nh119, Kiratpur, Uttar Pradesh 246731",
+    "area": "251320",
+    "latitude": 29.504178,
+    "longitude": 78.2122949,
+    "place_id": "ChIJOUryQYXmCzkRDHk8MSsx2zU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOUryQYXmCzkRDHk8MSsx2zU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:06:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Healthcare polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "261141",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "G7MP+684, Gopamau, Uttar Pradesh 241404",
+    "area": "261141",
+    "latitude": 27.5330089,
+    "longitude": 80.2858232,
+    "place_id": "ChIJmWQOGwDjnjkRPSm_rp1mwU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmWQOGwDjnjkRPSm_rp1mwU4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:20:49"
+  },
+  {
+    "business_name": "Jan aushadhi Kendra",
+    "search_category": "Polyclinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "261141",
+    "phone_number": "+91 97940 71170",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sonaran tola, Maholi, Maholi Villege, Uttar Pradesh 261141",
+    "area": "Sonaran tola",
+    "latitude": 27.6622031,
+    "longitude": 80.4750565,
+    "place_id": "ChIJ1Wn4wjEhnzkR5-kfhfKmCls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1Wn4wjEhnzkR5-kfhfKmCls",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:20:51"
+  }
+]

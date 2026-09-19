@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tathastu Education",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Education center, Coaching Center, Educational institution",
+    "pincode": "251319",
+    "phone_number": "+91 98211 88788",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Building No 15, 3rd Floor, opposite Metro Pillar 350, Kapil Vihar, Pitampura, Delhi, 110034",
+    "area": "Kapil Vihar, Pitampura",
+    "latitude": 28.6983905,
+    "longitude": 77.1366479,
+    "place_id": "ChIJ0RCvPPL9DDkRGSTvKnhbLFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0RCvPPL9DDkRGSTvKnhbLFU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:05:58"
+  },
+  {
+    "business_name": "Edufiz Education Consultancy",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "251319",
+    "phone_number": "N/A",
+    "website": "http://edufiz.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bus Stand Rd, Jn, Thavakkara, Kannur, Keralam 670002",
+    "area": "Jn, Thavakkara",
+    "latitude": 11.8683432,
+    "longitude": 75.3702757,
+    "place_id": "ChIJqdPxYQAjpDsRVhk5eBVONc0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqdPxYQAjpDsRVhk5eBVONc0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:05:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "You tube",
+    "search_category": "Organic Food Store",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "261402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "2, Beniganj, Uttar Pradesh 241304",
+    "area": "261402",
+    "latitude": 27.291949199999998,
+    "longitude": 80.4433778,
+    "place_id": "ChIJI1E4UW3qnjkR-T14LwCnC00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI1E4UW3qnjkR-T14LwCnC00",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:45:50"
+  },
+  {
+    "business_name": "VIJAY COSMETICS SHOP",
+    "search_category": "Organic Food Store",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, General store",
+    "pincode": "261402",
+    "phone_number": "+91 88409 63983",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Maa Lalita Mandir, Kalipeeth Road, Misrikh-cum-Neemsar, Uttar Pradesh 261402",
+    "area": "261402",
+    "latitude": 27.352526599999997,
+    "longitude": 80.4904007,
+    "place_id": "ChIJu59OcIXDnjkR2DI9h73g3uU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu59OcIXDnjkR2DI9h73g3uU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:45:50"
+  }
+]

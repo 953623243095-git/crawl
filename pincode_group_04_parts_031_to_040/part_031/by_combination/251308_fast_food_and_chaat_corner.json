@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shankar Chat Bhandar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "251308",
+    "phone_number": "+91 98976 61204",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "Bus Stand, Bhopa, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Patel Nagar, New Mandi",
+    "latitude": 29.4722364,
+    "longitude": 77.7237896,
+    "place_id": "ChIJGWCTRxsbDDkRct8OnZadXi4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGWCTRxsbDDkRct8OnZadXi4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:50:53"
+  },
+  {
+    "business_name": "Dharamveer Chat Shop",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "251308",
+    "phone_number": "+91 73510 49230",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "02, Post, near Shiv Mandir, Jaroda, Molaheri, Muzaffarnagar, Uttar Pradesh 251003",
+    "area": "Jaroda",
+    "latitude": 29.391516099999997,
+    "longitude": 77.6667502,
+    "place_id": "ChIJQW8xu4URDDkR1cWTpd8NhvM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQW8xu4URDDkR1cWTpd8NhvM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:50:53"
+  }
+]

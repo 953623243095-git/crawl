@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Hindustan bus service",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "261204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ishweri singh, Maraucha, Suratganj, Uttar Pradesh 261204",
+    "area": "ishweri singh",
+    "latitude": 27.3379934,
+    "longitude": 81.2711546,
+    "place_id": "ChIJ7xMI-KQTmTkRKGpZMM-LNCs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7xMI-KQTmTkRKGpZMM-LNCs",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:31:07"
+  },
+  {
+    "business_name": "Shree bala ji bus service,- भदौरिया निवास",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "261204",
+    "phone_number": "+91 85588 00005",
+    "website": "https://g.co/kgs/NTp2nr",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "बंधा मोड़, बौडी रामपुरवा चौकी रोड के पास, Fakharpur, Dharmapur, Uttar Pradesh 271902",
+    "area": "261204",
+    "latitude": 27.4441842,
+    "longitude": 81.43517299999999,
+    "place_id": "ChIJ-9NJPicPmTkRU25t6jK2LH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-9NJPicPmTkRU25t6jK2LH8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:31:09"
+  }
+]

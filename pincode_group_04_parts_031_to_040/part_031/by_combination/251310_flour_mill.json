@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "आटा चक्की, खाइखेड़ी",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "251310",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "HVX3+45V, Khai Kheri, Uttar Pradesh 251310",
+    "area": "251310",
+    "latitude": 29.597859099999997,
+    "longitude": 77.8529228,
+    "place_id": "ChIJadfmXqEBDDkRu7EJIMtN73A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJadfmXqEBDDkRu7EJIMtN73A",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:54:13"
+  },
+  {
+    "business_name": "जयपाल प्रधान जी चक्की वाले",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "251310",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HVR7+6RM, Ghumavati, Tikola, Uttar Pradesh 251310",
+    "area": "251310",
+    "latitude": 29.590602999999998,
+    "longitude": 77.864746,
+    "place_id": "ChIJK00AcAABDDkRlLSAF91KTEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK00AcAABDDkRlLSAF91KTEE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:54:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna jewellers",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "261301",
+    "phone_number": "+91 90443 97220",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Raja Bagh Rd, thana, Itaunja, Saray Usrana, Uttar Pradesh 226203",
+    "area": "thana",
+    "latitude": 27.082442099999998,
+    "longitude": 80.8943793,
+    "place_id": "ChIJqZVe1CVNmTkRU63BboNP_iE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqZVe1CVNmTkRU63BboNP_iE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:39:15"
+  },
+  {
+    "business_name": "Pankaj Kumar Manoj kumar Sarraf",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "261301",
+    "phone_number": "+91 94150 53414",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Tahsil Rd, Sidhauli, Uttar Pradesh 261303",
+    "area": "261301",
+    "latitude": 27.2836027,
+    "longitude": 80.8369115,
+    "place_id": "ChIJcUH_TKQ1mTkREWUVKIrCLEY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcUH_TKQ1mTkREWUVKIrCLEY",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:39:17"
+  }
+]

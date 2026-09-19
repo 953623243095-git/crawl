@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dinesh Chat Bhandar and fast food corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "251306",
+    "phone_number": "+91 79056 43849",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 43,
+    "address": "Maqbool Alam Rd, Tulsi Vihar Colony, Khajuri Colony, Varanasi, Uttar Pradesh 221002",
+    "area": "Tulsi Vihar Colony, Khajuri Colony",
+    "latitude": 25.3377679,
+    "longitude": 82.9956888,
+    "place_id": "ChIJ6Y0JCXYujjkR6WOBec49h5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Y0JCXYujjkR6WOBec49h5s",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:47:20"
+  },
+  {
+    "business_name": "Ramfal Chaat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "251306",
+    "phone_number": "+91 75056 44373",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ansari Road, Road, near by Bank Of Baroda Ansari, Uttar Pradesh 251306",
+    "area": "251306",
+    "latitude": 29.469419199999997,
+    "longitude": 77.6706202,
+    "place_id": "ChIJV6zLC5sbDDkRU__zHz0vC3E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV6zLC5sbDDkRU__zHz0vC3E",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:47:21"
+  }
+]

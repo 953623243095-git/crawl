@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DCDC Kidney Care, District Hospital Sitapur",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "261001",
+    "phone_number": "+91 11 4558 1006",
+    "website": "https://dcdc.co.in/",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "HMCG+FJ3 Dialysis Unit, Lalbagh, Nai Basti, Sitapur, Uttar Pradesh 261001",
+    "area": "Lalbagh, Nai Basti",
+    "latitude": 27.571187499999997,
+    "longitude": 80.6765625,
+    "place_id": "ChIJs3Dnlw3XnjkRVjae7uhzpK4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs3Dnlw3XnjkRVjae7uhzpK4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:10:28"
+  },
+  {
+    "business_name": "HMCG+FJ3 Dialysis Unit",
+    "search_category": "Dialysis Center",
+    "primary_category": "Building",
+    "all_categories": "Building",
+    "pincode": "261001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HMCG+FJ3, Lalbagh, Nai Basti, Sitapur, Uttar Pradesh 261001",
+    "area": "Lalbagh, Nai Basti",
+    "latitude": 27.5711923,
+    "longitude": 80.6765262,
+    "place_id": "ChIJPfgst6zXnjkRR2mN8x8tmUU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPfgst6zXnjkRR2mN8x8tmUU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:10:29"
+  }
+]

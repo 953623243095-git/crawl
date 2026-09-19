@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arsh Online Tax",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "251327",
+    "phone_number": "+91 97564 60048",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "1 Bhuraheri, NH334, Purquazi, Haridwar, Uttarakhand 247670",
+    "area": "251327",
+    "latitude": 29.673426,
+    "longitude": 77.8450251,
+    "place_id": "ChIJCwzsC86rDjkR-YoLxDeXcfM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCwzsC86rDjkR-YoLxDeXcfM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:08:55"
+  },
+  {
+    "business_name": "Yaradatourandtravels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "251327",
+    "phone_number": "N/A",
+    "website": "https://instagram.com/yarada_tour_and_travels_?igshid=ZDdkNTZiNTM=",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Purkaji, Aiki, Uttar Pradesh 247663",
+    "area": "251327",
+    "latitude": 29.6502052,
+    "longitude": 77.96965569999999,
+    "place_id": "ChIJpQtAiu9VCTkRG6lNWUYll_0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpQtAiu9VCTkRG6lNWUYll_0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:08:55"
+  }
+]

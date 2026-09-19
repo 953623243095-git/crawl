@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fertilizer shop",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store",
+    "pincode": "261125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mister gunj, Biswan, Uttar Pradesh 261201",
+    "area": "261125",
+    "latitude": 27.488743099999997,
+    "longitude": 80.9960918,
+    "place_id": "ChIJt20Vge0lmTkRaSgXiOCipAU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt20Vge0lmTkRaSgXiOCipAU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:14:59"
+  },
+  {
+    "business_name": "NaPanta",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service",
+    "pincode": "261125",
+    "phone_number": "+91 93461 99939",
+    "website": "http://www.napanta.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "H.No: 6, G12, 3-652, Somajiguda, Hyderabad, Telangana 500082",
+    "area": "Somajiguda",
+    "latitude": 17.4185053,
+    "longitude": 78.4578511,
+    "place_id": "ChIJRQR4GkORyzsRBYyuxWQrkJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRQR4GkORyzsRBYyuxWQrkJE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:15:01"
+  }
+]

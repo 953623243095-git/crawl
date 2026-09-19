@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nitya Medicare",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store, Surgical Products Wholesaler",
+    "pincode": "251002",
+    "phone_number": "+91 99272 74070",
+    "website": "https://www.nityamedicare.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gali No-03, Tehri Visthapit Colony, New Shivalik Nagar, Haridwar, Uttarakhand 249407",
+    "area": "Tehri Visthapit Colony, New Shivalik Nagar",
+    "latitude": 29.9245514,
+    "longitude": 78.077317,
+    "place_id": "ChIJfa2wukpJCTkRS1LxaIfNeD0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfa2wukpJCTkRS1LxaIfNeD0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:35:13"
+  },
+  {
+    "business_name": "Pradhan Mantri Jan Aushadhi Kendra",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store, Medical Center",
+    "pincode": "251002",
+    "phone_number": "+91 95364 88009",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "46 Old ghass mandi, Uttar Pradesh 251002",
+    "area": "Civil Lines North",
+    "latitude": 29.476268599999997,
+    "longitude": 77.6978487,
+    "place_id": "ChIJ28wm3Z0bDDkRuuiHYFSk0ec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ28wm3Z0bDDkRuuiHYFSk0ec",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:35:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OYO 68345 Prakash Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Bed & breakfast, Guest house, Holiday home, Inn, Lodge, Motel, Service Apartment, Villa",
+    "pincode": "251307",
+    "phone_number": "+91 124 620 1516",
+    "website": "https://www.oyorooms.com/93361",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "5, Majnu Wala Rd, Chimmipwara, Deoband, Noorpur Dehat, Uttar Pradesh 247554",
+    "area": "Chimmipwara",
+    "latitude": 29.6863395,
+    "longitude": 77.67929269999999,
+    "place_id": "ChIJnwnIxWClDjkRa02dvJHlQiw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnwnIxWClDjkRa02dvJHlQiw",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:50:00"
+  },
+  {
+    "business_name": "OYO 83121 Hotel Rose Vip",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "251307",
+    "phone_number": "+91 124 620 1516",
+    "website": "https://www.oyorooms.com/h/115288?utm_source=Google_gmb&utm_medium=Organic&utm_campaign=SHR030&latitude=29.67207159&longitude=77.68244175&locale=en",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "3, Gt road, near Sai dham mandir, Deoband, Shahjahanpur, Uttar Pradesh 247554",
+    "area": "251307",
+    "latitude": 29.6682518,
+    "longitude": 77.6825652,
+    "place_id": "ChIJ4TBrUPynDjkR2qKi5g0S-RE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4TBrUPynDjkR2qKi5g0S-RE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:50:00"
+  }
+]

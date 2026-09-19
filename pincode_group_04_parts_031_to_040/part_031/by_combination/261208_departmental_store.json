@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "गुलरबोझा",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "261208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M386+M4F, Sakaran, Uttar Pradesh 261208",
+    "area": "261208",
+    "latitude": 27.6666785,
+    "longitude": 81.0602861,
+    "place_id": "ChIJ3cm-KgDZmDkRto1Zarv6WyM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3cm-KgDZmDkRto1Zarv6WyM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:37:14"
+  },
+  {
+    "business_name": "Sufiyan",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "261208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P5J5+GM3, Tambaur, Uttar Pradesh 261208",
+    "area": "261208",
+    "latitude": 27.731265999999998,
+    "longitude": 81.15916059999999,
+    "place_id": "ChIJmXUgeQDfmDkR_dRomHTrRCE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmXUgeQDfmDkR_dRomHTrRCE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:37:14"
+  }
+]

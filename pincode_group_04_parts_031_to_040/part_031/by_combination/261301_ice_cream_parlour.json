@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajwa Smoothies",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "261301",
+    "phone_number": "N/A",
+    "website": "https://ajwasmoothies.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bari Complex, Khadra, near Shia P.G College, beside Sitapur Road, Khadra, Lucknow, Kirtapur, Uttar Pradesh 261303",
+    "area": "Khadra",
+    "latitude": 27.213958299999998,
+    "longitude": 80.8378865,
+    "place_id": "ChIJMWC180dLmTkRDXUTo3oBY0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMWC180dLmTkRDXUTo3oBY0E",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:39:08"
+  },
+  {
+    "business_name": "Vishal Ice Cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "261301",
+    "phone_number": "+91 80815 39632",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "3VJW+289, near rtneswar mandir, Itaunja, Uttar Pradesh 226203",
+    "area": "261301",
+    "latitude": 27.080026,
+    "longitude": 80.89585269999999,
+    "place_id": "ChIJm7uWI1VNmTkRw-AEEXL0dJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm7uWI1VNmTkRw-AEEXL0dJ8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:39:10"
+  }
+]

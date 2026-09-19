@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinod electric store",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Battery Store",
+    "all_categories": "Battery Store",
+    "pincode": "251319",
+    "phone_number": "+91 63987 42181",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Main, Dayal Puram, Khatauli, Uttar Pradesh 251201",
+    "area": "Dayal Puram, Saini Nagar",
+    "latitude": 29.272567499999997,
+    "longitude": 77.7307053,
+    "place_id": "ChIJoWtd4O8TDDkRTJHas7BZ_Og",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoWtd4O8TDDkRTJHas7BZ_Og",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:05:30"
+  },
+  {
+    "business_name": "Lightwale",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store, Lighting consultant, Lighting products wholesaler",
+    "pincode": "251319",
+    "phone_number": "+91 84488 74394",
+    "website": "http://www.lightwale.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "3rd Floor, Best Arcade, 316, Pocket 6, Sector 12 Dwarka, Dwarka, New Delhi, Delhi 110078",
+    "area": "Sector 7 Extension, Pocket 6, Sector 12 Dwarka, Dwarka",
+    "latitude": 28.591885299999998,
+    "longitude": 77.0452894,
+    "place_id": "ChIJebn6hWoDDTkRlvAO-EPsSjg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJebn6hWoDDTkRlvAO-EPsSjg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:05:31"
+  }
+]

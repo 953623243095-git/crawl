@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thanal Dialysis Centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "251327",
+    "phone_number": "+91 496 251 7772",
+    "website": "http://www.thanalkannur.com/",
+    "rating": 4.6,
+    "reviews_count": 31,
+    "address": "HHXH+8CC, Kabarum Puram, Vatakara, Keralam 673103",
+    "area": "Kabarum Puram",
+    "latitude": 11.598307499999999,
+    "longitude": 75.5785069,
+    "place_id": "ChIJgx-NlWOEpjsRKRN8Im604e8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgx-NlWOEpjsRKRN8Im604e8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:08:46"
+  },
+  {
+    "business_name": "Mohit Dialysis Center, Rishikesh",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "251327",
+    "phone_number": "+91 98151 58272",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "19, Dehradun Rd, Adarsh Gram, Rishikesh, Uttarakhand 249201",
+    "area": "Adarsh Gram",
+    "latitude": 30.110818499999997,
+    "longitude": 78.2948692,
+    "place_id": "ChIJfyrS2w0XCTkR-TGLHMnBU7s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfyrS2w0XCTkR-TGLHMnBU7s",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:08:46"
+  }
+]

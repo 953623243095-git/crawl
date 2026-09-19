@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tejas Enterprises",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "261151",
+    "phone_number": "+91 82997 47020",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "Mishrana Rd, Pihani, Uttar Pradesh 241406",
+    "area": "261151",
+    "latitude": 27.621255899999998,
+    "longitude": 80.20502139999999,
+    "place_id": "ChIJvaR0UDQCnzkRlreV2VqzjRU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvaR0UDQCnzkRlreV2VqzjRU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:23:53"
+  },
+  {
+    "business_name": "Flycatcher Foods Private Ltd.",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "E-commerce service",
+    "all_categories": "E-commerce service",
+    "pincode": "261151",
+    "phone_number": "+91 94150 34403",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 33,
+    "address": "28 A, Adarsh Nagar, nehru vihar, Kalyanpur (East), Lucknow, Uttar Pradesh 226022",
+    "area": "Adarsh Nagar, nehru vihar, Kalyanpur (East)",
+    "latitude": 26.897278699999998,
+    "longitude": 80.9709668,
+    "place_id": "ChIJF1pZLOxXmTkR_nw0OIAoKpk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF1pZLOxXmTkR_nw0OIAoKpk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:23:53"
+  }
+]

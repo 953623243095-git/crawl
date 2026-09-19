@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Natural Crop - Your Organic Farmer",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic farm",
+    "all_categories": "Organic farm",
+    "pincode": "251311",
+    "phone_number": "+91 97190 06500",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 80,
+    "address": "Rasidgarh, Thanabhawan, Uttar Pradesh 247777",
+    "area": "Rasidgarh",
+    "latitude": 29.58194,
+    "longitude": 77.4176043,
+    "place_id": "ChIJN0-TCIGdDjkRUGXV3uW2TaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN0-TCIGdDjkRUGXV3uW2TaQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:55:56"
+  },
+  {
+    "business_name": "Saxena Trading Company",
+    "search_category": "Organic Food Store",
+    "primary_category": "Health and beauty shop",
+    "all_categories": "Health and beauty shop",
+    "pincode": "251311",
+    "phone_number": "+91 63989 21268",
+    "website": "http://saxenatrading.in/",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Singar Palace, Charthawal, Uttar Pradesh 251311",
+    "area": "251311",
+    "latitude": 29.541532,
+    "longitude": 77.5930581,
+    "place_id": "ChIJ8_SHlbsfDDkRZTGDkK7d0L4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8_SHlbsfDDkRZTGDkK7d0L4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:55:58"
+  }
+]

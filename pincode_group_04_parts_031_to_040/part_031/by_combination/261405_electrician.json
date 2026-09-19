@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pranav Communication",
+    "search_category": "Electrician",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop",
+    "pincode": "261405",
+    "phone_number": "+91 97930 90190",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Purani Bazar, Matasiya Lakhnsepur, Macharehta, Uttar Pradesh 261405",
+    "area": "Purani Bazar",
+    "latitude": 27.4190719,
+    "longitude": 80.6404632,
+    "place_id": "ChIJsVa0e7HPnjkRRQrdiPLYEwk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsVa0e7HPnjkRRQrdiPLYEwk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:51:40"
+  },
+  {
+    "business_name": "Anuj Electrical Works",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "261405",
+    "phone_number": "+91 91690 57843",
+    "website": "https://anujelectricals.in/",
+    "rating": 4.9,
+    "reviews_count": 16,
+    "address": "Sultanpur Rd, Bagiamau, Lucknow, Uttar Pradesh 226002",
+    "area": "Bagiamau",
+    "latitude": 26.8015792,
+    "longitude": 81.004319,
+    "place_id": "ChIJ88CeQTDbWqgRhPRV7ilmgAs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ88CeQTDbWqgRhPRV7ilmgAs",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:51:41"
+  }
+]

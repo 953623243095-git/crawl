@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahadev Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "261301",
+    "phone_number": "+91 84273 90980",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3VMW+C5W, Sitapur National Highway, Sitapur Rd, Saray Usrana, Itaunja, Lucknow, Uttar Pradesh 226203",
+    "area": "Saray Usrana, Itaunja",
+    "latitude": 27.083606,
+    "longitude": 80.89545799999999,
+    "place_id": "ChIJx11q1uNNmTkRUxsAxdIPn60",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx11q1uNNmTkRUxsAxdIPn60",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:39:02"
+  },
+  {
+    "business_name": "Baba Sweets & Bakery",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "261301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "5V96+H5G, NH 30, Ataria, Uttar Pradesh 261304",
+    "area": "261301",
+    "latitude": 27.1690538,
+    "longitude": 80.8604222,
+    "place_id": "ChIJp-QJU5tLmTkRrdfEqsNDDT8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp-QJU5tLmTkRrdfEqsNDDT8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:39:02"
+  }
+]

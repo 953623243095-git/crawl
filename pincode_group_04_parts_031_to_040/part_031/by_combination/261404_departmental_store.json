@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shahnawaz Kitchen Shop",
+    "search_category": "Departmental Store",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "261404",
+    "phone_number": "+91 87390 25951",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Munshigunj, Sitapur, Uttar Pradesh 261001",
+    "area": "Munshigunj",
+    "latitude": 27.583442299999998,
+    "longitude": 80.6723985,
+    "place_id": "ChIJlWu5JQjXnjkRYK4pAc9FjoU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlWu5JQjXnjkRYK4pAc9FjoU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:49:14"
+  },
+  {
+    "business_name": "Tarannum Kirana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "261404",
+    "phone_number": "+91 90349 05801",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "78, Brahmdeen Road, near Primary School, Sarsai, Sitapur, Uttar Pradesh 261001",
+    "area": "261404",
+    "latitude": 27.4900544,
+    "longitude": 80.5815126,
+    "place_id": "ChIJAaWpv8zbnjkRwHIfxTDJ9L0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAaWpv8zbnjkRwHIfxTDJ9L0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:49:14"
+  }
+]

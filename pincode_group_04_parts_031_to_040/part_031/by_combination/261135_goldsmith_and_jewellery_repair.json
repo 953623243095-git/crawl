@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bishal Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry repair service",
+    "all_categories": "Jewelry repair service",
+    "pincode": "261135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Dhanusha Marg, Janakpur, Madhesh Province 45600, Nepal",
+    "area": "261135",
+    "latitude": 26.7331489,
+    "longitude": 85.92707209999999,
+    "place_id": "ChIJ0Ua_jx1B7DkR-qOKBIKf6lk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Ua_jx1B7DkR-qOKBIKf6lk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:17:14"
+  },
+  {
+    "business_name": "Habib watch maker",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Watch repair service",
+    "all_categories": "Watch repair service",
+    "pincode": "261135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "74WF+G75, Katra, Mahmudabad, Uttar Pradesh 261203",
+    "area": "Katra",
+    "latitude": 27.2962697,
+    "longitude": 81.1232282,
+    "place_id": "ChIJednQneA_mTkR_pTv_TKt6kY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJednQneA_mTkR_pTv_TKt6kY",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:17:15"
+  }
+]

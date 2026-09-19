@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neha Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "261201",
+    "phone_number": "+91 91405 44547",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Goliyan, 12, Road, Biswan, Uttar Pradesh 261201",
+    "area": "261201",
+    "latitude": 27.3945556,
+    "longitude": 80.9699553,
+    "place_id": "ChIJhSV3938xmTkR8hLgX14zAEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhSV3938xmTkR8hLgX14zAEE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:25:56"
+  },
+  {
+    "business_name": "Narayana polyclinic & Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "261201",
+    "phone_number": "+91 73551 36637",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Biswan Rd, Nyorajpur, Sidhauli, masterbag, Uttar Pradesh 261302",
+    "area": "Nyorajpur",
+    "latitude": 27.3687597,
+    "longitude": 80.893357,
+    "place_id": "ChIJq9CLnQozmTkRU_xa-ox6MJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq9CLnQozmTkRU_xa-ox6MJg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:25:56"
+  }
+]

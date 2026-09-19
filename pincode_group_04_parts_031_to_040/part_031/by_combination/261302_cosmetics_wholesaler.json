@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhay Pratap Singh",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "261302",
+    "phone_number": "+91 79050 42240",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kakaeyapara, Kamlapur, Uttar Pradesh 261302",
+    "area": "Kakaeyapara",
+    "latitude": 27.386916099999997,
+    "longitude": 80.81626849999999,
+    "place_id": "ChIJ8YqoJkUzmTkRcgLXYU5GpiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8YqoJkUzmTkRcgLXYU5GpiQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:41:35"
+  },
+  {
+    "business_name": "Indian Cosmetics",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "261302",
+    "phone_number": "+91 76519 06381",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Indian Cosmetics, Sidhauli - Misrikh Rd, Kashipur, Sidhauli, Uttar Pradesh 261303",
+    "area": "261302",
+    "latitude": 27.2842205,
+    "longitude": 80.83086879999999,
+    "place_id": "ChIJI2u2g1U1mTkRV4C3eMRLgkw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI2u2g1U1mTkRV4C3eMRLgkw",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:41:36"
+  }
+]

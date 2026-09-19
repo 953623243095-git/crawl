@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinhar Enterprises",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler, Chemical Exporter, Household chemicals supplier, Industrial chemicals wholesaler",
+    "pincode": "261501",
+    "phone_number": "+91 98201 88549",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 10,
+    "address": "Station Plaza, C 2008, Bhandup Station Rd, near Bhandup Station, Bhandup (W, Bhandup West, Mumbai, Maharashtra 400078",
+    "area": "Bhandup (W, Bhandup West",
+    "latitude": 19.1449397,
+    "longitude": 72.9379824,
+    "place_id": "ChIJXwZTrnu45zsRDdvo21Kkrdc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXwZTrnu45zsRDdvo21Kkrdc",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:54:03"
+  },
+  {
+    "business_name": "R.S. Chemicals & Fertilizers",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer",
+    "pincode": "261501",
+    "phone_number": "+91 91614 17360",
+    "website": "N/A",
+    "rating": 1.7,
+    "reviews_count": null,
+    "address": "Gurunanak Inter College Market, Rajgarh, Maharaj Nagar, Lakhimpur, Uttar Pradesh 262701",
+    "area": "Rajgarh, Maharaj Nagar",
+    "latitude": 27.939657999999998,
+    "longitude": 80.7759476,
+    "place_id": "ChIJ_2xt2fw0nzkRQ8uBPeZnpLY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_2xt2fw0nzkRQ8uBPeZnpLY",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:54:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indapur Dairy & Milk Products Limited",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy farm",
+    "all_categories": "Dairy farm, Dairy store",
+    "pincode": "261404",
+    "phone_number": "+91 77739 14242",
+    "website": "http://www.sonaidairy.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Indapur Rd, At post, Gokhali, Maharashtra 413106",
+    "area": "At post",
+    "latitude": 18.0901875,
+    "longitude": 74.9543125,
+    "place_id": "ChIJJWLyGGiHwzsRYylypV04OOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJWLyGGiHwzsRYylypV04OOg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:49:17"
+  },
+  {
+    "business_name": "Ram Milk and Milk Products",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy farm",
+    "all_categories": "Dairy farm",
+    "pincode": "261404",
+    "phone_number": "+91 97671 08484",
+    "website": "https://ram-dairy.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Varkute Ramkund road ,varkute khurd, Indapur, Maharashtra 413120",
+    "area": "261404",
+    "latitude": 18.0744488,
+    "longitude": 74.94021479999999,
+    "place_id": "ChIJf_Xa1M-HwzsRZBSTXHGyl_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf_Xa1M-HwzsRZBSTXHGyl_g",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:49:17"
+  }
+]

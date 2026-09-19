@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Drishti eye care clinic",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "261131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "BCM Hospital, New Market road, Arjunpur, Khairabad, Uttar Pradesh 261131",
+    "area": "Arjunpur",
+    "latitude": 27.5305459,
+    "longitude": 80.7451493,
+    "place_id": "ChIJ2TDUOgDVnjkR2Xos5nzXmwc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2TDUOgDVnjkR2Xos5nzXmwc",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:15:37"
+  },
+  {
+    "business_name": "Sitapur Eye Center",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "261131",
+    "phone_number": "+91 94155 65451",
+    "website": "https://sitapureyehospital.org/",
+    "rating": 2.3,
+    "reviews_count": null,
+    "address": "Police lines, Opp, Station Road, Hardoi, Uttar Pradesh 241001",
+    "area": "Civil Lines, Avas Vikas Colony",
+    "latitude": 27.398448899999998,
+    "longitude": 80.1400008,
+    "place_id": "ChIJHQlGnS34njkR0Ugpz1l_lGc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHQlGnS34njkR0Ugpz1l_lGc",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:15:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Garg Generator Service",
+    "search_category": "Generator Sales and Rental",
+    "primary_category": "Electric generator shop",
+    "all_categories": "Electric generator shop",
+    "pincode": "261405",
+    "phone_number": "+91 96677 54400",
+    "website": "http://garggeneratorservice.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Site 1, CF-4, Bulandshahr Bypass Rd, Block A, Industrial Area, Bulandshahr Road Industrial Area, Ghaziabad, Uttar Pradesh 201009",
+    "area": "Block A, Industrial Area, Bulandshahr Road Industrial Area",
+    "latitude": 28.6530781,
+    "longitude": 77.4603538,
+    "place_id": "ChIJYStZpvYx_A8Ri2XmDs_zPQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYStZpvYx_A8Ri2XmDs_zPQg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:52:25"
+  },
+  {
+    "business_name": "Rank Solutions Services",
+    "search_category": "Generator Sales and Rental",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "261405",
+    "phone_number": "+91 98509 97160",
+    "website": "http://www.ranksolutionsindia.in/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Shop no 33, Mama chauraha, Sector 2, Vikas Nagar, Lucknow, Uttar Pradesh 226021",
+    "area": "Sector 2, Vikas Nagar",
+    "latitude": 26.8952556,
+    "longitude": 80.9552499,
+    "place_id": "ChIJWzlmd-hXmTkRoII5ZGpToQ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWzlmd-hXmTkRoII5ZGpToQ4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:52:25"
+  }
+]

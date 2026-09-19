@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shani Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "261202",
+    "phone_number": "+91 96482 10000",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 874,
+    "address": "power house, Radha Nagar, Harihar Ganj, Fatehpur, Uttar Pradesh 212601",
+    "area": "Radha Nagar, Harihar Ganj",
+    "latitude": 25.8960501,
+    "longitude": 80.79012759999999,
+    "place_id": "ChIJm9OS-MSdnDkRtuoggmmYXMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm9OS-MSdnDkRtuoggmmYXMA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:27:46"
+  },
+  {
+    "business_name": "Drive2U self drive car & bike rental agency",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Car leasing service",
+    "pincode": "261202",
+    "phone_number": "+91 76190 85151",
+    "website": "https://www.drive2u.in/",
+    "rating": 4.9,
+    "reviews_count": 648,
+    "address": "6, near Rajkiya Balika Inter Collage, Shankarpuri Colony, Sector 11, Indira Nagar, Lucknow, Uttar Pradesh 226016",
+    "area": "Shankarpuri Colony, Sector 11, Indira Nagar",
+    "latitude": 26.8877101,
+    "longitude": 81.00940279999999,
+    "place_id": "ChIJe3oVIwLjmzkR0Mpl3TwHa8w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe3oVIwLjmzkR0Mpl3TwHa8w",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:27:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gym Unisex",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "261208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "56G8+92F, Tehsil Fateh Pur, Chakkajipur, Uttar Pradesh 225305",
+    "area": "261208",
+    "latitude": 27.175937599999997,
+    "longitude": 81.2150611,
+    "place_id": "ChIJFZHnqN9pmTkRQxtphIABD6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZHnqN9pmTkRQxtphIABD6o",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:37:47"
+  },
+  {
+    "business_name": "Fitness gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "261208",
+    "phone_number": "+91 78389 84071",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "near state bank, Khiron, Haripur Mirdaha, Uttar Pradesh 229205",
+    "area": "261208",
+    "latitude": 26.2917296,
+    "longitude": 80.91556729999999,
+    "place_id": "ChIJP_OjmQ-FmzkRyM2dIVtCjEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP_OjmQ-FmzkRyM2dIVtCjEM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:37:49"
+  }
+]

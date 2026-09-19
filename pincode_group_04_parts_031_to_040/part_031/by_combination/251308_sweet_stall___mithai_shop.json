@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Faridi Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "251308",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "8VG2+G94, Jansath Main Bazar Rd, Jansath, Uttar Pradesh 251314",
+    "area": "251308",
+    "latitude": 29.326254199999997,
+    "longitude": 77.8509557,
+    "place_id": "ChIJAdwdWFgJDDkRU-HWvkHlphI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAdwdWFgJDDkRU-HWvkHlphI",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:50:49"
+  },
+  {
+    "business_name": "Bhagwati Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "251308",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "FPJ2+X77, Indira Colony, Civil Lines North, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Indira Colony, Civil Lines North",
+    "latitude": 29.4824047,
+    "longitude": 77.7006682,
+    "place_id": "ChIJZ8fWM38bDDkRvW0KaD7xdHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ8fWM38bDDkRvW0KaD7xdHo",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:50:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dengra",
+    "search_category": "Salon",
+    "primary_category": "Nail salon",
+    "all_categories": "Nail salon",
+    "pincode": "261303",
+    "phone_number": "+91 81151 69053",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "8P8G+WG5, Kondri, Uttar Pradesh 261303",
+    "area": "261303",
+    "latitude": 27.3172522,
+    "longitude": 80.7263504,
+    "place_id": "ChIJRcKMRADLnjkR-y3ZWSBmB5g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRcKMRADLnjkR-y3ZWSBmB5g",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:43:18"
+  },
+  {
+    "business_name": "Smart Salon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Barber shop",
+    "pincode": "261303",
+    "phone_number": "+91 89536 79649",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "5VC5+6WF, Ataria, Uttar Pradesh 261304",
+    "area": "261303",
+    "latitude": 27.170572099999998,
+    "longitude": 80.8598105,
+    "place_id": "ChIJaYWW2g5LmTkRa4v4r2ZlzqE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaYWW2g5LmTkRa4v4r2ZlzqE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:43:18"
+  }
+]

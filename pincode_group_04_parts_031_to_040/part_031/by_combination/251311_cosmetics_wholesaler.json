@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Ji General Store",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler",
+    "pincode": "251311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "135 kayasthwada, Bhagat Singh Rd, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Sutharshahi",
+    "latitude": 29.4714034,
+    "longitude": 77.69387329999999,
+    "place_id": "ChIJ8w6VuOAbDDkR5Nc4ShuVHqU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8w6VuOAbDDkR5Nc4ShuVHqU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:56:55"
+  },
+  {
+    "business_name": "JAS PHARMA",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Pharmaceutical Products Wholesaler",
+    "all_categories": "Pharmaceutical Products Wholesaler",
+    "pincode": "251311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "1333/5, Main Rd, Ganeshpuri, kamrat, Laddhawala, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Ganeshpuri, kamrat, Laddhawala",
+    "latitude": 29.4791384,
+    "longitude": 77.69429679999999,
+    "place_id": "ChIJ1yQ6dwAbDDkRkxKNveFY2P8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1yQ6dwAbDDkRkxKNveFY2P8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:56:55"
+  }
+]

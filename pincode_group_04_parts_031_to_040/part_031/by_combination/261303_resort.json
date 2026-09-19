@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nilansh Theme Park Resort & Water Park",
+    "search_category": "Resort",
+    "primary_category": "Theme park",
+    "all_categories": "Theme park",
+    "pincode": "261303",
+    "phone_number": "+91 1800 120 700 700",
+    "website": "http://nilanshthemepark.com/",
+    "rating": 4,
+    "reviews_count": 12362,
+    "address": "Gomti River View Resorts and Farm House NH 25A, Yakaria Kalan Near Itaunja Bridge, Uttar Pradesh 261304",
+    "area": "261303",
+    "latitude": 27.080555,
+    "longitude": 80.8359511,
+    "place_id": "ChIJs0mVz2tNmTkROqghPMpQm_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs0mVz2tNmTkROqghPMpQm_E",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:43:27"
+  },
+  {
+    "business_name": "The Luxe Village Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Hotel, Wedding service, Wedding venue",
+    "pincode": "261303",
+    "phone_number": "+91 70076 91565",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Village Dewari Gaja Post Bazar gaon, Thana Mall Tehsil Malihabad, Uttar Pradesh 226104",
+    "area": "261303",
+    "latitude": 27.082104599999997,
+    "longitude": 80.7904966,
+    "place_id": "ChIJE_PnG7iznjkRHXQEP_W4yRE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE_PnG7iznjkRHXQEP_W4yRE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:43:29"
+  }
+]

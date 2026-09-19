@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahmat Cloth House",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "251203",
+    "phone_number": "+91 88649 20255",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FQ39+4Q5, Dhandhera, Dhandedha, Uttar Pradesh 251003",
+    "area": "251203",
+    "latitude": 29.4525801,
+    "longitude": 77.7693002,
+    "place_id": "ChIJr5SYJQAFDDkR0QHz24KZcxg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr5SYJQAFDDkR0QHz24KZcxg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:42:03"
+  },
+  {
+    "business_name": "Rajasthan Readymade Store",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Children's clothing store, Clothes and fabric wholesaler, Outerwear store, Tuxedo shop, Women's clothing store",
+    "pincode": "251203",
+    "phone_number": "+91 97186 08098",
+    "website": "https://rajasthanreadymadestore.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "489, Gurudwara Rd, South Extension I, Shiv Nagar, Kotla Mubarakpur, New Delhi, Delhi 110003",
+    "area": "South Extension I, Shiv Nagar, Kotla Mubarakpur",
+    "latitude": 28.573933,
+    "longitude": 77.22602739999999,
+    "place_id": "ChIJGQpudVniDDkRoekoPhXYfZ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGQpudVniDDkRoekoPhXYfZ0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:42:04"
+  }
+]

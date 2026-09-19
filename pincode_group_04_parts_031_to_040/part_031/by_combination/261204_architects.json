@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Verma & Associates",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "261204",
+    "phone_number": "+91 79830 85234",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "A-69, Shivapuram Rd, Civil Lines, Rampur, Uttar Pradesh 244926",
+    "area": "Civil Lines",
+    "latitude": 28.7763937,
+    "longitude": 79.0309647,
+    "place_id": "ChIJf74kOKuTCjkRBvgGvYG81yM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf74kOKuTCjkRBvgGvYG81yM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:31:16"
+  },
+  {
+    "business_name": "Nirmanam Architects",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect, Interior architect office, Interior Decorator, Interior designer",
+    "pincode": "261204",
+    "phone_number": "+91 70075 16561",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shri Thakur Ji Dham, Atithi Bhawan, Bankebihari Colony, Vrindavan, Mathura, Uttar Pradesh 281121",
+    "area": "Bankebihari Colony",
+    "latitude": 27.576717499999997,
+    "longitude": 77.6886191,
+    "place_id": "ChIJg9tXrIdvczkR-CVzgVslMZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg9tXrIdvczkR-CVzgVslMZw",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:31:16"
+  }
+]

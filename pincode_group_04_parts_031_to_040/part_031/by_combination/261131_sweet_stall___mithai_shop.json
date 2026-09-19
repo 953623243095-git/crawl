@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madan Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Sweet shop",
+    "pincode": "261131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 11,
+    "address": "dj college chauraha, Sujawalpur, Khairabad, Uttar Pradesh 261131",
+    "area": "Sujawalpur",
+    "latitude": 27.5335133,
+    "longitude": 80.74824439999999,
+    "place_id": "ChIJ0Yc6DnLUnjkRO6eMeZrO1V4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Yc6DnLUnjkRO6eMeZrO1V4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:15:18"
+  },
+  {
+    "business_name": "Bala Ji Sweet & Restaurant",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "261131",
+    "phone_number": "+91 79921 69228",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "83XV+XJC, Afsaria Husainpur, Uttar Pradesh 261206",
+    "area": "261131",
+    "latitude": 27.3499135,
+    "longitude": 81.0940719,
+    "place_id": "ChIJdzM4VwA_mTkRzFGD6_5sYVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdzM4VwA_mTkRzFGD6_5sYVU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:15:19"
+  }
+]

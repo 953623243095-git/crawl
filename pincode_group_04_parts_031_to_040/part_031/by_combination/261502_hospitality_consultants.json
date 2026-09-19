@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sakshi Hotel Management",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "261502",
+    "phone_number": "+91 74991 46009",
+    "website": "https://www.sakshihotelmanagement.com/",
+    "rating": 4.3,
+    "reviews_count": 11,
+    "address": "Bhagyarathi Nivas A/P, Near Nav Maharashtra Soot Girani, Taluka - Hatkanangle, Aawade Nagar, Sajani, Maharashtra 416138",
+    "area": "Aawade Nagar",
+    "latitude": 16.7165653,
+    "longitude": 74.3903782,
+    "place_id": "ChIJm6OzayzjwDsR6rVXrxinMFc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm6OzayzjwDsR6rVXrxinMFc",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:55:22"
+  },
+  {
+    "business_name": "Hospitality Consultants",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "261502",
+    "phone_number": "+91 93777 55221",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "102 Swamini, Drive In Rd, opp. Drive-in Cinema, Ahmedabad, Gujarat 380054",
+    "area": "Sunrise Park, Gurukul",
+    "latitude": 23.0469808,
+    "longitude": 72.5279635,
+    "place_id": "ChIJb0SbJ9mFXjkRlMv2xdbmHKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb0SbJ9mFXjkRlMv2xdbmHKQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:55:24"
+  }
+]

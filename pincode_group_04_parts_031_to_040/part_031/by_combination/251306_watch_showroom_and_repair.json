@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Watches Monkey",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Service establishment",
+    "pincode": "251306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Watches Monkey, 251306, India",
+    "area": "251306",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ7bdcnQRX2IsRugMdNT5wW6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7bdcnQRX2IsRugMdNT5wW6s",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:47:30"
+  },
+  {
+    "business_name": "AC repair shop",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch repair service",
+    "all_categories": "Watch repair service",
+    "pincode": "251306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Baghra, Muzaffarnagar, Uttar Pradesh 251306",
+    "area": "251306",
+    "latitude": 29.467079299999998,
+    "longitude": 77.57629969999999,
+    "place_id": "ChIJEfJYyK8ZDDkR3NQWm4t24kU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEfJYyK8ZDDkR3NQWm4t24kU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:47:30"
+  }
+]

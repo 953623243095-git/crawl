@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "REAL BUSINESS CENTRE",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "261205",
+    "phone_number": "+91 93055 92800",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Tahseen Ganj, Daulatganj, Lucknow, Uttar Pradesh 226003",
+    "area": "Tahseen Ganj, Daulatganj",
+    "latitude": 26.871520099999998,
+    "longitude": 80.8995127,
+    "place_id": "ChIJu6MAm_39mzkRS2VwFWeGBzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu6MAm_39mzkRS2VwFWeGBzc",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:33:33"
+  },
+  {
+    "business_name": "Shri Bala Ji Associates",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Apartment building, Industrial real estate agency, Land surveyor, Property management company, Real estate consultant",
+    "pincode": "261205",
+    "phone_number": "+91 98893 40987",
+    "website": "https://shribalajiassociates.vercel.app/",
+    "rating": 4.9,
+    "reviews_count": 37,
+    "address": "Amrapali Yojna, E-2/200, Hardoi Rd, Lucknow, Uttar Pradesh 226003",
+    "area": "261205",
+    "latitude": 26.885876999999997,
+    "longitude": 80.857867,
+    "place_id": "ChIJG41XxApVmTkRv0KlJ5tZZIg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG41XxApVmTkRv0KlJ5tZZIg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:33:34"
+  }
+]

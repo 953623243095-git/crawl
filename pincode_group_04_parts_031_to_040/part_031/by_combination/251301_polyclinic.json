@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prakash Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "251301",
+    "phone_number": "+91 131 243 7303",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "FMCW+JMJ, Dal Mandi Rd, Sutharshahi, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Sutharshahi",
+    "latitude": 29.471591399999998,
+    "longitude": 77.6966259,
+    "place_id": "ChIJC_43p58bDDkRTzCaabKmefQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC_43p58bDDkRTzCaabKmefQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:44:06"
+  },
+  {
+    "business_name": "SANJEEVANI HOSPITAL",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "251301",
+    "phone_number": "+91 94125 13000",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 14,
+    "address": "FPG7+GGJ, main road, Dwarika Puri, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Dwarika Puri",
+    "latitude": 29.4763324,
+    "longitude": 77.71376,
+    "place_id": "ChIJt9G3MmwbDDkRdfBkKkHTgiM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt9G3MmwbDDkRdfBkKkHTgiM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:44:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TNT Watches",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Clock and watch maker, Watch Manufacturer, Watch repair service",
+    "pincode": "261403",
+    "phone_number": "+91 98233 54978",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 2196,
+    "address": "Nirala Bazar Rd, Aurangpura, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Aurangpura",
+    "latitude": 19.8802135,
+    "longitude": 75.3238947,
+    "place_id": "ChIJhX-3b2WZ2zsRPHZCU21B1tM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhX-3b2WZ2zsRPHZCU21B1tM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:47:52"
+  },
+  {
+    "business_name": "Sunil Watch Sentar",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "261403",
+    "phone_number": "+91 91256 25679",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "Mishrikh, Misrikh-cum-Neemsar, Uttar Pradesh 261401",
+    "area": "261403",
+    "latitude": 27.4312753,
+    "longitude": 80.5318132,
+    "place_id": "ChIJ4RQ6DijdnjkR7jnISoo47Dw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4RQ6DijdnjkR7jnISoo47Dw",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:47:54"
+  }
+]

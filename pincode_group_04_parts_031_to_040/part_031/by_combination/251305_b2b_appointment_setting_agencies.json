@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "WeHelp Business Directory",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Business to business service",
+    "all_categories": "Business to business service, Advertising agency, Business networking company, Database Management Company, Service establishment, Internet marketing service, Internet service provider, Marketing agency",
+    "pincode": "251305",
+    "phone_number": "+91 82530 00666",
+    "website": "https://wehelp.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WeHelp Business Directory, 251305, India",
+    "area": "251305",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJOxu7C1TFBzsR5GTBJLmzy6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOxu7C1TFBzsR5GTBJLmzy6o",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:47:04"
+  },
+  {
+    "business_name": "CallingAgency | B2B Lead Generation Agency",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Telephone Marketing Agency",
+    "all_categories": "Telephone Marketing Agency, Service establishment, Internet marketing service",
+    "pincode": "251305",
+    "phone_number": "N/A",
+    "website": "https://callingagency.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CallingAgency | B2B Lead Generation Agency, 251305, India",
+    "area": "251305",
+    "latitude": 14.157641199999999,
+    "longitude": -149.13843699999998,
+    "place_id": "ChIJPdnwIPKypksRv_i1igvzOR8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPdnwIPKypksRv_i1igvzOR8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:47:05"
+  }
+]

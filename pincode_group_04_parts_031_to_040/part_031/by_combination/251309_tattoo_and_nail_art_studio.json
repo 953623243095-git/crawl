@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiv Tattoos studio",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo shop",
+    "all_categories": "Tattoo shop",
+    "pincode": "251309",
+    "phone_number": "+91 63961 61178",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Budhana, Uttar Pradesh 251309",
+    "area": "251309",
+    "latitude": 29.2900714,
+    "longitude": 77.4728233,
+    "place_id": "ChIJnawWuvExDDkRXd6isny0hjk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnawWuvExDDkRXd6isny0hjk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:53:23"
+  },
+  {
+    "business_name": "Gi Tattoo Studio",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo shop",
+    "all_categories": "Tattoo shop",
+    "pincode": "251309",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Ramleela ground, Sardhana, Uttar Pradesh 250342",
+    "area": "251309",
+    "latitude": 29.145233299999997,
+    "longitude": 77.6085129,
+    "place_id": "ChIJGQsZAQBrDDkR6jAe2iIurwY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGQsZAQBrDDkR6jAe2iIurwY",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:53:25"
+  }
+]

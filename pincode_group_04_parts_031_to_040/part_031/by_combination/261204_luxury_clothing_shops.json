@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Inaya Fashion",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Boutique, Designer Clothing Store, Formal Clothing Store",
+    "pincode": "261204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rajpur Chauraha, Dusri Manzil Rajpur Mayan, Chauraha, Gangapur road, Reusa, Uttar Pradesh 261205",
+    "area": "Reusa",
+    "latitude": 27.4912441,
+    "longitude": 81.2796743,
+    "place_id": "ChIJH1AO8WcbmTkRWFf-D5uJ4MQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH1AO8WcbmTkRWFf-D5uJ4MQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:30:51"
+  },
+  {
+    "business_name": "Local Designer",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store, Clothes and fabric manufacturer, Custom tailor, Embroidery service, Tailor",
+    "pincode": "261204",
+    "phone_number": "+91 79053 85807",
+    "website": "https://www.instagram.com/_local_designer_/",
+    "rating": 4.8,
+    "reviews_count": 17,
+    "address": "D 3, Golf City, 63, Golf City Road, Golf City, Bagiamau, Lucknow, Uttar Pradesh 226030",
+    "area": "Golf City, Bagiamau",
+    "latitude": 26.7927173,
+    "longitude": 81.0073987,
+    "place_id": "ChIJ84OuUt3jmzkRuyl6IcubPOQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ84OuUt3jmzkRuyl6IcubPOQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:30:53"
+  }
+]

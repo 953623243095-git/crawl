@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HCS : Hospitality Consultancy Services",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Service establishment",
+    "pincode": "261302",
+    "phone_number": "N/A",
+    "website": "http://hcs.globeventures.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HCS : Hospitality Consultancy Services, 261302, India",
+    "area": "261302",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJTS1-LeRN4DsRTw7hOv4zgnI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTS1-LeRN4DsRTw7hOv4zgnI",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:41:50"
+  },
+  {
+    "business_name": "Turnstone Hospitality Consulting",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant",
+    "pincode": "261302",
+    "phone_number": "+91 80 2559 8145",
+    "website": "https://turnstonehospitality.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "503, Usha Kiran Apartments, 25 Haudin Road, Ulsoor Road, Bengaluru, Karnataka 560042",
+    "area": "Halasuru, Yellappa Chetty Layout, Sivanchetti Gardens",
+    "latitude": 12.975680599999999,
+    "longitude": 77.6189055,
+    "place_id": "ChIJYWTey4QWrjsRM9wg81JCIzk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYWTey4QWrjsRM9wg81JCIzk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:41:50"
+  }
+]

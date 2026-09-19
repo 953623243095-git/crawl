@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satkar Tourist Bus Service",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "251315",
+    "phone_number": "+91 98100 50454",
+    "website": "http://www.satkartourist.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "474, Old Delhi, Lajpat Rai Market, Chandni Chowk, Delhi, 110006",
+    "area": "Old Delhi, Lajpat Rai Market, Chandni Chowk",
+    "latitude": 28.657459,
+    "longitude": 77.236271,
+    "place_id": "ChIJAQAAlBz9DDkRd8NLlmalzKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAlBz9DDkRd8NLlmalzKU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:00:09"
+  },
+  {
+    "business_name": "OH Enterprises",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Visa Agent",
+    "all_categories": "Visa Agent",
+    "pincode": "251315",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Saifpur Firojpur, Ramraj Rd, Ramraj, Uttar Pradesh 251320",
+    "area": "251315",
+    "latitude": 29.2509075,
+    "longitude": 78.00400859999999,
+    "place_id": "ChIJm-oMI6_1CzkRJZ03DMGYf-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm-oMI6_1CzkRJZ03DMGYf-4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:00:10"
+  }
+]

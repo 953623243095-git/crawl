@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BEER WINE SHOP BASERA",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "251310",
+    "phone_number": "+91 99270 34121",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "BEER WINE SHOP, Basera Rd, Uttar Pradesh 251310",
+    "area": "251310",
+    "latitude": 29.562853999999998,
+    "longitude": 77.8489176,
+    "place_id": "ChIJ-eECupoBDDkRAAAAMINWez4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-eECupoBDDkRAAAAMINWez4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:55:53"
+  },
+  {
+    "business_name": "Jivan City",
+    "search_category": "Shops",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "251310",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bus Stand, 457, Main Road, Muzaffarnagar, Basera, Uttar Pradesh 251310",
+    "area": "251310",
+    "latitude": 29.559981699999998,
+    "longitude": 77.8534177,
+    "place_id": "ChIJ2XzpFSABDDkR9w0gca0Vr48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2XzpFSABDDkR9w0gca0Vr48",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:55:53"
+  }
+]

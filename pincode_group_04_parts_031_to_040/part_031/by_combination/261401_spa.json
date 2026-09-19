@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Simran Beauty Parlor & Silai Center",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "261401",
+    "phone_number": "+91 63942 77399",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Atwabhatha, Sitapur - Hardoi Rd, Uttar Pradesh 261402",
+    "area": "261401",
+    "latitude": 27.386301399999997,
+    "longitude": 80.4943478,
+    "place_id": "ChIJdxSA-rTDnjkRB9zMs57R1Oo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdxSA-rTDnjkRB9zMs57R1Oo",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:45:00"
+  },
+  {
+    "business_name": "Panch Prayag",
+    "search_category": "Spa",
+    "primary_category": "Outdoor bath",
+    "all_categories": "Outdoor bath",
+    "pincode": "261401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "9F2R+RHF, Unnamed Road, Misrikh-cum-Neemsar, Uttar Pradesh 261402",
+    "area": "261401",
+    "latitude": 27.3520656,
+    "longitude": 80.4914316,
+    "place_id": "ChIJxw-vS07CnjkRyhHFZDTlxHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxw-vS07CnjkRyhHFZDTlxHE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:45:00"
+  }
+]

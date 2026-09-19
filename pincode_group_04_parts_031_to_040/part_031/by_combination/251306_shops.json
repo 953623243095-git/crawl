@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chopra Traders",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "251306",
+    "phone_number": "+91 81260 62196",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 8,
+    "address": "Sarafa Bazar, Lohiya Bazar Rd, near by Goel Dairy Sarafa, Sutharshahi, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Sutharshahi",
+    "latitude": 29.4729696,
+    "longitude": 77.6950758,
+    "place_id": "ChIJidL_iDIbDDkRG_eq0vLkYZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJidL_iDIbDDkRG_eq0vLkYZU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:48:57"
+  },
+  {
+    "business_name": "Maa Sakumbari Service Center",
+    "search_category": "Shops",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "251306",
+    "phone_number": "+91 96904 19968",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Shamli Rd, Baghra, Muzaffarnagar, Uttar Pradesh 251306",
+    "area": "251306",
+    "latitude": 29.470278,
+    "longitude": 77.5746704,
+    "place_id": "ChIJW_Bu2FgZDDkRn6I_vJdvyOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW_Bu2FgZDDkRn6I_vJdvyOg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:48:58"
+  }
+]

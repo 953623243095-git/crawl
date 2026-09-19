@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Cab 365",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Airport Shuttle Service Provider, Car leasing service, Chauffeur service, Minibus taxi service, Taxi service, Transportation service, Van rental agency",
+    "pincode": "261136",
+    "phone_number": "+91 97952 31373",
+    "website": "https://my-cab-365.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": 362,
+    "address": "Khasra No. 63, 6/7 Mutakkipur, IIM Rd, near Bala ji Enclave, Madiyaon, Lucknow, Uttar Pradesh 226021",
+    "area": "Madiyaon",
+    "latitude": 26.9308446,
+    "longitude": 80.9192791,
+    "place_id": "ChIJ0xrnqe5XmTkRt1FieIAOu-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0xrnqe5XmTkRt1FieIAOu-o",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:19:18"
+  },
+  {
+    "business_name": "Auto Driver",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "261136",
+    "phone_number": "+91 98108 40635",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CT 3759, UP 34, Alam Nagar, Sitapur, Uttar Pradesh 261001",
+    "area": "Alam Nagar",
+    "latitude": 27.572443999999997,
+    "longitude": 80.6820865,
+    "place_id": "ChIJ1y1aZAbXnjkRbb1Hh_4LHHc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1y1aZAbXnjkRbb1Hh_4LHHc",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:19:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reecollab - E-Waste Management Company",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Recycling center",
+    "all_categories": "Recycling center",
+    "pincode": "251202",
+    "phone_number": "N/A",
+    "website": "https://reecollab.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "KHASRA No. 39, 2 / 1, Kacholi Road, Jatnagla, Rohana Kalan, Uttar Pradesh 251202",
+    "area": "251202",
+    "latitude": 29.5366201,
+    "longitude": 77.6641714,
+    "place_id": "ChIJm7PSNPM0vKMRK_oGsU5cPBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm7PSNPM0vKMRK_oGsU5cPBQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:41:27"
+  },
+  {
+    "business_name": "A3 Housekeeping Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Home help service agency",
+    "all_categories": "Home help service agency",
+    "pincode": "251202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "106/77, Gaushala Nadi Rd, Niyazupura, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Niyazupura",
+    "latitude": 29.4727201,
+    "longitude": 77.6844704,
+    "place_id": "ChIJ8R4_5pYbDDkRKSB7OyjrBcM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8R4_5pYbDDkRKSB7OyjrBcM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:41:30"
+  }
+]

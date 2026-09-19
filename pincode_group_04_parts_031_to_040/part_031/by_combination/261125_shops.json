@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aadvan Royal Dry Fruit Mart",
+    "search_category": "Shops",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store",
+    "pincode": "261125",
+    "phone_number": "+91 88407 80022",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 10,
+    "address": "Ground Floor, Station Rd, nr. Prakash Petrol Pump, Tompson Ganj, Arya Nagar, Sitapur, Uttar Pradesh 261001",
+    "area": "Tompson Ganj, Arya Nagar",
+    "latitude": 27.563372299999997,
+    "longitude": 80.6854864,
+    "place_id": "ChIJPwVNqmLXnjkRdbQSqEFNBvA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPwVNqmLXnjkRdbQSqEFNBvA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:15:09"
+  },
+  {
+    "business_name": "Roshan Electronic Service",
+    "search_category": "Shops",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "261125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 8,
+    "address": "HM5W+72X, Road, Begum Bagh, Sadar Bazaar, Sitapur, Uttar Pradesh 261001",
+    "area": "Begum Bagh, Sadar Bazaar",
+    "latitude": 27.5582466,
+    "longitude": 80.6950988,
+    "place_id": "ChIJu4Rhu_PWnjkRQ3ZVdwsTm14",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu4Rhu_PWnjkRQ3ZVdwsTm14",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:15:11"
+  }
+]

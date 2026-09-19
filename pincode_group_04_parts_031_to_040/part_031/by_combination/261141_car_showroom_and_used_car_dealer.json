@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion Car",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Chauffeur service",
+    "all_categories": "Chauffeur service",
+    "pincode": "261141",
+    "phone_number": "+91 86049 02662",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Station Road, Sitapur, Uttar Pradesh 261001",
+    "area": "261141",
+    "latitude": 27.554575099999997,
+    "longitude": 80.7029912,
+    "place_id": "ChIJt-xZmezXnjkRsx8SkIobtrk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt-xZmezXnjkRsx8SkIobtrk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:20:59"
+  },
+  {
+    "business_name": "Maruti Suzuki Service (Concept Cars)",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "261141",
+    "phone_number": "+91 76076 96666",
+    "website": "https://www.marutisuzuki.com/service-workshop-in-mishrikh",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Sitapur - Kanpur Rd, near Aryavart Bank, Misrikh-cum-Neemsar, korouna, Uttar Pradesh 261401",
+    "area": "261141",
+    "latitude": 27.439305599999997,
+    "longitude": 80.5315614,
+    "place_id": "ChIJcekGV8ndnjkR8ZsxwFrgoTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcekGV8ndnjkR8ZsxwFrgoTY",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:20:59"
+  }
+]

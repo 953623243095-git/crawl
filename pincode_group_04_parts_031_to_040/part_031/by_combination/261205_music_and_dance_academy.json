@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dance Academy",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school",
+    "pincode": "261205",
+    "phone_number": "+91 94129 80765",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Lane No. 3, Sitapur Rd, Nyay Vihar Colony, Bhitauli, Lucknow, Uttar Pradesh 226013",
+    "area": "Nyay Vihar Colony, Bhitauli",
+    "latitude": 26.937583099999998,
+    "longitude": 80.9306574,
+    "place_id": "ChIJ4TLNqspXmTkRicwj7XWdNVs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4TLNqspXmTkRicwj7XWdNVs",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:33:20"
+  },
+  {
+    "business_name": "AK Music Academy",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Musician",
+    "all_categories": "Musician",
+    "pincode": "261205",
+    "phone_number": "+91 63871 22431",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sitapur Rd, Madehgunj, Lucknow, Uttar Pradesh 226020",
+    "area": "Madehgunj",
+    "latitude": 26.8815857,
+    "longitude": 80.9228701,
+    "place_id": "ChIJL5dLPQBXmTkRlmHZgMFg83o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL5dLPQBXmTkRlmHZgMFg83o",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:33:20"
+  }
+]

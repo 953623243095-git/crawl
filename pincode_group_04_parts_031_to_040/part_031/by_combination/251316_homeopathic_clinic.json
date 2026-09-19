@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Homeopathic Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopathic Clinic",
+    "all_categories": "Homeopathic Clinic",
+    "pincode": "251316",
+    "phone_number": "+91 94502 76650",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jafra, Uttar Pradesh 212104",
+    "area": "251316",
+    "latitude": 25.1184275,
+    "longitude": 82.2059605,
+    "place_id": "ChIJZ63m7YRfhTkR6WS-dKoyzmU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ63m7YRfhTkR6WS-dKoyzmU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:01:35"
+  },
+  {
+    "business_name": "Nirmal Homeopathic Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopathic pharmacy",
+    "all_categories": "Homeopathic pharmacy",
+    "pincode": "251316",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "54C9+4M2, Akhari Shahpur, Uttar Pradesh 212303",
+    "area": "251316",
+    "latitude": 25.1702664,
+    "longitude": 82.1191703,
+    "place_id": "ChIJo7fRzrBbhTkRHTXfg6-5Bxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo7fRzrBbhTkRHTXfg6-5Bxc",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:01:35"
+  }
+]

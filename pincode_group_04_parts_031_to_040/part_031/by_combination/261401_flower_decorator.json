@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chanchal Florist",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "261401",
+    "phone_number": "+91 78308 41205",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 19,
+    "address": "B.I, Bazar Cantt, Civil Lines, Bareilly, Uttar Pradesh 243001",
+    "area": "Bazar Cantt, Civil Lines",
+    "latitude": 28.3292164,
+    "longitude": 79.43016159999999,
+    "place_id": "ChIJg_0QVkkBoDkR1OkUu8ikOEY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg_0QVkkBoDkR1OkUu8ikOEY",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:45:07"
+  },
+  {
+    "business_name": "M.K flower decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "261401",
+    "phone_number": "+91 73555 31983",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kauwathor, Jabbar, Uttar Pradesh 272271",
+    "area": "261401",
+    "latitude": 26.985415,
+    "longitude": 83.147385,
+    "place_id": "ChIJUyeFU6ozkTkRp5-w2tATvNg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUyeFU6ozkTkRp5-w2tATvNg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:45:09"
+  }
+]

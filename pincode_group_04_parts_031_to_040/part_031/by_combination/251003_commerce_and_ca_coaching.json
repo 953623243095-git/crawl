@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Commerce Academy",
+    "search_category": "Commerce and CA Coaching",
+    "primary_category": "Training center",
+    "all_categories": "Training center, Chartered accountant",
+    "pincode": "251003",
+    "phone_number": "+91 98997 74218",
+    "website": "http://commerceacademy.co.in/",
+    "rating": 4.8,
+    "reviews_count": 64,
+    "address": "D-15, near Dispensary Chowk, Block C 2, Bhajanpura, Shahdara, Delhi, 110053",
+    "area": "Block C 2, Bhajanpura, Shahdara",
+    "latitude": 28.6991278,
+    "longitude": 77.264147,
+    "place_id": "ChIJ6Rf2eRX8DDkR1ihMl7eIskU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Rf2eRX8DDkR1ihMl7eIskU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:37:40"
+  },
+  {
+    "business_name": "Academy Of Commerce",
+    "search_category": "Commerce and CA Coaching",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center",
+    "pincode": "251003",
+    "phone_number": "+91 80109 03003",
+    "website": "http://www.aoc-india.co.in/",
+    "rating": 3.8,
+    "reviews_count": 35,
+    "address": "9/9, South Patel Nagar, New Delhi, Delhi 110008",
+    "area": "Block 9, South Patel Nagar, Patel Nagar",
+    "latitude": 28.6427648,
+    "longitude": 77.1718811,
+    "place_id": "ChIJq3fSl90YDTkRh4BN4VKRIBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq3fSl90YDTkRh4BN4VKRIBQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:37:40"
+  }
+]

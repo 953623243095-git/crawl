@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ansari Tailor",
+    "search_category": "Boutiques",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "251305",
+    "phone_number": "+91 82955 24845",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "No 66 Gao Banti Khera, Road, near Panchayat Ghar, Babri, Muzaffarnagar, Uttar Pradesh 251305",
+    "area": "251305",
+    "latitude": 29.485576799999997,
+    "longitude": 77.4026708,
+    "place_id": "ChIJ9WZST-0nDDkRyN0PZlTGibE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9WZST-0nDDkRyN0PZlTGibE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:45:44"
+  },
+  {
+    "business_name": "Pavitra Creation",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "251305",
+    "phone_number": "+91 79832 63042",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Village + Post, Bahawari, Uttar Pradesh 247776",
+    "area": "251305",
+    "latitude": 29.401457699999998,
+    "longitude": 77.37578359999999,
+    "place_id": "ChIJpw98bBAvDDkRcRVQOM_4Ebs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpw98bBAvDDkRcRVQOM_4Ebs",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:45:45"
+  }
+]

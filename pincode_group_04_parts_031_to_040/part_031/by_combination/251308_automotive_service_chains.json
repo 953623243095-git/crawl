@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ali Auto Service Center",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "251308",
+    "phone_number": "+91 74170 13103",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FMCJ+436, SH 12, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "251308",
+    "latitude": 29.4702798,
+    "longitude": 77.6801461,
+    "place_id": "ChIJ-1ktu5UbDDkRJ2PpcGw7MM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-1ktu5UbDDkRJ2PpcGw7MM8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:51:28"
+  },
+  {
+    "business_name": "Bharat Auto Service Center",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "251308",
+    "phone_number": "+91 98970 00709",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Yamuna Vihar, NH-58, Meerut Road, Saini Nagar, Muzaffarnagar, Khatauli Rural, Uttar Pradesh 251201",
+    "area": "Saini Nagar",
+    "latitude": 29.2746976,
+    "longitude": 77.73086579999999,
+    "place_id": "ChIJe354WGQSDDkRuIy_NmTls7A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe354WGQSDDkRuIy_NmTls7A",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:51:28"
+  }
+]

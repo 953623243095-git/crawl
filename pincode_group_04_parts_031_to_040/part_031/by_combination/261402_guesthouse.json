@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahajan guest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "261402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "9G22+MVP, Naimisaradya, Uttar Pradesh 261402",
+    "area": "261402",
+    "latitude": 27.3517169,
+    "longitude": 80.5021889,
+    "place_id": "ChIJjwgCZgDDnjkRpl299Dl1uBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjwgCZgDDnjkRpl299Dl1uBk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:46:51"
+  },
+  {
+    "business_name": "Akash Saxena",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "261402",
+    "phone_number": "+91 82992 40903",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Misrikh-cum-Neemsar, Uttar Pradesh 261402",
+    "area": "261402",
+    "latitude": 27.352510199999998,
+    "longitude": 80.4832413,
+    "place_id": "ChIJSUQ9pUTCnjkREjZyqcqQZrA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSUQ9pUTCnjkREjZyqcqQZrA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:46:51"
+  }
+]

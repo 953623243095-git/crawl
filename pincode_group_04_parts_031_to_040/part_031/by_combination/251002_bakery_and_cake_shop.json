@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cake Town",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "251002",
+    "phone_number": "+91 90580 96035",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Lane Number 14, Gandhi Colony, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Gandhi Colony",
+    "latitude": 29.482540999999998,
+    "longitude": 77.711107,
+    "place_id": "ChIJEzMD7-sbDDkRT3xvmRr4ybc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEzMD7-sbDDkRT3xvmRr4ybc",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:34:48"
+  },
+  {
+    "business_name": "Shiv kumar bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "251002",
+    "phone_number": "+91 63983 53804",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Kacchi Sadak, Malhupura, Civil Lines North, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Malhupura, Civil Lines North",
+    "latitude": 29.481510399999998,
+    "longitude": 77.70115299999999,
+    "place_id": "ChIJAQAAlHcbDDkR_KLQ8Z-1wfs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAlHcbDDkR_KLQ8Z-1wfs",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:34:50"
+  }
+]

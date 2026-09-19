@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pooja Plaza Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Breakfast restaurant, Restaurant, Vegetarian restaurant",
+    "pincode": "251315",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "7WVQ+X7C, Miranpur, Mujhera, Uttar Pradesh 251315",
+    "area": "251315",
+    "latitude": 29.2949488,
+    "longitude": 77.9381425,
+    "place_id": "ChIJZxl2IIX1CzkRh4HgxrTsl6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZxl2IIX1CzkRh4HgxrTsl6Y",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:59:37"
+  },
+  {
+    "business_name": "Shahabad Markanda Punjabi Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Dhaba",
+    "pincode": "251315",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Muzaffarnagar, SH-12A, Miranpur Muzaffarnagar Road, Miranpur, Miranpur, Uttar Pradesh 251315",
+    "area": "251315",
+    "latitude": 29.2975,
+    "longitude": 77.9326,
+    "place_id": "ChIJG3yloYj1CzkRQ5IM8j6bryQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG3yloYj1CzkRQ5IM8j6bryQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:59:37"
+  }
+]

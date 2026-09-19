@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Moharram Ali Vegetables Store",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "251202",
+    "phone_number": "+91 84496 89968",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Niraana, Uttar Pradesh 251203",
+    "area": "251202",
+    "latitude": 29.415750499999998,
+    "longitude": 77.7657708,
+    "place_id": "ChIJXUHUcXwFDDkRoqEqcPUkiDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXUHUcXwFDDkRoqEqcPUkiDM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:40:10"
+  },
+  {
+    "business_name": "Aakash Vegetable Shop",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "251202",
+    "phone_number": "+91 75992 44425",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "19, Uttar Pradesh 251311",
+    "area": "251202",
+    "latitude": 29.5268435,
+    "longitude": 77.6330289,
+    "place_id": "ChIJI9Xg9Z0fDDkRpt_ITvK90fI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI9Xg9Z0fDDkRpt_ITvK90fI",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:40:10"
+  }
+]

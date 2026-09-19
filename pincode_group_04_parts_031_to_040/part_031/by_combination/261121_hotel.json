@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel O Kashvi Inn & Cafe",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "261121",
+    "phone_number": "+91 124 620 1516",
+    "website": "https://www.oyorooms.com/307677/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "0 village sarinama Behjam road Block Oeal Road, Behjam road, Sarinama, Lakhimpur, Uttar Pradesh 262725",
+    "area": "Sarinama",
+    "latitude": 27.835286,
+    "longitude": 80.7393493,
+    "place_id": "ChIJcUb1fMoznzkR_BhJoJaGn8g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcUb1fMoznzkR_BhJoJaGn8g",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:12:44"
+  },
+  {
+    "business_name": "Oel Nature Retreat",
+    "search_category": "Hotel",
+    "primary_category": "Farmstay",
+    "all_categories": "Farmstay, Holiday home, Home Stay",
+    "pincode": "261121",
+    "phone_number": "+91 99199 44525",
+    "website": "https://oelnatureretreat.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Nature Retreat, Oel, Oel Dhakwa, Uttar Pradesh 262725",
+    "area": "261121",
+    "latitude": 27.8314827,
+    "longitude": 80.7446094,
+    "place_id": "ChIJ_dpYJ6UznzkR4-zwA_3kAwg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_dpYJ6UznzkR4-zwA_3kAwg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:12:44"
+  }
+]

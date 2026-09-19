@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parmeshwar deen",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "261404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FH3R+85R, Jairampur, Madar, Uttar Pradesh 261405",
+    "area": "261404",
+    "latitude": 27.453367099999998,
+    "longitude": 80.5903767,
+    "place_id": "ChIJ8fvpOwDbnjkRF7CiYvLVMoE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8fvpOwDbnjkRF7CiYvLVMoE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:49:50"
+  },
+  {
+    "business_name": "Sarna & Company",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "261404",
+    "phone_number": "+91 93350 48324",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop No 107, Lal Imli Crossing Cycle Market, Kanpur, Uttar Pradesh 208001",
+    "area": "Lal Imli Cycle Market, Colonelganj",
+    "latitude": 26.475531999999998,
+    "longitude": 80.340261,
+    "place_id": "ChIJ571kmoJHnDkRhRtQ2dMVOIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ571kmoJHnDkRhRtQ2dMVOIY",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:49:53"
+  }
+]

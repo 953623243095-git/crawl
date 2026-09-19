@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NIGAM PROPERTIES",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "261303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "7RGV+9GX, Sidhauli - Mahmudabad Rd, Sant Nagar, Sidhauli, Uttar Pradesh 261303",
+    "area": "Sant Nagar",
+    "latitude": 27.275982,
+    "longitude": 80.8438493,
+    "place_id": "ChIJCx7D5yQ1mTkRJVd8SqDfPv4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCx7D5yQ1mTkRJVd8SqDfPv4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:43:49"
+  },
+  {
+    "business_name": "Unipropertybazar",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "261303",
+    "phone_number": "+91 522 275 6651",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Railway Crossing, Padma Complex, Purnia, Sitapur Rd, Lucknow, Uttar Pradesh 261303",
+    "area": "261303",
+    "latitude": 27.219146,
+    "longitude": 80.8494245,
+    "place_id": "ChIJwS4kyPZKmTkRoygiHGEEFrk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwS4kyPZKmTkRoygiHGEEFrk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:43:52"
+  }
+]

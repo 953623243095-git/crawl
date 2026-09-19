@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandra Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "251201",
+    "phone_number": "+91 98379 91999",
+    "website": "http://jewershala.com/",
+    "rating": 3.7,
+    "reviews_count": 10,
+    "address": "Bara Bazar Rd, near to Shri 1008 Shantinath Digamber Jain Mandir, Bara Bazar, Shivpuri, Khatauli, Uttar Pradesh 251201",
+    "area": "Bara Bazar, Shivpuri",
+    "latitude": 29.2801419,
+    "longitude": 77.7307281,
+    "place_id": "ChIJFxcwC28SDDkREjF34DwtZKY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFxcwC28SDDkREjF34DwtZKY",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:38:32"
+  },
+  {
+    "business_name": "Shree kishan Ji Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "251201",
+    "phone_number": "+91 98970 73383",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 20,
+    "address": "Ashoka Market Gali Number 2, Shivpuri, Khatauli, Uttar Pradesh 251201",
+    "area": "Shivpuri",
+    "latitude": 29.277522899999997,
+    "longitude": 77.73466619999999,
+    "place_id": "ChIJyZsJx3oSDDkR7wYE3qtde7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyZsJx3oSDDkR7wYE3qtde7c",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:38:32"
+  }
+]

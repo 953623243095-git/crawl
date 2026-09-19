@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ARIHANT PAINT STORE",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "251003",
+    "phone_number": "+91 80771 10780",
+    "website": "https://wonderful-blancmange-d10b0e.netlify.app/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road, Arya Puram, Manglapuri Mandi, Gokulpur, Shahpur, Uttar Pradesh 251318",
+    "area": "Arya Puram, Manglapuri Mandi, Gokulpur",
+    "latitude": 29.351082199999997,
+    "longitude": 77.54717769999999,
+    "place_id": "ChIJSyUzsXE9DDkRXKRKBLn4sBM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSyUzsXE9DDkRXKRKBLn4sBM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:37:12"
+  },
+  {
+    "business_name": "GUDDU PAINT STORE",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "251003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "near CELEBRATION FIRM HOUSE, opp. HP PETROL PUMP, Indira Colony, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Indira Colony",
+    "latitude": 29.4986125,
+    "longitude": 77.69969929999999,
+    "place_id": "ChIJr-rVIkQbDDkRS8ldkAiKX2E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr-rVIkQbDDkRS8ldkAiKX2E",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:37:14"
+  }
+]

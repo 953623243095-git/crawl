@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tripathi book depo",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Store",
+    "pincode": "261135",
+    "phone_number": "+91 94503 78616",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Mohalla Kazi Tola, Laharpur, Uttar Pradesh 261135",
+    "area": "Mohalla Kazi Tola",
+    "latitude": 27.7145637,
+    "longitude": 80.8973575,
+    "place_id": "ChIJg3efV1HVmDkRZ9aNfiFrEFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg3efV1HVmDkRZ9aNfiFrEFg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:18:06"
+  },
+  {
+    "business_name": "Ahmad Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "261135",
+    "phone_number": "+91 96169 29277",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Moh.Chikki Tola, Ahmad Book Depot, Laharpur, Bankat, Uttar Pradesh 261135",
+    "area": "261135",
+    "latitude": 27.7070157,
+    "longitude": 80.90543459999999,
+    "place_id": "ChIJSzgh86XWmDkRzHsQ88ZBtpE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSzgh86XWmDkRzHsQ88ZBtpE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:18:06"
+  }
+]

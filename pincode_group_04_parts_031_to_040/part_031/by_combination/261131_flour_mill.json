@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sandeep Jaiswal",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "261131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GV63+G7M, Bhagwanpur, Saghuwapur, Uttar Pradesh 261145",
+    "area": "261131",
+    "latitude": 27.511311499999998,
+    "longitude": 80.8531282,
+    "place_id": "ChIJXdRBPwAtmTkRfH1pxkTNW0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXdRBPwAtmTkRfH1pxkTNW0I",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:15:13"
+  },
+  {
+    "business_name": "Rahul Yadav",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "261131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Near, Lakhimpur Bypass Rd, Ambikapuram, Anand Nagar, Sitapur, Uttar Pradesh 261001",
+    "area": "Ambikapuram, Anand Nagar",
+    "latitude": 27.566415499999998,
+    "longitude": 80.7003622,
+    "place_id": "ChIJOUdI8M7XnjkRLlauUgumryI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOUdI8M7XnjkRLlauUgumryI",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:15:13"
+  }
+]

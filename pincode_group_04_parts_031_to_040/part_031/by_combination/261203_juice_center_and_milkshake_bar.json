@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Juicy bites",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Fast food restaurant",
+    "pincode": "261203",
+    "phone_number": "+91 77600 93039",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Vinayak Nagar Colony, Shaikpet, Hyderabad, Telangana 500104, Hyderabad, Telangana 500008",
+    "area": "Vinayak Nagar Colony, Shaikpet",
+    "latitude": 17.4003624,
+    "longitude": 78.3937792,
+    "place_id": "ChIJMzY3ewCXyzsR6EYs4lYcz5I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMzY3ewCXyzsR6EYs4lYcz5I",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:28:57"
+  },
+  {
+    "business_name": "Masqati True Juice",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "261203",
+    "phone_number": "+91 90309 01955",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Etebar Chowk, Kotla Alijah, Moghalpura, Hyderabad, Telangana 500002",
+    "area": "Etebar Chowk, Kotla Alijah, Moghalpura",
+    "latitude": 17.362087199999998,
+    "longitude": 78.48003779999999,
+    "place_id": "ChIJ8_wQaCGYyzsRQntRbOiIazo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8_wQaCGYyzsRQntRbOiIazo",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:28:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khetan Textile",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "261202",
+    "phone_number": "+91 343 255 5322",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Hanuman Mandir Lane, Hattala Rd, Station Bazar, Industrial Area, Durgapur, West Bengal 713201",
+    "area": "Station Bazar, Industrial Area",
+    "latitude": 23.4964375,
+    "longitude": 87.3198125,
+    "place_id": "ChIJOTYw54Nx9zkRVNRT-Vd3-QI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOTYw54Nx9zkRVNRT-Vd3-QI",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:27:25"
+  },
+  {
+    "business_name": "Fabric Dekho",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Fabric wholesaler",
+    "all_categories": "Fabric wholesaler",
+    "pincode": "261202",
+    "phone_number": "N/A",
+    "website": "https://www.fabricdekho.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Flat 1, First Floor, Plot No. B-74, Shree Krishna Residency Awadhpuri, Lalarpura Rd, Vaishali Nagar, Jaipur, Rajasthan 302021",
+    "area": "Vaishali Nagar",
+    "latitude": 26.9021531,
+    "longitude": 75.71254859999999,
+    "place_id": "ChIJB8M5suxLbDkRcim_14PGl4M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB8M5suxLbDkRcim_14PGl4M",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:27:26"
+  }
+]

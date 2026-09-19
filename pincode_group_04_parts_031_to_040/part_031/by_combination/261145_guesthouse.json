@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PWD Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "261145",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 59,
+    "address": "FXXP+57R, Near Railway Crossing, Sitapur Road, SH 30B, Uttar Pradesh 261201",
+    "area": "261145",
+    "latitude": 27.4979992,
+    "longitude": 80.9856521,
+    "place_id": "ChIJlRyY3X0vmTkR8iB2nCgzmYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlRyY3X0vmTkR8iB2nCgzmYs",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:23:06"
+  },
+  {
+    "business_name": "Vishnu Paradies, Biswan",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "261145",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 117,
+    "address": "FXMQ+7V9, Biswan, Uttar Pradesh 261201",
+    "area": "261145",
+    "latitude": 27.4831616,
+    "longitude": 80.9897221,
+    "place_id": "ChIJWaqBqn0lmTkRIncqwPzTuvo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWaqBqn0lmTkRIncqwPzTuvo",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:23:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "2Exhibitions",
+    "search_category": "Tradeshows",
+    "primary_category": "Exhibition planner",
+    "all_categories": "Exhibition planner, Service establishment",
+    "pincode": "251310",
+    "phone_number": "+91 98110 71845",
+    "website": "https://www.2exhibitions.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2Exhibitions, 251310, India",
+    "area": "251310",
+    "latitude": 28.5273522,
+    "longitude": 77.20898509999999,
+    "place_id": "ChIJc3cfou8BDTkR589lMy1E4BU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc3cfou8BDTkR589lMy1E4BU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:55:47"
+  },
+  {
+    "business_name": "IHGF Delhi Fair",
+    "search_category": "Tradeshows",
+    "primary_category": "Association / Organization",
+    "all_categories": "Association / Organization",
+    "pincode": "251310",
+    "phone_number": "+91 11 2613 5256",
+    "website": "https://ihgfdelhifair.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "FG52+X6R, India Expo Mart Cir, Knowledge Park II, Greater Noida, Uttar Pradesh 201310",
+    "area": "Knowledge Park II",
+    "latitude": 28.4599889,
+    "longitude": 77.5005244,
+    "place_id": "ChIJTaa0VjnBDDkRCOHxXOqgAK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTaa0VjnBDDkRCOHxXOqgAK0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:55:47"
+  }
+]

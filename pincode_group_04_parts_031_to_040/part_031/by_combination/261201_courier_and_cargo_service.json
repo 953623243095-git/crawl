@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Post Office, Deokalia",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "261201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "C2VG+WC, Mochklan, Uttar Pradesh 261201",
+    "area": "261201",
+    "latitude": 27.4447647,
+    "longitude": 81.0260005,
+    "place_id": "ChIJATcC1Io7mTkRK7S10LxDUdk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJATcC1Io7mTkRK7S10LxDUdk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:26:49"
+  },
+  {
+    "business_name": "Aryan Dubai Modern",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "261201",
+    "phone_number": "+91 99566 01105",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Reosa, Uttar Pradesh 261203",
+    "area": "261201",
+    "latitude": 27.296733399999997,
+    "longitude": 81.1251609,
+    "place_id": "ChIJAXd3vBA_mTkRrq_NSycdLb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAXd3vBA_mTkRrq_NSycdLb4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:26:49"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mandi Yard",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Farmers' market",
+    "all_categories": "Farmers' market",
+    "pincode": "251201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "9H65+J49, Muzaffarnagar, Uttar Pradesh 251318",
+    "area": "251201",
+    "latitude": 29.361534499999998,
+    "longitude": 77.5578694,
+    "place_id": "ChIJ6wWQFmE9DDkRa2YqJ1VQPEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6wWQFmE9DDkRa2YqJ1VQPEA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:39:57"
+  },
+  {
+    "business_name": "कूकड़ा सब्जी मंडी",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Fresh food market",
+    "all_categories": "Fresh food market",
+    "pincode": "251201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 724,
+    "address": "FP8F+XF4, Naveen Mandi, Gandhi Nagar, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Naveen Mandi, Gandhi Nagar",
+    "latitude": 29.4673804,
+    "longitude": 77.7236906,
+    "place_id": "ChIJC5AqMxkbDDkRArBQMgUbn-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC5AqMxkbDDkRArBQMgUbn-w",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:39:59"
+  }
+]

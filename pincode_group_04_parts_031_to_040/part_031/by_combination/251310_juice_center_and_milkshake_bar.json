@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MS Juice Corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "251310",
+    "phone_number": "+91 90592 65568",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 39,
+    "address": "9GVH+5W3, Amberpet, Hyderabad, Telangana 500013",
+    "area": "Amberpet",
+    "latitude": 17.392924999999998,
+    "longitude": 78.52981,
+    "place_id": "ChIJpxbObCSZyzsRtGuv_VBgWEs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpxbObCSZyzsRtGuv_VBgWEs",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:54:18"
+  },
+  {
+    "business_name": "Scoops & Shakes The Cafe",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Cafe",
+    "pincode": "251310",
+    "phone_number": "+91 85658 57291",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "300, Old Bairhana, Madhwapur, Prayagraj, Uttar Pradesh 211006",
+    "area": "Old Bairhana, Madhwapur",
+    "latitude": 25.441593899999997,
+    "longitude": 81.8608369,
+    "place_id": "ChIJRwy-S1zLmjkRMtrgp9Np6Fg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRwy-S1zLmjkRMtrgp9Np6Fg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:54:20"
+  }
+]

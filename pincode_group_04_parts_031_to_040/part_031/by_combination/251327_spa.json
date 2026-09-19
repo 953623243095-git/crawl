@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Clinic",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "251327",
+    "phone_number": "+91 97192 61635",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Khanpur, Badhiwala, Uttarakhand 251327",
+    "area": "251327",
+    "latitude": 29.6330717,
+    "longitude": 77.95869569999999,
+    "place_id": "ChIJb3DuQwlVCTkRmHTYOmgtYI0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb3DuQwlVCTkRmHTYOmgtYI0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:09:08"
+  },
+  {
+    "business_name": "Dr.sumit Prajapati",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "251327",
+    "phone_number": "+91 75794 41614",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dr Kumhar Clinic, Goverdhanpur Laksar Hridwar 247663, Muzaffarnagar, Uttar Pradesh 251327",
+    "area": "251327",
+    "latitude": 29.6990619,
+    "longitude": 77.9951543,
+    "place_id": "ChIJBZPAVTpVCTkRG6ptuLvuCPM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBZPAVTpVCTkRG6ptuLvuCPM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:09:08"
+  }
+]

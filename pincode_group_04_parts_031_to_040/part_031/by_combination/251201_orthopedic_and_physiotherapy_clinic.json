@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shifa Physiotherapy Centre",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "251201",
+    "phone_number": "+91 70788 14121",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Jansath Road, near Chaman Palaja, Jansath, Antwara, Uttar Pradesh 251201",
+    "area": "251201",
+    "latitude": 29.3143861,
+    "longitude": 77.8058453,
+    "place_id": "ChIJZcZ7wxANDDkRUxJZwDdsBnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZcZ7wxANDDkRUxJZwDdsBnc",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:38:43"
+  },
+  {
+    "business_name": "Pro vital physio care",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "251201",
+    "phone_number": "+91 97609 54304",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Muzaffarnagar medical College, opposite jama masjid, Ghasipura, Uttar Pradesh 251203",
+    "area": "251201",
+    "latitude": 29.3674046,
+    "longitude": 77.7067533,
+    "place_id": "ChIJ1x5y-8oRDDkR1kTLgQdZuaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1x5y-8oRDDkR1kTLgQdZuaM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:38:45"
+  }
+]

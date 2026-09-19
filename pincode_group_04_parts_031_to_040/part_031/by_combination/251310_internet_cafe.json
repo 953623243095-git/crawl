@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "INTERNET & COMPUTER CENTER",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Service establishment",
+    "pincode": "251310",
+    "phone_number": "+91 90454 64738",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "INTERNET & COMPUTER CENTER, 251310, India",
+    "area": "251310",
+    "latitude": 29.4751257,
+    "longitude": 77.70885779999999,
+    "place_id": "ChIJUa2ton4HDDkRoASQe5mfaG0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUa2ton4HDDkRoASQe5mfaG0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:55:27"
+  },
+  {
+    "business_name": "Cyber Cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "251310",
+    "phone_number": "+91 80778 50837",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mahaveer Chowk, Prempuri, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Prempuri",
+    "latitude": 29.4705959,
+    "longitude": 77.7074865,
+    "place_id": "ChIJlywzjTQbDDkR_RTArxZg6EE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlywzjTQbDDkR_RTArxZg6EE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:55:28"
+  }
+]

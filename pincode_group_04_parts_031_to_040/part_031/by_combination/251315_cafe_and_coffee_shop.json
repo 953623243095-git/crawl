@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "पंडित जी टीस्टॉल",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "251315",
+    "phone_number": "+91 81715 41614",
+    "website": "http://214.14.17.138/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "8X58+M3Q, Sikhreda, Rasulpur, Uttar Pradesh 251315",
+    "area": "251315",
+    "latitude": 29.308556699999997,
+    "longitude": 77.964075,
+    "place_id": "ChIJiRGtdwD1CzkRYq2BozC3ZpQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiRGtdwD1CzkRYq2BozC3ZpQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:59:39"
+  },
+  {
+    "business_name": "The velvet lounge",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "251315",
+    "phone_number": "+91 70789 15310",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "Link road, Adarsh Colony, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Adarsh Colony",
+    "latitude": 29.473072,
+    "longitude": 77.7215901,
+    "place_id": "ChIJh4hXZKgbDDkRwkmEZX5WWK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh4hXZKgbDDkRwkmEZX5WWK0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:59:40"
+  }
+]

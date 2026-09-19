@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubham Optician Center",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "251309",
+    "phone_number": "+91 89380 81209",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Budhana - Muzaffarnagar Rd, Budhana, Uttar Pradesh 251309",
+    "area": "251309",
+    "latitude": 29.280554499999997,
+    "longitude": 77.47046139999999,
+    "place_id": "ChIJWQuRReU_DDkRnIFlJWYpfP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWQuRReU_DDkRnIFlJWYpfP8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:52:52"
+  },
+  {
+    "business_name": "ANAND SHARMA OPTICAL",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "251309",
+    "phone_number": "+91 95480 61964",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "00, TEJGARHI CHORAHA, Meerut, Uttar Pradesh 251309",
+    "area": "251309",
+    "latitude": 29.2871015,
+    "longitude": 77.47258219999999,
+    "place_id": "ChIJcRuw96c_DDkRyKeuv_LVEZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcRuw96c_DDkRyKeuv_LVEZQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:52:53"
+  }
+]

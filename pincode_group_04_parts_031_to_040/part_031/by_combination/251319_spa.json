@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Song",
+    "search_category": "Spa",
+    "primary_category": "Sauna",
+    "all_categories": "Sauna",
+    "pincode": "251319",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Umarpur, Uttar Pradesh 251318",
+    "area": "251319",
+    "latitude": 29.328452799999997,
+    "longitude": 77.50676059999999,
+    "place_id": "ChIJ0_vti-89DDkRVl_DMGZG08s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0_vti-89DDkRVl_DMGZG08s",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:05:39"
+  },
+  {
+    "business_name": "Shri Radhe Beauty Parlour",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "251319",
+    "phone_number": "+91 88680 07765",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Shahpur Village Main Road Market, Uttar Pradesh 251318",
+    "area": "251319",
+    "latitude": 29.3557945,
+    "longitude": 77.5531333,
+    "place_id": "ChIJd2SiAyo9DDkRlSlfU3vG37U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd2SiAyo9DDkRlSlfU3vG37U",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:05:39"
+  }
+]

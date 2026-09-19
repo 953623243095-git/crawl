@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ravi Breakdown",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "261131",
+    "phone_number": "+91 99092 12345",
+    "website": "https://ravibreakdown.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "U-13, 14 Bhedwad, AkashBhumi Complex, Pandesara GIDC, Udhana, Surat, Gujarat 394221",
+    "area": "Bhedwad, Pandesara GIDC, Udhana",
+    "latitude": 21.150968199999998,
+    "longitude": 72.8459136,
+    "place_id": "ChIJWa1ZkmBR4DsRf9p93eDSKu4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWa1ZkmBR4DsRf9p93eDSKu4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:15:52"
+  },
+  {
+    "business_name": "Satnam Breakdown Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane service",
+    "all_categories": "Crane service",
+    "pincode": "261131",
+    "phone_number": "+91 532 268 4335",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "262, Rewa Rd, Near 1 KM. Of Old Yamuna Bridge, Mahewa, Naini, Prayagraj, Madauka Kachhar, Uttar Pradesh 211007",
+    "area": "Mahewa, Naini",
+    "latitude": 25.409567,
+    "longitude": 81.841537,
+    "place_id": "ChIJy3dTVRQ1hTkRfHu8GD3q-AM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy3dTVRQ1hTkRfHu8GD3q-AM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:15:52"
+  }
+]

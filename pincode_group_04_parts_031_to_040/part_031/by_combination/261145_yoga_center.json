@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "In house yoga",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio, Fitness center",
+    "pincode": "261145",
+    "phone_number": "+91 63924 01012",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 63,
+    "address": "Rohit Grand, Lucknow, Uttar Pradesh 226021",
+    "area": "261145",
+    "latitude": 26.937247799999998,
+    "longitude": 80.9640727,
+    "place_id": "ChIJgx1l-pFXmTkRgXauukz-_4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgx1l-pFXmTkRgXauukz-_4Y",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:22:37"
+  },
+  {
+    "business_name": "Akashaa Yoga",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "261145",
+    "phone_number": "+91 91403 91184",
+    "website": "http://www.akashaayoga.com/",
+    "rating": 5,
+    "reviews_count": 226,
+    "address": "201-A, Kanpur Rd, Hind Nagar, HindNagar, LDA Colony, Lucknow, Uttar Pradesh 226012",
+    "area": "Hind Nagar, HindNagar, LDA Colony",
+    "latitude": 26.7895433,
+    "longitude": 80.9009647,
+    "place_id": "ChIJoUVt9K_5mzkRowEec6BkKQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoUVt9K_5mzkRowEec6BkKQ0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:22:37"
+  }
+]

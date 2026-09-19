@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ace gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "261136",
+    "phone_number": "+91 77049 63016",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Sitapur, Sitapur Mafi, Uttar Pradesh 210204",
+    "area": "Sitapur",
+    "latitude": 25.1886299,
+    "longitude": 80.8669915,
+    "place_id": "ChIJBet8QLunhDkR24KdCYapeIk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBet8QLunhDkR24KdCYapeIk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:19:11"
+  },
+  {
+    "business_name": "Yatharth Fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "261136",
+    "phone_number": "+91 96165 42275",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Avas Vikas Colony, Sitapur, Uttar Pradesh 261001",
+    "area": "Avas Vikas Colony",
+    "latitude": 27.5567085,
+    "longitude": 80.69467259999999,
+    "place_id": "ChIJ79FgYFjXnjkRIf07qrYdJno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ79FgYFjXnjkRIf07qrYdJno",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:19:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CITY EYE CARE & OPTICAL",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "261205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "GPHX+2WX, BCM Rd, Qasbati Tola, Khairabad, Uttar Pradesh 261131",
+    "area": "Qasbati Tola",
+    "latitude": 27.5276028,
+    "longitude": 80.7498729,
+    "place_id": "ChIJO7xV2MvVnjkRK301ssIQI24",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO7xV2MvVnjkRK301ssIQI24",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:32:36"
+  },
+  {
+    "business_name": "Sitapur Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "261205",
+    "phone_number": "N/A",
+    "website": "https://sitapureyehospital.org/",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "6XC7+932, Stadium Road, Eye Hospital Rd, behind L D Bhatt Govt. Hospital, Kashipur, Uttarakhand 244713",
+    "area": "261205",
+    "latitude": 29.2194409,
+    "longitude": 78.96199279999999,
+    "place_id": "ChIJn3rT-sVDCjkRiLnbbhVgdF0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn3rT-sVDCjkRiLnbbhVgdF0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:32:37"
+  }
+]

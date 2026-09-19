@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DTDC courier",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "251320",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 17,
+    "address": "6Q48+RX5, Anpara, Uttar Pradesh 231225",
+    "area": "251320",
+    "latitude": 24.2070011,
+    "longitude": 82.7674844,
+    "place_id": "ChIJp4S9ZmIljzkRZs1PkjcZ3cA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp4S9ZmIljzkRZs1PkjcZ3cA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:07:54"
+  },
+  {
+    "business_name": "Rawali bijnor",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "251320",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C3X9+FV3, Rafiul Nagar Urf Rawali, Shahajadpur Ahatmali, Uttar Pradesh 246721",
+    "area": "251320",
+    "latitude": 29.4486332,
+    "longitude": 78.06965799999999,
+    "place_id": "ChIJh_VAbgD7CzkREH6KwyQHp2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh_VAbgD7CzkREH6KwyQHp2I",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:07:55"
+  }
+]

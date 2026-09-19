@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mittal Paints",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "251201",
+    "phone_number": "+91 99996 63995",
+    "website": "https://www.mittalpaintsvasantkunj.in/",
+    "rating": 4.9,
+    "reviews_count": 236,
+    "address": "Farms, Ground Floor, Plot No.13, Masoodpur Dairy, near Hero Honda showroom, Sector B, Vasant Kunj, New Delhi, Delhi 110070",
+    "area": "Masoodpur, Sector B, Vasant Kunj",
+    "latitude": 28.528461999999998,
+    "longitude": 77.1526071,
+    "place_id": "ChIJrTldLjcfDTkRKf0zOcwSuGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrTldLjcfDTkRKf0zOcwSuGg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:39:00"
+  },
+  {
+    "business_name": "Sakarni Plaster India Pvt.Ltd",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Cement Manufacturer",
+    "all_categories": "Cement Manufacturer, Gypsum Product Supplier",
+    "pincode": "251201",
+    "phone_number": "+91 11 4790 8032",
+    "website": "https://sakarni.com/",
+    "rating": 4.4,
+    "reviews_count": 198,
+    "address": "WZ-446/337, Srinagar Extension Shakurpur, Shakur Basti, New Delhi, Delhi, 110034",
+    "area": "Srinagar Extension Shakurpur, Shakur Basti",
+    "latitude": 28.6814316,
+    "longitude": 77.1397629,
+    "place_id": "ChIJd-3rnjD9DDkR6jbYtmxWSYY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd-3rnjD9DDkR6jbYtmxWSYY",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:39:00"
+  }
+]

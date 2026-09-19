@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajeev Farma",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "261141",
+    "phone_number": "+91 88087 65545",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Maholi, Uttar Pradesh 261141",
+    "area": "261141",
+    "latitude": 27.6525867,
+    "longitude": 80.4777742,
+    "place_id": "ChIJ51Rm_k4hnzkRUK-0T4magL0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ51Rm_k4hnzkRUK-0T4magL0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:20:45"
+  },
+  {
+    "business_name": "Moonga lal Rang lal ayurvedic store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "261141",
+    "phone_number": "+91 94150 84515",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Ghantaghar, Sitapur, Uttar Pradesh 261001",
+    "area": "Ghantaghar",
+    "latitude": 27.569439799999998,
+    "longitude": 80.681547,
+    "place_id": "ChIJVSeUE1TWnjkRUCEg7WB0LKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVSeUE1TWnjkRUCEg7WB0LKU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:20:46"
+  }
+]

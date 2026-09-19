@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bombe Kalcher Buteeq",
+    "search_category": "Fish Market",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "251306",
+    "phone_number": "+91 95687 20580",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tara Chand Market, Bombe Kalcher Buteeq, Bhagat Singh Rd, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Niyazupura",
+    "latitude": 29.4806319,
+    "longitude": 77.6839882,
+    "place_id": "ChIJMzVoT6IbDDkRfxlbuxJn-BY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMzVoT6IbDDkRfxlbuxJn-BY",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:47:12"
+  },
+  {
+    "business_name": "Deepak baliyan",
+    "search_category": "Fish Market",
+    "primary_category": "Farmers' market",
+    "all_categories": "Farmers' market",
+    "pincode": "251306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "13, near Beej bhandar, Mandi, Uttar Pradesh 251306",
+    "area": "251306",
+    "latitude": 29.4381271,
+    "longitude": 77.5767944,
+    "place_id": "ChIJK99QRQAZDDkRlNqQHujKaTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK99QRQAZDDkRlNqQHujKaTs",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:47:12"
+  }
+]

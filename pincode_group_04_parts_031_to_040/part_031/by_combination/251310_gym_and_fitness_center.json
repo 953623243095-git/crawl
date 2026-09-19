@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fitness factory gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "251310",
+    "phone_number": "+91 90687 58530",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tugalakpur, Uttar Pradesh 251310",
+    "area": "251310",
+    "latitude": 29.600643299999998,
+    "longitude": 77.8921366,
+    "place_id": "ChIJ4yG8bN4BDDkRMn0VOl-D2cM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4yG8bN4BDDkRMn0VOl-D2cM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:54:45"
+  },
+  {
+    "business_name": "Prozvo Fit Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "251310",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 37,
+    "address": "456,Luthra complex, gali no.10, Gandhi Colony, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Gandhi Colony",
+    "latitude": 29.478267499999998,
+    "longitude": 77.7127482,
+    "place_id": "ChIJe2BBGWsbDDkRL0zUb_wa6WE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe2BBGWsbDDkRL0zUb_wa6WE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:54:48"
+  }
+]

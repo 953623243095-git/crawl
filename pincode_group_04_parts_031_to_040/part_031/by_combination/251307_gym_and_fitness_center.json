@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shobhit fitness club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "251307",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HMFV+MP5, Khanpur Road, Khanpur, Bagumpur, Uttar Pradesh 251202",
+    "area": "251307",
+    "latitude": 29.5741336,
+    "longitude": 77.6943576,
+    "place_id": "ChIJ1bq-BwAdDDkRqIYQRgg_2A4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1bq-BwAdDDkRqIYQRgg_2A4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:49:30"
+  },
+  {
+    "business_name": "SBD Powerlifting Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "251307",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "FPCH+F36, Gandhi Nagar, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Gandhi Nagar",
+    "latitude": 29.4711617,
+    "longitude": 77.7276278,
+    "place_id": "ChIJYZstQAAbDDkRzKExLZBsN9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYZstQAAbDDkRzKExLZBsN9s",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:49:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GUNGUN TRAVEL & TAXI Lucknow",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Car leasing service, Taxi service, Tour operator, Travel agency",
+    "pincode": "261205",
+    "phone_number": "+91 91513 33750",
+    "website": "https://www.gunguntravel.com/",
+    "rating": 5,
+    "reviews_count": 553,
+    "address": "Door No - 502, Goyal Apartment, Crown Mall, Faizabad Rd, opposite BBD University, Lucknow, Ganeshpur Rahmanpur, Uttar Pradesh 226028",
+    "area": "261205",
+    "latitude": 26.8891575,
+    "longitude": 81.0558653,
+    "place_id": "ChIJoXErbTjjmzkRxdSRlZSaN6g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoXErbTjjmzkRxdSRlZSaN6g",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:32:50"
+  },
+  {
+    "business_name": "Humsafar cab service travels and taxi services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Car leasing service, Taxi service, Travel agency",
+    "pincode": "261205",
+    "phone_number": "+91 80523 33300",
+    "website": "http://www.humsafarcabservice.in/",
+    "rating": 5,
+    "reviews_count": 864,
+    "address": "568, Kailashpuri, 154, Gali No 10, near Neelkanth Temple, Barha, Alambagh, Lucknow, Uttar Pradesh 226005",
+    "area": "Barha, Alambagh",
+    "latitude": 26.813554099999998,
+    "longitude": 80.9160594,
+    "place_id": "ChIJ8T24I979mzkRWXBd_lTM_z0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8T24I979mzkRWXBd_lTM_z0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:32:50"
+  }
+]

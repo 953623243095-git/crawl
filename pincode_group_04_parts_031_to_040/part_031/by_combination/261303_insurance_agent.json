@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LIC ग्राहक सेवा केन्द्र",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "261303",
+    "phone_number": "+91 95544 23103",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "Bhithaura, Uttar Pradesh 261301",
+    "area": "261303",
+    "latitude": 27.279335999999997,
+    "longitude": 80.86634149999999,
+    "place_id": "ChIJvdPbpLw1mTkR41X1HKXmlpM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvdPbpLw1mTkR41X1HKXmlpM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:43:43"
+  },
+  {
+    "business_name": "SMART PAY",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "261303",
+    "phone_number": "+91 98715 71832",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8 ka/4 Rooppur, Sitapur Rd, Khadra, Lucknow, Uttar Pradesh 261303",
+    "area": "Khadra",
+    "latitude": 27.219146,
+    "longitude": 80.8494245,
+    "place_id": "ChIJwS4kyPZKmTkR5C7HHNn59d4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwS4kyPZKmTkR5C7HHNn59d4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:43:43"
+  }
+]

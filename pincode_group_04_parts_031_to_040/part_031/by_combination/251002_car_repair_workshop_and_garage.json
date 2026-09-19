@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NC GARAGE",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "251002",
+    "phone_number": "+91 96275 22727",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "934W+VRX, Siddhartha Rd, Govind Vihar, Danda Khudanewala, Dehradun, Khanjahanpur, Uttarakhand 248013",
+    "area": "Govind Vihar, Danda Khudanewala",
+    "latitude": 29.4696978,
+    "longitude": 77.666399,
+    "place_id": "ChIJ-wAFWQAbDDkRQEmGTkxd0Lk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-wAFWQAbDDkRQEmGTkxd0Lk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:35:15"
+  },
+  {
+    "business_name": "Massey Ferguson - Raj Shyama Tractors",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer, Agricultural machinery manufacturer, Farm equipment supplier, Machinery parts manufacturer, Tractor parts store, Tractor repair shop",
+    "pincode": "251002",
+    "phone_number": "+91 80 4492 4681",
+    "website": "https://dealers.masseyfergusonindia.com/tractors-in-indira-colony-muzaffarnagar-uttar-pradesh-251001/home",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Roorkee Rd, opp. Var Vadhu Banquet Hall, Indira Colony, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Indira Colony",
+    "latitude": 29.497505999999998,
+    "longitude": 77.699241,
+    "place_id": "ChIJ-R_XA-wdDDkRLgCC1Js_XkI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-R_XA-wdDDkRLgCC1Js_XkI",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:35:18"
+  }
+]

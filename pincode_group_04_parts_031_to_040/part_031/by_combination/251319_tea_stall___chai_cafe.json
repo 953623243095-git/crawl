@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tea shop",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "251319",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 12,
+    "address": "87PH+JJR, Rasar, Chhini, Uttar Pradesh 221502",
+    "area": "251319",
+    "latitude": 25.336608599999998,
+    "longitude": 82.2790095,
+    "place_id": "ChIJX7BkTCn5jzkRTLtZULRDlcs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX7BkTCn5jzkRTLtZULRDlcs",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:04:55"
+  },
+  {
+    "business_name": "Cafe Tea Totaler",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Coffee store, Vegetarian restaurant",
+    "pincode": "251319",
+    "phone_number": "+91 97111 73242",
+    "website": "http://www.cafeteatotaler.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Tibetan Market Gali, The Mall Road, Mussoorie, Uttarakhand 248179",
+    "area": "The Mall Road",
+    "latitude": 30.4589191,
+    "longitude": 78.06867629999999,
+    "place_id": "ChIJJwZaRd7QCDkR4Jnwu8ggRN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJwZaRd7QCDkR4Jnwu8ggRN4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:04:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "IQRA FOOD",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Chicken restaurant, Dhaba, Fine dining restaurant, Food court",
+    "pincode": "251306",
+    "phone_number": "+91 70378 66286",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 12,
+    "address": "Near, jama masjid Main Market, Harsauli, Uttar Pradesh 251318",
+    "area": "251306",
+    "latitude": 29.4041188,
+    "longitude": 77.5873699,
+    "place_id": "ChIJkUau4tMZDDkRLZ0Y_P6Vw0s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkUau4tMZDDkRLZ0Y_P6Vw0s",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:47:17"
+  },
+  {
+    "business_name": "Ballimaran Nahari restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "251306",
+    "phone_number": "+91 95575 71743",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Minakshi chowk, Adaao Wali Gali, Khalapar, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Adaao Wali Gali, Khalapar",
+    "latitude": 29.4670176,
+    "longitude": 77.69594359999999,
+    "place_id": "ChIJUcGr6iMbDDkRO1YOwL_f5Mk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUcGr6iMbDDkRO1YOwL_f5Mk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:47:18"
+  }
+]

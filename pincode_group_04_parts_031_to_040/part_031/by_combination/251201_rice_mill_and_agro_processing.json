@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MAHAVIR RICE MILLS",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "251201",
+    "phone_number": "+91 86848 07475",
+    "website": "https://www.mahavirricemill.com/",
+    "rating": 4.8,
+    "reviews_count": 9,
+    "address": "LINK ROAD, Taraori, Haryana 132116",
+    "area": "251201",
+    "latitude": 29.804699399999997,
+    "longitude": 76.9443352,
+    "place_id": "ChIJA3F6ZORpDjkR9yNSDt1ifXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA3F6ZORpDjkR9yNSDt1ifXc",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:39:47"
+  },
+  {
+    "business_name": "Siyaram Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "251201",
+    "phone_number": "+91 93092 79792",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Kholwa, Bhatapara, Chhattisgarh 493118",
+    "area": "251201",
+    "latitude": 21.7530178,
+    "longitude": 81.9421268,
+    "place_id": "ChIJH7TDASJhKDoRHKxVqkPHUL8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH7TDASJhKDoRHKxVqkPHUL8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:39:48"
+  }
+]

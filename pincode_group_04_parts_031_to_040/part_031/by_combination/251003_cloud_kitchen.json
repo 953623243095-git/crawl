@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CLOUD KITCHEN RISHIKESH",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "251003",
+    "phone_number": "+91 70605 99705",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 69,
+    "address": "B-3, beside Water Tank, Mansa Devi Visthapit Colony, Gumaniwala, Rishikesh, Barkot Range, Uttarakhand 249204",
+    "area": "Mansa Devi Visthapit Colony, Gumaniwala",
+    "latitude": 30.086353799999998,
+    "longitude": 78.25898959999999,
+    "place_id": "ChIJZVaqhf4_CTkRW23BfgGLE4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZVaqhf4_CTkRW23BfgGLE4s",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:36:40"
+  },
+  {
+    "business_name": "Amigos Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "251003",
+    "phone_number": "+91 70551 44260",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 17,
+    "address": "FP83+8MG, near, Balaji chowk sadarbazar, Shiv Chowk, Civil Lines South, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Shiv Chowk, Civil Lines South",
+    "latitude": 29.4658411,
+    "longitude": 77.7041819,
+    "place_id": "ChIJmbYmQgAbDDkRjbctnxA9cbc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmbYmQgAbDDkRjbctnxA9cbc",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:36:40"
+  }
+]

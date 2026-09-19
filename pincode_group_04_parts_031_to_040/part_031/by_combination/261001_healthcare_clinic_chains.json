@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jain Medical Agency",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Wholesale drugstore",
+    "all_categories": "Wholesale drugstore",
+    "pincode": "261001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "10, NCC Office Rd, Vijay Laxmi Nagar, Sitapur, Uttar Pradesh 261001",
+    "area": "Vijay Laxmi Nagar",
+    "latitude": 27.565159899999998,
+    "longitude": 80.680945,
+    "place_id": "ChIJx_FvecTXnjkRKbEh7YEnyGQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx_FvecTXnjkRKbEh7YEnyGQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:10:33"
+  },
+  {
+    "business_name": "HEALTH CARE CLINIC",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Service establishment",
+    "pincode": "261001",
+    "phone_number": "+91 98389 19893",
+    "website": "https://milanjaiswal181818.github.io/healthcareclinic/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "HEALTH CARE CLINIC, 261001, India",
+    "area": "261001",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ1dgCR6WRiKwR66Q_ip-TNJ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1dgCR6WRiKwR66Q_ip-TNJ4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:10:33"
+  }
+]

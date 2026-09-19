@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khao Piyo Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "261136",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "MF49+CQR, Maholi, Uttar Pradesh 261141",
+    "area": "261136",
+    "latitude": 27.6560486,
+    "longitude": 80.4694969,
+    "place_id": "ChIJYWYlHcAhnzkRla2YlqTLkz4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYWYlHcAhnzkRla2YlqTLkz4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:18:53"
+  },
+  {
+    "business_name": "Tambauriyan Jaika restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "261136",
+    "phone_number": "+91 97949 01070",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Hospital Rd Tambaur, Tambaur, Aorangabad, Uttar Pradesh 261208",
+    "area": "261136",
+    "latitude": 27.7369237,
+    "longitude": 81.15361299999999,
+    "place_id": "ChIJSXjGRQndmDkR62Nwmd9eT7Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSXjGRQndmDkR62Nwmd9eT7Q",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:18:53"
+  }
+]

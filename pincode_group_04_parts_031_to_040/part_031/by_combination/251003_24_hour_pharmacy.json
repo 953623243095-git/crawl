@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAMAR HEALTH PHARMACY",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "251003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "321, Jarouda Rd, Jarouda, Uttar Pradesh 251003",
+    "area": "251003",
+    "latitude": 29.402738799999998,
+    "longitude": 77.6891055,
+    "place_id": "ChIJeZ24bAAbDDkR1HK1zPGfp9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeZ24bAAbDDkR1HK1zPGfp9A",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:36:53"
+  },
+  {
+    "business_name": "महावीर स्वामी पक्षी एवं चिकित्सलिये",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Veterinary pharmacy",
+    "all_categories": "Veterinary pharmacy",
+    "pincode": "251003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "251003",
+    "latitude": 29.4453191,
+    "longitude": 77.7267577,
+    "place_id": "ChIJ6-11NwAbDDkRonl0S8gPPGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6-11NwAbDDkRonl0S8gPPGg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:36:53"
+  }
+]

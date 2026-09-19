@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhiman Dental Lab",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "251316",
+    "phone_number": "+91 90123 05042",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Behda Village, Uttar Pradesh 251316",
+    "area": "251316",
+    "latitude": 29.409338899999998,
+    "longitude": 77.94006859999999,
+    "place_id": "ChIJPc5pWTX3CzkRTMXprb6TduM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPc5pWTX3CzkRTMXprb6TduM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:01:38"
+  },
+  {
+    "business_name": "Kalika Dental - Dental Equipment Dealer in Patna",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental supply store",
+    "all_categories": "Dental supply store",
+    "pincode": "251316",
+    "phone_number": "+91 93085 65114",
+    "website": "http://www.dentalkart.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ground Floor, Kalika Dental Chandraa Market, Sector 2, Ashiana Nagar Phase 1, Rukanpura, Patna, Bihar 800025",
+    "area": "Sector 2, Ashiana Nagar Phase 1, Rukanpura",
+    "latitude": 25.618616,
+    "longitude": 85.0797199,
+    "place_id": "ChIJVVVVBaRX7TkROmtGcu55jf0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVBaRX7TkROmtGcu55jf0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:01:40"
+  }
+]

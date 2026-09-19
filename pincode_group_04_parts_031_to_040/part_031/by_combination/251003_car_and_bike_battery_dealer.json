@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shankar Battery House",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Car battery store",
+    "all_categories": "Car battery store, Battery Manufacturer, Battery Wholesaler, Battery Store, Electronics repair shop",
+    "pincode": "251003",
+    "phone_number": "+91 94166 52207",
+    "website": "https://shankarbatteryhouse.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main, Chowk, Kankrola, Sector 87, Gurugram, Haryana 122505",
+    "area": "Kankrola, Sector 87",
+    "latitude": 28.3932237,
+    "longitude": 76.91475609999999,
+    "place_id": "ChIJQVHOUuc_DTkRuYlpvilHLkQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQVHOUuc_DTkRuYlpvilHLkQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:37:08"
+  },
+  {
+    "business_name": "Garg Enterprises",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Car battery store",
+    "all_categories": "Car battery store, Battery Wholesaler, Battery Store",
+    "pincode": "251003",
+    "phone_number": "+91 98733 64834",
+    "website": "https://gargbattery.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sai Baba Chowk, D-12/182, opp. Metro Pillar no-393, Sector-8, Rohini, New Delhi, Delhi, 110085",
+    "area": "Sector-8, Rohini",
+    "latitude": 28.708189599999997,
+    "longitude": 77.1249818,
+    "place_id": "ChIJD0b6PeIDDTkRPtKpkBk7MRI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD0b6PeIDDTkRPtKpkBk7MRI",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:37:08"
+  }
+]

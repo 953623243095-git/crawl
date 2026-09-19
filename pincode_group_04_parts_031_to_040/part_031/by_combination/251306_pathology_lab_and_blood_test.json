@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Himalayan Diagnostic Lab",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Laboratory",
+    "all_categories": "Laboratory",
+    "pincode": "251306",
+    "phone_number": "+91 82890 04203",
+    "website": "https://himalayandiagnostic.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Z. K. Complex, Meerut Rd, near Minakshi Chowk, opposite Bharat petrol pump, Qidwai Naga, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Qidwai Naga",
+    "latitude": 29.4586486,
+    "longitude": 77.69662439999999,
+    "place_id": "ChIJ_Y1gpVsbDDkR-SScOqFlFBE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_Y1gpVsbDDkR-SScOqFlFBE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:47:41"
+  },
+  {
+    "business_name": "Micro Pathology Lab",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Pathologist",
+    "all_categories": "Pathologist, Doctor",
+    "pincode": "251306",
+    "phone_number": "+91 97608 34578",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop 1, 2 & 3, 1st Floor, Balaji Mandir Rd, Kukra, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Kukra",
+    "latitude": 29.4619917,
+    "longitude": 77.7241528,
+    "place_id": "ChIJmwz_PvgbDDkR163XANUYvTg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmwz_PvgbDDkR163XANUYvTg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:47:42"
+  }
+]

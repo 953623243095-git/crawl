@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CraftEstate",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Handicraft",
+    "all_categories": "Handicraft",
+    "pincode": "251308",
+    "phone_number": "+91 79067 60899",
+    "website": "http://www.craftestate.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 11/48, Kookra, Almaspur Rd, opposite Old Ice Factory, Kamal Nagar, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Kamal Nagar",
+    "latitude": 29.462245099999997,
+    "longitude": 77.7238346,
+    "place_id": "ChIJi2IjbQ4bDDkR4PV2phHOVXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi2IjbQ4bDDkR4PV2phHOVXA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:51:48"
+  },
+  {
+    "business_name": "Dreamhome",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Furniture maker",
+    "all_categories": "Furniture maker",
+    "pincode": "251308",
+    "phone_number": "+91 84490 56923",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Saudi pur road, Niyazupura, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Niyazupura",
+    "latitude": 29.489023,
+    "longitude": 77.68706879999999,
+    "place_id": "ChIJu8KTs_gbDDkRyFKCFbW2coE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu8KTs_gbDDkRyFKCFbW2coE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:51:48"
+  }
+]

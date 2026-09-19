@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paradies Pet shop Bahraich",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store",
+    "pincode": "261205",
+    "phone_number": "+91 89572 35931",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 5,
+    "address": "Bahraich - Sitapur Rd, Bernapur, Ram Purwa, Tajawapur, Uttar Pradesh 271825",
+    "area": "Bernapur",
+    "latitude": 27.5292867,
+    "longitude": 81.49392619999999,
+    "place_id": "ChIJ_QtADBEHmTkRkYQQQhWwiTA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_QtADBEHmTkRkYQQQhWwiTA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:32:16"
+  },
+  {
+    "business_name": "Pet home",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "261205",
+    "phone_number": "+91 93051 81994",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mahmudabad - Tambore Rd, sitapur, Reusa, Uttar Pradesh 261205",
+    "area": "sitapur",
+    "latitude": 27.5457964,
+    "longitude": 81.2174582,
+    "place_id": "ChIJoXXCdHYZmTkR5Cnqm4PM0Lw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoXXCdHYZmTkR5Cnqm4PM0Lw",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:32:16"
+  }
+]

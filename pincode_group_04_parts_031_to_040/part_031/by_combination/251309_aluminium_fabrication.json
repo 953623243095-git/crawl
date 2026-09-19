@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alfa Aluminium Metal",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "251309",
+    "phone_number": "+91 97205 10134",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "26, Salek Vihar, Shamli, Uttar Pradesh 247776",
+    "area": "Salek Vihar",
+    "latitude": 29.442538,
+    "longitude": 77.3003899,
+    "place_id": "ChIJmf6I7ZgvDDkRyKqOIA-omVM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmf6I7ZgvDDkRyKqOIA-omVM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:53:56"
+  },
+  {
+    "business_name": "Gupta Traders",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "FMCG Manufacturer",
+    "all_categories": "FMCG Manufacturer",
+    "pincode": "251309",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7FPF+M58, near Saini Bazar, Mohalla- Shahwada, Budhana, Uttar Pradesh 251309",
+    "area": "Mohalla- Shahwada",
+    "latitude": 29.2866565,
+    "longitude": 77.47296469999999,
+    "place_id": "ChIJN6I8-Ko-DDkRsbMm-qM4u8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN6I8-Ko-DDkRsbMm-qM4u8I",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:53:56"
+  }
+]

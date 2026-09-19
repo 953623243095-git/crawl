@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "D Mart Fashion",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "251201",
+    "phone_number": "+91 81261 47085",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Biddiwara Bazar Rd, Shivpuri, Khatauli, Uttar Pradesh 251201",
+    "area": "Shivpuri",
+    "latitude": 29.2773939,
+    "longitude": 77.7330449,
+    "place_id": "ChIJJ7oIKHkTDDkR9ZUqK_WNYQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ7oIKHkTDDkR9ZUqK_WNYQg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:38:39"
+  },
+  {
+    "business_name": "FASHION VILLA 7078",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "251201",
+    "phone_number": "+91 70608 58384",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "Roorkee Rd, opp. CHANDRA CINEMA, Laddhawala, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Laddhawala",
+    "latitude": 29.4761784,
+    "longitude": 77.6965026,
+    "place_id": "ChIJ96dcKAAbDDkRS-6ZdnirykU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ96dcKAAbDDkRS-6ZdnirykU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:38:40"
+  }
+]

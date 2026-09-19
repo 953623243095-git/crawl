@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramesh Parjapati General stor",
+    "search_category": "General Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "261502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tediya sadak rod, Sarya Kalan, Belagarhi, Uttar Pradesh 261502",
+    "area": "261502",
+    "latitude": 27.8702471,
+    "longitude": 81.24224579999999,
+    "place_id": "ChIJ0dw1VwDpmDkRNmzCtqrtRd8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0dw1VwDpmDkRNmzCtqrtRd8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:54:21"
+  },
+  {
+    "business_name": "Amit Chaurasiya General store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "261502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "R486, 263, Lakhun, Uttar Pradesh 262722",
+    "area": "263",
+    "latitude": 27.8155452,
+    "longitude": 81.1095883,
+    "place_id": "ChIJSfUwHQDdmDkRaKbeqQwyJOM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSfUwHQDdmDkRaKbeqQwyJOM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:54:23"
+  }
+]

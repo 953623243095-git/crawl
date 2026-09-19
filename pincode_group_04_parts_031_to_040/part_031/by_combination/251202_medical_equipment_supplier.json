@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Devanshi Drug Distributors",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "251202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Roorkee Rd, near mobile tower, Janakpuri, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Janakpuri",
+    "latitude": 29.4921322,
+    "longitude": 77.6997045,
+    "place_id": "ChIJkRrGJuAbDDkRhs1uASkYiVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkRrGJuAbDDkRhs1uASkYiVA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:40:35"
+  },
+  {
+    "business_name": "Jai Balaji Medical Agency",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Medical supply store",
+    "pincode": "251202",
+    "phone_number": "+91 86303 86803",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Shaheed Bachan Singh Marg, Road, Gandhi Colony, Pachenda Kalan, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Road, Gandhi Colony",
+    "latitude": 29.4774823,
+    "longitude": 77.7151961,
+    "place_id": "ChIJ_XX397sbDDkRrXX3AANUBy8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_XX397sbDDkRrXX3AANUBy8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:40:35"
+  }
+]

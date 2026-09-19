@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kiran Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "261401",
+    "phone_number": "+91 96953 03031",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Purani Bazaar, Misrikh-cum-Neemsar, korouna, Uttar Pradesh 261401",
+    "area": "261401",
+    "latitude": 27.4306558,
+    "longitude": 80.531196,
+    "place_id": "ChIJY1m_8ePdnjkRTbIrrIrBwgk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY1m_8ePdnjkRTbIrrIrBwgk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:45:00"
+  },
+  {
+    "business_name": "Vartika beauty parlour and cosmetic centre",
+    "search_category": "Beauty Parlour",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "261401",
+    "phone_number": "+91 75258 82113",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kesra, Uttar Pradesh 261405",
+    "area": "261401",
+    "latitude": 27.431703799999998,
+    "longitude": 80.6403196,
+    "place_id": "ChIJjwT5BQDRnjkRu4C7KgyMmh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjwT5BQDRnjkRu4C7KgyMmh0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:45:01"
+  }
+]

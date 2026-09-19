@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Diamond Farm House",
+    "search_category": "Exhibitions",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "251003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "FMFC+M8M, Muzaffarnagar, Uttar Pradesh 251306",
+    "area": "251003",
+    "latitude": 29.4742125,
+    "longitude": 77.6707957,
+    "place_id": "ChIJFTYWNQAbDDkRzhgx4iCKfZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFTYWNQAbDDkRzhgx4iCKfZM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:38:04"
+  },
+  {
+    "business_name": "Nandgaon",
+    "search_category": "Exhibitions",
+    "primary_category": "Farm",
+    "all_categories": "Farm",
+    "pincode": "251003",
+    "phone_number": "+91 78300 65500",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Vehelna Chowk, Meerut Road, Muzaffarnagar, Uttar Pradesh 251003",
+    "area": "251003",
+    "latitude": 29.426776,
+    "longitude": 77.697805,
+    "place_id": "ChIJe0sDIV8aDDkRYsEiN7kjUJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe0sDIV8aDDkRYsEiN7kjUJg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:38:06"
+  }
+]

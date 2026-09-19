@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Children Hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "261505",
+    "phone_number": "+91 94520 20176",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 35,
+    "address": "616, Kheri Rd, Awas Vikas Colony, Lakhimpur, Uttar Pradesh 262701",
+    "area": "Awas Vikas Colony",
+    "latitude": 27.9341239,
+    "longitude": 80.78833399999999,
+    "place_id": "ChIJWbGQZN00nzkRpAibTQB4bgM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWbGQZN00nzkRpAibTQB4bgM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:56:28"
+  },
+  {
+    "business_name": "Dr. Lizy George",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Medical clinic, Children's hospital",
+    "pincode": "261505",
+    "phone_number": "+91 93222 79036",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 33,
+    "address": "Shop No.103, 1st Floor, Near Dr.Boradia's Hospital, Rubi Monarch Arcade, Saki Vihar Rd, Sag Baug, Sakinaka, Andheri East, Mumbai, Maharashtra 400072",
+    "area": "Sag Baug, Sakinaka, Andheri East",
+    "latitude": 19.10642,
+    "longitude": 72.8877475,
+    "place_id": "ChIJLSVqj3LI5zsRkE6XV3QEpUo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLSVqj3LI5zsRkE6XV3QEpUo",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:56:29"
+  }
+]

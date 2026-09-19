@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Target Sports Academy",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Sports club",
+    "all_categories": "Sports club, Aerobics Class, Cricket club, Indoor swimming pool, Pickleball court, Soccer club",
+    "pincode": "251314",
+    "phone_number": "+91 87555 56080",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jansath Rd, near SKB Aarogyam Hospital, opposite Variation Restaurant, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "251314",
+    "latitude": 29.448066899999997,
+    "longitude": 77.7303178,
+    "place_id": "ChIJB4EKEBEbDDkRegXUWY5gJPQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB4EKEBEbDDkRegXUWY5gJPQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:58:55"
+  },
+  {
+    "business_name": "Signature Football Academy/club",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "American football field",
+    "all_categories": "American football field, Playground",
+    "pincode": "251314",
+    "phone_number": "+91 99530 31862",
+    "website": "http://www.signaturefc.in/",
+    "rating": 4.2,
+    "reviews_count": 123,
+    "address": "F2 Block, Pardhan Enclave, Suleman Majra Burari, Burari, Delhi, 110084",
+    "area": "Suleman Majra Burari, Burari",
+    "latitude": 28.772361999999998,
+    "longitude": 77.20614359999999,
+    "place_id": "ChIJWfRDqqn_DDkRbOnwFg6O-bw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWfRDqqn_DDkRbOnwFg6O-bw",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:58:57"
+  }
+]

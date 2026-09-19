@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jivak Multispeciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "261301",
+    "phone_number": "+91 75709 01365",
+    "website": "http://www.jivakhospital.com/",
+    "rating": 4.1,
+    "reviews_count": 16,
+    "address": "Toll Plaza, Manpur Sabji Mandi, Ludhauli Crossing Near Itaunja, Sitapur Rd, Lucknow, Uttar Pradesh 226203",
+    "area": "261301",
+    "latitude": 27.1015534,
+    "longitude": 80.88537459999999,
+    "place_id": "ChIJF9vg1VpNmTkRWorVazzNqG8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF9vg1VpNmTkRWorVazzNqG8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:39:20"
+  },
+  {
+    "business_name": "Community Health Center",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Community health center",
+    "all_categories": "Community health center",
+    "pincode": "261301",
+    "phone_number": "+91 5864 272 001",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "7RMJ+3W6, Hospital Rd, Sidhauli, Uttar Pradesh 261303",
+    "area": "261301",
+    "latitude": 27.2826649,
+    "longitude": 80.8322599,
+    "place_id": "ChIJRQ7DUD01mTkR4e9OGS6_4zI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRQ7DUD01mTkR4e9OGS6_4zI",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:39:22"
+  }
+]

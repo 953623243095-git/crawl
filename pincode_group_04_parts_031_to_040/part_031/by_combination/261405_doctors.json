@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rizwan Pharma clinic",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "261405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CJ9Q+4J9, Macharehta, Matasiya Lakhnsepur, Uttar Pradesh 261405",
+    "area": "261405",
+    "latitude": 27.417782499999998,
+    "longitude": 80.6391069,
+    "place_id": "ChIJA5YoQwDPnjkRVslV9MEEpXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA5YoQwDPnjkRVslV9MEEpXA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:51:19"
+  },
+  {
+    "business_name": "Manjeet Medical clinics",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, Service establishment",
+    "pincode": "261405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Manjeet Medical clinics, 261405, India",
+    "area": "261405",
+    "latitude": 27.406685,
+    "longitude": 80.637885,
+    "place_id": "ChIJ-0svjBvFnjkREtht5S68gSA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-0svjBvFnjkREtht5S68gSA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:51:19"
+  }
+]

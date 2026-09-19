@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fish market",
+    "search_category": "Fish Market",
+    "primary_category": "Housing society",
+    "all_categories": "Housing society",
+    "pincode": "261401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9JV5+G3G, Gawali, Uttar Pradesh 261401",
+    "area": "261401",
+    "latitude": 27.3938214,
+    "longitude": 80.60771319999999,
+    "place_id": "ChIJ8bu3WgDFnjkRorHSsjfqhyM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8bu3WgDFnjkRorHSsjfqhyM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:44:11"
+  },
+  {
+    "business_name": "Maharshi Dadhichi Kund",
+    "search_category": "Fish Market",
+    "primary_category": "Hindu temple",
+    "all_categories": "Hindu temple",
+    "pincode": "261401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 497,
+    "address": "Misrikh-cum-Neemsar, korouna, Uttar Pradesh 261401",
+    "area": "261401",
+    "latitude": 27.4307821,
+    "longitude": 80.52973279999999,
+    "place_id": "ChIJ1wgo64ndnjkRVCFOvhQn5L8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1wgo64ndnjkRVCFOvhQn5L8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:44:12"
+  }
+]

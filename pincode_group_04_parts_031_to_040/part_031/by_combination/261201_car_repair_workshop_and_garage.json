@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahesh Repairing Works",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto machine shop",
+    "all_categories": "Auto machine shop",
+    "pincode": "261201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 6,
+    "address": "MDR77C, Ameerganj, Mahmudabad, Uttar Pradesh 261203",
+    "area": "Ameerganj",
+    "latitude": 27.2872889,
+    "longitude": 81.1168364,
+    "place_id": "ChIJV-suq3U_mTkR1NdHZwc_VqE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV-suq3U_mTkR1NdHZwc_VqE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:26:00"
+  },
+  {
+    "business_name": "Massey Ferguson - Vasudev Motors",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer, Agricultural machinery manufacturer, Farm equipment supplier, Machinery parts manufacturer, Tractor parts store, Tractor repair shop",
+    "pincode": "261201",
+    "phone_number": "+91 80 4492 4468",
+    "website": "https://dealers.masseyfergusonindia.com/tractors-in-ahmadpurjat-sitapur-uttar-pradesh-261303/home",
+    "rating": null,
+    "reviews_count": null,
+    "address": "New Raj Market, Sidhauli - Mahmudabad Rd, near Highway Restaurent, Sidhauli, Uttar Pradesh 261303",
+    "area": "261201",
+    "latitude": 27.268803,
+    "longitude": 80.8404797,
+    "place_id": "ChIJ9znlDUQ1mTkRT7W534nu2ic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9znlDUQ1mTkRT7W534nu2ic",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:26:02"
+  }
+]

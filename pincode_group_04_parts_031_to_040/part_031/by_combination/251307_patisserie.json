@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kadir Provision Store",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "251307",
+    "phone_number": "+91 90274 18373",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Kadir Provision Store, Dudhaheri, Didaheri, Uttar Pradesh 251202",
+    "area": "251307",
+    "latitude": 29.5180223,
+    "longitude": 77.679918,
+    "place_id": "ChIJj0JfpWUdDDkRTzGVyxrcyU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj0JfpWUdDDkRTzGVyxrcyU0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:49:04"
+  },
+  {
+    "business_name": "Harun Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "251307",
+    "phone_number": "+91 63972 99594",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "House No.992, Janakpuri, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Janakpuri",
+    "latitude": 29.4974091,
+    "longitude": 77.7030338,
+    "place_id": "ChIJRWUHiEAdDDkRbEEX-EAawnE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRWUHiEAdDDkRbEEX-EAawnE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:49:07"
+  }
+]

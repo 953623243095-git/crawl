@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Faisal Meet Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat products store",
+    "all_categories": "Meat products store",
+    "pincode": "261131",
+    "phone_number": "+91 87872 59761",
+    "website": "http://faisalmeatandchickenshop.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "126, 126, Raj Vihar Marg, Kanchana Vihari Marg, Basera Vihar Colony, Jankipuram, Lucknow, Uttar Pradesh 226022",
+    "area": "Basera Vihar Colony, Raj Vihar, Jankipuram",
+    "latitude": 26.9085532,
+    "longitude": 80.9758915,
+    "place_id": "ChIJFRV0iJRXmTkRMiHDEJbQDUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFRV0iJRXmTkRMiHDEJbQDUE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:15:14"
+  },
+  {
+    "business_name": "Dr.Chicken Farms",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Fish processing, Fresh food market, Gourmet grocery store, Meat processor, Meat products store, Natural goods store, Organic farm",
+    "pincode": "261131",
+    "phone_number": "+91 78003 60360",
+    "website": "http://www.drchickenfarms.com/",
+    "rating": 4.8,
+    "reviews_count": 192,
+    "address": "Westernunion, Picnic Spot Rd, Chauraha, Kalyanpur, Lucknow, Uttar Pradesh 226022",
+    "area": "Sector-10, Chauraha, Kalyanpur",
+    "latitude": 26.897682399999997,
+    "longitude": 80.9669942,
+    "place_id": "ChIJsym94klZmTkR55pdYH6hbkY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsym94klZmTkR55pdYH6hbkY",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:15:15"
+  }
+]

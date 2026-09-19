@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Skylark premium",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "251320",
+    "phone_number": "+91 84334 67125",
+    "website": "http://skylarkpremium.com/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Nagina - Nehtaur Rd, Nagina, Uttar Pradesh 246762",
+    "area": "251320",
+    "latitude": 29.4351545,
+    "longitude": 78.4341651,
+    "place_id": "ChIJpdO4QgfFCzkRUOZ51U7W9Wo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpdO4QgfFCzkRUOZ51U7W9Wo",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:06:55"
+  },
+  {
+    "business_name": "Top Collection",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store",
+    "pincode": "251320",
+    "phone_number": "+91 90451 63164",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Baradari, Nagina, Uttar Pradesh 246762",
+    "area": "Baradari",
+    "latitude": 29.4444941,
+    "longitude": 78.436266,
+    "place_id": "ChIJxUHXrxjFCzkR9Gu0QzavnTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxUHXrxjFCzkR9Gu0QzavnTc",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:06:55"
+  }
+]

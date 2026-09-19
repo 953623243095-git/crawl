@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The platinum Academy",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Martial arts club",
+    "pincode": "251002",
+    "phone_number": "+91 70170 98585",
+    "website": "https://youtube.com/@aruntandon0052",
+    "rating": 4.4,
+    "reviews_count": 24,
+    "address": "LIC Building, upper floor to, Bhopa Rd, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Dwarika Puri",
+    "latitude": 29.4728492,
+    "longitude": 77.7126028,
+    "place_id": "ChIJxzjzh7MbDDkR2tBFNBmX2CQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxzjzh7MbDDkR2tBFNBmX2CQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:35:55"
+  },
+  {
+    "business_name": "Rama Zumba Fitness",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "251002",
+    "phone_number": "N/A",
+    "website": "https://youtube.com/@rama_zumbafitness?si=SqIqoffwbCNpsyXQ",
+    "rating": 5,
+    "reviews_count": 61,
+    "address": "R/740, near Kanti Appartments, Adarsh Colony, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Adarsh Colony",
+    "latitude": 29.4758037,
+    "longitude": 77.7184205,
+    "place_id": "ChIJ8cvLh0obDDkRqYwvVidllkM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8cvLh0obDDkRqYwvVidllkM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:35:55"
+  }
+]

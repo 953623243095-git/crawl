@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "One Stop Center Unit 2 Sitapur",
+    "search_category": "Wellness Center",
+    "primary_category": "Serviced accommodation",
+    "all_categories": "Serviced accommodation",
+    "pincode": "261302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Unit 2, One Stop Center, Primary Health Care, Kamlapur, Uttar Pradesh 261302",
+    "area": "261302",
+    "latitude": 27.3862094,
+    "longitude": 80.8180879,
+    "place_id": "ChIJ9ZIUs6gzmTkRFxOtqRw5g_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ZIUs6gzmTkRFxOtqRw5g_E",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:41:38"
+  },
+  {
+    "business_name": "Vineet Aloe Care Solutions",
+    "search_category": "Wellness Center",
+    "primary_category": "Nutritionist",
+    "all_categories": "Nutritionist",
+    "pincode": "261302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Samudayik Kendra Chandehra kamlapur Sidhauli, Uttar Pradesh 261302",
+    "area": "261302",
+    "latitude": 27.3628149,
+    "longitude": 80.8064455,
+    "place_id": "ChIJ4xqpQMXNnjkRV7w8_E3VD6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4xqpQMXNnjkRV7w8_E3VD6s",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:41:38"
+  }
+]

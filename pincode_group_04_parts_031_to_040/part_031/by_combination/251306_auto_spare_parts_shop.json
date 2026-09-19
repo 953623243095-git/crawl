@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "POPULAR INCORPORATION",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Service Apartment",
+    "pincode": "251306",
+    "phone_number": "+91 73107 72607",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Muzaffranagar, Roorkee Rd, Purkazi, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Muradnagar, Saharan Pur, Purkazi",
+    "latitude": 29.4871806,
+    "longitude": 77.69743249999999,
+    "place_id": "ChIJE1DiwKMbDDkRqTuuvPrTAVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE1DiwKMbDDkRqTuuvPrTAVA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:47:48"
+  },
+  {
+    "business_name": "Hindustan auto parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "251306",
+    "phone_number": "+91 97566 95412",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "30/48, Keshavpuri, Shiv Chowk, Civil Lines South, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Keshavpuri, Shiv Chowk, Civil Lines South",
+    "latitude": 29.468221399999997,
+    "longitude": 77.696794,
+    "place_id": "ChIJMb7_h9MbDDkRS2Pe3p61WWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMb7_h9MbDDkRS2Pe3p61WWo",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:47:48"
+  }
+]

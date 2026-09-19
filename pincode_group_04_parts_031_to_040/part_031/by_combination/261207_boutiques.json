@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Verma Garments",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "261207",
+    "phone_number": "+91 76073 73885",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Parsendi, Uttar Pradesh 261207",
+    "area": "261207",
+    "latitude": 27.590926,
+    "longitude": 80.8377175,
+    "place_id": "ChIJnb5xq9ErmTkR1xf8FNS9hYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnb5xq9ErmTkR1xf8FNS9hYs",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:35:57"
+  },
+  {
+    "business_name": "Maurya readymade center parsendi",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "261207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Parsendi, Uttar Pradesh 261207",
+    "area": "261207",
+    "latitude": 27.591078699999997,
+    "longitude": 80.8376514,
+    "place_id": "ChIJ1-slgM0rmTkR4x0mzGeyh9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1-slgM0rmTkR4x0mzGeyh9U",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:35:57"
+  }
+]

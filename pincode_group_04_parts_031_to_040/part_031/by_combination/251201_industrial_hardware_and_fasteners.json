@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wood Trading Company",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "251201",
+    "phone_number": "+91 90455 75468",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Khalapar, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Khalapar",
+    "latitude": 29.462889599999997,
+    "longitude": 77.69445689999999,
+    "place_id": "ChIJ9XYT0DgbDDkR5KaaBoMQ51E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9XYT0DgbDDkR5KaaBoMQ51E",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:39:45"
+  },
+  {
+    "business_name": "CORE ARCHITECTURAL HARDWARE",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Architecture firm, Glass industry, Glass manufacturer, Glass shop, Architectural designer, Manufacturer",
+    "pincode": "251201",
+    "phone_number": "+91 92111 06665",
+    "website": "http://corehardware.in/",
+    "rating": 4.4,
+    "reviews_count": 107,
+    "address": "Metro Station, Metro Station, A-7B, A Block, Jhilmil Industrial Estate Back Side of, Vivek Vihar, Delhi, 110095",
+    "area": "Jhilmil Industrial Area, Vivek Vihar",
+    "latitude": 28.675646399999998,
+    "longitude": 77.3192157,
+    "place_id": "ChIJEQBszfL7DDkRw9i9zeLuehk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEQBszfL7DDkRw9i9zeLuehk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:39:45"
+  }
+]

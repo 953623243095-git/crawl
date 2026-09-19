@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rathour Mobile Mart",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store, Battery Store, Cell phone store, Electrical equipment supplier, Electronics store",
+    "pincode": "261401",
+    "phone_number": "+91 90902 06565",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sitapur - Hardoi Rd, near Jhariya Mod, opposite MSJM School, Atwa Bazar, Misrikh-cum-Neemsar, Sitapur, Uttar Pradesh 261402",
+    "area": "Atwa Bazar",
+    "latitude": 27.3798691,
+    "longitude": 80.4883536,
+    "place_id": "ChIJYUJyyZzDnjkRfnO8_xy9WDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYUJyyZzDnjkRfnO8_xy9WDA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:45:23"
+  },
+  {
+    "business_name": "Dev Mobile And Accessories",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store, Computer security service, Security system installation service",
+    "pincode": "261401",
+    "phone_number": "+91 95654 67079",
+    "website": "https://dev-mobile.grexa.site/",
+    "rating": 4.6,
+    "reviews_count": 8,
+    "address": "Bansgaon, Union Bank Of India, Atraulia, Gorthani, Uttar Pradesh 223223",
+    "area": "261401",
+    "latitude": 26.3090732,
+    "longitude": 82.9660068,
+    "place_id": "ChIJvSCZG30BkTkRWfsGVmb3kb0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvSCZG30BkTkRWfsGVmb3kb0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:45:24"
+  }
+]

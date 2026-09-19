@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mansoori Market",
+    "search_category": "Malls",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "261136",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "P2M5+4X9, MDR-83-C, Ram Rura, Uttar Pradesh 261136",
+    "area": "261136",
+    "latitude": 27.7327759,
+    "longitude": 81.009982,
+    "place_id": "ChIJvVMKpTTbmDkRyBDwxwTvLK4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvVMKpTTbmDkRyBDwxwTvLK4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:20:17"
+  },
+  {
+    "business_name": "Prince Garments",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "261136",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "MWV8+33P Masjid Near Minar, Gurkhet Rd, Rudha Bhavanathpur, Uttar Pradesh 261135",
+    "area": "261136",
+    "latitude": 27.6927244,
+    "longitude": 80.9151971,
+    "place_id": "ChIJvakNM8jXmDkR46uzU3h71Vs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvakNM8jXmDkR46uzU3h71Vs",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:20:19"
+  }
+]

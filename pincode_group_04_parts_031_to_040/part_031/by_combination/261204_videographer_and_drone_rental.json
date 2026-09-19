@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Polygon Geospatial",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Engineering consultant",
+    "all_categories": "Engineering consultant, Technical university",
+    "pincode": "261204",
+    "phone_number": "+91 95506 44784",
+    "website": "https://polygongeo.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vindhya C-4, IIIT, Gachibowli, Hyderabad, Telangana 500032",
+    "area": "Gachibowli",
+    "latitude": 17.4462405,
+    "longitude": 78.3502189,
+    "place_id": "ChIJOxPby0yTyzsRGJw7EzdMTNg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOxPby0yTyzsRGJw7EzdMTNg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:31:30"
+  },
+  {
+    "business_name": "Studio Mark",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio, Wedding photographer",
+    "pincode": "261204",
+    "phone_number": "+91 99974 47739",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Plot Number 64/396, Ahilya Bai Chowk, in front of Hotel Mukund Utsav, Maghora, Dampier Nagar, Mathura, Uttar Pradesh 281001",
+    "area": "Maghora, Dampier Nagar",
+    "latitude": 27.4919466,
+    "longitude": 77.6815325,
+    "place_id": "ChIJ83xtLGtxczkRyLxvRnkiACM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ83xtLGtxczkRyLxvRnkiACM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:31:31"
+  }
+]

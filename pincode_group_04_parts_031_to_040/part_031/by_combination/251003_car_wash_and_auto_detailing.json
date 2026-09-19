@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "UP12 Car Washing & Drycleaning",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "251003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Meerut Rd, Adaao Wali Gali, Khalapar, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Adaao Wali Gali, Khalapar",
+    "latitude": 29.4654323,
+    "longitude": 77.69598049999999,
+    "place_id": "ChIJN9KvmU8bDDkRxkPy1ZpF3jo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN9KvmU8bDDkRxkPy1ZpF3jo",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:37:04"
+  },
+  {
+    "business_name": "DoorStep Car Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Service establishment",
+    "pincode": "251003",
+    "phone_number": "+91 76684 19342",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "DoorStep Car Wash, 251003, India",
+    "area": "251003",
+    "latitude": 29.4751257,
+    "longitude": 77.70885779999999,
+    "place_id": "ChIJyauUPM32CUkRwTGVEgrvk9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyauUPM32CUkRwTGVEgrvk9I",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:37:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kartik Shopping Centre",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "251319",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "9F7C+7W9, Garhi Noabad, Uttar Pradesh 251319",
+    "area": "251319",
+    "latitude": 29.3631614,
+    "longitude": 77.4723571,
+    "place_id": "ChIJXSaWoRM9DDkRTseM5POEJns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXSaWoRM9DDkRTseM5POEJns",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:06:27"
+  },
+  {
+    "business_name": "कार्तिक शॉपिंग सेंटर",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "251319",
+    "phone_number": "+91 94114 50441",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "9F79+VRC, Garhi Noabad, Uttar Pradesh 251319",
+    "area": "251319",
+    "latitude": 29.3646982,
+    "longitude": 77.46950369999999,
+    "place_id": "ChIJG_x8kFg7DDkRteR2JIEpGac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG_x8kFg7DDkRteR2JIEpGac",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:06:27"
+  }
+]

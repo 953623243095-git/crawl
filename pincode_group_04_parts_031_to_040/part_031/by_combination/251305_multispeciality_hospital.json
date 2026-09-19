@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajvansh Multispeciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "251305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khasra no 1804/3, Arpan Township, Plot no 1, Main muzaffarnagar Road, Shamli, Uttar Pradesh 247776",
+    "area": "251305",
+    "latitude": 29.457521699999997,
+    "longitude": 77.3332267,
+    "place_id": "ChIJ8eKTeAAvDDkR7qcvi5cXQQI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8eKTeAAvDDkR7qcvi5cXQQI",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:45:47"
+  },
+  {
+    "business_name": "Bhardwaj Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "251305",
+    "phone_number": "+91 89235 65469",
+    "website": "http://www.d2dnews.com/business-detail.aspx?i=364963a5-377d-4dfe-a0af-02d7e3a452d7",
+    "rating": 4.1,
+    "reviews_count": 35,
+    "address": "Baraut Rd, Budhana, Uttar Pradesh 251309",
+    "area": "251305",
+    "latitude": 29.281412,
+    "longitude": 77.47122,
+    "place_id": "ChIJHYBpFEw_DDkRa3-6HR_FdVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHYBpFEw_DDkRa3-6HR_FdVk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:45:47"
+  }
+]

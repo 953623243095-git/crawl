@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VLR PORTFOLIO MANAGEMENT LLP",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution, Bus ticket agency",
+    "pincode": "261131",
+    "phone_number": "+91 91614 44474",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "358, Vijay Laxmi Nagar, Sitapur, Uttar Pradesh 261001",
+    "area": "Vijay Laxmi Nagar",
+    "latitude": 27.5623003,
+    "longitude": 80.6821229,
+    "place_id": "ChIJa0wnbgDXnjkR2rT7srk3tCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa0wnbgDXnjkR2rT7srk3tCQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:15:49"
+  },
+  {
+    "business_name": "KOHLI TRANSPORT COMPANY",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "261131",
+    "phone_number": "+91 99184 62690",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "62, Sitapur Rd, Tompson Ganj, Arya Nagar, Sitapur, Uttar Pradesh 261001",
+    "area": "Tompson Ganj, Arya Nagar",
+    "latitude": 27.5649218,
+    "longitude": 80.680717,
+    "place_id": "ChIJM6stj1XWnjkRXo3-WyzDtaA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM6stj1XWnjkRXo3-WyzDtaA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:15:51"
+  }
+]

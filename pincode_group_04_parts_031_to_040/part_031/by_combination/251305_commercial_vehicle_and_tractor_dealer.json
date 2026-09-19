@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Holland",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "251305",
+    "phone_number": "+91 431 654 3630",
+    "website": "http://www.newholland.com/",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "IIIrd Floor, Kanchana Enclave, No. D 72, 6th Cross Rd E, Tennur, Tiruchirappalli, Tamil Nadu 620018",
+    "area": "Tennur",
+    "latitude": 10.822519,
+    "longitude": 78.686945,
+    "place_id": "ChIJhZjSIKT1qjsRMfJJYpFBC9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhZjSIKT1qjsRMfJJYpFBC9M",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:45:59"
+  },
+  {
+    "business_name": "Tractor dealers",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "251305",
+    "phone_number": "+91 98979 66250",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Karnal Rd, Teachers Colony, Shamli, Uttar Pradesh 247776",
+    "area": "Teachers Colony",
+    "latitude": 29.448832,
+    "longitude": 77.3062961,
+    "place_id": "ChIJyTGN2fovDDkRgyzZ1k0w9is",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyTGN2fovDDkRgyzZ1k0w9is",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:46:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Metal Kohinoor",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Metal fabricator",
+    "all_categories": "Metal fabricator, Service establishment",
+    "pincode": "251310",
+    "phone_number": "+91 97979 28168",
+    "website": "https://www.metalkohinoor.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Metal Kohinoor, 251310, India",
+    "area": "251310",
+    "latitude": 28.6440837,
+    "longitude": 77.1975795,
+    "place_id": "ChIJ7UVUhIbh6KYRFqekLIxfklU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7UVUhIbh6KYRFqekLIxfklU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:55:40"
+  },
+  {
+    "business_name": "NDA Aluminum fabrication",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Fabrication Engineer",
+    "all_categories": "Fabrication Engineer",
+    "pincode": "251310",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HN 243, near jama masjid, Muzaffarnagar, Sikari, Uttar Pradesh 251308",
+    "area": "251310",
+    "latitude": 29.543336399999998,
+    "longitude": 77.9148057,
+    "place_id": "ChIJxaiPl2gBDDkRz_XelpXSRIg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxaiPl2gBDDkRz_XelpXSRIg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:55:41"
+  }
+]

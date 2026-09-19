@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Care medical store tawli",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "251318",
+    "phone_number": "+91 99277 17369",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shahpur road, Tawli, Uttar Pradesh 251318",
+    "area": "251318",
+    "latitude": 29.417523199999998,
+    "longitude": 77.6243878,
+    "place_id": "ChIJQRVPDgAZDDkR2Wt-K3HKZZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQRVPDgAZDDkR2Wt-K3HKZZc",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:03:22"
+  },
+  {
+    "business_name": "Sharma medicose",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center, Medical supply store",
+    "pincode": "251318",
+    "phone_number": "+91 97594 15126",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Main road, near police choki, Kasarwa, Shahpur, Uttar Pradesh 251318",
+    "area": "Kasarwa",
+    "latitude": 29.351342799999998,
+    "longitude": 77.5480974,
+    "place_id": "ChIJadovUBs9DDkRQNEZc4x4FqY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJadovUBs9DDkRQNEZc4x4FqY",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:03:23"
+  }
+]

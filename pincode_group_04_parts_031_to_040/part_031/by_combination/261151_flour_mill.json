@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAKHI FLOUR MILL",
+    "search_category": "Flour Mill",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "261151",
+    "phone_number": "+91 99367 12810",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "KUMHARUA ON, PLOT NO 247, Pihani Rd, near KUMHARUA PUL, TEHSIL, SHAHABAD, Uttar Pradesh 241406",
+    "area": "TEHSIL",
+    "latitude": 27.5928251,
+    "longitude": 80.2367584,
+    "place_id": "ChIJgzEHHB4DnzkRlh7qepl2rjA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgzEHHB4DnzkRlh7qepl2rjA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:23:48"
+  },
+  {
+    "business_name": "Sheru Solar Chakki",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "261151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JFFV+GG4, Kusaila, Uttar Pradesh 261141",
+    "area": "261151",
+    "latitude": 27.624056699999997,
+    "longitude": 80.4933068,
+    "place_id": "ChIJ10thWQAhnzkRtE0iSj46aME",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ10thWQAhnzkRtE0iSj46aME",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:23:48"
+  }
+]

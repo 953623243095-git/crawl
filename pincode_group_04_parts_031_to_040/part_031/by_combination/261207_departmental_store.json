@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "jAISWAL TRADERS",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "261207",
+    "phone_number": "+91 99569 42525",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Gajnipur, Road, Biswan, Uttar Pradesh 261207",
+    "area": "261207",
+    "latitude": 27.5721311,
+    "longitude": 80.9799559,
+    "place_id": "ChIJt33wBSMpmTkRqTCAYafBC04",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt33wBSMpmTkRqTCAYafBC04",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:35:34"
+  },
+  {
+    "business_name": "Ashish Shop",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "261207",
+    "phone_number": "+91 75239 61812",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HXJR 9R6, Kajipur, Sarya Kala, Uttar Pradesh 261207",
+    "area": "261207",
+    "latitude": 27.579926,
+    "longitude": 80.99096779999999,
+    "place_id": "ChIJ_3IZtGUnmTkRjbHMJ03bSQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_3IZtGUnmTkRjbHMJ03bSQk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:35:34"
+  }
+]

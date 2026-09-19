@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ace Traders",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "261402",
+    "phone_number": "+91 99149 79486",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khewaf Khistwani No.70/83, Khasra No.24/14, Zamuna Enclave, Village Bishanpura, Panchsheel Enclave, Zirakpur, Punjab 140603",
+    "area": "Panchsheel Enclave",
+    "latitude": 30.644340999999997,
+    "longitude": 76.8252615,
+    "place_id": "ChIJ7ZvQSC3rDzkRKwBP0aVB9u4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7ZvQSC3rDzkRKwBP0aVB9u4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:45:55"
+  },
+  {
+    "business_name": "Utkarshini Enterprises",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "261402",
+    "phone_number": "+91 99728 55552",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Ashram Rd, Neela Nagar, Vijayapura, Karnataka 586104",
+    "area": "Neela Nagar",
+    "latitude": 16.8551994,
+    "longitude": 75.72555009999999,
+    "place_id": "ChIJV5N4S_tVxjsR8bfBPA4oXQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV5N4S_tVxjsR8bfBPA4oXQg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:45:56"
+  }
+]

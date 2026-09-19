@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Bike Service Shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "261136",
+    "phone_number": "+91 99566 49250",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Biswan - Laharpur Rd, Sher Pur, Uttar Pradesh 261135",
+    "area": "261136",
+    "latitude": 27.6299586,
+    "longitude": 80.9445428,
+    "place_id": "ChIJ8f3U0HXXmDkRneTAPjseXvU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8f3U0HXXmDkRneTAPjseXvU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:19:17"
+  },
+  {
+    "business_name": "Anees Cycel store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "261136",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "JV27+443, Unnamed Road, Talgaon, Uttar Pradesh 261207",
+    "area": "261136",
+    "latitude": 27.6002728,
+    "longitude": 80.8628049,
+    "place_id": "ChIJFa2RgWcqmTkRQPCKTeUQISQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFa2RgWcqmTkRQPCKTeUQISQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:19:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neha medicare and medical store",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "251308",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jansath Rd, near SBI, Almaspur, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Almaspur",
+    "latitude": 29.4547468,
+    "longitude": 77.7204046,
+    "place_id": "ChIJHzvRPSEbDDkR0E4KwdohToM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHzvRPSEbDDkR0E4KwdohToM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:51:14"
+  },
+  {
+    "business_name": "kaushik clinic, muzaffarnagar",
+    "search_category": "ENT Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "251308",
+    "phone_number": "+91 94570 63666",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "FPH9+782, Shaheed Bachan Singh Marg, Adarsh Colony, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Adarsh Colony",
+    "latitude": 29.4781455,
+    "longitude": 77.7182595,
+    "place_id": "ChIJ-zRMcGkbDDkRN-QQh3mmLIk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-zRMcGkbDDkRN-QQh3mmLIk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:51:14"
+  }
+]

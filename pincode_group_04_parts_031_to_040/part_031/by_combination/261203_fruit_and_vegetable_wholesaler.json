@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pappu Fruits Corner",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "261203",
+    "phone_number": "+91 89486 53074",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Shop No 5, Sankata Devi Mandir Road, Mahmudabad, Uttar Pradesh 261203",
+    "area": "261203",
+    "latitude": 27.2927081,
+    "longitude": 81.1167852,
+    "place_id": "ChIJhZjpUTI_mTkR0vGMO5IlgE4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhZjpUTI_mTkR0vGMO5IlgE4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:28:50"
+  },
+  {
+    "business_name": "Bilauli Bazar",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "261203",
+    "phone_number": "N/A",
+    "website": "http://www.panb.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Bilauli Bazar, Afsaria Husainpur, Uttar Pradesh 261206",
+    "area": "261203",
+    "latitude": 27.3509352,
+    "longitude": 81.0928952,
+    "place_id": "ChIJ48aTsWc_mTkRg7leKl-sCHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ48aTsWc_mTkRg7leKl-sCHA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:28:51"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "service business",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Online Share Trading Center",
+    "all_categories": "Online Share Trading Center",
+    "pincode": "261121",
+    "phone_number": "+91 80815 12537",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "210, Alam Nagar, Sitapur, Uttar Pradesh 261001",
+    "area": "Alam Nagar",
+    "latitude": 27.5721086,
+    "longitude": 80.67950549999999,
+    "place_id": "ChIJ42HSCLbXnjkRMx3FOBuxtXg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ42HSCLbXnjkRMx3FOBuxtXg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:13:20"
+  },
+  {
+    "business_name": "Help Any Time",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "B2B Appointment-Setting Agencies",
+    "all_categories": "B2B Appointment-Setting Agencies",
+    "pincode": "261121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Moglapur, Munshigunj, Sitapur, Mansoorpur, Uttar Pradesh 261001",
+    "area": "Moglapur, Munshigunj",
+    "latitude": 27.5839037,
+    "longitude": 80.666356,
+    "place_id": "ChIJlcNXUjTXnjkR4_SQTnONPvs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlcNXUjTXnjkR4_SQTnONPvs",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:13:21"
+  }
+]

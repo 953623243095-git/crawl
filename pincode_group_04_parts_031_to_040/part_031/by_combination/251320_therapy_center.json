@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Solace Physio Clinic",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "251320",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7224+C2F, near indian petrol pump, Ramraj, Uttar Pradesh 251320",
+    "area": "251320",
+    "latitude": 29.251071,
+    "longitude": 78.0050607,
+    "place_id": "ChIJLf5UD8j1CzkRMl7OX__UJIk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLf5UD8j1CzkRMl7OX__UJIk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:07:28"
+  },
+  {
+    "business_name": "AMBAR NEUROMIND CARE",
+    "search_category": "Therapy Center",
+    "primary_category": "Psychiatrist",
+    "all_categories": "Psychiatrist, Mental health service",
+    "pincode": "251320",
+    "phone_number": "+91 75050 37086",
+    "website": "https://ambarneuro-mindcare.com/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "TC SQUARE MARKET, Arya Samaj Rd, near Mahaveer Chowk, Shiv Chowk, Civil Lines South, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Shiv Chowk, Civil Lines South",
+    "latitude": 29.4663659,
+    "longitude": 77.702973,
+    "place_id": "ChIJHfo0nqgbDDkR_-ixn5Jc7Qs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHfo0nqgbDDkR_-ixn5Jc7Qs",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:07:30"
+  }
+]

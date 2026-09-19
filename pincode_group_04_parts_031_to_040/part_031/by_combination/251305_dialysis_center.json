@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Rajesh Goel",
+    "search_category": "Dialysis Center",
+    "primary_category": "Nephrologist",
+    "all_categories": "Nephrologist",
+    "pincode": "251305",
+    "phone_number": "N/A",
+    "website": "https://www.kidneycarecentre.in/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "SH-57, Delhi - Saharanpur Rd, Shamli, Uttar Pradesh 247776",
+    "area": "251305",
+    "latitude": 29.4883158,
+    "longitude": 77.35177019999999,
+    "place_id": "ChIJ3ev6qC8pDDkRyAPWjzLrCqc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3ev6qC8pDDkRyAPWjzLrCqc",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:45:51"
+  },
+  {
+    "business_name": "SALALAH DIALYSIS CENTRE",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "251305",
+    "phone_number": "+91 490 243 3700",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 11,
+    "address": "WJXJ+M72, Kannur - Mattannur - Coorg Rd, Kerala 670702",
+    "area": "251305",
+    "latitude": 11.949126099999999,
+    "longitude": 75.63063319999999,
+    "place_id": "ChIJzTIwY90zpDsR6v8KhKow9h0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzTIwY90zpDsR6v8KhKow9h0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:45:53"
+  }
+]

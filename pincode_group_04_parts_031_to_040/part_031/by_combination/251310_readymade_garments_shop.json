@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramji Garments",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "251310",
+    "phone_number": "+91 98970 29211",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "NIC Muzaffarnagar, Sadar Bazar,, Court Rd, Jila Parisad Colony, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Jila Parisad Colony",
+    "latitude": 29.4710443,
+    "longitude": 77.7010684,
+    "place_id": "ChIJa-C1OXUbDDkRuJ-AXh6_53c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa-C1OXUbDDkRuJ-AXh6_53c",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:54:28"
+  },
+  {
+    "business_name": "Welcome Cloth house",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "251310",
+    "phone_number": "+91 97603 08082",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ansari market Basera (Rani ka, nearby taj tailor, Uttar Pradesh 251310",
+    "area": "251310",
+    "latitude": 29.5580519,
+    "longitude": 77.853374,
+    "place_id": "ChIJO7W2BJwBDDkRxhfDmCIihHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO7W2BJwBDDkRxhfDmCIihHU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:54:28"
+  }
+]

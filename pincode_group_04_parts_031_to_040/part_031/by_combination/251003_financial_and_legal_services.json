@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Financial Advisory",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant",
+    "pincode": "251003",
+    "phone_number": "+91 70156 05390",
+    "website": "https://myfinancialadvisory.com/",
+    "rating": 5,
+    "reviews_count": 28,
+    "address": "1013,10th floor,Kailash Building KG Marg, Road, Barakhamba, New Delhi, Delhi 110001",
+    "area": "Fire Brigade Lane, Barakhamba",
+    "latitude": 28.6308664,
+    "longitude": 77.2238441,
+    "place_id": "ChIJFwN8b9r9DDkRBYzaYT8bESU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFwN8b9r9DDkRBYzaYT8bESU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:37:55"
+  },
+  {
+    "business_name": "Shiv Legal Lawyers",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Law firm",
+    "all_categories": "Law firm",
+    "pincode": "251003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sanjay Sharma, 2d, 2d, Vakil Rd, New Mandi, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "New Mandi",
+    "latitude": 29.4646366,
+    "longitude": 77.7105842,
+    "place_id": "ChIJseo-Gw4bDDkR_TWwqOhvT-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJseo-Gw4bDDkR_TWwqOhvT-o",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:37:56"
+  }
+]

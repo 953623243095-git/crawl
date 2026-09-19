@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rathore Mobile Shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "261404",
+    "phone_number": "+91 63933 04048",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Misrikh-cum-Neemsar, korouna, Uttar Pradesh 261401",
+    "area": "261404",
+    "latitude": 27.4263794,
+    "longitude": 80.5221392,
+    "place_id": "ChIJaQB8XOPdnjkRcAGHIb374KI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaQB8XOPdnjkRcAGHIb374KI",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:50:25"
+  },
+  {
+    "business_name": "yadav telecom",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "261404",
+    "phone_number": "+91 97954 78000",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 340,
+    "address": "Jafari, Kanpur Rd, near Fatehgarh Kotwali, Fatehgarh, Uttar Pradesh 209601",
+    "area": "Phoos Banglow Colony",
+    "latitude": 27.3603772,
+    "longitude": 79.6296656,
+    "place_id": "ChIJr-_h6KIwnjkRgRYJUzMKQ5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr-_h6KIwnjkRgRYJUzMKQ5A",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:50:27"
+  }
+]

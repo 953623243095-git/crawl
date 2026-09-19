@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HASHIM COMPUTERS AND TRAINING CENTER",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer training school",
+    "all_categories": "Computer training school",
+    "pincode": "261205",
+    "phone_number": "+91 96510 70908",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "P5H5+WV7, Tambaur, Uttar Pradesh 261208",
+    "area": "261205",
+    "latitude": 27.7297795,
+    "longitude": 81.1596647,
+    "place_id": "ChIJ6af13wPemDkRcUfrTMDTfGA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6af13wPemDkRcUfrTMDTfGA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:33:17"
+  },
+  {
+    "business_name": "S-TECH COMPUTER ACADEMY",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Training center",
+    "all_categories": "Training center, School",
+    "pincode": "261205",
+    "phone_number": "+91 99352 41333",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Seuta Tambaur, Seuta, Uttar Pradesh 261208",
+    "area": "261205",
+    "latitude": 27.7312661,
+    "longitude": 81.15916059999999,
+    "place_id": "ChIJVVVVVWkfmTkREjH1JihePxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVWkfmTkREjH1JihePxk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:33:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balloon",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Service establishment",
+    "pincode": "251327",
+    "phone_number": "+91 88301 80801",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 22,
+    "address": "Balloon, 251327, India",
+    "area": "251327",
+    "latitude": 18.553112799999997,
+    "longitude": 73.8645074,
+    "place_id": "ChIJK-sLbcm4wjsRJQbch6d57Ao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK-sLbcm4wjsRJQbch6d57Ao",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:09:15"
+  },
+  {
+    "business_name": "Balloon Decoration - Event Management Company",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "251327",
+    "phone_number": "+91 97147 79996",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 136,
+    "address": "Silver Business Point, Near, VIP Cir, Utran, Surat, Gujarat 394105",
+    "area": "Utran",
+    "latitude": 21.2333523,
+    "longitude": 72.8637383,
+    "place_id": "ChIJYT33_MdP4DsRKwlGN4gBli8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYT33_MdP4DsRKwlGN4gBli8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:09:17"
+  }
+]

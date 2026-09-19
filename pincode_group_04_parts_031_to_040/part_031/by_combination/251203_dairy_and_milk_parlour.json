@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jindal Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "251203",
+    "phone_number": "+91 98374 10720",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "45/1, जानसठ रोड़, कम्बल वाला बाग, Civil Lines South, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "कम्बल वाला बाग, Civil Lines South",
+    "latitude": 29.4629162,
+    "longitude": 77.7086243,
+    "place_id": "ChIJJc5KUA4bDDkRsvWcbzke9jg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJc5KUA4bDDkRsvWcbzke9jg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:41:51"
+  },
+  {
+    "business_name": "Jindal Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "251203",
+    "phone_number": "+91 98379 71040",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "12C, New Mandi, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "New Mandi",
+    "latitude": 29.471456099999997,
+    "longitude": 77.7101605,
+    "place_id": "ChIJw-ZP5WYbDDkRuGdoiTEwHvM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw-ZP5WYbDDkRuGdoiTEwHvM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:41:51"
+  }
+]

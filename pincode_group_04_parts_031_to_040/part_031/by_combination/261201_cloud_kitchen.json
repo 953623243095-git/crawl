@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KHALID RESTAURANT",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "261201",
+    "phone_number": "+91 91639 30460",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 33,
+    "address": "MDR77C, Mahmudabad, Uttar Pradesh 261203",
+    "area": "261201",
+    "latitude": 27.2918004,
+    "longitude": 81.113525,
+    "place_id": "ChIJdS6RfHo_mTkRcX1-WzFVsl0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdS6RfHo_mTkRcX1-WzFVsl0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:25:39"
+  },
+  {
+    "business_name": "Urmila's Kitchen (Cloud Kitchen)",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Meal delivery",
+    "all_categories": "Meal delivery, Service establishment",
+    "pincode": "261201",
+    "phone_number": "+91 77421 31097",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Urmila's Kitchen (Cloud Kitchen), 261201, India",
+    "area": "261201",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ5UtmHO9NbDkR6VwGVT40Zfw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5UtmHO9NbDkR6VwGVT40Zfw",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:25:41"
+  }
+]

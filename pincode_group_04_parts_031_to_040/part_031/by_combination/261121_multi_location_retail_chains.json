@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Lakshmi Smart Shop",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "261121",
+    "phone_number": "+91 88876 49903",
+    "website": "https://rajlakshmismartshop.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lalbagh Road, Municipal Market Rd, Sitapur, Uttar Pradesh 261001",
+    "area": "Ghantaghar",
+    "latitude": 27.5692183,
+    "longitude": 80.68232669999999,
+    "place_id": "ChIJp_38ZLfXnjkRFiO_IeW0ca4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp_38ZLfXnjkRFiO_IeW0ca4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:13:22"
+  },
+  {
+    "business_name": "ARYA MART",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Grocery delivery service",
+    "pincode": "261121",
+    "phone_number": "+91 98072 55215",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 490,
+    "address": "10/706, Jama Masjid Rd, Sector 10, Indira Nagar, Lucknow, Uttar Pradesh 226016",
+    "area": "Sector 10, Indira Nagar",
+    "latitude": 26.886640099999997,
+    "longitude": 81.00256,
+    "place_id": "ChIJOyywQ6fimzkRTb_oh2U8ZVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOyywQ6fimzkRTb_oh2U8ZVc",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:13:23"
+  }
+]

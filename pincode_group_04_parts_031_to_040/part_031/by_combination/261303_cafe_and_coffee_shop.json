@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zillennial Coffee Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe, Restaurant",
+    "pincode": "261303",
+    "phone_number": "+91 90275 24874",
+    "website": "https://zillennialcoffecafe.netlify.app/",
+    "rating": 4.6,
+    "reviews_count": 97,
+    "address": "60 Feet Rd, Jankipuram Extension, Lucknow, Uttar Pradesh 226031",
+    "area": "Jankipuram Extension",
+    "latitude": 26.9320855,
+    "longitude": 80.945985,
+    "place_id": "ChIJ4a7nbgBXmTkR88hX9pXI42E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4a7nbgBXmTkR88hX9pXI42E",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:42:36"
+  },
+  {
+    "business_name": "Paal Tea Shop Itaunja",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "261303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "3VJR+GJ8, Sitapur Rd, Itaunja, Madhopur, Uttar Pradesh 226203",
+    "area": "261303",
+    "latitude": 27.0809851,
+    "longitude": 80.8916916,
+    "place_id": "ChIJg95zCgBNmTkRH-YgRz0G44w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg95zCgBNmTkRH-YgRz0G44w",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:42:36"
+  }
+]

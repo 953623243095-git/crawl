@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tanvi Securities",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service",
+    "pincode": "251301",
+    "phone_number": "+91 92545 50055",
+    "website": "http://tanvisecurities.com/",
+    "rating": 5,
+    "reviews_count": 45,
+    "address": "392, West Bhatia Nagar Near ICICI Bank Jagadhri, Road, Yamuna Nagar, Haryana 135001",
+    "area": "Yamuna Nagar",
+    "latitude": 30.1299082,
+    "longitude": 77.2917643,
+    "place_id": "ChIJQxZH_5L7DjkRQzl98MpRggw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQxZH_5L7DjkRQzl98MpRggw",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:45:00"
+  },
+  {
+    "business_name": "SHARE INDIA Noida",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "251301",
+    "phone_number": "+91 1800 203 0303",
+    "website": "https://www.shareindia.com/",
+    "rating": 4.2,
+    "reviews_count": 113,
+    "address": "15, Block A, Sector 64, Noida, Uttar Pradesh 201305",
+    "area": "Block A, Sector 64",
+    "latitude": 28.6132845,
+    "longitude": 77.37743909999999,
+    "place_id": "ChIJBcHcIKLlDDkRhf8kaobov-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBcHcIKLlDDkRhf8kaobov-w",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:45:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Medical Store",
+    "search_category": "Organic Food Store",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "261151",
+    "phone_number": "+91 63075 11044",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Misrikh-cum-Neemsar, korouna, Uttar Pradesh 261401",
+    "area": "261151",
+    "latitude": 27.4296085,
+    "longitude": 80.5262849,
+    "place_id": "ChIJnyaPTLzcnjkRjIaZsPEAhFM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnyaPTLzcnjkRjIaZsPEAhFM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:23:47"
+  },
+  {
+    "business_name": "Nature Farm Organic Mart Pvt limited",
+    "search_category": "Organic Food Store",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "261151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "HCG3+9V2, Pisawa, Bicha Pari, Uttar Pradesh 261151",
+    "area": "261151",
+    "latitude": 27.575882,
+    "longitude": 80.4046551,
+    "place_id": "ChIJR7kpMQBTczkR3mdhw2iel2c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR7kpMQBTczkR3mdhw2iel2c",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:23:49"
+  }
+]

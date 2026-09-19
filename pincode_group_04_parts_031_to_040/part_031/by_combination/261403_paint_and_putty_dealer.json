@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Paints",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "261403",
+    "phone_number": "+91 91407 63184",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Infront Of Nagar Palika, Biswan - Sitapur Rd, Mevati Tola, Lucknow, Khairabad, Uttar Pradesh 261131",
+    "area": "Mevati Tola",
+    "latitude": 27.5270446,
+    "longitude": 80.7562342,
+    "place_id": "ChIJzz_DhZPVnjkR3J88VgpXniA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzz_DhZPVnjkR3J88VgpXniA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:48:15"
+  },
+  {
+    "business_name": "Vidya paints store",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "261403",
+    "phone_number": "+91 70848 52228",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 23,
+    "address": "Kanpur - Raebareli Rd, in front of mandi samiti, Chamanganj Saketnager, Lalganj, Korihara, Uttar Pradesh 229206",
+    "area": "Chamanganj Saketnager",
+    "latitude": 26.1634861,
+    "longitude": 80.9659013,
+    "place_id": "ChIJKeQ8llqDmzkRYq7u2-QkIUw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKeQ8llqDmzkRYq7u2-QkIUw",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:48:17"
+  }
+]

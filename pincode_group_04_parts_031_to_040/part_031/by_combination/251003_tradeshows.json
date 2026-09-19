@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aazad Market",
+    "search_category": "Tradeshows",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "251003",
+    "phone_number": "+91 87552 10315",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "janta inter college rood, Bhopa, Uttar Pradesh 251308",
+    "area": "251003",
+    "latitude": 29.47685,
+    "longitude": 77.8742773,
+    "place_id": "ChIJz-paROMGDDkRSrWy60ccJsc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz-paROMGDDkRSrWy60ccJsc",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:38:06"
+  },
+  {
+    "business_name": "Ghanishtha Pratishtha Chaudhary",
+    "search_category": "Tradeshows",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "251003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Ghanishtha Pratishtha Chaudhary Market, Ghasipura, Uttar Pradesh 251203",
+    "area": "251003",
+    "latitude": 29.370845199999998,
+    "longitude": 77.7065526,
+    "place_id": "ChIJlQGkylsQDDkR2MJ4KkQotEc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlQGkylsQDDkR2MJ4KkQotEc",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:38:06"
+  }
+]

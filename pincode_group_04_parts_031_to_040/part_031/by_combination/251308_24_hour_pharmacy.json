@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Al Dawaa Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "251308",
+    "phone_number": "+91 85328 92852",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhokerhari, Bhokerhari, near by Bus Stand, Muzaffarnagar, Bhokarhedi, Uttar Pradesh 251308",
+    "area": "251308",
+    "latitude": 29.5044701,
+    "longitude": 77.9383326,
+    "place_id": "ChIJYeedZYD5CzkRn2M7IYCn-e0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYeedZYD5CzkRn2M7IYCn-e0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:51:04"
+  },
+  {
+    "business_name": "VITA NURSING HOME",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "251308",
+    "phone_number": "+91 94588 88173",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhopa, Uttar Pradesh 251308",
+    "area": "251308",
+    "latitude": 29.4770842,
+    "longitude": 77.87454509999999,
+    "place_id": "ChIJYeyJUwAHDDkRJ7M0AsQYCfQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYeyJUwAHDDkRJ7M0AsQYCfQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:51:07"
+  }
+]

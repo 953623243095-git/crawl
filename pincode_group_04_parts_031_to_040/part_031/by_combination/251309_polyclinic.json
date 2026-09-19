@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aventis Healthcare And Polyclinic Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "251309",
+    "phone_number": "+91 76176 07052",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kandhla - Budhana Rd, opposite Jindal machinery store, near Tehsil, Budhana, Uttar Pradesh 251309",
+    "area": "251309",
+    "latitude": 29.2893987,
+    "longitude": 77.4693789,
+    "place_id": "ChIJUUhQBmk7DDkRWkjoZcGDjbE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUUhQBmk7DDkRWkjoZcGDjbE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:52:57"
+  },
+  {
+    "business_name": "Secure Life Poly Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "251309",
+    "phone_number": "+91 81939 55318",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7FQC+XVP, Budhana - Muzaffarnagar Rd, Budhana, Uttar Pradesh 251309",
+    "area": "251309",
+    "latitude": 29.2899653,
+    "longitude": 77.47219079999999,
+    "place_id": "ChIJf3RhhTE9DDkR0JdKfOw8ZNs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf3RhhTE9DDkR0JdKfOw8ZNs",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:52:57"
+  }
+]

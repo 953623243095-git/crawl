@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apoorva Car Care Centre",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "261131",
+    "phone_number": "+91 816 228 5228",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 63,
+    "address": "80 Feet Rd, Near Mirij Petrol Bunk, APMC Yard, Mahalakshmi Nagar, Batawadi, Tumakur, Karnataka 572103",
+    "area": "APMC Yard, Mahalakshmi Nagar, Batawadi",
+    "latitude": 13.32725,
+    "longitude": 77.131022,
+    "place_id": "ChIJx1PEIWossDsR-cScBBLc100",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx1PEIWossDsR-cScBBLc100",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:15:45"
+  },
+  {
+    "business_name": "Bosch Car Service - Perfect Auto Care",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "261131",
+    "phone_number": "+91 94481 15916",
+    "website": "https://ap.boschcarservice.com/in/en/book-a-car-service#/booking/classic/landing?customerId=76017925",
+    "rating": 3.9,
+    "reviews_count": 522,
+    "address": "Somekatte Matt, Bangalore - Honnavar Hwy, opp. Bhadramma Kalyana Mantap, Ward No. 18, Tumkur, Tumakur, Karnataka 572102",
+    "area": "Ward No. 18, Tumkur",
+    "latitude": 13.339016899999999,
+    "longitude": 77.1086988,
+    "place_id": "ChIJcwV9US8ssDsRWKQ6H6e8CSM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcwV9US8ssDsRWKQ6H6e8CSM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:15:45"
+  }
+]

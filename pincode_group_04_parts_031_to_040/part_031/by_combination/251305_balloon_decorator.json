@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Birthday store",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist, Balloon store, Service establishment, Event planner",
+    "pincode": "251305",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/birthday_store_kolkata_bapi?igsh=MTd5amx5NXA4NmJpNg==",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "Birthday store, 251305, India",
+    "area": "251305",
+    "latitude": 22.5173842,
+    "longitude": 88.3473528,
+    "place_id": "ChIJ2_3wgL4kT4sRgD678tEaruI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2_3wgL4kT4sRgD678tEaruI",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:46:25"
+  },
+  {
+    "business_name": "Petalloons Luxury Event Decor",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist, Service establishment",
+    "pincode": "251305",
+    "phone_number": "N/A",
+    "website": "http://www.petalloons.com/",
+    "rating": 5,
+    "reviews_count": 59,
+    "address": "Petalloons Luxury Event Decor, 251305, India",
+    "area": "251305",
+    "latitude": 37.7369895,
+    "longitude": -122.1467412,
+    "place_id": "ChIJpzrYZQbzqYkRVMDHHust1wY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpzrYZQbzqYkRVMDHHust1wY",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:46:25"
+  }
+]

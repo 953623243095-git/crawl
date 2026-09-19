@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saleem General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "251311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Haibatpur, Uttar Pradesh 251311",
+    "area": "251311",
+    "latitude": 29.510214899999998,
+    "longitude": 77.6044235,
+    "place_id": "ChIJWwR-FgAfDDkRON-nVF3W3Wk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWwR-FgAfDDkRON-nVF3W3Wk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:56:00"
+  },
+  {
+    "business_name": "KAMAL TRADING COMPANY",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "251311",
+    "phone_number": "+91 90456 05572",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MAIN, Charthawal, Uttar Pradesh 251311",
+    "area": "MAIN",
+    "latitude": 29.5416861,
+    "longitude": 77.5856414,
+    "place_id": "ChIJoxQ_pcAfDDkRWkbjn2FQWbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoxQ_pcAfDDkRWkbjn2FQWbU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:56:00"
+  }
+]

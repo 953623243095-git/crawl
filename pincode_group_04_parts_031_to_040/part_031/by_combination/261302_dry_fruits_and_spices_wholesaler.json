@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sainath Trading Company",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store, Spices Wholesaler",
+    "pincode": "261302",
+    "phone_number": "+91 217 232 7682",
+    "website": "https://sainathdryfruitsonline.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "39-B Jodbhavi Peth, Mangalwar Peth, Solapur, Maharashtra 413002",
+    "area": "Mangalwar Peth",
+    "latitude": 17.6803256,
+    "longitude": 75.9121524,
+    "place_id": "ChIJ1SKAfIjaxTsR31DlDWGDk00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1SKAfIjaxTsR31DlDWGDk00",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:40:42"
+  },
+  {
+    "business_name": "Variety Dry Fruit Stores",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "261302",
+    "phone_number": "+91 83414 00500",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 303,
+    "address": "Sri Jamnadas Devji Variety Towers, 1, Mahatma Gandhi Rd, near Gandhi Statue, Nallagutta, Ramgopalpet, Secunderabad, Hyderabad, Telangana 500003",
+    "area": "Nallagutta, Ramgopalpet",
+    "latitude": 17.438961799999998,
+    "longitude": 78.48848679999999,
+    "place_id": "ChIJI-18VxGayzsR3VfEjX9V81M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI-18VxGayzsR3VfEjX9V81M",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:40:45"
+  }
+]

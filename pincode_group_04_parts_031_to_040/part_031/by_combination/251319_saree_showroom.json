@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bombay Saree Sale",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "251319",
+    "phone_number": "+91 73031 30545",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "14, Shahpur, Muzaffarnagar, Uttar Pradesh 251318",
+    "area": "251319",
+    "latitude": 29.358552099999997,
+    "longitude": 77.5323837,
+    "place_id": "ChIJRzFv2iY9DDkRFiTZD6re-lE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRzFv2iY9DDkRFiTZD6re-lE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:05:00"
+  },
+  {
+    "business_name": "kapda",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "251319",
+    "phone_number": "+91 91492 34166",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ashu Ahmed Ale Sher, Umarpur, Uttar Pradesh 251318",
+    "area": "251319",
+    "latitude": 29.3289545,
+    "longitude": 77.5064028,
+    "place_id": "ChIJ04w0mu49DDkR_HAqlDpazZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ04w0mu49DDkR_HAqlDpazZA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:05:00"
+  }
+]

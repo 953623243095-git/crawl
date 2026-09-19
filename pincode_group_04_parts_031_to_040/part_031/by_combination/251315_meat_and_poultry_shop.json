@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zaid Chicken And Kabab Corner",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "251315",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 12,
+    "address": "7XQ2+6JP Delhi-Podi, National Highway, Miranpur, Uttar Pradesh 251315",
+    "area": "251315",
+    "latitude": 29.286772499999998,
+    "longitude": 77.9539168,
+    "place_id": "ChIJKZwzoo_1CzkRZouKZhj5yVs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKZwzoo_1CzkRZouKZhj5yVs",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:59:30"
+  },
+  {
+    "business_name": "Mujassim Poultry Farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "251315",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.7,
+    "reviews_count": null,
+    "address": "9W8M+5WG, Tandhera sadaat, Tandera, Uttar Pradesh 251315",
+    "area": "251315",
+    "latitude": 29.3654427,
+    "longitude": 77.9348364,
+    "place_id": "ChIJNcPZ8SX2CzkRxOf8-eF9wCU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNcPZ8SX2CzkRxOf8-eF9wCU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:59:31"
+  }
+]

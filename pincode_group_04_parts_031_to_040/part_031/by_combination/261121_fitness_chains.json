@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OutRock Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "261121",
+    "phone_number": "+91 95196 27100",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 142,
+    "address": "AWM Tower 3rd Floor Pakka Pul, Sitapur Rd, Khadra, Lucknow, Uttar Pradesh 226020",
+    "area": "Purani Khadra Chungi, Iradat Nagar, Khadra",
+    "latitude": 26.875534199999997,
+    "longitude": 80.9171843,
+    "place_id": "ChIJ28sRgtz9mzkRftG-LqMriSY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ28sRgtz9mzkRftG-LqMriSY",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:12:14"
+  },
+  {
+    "business_name": "Nishant sports",
+    "search_category": "Fitness Chains",
+    "primary_category": "Sporting goods store",
+    "all_categories": "Sporting goods store",
+    "pincode": "261121",
+    "phone_number": "+91 75248 00999",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Guru Gobind Singh Marg, Maharaj Nagar, Lakhimpur, Uttar Pradesh 262701",
+    "area": "Maharaj Nagar",
+    "latitude": 27.9426563,
+    "longitude": 80.7840331,
+    "place_id": "ChIJGyTS3OE0nzkRop0TYQN3fDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGyTS3OE0nzkRop0TYQN3fDU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:12:16"
+  }
+]

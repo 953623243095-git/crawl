@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Shankar sarvice centre",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "251306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "FM32+XXH, Muzaffarnagar, Uttar Pradesh 251306",
+    "area": "251306",
+    "latitude": 29.4549436,
+    "longitude": 77.65248629999999,
+    "place_id": "ChIJaUeLIwAZDDkR5hLvH-su6UQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaUeLIwAZDDkR5hLvH-su6UQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:47:46"
+  },
+  {
+    "business_name": "Star service dug",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "251306",
+    "phone_number": "+91 96272 72714",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Opojit nanki hospital, Roorkee Rd, near depak banket hall, North Rampuri, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "North Rampuri",
+    "latitude": 29.492911799999998,
+    "longitude": 77.6980542,
+    "place_id": "ChIJcUYZ9X8cDDkRt1sp96vlB0M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcUYZ9X8cDDkRt1sp96vlB0M",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:47:48"
+  }
+]

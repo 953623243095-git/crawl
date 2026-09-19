@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubham Properties",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "261403",
+    "phone_number": "+91 91402 95109",
+    "website": "https://shubhamproperties.online/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "M-249, Kanpur Rd, Ashiyana Colony, Sector M, LDA Colony, Lucknow, Uttar Pradesh 226012",
+    "area": "Ashiyana Colony, Sector M, LDA Colony",
+    "latitude": 26.7777891,
+    "longitude": 80.9090993,
+    "place_id": "ChIJ_2Cecff7mzkRv_k9c-77Y0s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_2Cecff7mzkRv_k9c-77Y0s",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:48:56"
+  },
+  {
+    "business_name": "RK Enterprises",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Leasing service",
+    "pincode": "261403",
+    "phone_number": "+91 96166 33344",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 10,
+    "address": "104, Bagum Market, Munshi Pulia, Choraha, Indira Nagar, Lucknow, Uttar Pradesh 226016",
+    "area": "Munshi Pulia, Choraha, Indira Nagar",
+    "latitude": 26.8841091,
+    "longitude": 80.9965517,
+    "place_id": "ChIJDfFB8_PjmzkRzhaKZ_pOWm8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDfFB8_PjmzkRzhaKZ_pOWm8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:48:59"
+  }
+]

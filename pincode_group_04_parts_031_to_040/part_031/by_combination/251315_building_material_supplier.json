@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sachin Paints Store",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "251315",
+    "phone_number": "+91 97607 71026",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Main Market, Bus Stand, near Pani ki Tanki, Miranpur, Kithora, Uttar Pradesh 251315",
+    "area": "251315",
+    "latitude": 29.286188499999998,
+    "longitude": 77.9460904,
+    "place_id": "ChIJa2dcWN31CzkRPMno0AQZNNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa2dcWN31CzkRPMno0AQZNNM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:00:14"
+  },
+  {
+    "business_name": "AGARWAL PAINTS",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "251315",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7WVW+34M, Miranpur, Uttar Pradesh 251315",
+    "area": "251315",
+    "latitude": 29.2910534,
+    "longitude": 77.948281,
+    "place_id": "ChIJ7Y2kHZ_1CzkRCnPtSDvwUlI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Y2kHZ_1CzkRCnPtSDvwUlI",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:00:14"
+  }
+]

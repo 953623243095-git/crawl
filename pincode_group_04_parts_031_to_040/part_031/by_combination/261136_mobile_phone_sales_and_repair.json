@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepak Mobile Shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "261136",
+    "phone_number": "+91 88511 87252",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "NH 24, Market, near Railway Crossing, Hempur, Uttar Pradesh 261141",
+    "area": "261136",
+    "latitude": 27.6162185,
+    "longitude": 80.5654394,
+    "place_id": "ChIJbXQZrlEnnzkRQmIUZ0z0xfM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbXQZrlEnnzkRQmIUZ0z0xfM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:19:54"
+  },
+  {
+    "business_name": "Saddam Mobiles Shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store",
+    "pincode": "261136",
+    "phone_number": "+91 75055 75216",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Qaziyara Rd, Pakka Bagh, Sitapur, Uttar Pradesh 261001",
+    "area": "Pakka Bagh",
+    "latitude": 27.5750243,
+    "longitude": 80.6747645,
+    "place_id": "ChIJRdDKkvHXnjkRN2ZN8XapwBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRdDKkvHXnjkRN2ZN8XapwBk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:19:56"
+  }
+]

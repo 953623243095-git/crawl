@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New raj medical store",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Oriental medicine store",
+    "all_categories": "Oriental medicine store",
+    "pincode": "261201",
+    "phone_number": "+91 81151 90807",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Hospital road, Khaprel Bazar, Lakhimpur, Uttar Pradesh 262701",
+    "area": "Khaprel Bazar",
+    "latitude": 27.9464342,
+    "longitude": 80.778716,
+    "place_id": "ChIJLWN2wzA1nzkRWnRRg2zcNwk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLWN2wzA1nzkRWnRRg2zcNwk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:25:51"
+  },
+  {
+    "business_name": "Shanti Ayurvedic centre And panchkarma centre",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "261201",
+    "phone_number": "+91 83550 40383",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Kursi Rd, near integral institute, Dashauli, Lucknow, Uttar Pradesh 226026",
+    "area": "261201",
+    "latitude": 26.9590808,
+    "longitude": 80.9958004,
+    "place_id": "ChIJ_9BJwOdZmTkRN1bZsIxNjPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_9BJwOdZmTkRN1bZsIxNjPA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:25:53"
+  }
+]

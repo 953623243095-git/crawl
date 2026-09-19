@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khan Crane Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane service",
+    "all_categories": "Crane service, Construction machine rental service, Crane rental agency, Forklift rental service, Machine construction, Transportation service",
+    "pincode": "261501",
+    "phone_number": "+91 86556 16442",
+    "website": "https://khancrane.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Khan Galli, near Garuda Petrol Pump Lane, Kandivali, Charkop, Ganesh Nagar, Kandivali West, Mumbai, Maharashtra 400067",
+    "area": "Kandivali, Charkop, Ganesh Nagar, Kandivali West",
+    "latitude": 19.204819399999998,
+    "longitude": 72.82812129999999,
+    "place_id": "ChIJGTsQviy35zsRJKvQJ715WJo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGTsQviy35zsRJKvQJ715WJo",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:53:16"
+  },
+  {
+    "business_name": "Efficient Towing Services",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Service establishment",
+    "pincode": "261501",
+    "phone_number": "N/A",
+    "website": "http://www.efficienttowing.sg/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Efficient Towing Services, 261501, India",
+    "area": "261501",
+    "latitude": 1.3139999999999998,
+    "longitude": 103.84425,
+    "place_id": "ChIJZwgkDGUX2jERh6_HBdAuAcw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZwgkDGUX2jERh6_HBdAuAcw",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:53:18"
+  }
+]

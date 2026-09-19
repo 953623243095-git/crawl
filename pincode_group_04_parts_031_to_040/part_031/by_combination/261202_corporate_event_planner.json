@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GK. Singh",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "261202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G5WJ+VH2, Bara, Kundari, Uttar Pradesh 261205",
+    "area": "261202",
+    "latitude": 27.5470907,
+    "longitude": 81.1814394,
+    "place_id": "ChIJT02nTgAZmTkRQeOyE5cP04U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT02nTgAZmTkRQeOyE5cP04U",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:28:11"
+  },
+  {
+    "business_name": "Event Management Organizer Planner",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "261202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Event Management Organizer Planner, 261202, India",
+    "area": "261202",
+    "latitude": 24.5244571,
+    "longitude": 86.60140899999999,
+    "place_id": "ChIJa9KBIqsf9zkRwtB-DaRs_Wk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa9KBIqsf9zkRwtB-DaRs_Wk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:28:12"
+  }
+]

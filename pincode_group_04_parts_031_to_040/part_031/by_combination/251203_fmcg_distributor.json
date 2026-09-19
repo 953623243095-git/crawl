@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "C P Traders",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "251203",
+    "phone_number": "+91 97310 38075",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Cheriyakulathu Building, Prakkanam, Pathanamthitta, Keralam 689643",
+    "area": "Prakkanam",
+    "latitude": 9.265492199999999,
+    "longitude": 76.747824,
+    "place_id": "ChIJN-5RS7AVBjsR0uOFriHdjsM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN-5RS7AVBjsR0uOFriHdjsM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:41:54"
+  },
+  {
+    "business_name": "Ernakulam Traders",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "251203",
+    "phone_number": "+91 79029 71877",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Central junction, Konni, Pathanamthitta, Keralam 689691",
+    "area": "251203",
+    "latitude": 9.225284199999999,
+    "longitude": 76.8502517,
+    "place_id": "ChIJi-ZROGhrBjsREYKRUyTvlIw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi-ZROGhrBjsREYKRUyTvlIw",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:41:54"
+  }
+]

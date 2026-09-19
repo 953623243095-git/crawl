@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Classic Books & Stationers - Gifts and Toys",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Art supply store, Children's Book Store, Corporate gift supplier, Craft store, Gift shop, Stationery store, Toy store",
+    "pincode": "251310",
+    "phone_number": "+91 86999 44405",
+    "website": "https://www.instagram.com/classicbooksandstationers/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "SCF 88, Phase 3B-2, Sector 60, Sahibzada Ajit Singh Nagar, Punjab 160059",
+    "area": "Phase 3B-2, Sector 60",
+    "latitude": 30.7096415,
+    "longitude": 76.72129919999999,
+    "place_id": "ChIJ70niRYfuDzkRs5GBlcWUbps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ70niRYfuDzkRs5GBlcWUbps",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:55:24"
+  },
+  {
+    "business_name": "Sharma Book Store",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "251310",
+    "phone_number": "+91 98970 16730",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shiv chowk, Charthawal, Uttar Pradesh 251311",
+    "area": "251310",
+    "latitude": 29.5476928,
+    "longitude": 77.5945985,
+    "place_id": "ChIJx89EA04fDDkRu18DhVQci6k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx89EA04fDDkRu18DhVQci6k",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:55:26"
+  }
+]

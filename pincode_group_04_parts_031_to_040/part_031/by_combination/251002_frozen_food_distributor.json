@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ananda Dairy Store",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "251002",
+    "phone_number": "+91 96755 60303",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 41,
+    "address": "Shop No. 2, Shamli Rd, near Petrol Pump, Muzaffarnagar, Khanjahanpur, Uttar Pradesh 251306",
+    "area": "251002",
+    "latitude": 29.469140499999998,
+    "longitude": 77.6607757,
+    "place_id": "ChIJi3PnH-cbDDkRVgGdEonKRVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi3PnH-cbDDkRVgGdEonKRVw",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:34:47"
+  },
+  {
+    "business_name": "CLG FOODS PVT LTD",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "251002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "HRX9+P3, Mandla, Uttar Pradesh 251307",
+    "area": "251002",
+    "latitude": 29.599353999999998,
+    "longitude": 77.817629,
+    "place_id": "ChIJV4Opl_epDjkRu3gtJkqDRBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV4Opl_epDjkRu3gtJkqDRBA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:34:50"
+  }
+]

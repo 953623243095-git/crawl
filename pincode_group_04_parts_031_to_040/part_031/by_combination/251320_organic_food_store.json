@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Organo Mart",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Organic farm",
+    "pincode": "251320",
+    "phone_number": "+91 90275 55422",
+    "website": "http://organomart.co/",
+    "rating": 4.9,
+    "reviews_count": 477,
+    "address": "H. No. 242, MOH BHATAN, near fareed chairman, Bijnor, Uttar Pradesh 246701",
+    "area": "Bijnor",
+    "latitude": 29.3722092,
+    "longitude": 78.1312279,
+    "place_id": "ChIJrzFLPoDvCzkRIMKMJyBKCYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrzFLPoDvCzkRIMKMJyBKCYo",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:06:30"
+  },
+  {
+    "business_name": "Raja Krishi Rakhsha Kendra",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop, Fertilizer Store, Store",
+    "pincode": "251320",
+    "phone_number": "+91 99276 50311",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Unnamed Road, Latifpur, Uttar Pradesh 250404",
+    "area": "251320",
+    "latitude": 29.179450799999998,
+    "longitude": 78.04473589999999,
+    "place_id": "ChIJj2Z0usWNCzkRgKhciA0ElB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj2Z0usWNCzkRgKhciA0ElB4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:06:32"
+  }
+]

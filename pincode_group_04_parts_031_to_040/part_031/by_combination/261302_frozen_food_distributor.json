@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manisha frozen food",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Wholesale Food Store",
+    "all_categories": "Wholesale Food Store",
+    "pincode": "261302",
+    "phone_number": "+91 91723 63917",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "56JJ+5C5, Belavali, Badlapur, Maharashtra 421503",
+    "area": "Belavali",
+    "latitude": 19.1803878,
+    "longitude": 73.23111,
+    "place_id": "ChIJ859KNgCT5zsR-EENHRztk08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ859KNgCT5zsR-EENHRztk08",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:40:47"
+  },
+  {
+    "business_name": "Choice Frozen Food",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Store",
+    "all_categories": "Store, Cold storage facility, Food Processing Company, Wholesaler",
+    "pincode": "261302",
+    "phone_number": "+91 98255 34800",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "H.p. petrol pump lane, 43, swami Industrial society Opp. Gandhi kutir, Udhana - Magdalla Rd, nr. ambica Industrial, Udhana, Surat, Gujarat 395017",
+    "area": "Ambika Industrial Society 2, Udhana",
+    "latitude": 21.161297299999998,
+    "longitude": 72.8193375,
+    "place_id": "ChIJyfWD2SZP4DsRUUb86ZrzzAU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyfWD2SZP4DsRUUb86ZrzzAU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:40:49"
+  }
+]

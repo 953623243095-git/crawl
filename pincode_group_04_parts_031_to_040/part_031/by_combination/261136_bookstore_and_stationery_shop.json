@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubham Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "261136",
+    "phone_number": "+91 73551 76979",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Municipal Market Rd, Prem Nagar, Sitapur, Uttar Pradesh 261001",
+    "area": "Prem Nagar",
+    "latitude": 27.566975499999998,
+    "longitude": 80.67814179999999,
+    "place_id": "ChIJd8XrUbjXnjkRrac7bYGoRF0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd8XrUbjXnjkRrac7bYGoRF0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:19:50"
+  },
+  {
+    "business_name": "Bansal Book Depot Sitapur",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "261136",
+    "phone_number": "+91 73551 76979",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "civil court gate, Lalbagh Rd, Arya Nagar, Sitapur, Uttar Pradesh 261001",
+    "area": "Arya Nagar",
+    "latitude": 27.5614875,
+    "longitude": 80.68482809999999,
+    "place_id": "ChIJv02SBPnWnjkR-2cxZG7wvPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv02SBPnWnjkR-2cxZG7wvPY",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:19:51"
+  }
+]

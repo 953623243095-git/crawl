@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharewealth Securities Ltd.",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Financial consultant, Investment service",
+    "pincode": "251202",
+    "phone_number": "+91 487 243 6500",
+    "website": "https://www.sharewealthindia.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "P.O, 20/232, Adiyat Lane, MG Road, West Fort, Poothole, Thrissur, Kerala 680004",
+    "area": "Kuttipuzha Nagar, West Fort, Poothole",
+    "latitude": 10.5212374,
+    "longitude": 76.2033991,
+    "place_id": "ChIJ1WnnQ9PvpzsRY2fV5c3jDu8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1WnnQ9PvpzsRY2fV5c3jDu8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:41:26"
+  },
+  {
+    "business_name": "Vishwas Fincap Services Pvt. Ltd.",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Chartered accountant, Insurance broker",
+    "pincode": "251202",
+    "phone_number": "+91 92121 87004",
+    "website": "https://vishwasfincap.com/",
+    "rating": 4.7,
+    "reviews_count": 125,
+    "address": "wz-310, Nangal Raya, Delhi Cantonment, Delhi, 110046",
+    "area": "Nangal Raya, Delhi Cantonment",
+    "latitude": 28.6132146,
+    "longitude": 77.10958049999999,
+    "place_id": "ChIJq-xhNFMDDTkRFIc2LlSuKVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq-xhNFMDDTkRFIc2LlSuKVY",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:41:29"
+  }
+]

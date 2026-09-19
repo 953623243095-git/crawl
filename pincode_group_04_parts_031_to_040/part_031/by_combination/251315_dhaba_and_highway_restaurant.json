@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Punjabi Driver Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Dhaba",
+    "pincode": "251315",
+    "phone_number": "+91 99971 39846",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "SH 12A, Talera, Saharanpur, Uttar Pradesh 251314",
+    "area": "251315",
+    "latitude": 29.3288099,
+    "longitude": 77.8592836,
+    "place_id": "ChIJv72zJl4JDDkR1TmD8ZGVnOw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv72zJl4JDDkR1TmD8ZGVnOw",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:59:36"
+  },
+  {
+    "business_name": "Uttarakhand Green Highway Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "251315",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "8X24+4MF, bypass, bijnor, Miranpur, Uttar Pradesh 251315",
+    "area": "251315",
+    "latitude": 29.300300999999997,
+    "longitude": 77.9566643,
+    "place_id": "ChIJ-9j9d1f1CzkRzo38jkpG0_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-9j9d1f1CzkRzo38jkpG0_s",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:59:39"
+  }
+]

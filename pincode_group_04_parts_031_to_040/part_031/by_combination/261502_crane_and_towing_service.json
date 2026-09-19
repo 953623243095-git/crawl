@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kota Hyundai Workshop",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "261502",
+    "phone_number": "+91 95498 97929",
+    "website": "https://kota.hyundaimotor.in/",
+    "rating": 4.8,
+    "reviews_count": 2371,
+    "address": "4VR8+86Q, Rd Number 2, Indraprastha Industrial Area, Kota, Kota Municipal Area, Rajasthan 324005",
+    "area": "Indraprastha Industrial Area",
+    "latitude": 25.1396977,
+    "longitude": 75.8655557,
+    "place_id": "ChIJLanJRBeFbzkRPZj_VpsnGq0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLanJRBeFbzkRPZj_VpsnGq0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:55:00"
+  },
+  {
+    "business_name": "Anshu Crane Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane rental agency",
+    "all_categories": "Crane rental agency, Crane service",
+    "pincode": "261502",
+    "phone_number": "+91 95543 35252",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 72,
+    "address": "L.R.P, Gola Rd, near Sumitra DS MOTORS, Khakhra, Choraha, Lakhimpur, Uttar Pradesh 262701",
+    "area": "Khakhra",
+    "latitude": 27.9528137,
+    "longitude": 80.751097,
+    "place_id": "ChIJJ8mvO6Q1nzkRgcax-ZfwgAA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ8mvO6Q1nzkRgcax-ZfwgAA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:55:01"
+  }
+]

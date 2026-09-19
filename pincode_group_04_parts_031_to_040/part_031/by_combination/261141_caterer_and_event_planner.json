@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HP CATERERS",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Catering food and drink supplier, Food and beverage consultant, Mobile caterer, Restaurant supply store",
+    "pincode": "261141",
+    "phone_number": "+91 72755 06471",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1/211, Ruchi Khand 2, Sharda Nagar, Lucknow, Uttar Pradesh 226002",
+    "area": "Ruchi Khand 2, Sharda Nagar",
+    "latitude": 26.7816935,
+    "longitude": 80.9324357,
+    "place_id": "ChIJhRtPAaP9mzkR3jylmVbn6H0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhRtPAaP9mzkR3jylmVbn6H0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:21:23"
+  },
+  {
+    "business_name": "Jaiswal event planner&catering sarvices",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "261141",
+    "phone_number": "+91 87262 84650",
+    "website": "http://www.djstylelmp-com.webnode.in/",
+    "rating": 4.9,
+    "reviews_count": 96,
+    "address": "saidhary road, sardar nagar mohalla, Lakhimpur, Uttar Pradesh 262701",
+    "area": "sardar nagar mohalla",
+    "latitude": 27.967253,
+    "longitude": 80.778813,
+    "place_id": "ChIJwcwIXWXt9CERpRsI-zxBAH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwcwIXWXt9CERpRsI-zxBAH8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:21:24"
+  }
+]

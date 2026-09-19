@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vegetable Market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Vegetable wholesale market",
+    "all_categories": "Vegetable wholesale market, Market",
+    "pincode": "251305",
+    "phone_number": "+91 94125 86261",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "HCVF+4GV, Thanabhawan, Uttar Pradesh 247777",
+    "area": "251305",
+    "latitude": 29.592873899999997,
+    "longitude": 77.4238062,
+    "place_id": "ChIJ-SKw-wedDjkRykLp4hw8Y6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-SKw-wedDjkRykLp4hw8Y6Y",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:47:05"
+  },
+  {
+    "business_name": "Vanshaj trading company",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "251305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "deen dayal market, new, Ghaas Mandi Rd, Thanabhawan, Uttar Pradesh 247777",
+    "area": "251305",
+    "latitude": 29.587447599999997,
+    "longitude": 77.4167645,
+    "place_id": "ChIJb2MeIMWdDjkRhDo-mO-4bv8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb2MeIMWdDjkRhDo-mO-4bv8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:47:08"
+  }
+]

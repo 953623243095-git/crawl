@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Medica IIT Wing",
+    "search_category": "NEET and JEE Coaching Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center, Education center",
+    "pincode": "251316",
+    "phone_number": "+91 88108 46319",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "14/4, Stanley Rd, near Patrika Chauraha, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Civil Lines",
+    "latitude": 25.4545371,
+    "longitude": 81.84133,
+    "place_id": "ChIJByNuWB7LmjkRr2OSgOddrTg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJByNuWB7LmjkRr2OSgOddrTg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:02:21"
+  },
+  {
+    "business_name": "Bhagwant Institute of Pharmacy",
+    "search_category": "NEET and JEE Coaching Center",
+    "primary_category": "College",
+    "all_categories": "College",
+    "pincode": "251316",
+    "phone_number": "+91 80065 41541",
+    "website": "http://www.bhagwantgroup.com/",
+    "rating": 3.6,
+    "reviews_count": 22,
+    "address": "17th Milestone, bijnor Delhi highway, near deval, Uttar Pradesh 251315",
+    "area": "251316",
+    "latitude": 29.3429114,
+    "longitude": 77.9916106,
+    "place_id": "ChIJiwmF5nIbDDkR_6F0zD4WId0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiwmF5nIbDDkR_6F0zD4WId0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:02:23"
+  }
+]

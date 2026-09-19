@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vidhu Milk Parlar",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "251315",
+    "phone_number": "+91 97585 15528",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bazar, Main Chowk, Miranpur, Uttar Pradesh 251315",
+    "area": "251315",
+    "latitude": 29.2909378,
+    "longitude": 77.94816469999999,
+    "place_id": "ChIJqVdV4J71CzkRAAAAcLlFQGM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqVdV4J71CzkRAAAAcLlFQGM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:59:40"
+  },
+  {
+    "business_name": "Lotus icecream Fun India Dairy Icecream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "251315",
+    "phone_number": "+91 91406 80049",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "F846+G6V Mo.pansariyan, Block Rd, chatrawas, Shamli, Uttar Pradesh 247776",
+    "area": "chatrawas",
+    "latitude": 29.456368299999998,
+    "longitude": 77.3105386,
+    "place_id": "ChIJY13PAwApDDkRJSt85CdHfLQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY13PAwApDDkRJSt85CdHfLQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:59:40"
+  }
+]

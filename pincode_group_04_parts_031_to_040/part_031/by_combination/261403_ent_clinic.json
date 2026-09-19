@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Medical Stor",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "261403",
+    "phone_number": "+91 62831 07589",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sitapur - Kanpur Rd, Sarsai, Sikatiya, Uttar Pradesh 261001",
+    "area": "261403",
+    "latitude": 27.506717899999998,
+    "longitude": 80.57526469999999,
+    "place_id": "ChIJhfuI21rbnjkRbp28SeadJGU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhfuI21rbnjkRbp28SeadJGU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:48:02"
+  },
+  {
+    "business_name": "N.S. Ayyubi medical store",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "261403",
+    "phone_number": "+91 87269 23528",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Neemsar road, Macharehta, Matasiya Lakhnsepur, Uttar Pradesh 261405",
+    "area": "261403",
+    "latitude": 27.416525999999998,
+    "longitude": 80.6405841,
+    "place_id": "ChIJC0P8WwDPnjkRuR4Bqs5rXKk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC0P8WwDPnjkRuR4Bqs5rXKk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:48:02"
+  }
+]

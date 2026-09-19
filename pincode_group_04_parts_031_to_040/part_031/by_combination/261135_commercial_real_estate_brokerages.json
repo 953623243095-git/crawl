@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alokknight Technologies",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "261135",
+    "phone_number": "+91 78978 67722",
+    "website": "https://alokknight.com/",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Alokknight Technologies, 261135, India",
+    "area": "261135",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ8yfDy34WsSYR96FSJRjrB3A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8yfDy34WsSYR96FSJRjrB3A",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:18:20"
+  },
+  {
+    "business_name": "VERMASUPPLIERS RAIPURGANJ",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "261135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MDR 19C, Kesriganj, Raipurganj, Uttar Pradesh 261135",
+    "area": "261135",
+    "latitude": 27.7283121,
+    "longitude": 80.8832455,
+    "place_id": "ChIJb0q03ODTmDkRIFlZK1eyUAw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb0q03ODTmDkRIFlZK1eyUAw",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:18:20"
+  }
+]

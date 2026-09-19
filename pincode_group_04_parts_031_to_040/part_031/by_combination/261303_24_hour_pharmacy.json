@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "261303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "7RMM+CMX, Tahsil Rd, Sidhauli, Uttar Pradesh 261303",
+    "area": "261303",
+    "latitude": 27.2833884,
+    "longitude": 80.8354358,
+    "place_id": "ChIJRXEWeRc1mTkR3IGXWUHdfCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRXEWeRc1mTkR3IGXWUHdfCA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:42:49"
+  },
+  {
+    "business_name": "S.S Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Hospital",
+    "pincode": "261303",
+    "phone_number": "+91 63076 87154",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Ward no 10, kasai tola Bazar, Mahona, Uttar Pradesh 226203",
+    "area": "261303",
+    "latitude": 27.0982395,
+    "longitude": 80.9172105,
+    "place_id": "ChIJGR1bNQ9PmTkRvuhgeEXOS6I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGR1bNQ9PmTkRvuhgeEXOS6I",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:42:50"
+  }
+]

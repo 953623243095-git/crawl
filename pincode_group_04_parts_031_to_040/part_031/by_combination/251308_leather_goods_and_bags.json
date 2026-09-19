@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Grover Bag Store",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop, Luggage wholesaler",
+    "pincode": "251308",
+    "phone_number": "+91 99274 89949",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "31, Arya Puri, SD Area, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Arya Puri, SD Area",
+    "latitude": 29.4731138,
+    "longitude": 77.6991996,
+    "place_id": "ChIJpQj_M_EbDDkRtv8jJZk0n4Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpQj_M_EbDDkRtv8jJZk0n4Q",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:51:01"
+  },
+  {
+    "business_name": "Indian Bags",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "251308",
+    "phone_number": "+91 98975 11336",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "7PGH+VQC, Bara Bazar Rd, Shivpuri, Khatauli, Uttar Pradesh 251201",
+    "area": "Shivpuri",
+    "latitude": 29.277175999999997,
+    "longitude": 77.7293641,
+    "place_id": "ChIJO9q6jIUTDDkRbEWEYdAy3Lc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO9q6jIUTDDkRbEWEYdAy3Lc",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:51:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gulzar Auto Service",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "251003",
+    "phone_number": "+91 95484 43581",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Charthawal Town Main Road Market, Muzaffarnagar, Uttar Pradesh 251311",
+    "area": "251003",
+    "latitude": 29.5430474,
+    "longitude": 77.5965208,
+    "place_id": "ChIJ890E-fEfDDkR7_IkwdumPuE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ890E-fEfDDkR7_IkwdumPuE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:37:13"
+  },
+  {
+    "business_name": "Suman AutoMobiles",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "251003",
+    "phone_number": "+91 87912 41234",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "280, 280, Railway Rd, Patel Nagar, Civil Lines North, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Patel Nagar, Civil Lines North",
+    "latitude": 29.472551,
+    "longitude": 77.705775,
+    "place_id": "ChIJ6wRg55QbDDkR801JCl_FHZk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6wRg55QbDDkR801JCl_FHZk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:37:14"
+  }
+]

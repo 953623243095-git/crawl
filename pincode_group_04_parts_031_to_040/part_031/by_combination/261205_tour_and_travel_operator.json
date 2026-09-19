@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shopkeepers",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "261205",
+    "phone_number": "+91 90057 79356",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "00, Ajaypur, Uttar Pradesh 261205",
+    "area": "261205",
+    "latitude": 27.673966699999998,
+    "longitude": 81.2289428,
+    "place_id": "ChIJJ6NZrtzhmDkRFB-5yz0IycM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ6NZrtzhmDkRFB-5yz0IycM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:32:48"
+  },
+  {
+    "business_name": "Rizwan Travel",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "261205",
+    "phone_number": "+91 73183 79935",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "70, Chandoli, Uttar Pradesh 261205",
+    "area": "261205",
+    "latitude": 27.5128342,
+    "longitude": 81.2227949,
+    "place_id": "ChIJx2kJ9IMZmTkRX8MkjVI1c8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx2kJ9IMZmTkRX8MkjVI1c8c",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:32:49"
+  }
+]

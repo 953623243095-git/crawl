@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THE GYM",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "261205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "NH 24, Sitapur Rd, near UCO Bank, Belwa, Itaunja, Uttar Pradesh 226203",
+    "area": "261205",
+    "latitude": 27.083921,
+    "longitude": 80.8976035,
+    "place_id": "ChIJX3852glNmTkRIdD1XJQ96Jo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX3852glNmTkRIdD1XJQ96Jo",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:32:42"
+  },
+  {
+    "business_name": "Bala ji fitness club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center, Gym, Gymnastics club",
+    "pincode": "261205",
+    "phone_number": "N/A",
+    "website": "https://youtube.com/c/desifitnessguru1",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mahsi, Uttar Pradesh 271824",
+    "area": "261205",
+    "latitude": 27.6417948,
+    "longitude": 81.383262,
+    "place_id": "ChIJlwhiHcEDmTkR0yssOY36a1w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlwhiHcEDmTkR0yssOY36a1w",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:32:43"
+  }
+]

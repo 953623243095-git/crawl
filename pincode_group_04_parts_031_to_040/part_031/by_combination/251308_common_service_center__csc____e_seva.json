@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Digital Seva",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "251308",
+    "phone_number": "+91 84300 01407",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Amba Vihar, Sujroo, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Amba Vihar",
+    "latitude": 29.4494866,
+    "longitude": 77.6904141,
+    "place_id": "ChIJJfAcvkcbDDkR9nL1mcLkrcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJfAcvkcbDDkR9nL1mcLkrcc",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:51:58"
+  },
+  {
+    "business_name": "Jan Seva Kendra",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "251308",
+    "phone_number": "+91 63973 38340",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "no, Tanda Maidas, 18A, Gandhi Colony, Uttar Pradesh 251002",
+    "area": "Arya Puri, Gandhi Colony",
+    "latitude": 29.4733496,
+    "longitude": 77.69960809999999,
+    "place_id": "ChIJKQCiyb4bDDkRCT9q-BTGUE0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKQCiyb4bDDkRCT9q-BTGUE0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:52:00"
+  }
+]

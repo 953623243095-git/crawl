@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Imperial Meal Adda",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "251319",
+    "phone_number": "+91 73301 40786",
+    "website": "https://www.instagram.com/imperial_kaserwa?igsh=bDI2dzFrYmNvaTNj",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Main Road, Kaserwa, Uttar Pradesh 251318",
+    "area": "251319",
+    "latitude": 29.3102777,
+    "longitude": 77.5354222,
+    "place_id": "ChIJS5KPOmE9DDkRo039FjgweKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS5KPOmE9DDkRo039FjgweKo",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:04:55"
+  },
+  {
+    "business_name": "Gurunank Vaishno Punjabi Dhaba",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Dhaba, Indian restaurant",
+    "pincode": "251319",
+    "phone_number": "+91 94250 87370",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "F9CV+74R, Shamli, Uttar Pradesh 251305",
+    "area": "251319",
+    "latitude": 29.4707345,
+    "longitude": 77.39276339999999,
+    "place_id": "ChIJb4YS3w4mDDkRU77AsVH5gB8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb4YS3w4mDDkRU77AsVH5gB8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:04:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "D Ash Yoga Centre",
+    "search_category": "Yoga Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "261136",
+    "phone_number": "+91 81272 27284",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WW2Q+282, Sitapur Rd, Sector-A, Keshav Nagar, Daliganj, Lucknow, Uttar Pradesh 226020",
+    "area": "Sector-A, Keshav Nagar, Daliganj",
+    "latitude": 26.9000012,
+    "longitude": 80.9382522,
+    "place_id": "ChIJc6i-WJJXmTkRgA7z_TpTc-E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc6i-WJJXmTkRgA7z_TpTc-E",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:19:10"
+  },
+  {
+    "business_name": "Yoga Teachers Training center",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga instructor",
+    "all_categories": "Yoga instructor",
+    "pincode": "261136",
+    "phone_number": "+91 90157 35262",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "HM8J+87J, Vijay Laxmi Nagar, Sitapur, Uttar Pradesh 261001",
+    "area": "Vijay Laxmi Nagar",
+    "latitude": 27.5658379,
+    "longitude": 80.6806515,
+    "place_id": "ChIJFTT6llXWnjkR0H-I5KqybNo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFTT6llXWnjkR0H-I5KqybNo",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:19:13"
+  }
+]

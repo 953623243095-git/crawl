@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rama Stationery",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "261303",
+    "phone_number": "+91 99194 77137",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 69,
+    "address": "WX32+FJH, Sector O, Aliganj, Lucknow, Uttar Pradesh 226021",
+    "area": "Sector O, Aliganj",
+    "latitude": 26.903681799999998,
+    "longitude": 80.9516125,
+    "place_id": "ChIJCcBdVshXmTkRzvJqe9VbQkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCcBdVshXmTkRzvJqe9VbQkA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:43:36"
+  },
+  {
+    "business_name": "New Anuj Books & Stationers",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "261303",
+    "phone_number": "+91 96282 51473",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "near Baba Sweets, Ataria, Sidhauli, Uttar Pradesh 261303",
+    "area": "261303",
+    "latitude": 27.282044,
+    "longitude": 80.83440929999999,
+    "place_id": "ChIJ4S2bRQA1mTkRritGSaGrs4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4S2bRQA1mTkRritGSaGrs4s",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:43:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Maruti Courier Service PVT. LTD.",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "261403",
+    "phone_number": "+91 70520 55123",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "NH-128, Marfapur, Ramnathpur, Uttar Pradesh 227405",
+    "area": "261403",
+    "latitude": 26.1655896,
+    "longitude": 81.8133509,
+    "place_id": "ChIJP9yM_4D1mjkRJboatLOxj-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP9yM_4D1mjkRJboatLOxj-8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:48:55"
+  },
+  {
+    "business_name": "Delhi Cargo Company",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Freight Forwarding Agency",
+    "all_categories": "Freight Forwarding Agency, Trucking company",
+    "pincode": "261403",
+    "phone_number": "+91 93359 26743",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shop No.1, RK Plaza, Sitapur Rd, near Mohibullapur Railway Station, Sector A, Aliganj, Lucknow, Uttar Pradesh 226024",
+    "area": "Sector A, Aliganj",
+    "latitude": 26.908590399999998,
+    "longitude": 80.938256,
+    "place_id": "ChIJjVLDzEtWmTkRxW0m_MvvCjU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjVLDzEtWmTkRxW0m_MvvCjU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:48:55"
+  }
+]

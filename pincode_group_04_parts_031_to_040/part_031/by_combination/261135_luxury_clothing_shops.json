@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Looks Collection",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "261135",
+    "phone_number": "+91 96289 89291",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Laharpur, Uttar Pradesh 261135",
+    "area": "261135",
+    "latitude": 27.7090024,
+    "longitude": 80.90677629999999,
+    "place_id": "ChIJ2xsvDlLXmDkRCOSlOoB1Rck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2xsvDlLXmDkRCOSlOoB1Rck",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:17:17"
+  },
+  {
+    "business_name": "Arpan & Harpreet Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Embroidery service, Fashion designer",
+    "pincode": "261135",
+    "phone_number": "+91 81279 97595",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Daina, Shahpur, Uttar Pradesh 261001",
+    "area": "261135",
+    "latitude": 27.6251012,
+    "longitude": 80.7614677,
+    "place_id": "ChIJ30lVam8rnzkR2wD6SKOXYhw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ30lVam8rnzkR2wD6SKOXYhw",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:17:20"
+  }
+]

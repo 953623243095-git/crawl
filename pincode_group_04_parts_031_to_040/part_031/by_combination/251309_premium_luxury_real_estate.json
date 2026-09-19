@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Homezone Realty",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "251309",
+    "phone_number": "+91 92208 09220",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 33,
+    "address": "OMAXE WORLD STREET, Sco- 145, above Indusind bank, Bhataula Village, Sector 79, Faridabad, Haryana 121007",
+    "area": "Bhataula Village, Sector 79",
+    "latitude": 28.3875975,
+    "longitude": 77.35459089999999,
+    "place_id": "ChIJez9Z0jPdDDkRYCu5C7ZX1aE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJez9Z0jPdDDkRYCu5C7ZX1aE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:53:53"
+  },
+  {
+    "business_name": "OYO Star City",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Bed & breakfast, Guest house, Holiday home, Inn, Lodge, Motel, Service Apartment, Villa",
+    "pincode": "251309",
+    "phone_number": "+91 124 620 1516",
+    "website": "https://www.oyorooms.com/186120/?utm_source=Google&utm_medium=GMB",
+    "rating": 4.8,
+    "reviews_count": 19,
+    "address": "Railway Station, Kandhla - Budhana Rd, near Kandhala, Meerut, Kandhala Rural, Uttar Pradesh 247775",
+    "area": "251309",
+    "latitude": 29.307405,
+    "longitude": 77.289597,
+    "place_id": "ChIJT5u3Om8xDDkRxDL2DNTqJlk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT5u3Om8xDDkRxDL2DNTqJlk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:53:55"
+  }
+]

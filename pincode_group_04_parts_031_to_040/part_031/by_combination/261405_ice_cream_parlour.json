@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramesh ICC Creame",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "261405",
+    "phone_number": "+91 73949 77053",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mishrikh, Misrikh-cum-Neemsar, Uttar Pradesh 261401",
+    "area": "261405",
+    "latitude": 27.440548999999997,
+    "longitude": 80.5325586,
+    "place_id": "ChIJ7wHBeErdnjkR-XiSUxqm1c4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7wHBeErdnjkR-XiSUxqm1c4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:51:04"
+  },
+  {
+    "business_name": "Ravi Lasi Corner",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "261405",
+    "phone_number": "+91 63920 12706",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2 Ward, Mishrikh, Misrikh-cum-Neemsar, Uttar Pradesh 261401",
+    "area": "261405",
+    "latitude": 27.435941999999997,
+    "longitude": 80.53293289999999,
+    "place_id": "ChIJX8G4afTdnjkRH9-GfYNbmJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX8G4afTdnjkRH9-GfYNbmJ0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:51:04"
+  }
+]

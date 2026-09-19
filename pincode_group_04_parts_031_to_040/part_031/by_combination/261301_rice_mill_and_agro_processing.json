@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shankar Rice Industry",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "261301",
+    "phone_number": "+91 84732 53304",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 24,
+    "address": "Q573+Q9P, Yadgir-Raichur Rd, Yadgiri, Karnataka 585201",
+    "area": "261301",
+    "latitude": 16.764472899999998,
+    "longitude": 77.153466,
+    "place_id": "ChIJsQ0fcAtTyDsRM0-nmsffsfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsQ0fcAtTyDsRM0-nmsffsfE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:40:28"
+  },
+  {
+    "business_name": "Arora Industries",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "261301",
+    "phone_number": "+91 79 4255 4765",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VW36+M98, Jamaur, Uttarakhand 262308",
+    "area": "261301",
+    "latitude": 28.854164299999997,
+    "longitude": 79.9109586,
+    "place_id": "ChIJ-Uq42KxaoDkRSHz1V2e723k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Uq42KxaoDkRSHz1V2e723k",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:40:29"
+  }
+]

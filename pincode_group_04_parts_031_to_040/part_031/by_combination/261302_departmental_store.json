@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harsh Enterprises",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "261302",
+    "phone_number": "+91 91208 39999",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "72, Gandhi Nagar, Sidhauli, Uttar Pradesh 261303",
+    "area": "Gandhi Nagar",
+    "latitude": 27.284907399999998,
+    "longitude": 80.832145,
+    "place_id": "ChIJ-3Q0Ne41mTkRjNykaEGTSOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-3Q0Ne41mTkRjNykaEGTSOs",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:40:40"
+  },
+  {
+    "business_name": "Shringarika Stores",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "261302",
+    "phone_number": "+91 94242 60961",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "QFRQ+CRW, Kalnai, Sitapur, Chhattisgarh 497111",
+    "area": "Kalnai",
+    "latitude": 22.7911233,
+    "longitude": 83.4895738,
+    "place_id": "ChIJLYoM3-vziTkRihjFq6lE1jQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLYoM3-vziTkRihjFq6lE1jQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:40:41"
+  }
+]

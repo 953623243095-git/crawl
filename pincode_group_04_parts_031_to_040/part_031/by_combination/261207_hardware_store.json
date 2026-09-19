@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucky Traders",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "261207",
+    "phone_number": "+91 70076 06491",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Biswan - Sitapur Rd Mubarak Pur, Khairabad, Uttar Pradesh 261131",
+    "area": "261207",
+    "latitude": 27.5221961,
+    "longitude": 80.77841959999999,
+    "place_id": "ChIJVZYMv0DTnjkRtHP5zWcaei8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVZYMv0DTnjkRtHP5zWcaei8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:36:17"
+  },
+  {
+    "business_name": "Satyam Hardware",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "261207",
+    "phone_number": "+91 91407 60575",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "00, Biswan - Sitapur Rd, Makhupur, Khairabad, Uttar Pradesh 261131",
+    "area": "Makhupur",
+    "latitude": 27.525171999999998,
+    "longitude": 80.7630026,
+    "place_id": "ChIJ2aZ6mXbVnjkRMgU19JZLQyM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2aZ6mXbVnjkRMgU19JZLQyM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:36:18"
+  }
+]

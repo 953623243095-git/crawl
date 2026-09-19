@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Master Book Depo",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Book store",
+    "pincode": "251315",
+    "phone_number": "+91 94159 81655",
+    "website": "http://facebook.com/mbdrtb",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Raja Talab, Near Raja Talab Auto Stand, Uttar Pradesh 221311",
+    "area": "Raja Talab Bazar",
+    "latitude": 25.269742899999997,
+    "longitude": 82.8474473,
+    "place_id": "ChIJ50kFb7nNjzkRj7dH3jftMwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ50kFb7nNjzkRj7dH3jftMwo",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:00:40"
+  },
+  {
+    "business_name": "Kisan Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Used book store",
+    "all_categories": "Used book store",
+    "pincode": "251315",
+    "phone_number": "+91 99279 71555",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 75,
+    "address": "FMCX+5C6, Shiv Chowk, Civil Lines South, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Shiv Chowk, Civil Lines South",
+    "latitude": 29.4704141,
+    "longitude": 77.69853049999999,
+    "place_id": "ChIJR2fY8J8bDDkRng5N9DM1wf8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR2fY8J8bDDkRng5N9DM1wf8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:00:41"
+  }
+]

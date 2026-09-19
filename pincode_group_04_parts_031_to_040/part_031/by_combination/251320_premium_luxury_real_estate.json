@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prime Space Realtors",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Service establishment",
+    "pincode": "251320",
+    "phone_number": "+91 94503 75954",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Prime Space Realtors, 251320, India",
+    "area": "251320",
+    "latitude": 25.3207626,
+    "longitude": 82.991109,
+    "place_id": "ChIJVadjaFN7-KsRibLRC43Gw1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVadjaFN7-KsRibLRC43Gw1A",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:07:57"
+  },
+  {
+    "business_name": "Royal Keys Realty",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "251320",
+    "phone_number": "+91 98994 55884",
+    "website": "https://royalkeysrealty.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 1, Shree Hari Enclave, NH-334, Haridwar, Uttarakhand 249402",
+    "area": "251320",
+    "latitude": 29.9149815,
+    "longitude": 78.051987,
+    "place_id": "ChIJsX5PbiBJCTkRVMgVvyrR9Tg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsX5PbiBJCTkRVMgVvyrR9Tg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:07:57"
+  }
+]

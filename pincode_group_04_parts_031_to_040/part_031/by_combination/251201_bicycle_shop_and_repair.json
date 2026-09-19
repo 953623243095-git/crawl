@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Veetrag honda",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "251201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 11,
+    "address": "7PPJ+FC2, GT Rd, opposite nagar colony, Shivpuri, Khatauli, Uttar Pradesh 251201",
+    "area": "opposite nagar colony, Shivpuri",
+    "latitude": 29.2861372,
+    "longitude": 77.7310308,
+    "place_id": "ChIJM8Tz8kwTDDkR68bSG4_BEyA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM8Tz8kwTDDkR68bSG4_BEyA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:38:55"
+  },
+  {
+    "business_name": "Kamal Cycle Store Budhana",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "251201",
+    "phone_number": "+91 98084 01257",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 25,
+    "address": "7FRG+7C3, Budhana - Muzaffarnagar Rd, Budhana, Budhana Bagar, Uttar Pradesh 251309",
+    "area": "251201",
+    "latitude": 29.2906314,
+    "longitude": 77.4760385,
+    "place_id": "ChIJk_MvIAI8DDkRT3tLawvWMX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk_MvIAI8DDkRT3tLawvWMX4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:38:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manoj rastogi jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "261136",
+    "phone_number": "+91 92358 18859",
+    "website": "https://www.rohit.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "road, Kishorganj, Khurwaliya, Nakaha Kanora, Uttar Pradesh 261205",
+    "area": "Kishorganj",
+    "latitude": 27.657198299999997,
+    "longitude": 81.24727829999999,
+    "place_id": "ChIJU5fisagfmTkRiqWfS8ndeno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU5fisagfmTkRiqWfS8ndeno",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:18:56"
+  },
+  {
+    "business_name": "Raghvendra Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith, Jeweler",
+    "pincode": "261136",
+    "phone_number": "+91 84239 08418",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 18,
+    "address": "SH38 Gauriya kala Road ,Near Police Chowki Takiya Chauraha, Uttar Pradesh 209870",
+    "area": "261136",
+    "latitude": 26.848512,
+    "longitude": 80.33956169999999,
+    "place_id": "ChIJyUpVVEmdnjkRYiBmUTncnec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyUpVVEmdnjkRYiBmUTncnec",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:18:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Cafe & Bites",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "261141",
+    "phone_number": "+91 73070 01506",
+    "website": "https://royalcafebites.ezoshop.in/",
+    "rating": 4.7,
+    "reviews_count": 103,
+    "address": "GT Road, near lidhiyai mode, Khakhra, Maigalganj, Uttar Pradesh 261505",
+    "area": "261141",
+    "latitude": 27.7120343,
+    "longitude": 80.3533236,
+    "place_id": "ChIJn3fvM8AbnzkRGSrK9v6P8W0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn3fvM8AbnzkRGSrK9v6P8W0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:20:33"
+  },
+  {
+    "business_name": "Bhole Baba Restaurant",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Restaurant",
+    "pincode": "261141",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 10,
+    "address": "NH30, near maholi, tehsil, Maholi, Uttar Pradesh 261141",
+    "area": "tehsil",
+    "latitude": 27.6465751,
+    "longitude": 80.4949828,
+    "place_id": "ChIJU44buIghnzkRzaGxUbv1gL8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU44buIghnzkRzaGxUbv1gL8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:20:34"
+  }
+]

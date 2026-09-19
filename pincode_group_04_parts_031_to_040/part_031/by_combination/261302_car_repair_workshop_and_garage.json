@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star Multi Motor Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "261302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Pune - Solapur Rd, near Shivaji Nagar, Bale, Solapur, Maharashtra 413255",
+    "area": "Bale",
+    "latitude": 17.6947668,
+    "longitude": 75.8771134,
+    "place_id": "ChIJC-9xemrQxTsR5iHUg29j21E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC-9xemrQxTsR5iHUg29j21E",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:41:14"
+  },
+  {
+    "business_name": "Car workshop",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Car battery store, Mechanic",
+    "pincode": "261302",
+    "phone_number": "+91 90798 63947",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gram panchayat ke pass, Niwai road, Bonli, Qila Bonli, Rajasthan 322023",
+    "area": "261302",
+    "latitude": 26.324983999999997,
+    "longitude": 76.2267658,
+    "place_id": "ChIJkWb9STUPbjkRlNEDjd_UYF8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkWb9STUPbjkRlNEDjd_UYF8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:41:15"
+  }
+]

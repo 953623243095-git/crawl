@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kamil Banana cold store kukara mandi Muzaffarnagar",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Fruit wholesaler",
+    "all_categories": "Fruit wholesaler",
+    "pincode": "251202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kukara mandi, New Mandi, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "New Mandi",
+    "latitude": 29.4726817,
+    "longitude": 77.7085091,
+    "place_id": "ChIJo52YvA8bDDkR4pv6fsFIm5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo52YvA8bDDkR4pv6fsFIm5s",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:41:37"
+  },
+  {
+    "business_name": "Cold Storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "251202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "7P6J+JH9, Avas Vikas Colony, Khatauli Rural, Uttar Pradesh 251201",
+    "area": "Avas Vikas Colony",
+    "latitude": 29.2615326,
+    "longitude": 77.7314877,
+    "place_id": "ChIJx6Ju0usTDDkRFbchveAsccg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx6Ju0usTDDkRFbchveAsccg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:41:37"
+  }
+]

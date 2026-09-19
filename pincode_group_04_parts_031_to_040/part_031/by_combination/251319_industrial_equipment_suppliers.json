@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R S Pig farm",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Farm equipment supplier",
+    "all_categories": "Farm equipment supplier",
+    "pincode": "251319",
+    "phone_number": "+91 63988 08894",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Lakh wali puliya, Kharar, Uttar Pradesh 247776",
+    "area": "251319",
+    "latitude": 29.3659236,
+    "longitude": 77.4090786,
+    "place_id": "ChIJcw-6P2g7DDkRzZ0HM3BVnLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcw-6P2g7DDkRzZ0HM3BVnLs",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:06:17"
+  },
+  {
+    "business_name": "Swastik Traders",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "251319",
+    "phone_number": "+91 96438 04718",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Hasanpur, Uttar Pradesh 247775",
+    "area": "Hasanpur",
+    "latitude": 29.375057499999997,
+    "longitude": 77.35694,
+    "place_id": "ChIJRzxF8zgvDDkRCMz-EmiRqXI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRzxF8zgvDDkRCMz-EmiRqXI",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:06:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayra hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "251315",
+    "phone_number": "+91 94126 71000",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Main baipass, near by power house, Miranpur, Mujhera, Uttar Pradesh 251315",
+    "area": "251315",
+    "latitude": 29.2961113,
+    "longitude": 77.9348882,
+    "place_id": "ChIJRVp0Fs_1CzkRd7UFLTWk3HE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRVp0Fs_1CzkRd7UFLTWk3HE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:59:53"
+  },
+  {
+    "business_name": "Athrav Hospital Miranpur",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "251315",
+    "phone_number": "+91 74170 27886",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Athrav Hospital, Bypass Rd, near Naveen Brick Bhatta, Miranpur, Rasulpur, Uttar Pradesh 251315",
+    "area": "251315",
+    "latitude": 29.2977676,
+    "longitude": 77.953155,
+    "place_id": "ChIJx3vATwD1CzkRDOd32-Yw3Oo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx3vATwD1CzkRDOd32-Yw3Oo",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:59:53"
+  }
+]

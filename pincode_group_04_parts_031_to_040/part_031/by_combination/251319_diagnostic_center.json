@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Durga Diagnostic Centre |Durga MRI",
+    "search_category": "Diagnostic Center",
+    "primary_category": "MRI center",
+    "all_categories": "MRI center",
+    "pincode": "251319",
+    "phone_number": "+91 90500 14220",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kairana Rd, opp. mukesh nursing home, Shamli, Uttar Pradesh 247776",
+    "area": "251319",
+    "latitude": 29.4447536,
+    "longitude": 77.30025479999999,
+    "place_id": "ChIJv1L8CmEvDDkR16d_l59hAhs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv1L8CmEvDDkR16d_l59hAhs",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:05:15"
+  },
+  {
+    "business_name": "City Diagnostic Centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "251319",
+    "phone_number": "+91 99978 82286",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "City Diagnostic Center, Purani Ghas Mandi, Civil Lines North, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Purani Ghas Mandi, Civil Lines North",
+    "latitude": 29.4763241,
+    "longitude": 77.69732979999999,
+    "place_id": "ChIJTY0cSi4bDDkRgsR7O5fdxuc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTY0cSi4bDDkRgsR7O5fdxuc",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:05:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AP homoeo hal",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "261401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9JC4+MFP, Nabiganj - Jasmai Rd, Jarigawa, Uttar Pradesh 261403",
+    "area": "261401",
+    "latitude": 27.371699999999997,
+    "longitude": 80.6062,
+    "place_id": "ChIJ9xCZknrFnjkRyMJ0-53mq7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9xCZknrFnjkRyMJ0-53mq7Y",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:44:32"
+  },
+  {
+    "business_name": "Jatin's Home",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "261401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9FHX+GXF, Atva, Uttar Pradesh 261402",
+    "area": "261401",
+    "latitude": 27.378800299999998,
+    "longitude": 80.4999096,
+    "place_id": "ChIJjysaAQDDnjkR4bbcb3oadXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjysaAQDDnjkR4bbcb3oadXU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:44:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "mobile buck repairing shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Cell phone accessory store",
+    "pincode": "251308",
+    "phone_number": "+91 88601 07202",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "476, Gandhi Marg, Gandhi Colony, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Gandhi Colony",
+    "latitude": 29.4784521,
+    "longitude": 77.712858,
+    "place_id": "ChIJC9TOaW4bDDkRTekUxHVFAeE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC9TOaW4bDDkRTekUxHVFAeE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:51:59"
+  },
+  {
+    "business_name": "Shubh mobile solution",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Repair service",
+    "all_categories": "Repair service",
+    "pincode": "251308",
+    "phone_number": "+91 82728 27289",
+    "website": "https://instagram.com/mobilesolution72?igshid=YmMyMTA2M2Y=",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Shubh mobile solution, SD Area, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "SD Area",
+    "latitude": 29.4750722,
+    "longitude": 77.6966231,
+    "place_id": "ChIJ0zeRAi8bDDkR9P5EyubILFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0zeRAi8bDDkR9P5EyubILFo",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:52:02"
+  }
+]

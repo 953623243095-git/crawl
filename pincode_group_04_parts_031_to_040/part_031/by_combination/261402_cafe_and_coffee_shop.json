@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjay coffee house & fast food corner",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "261402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 36,
+    "address": "9R55+W5V, Dharauli, Uttar Pradesh 227807",
+    "area": "261402",
+    "latitude": 26.359966099999998,
+    "longitude": 81.806574,
+    "place_id": "ChIJI9D9v-tdmjkRSCdDET1wCAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI9D9v-tdmjkRSCdDET1wCAI",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:46:02"
+  },
+  {
+    "business_name": "Deepu Anda Rol",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "261402",
+    "phone_number": "+91 73883 26654",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Baghauna 12, Gauria,Baghauna, Gauria, Uttar Pradesh 261131",
+    "area": "261402",
+    "latitude": 27.483700499999998,
+    "longitude": 80.69062919999999,
+    "place_id": "ChIJhTIXOcnRnjkR7v-tU0_5yIo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhTIXOcnRnjkR7v-tU0_5yIo",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:46:04"
+  }
+]

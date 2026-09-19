@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Buttan Store",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "251318",
+    "phone_number": "+91 94100 64274",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Budhana - Muzaffarnagar Rd, Kasarwa, Basikalan, Shahpur, Uttar Pradesh 251318",
+    "area": "Kasarwa",
+    "latitude": 29.3517928,
+    "longitude": 77.5488407,
+    "place_id": "ChIJ-8qfOHA9DDkRk4CNLmChRPk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-8qfOHA9DDkRk4CNLmChRPk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:03:20"
+  },
+  {
+    "business_name": "Sakhi Fashion boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "251318",
+    "phone_number": "+91 94104 72275",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shivpuri, Khatauli, Uttar Pradesh 251201",
+    "area": "Shivpuri",
+    "latitude": 29.2776423,
+    "longitude": 77.7351572,
+    "place_id": "ChIJJVUXJgATDDkRVCGbMBHbTcA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJVUXJgATDDkRVCGbMBHbTcA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:03:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adarsh Daba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "261201",
+    "phone_number": "+91 80090 14139",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "MDR 23C, Biswan Khas, Boeni Pur, Uttar Pradesh 261201",
+    "area": "261201",
+    "latitude": 27.480462,
+    "longitude": 80.98665299999999,
+    "place_id": "ChIJgbgzo2AvmTkRa_kukJkTI1w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgbgzo2AvmTkRa_kukJkTI1w",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:25:38"
+  },
+  {
+    "business_name": "NASOHARA CHAURAHA",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Awadhi Restaurant",
+    "all_categories": "Awadhi Restaurant",
+    "pincode": "261201",
+    "phone_number": "+91 86047 38072",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Nasohara ,Terwa manikapur, Manpur, Uttar Pradesh 261205",
+    "area": "261201",
+    "latitude": 27.434181799999998,
+    "longitude": 81.3215118,
+    "place_id": "ChIJrVHfd6MRmTkRaVuBWcond7U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrVHfd6MRmTkRaVuBWcond7U",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:25:38"
+  }
+]

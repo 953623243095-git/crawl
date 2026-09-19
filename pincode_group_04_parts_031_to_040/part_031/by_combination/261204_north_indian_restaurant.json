@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bollywood Town",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Coffee shop, Fast food restaurant",
+    "pincode": "261204",
+    "phone_number": "+91 70604 48484",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 170,
+    "address": "BASEMENT, BOLLYWOOD TOWN RESTAURANT BN TOWER, SHOP, Shaukat Ali Rd, Rampur, Uttar Pradesh 244901",
+    "area": "Mohsin -E- Azam Colony, Civil Lines",
+    "latitude": 28.7936271,
+    "longitude": 79.0223886,
+    "place_id": "ChIJKQFEu63yCjkR2mtm4kjgZxw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKQFEu63yCjkR2mtm4kjgZxw",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:30:40"
+  },
+  {
+    "business_name": "Hindustan family dhaba jhukiya",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "261204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 328,
+    "address": "Jhukiya, Tappe Sipah, Uttar Pradesh 271901",
+    "area": "261204",
+    "latitude": 27.1066242,
+    "longitude": 81.51132609999999,
+    "place_id": "ChIJ-2VEQp93mTkRRX1JrN13TVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-2VEQp93mTkRRX1JrN13TVg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:30:41"
+  }
+]

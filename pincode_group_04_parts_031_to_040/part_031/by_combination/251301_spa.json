@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunil Traders",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "251301",
+    "phone_number": "+91 74175 30405",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Muzaffarnagar Road, near Gov Wine Shop, Charthawal, Uttar Pradesh 247772",
+    "area": "251301",
+    "latitude": 29.5820664,
+    "longitude": 77.4817564,
+    "place_id": "ChIJrZHPZWmfDjkR2nTMxNMoXbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZHPZWmfDjkR2nTMxNMoXbM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:44:31"
+  },
+  {
+    "business_name": "Massage parlour",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "251301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FG75+M3, Budina Kalan, Uttar Pradesh 251301",
+    "area": "251301",
+    "latitude": 29.464192399999998,
+    "longitude": 77.5076259,
+    "place_id": "ChIJJWoCTgAjDDkR8yz1VatI8KY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJWoCTgAjDDkR8yz1VatI8KY",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:44:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajesh Sweets",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Dhaba",
+    "pincode": "261204",
+    "phone_number": "+91 77540 41462",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 17,
+    "address": "9869+CXP, Rampur Mathura, Uttar Pradesh 261204",
+    "area": "261204",
+    "latitude": 27.361088499999997,
+    "longitude": 81.31996099999999,
+    "place_id": "ChIJU5BQjxcSmTkR3r4_ol3MQVM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU5BQjxcSmTkR3r4_ol3MQVM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:30:38"
+  },
+  {
+    "business_name": "New Punjabi Dhaba☕🍽️",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "261204",
+    "phone_number": "+91 99568 62710",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "C7G6+W3, Naseerpur Dewariya, Uttar Pradesh 261205",
+    "area": "261204",
+    "latitude": 27.426766999999998,
+    "longitude": 81.26096299999999,
+    "place_id": "ChIJh1h2IAARmTkRbydD-0_CFZg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh1h2IAARmTkRbydD-0_CFZg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:30:38"
+  }
+]

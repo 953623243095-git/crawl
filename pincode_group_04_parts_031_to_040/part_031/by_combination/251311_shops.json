@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Provision Store",
+    "search_category": "Shops",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "251311",
+    "phone_number": "+91 97602 44476",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 27,
+    "address": "Khadarwala road Krishna puri, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Sutharshahi",
+    "latitude": 29.467301799999998,
+    "longitude": 77.68912689999999,
+    "place_id": "ChIJGRzEw6IbDDkRe1eM1ojeiME",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGRzEw6IbDDkRe1eM1ojeiME",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:57:40"
+  },
+  {
+    "business_name": "Shamshad Kairana Shop",
+    "search_category": "Shops",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "251311",
+    "phone_number": "+91 98978 70312",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Mimlana, Unnamed Road, Niyazupura, Uttar Pradesh 251002",
+    "area": "Niyazupura",
+    "latitude": 29.4801862,
+    "longitude": 77.67989659999999,
+    "place_id": "ChIJw4eQXAkbDDkRKvc3bZDmAyE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw4eQXAkbDDkRKvc3bZDmAyE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:57:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramu chat corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "261205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "JFF4+49J, Kapurpur, Rehuya Mansur, Uttar Pradesh 271824",
+    "area": "261205",
+    "latitude": 27.622844399999998,
+    "longitude": 81.45587979999999,
+    "place_id": "ChIJT9TIb4QBmTkR4vnx_4YHJ-E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT9TIb4QBmTkR4vnx_4YHJ-E",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:32:22"
+  },
+  {
+    "business_name": "Anshi Chaat & Fast Food Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "261205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HMG7+24G, Munshigunj, Sitapur, Uttar Pradesh 261001",
+    "area": "Munshigunj",
+    "latitude": 27.5750669,
+    "longitude": 80.6628264,
+    "place_id": "ChIJzQMWUMfXnjkRH4AkdXV2y4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzQMWUMfXnjkRH4AkdXV2y4o",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:32:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arsh Nursing home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "251308",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 4,
+    "address": "FPP6+J3P, Nasirpur Rd, Subhash Nagar, Gandhi Colony, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Subhash Nagar, Gandhi Colony",
+    "latitude": 29.4865806,
+    "longitude": 77.7101984,
+    "place_id": "ChIJA152N3sbDDkRBAR6gdvy5s8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA152N3sbDDkRBAR6gdvy5s8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:51:08"
+  },
+  {
+    "business_name": "G.R. NURSING HOME",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Nursing home",
+    "all_categories": "Nursing home",
+    "pincode": "251308",
+    "phone_number": "+91 99971 43372",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sisona road, Mahmoodnagar, Lane No. 2, Uttar Pradesh 251002",
+    "area": "Indira Colony",
+    "latitude": 29.4880049,
+    "longitude": 77.7037489,
+    "place_id": "ChIJKfR3u1kbDDkRciR8RdjMrM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKfR3u1kbDDkRciR8RdjMrM8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:51:09"
+  }
+]

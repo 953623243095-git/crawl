@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tea Shop",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea Wholesaler",
+    "all_categories": "Tea Wholesaler",
+    "pincode": "261205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GPCX+PR7, Sheikh Sarain, Joshitola, Khairabad, Uttar Pradesh 261131",
+    "area": "Sheikh Sarain, Joshitola",
+    "latitude": 27.5217751,
+    "longitude": 80.749558,
+    "place_id": "ChIJKdfE8InTnjkRXk7hPZTCRzU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKdfE8InTnjkRXk7hPZTCRzU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:32:20"
+  },
+  {
+    "business_name": "Hindustan Tea Shop",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "261205",
+    "phone_number": "+91 99842 61914",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2W49+2GJ, Sitapur National Highway, College Road, B.K.T, Bhaisamau, Lucknow, Uttar Pradesh 226201",
+    "area": "B.K.T, Bhaisamau",
+    "latitude": 27.00508,
+    "longitude": 80.918758,
+    "place_id": "ChIJK4pD7WxRmTkRl_ov08Hw2_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK4pD7WxRmTkRl_ov08Hw2_8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:32:20"
+  }
+]

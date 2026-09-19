@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Atithi Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Fast food restaurant, Fine dining restaurant",
+    "pincode": "261121",
+    "phone_number": "+91 91615 06096",
+    "website": "http://www.atithirestaurant.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Mela Road, Khaprel Bazar, Lakhimpur, Uttar Pradesh 262701",
+    "area": "Khaprel Bazar",
+    "latitude": 27.951926399999998,
+    "longitude": 80.77731639999999,
+    "place_id": "ChIJgdfD1ho1nzkRvjQ5aJ6Sn40",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgdfD1ho1nzkRvjQ5aJ6Sn40",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:11:53"
+  },
+  {
+    "business_name": "Lodhi Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "261121",
+    "phone_number": "+91 96968 64168",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "HP67+XC5, near sacred heart degree college, Sarriyan Maluhi, Sitapur, Uttar Pradesh 261001",
+    "area": "Sarriyan Maluhi",
+    "latitude": 27.5623985,
+    "longitude": 80.7136127,
+    "place_id": "ChIJ-60s84bWnjkRCcTyLNtJjLg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-60s84bWnjkRCcTyLNtJjLg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:11:53"
+  }
+]

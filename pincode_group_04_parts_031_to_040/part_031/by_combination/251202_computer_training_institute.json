@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MS Computer Institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer training school",
+    "all_categories": "Computer training school",
+    "pincode": "251202",
+    "phone_number": "+91 99354 62094",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shahganj, Uttar Pradesh 223101",
+    "area": "251202",
+    "latitude": 26.050255099999998,
+    "longitude": 82.6854041,
+    "place_id": "ChIJZXrLESxbkDkRKgOvTkx0mc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZXrLESxbkDkRKgOvTkx0mc8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:41:15"
+  },
+  {
+    "business_name": "GENIUS COMPUTER CENTRE",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer training school",
+    "all_categories": "Computer training school",
+    "pincode": "251202",
+    "phone_number": "+91 94576 13612",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "genius computer centre, near Balaji Mandir Road, Kambal Wala Bagh, New Mandi, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Kambal Wala Bagh, New Mandi",
+    "latitude": 29.4649888,
+    "longitude": 77.7146576,
+    "place_id": "ChIJVRtW4xYbDDkRiw-lfq0_ihc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVRtW4xYbDDkRiw-lfq0_ihc",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:41:16"
+  }
+]

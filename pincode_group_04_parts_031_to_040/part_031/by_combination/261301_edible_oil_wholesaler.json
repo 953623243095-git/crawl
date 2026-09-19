@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K2 Milk",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Dairy Products Supplier",
+    "all_categories": "Dairy Products Supplier",
+    "pincode": "261301",
+    "phone_number": "N/A",
+    "website": "https://www.k2milk.in/",
+    "rating": 4.8,
+    "reviews_count": 58,
+    "address": "Plot 681 Pandit Purwa Mod, Vill Aramba Pargana-Mahona, Amaniganj Road, near Narayan Traders after Indian Oil Pump, Itaunja, Uttar Pradesh 226203",
+    "area": "261301",
+    "latitude": 27.132861199999997,
+    "longitude": 80.9114089,
+    "place_id": "ChIJHUtNETBPmTkRoMQN4BFvjO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHUtNETBPmTkRoMQN4BFvjO0",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:38:58"
+  },
+  {
+    "business_name": "Gram Sattva Cold Press Oil",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Natural goods store",
+    "all_categories": "Natural goods store",
+    "pincode": "261301",
+    "phone_number": "+91 92356 42375",
+    "website": "http://www.gramsattva.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "LDA Market, Shop No. 22, New, near Back side of JTRI, Virat Khand 4, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Virat Khand 4, Gomti Nagar",
+    "latitude": 26.8566182,
+    "longitude": 81.01671499999999,
+    "place_id": "ChIJrfA0EEjjmzkR6ficnAkZopg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrfA0EEjjmzkR6ficnAkZopg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:39:01"
+  }
+]

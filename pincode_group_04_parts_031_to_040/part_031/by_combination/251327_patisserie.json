@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lahoria confectionery",
+    "search_category": "Patisserie",
+    "primary_category": "Confectionery store",
+    "all_categories": "Confectionery store",
+    "pincode": "251327",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "JWPH+QF4, Sherpur, Uttar Pradesh 251327",
+    "area": "251327",
+    "latitude": 29.636893399999998,
+    "longitude": 77.928716,
+    "place_id": "ChIJje4XtdZVCTkRto4SJcUB3sk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJje4XtdZVCTkRto4SJcUB3sk",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:08:23"
+  },
+  {
+    "business_name": "Assam Confectionery, Purkazi",
+    "search_category": "Patisserie",
+    "primary_category": "Confectionery store",
+    "all_categories": "Confectionery store",
+    "pincode": "251327",
+    "phone_number": "+91 82730 06420",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "MR4R+GQC, Purkaji, Purquazi, Uttar Pradesh 251327",
+    "area": "251327",
+    "latitude": 29.656322,
+    "longitude": 77.8419,
+    "place_id": "ChIJG4LSjdmrDjkRs853N58M-jg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG4LSjdmrDjkRs853N58M-jg",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:08:23"
+  }
+]

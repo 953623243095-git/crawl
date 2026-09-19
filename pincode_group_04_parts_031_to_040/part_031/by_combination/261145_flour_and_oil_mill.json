@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anwita Flour And Oil Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Florist",
+    "pincode": "261145",
+    "phone_number": "+91 94519 91212",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Jhajjhar, Biswan, Uttar Pradesh 261201",
+    "area": "261145",
+    "latitude": 27.489621699999997,
+    "longitude": 81.001785,
+    "place_id": "ChIJE8Spq_wlmTkRA5ofxaKUjIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE8Spq_wlmTkRA5ofxaKUjIY",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:23:34"
+  },
+  {
+    "business_name": "Thy Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill, Service establishment, Store",
+    "pincode": "261145",
+    "phone_number": "+91 80817 94805",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Thy Mill, 261145, India",
+    "area": "261145",
+    "latitude": 26.848692,
+    "longitude": 80.9425127,
+    "place_id": "ChIJeefahGz9mzkRCKEifyehUJo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeefahGz9mzkRCKEifyehUJo",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:23:34"
+  }
+]

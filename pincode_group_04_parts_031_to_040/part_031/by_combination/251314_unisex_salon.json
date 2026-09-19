@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swati Makeover Studio",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "251314",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Padav chook, Miranpur, Uttar Pradesh 251315",
+    "area": "251314",
+    "latitude": 29.2922287,
+    "longitude": 77.9489868,
+    "place_id": "ChIJPQ3CZSz1CzkRBWG_KXwxUUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPQ3CZSz1CzkRBWG_KXwxUUQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:58:38"
+  },
+  {
+    "business_name": "Hh Hair Saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "251314",
+    "phone_number": "+91 78956 07459",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Shop No 30, Shri Raam Public Shcool, Muzaffarnagar, Rasulpur, Uttar Pradesh 251315",
+    "area": "251314",
+    "latitude": 29.2900308,
+    "longitude": 77.94546679999999,
+    "place_id": "ChIJ6QrF5lH1CzkRaX7jidfUGaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6QrF5lH1CzkRaX7jidfUGaE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:58:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahadev Cloth House",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "251003",
+    "phone_number": "+91 98979 01020",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Railway Rd, Shyampuri, Punjabi Colony, Khatauli, Uttar Pradesh 251201",
+    "area": "Shyampuri, Punjabi Colony",
+    "latitude": 29.2764919,
+    "longitude": 77.7358972,
+    "place_id": "ChIJ1UJFgkwTDDkRl-a4-3A7l9E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1UJFgkwTDDkRl-a4-3A7l9E",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:36:44"
+  },
+  {
+    "business_name": "Sanduk",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "251003",
+    "phone_number": "N/A",
+    "website": "http://www.sanduk.co/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "87/26, Civil Lines North, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Civil Lines North",
+    "latitude": 29.468935799999997,
+    "longitude": 77.7052921,
+    "place_id": "ChIJmSHp36QbDDkREJGkxuEnblM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmSHp36QbDDkREJGkxuEnblM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:36:44"
+  }
+]

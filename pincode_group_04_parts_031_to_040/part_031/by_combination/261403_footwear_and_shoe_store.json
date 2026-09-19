@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramsingh Footwear Shop",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "261403",
+    "phone_number": "+91 91407 58842",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Neemsar Bibipur Neemsar Rd Bibipur, Sitapur, Uttar Pradesh 261403",
+    "area": "261403",
+    "latitude": 27.3142553,
+    "longitude": 80.6228052,
+    "place_id": "ChIJzY8-87LHnjkRVn_q1jNJb-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzY8-87LHnjkRVn_q1jNJb-Y",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:47:49"
+  },
+  {
+    "business_name": "Shobit Footwear Shop",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "261403",
+    "phone_number": "+91 76079 26628",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mishrikh, Misrikh-cum-Neemsar, Uttar Pradesh 261405",
+    "area": "261403",
+    "latitude": 27.418450999999997,
+    "longitude": 80.641471,
+    "place_id": "ChIJnQJp-BnPnjkRMyXtQSI_BaY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnQJp-BnPnjkRMyXtQSI_BaY",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:47:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Arts & Handicarfts",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop, Arts organization, Craft store, Handicrafts Wholesaler",
+    "pincode": "251002",
+    "phone_number": "+91 98370 60684",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 30,
+    "address": "NH - 58, Near PNB ATM, Bikano Food Court, Rampur Tiraha, Muzaffarnagar, Uttar Pradesh 251202",
+    "area": "251002",
+    "latitude": 29.5247484,
+    "longitude": 77.7197571,
+    "place_id": "ChIJt4qsmOkcDDkR6krAvzpG_GE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt4qsmOkcDDkR6krAvzpG_GE",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:35:49"
+  },
+  {
+    "business_name": "Tanmay Collection",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "251002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lane No. 11, opposite Shani Mandir, Gandhi Colony, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Gandhi Colony",
+    "latitude": 29.4787771,
+    "longitude": 77.71270059999999,
+    "place_id": "ChIJJ3f_H04bDDkRYRosE9-JknM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ3f_H04bDDkRYRosE9-JknM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:35:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shruti Medicals",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "261403",
+    "phone_number": "+91 99564 96293",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sarosa road, ramgadh modh, Uttar Pradesh 261403",
+    "area": "261403",
+    "latitude": 27.356966699999997,
+    "longitude": 80.6360066,
+    "place_id": "ChIJg4R3JQDPnjkRZLRGkW7N2q4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg4R3JQDPnjkRZLRGkW7N2q4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:47:55"
+  },
+  {
+    "business_name": "N.R. Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "261403",
+    "phone_number": "+91 98394 05062",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3VMW+7RC, Sitapur Road, National Highway 24A, Itaunja, Uttar Pradesh 226203",
+    "area": "261403",
+    "latitude": 27.0831759,
+    "longitude": 80.8970258,
+    "place_id": "ChIJUxYRI-JNmTkRG8R9ITT2y8Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUxYRI-JNmTkRG8R9ITT2y8Q",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:47:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Dhaba",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "251309",
+    "phone_number": "+91 63950 76315",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "6PVF+7WC, Tabita, Uttar Pradesh 251201",
+    "area": "251309",
+    "latitude": 29.243186899999998,
+    "longitude": 77.7247746,
+    "place_id": "ChIJRe2TbAATDDkRQquIiWGRIAY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRe2TbAATDDkRQquIiWGRIAY",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:52:36"
+  },
+  {
+    "business_name": "PIZZA BUZZER BUDHANA",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "251309",
+    "phone_number": "+91 97151 57900",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 147,
+    "address": "Holi chowk, DAV College Road, near ghaas ki mandi, Budhana, Uttar Pradesh 251309",
+    "area": "251309",
+    "latitude": 29.2865476,
+    "longitude": 77.47162879999999,
+    "place_id": "ChIJFUhFWtY_DDkRIoaHtTpVALA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFUhFWtY_DDkRIoaHtTpVALA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:52:39"
+  }
+]

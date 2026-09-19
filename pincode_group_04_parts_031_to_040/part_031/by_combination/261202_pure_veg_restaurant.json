@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAGAR GRAND",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Banquet hall, Food court, Hotel",
+    "pincode": "261202",
+    "phone_number": "+91 94104 92533",
+    "website": "https://sagargrand.com/",
+    "rating": 4.2,
+    "reviews_count": 5021,
+    "address": "NH-2, Agra Road, Malajani, Jaswantnagar, Uttar Pradesh 206002",
+    "area": "261202",
+    "latitude": 26.8389219,
+    "longitude": 78.9447564,
+    "place_id": "ChIJzy958BvcdTkRwG4fgALkeZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzy958BvcdTkRwG4fgALkeZA",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:27:17"
+  },
+  {
+    "business_name": "Shanky's Kitchen",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Delivery Chinese restaurant, Fast food restaurant",
+    "pincode": "261202",
+    "phone_number": "+91 94533 00055",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 28,
+    "address": "Near, bada chauraha, Hardoi, Uttar Pradesh 241001",
+    "area": "261202",
+    "latitude": 27.390993299999998,
+    "longitude": 80.12434859999999,
+    "place_id": "ChIJD9hv6bf5njkRbwfDoCeC29A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD9hv6bf5njkRbwfDoCeC29A",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:27:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kiyana Shop",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "251307",
+    "phone_number": "+91 89584 24988",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "82, Maine Road, Tugalakpur, Brampur, Uttar Pradesh 251310",
+    "area": "251307",
+    "latitude": 29.5970548,
+    "longitude": 77.8851385,
+    "place_id": "ChIJN0LqtXYBDDkRRpXg3jxTWm4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN0LqtXYBDDkRRpXg3jxTWm4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:49:59"
+  },
+  {
+    "business_name": "Shiv Phool Bhandar",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower designer",
+    "all_categories": "Flower designer",
+    "pincode": "251307",
+    "phone_number": "+91 70170 34304",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "VVFV+MCV, Pathanpura, Roorkee, Uttarakhand 247667",
+    "area": "Pathanpura",
+    "latitude": 29.8742393,
+    "longitude": 77.89353849999999,
+    "place_id": "ChIJOz2JnzqzDjkR-fKz_JwFRhU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOz2JnzqzDjkR-fKz_JwFRhU",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:49:59"
+  }
+]

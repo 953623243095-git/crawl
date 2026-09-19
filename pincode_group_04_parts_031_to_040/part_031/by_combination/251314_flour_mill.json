@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahesh chand sharma",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "251314",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jansath Main Bazar Rd, Jansath, Uttar Pradesh 251314",
+    "area": "251314",
+    "latitude": 29.3271189,
+    "longitude": 77.84648829999999,
+    "place_id": "ChIJqwZ6UQAJDDkR_Zu5WR84QFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqwZ6UQAJDDkR_Zu5WR84QFo",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:57:44"
+  },
+  {
+    "business_name": "Zaidi Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "251314",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "FW7P+F5V, Morna - Jansath Rd, Morna, Uttar Pradesh 251316",
+    "area": "251314",
+    "latitude": 29.4636966,
+    "longitude": 77.93545209999999,
+    "place_id": "ChIJyZuHK1j5CzkRK3CJu0EOPzM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyZuHK1j5CzkRK3CJu0EOPzM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:57:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aryan jatav",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "261401",
+    "phone_number": "+91 95887 06031",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Sharda Nehar, Karmespur, Misrikh-cum-Neemsar, Karmasepur, Uttar Pradesh 261401",
+    "area": "Karmespur",
+    "latitude": 27.452732599999997,
+    "longitude": 80.535337,
+    "place_id": "ChIJnTWo6gvdnjkRyleScXnpfks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnTWo6gvdnjkRyleScXnpfks",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:44:10"
+  },
+  {
+    "business_name": "Tiwari medical store",
+    "search_category": "Provision Store",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "261401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "9F3P+86R, Misrikh-cum-Neemsar, Uttar Pradesh 261402",
+    "area": "261401",
+    "latitude": 27.3533694,
+    "longitude": 80.4855274,
+    "place_id": "ChIJZfnNKQDDnjkRnAvSG9AqHiM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZfnNKQDDnjkRnAvSG9AqHiM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:44:11"
+  }
+]

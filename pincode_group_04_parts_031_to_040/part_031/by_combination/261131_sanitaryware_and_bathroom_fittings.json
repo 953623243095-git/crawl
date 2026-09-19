@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarda Sanitary Stores",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Bathroom supply store",
+    "all_categories": "Bathroom supply store, Tile store",
+    "pincode": "261131",
+    "phone_number": "+91 93933 07702",
+    "website": "http://www.homesandbeyond.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "4-1-463, Troopbazar, Troop Bazar Main Rd, Troop Bazaar, Abids, Hyderabad, Telangana 500001",
+    "area": "Troop Bazaar, Abids",
+    "latitude": 17.3856479,
+    "longitude": 78.4788861,
+    "place_id": "ChIJVVVVxdWZyzsR7jAvlmCc5l8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVxdWZyzsR7jAvlmCc5l8",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:15:54"
+  },
+  {
+    "business_name": "Mali Trading Company",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Pipe supplier",
+    "all_categories": "Pipe supplier, Hardware store, Tile store",
+    "pincode": "261131",
+    "phone_number": "+91 98390 80124",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 50,
+    "address": "Shop No.9, Ring Road Plaza, Near Kalyanpur Tempo Stand, Kalyanpur (East), Lucknow, Uttar Pradesh 226022",
+    "area": "Adarsh Nagar, Kalyanpur (East)",
+    "latitude": 26.895251,
+    "longitude": 80.971437,
+    "place_id": "ChIJpSYY7uVXmTkRGx3ARuJGwdc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpSYY7uVXmTkRGx3ARuJGwdc",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:15:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pradeep Medical Agency",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "261204",
+    "phone_number": "+91 99180 02855",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Thampsonganj, 880B, Rampa Rd, Sitapur, Uttar Pradesh 261001",
+    "area": "Nai Basti",
+    "latitude": 27.571017299999998,
+    "longitude": 80.6795671,
+    "place_id": "ChIJI_6AAqHXnjkRpZU78I8Tko4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI_6AAqHXnjkRpZU78I8Tko4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:30:52"
+  },
+  {
+    "business_name": "D.k Ayurved Farma",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "261204",
+    "phone_number": "+91 63920 40027",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gosaiganj, Uttar Pradesh 228132",
+    "area": "261204",
+    "latitude": 26.220967899999998,
+    "longitude": 82.32518979999999,
+    "place_id": "ChIJtWBkKRuHkDkRZfjStG6-F6I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtWBkKRuHkDkRZfjStG6-F6I",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:30:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop",
+    "pincode": "251314",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Bus Stand, National Highway, Jansath, Miranpur, Uttar Pradesh 251315",
+    "area": "251314",
+    "latitude": 29.2856638,
+    "longitude": 77.9462834,
+    "place_id": "ChIJy2mBKeD1CzkRqK7Kw8CwLnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy2mBKeD1CzkRqK7Kw8CwLnc",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:57:48"
+  },
+  {
+    "business_name": "Siddhi Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "251314",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "near sari gate, Miranpur, Rasulpur, Uttar Pradesh 251315",
+    "area": "251314",
+    "latitude": 29.292713199999998,
+    "longitude": 77.9453091,
+    "place_id": "ChIJ7Yk7HYH1CzkRqbVOzJ5L_y4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Yk7HYH1CzkRqbVOzJ5L_y4",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:57:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shama Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Home goods store",
+    "pincode": "251306",
+    "phone_number": "+91 98376 58149",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MDR 135W, Muzaffarnagar, Sanjhak, Uttar Pradesh 251318",
+    "area": "251306",
+    "latitude": 29.4330341,
+    "longitude": 77.6370476,
+    "place_id": "ChIJKxbRlRQZDDkRfdyLXc7ZXHY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKxbRlRQZDDkRfdyLXc7ZXHY",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:47:35"
+  },
+  {
+    "business_name": "Ansari Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Home goods store",
+    "pincode": "251306",
+    "phone_number": "+91 98976 68175",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "0, Rampur Maniharan, Uttar Pradesh 251311",
+    "area": "251306",
+    "latitude": 29.496699,
+    "longitude": 77.62730069999999,
+    "place_id": "ChIJR2ycXcgeDDkRN8RHCQ9-gKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR2ycXcgeDDkRN8RHCQ9-gKQ",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 06:47:35"
+  }
+]

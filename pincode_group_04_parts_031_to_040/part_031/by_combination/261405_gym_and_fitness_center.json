@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MG Fitness Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "261405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HM6Q+RHH, Sitapur - Lakhimpur Rd, Avas Vikas Colony, Sitapur, Salempur Ali Raza, Uttar Pradesh 261001",
+    "area": "Avas Vikas Colony",
+    "latitude": 27.5619026,
+    "longitude": 80.6892297,
+    "place_id": "ChIJbyjaRwDXnjkRSvC9L5DCgTM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbyjaRwDXnjkRSvC9L5DCgTM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:51:23"
+  },
+  {
+    "business_name": "A SQUARE FITNESS",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Equipment Importer",
+    "pincode": "261405",
+    "phone_number": "+91 79054 89304",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 31,
+    "address": "IIM Rd, near semra primary school, Madiyanva, Lucknow, Uttar Pradesh 226020",
+    "area": "Madiyanva",
+    "latitude": 26.9335398,
+    "longitude": 80.9146928,
+    "place_id": "ChIJX3aQeZj_mzkRIJ13skkJppM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX3aQeZj_mzkRIJ13skkJppM",
+    "part_id": "part_031",
+    "crawled_at": "2026-09-19 07:51:26"
+  }
+]
