@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaipur Fashion",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "273304",
+    "phone_number": "+91 96704 67749",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nichlaul, Pipara Kazi, Uttar Pradesh 273304",
+    "area": "273304",
+    "latitude": 27.310295399999998,
+    "longitude": 83.7195271,
+    "place_id": "ChIJE_mZXb8blDkRfTcA9YeEDNI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE_mZXb8blDkRfTcA9YeEDNI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:42:49"
+  },
+  {
+    "business_name": "Ashok Vastralaya",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "273304",
+    "phone_number": "+91 98389 21171",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 10,
+    "address": "Main Market, Nichlaul, Uttar Pradesh 273304",
+    "area": "Main Market",
+    "latitude": 27.3134242,
+    "longitude": 83.72743659999999,
+    "place_id": "ChIJAQAAACwalDkRCjAGsJ58h0o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAACwalDkRCjAGsJ58h0o",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:42:51"
+  }
+]

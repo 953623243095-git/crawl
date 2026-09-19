@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Local Snacks shop",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "273202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 36,
+    "address": "National Highway 27, Gorakhpur Bypass, Uttar Pradesh 273002",
+    "area": "273202",
+    "latitude": 26.745745799999998,
+    "longitude": 83.52647139999999,
+    "place_id": "ChIJswwf8EpZkTkRYOh8AFM03ec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJswwf8EpZkTkRYOh8AFM03ec",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:23:53"
+  },
+  {
+    "business_name": "Indian Food Cafe and Restaurant",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "273202",
+    "phone_number": "+91 83188 53978",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Jungle Chauri, Deoria Rd, near Nayara petrol pump, Khorabar, Gorakhpur, Uttar Pradesh 273010",
+    "area": "Khorabar",
+    "latitude": 26.699016399999998,
+    "longitude": 83.4589575,
+    "place_id": "ChIJUbg2RgZdkTkR7tNK6jCSu_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUbg2RgZdkTkR7tNK6jCSu_A",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:23:53"
+  }
+]

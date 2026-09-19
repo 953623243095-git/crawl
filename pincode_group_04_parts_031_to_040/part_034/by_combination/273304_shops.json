@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hardik Beakars",
+    "search_category": "Shops",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "273304",
+    "phone_number": "+91 97213 91417",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "1. Nichlaul To Badhaya Road, Village, Badhaya Mustkil, near by D. K. Inter College, Uttar Pradesh 273304",
+    "area": "273304",
+    "latitude": 27.319471,
+    "longitude": 83.8043704,
+    "place_id": "ChIJ1ZJulg4XlDkRnYTYhz9ihn4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1ZJulg4XlDkRnYTYhz9ihn4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:44:24"
+  },
+  {
+    "business_name": "Prahlad Sabji Store",
+    "search_category": "Shops",
+    "primary_category": "Spice store",
+    "all_categories": "Spice store",
+    "pincode": "273304",
+    "phone_number": "+91 63878 50862",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "nearby Chamanganj Pul, Nichlaul, Baidauli, Maharajganj, Uttar Pradesh 273304",
+    "area": "Nichlaul",
+    "latitude": 27.30925,
+    "longitude": 83.7381034,
+    "place_id": "ChIJuR113YAblDkRxsx1Xaa-TUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuR113YAblDkRxsx1Xaa-TUE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:44:25"
+  }
+]

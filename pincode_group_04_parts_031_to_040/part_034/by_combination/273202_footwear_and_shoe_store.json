@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Famous footwear shop",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "273202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "PFVX+CCG, Motiram Adda, Khararaiech Khurd, Uttar Pradesh 273002",
+    "area": "273202",
+    "latitude": 26.743568699999997,
+    "longitude": 83.4985872,
+    "place_id": "ChIJ75LaZQBbkTkRYH0V_be0X2M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ75LaZQBbkTkRYH0V_be0X2M",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:23:59"
+  },
+  {
+    "business_name": "Priya Footwear And Photoframing",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Picture frame shop, Footwear wholesaler",
+    "pincode": "273202",
+    "phone_number": "+91 84230 50349",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Divya Nagar Colony, Gorakhpur, Uttar Pradesh 273008",
+    "area": "Mahadevapuram Colony, Rapti Nagar Phase-4",
+    "latitude": 26.724908199999998,
+    "longitude": 83.42537449999999,
+    "place_id": "ChIJpUlhRrJckTkRlAaXBG8HzYc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpUlhRrJckTkRlAaXBG8HzYc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:24:02"
+  }
+]

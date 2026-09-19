@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shan marka",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant",
+    "pincode": "273209",
+    "phone_number": "+91 95060 87936",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Market, Sahjanwa, Uttar Pradesh 273209",
+    "area": "Main Market",
+    "latitude": 26.756656099999997,
+    "longitude": 83.21268529999999,
+    "place_id": "ChIJwSzdu1s5kTkRWwgOfF_jP54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwSzdu1s5kTkRWwgOfF_jP54",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:30:43"
+  },
+  {
+    "business_name": "Accounting center SAHJANWA",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant",
+    "pincode": "273209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sahjanwa Rd, Sahjanwa, Uttar Pradesh 273209",
+    "area": "273209",
+    "latitude": 26.7565271,
+    "longitude": 83.2128468,
+    "place_id": "ChIJ9b0BtQc5kTkROc27cBfQCFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9b0BtQc5kTkROc27cBfQCFI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:30:43"
+  }
+]

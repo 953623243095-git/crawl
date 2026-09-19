@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "273203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "HMXC+GXQ, Ashraf Nagar, Gauri Bazar, Rampur, Uttar Pradesh 274202",
+    "area": "Ashraf Nagar",
+    "latitude": 26.5988653,
+    "longitude": 83.67243359999999,
+    "place_id": "ChIJyXpNHADfkzkRjTNy9DQzO3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyXpNHADfkzkRjTNy9DQzO3g",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:26:21"
+  },
+  {
+    "business_name": "TUK-TUK ONLINE SERVICE AND AABHASH ELECTRIC WORK",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "273203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HJQP+PFV, Kalaban, Uttar Pradesh 274202",
+    "area": "273203",
+    "latitude": 26.5893701,
+    "longitude": 83.6361751,
+    "place_id": "ChIJx-A6fTrfkzkRV-b4xAeV5wY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx-A6fTrfkzkRV-b4xAeV5wY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:26:21"
+  }
+]

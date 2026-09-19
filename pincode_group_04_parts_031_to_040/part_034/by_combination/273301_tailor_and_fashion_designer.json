@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashfaqullah khan",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "273301",
+    "phone_number": "+91 78607 14591",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": 2,
+    "address": "Laxmipur, Uttar Pradesh 273302",
+    "area": "273301",
+    "latitude": 27.0360625,
+    "longitude": 83.58093749999999,
+    "place_id": "ChIJi8boUsGrljkRL3pZ_O-T6Oc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi8boUsGrljkRL3pZ_O-T6Oc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:37:08"
+  },
+  {
+    "business_name": "Shamsi House",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "273301",
+    "phone_number": "+91 91180 33491",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Rampur bagahiya, Harpur, Uttar Pradesh 273301",
+    "area": "273301",
+    "latitude": 26.994120499999998,
+    "longitude": 83.545169,
+    "place_id": "ChIJF86CFoFVkTkRpBHDn8MyU4Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF86CFoFVkTkRpBHDn8MyU4Q",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:37:08"
+  }
+]

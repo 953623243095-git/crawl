@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prateek Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "273207",
+    "phone_number": "+91 94538 66003",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "02, Cinema Rd, near PWD, Nichlaul, Uttar Pradesh 273304",
+    "area": "273207",
+    "latitude": 27.3148613,
+    "longitude": 83.7232799,
+    "place_id": "ChIJA5uPDcAblDkRM0hZ0GLr1mE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA5uPDcAblDkRM0hZ0GLr1mE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:27:49"
+  },
+  {
+    "business_name": "Delhi shoe palace",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "273207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "8P6F+G93, Miya Mohalla, Nichlaul, Uttar Pradesh 273304",
+    "area": "Miya Mohalla",
+    "latitude": 27.3112683,
+    "longitude": 83.723435,
+    "place_id": "ChIJt3JsawAblDkRGUbQRYReDLQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt3JsawAblDkRGUbQRYReDLQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:27:49"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A S Home Planner",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "273203",
+    "phone_number": "+91 63915 09162",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Katai, Indupur, Uttar Pradesh 274202",
+    "area": "273203",
+    "latitude": 26.5372658,
+    "longitude": 83.6544565,
+    "place_id": "ChIJJdPMVbPZkzkRsHOanpBWx3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJdPMVbPZkzkRsHOanpBWx3o",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:26:30"
+  },
+  {
+    "business_name": "Yadav Traders",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect",
+    "pincode": "273203",
+    "phone_number": "+91 87074 79353",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Yadav Traders, Police Chowki, Ball Bhatta, Gorakhpur, Jungle Rasoolpur No.2, Uttar Pradesh 273203",
+    "area": "Ball Bhatta",
+    "latitude": 26.600044699999998,
+    "longitude": 83.5652533,
+    "place_id": "ChIJGXLaLL9hkTkRgS481MyiSUY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGXLaLL9hkTkRgS481MyiSUY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:26:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chay Chaupal and Dhaba",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Breakfast restaurant, Coffee shop, Dhaba, Food court, Sandwich shop, Tea store",
+    "pincode": "273303",
+    "phone_number": "+91 76073 64294",
+    "website": "https://chaychaupal.com/",
+    "rating": 4.5,
+    "reviews_count": 1295,
+    "address": "New highway chowk, Bheera, Road, Lalganj, Uttar Pradesh 276202",
+    "area": "273303",
+    "latitude": 25.802549499999998,
+    "longitude": 82.9910396,
+    "place_id": "ChIJdZqDZFLLkTkRrwDZtTKTsCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdZqDZFLLkTkRrwDZtTKTsCA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:40:48"
+  },
+  {
+    "business_name": "CA CHAI WALA (CHAI ADDICTION)",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "273303",
+    "phone_number": "+91 72689 80974",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 134,
+    "address": "Chakeri, Kanpur, Uttar Pradesh 208007",
+    "area": "Chakeri",
+    "latitude": 26.380526099999997,
+    "longitude": 80.4164172,
+    "place_id": "ChIJ9yDoC3lDnDkRIr-TGAM1Cmc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9yDoC3lDnDkRIr-TGAM1Cmc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:40:48"
+  }
+]

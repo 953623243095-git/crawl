@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ambika Electronics & Plumber",
+    "search_category": "Plumber",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "273310",
+    "phone_number": "+91 96961 48217",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "NH 328, Paniyara, Uttar Pradesh 273310",
+    "area": "273310",
+    "latitude": 26.998179699999998,
+    "longitude": 83.4616435,
+    "place_id": "ChIJmfSggOBSkTkR5sh_yPWVLKA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmfSggOBSkTkR5sh_yPWVLKA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:52:43"
+  },
+  {
+    "business_name": "Utkarsh hp gas gramin vitrak mujuri",
+    "search_category": "Plumber",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "273310",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "29MW+P8W, Mujuri, Uttar Pradesh 273310",
+    "area": "273310",
+    "latitude": 27.0343569,
+    "longitude": 83.3958356,
+    "place_id": "ChIJlVSQrU-zljkRSlKDrhI5TZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlVSQrU-zljkRSlKDrhI5TZw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:52:43"
+  }
+]

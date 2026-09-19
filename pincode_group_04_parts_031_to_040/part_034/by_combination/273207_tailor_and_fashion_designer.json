@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gulshan Tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "273207",
+    "phone_number": "+91 93352 67286",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sinduriya Road Shikarpur Chauraha (Bhiswa, Shikarpur, Uttar Pradesh 273207",
+    "area": "273207",
+    "latitude": 27.1995518,
+    "longitude": 83.6477031,
+    "place_id": "ChIJx1cGu7oDlDkRLfV0vNNmKhc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx1cGu7oDlDkRLfV0vNNmKhc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:27:47"
+  },
+  {
+    "business_name": "VASTRA BY SWATI",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Dressmaker",
+    "all_categories": "Dressmaker",
+    "pincode": "273207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mohalla Majhaua, Jasrana, Uttar Pradesh 283136",
+    "area": "Mohalla Majhaua",
+    "latitude": 27.2310508,
+    "longitude": 78.6475628,
+    "place_id": "ChIJsT_9-xtNdDkRZXvtFq58G6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsT_9-xtNdDkRZXvtFq58G6Y",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:27:48"
+  }
+]

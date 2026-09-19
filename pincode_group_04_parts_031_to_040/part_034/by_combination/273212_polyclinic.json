@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madhavmohan Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "273212",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 26,
+    "address": "Buddh Vihar, Deoria Bypass Rd, behind LIC, Part - A, Taramandal, Gorakhpur, Uttar Pradesh 273016",
+    "area": "Part - A, Taramandal",
+    "latitude": 26.7339225,
+    "longitude": 83.38062289999999,
+    "place_id": "ChIJp4uhzNFDkTkRzC640YQh1rs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp4uhzNFDkTkRzC640YQh1rs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:33:36"
+  },
+  {
+    "business_name": "Sanjivani Pharmacy",
+    "search_category": "Polyclinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "273212",
+    "phone_number": "+91 90053 14749",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Nahar Rd, near Jagdish Hospital, Shivpur, Azad Nagar, Rustampur, Dhala, Gorakhpur, Uttar Pradesh 273014",
+    "area": "Shivpur, Azad Nagar, Rustampur, Dhala",
+    "latitude": 26.781703,
+    "longitude": 83.3990281,
+    "place_id": "ChIJJ0pNH1lFkTkRtKSlxmhEfkg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ0pNH1lFkTkRtKSlxmhEfkg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:33:37"
+  }
+]

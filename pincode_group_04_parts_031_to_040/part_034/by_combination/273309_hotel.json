@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S international hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "273309",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 6,
+    "address": "78XJ+JQ6, Kolhui Bazar, Kolhui, Uttar Pradesh 273309",
+    "area": "273309",
+    "latitude": 27.2990446,
+    "longitude": 83.3318797,
+    "place_id": "ChIJrwyEnRy_ljkRmzVdUUH9zYM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrwyEnRy_ljkRmzVdUUH9zYM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:51:07"
+  },
+  {
+    "business_name": "Madina hotel",
+    "search_category": "Hotel",
+    "primary_category": "Soup kitchen",
+    "all_categories": "Soup kitchen",
+    "pincode": "273309",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "898X+9GV, Moglaha, Uttar Pradesh 273162",
+    "area": "273309",
+    "latitude": 27.3159955,
+    "longitude": 83.39881199999999,
+    "place_id": "ChIJd7tBGQC9ljkRdmGieiHffYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd7tBGQC9ljkRdmGieiHffYo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:51:10"
+  }
+]

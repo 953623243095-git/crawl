@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Rock Fitness and Gym Centre",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "273203",
+    "phone_number": "+91 96503 62421",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 16,
+    "address": "Malahanpar road,laxmipur Chauraha, Hariharpur, Uttar Pradesh 273212",
+    "area": "273203",
+    "latitude": 26.553306799999998,
+    "longitude": 83.2506272,
+    "place_id": "ChIJ3yAD-79rkTkR3w7v3se0DhM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3yAD-79rkTkR3w7v3se0DhM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:26:11"
+  },
+  {
+    "business_name": "THE GYM MAJHGAWA",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "273203",
+    "phone_number": "+91 95192 44278",
+    "website": "https://www.youtube.com/@the_gym_hata",
+    "rating": 4.6,
+    "reviews_count": 13,
+    "address": "Chaksultani, Hata Bazar, Gorakhpur, Uttar Pradesh 273412",
+    "area": "Hata Bazar",
+    "latitude": 26.362475,
+    "longitude": 83.4724047,
+    "place_id": "ChIJtadHU0V7kTkRr96bxy6Q2bo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtadHU0V7kTkRr96bxy6Q2bo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:26:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gagan House",
+    "search_category": "Spa",
+    "primary_category": "Medical spa",
+    "all_categories": "Medical spa",
+    "pincode": "273304",
+    "phone_number": "+91 75100 99340",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Raipur RAIPUR, POST BALI, Nichlaul, Maharajganj, Uttar Pradesh 273304",
+    "area": "273304",
+    "latitude": 27.2876399,
+    "longitude": 83.7345234,
+    "place_id": "ChIJ3ZhdrToblDkRMKwAKtGbEXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3ZhdrToblDkRMKwAKtGbEXM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:43:30"
+  },
+  {
+    "business_name": "Vinod Ji Chudhi",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "273304",
+    "phone_number": "+91 90768 71508",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2. Pragpur Road To Nichlaul Bazaar Paragpur, Road, near Katra Chaurha, Lohiyaa Nagar, Nichlaul, Uttar Pradesh 273304",
+    "area": "Lohiyaa Nagar",
+    "latitude": 27.328564,
+    "longitude": 83.7235773,
+    "place_id": "ChIJHUtKMuwZlDkRYtRpZoygG-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHUtKMuwZlDkRYtRpZoygG-Y",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:43:31"
+  }
+]

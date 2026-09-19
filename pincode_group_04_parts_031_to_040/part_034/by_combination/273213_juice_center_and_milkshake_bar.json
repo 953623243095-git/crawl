@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahul Juice Corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "273213",
+    "phone_number": "+91 788 070 4338",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PCX8+27V Kutaghat, Kunraghat, Gorakhpur, Uttar Pradesh 273008",
+    "area": "Kunraghat",
+    "latitude": 26.747604,
+    "longitude": 83.415669,
+    "place_id": "ChIJjegRXTBFkTkRXip1AHbHzO8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjegRXTBFkTkRXip1AHbHzO8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:35:07"
+  },
+  {
+    "business_name": "Yadav fruit and juice center",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "273213",
+    "phone_number": "+91 72753 11363",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "near sadar tehsil, Sector 6, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Sector 6, Gomti Nagar",
+    "latitude": 26.838275199999998,
+    "longitude": 81.01321209999999,
+    "place_id": "ChIJvYlC-InjmzkRXshGh7FCOXo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvYlC-InjmzkRXshGh7FCOXo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:35:09"
+  }
+]

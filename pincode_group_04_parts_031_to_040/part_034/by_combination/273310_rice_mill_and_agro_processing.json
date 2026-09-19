@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rice",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "273310",
+    "phone_number": "+91 82997 38972",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khaincha, Uttar Pradesh 273310",
+    "area": "273310",
+    "latitude": 27.0461846,
+    "longitude": 83.4832668,
+    "place_id": "ChIJBeQq7LKtljkRo0dLDDnCbdw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBeQq7LKtljkRo0dLDDnCbdw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:53:29"
+  },
+  {
+    "business_name": "Rani Sati Rice Mill Private Limited",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "273310",
+    "phone_number": "+91 94370 90018",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 4,
+    "address": "At- Manakahani, Po- Kasabajaypur,, Via- Khantapara, Balasore, Odisha 756043",
+    "area": "273310",
+    "latitude": 21.399977,
+    "longitude": 86.789389,
+    "place_id": "ChIJDwAAAANnHDoRh73UO_U-vZ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDwAAAANnHDoRh73UO_U-vZ8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:53:30"
+  }
+]

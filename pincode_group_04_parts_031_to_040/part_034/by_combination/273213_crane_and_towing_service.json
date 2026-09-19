@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Crane services",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Auto body shop",
+    "all_categories": "Auto body shop",
+    "pincode": "273213",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Raja Ka Taal, Uttar Pradesh 283203",
+    "area": "273213",
+    "latitude": 27.183113799999997,
+    "longitude": 78.3507839,
+    "place_id": "ChIJU2GlPAtDdDkRhjBqWz8Sta0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU2GlPAtDdDkRhjBqWz8Sta0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:35:45"
+  },
+  {
+    "business_name": "Care Crane Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane service",
+    "all_categories": "Crane service",
+    "pincode": "273213",
+    "phone_number": "+91 83830 61580",
+    "website": "http://carcranetowingservice.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HM85+2PG, near green CNG pump, Sector 18, Vrindavan, Uttar Pradesh 281121",
+    "area": "Sector 18",
+    "latitude": 27.5650566,
+    "longitude": 77.659342,
+    "place_id": "ChIJAQAAAARuczkRKa7Kpv45H74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAARuczkRKa7Kpv45H74",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:35:45"
+  }
+]

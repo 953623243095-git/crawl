@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Walking BookFairs",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "273309",
+    "phone_number": "+91 85980 13877",
+    "website": "http://www.walkingbookfairs.in/",
+    "rating": 4.7,
+    "reviews_count": 1408,
+    "address": "HIG 34, first floor, Khandagiri H.B. colony, Phase 1, hospital road, Kolathia, Khandagiri, Manipal, Bhubaneswar, Odisha 751030",
+    "area": "Phase I, Kolathia, Khandagiri",
+    "latitude": 20.255691,
+    "longitude": 85.78001619999999,
+    "place_id": "ChIJIz3XZMKnGToR0NvyfccNXII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIz3XZMKnGToR0NvyfccNXII",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:51:17"
+  },
+  {
+    "business_name": "Manas book store",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "273309",
+    "phone_number": "+91 96580 51781",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 474,
+    "address": "City College Entry, Rajabagicha, Kataka, Odisha 753009",
+    "area": "Rajabagicha",
+    "latitude": 20.4578089,
+    "longitude": 85.8741434,
+    "place_id": "ChIJ3af_fqINGToRutcGgHzv8ic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3af_fqINGToRutcGgHzv8ic",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:51:17"
+  }
+]

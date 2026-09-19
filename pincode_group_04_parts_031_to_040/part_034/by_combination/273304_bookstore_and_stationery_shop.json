@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Book Centre",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Book store",
+    "pincode": "273304",
+    "phone_number": "+91 99191 47550",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "1. Mandi To Nichlaul Road, Katara Chaurha, near by Reliance Mart, Lihiya Nagar, Nichlaul, Maharajganj, Uttar Pradesh 273304",
+    "area": "Lihiya Nagar",
+    "latitude": 27.316674799999998,
+    "longitude": 83.7217192,
+    "place_id": "ChIJ4YFj660ZlDkRyAEm3_b0EiE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4YFj660ZlDkRyAEm3_b0EiE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:43:50"
+  },
+  {
+    "business_name": "Verma Pustak Bhandar",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "273304",
+    "phone_number": "+91 99352 45909",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gudaicha Rampur, mathura road, Gudaicha, Uttar Pradesh 261201",
+    "area": "Gudaicha",
+    "latitude": 27.406174999999998,
+    "longitude": 81.20454079999999,
+    "place_id": "ChIJ7QO4CAsXmTkRyI1z2MHCtN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7QO4CAsXmTkRyI1z2MHCtN4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:43:51"
+  }
+]

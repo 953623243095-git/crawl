@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ojha Medicine",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "273213",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Ragghupur, Uttar Pradesh 273213",
+    "area": "273213",
+    "latitude": 26.5232836,
+    "longitude": 83.2435167,
+    "place_id": "ChIJ3_RKts8TkTkRhIKV2MkU1DU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3_RKts8TkTkRhIKV2MkU1DU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:36:00"
+  },
+  {
+    "business_name": "Primary Health Center, Uruwa Bazar",
+    "search_category": "Wellness Center",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital",
+    "pincode": "273213",
+    "phone_number": "+91 98076 26959",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 29,
+    "address": "F735+47G, State Highway 81, Uruwa Bazar, Uruwa Bazzar, Bhuidhara Bujurg, Uttar Pradesh 273407",
+    "area": "Uruwa Bazar",
+    "latitude": 26.4528018,
+    "longitude": 83.2581903,
+    "place_id": "ChIJ5bO-_lZtkTkR7pTNYqPgBsY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5bO-_lZtkTkR7pTNYqPgBsY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:36:02"
+  }
+]

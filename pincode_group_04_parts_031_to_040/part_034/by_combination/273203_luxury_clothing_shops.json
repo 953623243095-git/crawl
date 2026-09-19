@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Fashion World",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "273203",
+    "phone_number": "+91 88403 26292",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "135A, Rustampur Rd, Manaspuram, Mahuesugharpur, Azad Nagar, Gorakhpur, Uttar Pradesh 273016",
+    "area": "Manaspuram, Mahuesugharpur, Azad Nagar",
+    "latitude": 26.7310353,
+    "longitude": 83.3698762,
+    "place_id": "ChIJ2eSO34VDkTkRU2qgLDrQuDk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2eSO34VDkTkRU2qgLDrQuDk",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:26:03"
+  },
+  {
+    "business_name": "Royal Fashion And Fragrance Store",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Perfume store",
+    "all_categories": "Perfume store, Clothing store, Clothing Accessories Store",
+    "pincode": "273203",
+    "phone_number": "+91 70213 75374",
+    "website": "http://www.instagram.com/royalfashionstorein",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Dupatta Gali, Reti Chowk Rd, near medina masjid, Qazipur Khurd, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Qazipur Khurd",
+    "latitude": 26.747324499999998,
+    "longitude": 83.358856,
+    "place_id": "ChIJOeZ-OY1FkTkR-JSDV0PUYII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOeZ-OY1FkTkR-JSDV0PUYII",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:26:03"
+  }
+]

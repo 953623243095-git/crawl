@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Annpurna Dosa-Idli Center & Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "273212",
+    "phone_number": "+91 97217 88000",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "near Bholenath Mandir, Teachers Colony, Peppeganj, Uttar Pradesh 273016",
+    "area": "Teachers Colony",
+    "latitude": 26.7294494,
+    "longitude": 83.33515969999999,
+    "place_id": "ChIJ4Sh3hxtBkTkRSW1cZOJMd4w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Sh3hxtBkTkRSW1cZOJMd4w",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:33:15"
+  },
+  {
+    "business_name": "RR Cafe",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "273212",
+    "phone_number": "+91 99203 81045",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opp. New Ravi jal pan grih, Ekala, Bhilora Buzurg, Gorakhpur, Uttar Pradesh 273016",
+    "area": "Ekala",
+    "latitude": 26.7172265,
+    "longitude": 83.3302418,
+    "place_id": "ChIJ7yyx_nlBkTkRnYhQJIs_bWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7yyx_nlBkTkRnYhQJIs_bWA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:33:15"
+  }
+]

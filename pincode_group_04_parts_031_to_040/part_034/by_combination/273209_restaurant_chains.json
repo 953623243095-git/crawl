@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Delicious pizza 2",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "273209",
+    "phone_number": "+91 75248 68040",
+    "website": "https://deliciouspizza2.netlify.app/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Main Market, Sahjanwa, Uttar Pradesh 273209",
+    "area": "Main Market",
+    "latitude": 26.7600472,
+    "longitude": 83.2143414,
+    "place_id": "ChIJ26yFgPs5kTkRaD4hyqWG5u8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ26yFgPs5kTkRaD4hyqWG5u8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:29:31"
+  },
+  {
+    "business_name": "Pizza Vizza Sahjanwa",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "273209",
+    "phone_number": "+91 95952 07814",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 134,
+    "address": "NH28, nh28, near Pizza Wizza, Sahjanwa, Uttar Pradesh 273209",
+    "area": "GIDA Industrial Area Phase 1",
+    "latitude": 26.7531218,
+    "longitude": 83.2150892,
+    "place_id": "ChIJE41-FT45kTkRSMCUPZt7vMc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE41-FT45kTkRSMCUPZt7vMc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:29:31"
+  }
+]

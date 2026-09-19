@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaiswal Oil & Flour Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "273209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "J7HW+HR2, Kasba Sangrampur, Uttar Pradesh 273406",
+    "area": "273209",
+    "latitude": 26.6288909,
+    "longitude": 83.29702789999999,
+    "place_id": "ChIJ6WN5XgBrkTkRu3B3mzwAl-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6WN5XgBrkTkRu3B3mzwAl-A",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:30:57"
+  },
+  {
+    "business_name": "Shri Shyam Flour Mill And Oil Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "273209",
+    "phone_number": "+91 70560 09922",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shri Khatu Shyam Bhawan, Parsiya Bhaisa Marg, near Durga Mandir, Lonav, Kohata Ghurhoo, Uttar Pradesh 273212",
+    "area": "Lonav",
+    "latitude": 26.574320999999998,
+    "longitude": 83.2789439,
+    "place_id": "ChIJ7QECv4lrkTkRrP-MPJBb1Lc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7QECv4lrkTkRrP-MPJBb1Lc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:30:59"
+  }
+]

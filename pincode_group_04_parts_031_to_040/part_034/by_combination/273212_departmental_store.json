@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sainik Kerana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "273212",
+    "phone_number": "+91 62392 65212",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Khajani - Gorakhpur Rd, New Colony, Haraya, Gorakhpur, Uttar Pradesh 273016",
+    "area": "New Colony",
+    "latitude": 26.732446399999997,
+    "longitude": 83.3219943,
+    "place_id": "ChIJBb8MTi1BkTkRjAe3H6zx1zk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBb8MTi1BkTkRjAe3H6zx1zk",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:33:05"
+  },
+  {
+    "business_name": "Spencer's Ad Mall",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "273212",
+    "phone_number": "N/A",
+    "website": "http://www.spencersretail.com/store-list?spencer_type=2&store_city=Gorakhpur",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Spencer ADMall, Gorakhpur, Uttar Pradesh 273406",
+    "area": "273212",
+    "latitude": 26.626635099999998,
+    "longitude": 83.2953485,
+    "place_id": "ChIJodFvQg5rkTkRPG7vYKmB26Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJodFvQg5rkTkRPG7vYKmB26Y",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:33:07"
+  }
+]

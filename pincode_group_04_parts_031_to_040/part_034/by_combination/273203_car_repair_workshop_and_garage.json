@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Santosh Auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "273203",
+    "phone_number": "+91 93356 01020",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "0, Katai, Gorakhpur, Uttar Pradesh 274202",
+    "area": "273203",
+    "latitude": 26.5218359,
+    "longitude": 83.6190455,
+    "place_id": "ChIJU69xcGjZkzkRKmOVS_8Y3H8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU69xcGjZkzkRKmOVS_8Y3H8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:26:12"
+  },
+  {
+    "business_name": "M/A Motor Car Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "273203",
+    "phone_number": "+91 63860 40167",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sikriganj - Belghat Rd, Hardatpur, Uttar Pradesh 273213",
+    "area": "Hardatpur",
+    "latitude": 26.491125999999998,
+    "longitude": 83.2153642,
+    "place_id": "ChIJH34Z4h8TkTkR0MWhiVIZ-Cc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH34Z4h8TkTkR0MWhiVIZ-Cc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:26:14"
+  }
+]

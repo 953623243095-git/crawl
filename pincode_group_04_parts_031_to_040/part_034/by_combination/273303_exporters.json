@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjeev Gupta",
+    "search_category": "Exporters",
+    "primary_category": "Garment Exporter",
+    "all_categories": "Garment Exporter",
+    "pincode": "273303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lohia Nagar, Subhas nagar, Maharajganj, Uttar Pradesh 273303",
+    "area": "Lohia Nagar, Subhas nagar",
+    "latitude": 27.1445835,
+    "longitude": 83.56225049999999,
+    "place_id": "ChIJU6uL3cKpljkRUrtMjarU9lU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU6uL3cKpljkRUrtMjarU9lU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:42:23"
+  },
+  {
+    "business_name": "RD Layer Farm",
+    "search_category": "Exporters",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "273303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Sonara, Chowk Rd, Maharajganj, Uttar Pradesh 273303",
+    "area": "273303",
+    "latitude": 27.176760599999998,
+    "longitude": 83.5532065,
+    "place_id": "ChIJ3x9_ocypljkRK1-9gM_CaY4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3x9_ocypljkRK1-9gM_CaY4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:42:24"
+  }
+]

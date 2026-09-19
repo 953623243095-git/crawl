@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Supreme Highway Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "273309",
+    "phone_number": "+91 93143 34110",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "M44W+CFV, Kanwarpura, Gordhanpura, Rajasthan 303108",
+    "area": "273309",
+    "latitude": 27.6561105,
+    "longitude": 76.1461626,
+    "place_id": "ChIJF2WpkTNBbTkRzap4fQ8-548",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF2WpkTNBbTkRzap4fQ8-548",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:50:14"
+  },
+  {
+    "business_name": "BABA KA DHABA",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "273309",
+    "phone_number": "+91 84178 18482",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 12,
+    "address": "78RP+JMP, Gorakhpur - Sonauli Rd, Badihari, Uttar Pradesh 273309",
+    "area": "273309",
+    "latitude": 27.2915843,
+    "longitude": 83.3366944,
+    "place_id": "ChIJT7ef1SS7ljkRIC4PWW52Zk8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT7ef1SS7ljkRIC4PWW52Zk8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:50:15"
+  }
+]

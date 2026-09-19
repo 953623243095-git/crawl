@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Simran designer boutique",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "273310",
+    "phone_number": "+91 95274 04128",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 400,
+    "address": "Shop no 18, mahavir market, shyam chowk, opp. J.D.Mall, Amrawati Tahsil, Amravati, Maharashtra 444601",
+    "area": "Amrawati Tahsil",
+    "latitude": 20.9296762,
+    "longitude": 77.75333599999999,
+    "place_id": "ChIJkXio2a6k1jsRRhl-dlFHZNo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkXio2a6k1jsRRhl-dlFHZNo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:52:10"
+  },
+  {
+    "business_name": "Tailor No1",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "273310",
+    "phone_number": "+91 96437 75501",
+    "website": "http://tailorno1.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "shop no-36(LGF, Jaipuria Sunrise Plaza, Ahinsa Khand 1, Indirapuram, Ghaziabad, Uttar Pradesh 201014",
+    "area": "Ahinsa Khand 1, Indirapuram",
+    "latitude": 28.6397975,
+    "longitude": 77.378097,
+    "place_id": "ChIJf7qceXT7DDkR2_dqsSGAy6k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf7qceXT7DDkR2_dqsSGAy6k",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:52:11"
+  }
+]

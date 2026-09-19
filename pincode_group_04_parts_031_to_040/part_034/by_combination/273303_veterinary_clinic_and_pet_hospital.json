@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pet’s-ON Animal Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "273303",
+    "phone_number": "+91 88902 65386",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 48,
+    "address": "opp. Manbhavan balaji mandir, near bank of Baroda, Ramganj, Ajmer, Rajasthan 305001",
+    "area": "Ramganj",
+    "latitude": 26.4283701,
+    "longitude": 74.6366087,
+    "place_id": "ChIJveiSAwTnazkR1Kqaj80nrcE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJveiSAwTnazkR1Kqaj80nrcE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:41:12"
+  },
+  {
+    "business_name": "Surya VET Medical",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinary pharmacy",
+    "all_categories": "Veterinary pharmacy",
+    "pincode": "273303",
+    "phone_number": "+91 86602 94580",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "indhira canteen, Near government Hospitals, opposite Kollegal, Karnataka 571440",
+    "area": "273303",
+    "latitude": 12.157516999999999,
+    "longitude": 77.1113663,
+    "place_id": "ChIJ8yQH8nMfrzsR8ljQvE5F43Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8yQH8nMfrzsR8ljQvE5F43Y",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:41:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinay Pustak Sadan",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "273306",
+    "phone_number": "+91 89623 62667",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shri Nath Ki Talleyya Rd, Gole Bazar, Wright Town, Jabalpur, Madhya Pradesh 482002",
+    "area": "Gole Bazar, Wright Town",
+    "latitude": 23.170975,
+    "longitude": 79.9313525,
+    "place_id": "ChIJBZQkvBCugTkRjmQBpOQfRbA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBZQkvBCugTkRjmQBpOQfRbA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:47:35"
+  },
+  {
+    "business_name": "Kushwaha Pustak Kendra",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Stationery store",
+    "pincode": "273306",
+    "phone_number": "+91 93013 09263",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "334, Super Market, Near Punjab National Bank, Datt Mandir Road, Malviya Chowk, Jabalpur, Madhya Pradesh 482002",
+    "area": "Gole Bazar, Wright Town",
+    "latitude": 23.170845699999997,
+    "longitude": 79.93136489999999,
+    "place_id": "ChIJ01RelhCugTkRQcXjOzAUtVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ01RelhCugTkRQcXjOzAUtVg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:47:35"
+  }
+]

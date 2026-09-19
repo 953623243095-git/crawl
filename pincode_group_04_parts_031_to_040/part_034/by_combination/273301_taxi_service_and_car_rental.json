@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hire Himachal Cab",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Tour operator, Travel agency",
+    "pincode": "273301",
+    "phone_number": "+91 62302 61947",
+    "website": "https://hirehimachalcab.com/",
+    "rating": 4.4,
+    "reviews_count": 398,
+    "address": "Vill.Mohin, Teh.Sarkaghat, PO, Mohin Socity, Distt, Gopalpur, Himachal Pradesh 175007",
+    "area": "273301",
+    "latitude": 31.643985299999997,
+    "longitude": 76.7346125,
+    "place_id": "ChIJs7t-odTYBDkRQoYi_lWA8EQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs7t-odTYBDkRQoYi_lWA8EQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:37:33"
+  },
+  {
+    "business_name": "Maharana Cab Delhi | Taxi & Urbania Tempo Traveller Rental",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Bus tour agency, Minibus taxi service, Sightseeing Tour Operator, Van rental agency",
+    "pincode": "273301",
+    "phone_number": "+91 77374 33399",
+    "website": "https://maharanacab.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Nangal Dewat, Sector D, Vasant Kunj, New Delhi, Delhi 110070",
+    "area": "Nangal Dewat, Sector D, Vasant Kunj",
+    "latitude": 28.528209099999998,
+    "longitude": 77.1405178,
+    "place_id": "ChIJdW7GyM0dDTkRqza7z-qFHEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdW7GyM0dDTkRqza7z-qFHEM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:37:33"
+  }
+]

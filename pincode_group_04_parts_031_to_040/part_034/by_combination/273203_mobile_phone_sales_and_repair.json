@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mobile factory",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "273203",
+    "phone_number": "+91 63064 83007",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 26,
+    "address": "00, Arya Nagar North, North Humayunpur, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Arya Nagar North, North Humayunpur",
+    "latitude": 26.7621526,
+    "longitude": 83.3633502,
+    "place_id": "ChIJeX8EDwBFkTkRuWbpSGn4nog",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeX8EDwBFkTkRuWbpSGn4nog",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:27:01"
+  },
+  {
+    "business_name": "Arsh Mobile Shop & Repairing Centre",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop, Phone repair service",
+    "pincode": "273203",
+    "phone_number": "+91 94516 45510",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jharkhandi Mandir Rd, near Pradushan Office, Mahadev Jharkhandi, Awas Vikas Colony, Rapti Nagar Phase-4, Gorakhpur, Uttar Pradesh 273008",
+    "area": "Mahadev Jharkhandi, Awas Vikas Colony, Rapti Nagar Phase-4",
+    "latitude": 26.740466899999998,
+    "longitude": 83.4186689,
+    "place_id": "ChIJ3-LF1fJdkTkR3CEhrNfAkwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3-LF1fJdkTkR3CEhrNfAkwo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:27:02"
+  }
+]

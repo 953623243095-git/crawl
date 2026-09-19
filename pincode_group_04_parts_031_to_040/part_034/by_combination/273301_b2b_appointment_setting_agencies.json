@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Max international",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter",
+    "pincode": "273301",
+    "phone_number": "+91 96218 04144",
+    "website": "https://newmaxinternational.in/",
+    "rating": 4.2,
+    "reviews_count": 15,
+    "address": "GAYATRINAGAR, BALOCHAHA, Chhawani, Padrauna, Uttar Pradesh 274304",
+    "area": "GAYATRINAGAR, BALOCHAHA, Chhawani",
+    "latitude": 26.8991436,
+    "longitude": 83.96748629999999,
+    "place_id": "ChIJlZqQM3iNkzkRsfSQknoX974",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlZqQM3iNkzkRsfSQknoX974",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:38:38"
+  },
+  {
+    "business_name": "Om Information Center & Cyber Cafe",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "273301",
+    "phone_number": "+91 88961 26359",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pakdri Dixit, 6, Maharajganj, Pakari, Uttar Pradesh 273301",
+    "area": "273301",
+    "latitude": 27.001865199999997,
+    "longitude": 83.61702849999999,
+    "place_id": "ChIJc7byc3f_kzkR3xiJLcupLh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc7byc3f_kzkR3xiJLcupLh8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:38:40"
+  }
+]

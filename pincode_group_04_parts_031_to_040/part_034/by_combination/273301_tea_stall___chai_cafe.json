@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai & chill",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "273301",
+    "phone_number": "+91 78706 19030",
+    "website": "http://chaiandchill1.blogspot.com/?m=1",
+    "rating": 4.3,
+    "reviews_count": 326,
+    "address": "QFHQ+V67, Ashiyana Colony, Line Bazar, Purnia, Bihar 854301",
+    "area": "Ashiyana Colony, Line Bazar",
+    "latitude": 25.7796582,
+    "longitude": 87.4880378,
+    "place_id": "ChIJ_2BXOnr57zkRoiE1CU0dGoU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_2BXOnr57zkRoiE1CU0dGoU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:37:01"
+  },
+  {
+    "business_name": "Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "273301",
+    "phone_number": "+91 80892 95869",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chowk Rd, near by Petrol Pump, Baijnathpur, Maharajganj, Siswania, Uttar Pradesh 273303",
+    "area": "Baijnathpur",
+    "latitude": 27.1944368,
+    "longitude": 83.5623222,
+    "place_id": "ChIJiTY6vp6pljkRyVAAcWQvGgI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiTY6vp6pljkRyVAAcWQvGgI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:37:02"
+  }
+]

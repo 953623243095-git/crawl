@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Up Pest Control",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Pest control service",
+    "all_categories": "Pest control service",
+    "pincode": "273202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Shivpur Rd, Singhariya, Awas Vikas Colony, Praqriti Nagar, Gorakhpur, Uttar Pradesh 273008",
+    "area": "Singhariya, Awas Vikas Colony, Praqriti Nagar",
+    "latitude": 26.734073799999997,
+    "longitude": 83.4230785,
+    "place_id": "ChIJFVRPN6pdkTkRM_zZFkpBkzU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFVRPN6pdkTkRM_zZFkpBkzU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:25:10"
+  },
+  {
+    "business_name": "Classic Dry Cleaners",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Dry cleaner",
+    "all_categories": "Dry cleaner",
+    "pincode": "273202",
+    "phone_number": "+91 97923 03693",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Divya Nagar, ranidiha, Gorakhpur, Uttar Pradesh 273010",
+    "area": "Divya Nagar, ranidiha",
+    "latitude": 26.722951499999997,
+    "longitude": 83.43470339999999,
+    "place_id": "ChIJe44INrpckTkRd47tykcu95M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe44INrpckTkRd47tykcu95M",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:25:10"
+  }
+]

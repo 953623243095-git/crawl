@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CSC",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "273302",
+    "phone_number": "+91 98894 23534",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "XHPF+M2W, Patti Narendra Pur, Road, Khutahan, Uttar Pradesh 223104",
+    "area": "273302",
+    "latitude": 25.986743999999998,
+    "longitude": 82.572576,
+    "place_id": "ChIJiZyUqnxCkDkRAAAAMF7bvSU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiZyUqnxCkDkRAAAAMF7bvSU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:40:04"
+  },
+  {
+    "business_name": "CSC Centre",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "273302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3GRM+XJ8, Pharend - Maharajganj Rd, Lohia Nagar, Bismil Nagar, Maharajganj, Beilia, Uttar Pradesh 273303",
+    "area": "Lohia Nagar, Bismil Nagar",
+    "latitude": 27.0924142,
+    "longitude": 83.5340725,
+    "place_id": "ChIJVTq86VWrljkR_jnFM4LFJ-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVTq86VWrljkR_jnFM4LFJ-Y",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:40:06"
+  }
+]

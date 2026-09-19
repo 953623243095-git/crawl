@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fertilizer store",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store",
+    "pincode": "273304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7H63+G5H, Sonari Rd, Dharmauli, Uttar Pradesh 273312",
+    "area": "273304",
+    "latitude": 27.2613126,
+    "longitude": 83.55299579999999,
+    "place_id": "ChIJm3B0yrCnljkRrSNeuRukazc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm3B0yrCnljkRrSNeuRukazc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:44:14"
+  },
+  {
+    "business_name": "Singh khad Ajency",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store",
+    "pincode": "273304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "6RJF+WVQ, Khaddha, Madanpur Sukrauli, Uttar Pradesh 273163",
+    "area": "273304",
+    "latitude": 27.2323408,
+    "longitude": 83.8247404,
+    "place_id": "ChIJj3D5YCMRlDkRSMfZyf4OsTo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj3D5YCMRlDkRSMfZyf4OsTo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:44:14"
+  }
+]

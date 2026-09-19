@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonu And Monu Fast Food",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Fast food restaurant, Indian restaurant, Grocery store",
+    "pincode": "273213",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 222,
+    "address": "1, Uruwa Bazar, Kata Bujurg, Uttar Pradesh 273407",
+    "area": "Uruwa Bazar",
+    "latitude": 26.4559973,
+    "longitude": 83.2534266,
+    "place_id": "ChIJp9DVrVdtkTkReOoe0dUhixU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp9DVrVdtkTkReOoe0dUhixU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:35:07"
+  },
+  {
+    "business_name": "Sugandh’s Multi-Cuisine Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "273213",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 22,
+    "address": "Daswatpur Pull, SH 81, Bharthari, Uttar Pradesh 273403",
+    "area": "273213",
+    "latitude": 26.5206649,
+    "longitude": 83.2813856,
+    "place_id": "ChIJp4ub5OhtkTkR99BoFAH0nfY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp4ub5OhtkTkR99BoFAH0nfY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:35:07"
+  }
+]

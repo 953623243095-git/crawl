@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Metropolis Labs Blood Test & Diagnostic Centre In Gorakhpur",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service, Medical laboratory, Pathologist, Wellness center",
+    "pincode": "273209",
+    "phone_number": "+91 11 4116 8213",
+    "website": "https://www.metropolisindia.com/lab/diagnostic-centre-in-ward-no-35-surajkund-colony-gorakhpur",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward No 35, 28D, New Colony Madhopur, Surajkund Colony, Gorakhpur, Uttar Pradesh 273015",
+    "area": "New Colony Madhopur, Surajkund Colony",
+    "latitude": 26.769010299999998,
+    "longitude": 83.34358999999999,
+    "place_id": "ChIJsflL6OKl1jsReR2_F7yPFHQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsflL6OKl1jsReR2_F7yPFHQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:29:54"
+  },
+  {
+    "business_name": "Nayansi Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "273209",
+    "phone_number": "+91 92362 45470",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Khajani - Gorakhpur Rd, Katwar, Uttar Pradesh 273212",
+    "area": "273209",
+    "latitude": 26.669819999999998,
+    "longitude": 83.24829199999999,
+    "place_id": "ChIJo0ghgZpAkTkRuHa9r3hMGrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo0ghgZpAkTkRuHa9r3hMGrI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:29:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Blackhawk Detailing",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "273202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QC3J+RXF, Sainik Kunj, Nanda Nagar, Gorakhpur, Uttar Pradesh 273008",
+    "area": "Sainik Kunj, Nanda Nagar",
+    "latitude": 26.7545581,
+    "longitude": 83.4324288,
+    "place_id": "ChIJ15KAEwBbkTkREHcumOxKd4c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ15KAEwBbkTkREHcumOxKd4c",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:24:15"
+  },
+  {
+    "business_name": "Shivay Gadi Dhulai Center",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "273202",
+    "phone_number": "+91 83818 59112",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 9,
+    "address": "Road, Kasihar - Malawe Rd, Malaon Mus, Hardiya, Uttar Pradesh 273413",
+    "area": "273202",
+    "latitude": 26.5762798,
+    "longitude": 83.4272929,
+    "place_id": "ChIJUdPQ-T5nkTkR9gmY_W61cX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUdPQ-T5nkTkR9gmY_W61cX4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:24:17"
+  }
+]

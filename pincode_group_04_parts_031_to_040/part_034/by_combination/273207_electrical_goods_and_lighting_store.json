@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Classic Electric & Electronic",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "273207",
+    "phone_number": "+91 97926 33179",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shikarpur, Darauli Road, opposite Nagar Sahkari Bank, Maharajganj, Uttar Pradesh 273302",
+    "area": "273207",
+    "latitude": 27.1004474,
+    "longitude": 83.607103,
+    "place_id": "ChIJEVJ76TIBlDkRyMLaX6A_7qs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEVJ76TIBlDkRyMLaX6A_7qs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:28:13"
+  },
+  {
+    "business_name": "Shree shyam electronics",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "273207",
+    "phone_number": "+91 95717 97902",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Brij Nagar, Bharatpur Chak 2, Rajasthan 321001",
+    "area": "Brij Nagar",
+    "latitude": 27.211573899999998,
+    "longitude": 77.52312909999999,
+    "place_id": "ChIJEd4Gcq6jczkRxwgzY6esOsA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEd4Gcq6jczkRxwgzY6esOsA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:28:15"
+  }
+]

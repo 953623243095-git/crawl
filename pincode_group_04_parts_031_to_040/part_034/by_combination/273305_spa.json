@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anuj Seeds Store",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "273305",
+    "phone_number": "+91 75239 35585",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Nautanwa, Uttar Pradesh 273308",
+    "area": "273305",
+    "latitude": 27.43649,
+    "longitude": 83.52251249999999,
+    "place_id": "ChIJLwZKPmKfljkRjpHjVlHsUNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLwZKPmKfljkRjpHjVlHsUNc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:45:21"
+  },
+  {
+    "business_name": "Suman Beauty Parlour",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "273305",
+    "phone_number": "+91 91201 45424",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rauniyar, Bargadava, Uttar Pradesh 273305",
+    "area": "Rauniyar",
+    "latitude": 27.440478499999998,
+    "longitude": 83.6424511,
+    "place_id": "ChIJSwvWGPMhlDkRximelIEo-WU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSwvWGPMhlDkRximelIEo-WU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:45:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anuj Studio",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "273302",
+    "phone_number": "+91 91257 08175",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Katahri Mrj, Anarutia, Maharajganj, Uttar Pradesh 273303",
+    "area": "Anarutia",
+    "latitude": 27.140939399999997,
+    "longitude": 83.5658577,
+    "place_id": "ChIJ3xowobypljkRYsJyz6ildKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3xowobypljkRYsJyz6ildKg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:39:50"
+  },
+  {
+    "business_name": "Sagar Photography",
+    "search_category": "Photographers",
+    "primary_category": "Photographer",
+    "all_categories": "Photographer",
+    "pincode": "273302",
+    "phone_number": "+91 89489 50087",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5H66+5V2, Gabarua, Maharajganj, Uttar Pradesh 273303",
+    "area": "Gabarua",
+    "latitude": 27.159864499999998,
+    "longitude": 83.56184669999999,
+    "place_id": "ChIJyZ6SUACpljkRSghnU8oR3pU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyZ6SUACpljkRSghnU8oR3pU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:39:51"
+  }
+]

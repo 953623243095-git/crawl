@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BROWN CAFE & RESTAURANT",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "273209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "NH 28, in front of Gupta petroleum, Sahjanwa, Uttar Pradesh 273209",
+    "area": "273209",
+    "latitude": 26.7528759,
+    "longitude": 83.2179397,
+    "place_id": "ChIJ170zsLc5kTkRx8BNEWlmEgY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ170zsLc5kTkRx8BNEWlmEgY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:29:32"
+  },
+  {
+    "business_name": "Ekta Roll Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "273209",
+    "phone_number": "+91 63878 60879",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ekta Roll Corner, Gorakhnath Temple, Gorakhpur, Sahjanwa, Uttar Pradesh 273209",
+    "area": "273209",
+    "latitude": 26.763787299999997,
+    "longitude": 83.2143811,
+    "place_id": "ChIJt-pJ4VE5kTkR0jRVooaZR2w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt-pJ4VE5kTkR0jRVooaZR2w",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:29:32"
+  }
+]

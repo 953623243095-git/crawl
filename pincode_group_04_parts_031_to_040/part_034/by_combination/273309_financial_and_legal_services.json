@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunny S. Kalangutkar",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Lawyer",
+    "all_categories": "Lawyer",
+    "pincode": "273309",
+    "phone_number": "+91 98908 04072",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "2nd floor, Shetye Wada, Saldhana Co-Op Hsg Society, A block, near Zonal Agricultural office, Mapusa, Goa 403507",
+    "area": "273309",
+    "latitude": 15.595779299999998,
+    "longitude": 73.81739519999999,
+    "place_id": "ChIJuQIaoObqvzsRGaV-5M34Q3w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuQIaoObqvzsRGaV-5M34Q3w",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:51:34"
+  },
+  {
+    "business_name": "Raghav Associates (Adv Dheeraj Raghav)",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Criminal justice attorney",
+    "all_categories": "Criminal justice attorney, Law firm",
+    "pincode": "273309",
+    "phone_number": "N/A",
+    "website": "https://dheerajraghav.com/",
+    "rating": 5,
+    "reviews_count": 30,
+    "address": "Court Complex, Chamber No-310, western wing, Tis Hazari, New Delhi, Delhi 110054",
+    "area": "Tis Hazari",
+    "latitude": 28.665030599999998,
+    "longitude": 77.2168903,
+    "place_id": "ChIJmT8rcwD9DDkROXgtXdPBdTw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmT8rcwD9DDkROXgtXdPBdTw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:51:34"
+  }
+]

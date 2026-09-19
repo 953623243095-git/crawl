@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Capital Luxury Estates",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Commercial real estate agency, Real Estate Builders & Construction Company, Industrial real estate agency, Real estate rental agency",
+    "pincode": "273201",
+    "phone_number": "+91 80765 16890",
+    "website": "https://capital-luxury-estates.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Khasra no 365, Sultanpur Heart, near Avalon Country South, New Manglapuri, Sultanpur, New Delhi, Delhi 110030",
+    "area": "New Manglapuri, Sultanpur",
+    "latitude": 28.5017082,
+    "longitude": 77.1686921,
+    "place_id": "ChIJd1sDk85o5KAR4qGqOrKfo0M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd1sDk85o5KAR4qGqOrKfo0M",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:23:21"
+  },
+  {
+    "business_name": "Premier Properties",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "273201",
+    "phone_number": "+91 96254 38388",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Block B, Sewak Park, Dwarka, Delhi, 110059",
+    "area": "Block B, Sewak Park, Dwarka",
+    "latitude": 28.616610299999998,
+    "longitude": 77.0356734,
+    "place_id": "ChIJW3TImjcFDTkROuPaQhxryhw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW3TImjcFDTkROuPaQhxryhw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:23:21"
+  }
+]

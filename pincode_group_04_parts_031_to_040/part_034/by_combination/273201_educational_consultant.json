@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "nazo",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "273201",
+    "phone_number": "+91 78526 15449",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bal Bujurg, Uttar Pradesh 273201",
+    "area": "273201",
+    "latitude": 26.641302999999997,
+    "longitude": 83.6029116,
+    "place_id": "ChIJZ6sDhQTfkzkR30alqmJOlxQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ6sDhQTfkzkR30alqmJOlxQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:23:04"
+  },
+  {
+    "business_name": "Smart Value",
+    "search_category": "Educational Consultant",
+    "primary_category": "Institute of technology",
+    "all_categories": "Institute of technology",
+    "pincode": "273201",
+    "phone_number": "+91 124 478 4784",
+    "website": "http://www.smartvalue.biz/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "JHWM+M36, Gorakhpur - Deoria Hwy, Chauri Chaura, Dumari Khurd, Uttar Pradesh 273201",
+    "area": "273201",
+    "latitude": 26.6466656,
+    "longitude": 83.5826506,
+    "place_id": "ChIJbZGqqa9hkTkRgGLr4OIiNxQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbZGqqa9hkTkRgGLr4OIiNxQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:23:06"
+  }
+]

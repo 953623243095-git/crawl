@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cycle repairing shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "273305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GP2H+XP2, Sarawal, Lumbini Province 33007, Nepal",
+    "area": "273305",
+    "latitude": 27.502376299999998,
+    "longitude": 83.72925339999999,
+    "place_id": "ChIJGdzYNwAjlDkR3Y5LXIfW5rM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGdzYNwAjlDkR3Y5LXIfW5rM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:45:05"
+  },
+  {
+    "business_name": "Patel bike Workshop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "273305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CMVR+7V2, Ramgram - Harpur Rd, Harpur, Lumbini Province 33007, Nepal",
+    "area": "273305",
+    "latitude": 27.442913899999997,
+    "longitude": 83.69260799999999,
+    "place_id": "ChIJyTUgL38jlDkRO7Z6najyaBc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyTUgL38jlDkRO7Z6najyaBc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:45:05"
+  }
+]

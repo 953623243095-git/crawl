@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Netra Pramarsh Kendra",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "273213",
+    "phone_number": "+91 98392 49542",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "36, Dhuriyapar, Uttar Pradesh 273407",
+    "area": "273213",
+    "latitude": 26.4164237,
+    "longitude": 83.2466228,
+    "place_id": "ChIJ3906wjsNkTkRg20mO2aPlgU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3906wjsNkTkRg20mO2aPlgU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:36:00"
+  },
+  {
+    "business_name": "Budda Pathology",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "273213",
+    "phone_number": "+91 97937 21837",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6, Uruwa Bazar, Uttar Pradesh 273407",
+    "area": "Uruwa Bazar",
+    "latitude": 26.4545149,
+    "longitude": 83.25899509999999,
+    "place_id": "ChIJD5UbK3ptkTkRbBBpDqaVbEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD5UbK3ptkTkRbBBpDqaVbEA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:36:00"
+  }
+]

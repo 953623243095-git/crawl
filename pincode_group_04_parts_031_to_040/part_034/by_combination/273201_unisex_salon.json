@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AMB Unisex Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "273201",
+    "phone_number": "N/A",
+    "website": "https://ambunisexsalon.com/",
+    "rating": 4.9,
+    "reviews_count": 42,
+    "address": "Deoria Rd, Gauri Bazar, Uttar Pradesh 274202",
+    "area": "273201",
+    "latitude": 26.598748999999998,
+    "longitude": 83.6739194,
+    "place_id": "ChIJcW7qSoTfkzkRkiZnmYcadW8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcW7qSoTfkzkRkiZnmYcadW8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:22:44"
+  },
+  {
+    "business_name": "Shailesh Sharma hair salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Nail salon",
+    "all_categories": "Nail salon",
+    "pincode": "273201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PH7P+GMV, Dumari Khas, Chhapra Mansoor, Uttar Pradesh 273202",
+    "area": "273201",
+    "latitude": 26.7138761,
+    "longitude": 83.5866662,
+    "place_id": "ChIJYW-qZABfkTkRedUPOcj8xSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYW-qZABfkTkRedUPOcj8xSg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:22:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayush garments",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "273301",
+    "phone_number": "+91 95063 12905",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Partawal, Uttar Pradesh 273301",
+    "area": "273301",
+    "latitude": 26.9653378,
+    "longitude": 83.6106313,
+    "place_id": "ChIJ74JeewH_kzkRJuAFgxJ_yqs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ74JeewH_kzkRJuAFgxJ_yqs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:37:14"
+  },
+  {
+    "business_name": "Vasundhara boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "273301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XJ66+V35, Partawal, Uttar Pradesh 273301",
+    "area": "273301",
+    "latitude": 26.962176,
+    "longitude": 83.610276,
+    "place_id": "ChIJN2GHNAD_kzkRpq7N5Ofbljw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN2GHNAD_kzkRpq7N5Ofbljw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:37:17"
+  }
+]

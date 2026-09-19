@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aayush Auto Service Centre",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "273302",
+    "phone_number": "+91 99196 27435",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Nahar Colony, Maharajganj, Uttar Pradesh 273303",
+    "area": "Nahar Colony",
+    "latitude": 27.142701799999998,
+    "longitude": 83.5624835,
+    "place_id": "ChIJIe47V6-pljkRkmza7BUL4y8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIe47V6-pljkRkmza7BUL4y8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:39:19"
+  },
+  {
+    "business_name": "Deepak sarvice centre",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "273302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4MFJ+32M, pul, Gopala, Maharajganj, Uttar Pradesh 273302",
+    "area": "pul",
+    "latitude": 27.1227005,
+    "longitude": 83.6800512,
+    "place_id": "ChIJxwyFougHlDkRTCpCJJcKDyI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxwyFougHlDkRTCpCJJcKDyI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:39:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anil Medical Store",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "273304",
+    "phone_number": "+91 91180 86961",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "1, Thuthibari Rd, Thuthibari, Uttar Pradesh 33007",
+    "area": "273304",
+    "latitude": 27.4273368,
+    "longitude": 83.69325289999999,
+    "place_id": "ChIJsb30mBcjlDkRc2jdp2JdIxE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsb30mBcjlDkRc2jdp2JdIxE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:42:57"
+  },
+  {
+    "business_name": "Tilak Medical Agency",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "273304",
+    "phone_number": "+91 99187 46486",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Jogiya, Uttar Pradesh 273151",
+    "area": "273304",
+    "latitude": 27.057227299999997,
+    "longitude": 83.7090863,
+    "place_id": "ChIJ_0_wqBIHlDkRilRtoaaEb-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_0_wqBIHlDkRilRtoaaEb-w",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:42:59"
+  }
+]

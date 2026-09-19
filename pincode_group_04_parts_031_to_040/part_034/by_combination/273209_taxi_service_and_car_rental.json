@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sawitri Ram Avtar Ram Car Rent",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "273209",
+    "phone_number": "+91 85649 62659",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Maya bazar, Gorakhpur, Sahjanwa, Uttar Pradesh 273209",
+    "area": "273209",
+    "latitude": 26.762054,
+    "longitude": 83.2214999,
+    "place_id": "ChIJaaqUEENFkTkROkqxM8rUIV8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaaqUEENFkTkROkqxM8rUIV8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:29:59"
+  },
+  {
+    "business_name": "Taxi Stand",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "273209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Q667+GM9, Sahjanwa, Uttar Pradesh 273209",
+    "area": "273209",
+    "latitude": 26.7612928,
+    "longitude": 83.21423419999999,
+    "place_id": "ChIJOUJPiuQ4kTkRnDLrsY2L_Y0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOUJPiuQ4kTkRnDLrsY2L_Y0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:30:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anil traders",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "273209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "P9R5+V9V, Pandey Hata Rd, Raiganj, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Raiganj",
+    "latitude": 26.7422476,
+    "longitude": 83.3584171,
+    "place_id": "ChIJaQJZQgBFkTkRVt6A9jjbkdI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaQJZQgBFkTkRVt6A9jjbkdI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:29:40"
+  },
+  {
+    "business_name": "Panchratna Products",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Lingerie wholesaler",
+    "all_categories": "Lingerie wholesaler, Lingerie manufacturer, Lingerie store, Wholesaler, Women's clothing store",
+    "pincode": "273209",
+    "phone_number": "+91 78752 73649",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 26,
+    "address": "1st Floor, Dhanvarsha Market, 1149, near Govind Halwai Chowk, Kapad Ganj, Raviwar Peth, Pune, Maharashtra 411002",
+    "area": "Kapad Ganj, Raviwar Peth",
+    "latitude": 18.5135303,
+    "longitude": 73.8613237,
+    "place_id": "ChIJhahTxt3BwjsR1PbGjuVqirM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhahTxt3BwjsR1PbGjuVqirM",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:29:41"
+  }
+]

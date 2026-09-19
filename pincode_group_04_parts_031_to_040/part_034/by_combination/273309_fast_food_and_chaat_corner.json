@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bk fastfood and mini restaurant",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "273309",
+    "phone_number": "+91 95283 64845",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "CH52+X7W Sonkh Rd, Pali Dungara Rd, Dhakpura, Uttar Pradesh 281123",
+    "area": "273309",
+    "latitude": 27.4100197,
+    "longitude": 77.5507622,
+    "place_id": "ChIJH5deBAALczkRN26zvYGZqD8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH5deBAALczkRN26zvYGZqD8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:50:15"
+  },
+  {
+    "business_name": "Chahar fast food",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "273309",
+    "phone_number": "+91 95578 22999",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 28,
+    "address": "chahar market, Kiraoli, Agra, Uttar Pradesh 283122",
+    "area": "273309",
+    "latitude": 27.138202099999997,
+    "longitude": 77.78088919999999,
+    "place_id": "ChIJGVVVVVmOczkRW-J46iloLDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGVVVVVmOczkRW-J46iloLDE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:50:15"
+  }
+]

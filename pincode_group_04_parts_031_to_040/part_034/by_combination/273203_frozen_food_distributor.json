@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "F V MART",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "273203",
+    "phone_number": "+91 87380 36538",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Humayunpur, 01, Divijaynagar Colony, Gorakhpur, Uttar Pradesh 273015",
+    "area": "Divijaynagar Colony, Mirzapur Pachpedwa",
+    "latitude": 26.7696774,
+    "longitude": 83.3635765,
+    "place_id": "ChIJU_fABztFkTkRldApbGYxk6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU_fABztFkTkRldApbGYxk6E",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:25:44"
+  },
+  {
+    "business_name": "RBD Gida , Gorakhpur",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "273203",
+    "phone_number": "+91 99364 62625",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Plot no J22, Uttar Pradesh 273209",
+    "area": "273203",
+    "latitude": 26.738692999999998,
+    "longitude": 83.24265129999999,
+    "place_id": "ChIJkzlSLAA5kTkRs9deWPdtoVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkzlSLAA5kTkRs9deWPdtoVg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:25:45"
+  }
+]

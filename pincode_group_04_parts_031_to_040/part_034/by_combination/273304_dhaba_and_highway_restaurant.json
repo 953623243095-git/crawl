@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adarsh Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Dhaba",
+    "pincode": "273304",
+    "phone_number": "+91 94153 35298",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Faizabad Rd, near Ambika Decor lighting, Chinhat, Lucknow, Uttar Pradesh 226028",
+    "area": "Chinhat",
+    "latitude": 26.877796,
+    "longitude": 81.03360789999999,
+    "place_id": "ChIJGfHuVH3imzkRkg4O0vTxhzY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGfHuVH3imzkRkg4O0vTxhzY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:42:42"
+  },
+  {
+    "business_name": "Shiva Tourist Dhaba Avneesh Sharma -Hapur",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Chinese restaurant, Dhaba, Punjabi restaurant, Tea house, Vegetarian restaurant",
+    "pincode": "273304",
+    "phone_number": "+91 97192 83592",
+    "website": "http://www.shivatouristdhaba.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "NH 09, Delhi, Hapur Rd, Hapur, Uttar Pradesh 245304",
+    "area": "273304",
+    "latitude": 28.7178513,
+    "longitude": 77.7064856,
+    "place_id": "ChIJ4ZocneqDDDkRjxuf-s0SEnw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4ZocneqDDDkRjxuf-s0SEnw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:42:46"
+  }
+]

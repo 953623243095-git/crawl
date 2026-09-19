@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Family Bazar",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "273202",
+    "phone_number": "+91 77539 79816",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Karjaha, Ramnagar Karjaha, Gorakhpur, Uttar Pradesh 273202",
+    "area": "Karjaha",
+    "latitude": 26.694712499999998,
+    "longitude": 83.4825245,
+    "place_id": "ChIJ4Z9S5lhdkTkR4NBN4i8T1vk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Z9S5lhdkTkR4NBN4i8T1vk",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:25:28"
+  },
+  {
+    "business_name": "B K Electricals",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "273202",
+    "phone_number": "+91 73909 03534",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "01, Gorakhpur, Uttar Pradesh 273202",
+    "area": "273202",
+    "latitude": 26.632030999999998,
+    "longitude": 83.5229638,
+    "place_id": "ChIJfadSW9phkTkRlGwafj12l88",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfadSW9phkTkRlGwafj12l88",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:25:28"
+  }
+]

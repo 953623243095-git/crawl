@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apna Rasoi Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "273303",
+    "phone_number": "+91 85768 99305",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mahuya Dhala, Maharajganj, Mahuawa, Uttar Pradesh 273303",
+    "area": "273303",
+    "latitude": 27.139873899999998,
+    "longitude": 83.5280935,
+    "place_id": "ChIJRaBVOEGpljkRxcapb-nSEEI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRaBVOEGpljkRxcapb-nSEEI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:40:53"
+  },
+  {
+    "business_name": "Zayaka Restaurant – Fast Food & Bhojanalay",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "273303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Police Line gate, Government Girls Inter College, Nichlaul Rd, Dhnewa Dhanei, Maharajganj, Uttar Pradesh 273303",
+    "area": "273303",
+    "latitude": 27.167565,
+    "longitude": 83.5833522,
+    "place_id": "ChIJA5MoJqOpljkRxDhz75T__28",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA5MoJqOpljkRxDhz75T__28",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:40:54"
+  }
+]

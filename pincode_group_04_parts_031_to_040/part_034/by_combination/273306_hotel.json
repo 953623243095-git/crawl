@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel O by OYO Royle Gest House",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "273306",
+    "phone_number": "+91 124 620 1516",
+    "website": "https://www.oyorooms.com/368754/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HN 100 RPS Complex, Mirapur, near Dharam kata, Chauraha, Bhathat, Uttar Pradesh 273013",
+    "area": "Chauraha",
+    "latitude": 26.887141699999997,
+    "longitude": 83.4761888,
+    "place_id": "ChIJ6fsMqdxRkTkROcR4LfOE0NU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6fsMqdxRkTkROcR4LfOE0NU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:47:23"
+  },
+  {
+    "business_name": "Hotel Maddheshiya",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "273306",
+    "phone_number": "+91 70681 99931",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Gorakhpur Rd, Partawal Bazar, Partawal, Basahia Buzurg, Uttar Pradesh 273301",
+    "area": "Partawal Bazar",
+    "latitude": 26.964260799999998,
+    "longitude": 83.585989,
+    "place_id": "ChIJdeCcd1RVkTkRAi5W-F2BsrE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdeCcd1RVkTkRAi5W-F2BsrE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:47:27"
+  }
+]

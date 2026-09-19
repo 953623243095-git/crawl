@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radha guest house and Restaurant",
+    "search_category": "Guesthouse",
+    "primary_category": "Bed & breakfast",
+    "all_categories": "Bed & breakfast",
+    "pincode": "273302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "19, Rajiv Nagar, Tarakulawa, Maharajganj, Chauparia, Uttar Pradesh 273303",
+    "area": "Rajiv Nagar, Tarakulawa",
+    "latitude": 27.1463105,
+    "longitude": 83.54406019999999,
+    "place_id": "ChIJG0PncACpljkRK9z-pYH5TFc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG0PncACpljkRK9z-pYH5TFc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:39:51"
+  },
+  {
+    "business_name": "Guest House and restaurant",
+    "search_category": "Guesthouse",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "273302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mukhyalay Tahsil Raod, near Masjid, Lohia Nagar, Bismil Nagar, Maharajganj, Uttar Pradesh 273303",
+    "area": "Lohia Nagar, Bismil Nagar",
+    "latitude": 27.1446035,
+    "longitude": 83.5621737,
+    "place_id": "ChIJDXv339KpljkRgmWtAiDQClA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDXv339KpljkRgmWtAiDQClA",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:39:51"
+  }
+]

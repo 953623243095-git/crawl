@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Soni Garment",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "273202",
+    "phone_number": "+91 74080 53047",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ranideeha Chauraha, Khorabar, Gorakhpur, Uttar Pradesh 273202",
+    "area": "Khorabar",
+    "latitude": 26.716214299999997,
+    "longitude": 83.4403796,
+    "place_id": "ChIJQxfmn2xdkTkRL9xR33MzoOw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQxfmn2xdkTkRL9xR33MzoOw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:24:02"
+  },
+  {
+    "business_name": "Ramsamujh",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "273202",
+    "phone_number": "+91 93288 16028",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 653 Gahira, Road, Devipur, Devi Pur, Gorakhpur, Uttar Pradesh 273202",
+    "area": "Devipur",
+    "latitude": 26.6546432,
+    "longitude": 83.5368355,
+    "place_id": "ChIJqXDWWiJfkTkRjKeE9eqZypY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqXDWWiJfkTkRjKeE9eqZypY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:24:02"
+  }
+]

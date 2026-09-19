@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Janata Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "273305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kusma, Lumbini Province 33007, Nepal",
+    "area": "273305",
+    "latitude": 27.4797352,
+    "longitude": 83.67834119999999,
+    "place_id": "ChIJwWV5mHk9lDkRtUb5J8MvNz8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwWV5mHk9lDkRtUb5J8MvNz8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:45:00"
+  },
+  {
+    "business_name": "Rajnath Auto Service",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "273305",
+    "phone_number": "+91 96954 15518",
+    "website": "N/A",
+    "rating": 2.7,
+    "reviews_count": 3,
+    "address": "jungle nakin, VC87 QVG, Chafiya, Khutahn Khas, Uttar Pradesh 273013",
+    "area": "273305",
+    "latitude": 26.867073599999998,
+    "longitude": 83.4145908,
+    "place_id": "ChIJTzlh5GFPkTkRupT7EDzVreg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTzlh5GFPkTkRupT7EDzVreg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:45:01"
+  }
+]

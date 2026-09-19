@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "273306",
+    "phone_number": "+91 73981 07398",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Merchaien, Raghunath Pur, Mangalpur, Uttar Pradesh 273165",
+    "area": "Merchaien",
+    "latitude": 26.918652299999998,
+    "longitude": 83.3751582,
+    "place_id": "ChIJ2fkpNIFOkTkRLxCVvOBVQbc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2fkpNIFOkTkRLxCVvOBVQbc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:46:57"
+  },
+  {
+    "business_name": "Umesh Bike Service Centre",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "273306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RCRP+WMC, Parsia, Uttar Pradesh 273013",
+    "area": "273306",
+    "latitude": 26.842322199999998,
+    "longitude": 83.4366526,
+    "place_id": "ChIJw9JMYi9RkTkRgKyv8HQBNb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw9JMYi9RkTkRgKyv8HQBNb4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:47:00"
+  }
+]

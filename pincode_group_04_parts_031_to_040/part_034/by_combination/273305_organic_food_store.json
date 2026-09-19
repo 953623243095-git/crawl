@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aditya Enterprises",
+    "search_category": "Organic Food Store",
+    "primary_category": "Health and beauty shop",
+    "all_categories": "Health and beauty shop",
+    "pincode": "273305",
+    "phone_number": "+91 75220 56602",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hloggjgxfgc Bargadwa, Bazar Nautanwa Road, Uttar Pradesh 273305",
+    "area": "273305",
+    "latitude": 27.4409724,
+    "longitude": 83.63968349999999,
+    "place_id": "ChIJkaJVQDwhlDkRn30nBXkvlzE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkaJVQDwhlDkRn30nBXkvlzE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:44:26"
+  },
+  {
+    "business_name": "Dheeraj Pharmacy and medical services",
+    "search_category": "Organic Food Store",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "273305",
+    "phone_number": "+91 94513 88996",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "room no 46, Intercollege complex, Kotwali Rd, Thtthibari, Thuthibari, Uttar Pradesh 273305",
+    "area": "Thtthibari",
+    "latitude": 27.429053399999997,
+    "longitude": 83.693444,
+    "place_id": "ChIJpeCKvFwjlDkRdXRQs5uZKuc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpeCKvFwjlDkRdXRQs5uZKuc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:44:26"
+  }
+]

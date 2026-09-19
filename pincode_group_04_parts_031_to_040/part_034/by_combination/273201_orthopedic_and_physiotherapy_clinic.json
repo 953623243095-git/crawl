@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ideal spine healthcare",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center, Acupuncture clinic, Orthopedic surgeon",
+    "pincode": "273201",
+    "phone_number": "+91 99993 20054",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 47,
+    "address": "opposite chandra sekher azad inter college, Ashraf Nagar, Gauri Bazar, Uttar Pradesh 274202",
+    "area": "Ashraf Nagar",
+    "latitude": 26.598167399999998,
+    "longitude": 83.6744078,
+    "place_id": "ChIJcyrz-RffkzkR6tAxTIagle0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcyrz-RffkzkR6tAxTIagle0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:22:16"
+  },
+  {
+    "business_name": "Mayo Orthopedic Center",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Orthopedic clinic",
+    "all_categories": "Orthopedic clinic",
+    "pincode": "273201",
+    "phone_number": "+91 90268 09868",
+    "website": "https://doctorje.com/hospital/mayo-orthopedic-center-orthopedic-center/",
+    "rating": 4.6,
+    "reviews_count": 13,
+    "address": "B-11, Patrakar Puram, Raptinagar, Anand Vihar, Gorakhpur, Uttar Pradesh 273003",
+    "area": "Patrakar Puram, Raptinagar, Anand Vihar",
+    "latitude": 26.7916802,
+    "longitude": 83.3828127,
+    "place_id": "ChIJIal_TyRFkTkR1QqWXd4Y3CQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIal_TyRFkTkR1QqWXd4Y3CQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:22:16"
+  }
+]

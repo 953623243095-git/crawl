@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kavita Rabbits and pets house",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "273212",
+    "phone_number": "+91 63074 70617",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khanipur, Uttar Pradesh 273001",
+    "area": "273212",
+    "latitude": 26.7237352,
+    "longitude": 83.29073389999999,
+    "place_id": "ChIJF4Tbvr9BkTkR-xBvEvZ0Pqc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF4Tbvr9BkTkR-xBvEvZ0Pqc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:33:11"
+  },
+  {
+    "business_name": "TIWANA FEED SUPPLIER",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "273212",
+    "phone_number": "+91 63889 93737",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "G7CW+G89, Pathrahtha, Sai Khurd, Uttar Pradesh 273403",
+    "area": "273212",
+    "latitude": 26.5212847,
+    "longitude": 83.29586599999999,
+    "place_id": "ChIJkxlMbgBtkTkRpI0PkjrT0Ls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkxlMbgBtkTkRpI0PkjrT0Ls",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:33:11"
+  }
+]

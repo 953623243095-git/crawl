@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "chaudhary bakers cake shop and icecream",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Breakfast restaurant, Restaurant",
+    "pincode": "273203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "GCP5+3WR, Mau-Gorakhpur Rd, Kauriram, Badauli, Uttar Pradesh 273413",
+    "area": "273203",
+    "latitude": 26.5352312,
+    "longitude": 83.4097697,
+    "place_id": "ChIJybnm3URvkTkRDPUp2uXeJfc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJybnm3URvkTkRDPUp2uXeJfc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:25:49"
+  },
+  {
+    "business_name": "Time Pass Cafe restaurant",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Fast food restaurant",
+    "pincode": "273203",
+    "phone_number": "+91 95192 42420",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Time Pass Cafe, Bhiti, Bhiti Rawot, Uttar Pradesh 273209",
+    "area": "273203",
+    "latitude": 26.754134,
+    "longitude": 83.1883206,
+    "place_id": "ChIJP2MpNVk5kTkRrgyKDKeAQm4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP2MpNVk5kTkRrgyKDKeAQm4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:25:50"
+  }
+]

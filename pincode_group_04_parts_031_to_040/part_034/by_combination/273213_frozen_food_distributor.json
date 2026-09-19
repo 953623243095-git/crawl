@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ideal Perfect Food",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, Food manufacturer",
+    "pincode": "273213",
+    "phone_number": "+91 1580 222 111",
+    "website": "https://www.idealperfectfood.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "NEAR BANK OF BARODA, KUCHAMAN, DISTT, Nagaur - Didwana Rd, Deedwana, Rajasthan 341303",
+    "area": "Hafiz Basir Colony",
+    "latitude": 27.3984155,
+    "longitude": 74.5787406,
+    "place_id": "ChIJT3M22zoVazkRZCJuNDWwT3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT3M22zoVazkRZCJuNDWwT3I",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:35:05"
+  },
+  {
+    "business_name": "Riddhi Siddhi namkeen",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Snack bar",
+    "all_categories": "Snack bar",
+    "pincode": "273213",
+    "phone_number": "+91 83403 05334",
+    "website": "http://riddhi_siddhi_namkeen.odoo.com/",
+    "rating": 4.6,
+    "reviews_count": 11,
+    "address": "Babura west, Chatar, Arrah, Bihar 802163",
+    "area": "273213",
+    "latitude": 25.6667347,
+    "longitude": 84.7606406,
+    "place_id": "ChIJndypNgClkjkR2LYie5GvoEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJndypNgClkjkR2LYie5GvoEQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:35:05"
+  }
+]

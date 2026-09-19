@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RIZOO TRAVEL AGENCY",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "273302",
+    "phone_number": "+91 70073 03250",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pachrukhiya Bazar, ghughli Road, Lohia Nagar, Bismil Nagar, Maharajganj, Uttar Pradesh 273302",
+    "area": "Lohia Nagar, Bismil Nagar",
+    "latitude": 27.1446035,
+    "longitude": 83.5621737,
+    "place_id": "ChIJcx1d8G-pljkR5jM1yj5yjrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcx1d8G-pljkR5jM1yj5yjrc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:39:25"
+  },
+  {
+    "business_name": "AKASHVI TRAVELS MAHARAJGANJ UT",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "273302",
+    "phone_number": "+91 72669 40054",
+    "website": "http://www.akashvitravels.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "near KMC MEDICAL HOSPITAL, Lohia Nagar, Bismil Nagar, Maharajganj, Uttar Pradesh 273303",
+    "area": "Lohia Nagar, Bismil Nagar",
+    "latitude": 27.1446035,
+    "longitude": 83.5621737,
+    "place_id": "ChIJE_FZ4xapljkRmtH0q1q5TdE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE_FZ4xapljkRmtH0q1q5TdE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:39:26"
+  }
+]

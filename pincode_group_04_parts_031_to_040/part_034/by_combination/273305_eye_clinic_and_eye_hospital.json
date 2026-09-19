@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Divyansh eye care",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "273305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bargadava, Deoghatti, Uttar Pradesh 273305",
+    "area": "273305",
+    "latitude": 27.4410803,
+    "longitude": 83.63820199999999,
+    "place_id": "ChIJOR6dGBwhlDkRyXCWhqB0Igs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOR6dGBwhlDkRyXCWhqB0Igs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:44:52"
+  },
+  {
+    "business_name": "Aravind Vision Centre - Kamuthi",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "273305",
+    "phone_number": "+91 4576 224 225",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "GH Opposite, Aruppukottai - Valinokkam Rd, Kamudi, Tamil Nadu 623603",
+    "area": "273305",
+    "latitude": 9.4164485,
+    "longitude": 78.3659828,
+    "place_id": "ChIJ9xSQM5gVATsRz7_2UA1wXQ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9xSQM5gVATsRz7_2UA1wXQ4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:44:55"
+  }
+]

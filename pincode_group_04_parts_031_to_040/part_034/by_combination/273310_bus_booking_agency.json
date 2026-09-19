@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonu Tour & Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "273310",
+    "phone_number": "N/A",
+    "website": "https://sonu-tour-and-travels.ueniweb.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vill And Post, Barahara Baraipar, Uttar Pradesh 273306",
+    "area": "273310",
+    "latitude": 26.9404661,
+    "longitude": 83.5175399,
+    "place_id": "ChIJ6SFM9opVkTkRIruzf4J-dRY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6SFM9opVkTkRIruzf4J-dRY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:52:33"
+  },
+  {
+    "business_name": "Amit Online Centre",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "273310",
+    "phone_number": "+91 97933 68806",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X Dilbahar Chauraha, Uttar Pradesh 273165",
+    "area": "273310",
+    "latitude": 26.9680629,
+    "longitude": 83.4178242,
+    "place_id": "ChIJ5WRxUp1NkTkRiR1K-B5Vc5k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5WRxUp1NkTkRiR1K-B5Vc5k",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:52:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHARMA COMPUTECH",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer Wholesaler",
+    "all_categories": "Computer Wholesaler, Camera repair shop, Computer accessories store, Computer networking service, Computer repair service, Computer support and services, Printer ink refill store, Printer repair service, Security system supplier, Used computer store",
+    "pincode": "273213",
+    "phone_number": "+91 98378 82522",
+    "website": "http://www.omzora.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sky Tower, 40G/179, Sanjay Palace, Sanjay Place, Civil Lines, Agra, Uttar Pradesh 282002",
+    "area": "Sanjay Palace, Sanjay Place, Civil Lines",
+    "latitude": 27.198656999999997,
+    "longitude": 78.00598099999999,
+    "place_id": "ChIJl4ubx2B3dDkRdR39NPrAQ-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl4ubx2B3dDkRdR39NPrAQ-c",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:36:21"
+  },
+  {
+    "business_name": "Techy solution",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services",
+    "pincode": "273213",
+    "phone_number": "+91 90267 42963",
+    "website": "https://www.techysolution.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2nd floor, Shahi Market, Golghar, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Shahi Market, Golghar",
+    "latitude": 26.7553885,
+    "longitude": 83.3699498,
+    "place_id": "ChIJ9V3ueGRFkTkRcZjzPbQjsS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9V3ueGRFkTkRcZjzPbQjsS4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:36:21"
+  }
+]

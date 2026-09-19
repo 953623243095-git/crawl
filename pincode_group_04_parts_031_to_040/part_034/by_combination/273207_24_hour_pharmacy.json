@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M.K.Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "273207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nepal Border, Main Road, near Main Market, Nautanwa, Bhagvanpur, Uttar Pradesh 273308",
+    "area": "273207",
+    "latitude": 27.4691351,
+    "longitude": 83.5153011,
+    "place_id": "ChIJj_19z-KfljkRei3hJCI3SYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj_19z-KfljkRei3hJCI3SYk",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:27:53"
+  },
+  {
+    "business_name": "Dk Sharma",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Homeopathic pharmacy",
+    "all_categories": "Homeopathic pharmacy",
+    "pincode": "273207",
+    "phone_number": "N/A",
+    "website": "http://dksharmarampurkala.blogspot.com/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "5MMR+3WV, Rampur Kala, Uttar Pradesh 273163",
+    "area": "273207",
+    "latitude": 27.1827313,
+    "longitude": 83.6922991,
+    "place_id": "ChIJQ2kTaY4ElDkRs4mFqvk_lsg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ2kTaY4ElDkRs4mFqvk_lsg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:27:55"
+  }
+]

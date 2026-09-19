@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abdul Rahim",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "273309",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7CC7+2XH, Belaspur, Maharajganj, Uttar Pradesh 273162",
+    "area": "273309",
+    "latitude": 27.2700554,
+    "longitude": 83.41498779999999,
+    "place_id": "ChIJkYs7TQC7ljkRTJF0kGzDnkk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkYs7TQC7ljkRTJF0kGzDnkk",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:51:11"
+  },
+  {
+    "business_name": "Decor By Vinay",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Entertainment agency, Event management company, Photographer, Wedding photographer, Wedding planner, Wedding venue",
+    "pincode": "273309",
+    "phone_number": "+91 94551 14076",
+    "website": "http://www.decorbyvinay.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vandana vihar, 2, Takrohi, Indira Nagar, Lucknow, Uttar Pradesh 226016",
+    "area": "Shivaji Puram, Takrohi, Indira Nagar",
+    "latitude": 26.8964829,
+    "longitude": 81.0080523,
+    "place_id": "ChIJuU5gvF5ZmTkR9dBMUEAobjU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuU5gvF5ZmTkR9dBMUEAobjU",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:51:13"
+  }
+]

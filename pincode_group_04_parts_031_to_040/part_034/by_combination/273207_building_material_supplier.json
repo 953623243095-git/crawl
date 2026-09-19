@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Ambe Hardware",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "273207",
+    "phone_number": "+91 98600 33686",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6PQ3+424, Partawal Nichloul Road, Daurwa, Barua Sonia, Uttar Pradesh 273207",
+    "area": "273207",
+    "latitude": 27.2378014,
+    "longitude": 83.7026526,
+    "place_id": "ChIJDURzgOcblDkR3OMBVohEUXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDURzgOcblDkR3OMBVohEUXw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:28:17"
+  },
+  {
+    "business_name": "New Bharat Building Material",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "273207",
+    "phone_number": "+91 85742 94417",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mithaura, Bazar, Uttar Pradesh 273207",
+    "area": "273207",
+    "latitude": 27.2307717,
+    "longitude": 83.66751459999999,
+    "place_id": "ChIJMSfGYuUdlDkRhDt7sZa1SBI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMSfGYuUdlDkRhDt7sZa1SBI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:28:17"
+  }
+]

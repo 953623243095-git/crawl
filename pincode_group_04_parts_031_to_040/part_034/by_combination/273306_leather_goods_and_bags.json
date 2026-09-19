@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Handmade World",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather Products Manufacturer",
+    "all_categories": "Leather Products Manufacturer, Service establishment, Leather Exporter, Leather goods supplier",
+    "pincode": "273306",
+    "phone_number": "+91 98286 82626",
+    "website": "https://www.handmadeworldbags.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Handmade World, 273306, India",
+    "area": "273306",
+    "latitude": 9.374110199999999,
+    "longitude": 0,
+    "place_id": "ChIJmfP_4U7lZzkR_2QYnv3qy4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmfP_4U7lZzkR_2QYnv3qy4o",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:46:36"
+  },
+  {
+    "business_name": "Leatherful",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "273306",
+    "phone_number": "+91 90582 53657",
+    "website": "https://www.leatherful.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "58/49, Ayodhya Kunj-A, Kheriya Mod, Saraikhwaja, Arjun Nagar, Agra, Uttar Pradesh 282001",
+    "area": "Ayodhya Kunj-A, Kheriya Mod, Saraikhwaja, Arjun Nagar",
+    "latitude": 27.164368099999997,
+    "longitude": 77.98461379999999,
+    "place_id": "ChIJe_MyEjt3dDkRXoL7TxyWXxE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe_MyEjt3dDkRXoL7TxyWXxE",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:46:36"
+  }
+]

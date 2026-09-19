@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayurvedic Gorakhpur",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "273203",
+    "phone_number": "+91 70810 50127",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gorakhpur, Narainpur, Uttar Pradesh 274404",
+    "area": "273203",
+    "latitude": 26.582874,
+    "longitude": 84.01102519999999,
+    "place_id": "ChIJB7LMrIa_kzkRevLAZRoN2Cs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB7LMrIa_kzkRevLAZRoN2Cs",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:26:03"
+  },
+  {
+    "business_name": "Shri Ram Ayurvedic Chikitsalaya",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic",
+    "pincode": "273203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Harnahi Road, Khajuri, Gorakhpur, Uttar Pradesh 273412",
+    "area": "273203",
+    "latitude": 26.4468997,
+    "longitude": 83.41165079999999,
+    "place_id": "ChIJtQqyGFJxkTkRipTAmiupj7M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtQqyGFJxkTkRipTAmiupj7M",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:26:03"
+  }
+]

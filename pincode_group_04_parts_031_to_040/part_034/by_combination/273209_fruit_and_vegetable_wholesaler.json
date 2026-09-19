@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ishwar Vegetables",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "273209",
+    "phone_number": "+91 74082 92820",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sahjanwa - Ghaghsara Rd, Main Market, Sahjanwa, Uttar Pradesh 273209",
+    "area": "Main Market",
+    "latitude": 26.7603318,
+    "longitude": 83.21407459999999,
+    "place_id": "ChIJ3epNi3A5kTkR8MjDbLtrxcg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3epNi3A5kTkR8MjDbLtrxcg",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:29:19"
+  },
+  {
+    "business_name": "Bhasin and Company",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable wholesaler",
+    "all_categories": "Fruit and vegetable wholesaler",
+    "pincode": "273209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "A-317, Block A, New Sabzi Mandi, Azadpur, Delhi, 110033",
+    "area": "Block A, New Sabzi Mandi, Azadpur",
+    "latitude": 28.7108556,
+    "longitude": 77.1712321,
+    "place_id": "ChIJQw7xl8MBDTkRiKThxs7rRak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQw7xl8MBDTkRiKThxs7rRak",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:29:21"
+  }
+]

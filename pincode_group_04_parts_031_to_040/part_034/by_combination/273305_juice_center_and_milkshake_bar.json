@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Juice Bar & Resturant",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Bar, Restaurant",
+    "pincode": "273305",
+    "phone_number": "+91 98379 36051",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 99,
+    "address": "Ansari Rd, Chowk Bazar, Bulandshahr, Uttar Pradesh 203001",
+    "area": "Chowk Bazar",
+    "latitude": 28.4038357,
+    "longitude": 77.8576788,
+    "place_id": "ChIJGzmih7WmDDkRreOoqOnpfWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGzmih7WmDDkRreOoqOnpfWk",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:44:33"
+  },
+  {
+    "business_name": "VISHWA PREMA JUICE CENTRE",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "273305",
+    "phone_number": "+91 98860 88369",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 23,
+    "address": "vishwa Prema Juice centre, Vidhan Sabha yadgir, Yadgiri, Karnataka 585202",
+    "area": "273305",
+    "latitude": 16.7721616,
+    "longitude": 77.1172418,
+    "place_id": "ChIJlc5KnP9TyDsREE08WGFNXQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlc5KnP9TyDsREE08WGFNXQ0",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:44:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shreeyan jewellers",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "273211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mahadeva Bazar, Rihil Par, Uttar Pradesh 273211",
+    "area": "Mahadeva Bazar",
+    "latitude": 26.560207899999998,
+    "longitude": 83.2194257,
+    "place_id": "ChIJPTaVLMgVkTkR8ZVdJFnX-3c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPTaVLMgVkTkR8ZVdJFnX-3c",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:31:31"
+  },
+  {
+    "business_name": "AKSK JEWELLERS",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "273211",
+    "phone_number": "+91 63872 55881",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Khutbhar, Khajani, Uttar Pradesh 273212",
+    "area": "273211",
+    "latitude": 26.6554137,
+    "longitude": 83.2474076,
+    "place_id": "ChIJg-TwSAA_kTkRY5jgno6b1lo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg-TwSAA_kTkRY5jgno6b1lo",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:31:32"
+  }
+]

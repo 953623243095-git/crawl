@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dilli Darbar Family Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Non Vegetarian Restaurant",
+    "all_categories": "Non Vegetarian Restaurant, Restaurant",
+    "pincode": "273301",
+    "phone_number": "+91 73174 04161",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 51,
+    "address": "Gorakhpur Rd, Partawal Bazar, chowk, Partawal, Maharajganj, Uttar Pradesh 273301",
+    "area": "Partawal Bazar, chowk",
+    "latitude": 26.9689829,
+    "longitude": 83.5913807,
+    "place_id": "ChIJaWOGHQBVkTkRgPtdV-gjx1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaWOGHQBVkTkRgPtdV-gjx1k",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:36:59"
+  },
+  {
+    "business_name": "new vaishno sweet house",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "273301",
+    "phone_number": "+91 70805 62123",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 54,
+    "address": "Kaptanganj - Partawal - Faizabad Rd, Paniyara, Uttar Pradesh 273310",
+    "area": "273301",
+    "latitude": 26.998459099999998,
+    "longitude": 83.4613117,
+    "place_id": "ChIJgxsPguBSkTkRxvEX06J02G8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgxsPguBSkTkRxvEX06J02G8",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:36:59"
+  }
+]

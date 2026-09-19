@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shine enterprises",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "273212",
+    "phone_number": "+91 85280 63680",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Afsar General Store, 95, Tiwaripur Rd, Ilahi Bagh, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Ilahi Bagh",
+    "latitude": 26.761687499999997,
+    "longitude": 83.34593749999999,
+    "place_id": "ChIJ49rL0XlFkTkRIBhA0DIwtWI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ49rL0XlFkTkRIBhA0DIwtWI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:33:10"
+  },
+  {
+    "business_name": "राहुल ट्रेडिंग कंपनी",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "273212",
+    "phone_number": "+91 80521 90163",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 18,
+    "address": "near sheetla mata mandir, ismailpur, Gorakhpur, Uttar Pradesh 273001",
+    "area": "ismailpur",
+    "latitude": 26.7604611,
+    "longitude": 83.37315009999999,
+    "place_id": "ChIJX-_YpfBFkTkR5DzDiFiOD4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX-_YpfBFkTkR5DzDiFiOD4s",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:33:10"
+  }
+]

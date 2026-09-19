@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star Ultrasound Centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "273309",
+    "phone_number": "+91 99355 28252",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "0, Kolhui Bazar, Uttar Pradesh 273309",
+    "area": "273309",
+    "latitude": 27.3004426,
+    "longitude": 83.332202,
+    "place_id": "ChIJ6V-C-hO_ljkRCokAytD_1xQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6V-C-hO_ljkRCokAytD_1xQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:50:34"
+  },
+  {
+    "business_name": "Bharat Medical Agency",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "273309",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lalain, paisiya, Basantpur, Belva Khurd, Uttar Pradesh 273162",
+    "area": "273309",
+    "latitude": 27.2516525,
+    "longitude": 83.3655957,
+    "place_id": "ChIJb2SJzi27ljkR_IJbzcGrXOw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb2SJzi27ljkR_IJbzcGrXOw",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:50:35"
+  }
+]

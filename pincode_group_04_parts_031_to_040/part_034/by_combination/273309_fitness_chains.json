@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Gym Center",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "273309",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "M7JW+JM, Baraj, Uttar Pradesh 275204",
+    "area": "273309",
+    "latitude": 25.6815374,
+    "longitude": 83.29674589999999,
+    "place_id": "ChIJ69cICQDnkTkR-l0jQvJjoFY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ69cICQDnkTkR-l0jQvJjoFY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:50:36"
+  },
+  {
+    "business_name": "Rajbhar Choraha",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "273309",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "QMH6+WW, Baragaon M. Sonbarsa, Uttar Pradesh 233230",
+    "area": "273309",
+    "latitude": 25.7799022,
+    "longitude": 83.6636044,
+    "place_id": "ChIJI9GicREdkjkRoHDw9VRAGP4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI9GicREdkjkRoHDw9VRAGP4",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:50:36"
+  }
+]

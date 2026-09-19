@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govind and Sumitra khadhan mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "273305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "FHJ9+94, Bodabar, Lumbini Province 32900, Nepal",
+    "area": "273305",
+    "latitude": 27.4808834,
+    "longitude": 83.56784789999999,
+    "place_id": "ChIJm-SFbgCfljkRqofAF8--vRc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm-SFbgCfljkRqofAF8--vRc",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:44:27"
+  },
+  {
+    "business_name": "Anuj Flour Mill Bargadava",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "273305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CJVR+G74 डिहवा, Bargadava, Uttar Pradesh 273305",
+    "area": "273305",
+    "latitude": 27.4437601,
+    "longitude": 83.6406927,
+    "place_id": "ChIJMeNajw8hlDkRWkbzyKs5tGI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMeNajw8hlDkRWkbzyKs5tGI",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:44:27"
+  }
+]

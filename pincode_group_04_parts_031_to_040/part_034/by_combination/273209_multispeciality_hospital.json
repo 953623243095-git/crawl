@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Government Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital",
+    "pincode": "273209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 17,
+    "address": "Q637+MH8, Sahjanwa, Uttar Pradesh 273209",
+    "area": "273209",
+    "latitude": 26.7541647,
+    "longitude": 83.2139468,
+    "place_id": "ChIJRb0ZI-c4kTkRLOlRfHBtfGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRb0ZI-c4kTkRLOlRfHBtfGY",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:29:44"
+  },
+  {
+    "business_name": "Priyanka Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "273209",
+    "phone_number": "+91 99187 34870",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 15,
+    "address": "road, Basia, Uttar Pradesh 273209",
+    "area": "273209",
+    "latitude": 26.7733673,
+    "longitude": 83.21106859999999,
+    "place_id": "ChIJKU8SBf84kTkRjZhV40SVgJQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKU8SBf84kTkRjZhV40SVgJQ",
+    "part_id": "part_034",
+    "crawled_at": "2026-09-19 08:29:44"
+  }
+]
