@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anand Pustak Bhandar",
+    "search_category": "Shops",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "274301",
+    "phone_number": "+91 98892 58983",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "5, Ram Janki Nagar Sukrauli, Uttar Pradesh 274301",
+    "area": "274301",
+    "latitude": 26.8807625,
+    "longitude": 83.7092969,
+    "place_id": "ChIJgwHVkaT7kzkRkjNu6GO8HnY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgwHVkaT7kzkRkjNu6GO8HnY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:36:53"
+  },
+  {
+    "business_name": "Star Aluminium and Steel Work Shop Kaptanganj",
+    "search_category": "Shops",
+    "primary_category": "Housing society",
+    "all_categories": "Housing society",
+    "pincode": "274301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pipracih - Captangunj Rd, Kaptanganj, Patkhauli, Uttar Pradesh 274301",
+    "area": "274301",
+    "latitude": 26.9191726,
+    "longitude": 83.7027804,
+    "place_id": "ChIJ8SHd54z7kzkRyfZ7aeurPaI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8SHd54z7kzkRyfZ7aeurPaI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:36:56"
+  }
+]

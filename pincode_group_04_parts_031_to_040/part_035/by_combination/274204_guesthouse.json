@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kanha guest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "274204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "CJR4+JV9, Rudrapur, Jot Khajuhan, Uttar Pradesh 274204",
+    "area": "274204",
+    "latitude": 26.4415487,
+    "longitude": 83.60723139999999,
+    "place_id": "ChIJ2ann80LXkzkRMTZ_32OYSHs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ann80LXkzkRMTZ_32OYSHs",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:27:50"
+  },
+  {
+    "business_name": "Aman guest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "274204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "CJV4+MPQ patanjali, aarogya kendra, Rudrapur, Uttar Pradesh 274204",
+    "area": "274204",
+    "latitude": 26.444076799999998,
+    "longitude": 83.6065203,
+    "place_id": "ChIJ8XatPnnXkzkRfC36cRtGCIo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8XatPnnXkzkRfC36cRtGCIo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:27:52"
+  }
+]

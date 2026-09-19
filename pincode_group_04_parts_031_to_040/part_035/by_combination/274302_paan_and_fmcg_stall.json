@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Niyamat Paan Store",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "274302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Gurwalia, Batarauli Dhur Khandwa, Uttar Pradesh 274302",
+    "area": "274302",
+    "latitude": 26.804449599999998,
+    "longitude": 84.1329324,
+    "place_id": "ChIJT8KtEOGZkzkRsrDPP0gmFgk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT8KtEOGZkzkRsrDPP0gmFgk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:37:00"
+  },
+  {
+    "business_name": "Rosan Paan Bhandar",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "274302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "P24H+HQV, Dehwa Patti, Uttar Pradesh 274401",
+    "area": "274302",
+    "latitude": 26.706496599999998,
+    "longitude": 84.0294373,
+    "place_id": "ChIJ06JEhm-WkzkRVGQOZoflygg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ06JEhm-WkzkRVGQOZoflygg",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:37:02"
+  }
+]

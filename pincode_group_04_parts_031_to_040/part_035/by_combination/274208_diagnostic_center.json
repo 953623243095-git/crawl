@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma drug house",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical diagnostic imaging center",
+    "all_categories": "Medical diagnostic imaging center",
+    "pincode": "274208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mangacoder, Uttar Pradesh 274204",
+    "area": "274208",
+    "latitude": 26.4811683,
+    "longitude": 83.5607344,
+    "place_id": "ChIJ-3Aigj5jkTkRMXUr3lmRElA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-3Aigj5jkTkRMXUr3lmRElA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:34:02"
+  },
+  {
+    "business_name": "P.H.C.Ekauna",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "274208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CG85+GMG, Sarao Khurd, Uttar Pradesh 274208",
+    "area": "274208",
+    "latitude": 26.416311699999998,
+    "longitude": 83.50919239999999,
+    "place_id": "ChIJOS5tNgB9kTkR1hNLHDNwXGk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOS5tNgB9kTkR1hNLHDNwXGk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:34:02"
+  }
+]

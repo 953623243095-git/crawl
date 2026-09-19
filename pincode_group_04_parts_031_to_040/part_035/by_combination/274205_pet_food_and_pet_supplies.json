@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jamira",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "274205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9JPH+C66, Jamira - Pakadi Bazzar Rd, Baraipar, Uttar Pradesh 274205",
+    "area": "274205",
+    "latitude": 26.386042099999997,
+    "longitude": 83.6280211,
+    "place_id": "ChIJE-axWQDXkzkRXSp5k8J0Gh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE-axWQDXkzkRXSp5k8J0Gh0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:28:36"
+  },
+  {
+    "business_name": "Singh Bhangar",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "274205",
+    "phone_number": "+91 70875 48177",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9MV3 CC7, Pat Khauli, Uttar Pradesh 274205",
+    "area": "274205",
+    "latitude": 26.393230799999998,
+    "longitude": 83.6539816,
+    "place_id": "ChIJ3VIwHnDbkzkRelmKd9OVwZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3VIwHnDbkzkRelmKd9OVwZs",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:28:36"
+  }
+]

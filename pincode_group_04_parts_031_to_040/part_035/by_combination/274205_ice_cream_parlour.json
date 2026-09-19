@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anmol Ice cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "274205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "FR5X+V8F, near mathiya, chouraha, Maripar Khurd, Deoria, Uttar Pradesh 274807",
+    "area": "chouraha",
+    "latitude": 26.4596876,
+    "longitude": 83.8482962,
+    "place_id": "ChIJ2yXhRwDJkzkRP4xbjOOkQVE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2yXhRwDJkzkRP4xbjOOkQVE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:28:45"
+  },
+  {
+    "business_name": "Vita Ice Cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "274205",
+    "phone_number": "+91 94543 64245",
+    "website": "http://www.vitaindia.org.in/products.php",
+    "rating": 4.3,
+    "reviews_count": 24,
+    "address": "Nayagaon, Chakra Nadawar, Uttar Pradesh 274509",
+    "area": "Nayagaon",
+    "latitude": 26.299980899999998,
+    "longitude": 83.9226181,
+    "place_id": "ChIJQaxbyq_KkzkRQ2Rsxqrk2Yo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQaxbyq_KkzkRQ2Rsxqrk2Yo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:28:45"
+  }
+]

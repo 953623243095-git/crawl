@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India DJ System",
+    "search_category": "Media and Event",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "273404",
+    "phone_number": "+91 98380 11612",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q9XR+HHR, near Raj Shri Hall Khadda, RailVihar Ph-2 Colony, Raptinagar Phase -4, Gorakhpur, Uttar Pradesh 273013",
+    "area": "RailVihar Ph-2 Colony, Raptinagar Phase -4",
+    "latitude": 26.798992,
+    "longitude": 83.39138559999999,
+    "place_id": "ChIJX1gMsxFFkTkRAAAAsGZGvWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX1gMsxFFkTkRAAAAsGZGvWU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:01:24"
+  },
+  {
+    "business_name": "Media Squad",
+    "search_category": "Media and Event",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Service establishment",
+    "pincode": "273404",
+    "phone_number": "0333 5000453",
+    "website": "https://www.mediasquad.pk/",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Media Squad, 273404, India",
+    "area": "273404",
+    "latitude": 32.3094074,
+    "longitude": 72.3096389,
+    "place_id": "ChIJa8-VQy6nlgwRnB6ux1TvLUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa8-VQy6nlgwRnB6ux1TvLUE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:01:25"
+  }
+]

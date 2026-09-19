@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAJ DIALYSIS CENTER",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "274206",
+    "phone_number": "+91 81406 12294",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Girdharnagar, Umashankar Overbrigh, near Bus Stop, Himatnagar, Gujarat 383001",
+    "area": "Vidhya Nagari",
+    "latitude": 23.5911452,
+    "longitude": 72.95739859999999,
+    "place_id": "ChIJUacbX7O5XTkRod20yBZT720",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUacbX7O5XTkRod20yBZT720",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:30:40"
+  },
+  {
+    "business_name": "Dcdc kidney care",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "274206",
+    "phone_number": "+91 11 4558 1006",
+    "website": "http://dcdc.co.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Police Line, Lakhimpur, Uttar Pradesh 262701",
+    "area": "Police Line",
+    "latitude": 27.9451905,
+    "longitude": 80.78932549999999,
+    "place_id": "ChIJK3vK0S01nzkRXdE2ctX25oY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK3vK0S01nzkRXdE2ctX25oY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:30:42"
+  }
+]

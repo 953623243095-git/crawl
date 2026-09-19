@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Durgesh Pustak Bhandar",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "273408",
+    "phone_number": "+91 98070 02859",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Durga Bari Chowk, Near Saraswati Sisu Mandir,durga vani chowk, Uttar Pradesh 273001",
+    "area": "Bade Kajipur",
+    "latitude": 26.7635155,
+    "longitude": 83.3575819,
+    "place_id": "ChIJp_P1oEBEkTkR2CZ_DZzcx7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp_P1oEBEkTkR2CZ_DZzcx7Y",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:08:39"
+  },
+  {
+    "business_name": "Mountain Books & Stationars",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Pen store",
+    "all_categories": "Pen store",
+    "pincode": "273408",
+    "phone_number": "+91 73552 18540",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Gorakhnath Rd, near kali mandir, Ramjanki Nagar, Gorakhpur, Uttar Pradesh 273004",
+    "area": "Ramjanki Nagar",
+    "latitude": 26.7909871,
+    "longitude": 83.36840839999999,
+    "place_id": "ChIJ47YGCchFkTkRvTA-aUtgaT8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ47YGCchFkTkRvTA-aUtgaT8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:08:40"
+  }
+]

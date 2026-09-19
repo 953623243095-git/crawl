@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Life insurance corporation of India (Pannelal Yadav)",
+    "search_category": "Insurance Agent",
+    "primary_category": "License bureau",
+    "all_categories": "License bureau, Life insurance agency",
+    "pincode": "273411",
+    "phone_number": "+91 87562 18650",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "hp gas agency, near Saint Joseph school, Gagaha, Baspurwa, Uttar Pradesh 273411",
+    "area": "273411",
+    "latitude": 26.441769899999997,
+    "longitude": 83.4529831,
+    "place_id": "ChIJt4JXdgB7kTkRfowxR1LwQkY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt4JXdgB7kTkRfowxR1LwQkY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:12:18"
+  },
+  {
+    "business_name": "Fino Payments Bank",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Bank, Money transfer service, Savings bank",
+    "pincode": "273411",
+    "phone_number": "+91 88269 50022",
+    "website": "https://www.finobank.com/",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Inter College, Jagdishpur Bhaluwan,Thana Gagha, Gorakhpur, Uttar Pradesh 273411",
+    "area": "273411",
+    "latitude": 26.4678735,
+    "longitude": 83.4395814,
+    "place_id": "ChIJXalYKP9lkTkRjHCMsDNnoNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXalYKP9lkTkRjHCMsDNnoNw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:12:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Master Mind Security Services Private Limited",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service, Corporate office, Security service",
+    "pincode": "274205",
+    "phone_number": "+91 99550 12786",
+    "website": "http://www.mastermindsecurity.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Station Rd, Tharbitia, Bihar 852138",
+    "area": "274205",
+    "latitude": 26.216566699999998,
+    "longitude": 86.6730683,
+    "place_id": "ChIJs3dEwjNb7jkR2jhiVp-3otA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs3dEwjNb7jkR2jhiVp-3otA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:29:52"
+  },
+  {
+    "business_name": "Secure Solutions",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Computer security service",
+    "all_categories": "Computer security service",
+    "pincode": "274205",
+    "phone_number": "+91 95987 17535",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Pramod Chaubey Main Road, near Hero agency, Mahuwari, Patherdewa, Deoria, Uttar Pradesh 274404",
+    "area": "Mahuwari",
+    "latitude": 26.566526099999997,
+    "longitude": 83.9361169,
+    "place_id": "ChIJ_clUptW5kzkR2Kap_CNuzng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_clUptW5kzkR2Kap_CNuzng",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:29:53"
+  }
+]

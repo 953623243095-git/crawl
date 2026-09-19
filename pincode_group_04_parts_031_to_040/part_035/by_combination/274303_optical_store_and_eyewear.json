@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hind chashma ghar",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "274303",
+    "phone_number": "+91 78277 02742",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Baghauch Rd, Pipra Rajab, Fazilnagar, Uttar Pradesh 274401",
+    "area": "274303",
+    "latitude": 26.685000199999998,
+    "longitude": 84.0451454,
+    "place_id": "ChIJVfA-3--XkzkRkoO6fBWupVQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVfA-3--XkzkRkoO6fBWupVQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:39:01"
+  },
+  {
+    "business_name": "Singh Clinic Care",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "274303",
+    "phone_number": "+91 99607 99397",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vatika Colony, Padrauna, Uttar Pradesh 274304",
+    "area": "Vatika Colony",
+    "latitude": 26.899264,
+    "longitude": 83.9782858,
+    "place_id": "ChIJvxfULcaNkzkR5V0pHdX5_5c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvxfULcaNkzkR5V0pHdX5_5c",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:39:01"
+  }
+]

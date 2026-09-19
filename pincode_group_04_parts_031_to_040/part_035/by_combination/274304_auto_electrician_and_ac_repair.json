@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandigarh motor work",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "274304",
+    "phone_number": "+91 98398 25913",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kasia - Padrauna Rd, near Jio Petrol pump, Sohrauna, Padrauna, Kushinagar, Uttar Pradesh 274304",
+    "area": "Sohrauna",
+    "latitude": 26.8870394,
+    "longitude": 83.9740667,
+    "place_id": "ChIJLZL_-2-NkzkRe0WNWq-4NNs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLZL_-2-NkzkRe0WNWq-4NNs",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:41:02"
+  },
+  {
+    "business_name": "Tanishka auto servicing centre",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto electrical service",
+    "all_categories": "Auto electrical service",
+    "pincode": "274304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mansa chhapar road, Khushi Nagar, Padrauna, Uttar Pradesh 274304",
+    "area": "Khushi Nagar",
+    "latitude": 26.9057826,
+    "longitude": 83.9785287,
+    "place_id": "ChIJW0OXfteNkzkRVq0fisTqvOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW0OXfteNkzkRVq0fisTqvOI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:41:02"
+  }
+]

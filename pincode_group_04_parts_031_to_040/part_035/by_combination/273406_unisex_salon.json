@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Looks Studio",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Barber shop, Facial spa, Make-up artist, Hairdresser",
+    "pincode": "273406",
+    "phone_number": "+91 74080 04040",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 89,
+    "address": "Khowa Mandi Rd, Golghar, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Golghar",
+    "latitude": 26.7538745,
+    "longitude": 83.3705173,
+    "place_id": "ChIJN4o2AlFFkTkRMz-1QidM_MQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN4o2AlFFkTkRMz-1QidM_MQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:04:44"
+  },
+  {
+    "business_name": "ESSENZA PRO Unisex salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "273406",
+    "phone_number": "N/A",
+    "website": "http://essenzaorosalon.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "ESSENZA PRO Unisex Salon, near Havana Bistro, Medical College Road, Basharatpur, Gorakhpur, Uttar Pradesh 273004",
+    "area": "Basharatpur, B Colony Shahpur",
+    "latitude": 26.7764843,
+    "longitude": 83.3834895,
+    "place_id": "ChIJI5FV8YdFkTkRWld3_FNf5tQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI5FV8YdFkTkRWld3_FNf5tQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:04:44"
+  }
+]

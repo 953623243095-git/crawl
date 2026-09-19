@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pradeep bakery shop",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "273405",
+    "phone_number": "+91 98892 29498",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Jhangaha, Pochhiya Brhm Asthan, Uttar Pradesh 273016",
+    "area": "273405",
+    "latitude": 26.6493698,
+    "longitude": 83.4664987,
+    "place_id": "ChIJV4-Fp5FdkTkRXtgiEEQj5B0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV4-Fp5FdkTkRXtgiEEQj5B0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:02:08"
+  },
+  {
+    "business_name": "New Jaiswal Bakers",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "273405",
+    "phone_number": "+91 91985 47334",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhiti Road, Bhiti Belipar, Uttar Pradesh 273413",
+    "area": "273405",
+    "latitude": 26.594353599999998,
+    "longitude": 83.40784149999999,
+    "place_id": "ChIJtc0Y1YhpkTkREonQdGeGcBM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtc0Y1YhpkTkREonQdGeGcBM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:02:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Babu Bhai Machinery store",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "274201",
+    "phone_number": "+91 99184 50017",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Anand Nagar Deshi Deoria, Barwamir Chhapar, Deoria, Uttar Pradesh 274206",
+    "area": "274201",
+    "latitude": 26.656315199999998,
+    "longitude": 83.8232347,
+    "place_id": "ChIJfzfZWKPDkzkRLKg4ks56r34",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfzfZWKPDkzkRLKg4ks56r34",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:23:07"
+  },
+  {
+    "business_name": "Eastman Dealer",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Battery Store",
+    "all_categories": "Battery Store, Battery Wholesaler, Solar energy system service, Solar energy equipment supplier, Solar panel maintenance service",
+    "pincode": "274201",
+    "phone_number": "+91 674 674 6986",
+    "website": "https://eastman-dealers.eaplworld.com/near-me/deoria/Kushinagar/eastman-dealer-vikas-traders-in-Kushinagar-deoria--5911C6/home",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Vikas Traders, No 275, Fazilnagar Kushinagar, nearby Govind Talkies, Ramgulam Tola, Deoria, Uttar Pradesh 274401",
+    "area": "Ramgulam Tola",
+    "latitude": 26.5038232,
+    "longitude": 83.7901974,
+    "place_id": "ChIJf_4cxFjFkzkRTHr51D_WTm0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf_4cxFjFkzkRTHr51D_WTm0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:23:09"
+  }
+]

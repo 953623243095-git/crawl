@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anand Educational Imporium",
+    "search_category": "Educational Consultant",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "273406",
+    "phone_number": "+91 99845 25131",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1, Khajani, Uttar Pradesh 273212",
+    "area": "273406",
+    "latitude": 26.6628157,
+    "longitude": 83.24741829999999,
+    "place_id": "ChIJB_ZixWw_kTkRCMCe9c6dK4k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB_ZixWw_kTkRCMCe9c6dK4k",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:05:02"
+  },
+  {
+    "business_name": "Yashwant Singh",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "273406",
+    "phone_number": "+91 82992 74616",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jaitpur, Khajani, Khutbhar, Uttar Pradesh 273212",
+    "area": "Jaitpur",
+    "latitude": 26.6559074,
+    "longitude": 83.251939,
+    "place_id": "ChIJBxks1-BBkTkRdsv7pW6fZ9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBxks1-BBkTkRdsv7pW6fZ9c",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:05:02"
+  }
+]

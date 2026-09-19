@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Singh Health Care",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "274205",
+    "phone_number": "+91 89220 35063",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "1234, Deoria, Uttar Pradesh 274408",
+    "area": "274205",
+    "latitude": 26.634246899999997,
+    "longitude": 83.89183799999999,
+    "place_id": "ChIJf5tsWBnBkzkR-_3GIQlktaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf5tsWBnBkzkR-_3GIQlktaE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:29:27"
+  },
+  {
+    "business_name": "Bavasir ka dava khana DR.N.K.Rao",
+    "search_category": "Therapy Center",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "274205",
+    "phone_number": "+91 91402 44163",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Adarsh Chauraha, Rudrapur, Uttar Pradesh 274204",
+    "area": "274205",
+    "latitude": 26.446828399999998,
+    "longitude": 83.6072617,
+    "place_id": "ChIJj0geLgDXkzkRbO1r4jpqEXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj0geLgDXkzkRbO1r4jpqEXM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:29:28"
+  }
+]

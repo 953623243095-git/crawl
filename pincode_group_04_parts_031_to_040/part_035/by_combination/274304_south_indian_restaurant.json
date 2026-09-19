@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Spicy Kitchen",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "274304",
+    "phone_number": "+91 73484 45464",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 8,
+    "address": "286, PD City Mall, Vatika Colony, Padrauna, Uttar Pradesh 274304",
+    "area": "Vatika Colony",
+    "latitude": 26.8945142,
+    "longitude": 83.9788367,
+    "place_id": "ChIJpx1MObyNkzkRYrEX2eZA_Lw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpx1MObyNkzkRYrEX2eZA_Lw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:40:30"
+  },
+  {
+    "business_name": "Kushwaha Bhojnalay",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "274304",
+    "phone_number": "+91 91250 80992",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Near Nyra Petrol Pump, Kanthi Chhapra, Uttar Pradesh 274304",
+    "area": "274304",
+    "latitude": 26.919463999999998,
+    "longitude": 83.9537534,
+    "place_id": "ChIJrXmN78-NkzkReoFHsFKTtaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrXmN78-NkzkReoFHsFKTtaM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:40:31"
+  }
+]

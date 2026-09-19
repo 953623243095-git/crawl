@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anustup Traders",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "274204",
+    "phone_number": "+91 63887 64940",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Purwa polytechnic college, Mehra, Purwa Charwaha, Uttar Pradesh 274001",
+    "area": "274204",
+    "latitude": 26.5306365,
+    "longitude": 83.7618294,
+    "place_id": "ChIJkf407QTbkzkRv4ea9uXlWpE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkf407QTbkzkRv4ea9uXlWpE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:27:30"
+  },
+  {
+    "business_name": "Janta Agency",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "274204",
+    "phone_number": "+91 99367 86196",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sonda, 11173, Deoria, Uttar Pradesh 274001",
+    "area": "274204",
+    "latitude": 26.4687506,
+    "longitude": 83.7881702,
+    "place_id": "ChIJxylF6IvPkzkRHvg89JHhRRc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxylF6IvPkzkRHvg89JHhRRc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:27:30"
+  }
+]

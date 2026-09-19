@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel O JP INN",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "273413",
+    "phone_number": "+91 124 620 1516",
+    "website": "https://www.oyorooms.com/256428/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "HN1ANear Sangam Chowk, Shivpur Shahbajganj, Padri Bazar, Gorakhpur, Uttar Pradesh 273014",
+    "area": "Padri Bazar, Hussain Nagar",
+    "latitude": 26.7821389,
+    "longitude": 83.40133329999999,
+    "place_id": "ChIJfcWXBv1FkTkRgsVcaULZbZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfcWXBv1FkTkRgsVcaULZbZI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:15:38"
+  },
+  {
+    "business_name": "Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Holiday apartment rental",
+    "all_categories": "Holiday apartment rental",
+    "pincode": "273413",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GCJ3+6FW, Kauriram, Khamua Bhatt, Uttar Pradesh 273412",
+    "area": "273413",
+    "latitude": 26.5306177,
+    "longitude": 83.40368959999999,
+    "place_id": "ChIJJWHFVwBvkTkR5EMc0UGRKvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJWHFVwBvkTkR5EMc0UGRKvY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:15:39"
+  }
+]

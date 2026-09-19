@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bus Ticket Booking",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency, Service establishment",
+    "pincode": "274208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bus Ticket Booking, 274208, India",
+    "area": "274208",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJGZIyA_jXnjkRXUacXiLKpmU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGZIyA_jXnjkRXUacXiLKpmU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:34:11"
+  },
+  {
+    "business_name": "Gangotri Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "274208",
+    "phone_number": "+91 93860 20351",
+    "website": "http://gangotritravels.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Mairwa Station Road Majhauli Chauk, Majhauli Rd, More, Siwan, Mairwa, Bihar 841239",
+    "area": "More",
+    "latitude": 26.2340672,
+    "longitude": 84.1514535,
+    "place_id": "ChIJacNI4bZTkjkR5AGuUIdfvfM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJacNI4bZTkjkR5AGuUIdfvfM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:34:13"
+  }
+]

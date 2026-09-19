@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reliance Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "273407",
+    "phone_number": "+91 94546 30786",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "119, Muftipur, Miyan Baza, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Miyan Baza",
+    "latitude": 26.7524317,
+    "longitude": 83.3602502,
+    "place_id": "ChIJz1RVWmxEkTkRBnmY7oQiI6w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz1RVWmxEkTkRBnmY7oQiI6w",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:05:52"
+  },
+  {
+    "business_name": "Javed Tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Gents Tailor",
+    "all_categories": "Gents Tailor",
+    "pincode": "273407",
+    "phone_number": "+91 86878 76569",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Infront of good morning bakers, Ghasikatra Rd, Chowk, Rahmat Nagar, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Chowk, Rahmat Nagar",
+    "latitude": 26.755179,
+    "longitude": 83.3533855,
+    "place_id": "ChIJY5_GCgBFkTkRZFdpASwzsD0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY5_GCgBFkTkRZFdpASwzsD0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:05:52"
+  }
+]

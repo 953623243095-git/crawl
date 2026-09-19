@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ranjana Beauty Parlour",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "274304",
+    "phone_number": "+91 98381 24245",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "478, Padrauna, Uttar Pradesh 274304",
+    "area": "Tulsi Nagar, Khushi Nagar",
+    "latitude": 26.9005038,
+    "longitude": 83.9674221,
+    "place_id": "ChIJa-SL6XGNkzkRdGefS035wAs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa-SL6XGNkzkRdGefS035wAs",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:41:16"
+  },
+  {
+    "business_name": "Aaditya beauty parlour",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "274304",
+    "phone_number": "+91 84295 94642",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Vatika Colony, Padrauna, Uttar Pradesh 274304",
+    "area": "Vatika Colony",
+    "latitude": 26.8946182,
+    "longitude": 83.9784002,
+    "place_id": "ChIJHzWgxKiNkzkR1RsulL4TQRU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHzWgxKiNkzkR1RsulL4TQRU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:41:18"
+  }
+]

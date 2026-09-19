@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pagal Pan Wala",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "273409",
+    "phone_number": "+91 88813 99137",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "00, Mohammadabad, Uttar Pradesh 209651",
+    "area": "273409",
+    "latitude": 27.3104269,
+    "longitude": 79.43290019999999,
+    "place_id": "ChIJw3kVW4EnnjkROte0tah7W-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw3kVW4EnnjkROte0tah7W-Y",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:09:17"
+  },
+  {
+    "business_name": "Dukan",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "273409",
+    "phone_number": "+91 70809 80867",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Suraj Kund Flyover, Surajkund Colony, Gorakhpur, Uttar Pradesh 273015",
+    "area": "Surajkund Colony",
+    "latitude": 26.76589,
+    "longitude": 83.34601649999999,
+    "place_id": "ChIJo78JbcFFkTkRezWI58JJ7yQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo78JbcFFkTkRezWI58JJ7yQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:09:19"
+  }
+]

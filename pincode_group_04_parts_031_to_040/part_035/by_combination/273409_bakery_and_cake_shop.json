@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Ram sweet",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "273409",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "thraha, Raunapar, Uttar Pradesh 276122",
+    "area": "thraha",
+    "latitude": 26.282922,
+    "longitude": 83.2856041,
+    "place_id": "ChIJ_0jvSAB1kTkRPM7OZ4iUN0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_0jvSAB1kTkRPM7OZ4iUN0I",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:09:19"
+  },
+  {
+    "business_name": "S.B. Food Cafe - SIWANTO",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "273409",
+    "phone_number": "+91 85283 49297",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Sidhawana, Chak Khajirkhijir, Uttar Pradesh 273407",
+    "area": "273409",
+    "latitude": 26.4131486,
+    "longitude": 83.241042,
+    "place_id": "ChIJO7d2xnINkTkRTsfh8tbt9wM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO7d2xnINkTkRTsfh8tbt9wM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:09:21"
+  }
+]

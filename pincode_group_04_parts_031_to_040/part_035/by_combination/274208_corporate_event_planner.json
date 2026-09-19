@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kisan Beej Bhandar",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Agricultural service",
+    "pincode": "274208",
+    "phone_number": "+91 96955 75735",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Belwa Dubauli, Lalpur Parsia, Uttar Pradesh 274208",
+    "area": "274208",
+    "latitude": 26.4836599,
+    "longitude": 83.5264899,
+    "place_id": "ChIJmYOVJspjkTkRW2UditKYCWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmYOVJspjkTkRW2UditKYCWk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:34:38"
+  },
+  {
+    "business_name": "SNAP Event Management Company",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Service establishment",
+    "pincode": "274208",
+    "phone_number": "+91 79999 13019",
+    "website": "https://www.instagram.com/snap_emc/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "SNAP Event Management Company, 274208, India",
+    "area": "274208",
+    "latitude": 22.723972699999997,
+    "longitude": 75.86384989999999,
+    "place_id": "ChIJJz5te32AOwQRGUGGAOkQBGs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJz5te32AOwQRGUGGAOkQBGs",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:34:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DM Home",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "273411",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Teekar, Matihania, Uttar Pradesh 273412",
+    "area": "273411",
+    "latitude": 26.481746299999998,
+    "longitude": 83.3849915,
+    "place_id": "ChIJER9omnpvkTkRTsVxqppsof4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJER9omnpvkTkRTsVxqppsof4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:11:38"
+  },
+  {
+    "business_name": "Chauhan Tours and Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Association / Organization",
+    "pincode": "273411",
+    "phone_number": "+91 83829 92760",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Anusa, Uttar Pradesh 274208",
+    "area": "273411",
+    "latitude": 26.4389583,
+    "longitude": 83.5110186,
+    "place_id": "ChIJH29AOgB9kTkRa3vEsVMAROk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH29AOgB9kTkRa3vEsVMAROk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:11:40"
+  }
+]

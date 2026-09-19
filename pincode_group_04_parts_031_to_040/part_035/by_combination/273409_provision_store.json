@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hanuman Provision Store",
+    "search_category": "Provision Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "273409",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Deoria Bypass Rd, Buddh Vihar Part A, Indira Nagar, Gorakhpur, Uttar Pradesh 273016",
+    "area": "Buddh Vihar Part A, Indira Nagar",
+    "latitude": 26.7365624,
+    "longitude": 83.3761744,
+    "place_id": "ChIJ7_gEfn9EkTkRoeFEKkpBJM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7_gEfn9EkTkRoeFEKkpBJM8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:09:16"
+  },
+  {
+    "business_name": "ॐ ओम फार्मा क्लिनिक & आनन्द किराना स्टोर",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Indian grocery store",
+    "pincode": "273409",
+    "phone_number": "+91 73809 37585",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Khopapar, Uttar Pradesh 273409",
+    "area": "273409",
+    "latitude": 26.389521499999997,
+    "longitude": 83.3109011,
+    "place_id": "ChIJXc0IOSxzkTkRn41277wVi7s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXc0IOSxzkTkRn41277wVi7s",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:09:16"
+  }
+]

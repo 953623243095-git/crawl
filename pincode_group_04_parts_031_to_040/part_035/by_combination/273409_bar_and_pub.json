@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Narad baba",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "273409",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "C82F+683, Basantpur, Uttar Pradesh 273409",
+    "area": "273409",
+    "latitude": 26.400523,
+    "longitude": 83.32331219999999,
+    "place_id": "ChIJNfjqf6pzkTkR7TjY1NVp2qA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNfjqf6pzkTkR7TjY1NVp2qA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:09:26"
+  },
+  {
+    "business_name": "Green Garden Restaurant And Bar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "273409",
+    "phone_number": "+91 70804 30750",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Deidiha , Gola Bazar, Road, Banvarpar, Uttar Pradesh 273409",
+    "area": "273409",
+    "latitude": 26.392217799999997,
+    "longitude": 83.2974406,
+    "place_id": "ChIJVbzAphRzkTkRT6OIFcBJfx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVbzAphRzkTkRT6OIFcBJfx0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:09:26"
+  }
+]

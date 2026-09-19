@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rudrapur Canteen",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "274205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 17,
+    "address": "Tahshil, Rudrapur Bypass, Rudrapur, Uttar Pradesh 274204",
+    "area": "274205",
+    "latitude": 26.4467258,
+    "longitude": 83.6197625,
+    "place_id": "ChIJDT02dgDXkzkReuBnrbSOcKw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDT02dgDXkzkReuBnrbSOcKw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:28:38"
+  },
+  {
+    "business_name": "DESI tadka",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "274205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "CJX3+2F8, Rudrapur, Uttar Pradesh 274204",
+    "area": "274205",
+    "latitude": 26.447532499999998,
+    "longitude": 83.6037103,
+    "place_id": "ChIJM06pPQDXkzkRPkgAegpJsbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM06pPQDXkzkRPkgAegpJsbM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:28:38"
+  }
+]

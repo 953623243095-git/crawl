@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suraj Automobile",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Racing car parts store",
+    "all_categories": "Racing car parts store",
+    "pincode": "273412",
+    "phone_number": "+91 79850 29053",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 12,
+    "address": "Agrahari complex, Jagdish autowarks gali, near Kali Mandir, Golghar, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Golghar",
+    "latitude": 26.7562042,
+    "longitude": 83.3722382,
+    "place_id": "ChIJO3gbMXpFkTkR0IgdNLGPOos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO3gbMXpFkTkR0IgdNLGPOos",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:13:29"
+  },
+  {
+    "business_name": "Yash Car Accessories",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto Accessories Store",
+    "all_categories": "Auto Accessories Store",
+    "pincode": "273412",
+    "phone_number": "+91 94150 82030",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 38,
+    "address": "R.K.B, Near, K (Smartwheels, Mohaddipur, Gorakhpur, Uttar Pradesh 273001",
+    "area": "K (Smartwheels, Mohaddipur",
+    "latitude": 26.7493615,
+    "longitude": 83.40835059999999,
+    "place_id": "ChIJGzLCKaVEkTkRirzEH93vbJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGzLCKaVEkTkRirzEH93vbJY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:13:29"
+  }
+]

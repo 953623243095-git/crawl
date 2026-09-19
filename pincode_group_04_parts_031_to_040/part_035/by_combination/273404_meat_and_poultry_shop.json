@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "J.K. Chicken Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "273404",
+    "phone_number": "+91 81750 00514",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 35,
+    "address": "Sikariganj Gorakhpur Dhanghata Road, Uttar Pradesh 273213",
+    "area": "273404",
+    "latitude": 26.506008899999998,
+    "longitude": 83.1978269,
+    "place_id": "ChIJ1fqbYTgTkTkRPSIXSUhBSw8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1fqbYTgTkTkRPSIXSUhBSw8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:00:19"
+  },
+  {
+    "business_name": "Sitara Feed Industry",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Feed manufacturer",
+    "all_categories": "Feed manufacturer",
+    "pincode": "273404",
+    "phone_number": "+91 79858 56571",
+    "website": "http://www.sitarafeedindustry.com/",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "5, Gorakhpur - Sonauli Rd, Vikas Nagar, Gorakhpur, Uttar Pradesh 273007",
+    "area": "Vikas Nagar",
+    "latitude": 26.803725,
+    "longitude": 83.3518991,
+    "place_id": "ChIJex0Upg1FkTkRyyX3ULohyII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJex0Upg1FkTkRyyX3ULohyII",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:00:21"
+  }
+]

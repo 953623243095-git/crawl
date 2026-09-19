@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Excel Automobiles",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "DS Automobiles dealer",
+    "all_categories": "DS Automobiles dealer",
+    "pincode": "274205",
+    "phone_number": "+91 788 057 0727",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Main Rd, Aurangabad, Salempur, Uttar Pradesh 274509",
+    "area": "274205",
+    "latitude": 26.287668699999998,
+    "longitude": 83.931567,
+    "place_id": "ChIJ52qioz41kjkR0E-5UON07ZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ52qioz41kjkR0E-5UON07ZU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:29:06"
+  },
+  {
+    "business_name": "Manohar E Vehicles",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Showroom",
+    "all_categories": "Showroom",
+    "pincode": "274205",
+    "phone_number": "+91 96162 64519",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 19,
+    "address": "near Hero Agency, Sonda, Deoria, Uttar Pradesh 274001",
+    "area": "274205",
+    "latitude": 26.4691291,
+    "longitude": 83.7874982,
+    "place_id": "ChIJo9DD7f7PkzkRsjPqSqZ0Tl4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo9DD7f7PkzkRsjPqSqZ0Tl4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:29:06"
+  }
+]

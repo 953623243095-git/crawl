@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maddhesiya Kirana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "273413",
+    "phone_number": "+91 97933 55532",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Market, Arya colony, Bhiti Belipar, Uttar Pradesh 273413",
+    "area": "Arya colony",
+    "latitude": 26.593534,
+    "longitude": 83.4084851,
+    "place_id": "ChIJKUOIvh9pkTkRZpAge-RWxAQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKUOIvh9pkTkRZpAge-RWxAQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:14:31"
+  },
+  {
+    "business_name": "Jaiswal Provision Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "273413",
+    "phone_number": "+91 75719 52447",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 9,
+    "address": "Infront Of Hanuman Mandir, Railway, Station Road, Bhopa Bazar, Chauri Chaura, Uttar Pradesh 273201",
+    "area": "273413",
+    "latitude": 26.644164399999998,
+    "longitude": 83.58619019999999,
+    "place_id": "ChIJed4rzghgkTkR9yeW1fEQaBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJed4rzghgkTkR9yeW1fEQaBo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:14:34"
+  }
+]

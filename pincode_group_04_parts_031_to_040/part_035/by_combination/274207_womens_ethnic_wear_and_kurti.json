@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Juniper Fashion",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Clothing manufacturer, Clothing supplier, Clothing wholesaler",
+    "pincode": "274207",
+    "phone_number": "+91 98280 45242",
+    "website": "https://juniperfashion.com/",
+    "rating": 4.4,
+    "reviews_count": 106,
+    "address": "G-93, Ricco Industrial Area, Sitapura Industrial Area, Sitapura, Jaipur, Rajasthan 302022",
+    "area": "Ricco Industrial Area, Sitapura Industrial Area, Sitapura",
+    "latitude": 26.7826141,
+    "longitude": 75.8361007,
+    "place_id": "ChIJ46cSCt-1bTkRjfSUHPoczLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ46cSCt-1bTkRjfSUHPoczLo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:32:09"
+  },
+  {
+    "business_name": "Prakash Synthetics",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Baby clothing store",
+    "pincode": "274207",
+    "phone_number": "+91 86870 23456",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 314,
+    "address": "Naya chowk, Japlingang, Japlin Ganj, Ballia, Uttar Pradesh 277001",
+    "area": "Japlin Ganj, Bahadurpur",
+    "latitude": 25.7572993,
+    "longitude": 84.1559091,
+    "place_id": "ChIJwRy2lMJkkjkRIzJnQ5Fbo2E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwRy2lMJkkjkRIzJnQ5Fbo2E",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:32:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharekhan",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Financial consultant, Financial planner, Investment service, Online Share Trading Center",
+    "pincode": "273409",
+    "phone_number": "+91 82091 99706",
+    "website": "https://www.sharekhanpramodjadon.com/",
+    "rating": 4.9,
+    "reviews_count": 78,
+    "address": "Second Floor, Office No.8, Second Floor, 69/334, VT Rd, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Ward 27, Mansarovar Sector 6, Mansarovar",
+    "latitude": 26.8609027,
+    "longitude": 75.76341959999999,
+    "place_id": "ChIJl1yWKT21bTkR0MbvaJKysrU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl1yWKT21bTkR0MbvaJKysrU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:10:37"
+  },
+  {
+    "business_name": "Seabucks Finserv Private Limited",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service, Financial planner",
+    "pincode": "273409",
+    "phone_number": "+91 92058 88780",
+    "website": "https://seabucksfinserv.com/",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "F 349, F Block, Sector 63, Noida, Chotpur, Uttar Pradesh 201309",
+    "area": "F Block, Sector 63",
+    "latitude": 28.622079,
+    "longitude": 77.38969689999999,
+    "place_id": "ChIJ62mG6XnvDDkRFFbbcrJ50C4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ62mG6XnvDDkRFFbbcrJ50C4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:10:39"
+  }
+]

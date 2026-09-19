@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GP VET PHARMACY",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinary pharmacy",
+    "all_categories": "Veterinary pharmacy",
+    "pincode": "274202",
+    "phone_number": "+91 78670 16695",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "SHOP NO 1, 7/59, Wellington St, Vilachery, Tamil Nadu 625019",
+    "area": "274202",
+    "latitude": 9.9310473,
+    "longitude": 78.0514791,
+    "place_id": "ChIJA2cbD8fPADsRgWjQUmzq9rM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA2cbD8fPADsRgWjQUmzq9rM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:23:51"
+  },
+  {
+    "business_name": "Vetoria Pet Clinic and Shop",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "274202",
+    "phone_number": "+91 91932 10355",
+    "website": "https://www.vetoria.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3/276, Schumacher Colony, Vikalp Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Schumacher Colony, Vikalp Khand, Gomti Nagar",
+    "latitude": 26.8549994,
+    "longitude": 81.03688059999999,
+    "place_id": "ChIJmTKhL1TjmzkRPW2JSZ6JmTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmTKhL1TjmzkRPW2JSZ6JmTc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:23:52"
+  }
+]

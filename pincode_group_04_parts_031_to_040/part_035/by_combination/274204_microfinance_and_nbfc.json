@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bandhan Bank",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Bank",
+    "all_categories": "Bank",
+    "pincode": "274204",
+    "phone_number": "+91 1800 258 8181",
+    "website": "https://bandhanbank.com/branch/deoria",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "Barhaj Road, Kotwali Rd, near Axis Bank, P.S, Deoria, Uttar Pradesh 274001",
+    "area": "Bhatwaliya",
+    "latitude": 26.4868626,
+    "longitude": 83.7805015,
+    "place_id": "ChIJTfaVcYXFkzkRnWThym_uUqY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTfaVcYXFkzkRnWThym_uUqY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:28:07"
+  },
+  {
+    "business_name": "Axis Bank - Koilgarha",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Bank",
+    "all_categories": "Bank, Financial institution, Investment bank, Investment service, Savings bank",
+    "pincode": "274204",
+    "phone_number": "+91 1860 500 5555",
+    "website": "https://branch.axisbank.com/axis-bank-koilgarha-banks-rudrapur-deoria-93860/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ground Floor, CMWH+VFX, Koilgarha, Rudrapur, Uttar Pradesh 274204",
+    "area": "274204",
+    "latitude": 26.446661,
+    "longitude": 83.6785707,
+    "place_id": "ChIJp2xheRPDkzkR-wKEUcupVVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp2xheRPDkzkR-wKEUcupVVU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:28:07"
+  }
+]

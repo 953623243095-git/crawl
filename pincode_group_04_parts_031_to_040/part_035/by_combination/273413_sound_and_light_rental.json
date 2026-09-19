@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rental Services",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "273413",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MIG-2, Gautam Vihar Vistaar, Rail Vihar Colony Phase 3rd, Taramandal, Gorakhpur, Uttar Pradesh 273017",
+    "area": "Rail Vihar Colony Phase 3rd, Taramandal",
+    "latitude": 26.7333112,
+    "longitude": 83.3858879,
+    "place_id": "ChIJ32VAKchDkTkR7YioDgYIBsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ32VAKchDkTkR7YioDgYIBsU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:15:35"
+  },
+  {
+    "business_name": "AMAN DJ SOUND",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "DJ service",
+    "all_categories": "DJ service",
+    "pincode": "273413",
+    "phone_number": "+91 93352 62025",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Q9FP+8X9, Shahpur, Gorakhpur, Uttar Pradesh 273006",
+    "area": "Shahpur",
+    "latitude": 26.773291999999998,
+    "longitude": 83.38748919999999,
+    "place_id": "ChIJu66GjvpEkTkRrMeHCF2Cjgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu66GjvpEkTkRrMeHCF2Cjgw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:15:35"
+  }
+]

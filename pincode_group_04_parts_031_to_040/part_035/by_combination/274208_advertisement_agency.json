@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FAMOUS TAILOR",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "274208",
+    "phone_number": "+91 78609 52240",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Pandey Majha Rajghar, Uttar Pradesh 274204",
+    "area": "274208",
+    "latitude": 26.418938599999997,
+    "longitude": 83.5501543,
+    "place_id": "ChIJd--QCjB9kTkRvnl40BpoKdo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd--QCjB9kTkRvnl40BpoKdo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:35:06"
+  },
+  {
+    "business_name": "GAURAV AGENCY",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store, Adhesives & Glue Supplier",
+    "pincode": "274208",
+    "phone_number": "+91 70803 66680",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "MALVIYA ROAD FLYOVER KE NICHE, Uttar Pradesh 274806",
+    "area": "Kailashpuri",
+    "latitude": 26.504785899999998,
+    "longitude": 83.783766,
+    "place_id": "ChIJyUyMKVLFkzkRjF81Dp8JJx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyUyMKVLFkzkRjF81Dp8JJx8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:35:08"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OYO 49149 Hotel Prakash International",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Bed & breakfast, Guest house, Holiday home, Inn, Lodge, Motel, Service Apartment, Villa",
+    "pincode": "274304",
+    "phone_number": "+91 124 620 1516",
+    "website": "https://www.oyorooms.com/79175",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "WX2H+X9M Jalkal Bhavan, Kotwali Rd, Khushi Nagar, Padrauna, Uttar Pradesh 274304",
+    "area": "Khushi Nagar",
+    "latitude": 26.901252,
+    "longitude": 83.9781591,
+    "place_id": "ChIJVwpUu12NkzkRgY-qQlPx28A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVwpUu12NkzkRgY-qQlPx28A",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:41:25"
+  },
+  {
+    "business_name": "Bsn International Hotel ,Shukla Lawn & Banquet",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Banquet hall, Wedding planner, Wedding service, Wedding venue",
+    "pincode": "274304",
+    "phone_number": "+91 81273 34444",
+    "website": "https://www.oyorooms.com/93751",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Unnamed Road, Tulsi Nagar, Khushi Nagar, Padrauna, Uttar Pradesh 274304",
+    "area": "Tulsi Nagar, Khushi Nagar",
+    "latitude": 26.9027469,
+    "longitude": 83.9725174,
+    "place_id": "ChIJU1-7xoONkzkRTwHtuKI0l9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU1-7xoONkzkRTwHtuKI0l9A",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:41:25"
+  }
+]

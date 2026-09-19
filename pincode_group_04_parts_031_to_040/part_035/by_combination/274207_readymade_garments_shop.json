@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Z Cloth House",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "274207",
+    "phone_number": "+91 79003 87655",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ward no 23, Bazar khas, Hata, Uttar Pradesh 274203",
+    "area": "Bazar khas",
+    "latitude": 26.741283799999998,
+    "longitude": 83.7400816,
+    "place_id": "ChIJT0PV3OPnkzkRMPKyiZRodhA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT0PV3OPnkzkRMPKyiZRodhA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:32:08"
+  },
+  {
+    "business_name": "Adira Garments",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "274207",
+    "phone_number": "+91 96285 06206",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "kaptanganj Road, Hata, Uttar Pradesh 274203",
+    "area": "274207",
+    "latitude": 26.746173,
+    "longitude": 83.7406328,
+    "place_id": "ChIJE_ZI94DnkzkRmpJ0B0nL6GM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE_ZI94DnkzkRmpJ0B0nL6GM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:32:08"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "274303",
+    "phone_number": "+91 99353 55831",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "WG2X+725, Sohawal, Uttar Pradesh 273306",
+    "area": "274303",
+    "latitude": 26.9006394,
+    "longitude": 83.5476139,
+    "place_id": "ChIJc-GxWvZWkTkRr1OvUlPfZqw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc-GxWvZWkTkRr1OvUlPfZqw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:40:07"
+  },
+  {
+    "business_name": "SPS AGRONICO, RAICHUR",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "274303",
+    "phone_number": "+91 1800 200 3903",
+    "website": "http://www.savitrigroup.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Gadwal Rd, Tamalghat D, Karnataka 584102",
+    "area": "274303",
+    "latitude": 16.2074769,
+    "longitude": 77.3950988,
+    "place_id": "ChIJkZozeszZyTsRkea8aCEd-uc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkZozeszZyTsRkea8aCEd-uc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:40:08"
+  }
+]

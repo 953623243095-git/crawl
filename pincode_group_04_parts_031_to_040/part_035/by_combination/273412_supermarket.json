@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Umesh Sharma General Store Ka Dukan",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "273412",
+    "phone_number": "+91 93345 91213",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Bhagwanpura Road, Atapar, Uttar Pradesh 276121",
+    "area": "273412",
+    "latitude": 26.3948456,
+    "longitude": 83.4806804,
+    "place_id": "ChIJb0Mut-17kTkRvERPEUEK7Eo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb0Mut-17kTkRvERPEUEK7Eo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:12:41"
+  },
+  {
+    "business_name": "Vishal Mega Mart",
+    "search_category": "Supermarket",
+    "primary_category": "Hypermarket",
+    "all_categories": "Hypermarket",
+    "pincode": "273412",
+    "phone_number": "+91 72178 88123",
+    "website": "https://stores.vishalmegamart.com/shopping-mart-bilandpur-gorakhpur-30352/home?utm_source=GMB",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Ambedkar Chowk, Kachari Rd, Bilandpur, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Bilandpur",
+    "latitude": 26.747328699999997,
+    "longitude": 83.3729958,
+    "place_id": "ChIJNY3oWntEkTkRxv98wJOvJ1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNY3oWntEkTkRxv98wJOvJ1k",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:12:43"
+  }
+]

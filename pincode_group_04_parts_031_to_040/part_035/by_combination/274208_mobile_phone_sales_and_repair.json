@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akhil Mobile",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "274208",
+    "phone_number": "+91 81277 72727",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "GM3Q+H4Q, Deoria-Ramlaxan Rd, Bhali Chaur, Uttar Pradesh 274201",
+    "area": "274208",
+    "latitude": 26.503967199999998,
+    "longitude": 83.6878596,
+    "place_id": "ChIJ____VCXakzkRiZSd_TGqMzM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____VCXakzkRiZSd_TGqMzM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:34:46"
+  },
+  {
+    "business_name": "Gaurav Mobile Repair",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "274208",
+    "phone_number": "+91 97801 09517",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 10,
+    "address": "HWCC+22M, Pathardewa, Uttar Pradesh 274404",
+    "area": "274208",
+    "latitude": 26.570062999999998,
+    "longitude": 83.920063,
+    "place_id": "ChIJ7SlidwTHkzkRxPs5vWbRod0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7SlidwTHkzkRxPs5vWbRod0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:34:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Palki Mobile",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "273405",
+    "phone_number": "+91 90446 23165",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Lgf293, Golghar, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Golghar",
+    "latitude": 26.7537512,
+    "longitude": 83.3708401,
+    "place_id": "ChIJhe4Y1WVEkTkRAAAAMPoDfh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhe4Y1WVEkTkRAAAAMPoDfh8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:03:19"
+  },
+  {
+    "business_name": "KORE MOBILE",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "273405",
+    "phone_number": "+91 96703 11111",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ground Floor, Baldev Plaza, 1-A, Golghar, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Golghar",
+    "latitude": 26.7539891,
+    "longitude": 83.37157549999999,
+    "place_id": "ChIJrXLLybNFkTkRgA_yqL7b-ZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrXLLybNFkTkRgA_yqL7b-ZA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:03:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arya Traders",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler, Religious goods store",
+    "pincode": "273413",
+    "phone_number": "+91 81154 44001",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "H.No. C, 128-148, Ali Nagar Chowk Vijay Road, near CA Anupam Gupta I, Phool Mandi, Hazaripur, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Phool Mandi, Hazaripur",
+    "latitude": 26.759040799999998,
+    "longitude": 83.3626278,
+    "place_id": "ChIJEa5RAWpEkTkR_F_m005olCI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEa5RAWpEkTkR_F_m005olCI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:16:18"
+  },
+  {
+    "business_name": "Nitish And Company",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "273413",
+    "phone_number": "+91 89489 87624",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kundan Market, Sabji Mandi, Bhopa Bazar, Chauri Chaura, Uttar Pradesh 273201",
+    "area": "273413",
+    "latitude": 26.644811999999998,
+    "longitude": 83.585658,
+    "place_id": "ChIJf1PsEEBhkTkRUvyZqZVjGRI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf1PsEEBhkTkRUvyZqZVjGRI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:16:19"
+  }
+]

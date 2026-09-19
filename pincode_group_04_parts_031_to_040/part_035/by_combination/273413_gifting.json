@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rudransh Enterprises",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "273413",
+    "phone_number": "+91 87309 06237",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Lalji Kasaudhan, Machli Mandi Road, Newas, Kauriram, Uttar Pradesh 273412",
+    "area": "273413",
+    "latitude": 26.5274081,
+    "longitude": 83.4098078,
+    "place_id": "ChIJqSNhhW5vkTkRVAe15aCR84M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqSNhhW5vkTkRVAe15aCR84M",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:15:38"
+  },
+  {
+    "business_name": "simran gift house",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop, Jewelry store, Toy store",
+    "pincode": "273413",
+    "phone_number": "+91 78607 90089",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "mtr aage, Nausar chowk, bus stand, behind baroda up bank, se 40, paswn, Dahla, Uttar Pradesh 273016",
+    "area": "paswn",
+    "latitude": 26.667264799999998,
+    "longitude": 83.4003037,
+    "place_id": "ChIJC-YQLStDkTkRrbdJ3EjyqKs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC-YQLStDkTkRrbdJ3EjyqKs",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:15:40"
+  }
+]

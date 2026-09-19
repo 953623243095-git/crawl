@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Budhiya mai bakers",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "274303",
+    "phone_number": "+91 97210 98600",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": 22,
+    "address": "Subhash chowk, near Unik Bazar, Padrauna, Uttar Pradesh 274304",
+    "area": "Vatika Colony",
+    "latitude": 26.896544,
+    "longitude": 83.9785028,
+    "place_id": "ChIJ6THRfyiNkzkR1c4D9FzEbEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6THRfyiNkzkR1c4D9FzEbEg",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:38:45"
+  },
+  {
+    "business_name": "Kesharwani Bakers",
+    "search_category": "Patisserie",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "274303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Subhash chowk, Ramkola Rd, in front of Gopal sweets, Tulsi Nagar, Khushi Nagar, Padrauna, Uttar Pradesh 274304",
+    "area": "Tulsi Nagar, Khushi Nagar",
+    "latitude": 26.898888,
+    "longitude": 83.9769414,
+    "place_id": "ChIJ7fEqxumNkzkRWvPygSUSwzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7fEqxumNkzkRWvPygSUSwzc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:38:46"
+  }
+]

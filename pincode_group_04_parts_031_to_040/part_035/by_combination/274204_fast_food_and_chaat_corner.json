@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Babbi Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "274204",
+    "phone_number": "+91 63884 75868",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sho No 879, Road Bairiya Chauraha Village, Bairiya, Deoria, Barhaya Buzurg, Uttar Pradesh 274204",
+    "area": "Bairiya",
+    "latitude": 26.471617199999997,
+    "longitude": 83.7342225,
+    "place_id": "ChIJ-dyFM-PbkzkR69SJtvVwLLQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-dyFM-PbkzkR69SJtvVwLLQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:26:56"
+  },
+  {
+    "business_name": "Shri Radhe Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "274204",
+    "phone_number": "+91 78218 44394",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 885 Deoria Road, Market, near Nath Baba Mandir, Rudrapur, Uttar Pradesh 274204",
+    "area": "274204",
+    "latitude": 26.4566663,
+    "longitude": 83.614347,
+    "place_id": "ChIJ4TQAsQHXkzkR5ZfmYl1wwhA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4TQAsQHXkzkR5ZfmYl1wwhA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:26:56"
+  }
+]

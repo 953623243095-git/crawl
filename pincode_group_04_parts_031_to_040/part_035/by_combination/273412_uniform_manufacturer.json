@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anjalika Creation",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Saree Shop",
+    "pincode": "273412",
+    "phone_number": "+91 63542 82917",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gola Road, Pakari, Kohara Bujurg, Uttar Pradesh 273412",
+    "area": "273412",
+    "latitude": 26.3917309,
+    "longitude": 83.395752,
+    "place_id": "ChIJnaWLPgAHkjkRpIXGNNNPJSE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnaWLPgAHkjkRpIXGNNNPJSE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:13:03"
+  },
+  {
+    "business_name": "Quality King",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "273412",
+    "phone_number": "+91 73483 02595",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Janipur, Janipur - Gagaha Rd, Uttar Pradesh 273412",
+    "area": "273412",
+    "latitude": 26.4469782,
+    "longitude": 83.4239624,
+    "place_id": "ChIJ8TgGtVZ7kTkR47L4PshXb-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8TgGtVZ7kTkR47L4PshXb-o",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:13:03"
+  }
+]

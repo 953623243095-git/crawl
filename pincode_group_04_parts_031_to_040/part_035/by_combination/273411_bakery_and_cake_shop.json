@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayaan Bakers",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "273411",
+    "phone_number": "+91 78004 18227",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Tiyar, 001, Gola Road, Bhiti Belipar, Uttar Pradesh 273412",
+    "area": "273411",
+    "latitude": 26.484788299999998,
+    "longitude": 83.3873881,
+    "place_id": "ChIJjTA1EW9vkTkRiqBENeNn-8s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjTA1EW9vkTkRiqBENeNn-8s",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:11:04"
+  },
+  {
+    "business_name": "Mahaveer ji sweets and bakers",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Cake shop, Sweet shop",
+    "pincode": "273411",
+    "phone_number": "N/A",
+    "website": "https://peppy-crepe-816593.netlify.app/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "एजाज मेडिकल स्टोर के ठीक सामने रोड, गजपुर, Gagaha, Uttar Pradesh 273411",
+    "area": "गजपुर",
+    "latitude": 26.4412648,
+    "longitude": 83.44287,
+    "place_id": "ChIJF-dtpXN7kTkRjMJ9AkrSCFM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF-dtpXN7kTkRjMJ9AkrSCFM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:11:04"
+  }
+]

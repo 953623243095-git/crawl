@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saluon Pan Pepsi",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "274303",
+    "phone_number": "+91 81729 70686",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 3,
+    "address": "VP4X+PW3, Kaptanganj-Hata Rd, Mathauli, Uttar Pradesh 274301",
+    "area": "274303",
+    "latitude": 26.8567578,
+    "longitude": 83.7497824,
+    "place_id": "ChIJOWFaA7H6kzkRLFy9CNoOUpQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOWFaA7H6kzkRLFy9CNoOUpQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:38:44"
+  },
+  {
+    "business_name": "Lalji Paan Shop",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Tobacco shop",
+    "all_categories": "Tobacco shop",
+    "pincode": "274303",
+    "phone_number": "+91 77058 78928",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 7,
+    "address": "Darbar Rd, Jungle Bakulha, Padrauna, Uttar Pradesh 274304",
+    "area": "Jungle Bakulha",
+    "latitude": 26.9090836,
+    "longitude": 83.9833819,
+    "place_id": "ChIJ30cujk6NkzkRxqnroixnTsc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ30cujk6NkzkRxqnroixnTsc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:38:44"
+  }
+]

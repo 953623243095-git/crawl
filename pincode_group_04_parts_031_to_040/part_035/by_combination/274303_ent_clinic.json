@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "D.N.Medical Store",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "274303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3RC6+C3V, Padri Mehdia, Raipur Khopa, Uttar Pradesh 274306",
+    "area": "274303",
+    "latitude": 27.071124599999997,
+    "longitude": 83.81018329999999,
+    "place_id": "ChIJGfMeIgAJlDkRYJdZp29swQI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGfMeIgAJlDkRYJdZp29swQI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:39:10"
+  },
+  {
+    "business_name": "ET",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "274303",
+    "phone_number": "+91 70809 20551",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 72,
+    "address": "Unnamed Road, Jagdishpuram colony, Padrauna, Uttar Pradesh 274308",
+    "area": "Jagdishpuram colony",
+    "latitude": 26.9030648,
+    "longitude": 83.9880268,
+    "place_id": "ChIJSdRlvcSNkzkRU5M6gP3hsNE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSdRlvcSNkzkRU5M6gP3hsNE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:39:10"
+  }
+]

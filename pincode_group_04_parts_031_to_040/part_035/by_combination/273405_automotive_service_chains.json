@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Musafir Auto Spare Parts Service",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Chauffeur service",
+    "all_categories": "Chauffeur service",
+    "pincode": "273405",
+    "phone_number": "+91 96166 09915",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Ramnagar Road Fulwariya, Uttar Pradesh 273013",
+    "area": "273405",
+    "latitude": 26.8717926,
+    "longitude": 83.4413814,
+    "place_id": "ChIJ-2bPapFRkTkRAT_mKZYF8tE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-2bPapFRkTkRAT_mKZYF8tE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:02:44"
+  },
+  {
+    "business_name": "Chhotu Auto Service",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "273405",
+    "phone_number": "+91 72710 76072",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "1, Nai Bazar Sadak, Dumari Khurd, Uttar Pradesh 273201",
+    "area": "273405",
+    "latitude": 26.6443709,
+    "longitude": 83.5823666,
+    "place_id": "ChIJgZ3O7IthkTkRHECN-uykYBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgZ3O7IthkTkRHECN-uykYBs",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:02:44"
+  }
+]

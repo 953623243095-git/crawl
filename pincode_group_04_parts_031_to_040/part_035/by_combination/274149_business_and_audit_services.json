@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhinit Consultant",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "274149",
+    "phone_number": "+91 85743 44653",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Airport Road, Kurmauta, Kushinagar, Uttar Pradesh 274403",
+    "area": "274149",
+    "latitude": 26.756678299999997,
+    "longitude": 83.8862284,
+    "place_id": "ChIJ-_W1JvrrkzkRSUcB_8UdGHc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-_W1JvrrkzkRSUcB_8UdGHc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:19:31"
+  },
+  {
+    "business_name": "AYUSH P AGRAWAL & CO",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant",
+    "pincode": "274149",
+    "phone_number": "+91 97138 51000",
+    "website": "http://www.ayushpagrawal.com/",
+    "rating": 5,
+    "reviews_count": 61,
+    "address": "F2, First Floor, Raavya Tower, Avanti Vihar Rd, beside Bank of Baroda & HDFC Bank, Kavita Nagar, Shankar Nagar, Raipur, Chhattisgarh 492001",
+    "area": "Kavita Nagar, Shankar Nagar",
+    "latitude": 21.2452173,
+    "longitude": 81.66915139999999,
+    "place_id": "ChIJmyCFx_N-gkcRaYgBOT_pNd8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmyCFx_N-gkcRaYgBOT_pNd8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:19:31"
+  }
+]

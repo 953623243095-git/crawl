@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Greenland and resort",
+    "search_category": "Resort",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "274203",
+    "phone_number": "+91 91989 45121",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Kushinagar, Sonbarsa, Uttar Pradesh 274403",
+    "area": "274203",
+    "latitude": 26.739381599999998,
+    "longitude": 83.888443,
+    "place_id": "ChIJBc-MtDjrkzkRxckEB2VnBKw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBc-MtDjrkzkRxckEB2VnBKw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:26:04"
+  },
+  {
+    "business_name": "Buddha Water Park & Resort",
+    "search_category": "Resort",
+    "primary_category": "Water park",
+    "all_categories": "Water park",
+    "pincode": "274203",
+    "phone_number": "+91 98394 00457",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "PVP6+X8, Bhainsaha, Uttar Pradesh 274403",
+    "area": "274203",
+    "latitude": 26.7373758,
+    "longitude": 83.86085469999999,
+    "place_id": "ChIJS550ssjrkzkRgTpuVUPjpDw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS550ssjrkzkRgTpuVUPjpDw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:26:04"
+  }
+]

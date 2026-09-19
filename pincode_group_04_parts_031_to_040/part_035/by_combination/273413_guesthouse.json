@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Ram Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "273413",
+    "phone_number": "+91 99195 17007",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 215,
+    "address": "Khowa Mandi Rd, Golghar, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Golghar",
+    "latitude": 26.754499,
+    "longitude": 83.3689763,
+    "place_id": "ChIJFZTjD2ZEkTkRHyz-nV9hhNg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZTjD2ZEkTkRHyz-nV9hhNg",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:15:37"
+  },
+  {
+    "business_name": "Family guest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "273413",
+    "phone_number": "+91 99362 55935",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 5,
+    "address": "Q9QX+3FJ, Fatima Hospital By-Pass Rd, Shatabdipuram, Gorakhpur, Uttar Pradesh 273014",
+    "area": "Shatabdipuram",
+    "latitude": 26.7877108,
+    "longitude": 83.3986461,
+    "place_id": "ChIJGfCkUQBFkTkR6SIATr8iLbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGfCkUQBFkTkR6SIATr8iLbU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:15:37"
+  }
+]

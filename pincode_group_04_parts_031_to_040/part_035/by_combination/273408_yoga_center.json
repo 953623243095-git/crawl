@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Golden Gym Gola",
+    "search_category": "Yoga Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "273408",
+    "phone_number": "+91 84295 81898",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Post, Vill, Bisara, Gola, Uttar Pradesh 273408",
+    "area": "Vill",
+    "latitude": 26.362344,
+    "longitude": 83.338557,
+    "place_id": "ChIJsbHrdUJxkTkRE_IaDeRP9Hs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsbHrdUJxkTkRE_IaDeRP9Hs",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:07:57"
+  },
+  {
+    "business_name": "NATRAJ MARTIAL ART AND YOGA ACADEMY",
+    "search_category": "Yoga Center",
+    "primary_category": "Karate club",
+    "all_categories": "Karate club, Yoga instructor",
+    "pincode": "273408",
+    "phone_number": "+91 98895 69933",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "SNSS Academy, FATIMA BYPASS ROAD, near SANGAM CHOWK, Padri Bazar, Hussain Nagar, Gorakhpur, Uttar Pradesh 273014",
+    "area": "Padri Bazar, Hussain Nagar",
+    "latitude": 26.7830038,
+    "longitude": 83.40095889999999,
+    "place_id": "ChIJO62GKhVFkTkR98NXaYKQx-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO62GKhVFkTkR98NXaYKQx-I",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:07:58"
+  }
+]

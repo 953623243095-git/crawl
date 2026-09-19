@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Poultry Farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "274301",
+    "phone_number": "+91 79051 87570",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Amdariya Mehadiganj Road, near Durga Mata Mandir, Padrauna, Kusumahi, Uttar Pradesh 274305",
+    "area": "274301",
+    "latitude": 26.8886793,
+    "longitude": 83.8841089,
+    "place_id": "ChIJ8_6Ap4nzkzkRPfS06f6mmGQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8_6Ap4nzkzkRPfS06f6mmGQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:35:17"
+  },
+  {
+    "business_name": "Azad Chicken Centre",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken shop",
+    "all_categories": "Chicken shop",
+    "pincode": "274301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "VPV7+45V, Kaptanganj-Hata Rd, Rd, Ghiwahi, Singhari, Uttar Pradesh 274301",
+    "area": "Rd",
+    "latitude": 26.892865399999998,
+    "longitude": 83.712924,
+    "place_id": "ChIJDSDAazb7kzkRqGGWZ5_bzDY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDSDAazb7kzkRqGGWZ5_bzDY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:35:19"
+  }
+]

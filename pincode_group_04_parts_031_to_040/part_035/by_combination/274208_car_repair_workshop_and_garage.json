@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bambey Auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "274208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Pachladhi, Chauraha, Pachalri chauraha, Baida, Ratanpur, Uttar Pradesh 274208",
+    "area": "274208",
+    "latitude": 26.455581199999997,
+    "longitude": 83.54367549999999,
+    "place_id": "ChIJTcBbXfhjkTkRaN4X6cppZHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTcBbXfhjkTkRaN4X6cppZHo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:34:05"
+  },
+  {
+    "business_name": "Hyundai Service Centre SAKET HYUNDAI BASTI",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "274208",
+    "phone_number": "+91 95593 20499",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shiv Nagar, Turkahiya, Basti, Uttar Pradesh 272001",
+    "area": "Shiv Nagar, Turkahiya",
+    "latitude": 26.7891309,
+    "longitude": 82.73234219999999,
+    "place_id": "ChIJafJHQS_FkDkReS4SUxWEo5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJafJHQS_FkDkReS4SUxWEo5A",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:34:07"
+  }
+]

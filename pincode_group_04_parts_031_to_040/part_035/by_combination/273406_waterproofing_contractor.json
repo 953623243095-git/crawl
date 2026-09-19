@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaudhary Waterproofing Company",
+    "search_category": "Waterproofing Contractor",
+    "primary_category": "Waterproofing service",
+    "all_categories": "Waterproofing service, Contractor",
+    "pincode": "273406",
+    "phone_number": "+91 98200 78052",
+    "website": "https://roofwaterproofing.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Sai Commercial Centre, 205 A, Linking Rd, Khar West, Mumbai, Maharashtra 400052",
+    "area": "Khar West",
+    "latitude": 19.0657907,
+    "longitude": 72.8339274,
+    "place_id": "ChIJ4_VJNw7J5zsRkNrT5lPLJnI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4_VJNw7J5zsRkNrT5lPLJnI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:04:42"
+  },
+  {
+    "business_name": "Kalindi Enterprises",
+    "search_category": "Waterproofing Contractor",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "273406",
+    "phone_number": "+91 80813 68697",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2 NAUSAR, Kaudiram Road, Gorakhpur, Uttar Pradesh 273016",
+    "area": "273406",
+    "latitude": 26.727109799999997,
+    "longitude": 83.3353458,
+    "place_id": "ChIJe6ToG4dBkTkRfICI2sLpE1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe6ToG4dBkTkRfICI2sLpE1k",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:04:43"
+  }
+]

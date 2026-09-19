@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pandey Majha , Rajghar",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "274208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CH92+52C, Pandey Majha Rajghar, Uttar Pradesh 274204",
+    "area": "274208",
+    "latitude": 26.4179288,
+    "longitude": 83.5500184,
+    "place_id": "ChIJyUsoXgB9kTkRII8c_ldJaB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyUsoXgB9kTkRII8c_ldJaB4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:34:50"
+  },
+  {
+    "business_name": "Nisha Singh Insurance advisor",
+    "search_category": "Insurance Agent",
+    "primary_category": "Life insurance agency",
+    "all_categories": "Life insurance agency",
+    "pincode": "274208",
+    "phone_number": "+91 94150 76111",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bazaar, Vikramjot, Shankarpur, Uttar Pradesh 272129",
+    "area": "274208",
+    "latitude": 26.7973988,
+    "longitude": 82.3012236,
+    "place_id": "ChIJa5mfdMCvkDkROXXOjJFAoTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa5mfdMCvkDkROXXOjJFAoTU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:34:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satahwa family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "273407",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 9,
+    "address": "JJF9+Q94, Deoria Rd, Chaori, Uttar Pradesh 273201",
+    "area": "273407",
+    "latitude": 26.6243756,
+    "longitude": 83.618467,
+    "place_id": "ChIJIZ93uW7fkzkRGnR7mnorEEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIZ93uW7fkzkRGnR7mnorEEE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:05:52"
+  },
+  {
+    "business_name": "Sundar Family Daba",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "273407",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 59,
+    "address": "Q62F+G8, GIDA Industrial Area Phase 1, Sahjanwa, Uttar Pradesh 273209",
+    "area": "GIDA Industrial Area Phase 1",
+    "latitude": 26.751250499999998,
+    "longitude": 83.2233292,
+    "place_id": "ChIJSVyauSQ5kTkRk_MW0smmyFY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSVyauSQ5kTkRk_MW0smmyFY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:05:52"
+  }
+]

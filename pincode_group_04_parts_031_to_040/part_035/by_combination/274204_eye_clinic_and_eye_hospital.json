@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Vision Centre Rudrapur",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "274204",
+    "phone_number": "+91 90766 06551",
+    "website": "http://www.rajeye.com/",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "near Tehsil, Rudrapur, Uttar Pradesh 274204",
+    "area": "274204",
+    "latitude": 26.4470665,
+    "longitude": 83.619593,
+    "place_id": "ChIJL9AVHwDXkzkR_io-qMjH6Xg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL9AVHwDXkzkR_io-qMjH6Xg",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:27:12"
+  },
+  {
+    "business_name": "Bhairahwa Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "274204",
+    "phone_number": "+91 94515 41318",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": 4,
+    "address": "Adarsh Chowk ,Pidara Road ,Rudrapur ,Opp.- Bank Of Barauda, Deoria, Uttar Pradesh 274204",
+    "area": "274204",
+    "latitude": 26.4473684,
+    "longitude": 83.60566399999999,
+    "place_id": "ChIJyTKMYcjXkzkR-IIAvpdRaRA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyTKMYcjXkzkR-IIAvpdRaRA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:27:12"
+  }
+]

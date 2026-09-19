@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pooja medical store naibazar",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "273413",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "HHPC+H23, Nai Bazar Sadak, Jungle Rasoolpur No.2, Uttar Pradesh 273203",
+    "area": "273413",
+    "latitude": 26.5863841,
+    "longitude": 83.5700598,
+    "place_id": "ChIJSyuPxqNhkTkRficFwrUE4As",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSyuPxqNhkTkRficFwrUE4As",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:15:04"
+  },
+  {
+    "business_name": "Shubham Medical Store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "273413",
+    "phone_number": "+91 99369 02410",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HHQC+6GX, Nai Bazar Sadak, Jungle Rasoolpur No.2, Uttar Pradesh 273203",
+    "area": "273413",
+    "latitude": 26.588100299999997,
+    "longitude": 83.5713464,
+    "place_id": "ChIJ10r9W8dhkTkRllqyzo16SUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ10r9W8dhkTkRllqyzo16SUQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:15:04"
+  }
+]

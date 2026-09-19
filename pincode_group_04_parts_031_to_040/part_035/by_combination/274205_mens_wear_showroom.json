@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishal Mens Wear",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "274205",
+    "phone_number": "+91 96480 45930",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Patel Marg, Road, Thana, Uttar Pradesh 274204",
+    "area": "274205",
+    "latitude": 26.4457374,
+    "longitude": 83.6128859,
+    "place_id": "ChIJw-VOBS_XkzkRi5YNEv-zT4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw-VOBS_XkzkRi5YNEv-zT4o",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:28:46"
+  },
+  {
+    "business_name": "Style Collection Men's Wear",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "274205",
+    "phone_number": "+91 70659 65413",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FQXG+FGF, Kachahari Hanuman Mandir Rd, Raghav Nagar, Deoria, Uttar Pradesh 274001",
+    "area": "Raghav Nagar",
+    "latitude": 26.4986823,
+    "longitude": 83.7763082,
+    "place_id": "ChIJg7Ut-zjFkzkR24C6PsKyam0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg7Ut-zjFkzkR24C6PsKyam0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:28:48"
+  }
+]

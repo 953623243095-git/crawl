@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ambar Paints",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "274206",
+    "phone_number": "+91 98398 53382",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kasia Bazaar, Kushinagar, Uttar Pradesh 274403",
+    "area": "274206",
+    "latitude": 26.7400119,
+    "longitude": 83.9121071,
+    "place_id": "ChIJn8G_ihrrkzkRWN-1etJiwd8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn8G_ihrrkzkRWN-1etJiwd8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:30:55"
+  },
+  {
+    "business_name": "Sandeep Pent Store",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store, Paintings store",
+    "pincode": "274206",
+    "phone_number": "+91 89687 63151",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "1, Gosaiganj, Uttar Pradesh 271825",
+    "area": "274206",
+    "latitude": 27.499049499999998,
+    "longitude": 81.5111002,
+    "place_id": "ChIJi3ASxjgHmTkRGDf6P--jW-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi3ASxjgHmTkRGDf6P--jW-w",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:30:55"
+  }
+]

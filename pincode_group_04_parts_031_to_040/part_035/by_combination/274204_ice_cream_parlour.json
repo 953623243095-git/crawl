@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ice cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "274204",
+    "phone_number": "+91 96218 84871",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Food Corner Masjid Ward, Rudrapur, Uttar Pradesh 274204",
+    "area": "274204",
+    "latitude": 26.4439358,
+    "longitude": 83.61440329999999,
+    "place_id": "ChIJj9jgcXfXkzkR_DUIJP_UzlI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj9jgcXfXkzkR_DUIJP_UzlI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:26:58"
+  },
+  {
+    "business_name": "Creambell",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "274204",
+    "phone_number": "+91 73793 04663",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Imambada road, near Kotwali, Rudrapur, Uttar Pradesh 274204",
+    "area": "274204",
+    "latitude": 26.442597499999998,
+    "longitude": 83.6098231,
+    "place_id": "ChIJu9IKTMfXkzkR1wtERFk_0QU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu9IKTMfXkzkR1wtERFk_0QU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:26:58"
+  }
+]

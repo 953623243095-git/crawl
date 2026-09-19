@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Angel Beauty Salon & Training Center",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beautician",
+    "all_categories": "Beautician",
+    "pincode": "273409",
+    "phone_number": "+91 91989 45169",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gulariya Bazar, Gorakhpur, Uttar Pradesh 273013",
+    "area": "273409",
+    "latitude": 26.8487339,
+    "longitude": 83.4431506,
+    "place_id": "ChIJo6ZXvkNRkTkRAe79UxsjPaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo6ZXvkNRkTkRAe79UxsjPaE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:10:06"
+  },
+  {
+    "business_name": "Beauty Store",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "273409",
+    "phone_number": "+91 95696 15969",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Goithaha, Bhadsar, Uttar Pradesh 272152",
+    "area": "273409",
+    "latitude": 27.0262696,
+    "longitude": 83.0258903,
+    "place_id": "ChIJR_AHPXTTljkRs0lfGvCAxdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR_AHPXTTljkRs0lfGvCAxdU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:10:07"
+  }
+]

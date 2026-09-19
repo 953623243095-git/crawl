@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A-Man Collection",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "274182",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "main road, Bhaluani, Uttar Pradesh 274182",
+    "area": "274182",
+    "latitude": 26.357575999999998,
+    "longitude": 83.7761378,
+    "place_id": "ChIJn9wetqzNkzkROjFF1PBrDK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn9wetqzNkzkROjFF1PBrDK8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:20:10"
+  },
+  {
+    "business_name": "Lady Bird",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "274182",
+    "phone_number": "+91 77550 31431",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main road, opp. golden life academy, bhaluani, Dumari, Uttar Pradesh 274182",
+    "area": "bhaluani",
+    "latitude": 26.3732506,
+    "longitude": 83.7638097,
+    "place_id": "ChIJr7_uCzzNkzkRLJ6nOShzRP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr7_uCzzNkzkRLJ6nOShzRP8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:20:12"
+  }
+]

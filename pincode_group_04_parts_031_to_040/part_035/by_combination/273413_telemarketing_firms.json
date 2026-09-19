@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Avinash Enterprises",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "273413",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Itkauli, Kauriram, Uttar Pradesh 273413",
+    "area": "273413",
+    "latitude": 26.5243687,
+    "longitude": 83.4129705,
+    "place_id": "ChIJi-TU_v1vkTkRhe6qyE97el4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi-TU_v1vkTkRhe6qyE97el4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:16:13"
+  },
+  {
+    "business_name": "The Mobile Palace",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "273413",
+    "phone_number": "+91 99367 04013",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Krtpura, Pachladi, Bishunpur Baghi, Uttar Pradesh 274208",
+    "area": "Krtpura",
+    "latitude": 26.4648978,
+    "longitude": 83.53824499999999,
+    "place_id": "ChIJCxAxzNlFkTkRnSM1FVNSsHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCxAxzNlFkTkRnSM1FVNSsHo",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:16:15"
+  }
+]

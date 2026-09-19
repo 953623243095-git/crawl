@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Divya Shoes Point and Redemade Center",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "273405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Q53M+CGG, Bhiti Rawot, Uttar Pradesh 273209",
+    "area": "273405",
+    "latitude": 26.753588999999998,
+    "longitude": 83.18380619999999,
+    "place_id": "ChIJU1jwPwA5kTkRz_YSOdmWTB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU1jwPwA5kTkRz_YSOdmWTB4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:02:21"
+  },
+  {
+    "business_name": "Baranwal Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "273405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jangl Ramgarh Urf Chawri, Uttar Pradesh 273202",
+    "area": "273405",
+    "latitude": 26.6938133,
+    "longitude": 83.4833049,
+    "place_id": "ChIJTcGoKLVdkTkRrW2OwakPQkg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTcGoKLVdkTkRrW2OwakPQkg",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:02:23"
+  }
+]

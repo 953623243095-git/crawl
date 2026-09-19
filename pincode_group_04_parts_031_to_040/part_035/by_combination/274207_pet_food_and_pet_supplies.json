@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Singh Feed And Chicks Centre",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "274207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 8,
+    "address": "PHRP+526, Ramudiha, Uttar Pradesh 273002",
+    "area": "274207",
+    "latitude": 26.7404214,
+    "longitude": 83.5850227,
+    "place_id": "ChIJ9ebH2VNfkTkRGagZb9u4xEY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ebH2VNfkTkRGagZb9u4xEY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:32:00"
+  },
+  {
+    "business_name": "Pet shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "274207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 12,
+    "address": "MHM5+Q8C, Saraiya, Sardarnagar, Uttar Pradesh 273202",
+    "area": "274207",
+    "latitude": 26.6844292,
+    "longitude": 83.5582538,
+    "place_id": "ChIJMcS5SLBfkTkR1ncSbmsllQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMcS5SLBfkTkR1ncSbmsllQw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:32:01"
+  }
+]

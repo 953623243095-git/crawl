@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Sweet And Resturant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "273407",
+    "phone_number": "+91 94505 45951",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 162,
+    "address": "Raj Sweet And Resturant, Uruwa Bazar, Kata Bujurg, Bhuidhara Bujurg, Uttar Pradesh 273407",
+    "area": "Uruwa Bazar",
+    "latitude": 26.453097099999997,
+    "longitude": 83.2572747,
+    "place_id": "ChIJcwZG3yptkTkRgGZ8AdPvnWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcwZG3yptkTkRgGZ8AdPvnWQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:05:43"
+  },
+  {
+    "business_name": "Prince Pizza Point",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "273407",
+    "phone_number": "+91 95183 54089",
+    "website": "http://princpizzapoint.vercel.app/",
+    "rating": 4.3,
+    "reviews_count": 107,
+    "address": "Infront of Hotel Fish King, Sahjanwa, Sahjanwa, Uttar Pradesh 273209",
+    "area": "GIDA Industrial Area Phase 1",
+    "latitude": 26.7525461,
+    "longitude": 83.2171224,
+    "place_id": "ChIJ6R6Hy5M5kTkRWrfeHS_WmH0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6R6Hy5M5kTkRWrfeHS_WmH0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:05:46"
+  }
+]

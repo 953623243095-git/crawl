@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mobile & Laptop Engineering",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Training center",
+    "all_categories": "Training center, Mobile phone repair shop",
+    "pincode": "273413",
+    "phone_number": "+91 72718 53185",
+    "website": "http://mobilelap.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shaheed Smarak Road, Chauri Chaura, Uttar Pradesh 273201",
+    "area": "273413",
+    "latitude": 26.6462722,
+    "longitude": 83.58682619999999,
+    "place_id": "ChIJNRdTrI9hkTkR3qCdAwqFLx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNRdTrI9hkTkR3qCdAwqFLx4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:15:53"
+  },
+  {
+    "business_name": "Network tower",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile network operator",
+    "all_categories": "Mobile network operator",
+    "pincode": "273413",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GG4M+Q4Q, Mundera Thakurai, Uttar Pradesh 273413",
+    "area": "273413",
+    "latitude": 26.5069643,
+    "longitude": 83.5328497,
+    "place_id": "ChIJnx9jDABjkTkRd3V33DCgI58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnx9jDABjkTkRd3V33DCgI58",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:15:54"
+  }
+]

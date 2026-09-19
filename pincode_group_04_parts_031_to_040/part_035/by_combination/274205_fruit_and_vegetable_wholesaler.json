@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vegetables Shop",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "274205",
+    "phone_number": "+91 72758 31135",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "5WC6 55656, Devkali, Uttar Pradesh 274602",
+    "area": "274205",
+    "latitude": 26.1706473,
+    "longitude": 83.9105452,
+    "place_id": "ChIJBdu8mos3kjkRtgwoIxWzc7M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBdu8mos3kjkRtgwoIxWzc7M",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:28:33"
+  },
+  {
+    "business_name": "Satyendra Vegetable Shop",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "274205",
+    "phone_number": "+91 87952 70425",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 344 Indupur, Road, Chauraha, Jogam, Deoria, Uttar Pradesh 274202",
+    "area": "Chauraha",
+    "latitude": 26.5444778,
+    "longitude": 83.6304718,
+    "place_id": "ChIJl8Mme1vZkzkRhx5xTVyKHIk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl8Mme1vZkzkRhx5xTVyKHIk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:28:35"
+  }
+]

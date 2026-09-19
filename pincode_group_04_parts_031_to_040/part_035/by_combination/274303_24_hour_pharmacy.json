@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. R.B.Sharma",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "274303",
+    "phone_number": "+91 87955 27276",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "V2CX+V5J, Kathkuia, Uttar Pradesh 274303",
+    "area": "274303",
+    "latitude": 26.872208399999998,
+    "longitude": 84.047902,
+    "place_id": "ChIJqTfmrTqOkzkREmfud9AshSE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqTfmrTqOkzkREmfud9AshSE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:39:03"
+  },
+  {
+    "business_name": "A-ONE PHARMACY",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Local medical services",
+    "all_categories": "Local medical services",
+    "pincode": "274303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 17,
+    "address": "Balkudia, Nar Chochawa, Uttar Pradesh 274308",
+    "area": "274303",
+    "latitude": 27.0127803,
+    "longitude": 83.95959359999999,
+    "place_id": "ChIJ7RMSe8CLkzkR21STFyl0QJ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7RMSe8CLkzkR21STFyl0QJ4",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:39:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vivek Car Bazaar",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "273403",
+    "phone_number": "+91 99356 69306",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Prashant Tower, Transport Nagar, Gorakhpur, Uttar Pradesh 273016",
+    "area": "Transport Nagar",
+    "latitude": 26.7337931,
+    "longitude": 83.35745639999999,
+    "place_id": "ChIJq4VJA_xDkTkRyQRkznLwQmQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq4VJA_xDkTkRyQRkznLwQmQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 05:58:58"
+  },
+  {
+    "business_name": "Yash Cars Hub Pvt. Ltd.",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "273403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "R92C+5J4, Sports College Rd, Nakaha no 1, Gorakhpur, Uttar Pradesh 273004",
+    "area": "Nakaha no 1",
+    "latitude": 26.800375799999998,
+    "longitude": 83.37157529999999,
+    "place_id": "ChIJZWN0eqRFkTkR6KuKCqXHpCc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZWN0eqRFkTkR6KuKCqXHpCc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 05:59:02"
+  }
+]

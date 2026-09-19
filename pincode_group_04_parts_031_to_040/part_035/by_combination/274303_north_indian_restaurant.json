@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Siddhesh Lodgings",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge, Family restaurant, Guest house, Hotel, Inn, Motel, Non Vegetarian Restaurant, North Indian restaurant, Restaurant",
+    "pincode": "274303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kasia - Padrauna Rd, near Railway Crossing, Sohrauna, Kushinagar, Padrauna, Uttar Pradesh 274304",
+    "area": "Sohrauna",
+    "latitude": 26.886074699999998,
+    "longitude": 83.9738237,
+    "place_id": "ChIJNeazqEqNkzkRxzHyw8uf_-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNeazqEqNkzkRxzHyw8uf_-8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:38:49"
+  },
+  {
+    "business_name": "Calorie Kitchen",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Family restaurant, Fast food restaurant, Restaurant",
+    "pincode": "274303",
+    "phone_number": "+91 80098 72345",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 648,
+    "address": "Brij Complex, in front of Saahu Palace, Munna Colony, Tulsi Nagar, Khushi Nagar, Padrauna, Uttar Pradesh 274304",
+    "area": "Munna Colony, Tulsi Nagar, Khushi Nagar",
+    "latitude": 26.895215099999998,
+    "longitude": 83.97820349999999,
+    "place_id": "ChIJU2Oi77ONkzkRKOjwrjsz08k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU2Oi77ONkzkRKOjwrjsz08k",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:38:49"
+  }
+]

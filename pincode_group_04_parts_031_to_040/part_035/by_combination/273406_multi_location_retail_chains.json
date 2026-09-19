@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vallabh Tower",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "273406",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Boring No.-10, Gorakhnath, Gorakhpur, Uttar Pradesh 273015",
+    "area": "Gorakhnath",
+    "latitude": 26.7854876,
+    "longitude": 83.35695109999999,
+    "place_id": "ChIJwx0Wy4JFkTkRXyw5RmQ4EsQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwx0Wy4JFkTkRXyw5RmQ4EsQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:05:33"
+  },
+  {
+    "business_name": "Anil Traders",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "273406",
+    "phone_number": "+91 94548 43240",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "494, Market Kesopur, Sahjanwa, Uttar Pradesh 273209",
+    "area": "273406",
+    "latitude": 26.753789599999998,
+    "longitude": 83.2135271,
+    "place_id": "ChIJNXzqU5c5kTkRVHI_UEhjUFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNXzqU5c5kTkRVHI_UEhjUFk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:05:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khandelwal Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "273409",
+    "phone_number": "+91 73576 23139",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Mandawar, Rajasthan 321609",
+    "area": "273409",
+    "latitude": 27.155664899999998,
+    "longitude": 76.852982,
+    "place_id": "ChIJy6T5iQtdcjkRswjz2l4urYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy6T5iQtdcjkRswjz2l4urYk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:10:24"
+  },
+  {
+    "business_name": "Nerbudda Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Scrapbooking store",
+    "pincode": "273409",
+    "phone_number": "+91 98277 76646",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 92,
+    "address": "1105, Andherdeo, Ganjipura, Jabalpur, Madhya Pradesh 482002",
+    "area": "Andherdeo, Ganjipura",
+    "latitude": 23.1736053,
+    "longitude": 79.9340422,
+    "place_id": "ChIJQZKOwhaugTkRJO22awAa7_I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQZKOwhaugTkRJO22awAa7_I",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:10:24"
+  }
+]

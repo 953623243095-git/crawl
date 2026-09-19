@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BHARAT AUTO PARTS AND GARAGE",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "273412",
+    "phone_number": "+91 98383 25411",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Adarsh Chauraha, road, Pidra, Rudrapur, Uttar Pradesh 274204",
+    "area": "273412",
+    "latitude": 26.447812499999998,
+    "longitude": 83.6040625,
+    "place_id": "ChIJ_cuAUjvXkzkRD6ki5SPIgus",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_cuAUjvXkzkRD6ki5SPIgus",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:13:17"
+  },
+  {
+    "business_name": "Santosh Auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "273412",
+    "phone_number": "+91 93356 01020",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "0, Katai, Gorakhpur, Uttar Pradesh 274202",
+    "area": "273412",
+    "latitude": 26.5218359,
+    "longitude": 83.6190455,
+    "place_id": "ChIJU69xcGjZkzkRKmOVS_8Y3H8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU69xcGjZkzkRKmOVS_8Y3H8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:13:20"
+  }
+]

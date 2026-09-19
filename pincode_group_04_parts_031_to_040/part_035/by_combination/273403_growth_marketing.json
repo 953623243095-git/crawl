@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Growth Engine",
+    "search_category": "Growth Marketing",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "273403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Subji Mandi, Kauriram, Dhska, Uttar Pradesh 273413",
+    "area": "Subji Mandi",
+    "latitude": 26.5341664,
+    "longitude": 83.41129,
+    "place_id": "ChIJSSPbJ9BvkTkR_m2MSflVg5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSSPbJ9BvkTkR_m2MSflVg5E",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:00:09"
+  },
+  {
+    "business_name": "YourGrowthBuddy",
+    "search_category": "Growth Marketing",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "273403",
+    "phone_number": "+91 91125 49823",
+    "website": "https://yourgrowthbuddy.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SheoSampati Warehouse, Taramandal Rd, Rail Vihar Colony Phase 3rd, Phase 3rd, Gorakhpur, Uttar Pradesh 273016",
+    "area": "Rail Vihar Colony Phase 3rd, Phase 3rd",
+    "latitude": 26.7128689,
+    "longitude": 83.40637129999999,
+    "place_id": "ChIJG3acwr1DkTkR5MkL_GXEYsY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG3acwr1DkTkR5MkL_GXEYsY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:00:10"
+  }
+]

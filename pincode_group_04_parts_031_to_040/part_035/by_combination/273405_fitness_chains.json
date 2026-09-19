@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fitness Bunker",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "273405",
+    "phone_number": "+91 91940 52223",
+    "website": "https://www.instagram.com/fitness._bunker?igsh=MXF3YW9vMmQyNHljcA==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nishad Complex, B 71/5, near Fish Market, Surajkund Colony, Gorakhpur, Uttar Pradesh 273015",
+    "area": "Surajkund Colony",
+    "latitude": 26.7663041,
+    "longitude": 83.3456934,
+    "place_id": "ChIJO1tBUwBFkTkR7A0U8PUaiMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO1tBUwBFkTkR7A0U8PUaiMA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:02:34"
+  },
+  {
+    "business_name": "Ultimate Fitness Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "273405",
+    "phone_number": "+91 73980 76129",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 151,
+    "address": "front of fatima hospital, Fatima by pass road, Padri Bazar, Hussain Nagar, Gorakhpur, Uttar Pradesh 273014",
+    "area": "Padri Bazar, Hussain Nagar",
+    "latitude": 26.7864486,
+    "longitude": 83.3994349,
+    "place_id": "ChIJ0RDhiGZEkTkR878kxSFPYJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0RDhiGZEkTkR878kxSFPYJY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:02:35"
+  }
+]

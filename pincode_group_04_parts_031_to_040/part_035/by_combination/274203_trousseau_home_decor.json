@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mourya Home Decor",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Wallpaper store",
+    "all_categories": "Wallpaper store",
+    "pincode": "274203",
+    "phone_number": "+91 83829 66576",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Khadda Rd, near Railway Dhala, Bawali Chowk, Tulsi Nagar, Khushi Nagar, Padrauna, Uttar Pradesh 274304",
+    "area": "Bawali Chowk, Tulsi Nagar, Khushi Nagar",
+    "latitude": 26.9094041,
+    "longitude": 83.9629425,
+    "place_id": "ChIJ5RYrnOCNkzkRWUAmYX_nYjA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5RYrnOCNkzkRWUAmYX_nYjA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:26:07"
+  },
+  {
+    "business_name": "Star Phool Bhandar",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "274203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "75, Kasia Bazaar, Uttar Pradesh 274402",
+    "area": "274203",
+    "latitude": 26.7452994,
+    "longitude": 83.9167366,
+    "place_id": "ChIJUWrH4ZHrkzkRu7MEuy-QRpg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUWrH4ZHrkzkRu7MEuy-QRpg",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:26:07"
+  }
+]

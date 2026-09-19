@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucky Electricals - Rewinding",
+    "search_category": "Motor Rewinding and Pump Repair",
+    "primary_category": "Electric motor repair shop",
+    "all_categories": "Electric motor repair shop, Electric motor store, Electrical repair shop, Machine repair service, Repair service",
+    "pincode": "274301",
+    "phone_number": "+91 80768 33911",
+    "website": "https://ant482700-prog.github.io/lucky-electricals/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3628/A, Gali Number 98, near Mount Olivet School, Block B, Sant Nagar, Burari, Delhi, 110084",
+    "area": "Block B, Sant Nagar, Burari",
+    "latitude": 28.7429281,
+    "longitude": 77.2046084,
+    "place_id": "ChIJhYmZwEf_DDkRwrdR-slgaXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhYmZwEf_DDkRwrdR-slgaXc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:36:43"
+  },
+  {
+    "business_name": "Chitransh Electric",
+    "search_category": "Motor Rewinding and Pump Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "274301",
+    "phone_number": "+91 99352 27810",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "VRXP 764, Bus Stand Road, Ramkola, Uttar Pradesh 274305",
+    "area": "274301",
+    "latitude": 26.8996933,
+    "longitude": 83.836479,
+    "place_id": "ChIJW-nNG9rxkzkRewKeyeMkNHY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW-nNG9rxkzkRewKeyeMkNHY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:36:43"
+  }
+]

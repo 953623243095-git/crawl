@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Bakers",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "274206",
+    "phone_number": "+91 91204 46702",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "Kushinagar, Uttar Pradesh 274403",
+    "area": "274206",
+    "latitude": 26.7446113,
+    "longitude": 83.88948599999999,
+    "place_id": "ChIJDRDVrODrkzkR5Dc5JnNI1m0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDRDVrODrkzkR5Dc5JnNI1m0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:30:20"
+  },
+  {
+    "business_name": "Maa chaumin burger point",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "274206",
+    "phone_number": "+91 86015 62836",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shampur chauraha Shampur, Uttar Pradesh 274405",
+    "area": "274206",
+    "latitude": 26.629280899999998,
+    "longitude": 83.8432772,
+    "place_id": "ChIJAzAk0njDkzkRhKWkd70gGhs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAzAk0njDkzkRhKWkd70gGhs",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:30:20"
+  }
+]

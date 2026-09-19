@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ravi Flowers",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Event planner, Flooring store, Flower delivery, Flower designer, Wedding service",
+    "pincode": "274204",
+    "phone_number": "+91 99199 39711",
+    "website": "http://www.raviflowers.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "2, Malgodam Rd, LIC road, Bahadurpur, Ballia, Uttar Pradesh 277001",
+    "area": "LIC road, Bahadurpur",
+    "latitude": 25.7581673,
+    "longitude": 84.15309549999999,
+    "place_id": "ChIJmwJoX9tlkjkRxobc2IvEyro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmwJoX9tlkjkRxobc2IvEyro",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:27:47"
+  },
+  {
+    "business_name": "Flower Shops Uttarakhand",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Dried flower shop, Flower delivery, Flower designer, Flower market",
+    "pincode": "274204",
+    "phone_number": "+91 74540 87399",
+    "website": "http://flowershopsuttarakhand.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "101, Gandhi Park Rd, Rudrapur, Uttarakhand 263153",
+    "area": "274204",
+    "latitude": 28.9784352,
+    "longitude": 79.3985186,
+    "place_id": "ChIJ4z-i5iVfcaYRkQ33aCj8KqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4z-i5iVfcaYRkQ33aCj8KqA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:27:47"
+  }
+]

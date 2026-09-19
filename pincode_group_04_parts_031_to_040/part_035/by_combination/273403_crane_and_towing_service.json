@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tochanwala Assistance",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Service establishment",
+    "pincode": "273403",
+    "phone_number": "+91 88772 47365",
+    "website": "https://tochanwala.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Tochanwala Assistance, 273403, India",
+    "area": "273403",
+    "latitude": 19.1208539,
+    "longitude": 73.0965606,
+    "place_id": "ChIJpbuqrX-75zsRXjeZrWr44Jc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpbuqrX-75zsRXjeZrWr44Jc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 05:59:06"
+  },
+  {
+    "business_name": "Tops Towing Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Service establishment",
+    "pincode": "273403",
+    "phone_number": "N/A",
+    "website": "https://topstowingservice.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Tops Towing Service, 273403, India",
+    "area": "273403",
+    "latitude": 29.35519,
+    "longitude": -98.4633315,
+    "place_id": "ChIJQZviywHFUSMRORxjvPdVv_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQZviywHFUSMRORxjvPdVv_s",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 05:59:06"
+  }
+]

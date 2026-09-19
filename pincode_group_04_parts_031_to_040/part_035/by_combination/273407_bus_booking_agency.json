@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Elite Holidays India (Tours & Travels)",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator",
+    "pincode": "273407",
+    "phone_number": "+91 70683 07261",
+    "website": "http://www.eliteholidays.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3rd Floor, The Mall, Q938+5VC, Bank Rd, Cross, Road, Gorakhpur, Uttar Pradesh 273001",
+    "area": "VindyaVasini Nagar",
+    "latitude": 26.7528932,
+    "longitude": 83.36677859999999,
+    "place_id": "ChIJaRMOeuhFkTkRFWM-z9vsFwQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaRMOeuhFkTkRFWM-z9vsFwQ",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:06:17"
+  },
+  {
+    "business_name": "Balaji Online Service Point",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Information & Referral Services Agency",
+    "pincode": "273407",
+    "phone_number": "+91 91401 29382",
+    "website": "https://balaji-online-service.grexa.site/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Main Road, Mahadeva Bazar, Barhyapar, Rihil Par, Uttar Pradesh 273211",
+    "area": "Mahadeva Bazar",
+    "latitude": 26.5571466,
+    "longitude": 83.2183529,
+    "place_id": "ChIJA6NOA24VkTkRJMG25rc2OxE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA6NOA24VkTkRJMG25rc2OxE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:06:19"
+  }
+]

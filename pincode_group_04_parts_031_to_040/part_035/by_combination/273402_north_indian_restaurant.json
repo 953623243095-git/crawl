@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Aditya Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "273402",
+    "phone_number": "+91 73808 81645",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 148,
+    "address": "Near aiims gate no 4 vishunpurwa, Deoria Rd, Gorakhpur, Uttar Pradesh 273008",
+    "area": "Awas Vikas Colony, Rapti Nagar Phase-4",
+    "latitude": 26.740995599999998,
+    "longitude": 83.42278,
+    "place_id": "ChIJ9STXyt9bkTkRtFfTfdBW-_I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9STXyt9bkTkRtFfTfdBW-_I",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 05:56:35"
+  },
+  {
+    "business_name": "Indian food express",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "273402",
+    "phone_number": "+91 93599 90402",
+    "website": "http://indianfoodexpress.com/",
+    "rating": 4.6,
+    "reviews_count": 38,
+    "address": "Badgo mod, near TVS agency, Hata Bazar, gorakhpur, Uttar Pradesh 273412",
+    "area": "Hata Bazar",
+    "latitude": 26.367977399999997,
+    "longitude": 83.4727411,
+    "place_id": "ChIJYZQTqTN7kTkRLhQxh_Sy3mU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYZQTqTN7kTkRLhQxh_Sy3mU",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 05:56:37"
+  }
+]

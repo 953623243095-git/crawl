@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CSC Belkunda",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio, Copy shop, Outdoor activity organiser, Sightseeing Tour Operator, Video editing service, Wedding photographer",
+    "pincode": "274202",
+    "phone_number": "+91 95062 89478",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Yadav Bhawan Katai Awadhpur, Gauri Bazar, Uttar Pradesh 274202",
+    "area": "274202",
+    "latitude": 26.5310441,
+    "longitude": 83.6455967,
+    "place_id": "ChIJPWLPCRrZkzkRf1okUx4r7i8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPWLPCRrZkzkRf1okUx4r7i8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:23:59"
+  },
+  {
+    "business_name": "Nitesh travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "274202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MB complex, near central bank of india, Baitalpur, Uttar Pradesh 274201",
+    "area": "274202",
+    "latitude": 26.5563517,
+    "longitude": 83.7352444,
+    "place_id": "ChIJf5rntVzbkzkRDYWTx8A_QOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf5rntVzbkzkRDYWTx8A_QOA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:23:59"
+  }
+]

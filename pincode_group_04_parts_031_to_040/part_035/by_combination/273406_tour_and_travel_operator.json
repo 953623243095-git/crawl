@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjiv tours and travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Mobile phone repair shop",
+    "pincode": "273406",
+    "phone_number": "+91 99363 79274",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "after primary school gate, Khajani - Bansgaon Rd, Rudrapur, Khajani, Uttar Pradesh 273212",
+    "area": "273406",
+    "latitude": 26.6553971,
+    "longitude": 83.2488266,
+    "place_id": "ChIJcR2Mt7VFkTkR1vkPjEp5mK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcR2Mt7VFkTkR1vkPjEp5mK8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:04:29"
+  },
+  {
+    "business_name": "New Singh Tour and Travel",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Taxi service, Tour operator",
+    "pincode": "273406",
+    "phone_number": "+91 78000 90799",
+    "website": "http://www.singhtourntravels.org/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No 19, Gate No 3, opp. Railway Station, Qazipur Khurd, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Qazipur Khurd",
+    "latitude": 26.744925799999997,
+    "longitude": 83.3656519,
+    "place_id": "ChIJEy-NgtNFkTkRrE96su4lji0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEy-NgtNFkTkRrE96su4lji0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:04:30"
+  }
+]

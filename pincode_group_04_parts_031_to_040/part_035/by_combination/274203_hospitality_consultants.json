@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sony Restaurant",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "274203",
+    "phone_number": "+91 91406 28617",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "Kasiya, Gorakhpur, Uttar Pradesh 274402",
+    "area": "274203",
+    "latitude": 26.7496002,
+    "longitude": 83.9078504,
+    "place_id": "ChIJbXfATFHrkzkRS22_hSyzFbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbXfATFHrkzkRS22_hSyzFbM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:26:07"
+  },
+  {
+    "business_name": "SP NDT SERVICES",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "274203",
+    "phone_number": "+91 98735 61880",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Fazilnagar, Bakulahar Khurd, Uttar Pradesh 274401",
+    "area": "274203",
+    "latitude": 26.6484374,
+    "longitude": 84.0378894,
+    "place_id": "ChIJo14VxYS9kzkR8E6gp0Riv6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo14VxYS9kzkR8E6gp0Riv6Y",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:26:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TOPGRAIN",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "274304",
+    "phone_number": "+91 484 404 3340",
+    "website": "http://topgrain.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "S A Road, South Square, Near, S Railway Overbridge, Manorama Junction, Ernakulam, Keralam 682036",
+    "area": "Manorama Junction, Panampilly Nagar",
+    "latitude": 9.9653001,
+    "longitude": 76.2937322,
+    "place_id": "ChIJPUWZXUxzCDsRNaIynEGg_mw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPUWZXUxzCDsRNaIynEGg_mw",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:40:41"
+  },
+  {
+    "business_name": "Laundry Legend Laundry & Dry Clean Services",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Laundry service",
+    "all_categories": "Laundry service",
+    "pincode": "274304",
+    "phone_number": "N/A",
+    "website": "https://laundrylegend.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "in front of Saraswati Hospital, Bawali Chowk, Tulsi Nagar, Khushi Nagar, Padrauna, Uttar Pradesh 274304",
+    "area": "Bawali Chowk, Tulsi Nagar, Khushi Nagar",
+    "latitude": 26.906443,
+    "longitude": 83.9660834,
+    "place_id": "ChIJuVCuWh2NkzkR2xb9oxw6A0w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuVCuWh2NkzkR2xb9oxw6A0w",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:40:43"
+  }
+]

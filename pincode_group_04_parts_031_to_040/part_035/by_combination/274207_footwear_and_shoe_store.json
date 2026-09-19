@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAAJ FOOTWEAR",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Restaurant",
+    "pincode": "274207",
+    "phone_number": "+91 83828 23997",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "01 Sonbarsa Bazar, Uttar Pradesh 273002",
+    "area": "274207",
+    "latitude": 26.7393795,
+    "longitude": 83.5827888,
+    "place_id": "ChIJ4TNT7VFfkTkRFs6clSjzJRM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4TNT7VFfkTkRFs6clSjzJRM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:32:13"
+  },
+  {
+    "business_name": "lari shoe",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "274207",
+    "phone_number": "+91 94502 32915",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Major District Road, 58E, Tamakuhi, Tamakuhi Raj, Uttar Pradesh 274407",
+    "area": "Tamakuhi",
+    "latitude": 26.6925325,
+    "longitude": 84.1825854,
+    "place_id": "ChIJ4VUqU7KYkzkRkoVc3vsP9mM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4VUqU7KYkzkRkoVc3vsP9mM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:32:13"
+  }
+]

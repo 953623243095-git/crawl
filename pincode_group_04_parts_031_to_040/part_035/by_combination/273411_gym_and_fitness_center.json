@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Synergy Fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Aerobics Class, Weightlifting area, Yoga studio",
+    "pincode": "273411",
+    "phone_number": "+91 93364 19063",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Vindhyawasini neuro centre, Jail Rd, Shahpur, Gorakhpur, Uttar Pradesh 273006",
+    "area": "Shahpur",
+    "latitude": 26.7702924,
+    "longitude": 83.3861469,
+    "place_id": "ChIJdwQzgvNFkTkRoGRmVt_tpCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdwQzgvNFkTkRoGRmVt_tpCg",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:11:33"
+  },
+  {
+    "business_name": "Firehouse fitness Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Fitness center, Weight loss service",
+    "pincode": "273411",
+    "phone_number": "+91 94521 59568",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 296,
+    "address": "Sonauli Rd, saket nagar, Dayanand Nagar, Gorakhpur, Uttar Pradesh 273015",
+    "area": "saket nagar, Dayanand Nagar",
+    "latitude": 26.794336299999998,
+    "longitude": 83.3555787,
+    "place_id": "ChIJpypzydhFkTkR0Pjn5WkYfZ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpypzydhFkTkR0Pjn5WkYfZ8",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:11:34"
+  }
+]

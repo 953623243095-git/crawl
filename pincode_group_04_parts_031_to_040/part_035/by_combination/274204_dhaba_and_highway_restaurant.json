@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Biryani Point",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "274204",
+    "phone_number": "+91 88810 80878",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "CC Rd, Deoria Khaas, Uma Nagar, Deoria, Uttar Pradesh 274001",
+    "area": "Deoria Khaas, Uma Nagar",
+    "latitude": 26.5058179,
+    "longitude": 83.77346829999999,
+    "place_id": "ChIJNxYiqMzFkzkR-5Z0FbgaWx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNxYiqMzFkzkR-5Z0FbgaWx0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:26:56"
+  },
+  {
+    "business_name": "आयुष भोजनालय",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "274204",
+    "phone_number": "+91 81728 31010",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CJW5+MM8, Khajuha Chauraha - Bus Station Rd, Rudrapur, Uttar Pradesh 274204",
+    "area": "274204",
+    "latitude": 26.446651799999998,
+    "longitude": 83.60920569999999,
+    "place_id": "ChIJIxRR6evXkzkRDHruU9mcLQI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIxRR6evXkzkRDHruU9mcLQI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:26:57"
+  }
+]

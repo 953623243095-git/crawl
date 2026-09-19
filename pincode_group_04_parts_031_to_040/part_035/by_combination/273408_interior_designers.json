@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Home Interior",
+    "search_category": "Interior Designers",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "273408",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Masjid, Karim Nagar, Chargawa,, Gorakhpur, Uttar Pradesh 273007",
+    "area": "Karim Nagar, Chargawa,",
+    "latitude": 26.8075281,
+    "longitude": 83.3819542,
+    "place_id": "ChIJ7yyllzhFkTkRigMdZjUisR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7yyllzhFkTkRigMdZjUisR0",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:08:17"
+  },
+  {
+    "business_name": "Home interior",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Contractor",
+    "pincode": "273408",
+    "phone_number": "+91 80815 82657",
+    "website": "https://home-interior.org/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "11, New Project Rd, near Laxmi Market, Sainik Kunj, Nanda Nagar, Gorakhpur, Uttar Pradesh 273008",
+    "area": "Sainik Kunj, Nanda Nagar",
+    "latitude": 26.7507412,
+    "longitude": 83.4322287,
+    "place_id": "ChIJq7vVnU5bkTkR_2156f2IqBc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq7vVnU5bkTkR_2156f2IqBc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:08:17"
+  }
+]

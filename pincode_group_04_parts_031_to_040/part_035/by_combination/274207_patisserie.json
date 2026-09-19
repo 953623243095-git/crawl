@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mukesh Flawer And Fast Food",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "274207",
+    "phone_number": "+91 81467 90525",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "01, Barsaini Rd, Ramudiha, Kaithawalia, Uttar Pradesh 273002",
+    "area": "274207",
+    "latitude": 26.739731499999998,
+    "longitude": 83.5838268,
+    "place_id": "ChIJZVKpkgdfkTkR8iEtsZIrAaI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZVKpkgdfkTkR8iEtsZIrAaI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:32:03"
+  },
+  {
+    "business_name": "Dipak Kumar Kirana Store",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "274207",
+    "phone_number": "+91 91258 94268",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop 10, Pawta, Rampur, Rampur Patwa, Uttar Pradesh 274203",
+    "area": "274207",
+    "latitude": 26.7790967,
+    "longitude": 83.75453159999999,
+    "place_id": "ChIJCW3BaxPlkzkRKrPcp0Z97xk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCW3BaxPlkzkRKrPcp0Z97xk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:32:03"
+  }
+]

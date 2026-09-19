@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohit Dialysis Center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center, Nephrologist",
+    "pincode": "274302",
+    "phone_number": "+91 78303 82000",
+    "website": "http://www.panaceahospitals.com/",
+    "rating": 4.9,
+    "reviews_count": 36,
+    "address": "197, Haridwar Rd, near Swami Dayanand Saraswati Setu, Danda Dharampur, Dharampur, Dehradun, Uttarakhand 248001",
+    "area": "Danda Dharampur, Dharampur",
+    "latitude": 30.2963252,
+    "longitude": 78.0557838,
+    "place_id": "ChIJqxpniXcpCTkRYTYn6aKXqug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqxpniXcpCTkRYTYn6aKXqug",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:37:25"
+  },
+  {
+    "business_name": "Renephocare Dialysis center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "274302",
+    "phone_number": "+91 82101 90145",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Asia hospital, Agam Kuan, near amit suzuki dhanki more, Patna, Bihar 800007",
+    "area": "Biscomaun Colony, Sarp Extension Colony",
+    "latitude": 25.605208299999997,
+    "longitude": 85.1935618,
+    "place_id": "ChIJ_W_aex9f7TkRQhf8b806UWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_W_aex9f7TkRQhf8b806UWA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:37:25"
+  }
+]

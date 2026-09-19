@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta fruits company",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Fruit and vegetable wholesaler",
+    "all_categories": "Fruit and vegetable wholesaler",
+    "pincode": "274201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "bus station, Pathar Deva, Raghav Nagar, Deoria, Uttar Pradesh 274001",
+    "area": "Pathar Deva, Raghav Nagar",
+    "latitude": 26.5023679,
+    "longitude": 83.7792197,
+    "place_id": "ChIJSxuIfDvFkzkR7lvVJ-kkkuE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSxuIfDvFkzkR7lvVJ-kkkuE",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:21:35"
+  },
+  {
+    "business_name": "Mighty Mega Mart",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "274201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Main road, Deoria Hata Road, Haraia Basantpur, Uttar Pradesh 274201",
+    "area": "274201",
+    "latitude": 26.6519263,
+    "longitude": 83.765524,
+    "place_id": "ChIJHzC-U2HDkzkRFTvSTUxjFfk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHzC-U2HDkzkRFTvSTUxjFfk",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:21:36"
+  }
+]

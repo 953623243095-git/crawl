@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Romania Spa",
+    "search_category": "Spa Consultants",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa, Spa",
+    "pincode": "273403",
+    "phone_number": "+91 73909 12869",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "B6 1st floor, sector 22, Gida, opposite canara bank, Sahjanwa, Uttar Pradesh 273209",
+    "area": "273403",
+    "latitude": 26.7537849,
+    "longitude": 83.213527,
+    "place_id": "ChIJt7J5c645kTkRcfXQMlojGmA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt7J5c645kTkRcfXQMlojGmA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 05:59:23"
+  },
+  {
+    "business_name": "Bansgaon, Uttar Pradesh 273403",
+    "search_category": "Spa Consultants",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "273403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bansgaon, Uttar Pradesh",
+    "area": "273403",
+    "latitude": 26.5346539,
+    "longitude": 83.3254958,
+    "place_id": "ChIJv0xT3A9skTkRh3KX0ixcY90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv0xT3A9skTkRh3KX0ixcY90",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 05:59:23"
+  }
+]

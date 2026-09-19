@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pet's Heaven",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "274304",
+    "phone_number": "+91 76549 97756",
+    "website": "https://petsheaven.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "In front of fresh Go mart end of flyover, manuwapul road, Chawani, Bettiah, Bihar 845438",
+    "area": "Chawani",
+    "latitude": 26.8176472,
+    "longitude": 84.4993107,
+    "place_id": "ChIJ92p5jSpvkzkRChbjHEc1RpA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ92p5jSpvkzkRChbjHEc1RpA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:40:27"
+  },
+  {
+    "business_name": "GUDIYA AQUARIUM & PET SHOP",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Aquarium shop",
+    "all_categories": "Aquarium shop",
+    "pincode": "274304",
+    "phone_number": "+91 82717 79858",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Balther - Sikta Rd, Narkatiaganj, Bihar 845455",
+    "area": "274304",
+    "latitude": 27.1120254,
+    "longitude": 84.46908119999999,
+    "place_id": "ChIJs9yHcVadlDkRgMMVVJEMYNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs9yHcVadlDkRgMMVVJEMYNM",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:40:27"
+  }
+]

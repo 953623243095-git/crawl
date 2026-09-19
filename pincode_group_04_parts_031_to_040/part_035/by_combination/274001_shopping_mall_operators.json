@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion Family Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Supermarket",
+    "pincode": "274001",
+    "phone_number": "+91 76519 19382",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 14,
+    "address": "Deoria - Barhaj Rd, Barhaj, Goura, Uttar Pradesh 274601",
+    "area": "274001",
+    "latitude": 26.2829023,
+    "longitude": 83.7226032,
+    "place_id": "ChIJdTelcPTTkzkRc3s10BFNdqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdTelcPTTkzkRc3s10BFNdqA",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:18:04"
+  },
+  {
+    "business_name": "MI Service Center Deoria",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop, Repair service",
+    "pincode": "274001",
+    "phone_number": "+91 91709 99338",
+    "website": "https://www.mi.com/in/service/repair/",
+    "rating": 3.8,
+    "reviews_count": 429,
+    "address": "Hydel Colony, Bhatwaliya, Deoria, Uttar Pradesh 274001",
+    "area": "Hydel Colony, Bhatwaliya",
+    "latitude": 26.487732299999998,
+    "longitude": 83.7800139,
+    "place_id": "ChIJz6SzupDFkzkRgW0IV0BWh44",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz6SzupDFkzkRgW0IV0BWh44",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:18:06"
+  }
+]

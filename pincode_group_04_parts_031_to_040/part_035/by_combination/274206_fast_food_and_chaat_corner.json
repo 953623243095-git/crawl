@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaat Xpress",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "274206",
+    "phone_number": "+91 79068 70260",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 23,
+    "address": "1, Trans Yamuna Colony, Agra, Uttar Pradesh 282006",
+    "area": "Trans Yamuna Colony",
+    "latitude": 27.205655999999998,
+    "longitude": 78.04864239999999,
+    "place_id": "ChIJtSi8HapxdDkRzo7rn0fKiyI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtSi8HapxdDkRzo7rn0fKiyI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:30:23"
+  },
+  {
+    "business_name": "Pawa Fast Food Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "274206",
+    "phone_number": "+91 91402 63096",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Nauka Vihar, Sathiyaw, Fazilnagar, Uttar Pradesh 274401",
+    "area": "Sathiyaw",
+    "latitude": 26.676885499999997,
+    "longitude": 84.043998,
+    "place_id": "ChIJ9cheDKSXkzkR2HldC5Y_frI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9cheDKSXkzkR2HldC5Y_frI",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:30:24"
+  }
+]

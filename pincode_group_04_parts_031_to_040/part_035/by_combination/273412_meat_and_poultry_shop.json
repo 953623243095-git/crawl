@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fresh Farms",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "273412",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QC22+9M6, Mohaddipur, Gorakhpur, Uttar Pradesh 273008",
+    "area": "Mohaddipur",
+    "latitude": 26.750924899999998,
+    "longitude": 83.4016558,
+    "place_id": "ChIJ____P71EkTkRtuhkhUrS9xY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____P71EkTkRtuhkhUrS9xY",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:12:46"
+  },
+  {
+    "business_name": "AK general store",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "273412",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Machharihwa, Deoria, Laxmipur, Uttar Pradesh 274204",
+    "area": "Machharihwa",
+    "latitude": 26.504391899999998,
+    "longitude": 83.642372,
+    "place_id": "ChIJnf_RX5fZkzkRac7Fyi578Vc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnf_RX5fZkzkRac7Fyi578Vc",
+    "part_id": "part_035",
+    "crawled_at": "2026-09-19 06:12:48"
+  }
+]
