@@ -862,5 +862,29 @@
     "part_id": "part_400",
     "crawled_at": "2026-09-20 20:43:33",
     "s_no": 46984
+  },
+  {
+    "business_name": "myTVS",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "855107",
+    "circle": "Bihar Circle",
+    "region": "East Region, Bhagalpur",
+    "division": "Divisional Office Katihar",
+    "major_offices": "Kishanganj SO, ALTAHAT BO, ASJA BO",
+    "phone_number": "+91 70047 44875",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Taj Automobiles & Services, Four Wheeler Services Lahara Chowk, Kanki Paschim Pally - Bararo Aasza Rd, Kishanganj, Bihar 855107",
+    "area": "855107",
+    "latitude": 26.0015115,
+    "longitude": 87.8485226,
+    "place_id": "ChIJKRmnOMNB5TkRa-EVn8PUC5I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKRmnOMNB5TkRa-EVn8PUC5I",
+    "part_id": "part_400",
+    "crawled_at": "2026-09-20 20:47:21",
+    "s_no": 54394
   }
 ]
